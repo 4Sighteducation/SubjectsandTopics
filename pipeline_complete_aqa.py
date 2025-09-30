@@ -96,14 +96,12 @@ def process_all_aqa_subjects(qualification_filter=None, subject_filter=None,
         logger.info("-" * 80)
         
         try:
-            # Step 1: Get metadata from PDF (using AI)
-            logger.info("Step 1: Extracting specification metadata...")
-            metadata_result = process_spec_metadata(
-                subject, spec_extractor, uploader, upload
-            )
+            # SKIP Step 1 for now - web scraping is faster and works well
+            # Can add PDF/AI extraction later for subjects that need it
+            metadata_result = True
             
-            # Step 2: Get detailed content from web (no AI!)
-            logger.info("Step 2: Scraping detailed content from website...")
+            # Step 1: Get detailed content from web (no AI needed!)
+            logger.info("Scraping detailed content from website...")
             content_result = process_web_content(
                 subject, web_scraper, uploader, upload
             )
@@ -145,71 +143,82 @@ def process_spec_metadata(subject, spec_extractor, uploader, upload):
     logger = setup_logger('INFO', None)
     
     try:
-        # We need the PDF URL - get from AQAScraperEnhanced SPEC_URLS
-        from scrapers.uk.aqa_scraper_enhanced import AQAScraperEnhanced
+        # Build specification page URL from subject info
+        # Pattern: /subjects/{slug}/{qual}/{slug}-{code}/specification
+        subject_slug = subject['slug']
+        qual_slug = 'a-level' if subject['qualification'] == 'A-LEVEL' else 'gcse'
+        code = subject['code']
         
-        # Build key for lookup
-        qual_key = subject['name']
-        exam_type = 'A-Level' if subject['qualification'] == 'A-LEVEL' else 'GCSE'
+        spec_page_url = f"https://www.aqa.org.uk/subjects/{subject_slug}/{qual_slug}/{subject_slug}-{code}/specification"
         
-        spec_url_key = (qual_key, exam_type)
+        logger.info(f"  Step 1a: Finding PDF from: {spec_page_url}")
         
-        # Check if we have direct URL
-        if spec_url_key in AQAScraperEnhanced.SPEC_URLS:
-            pdf_url = AQAScraperEnhanced.SPEC_URLS[spec_url_key]
+        # Scrape the spec page to find PDF link
+        import requests
+        from bs4 import BeautifulSoup
+        import re
+        from urllib.parse import urljoin
+        
+        response = requests.get(spec_page_url, timeout=30)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'lxml')
             
-            logger.info(f"  Step 1a: Downloading specification PDF...")
-            
-            # Download PDF
-            import os
-            from utils.helpers import ensure_directory, sanitize_filename
-            import requests
-            
-            filename = f"{sanitize_filename(qual_key)}_{sanitize_filename(exam_type)}_spec.pdf"
-            output_dir = os.path.join("data", "raw", "AQA", "specifications")
-            ensure_directory(output_dir)
-            filepath = os.path.join(output_dir, filename)
-            
-            if not os.path.exists(filepath):
-                session = requests.Session()
-                response = session.get(pdf_url, stream=True, timeout=60)
-                response.raise_for_status()
+            # Find PDF link
+            pdf_link = soup.find('a', href=re.compile(r'\.pdf$', re.I))
+            if pdf_link:
+                pdf_url = urljoin('https://www.aqa.org.uk', pdf_link['href'])
                 
-                with open(filepath, 'wb') as f:
-                    for chunk in response.iter_content(chunk_size=8192):
-                        f.write(chunk)
+                logger.info(f"  Step 1b: Downloading PDF: {pdf_url}")
                 
-                logger.info(f"  Downloaded PDF to: {filepath}")
-            else:
-                logger.info(f"  PDF already downloaded: {filepath}")
-            
-            # Extract with AI
-            logger.info(f"  Step 1b: Extracting metadata with AI...")
-            
-            complete_data = spec_extractor.extract_complete_specification(
-                pdf_path=filepath,
-                subject=qual_key,
-                exam_board='AQA',
-                qualification=exam_type
-            )
-            
-            # Add context
-            complete_data['exam_board'] = 'AQA'
-            complete_data['subject'] = qual_key
-            complete_data['qualification'] = exam_type
-            
-            # Upload if enabled
-            if upload and uploader and complete_data:
-                logger.info(f"  Step 1c: Uploading metadata to Supabase...")
-                upload_results = uploader.upload_specification_complete(complete_data)
-                logger.info(f"    Metadata uploaded: {upload_results.get('metadata_id')}")
-                logger.info(f"    Components: {upload_results.get('components')}")
-                logger.info(f"    Constraints: {upload_results.get('constraints')}")
+                # Download PDF
+                import os
+                from utils.helpers import ensure_directory, sanitize_filename
+                
+                filename = f"{sanitize_filename(subject['name'])}_{qual_slug}_spec.pdf"
+                output_dir = os.path.join("data", "raw", "AQA", "specifications")
+                ensure_directory(output_dir)
+                filepath = os.path.join(output_dir, filename)
+                
+                if not os.path.exists(filepath):
+                    pdf_response = requests.get(pdf_url, stream=True, timeout=60)
+                    pdf_response.raise_for_status()
+                    
+                    with open(filepath, 'wb') as f:
+                        for chunk in pdf_response.iter_content(chunk_size=8192):
+                            f.write(chunk)
+                    
+                    logger.info(f"  Downloaded PDF")
+                else:
+                    logger.info(f"  PDF already exists")
+                
+                # Extract with AI
+                logger.info(f"  Step 1c: Extracting metadata with AI...")
+                
+                complete_data = spec_extractor.extract_complete_specification(
+                    pdf_path=filepath,
+                    subject=subject['name'],
+                    exam_board='AQA',
+                    qualification='A-Level' if subject['qualification'] == 'A-LEVEL' else 'GCSE'
+                )
+                
+                # Add context
+                complete_data['exam_board'] = 'AQA'
+                complete_data['subject'] = subject['name']
+                complete_data['qualification'] = subject['qualification']
+                
+                # Upload if enabled
+                if upload and uploader and complete_data:
+                    logger.info(f"  Step 1d: Uploading metadata to Supabase...")
+                    upload_results = uploader.upload_specification_complete(complete_data)
+                    logger.info(f"    Uploaded! Metadata ID: {upload_results.get('metadata_id')}")
+                    return True
+                
                 return True
-            
-            return True
+            else:
+                logger.warning(f"  No PDF link found on page")
+                return False
         else:
-            logger.warning(f"  No PDF URL for {qual_key} - skipping metadata extraction")
+            logger.warning(f"  Could not load spec page (HTTP {response.status_code})")
             return False
             
     except Exception as e:

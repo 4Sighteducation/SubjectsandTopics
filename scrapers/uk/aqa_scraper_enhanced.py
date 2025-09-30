@@ -30,11 +30,12 @@ class AQAScraperEnhanced(BaseScraper):
     """
     
     # Direct specification PDF URLs for AQA subjects
-    # Note: AQA now uses CDN (sanity.io) for PDF storage
-    SPEC_URLS = {
-        ('History', 'A-Level'): 'https://cdn.sanity.io/files/p28bar15/green/2c896bdee6a0bd2c11452368cac03109175832d3.pdf',
-        ('Mathematics', 'A-Level'): 'https://filestore.aqa.org.uk/resources/mathematics/specifications/AQA-7357-SP-2017.PDF',
-        ('Biology', 'A-Level'): 'https://filestore.aqa.org.uk/resources/biology/specifications/AQA-7402-SP-2015.PDF',
+    # Note: AQA moved to CDN (sanity.io) - need to extract PDF link from web page
+    # Better approach: Navigate to /specification page and find PDF link
+    SPEC_PAGE_URLS = {
+        ('History', 'A-Level'): 'https://www.aqa.org.uk/subjects/history/a-level/history-7042/specification',
+        ('Mathematics', 'A-Level'): 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification',
+        ('Biology', 'A-Level'): 'https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/specification',
         ('Chemistry', 'A-Level'): 'https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-7405-SP-2016.PDF',
         ('Physics', 'A-Level'): 'https://filestore.aqa.org.uk/resources/physics/specifications/AQA-7408-SP-2015.PDF',
         ('English Literature', 'A-Level'): 'https://filestore.aqa.org.uk/resources/english/specifications/AQA-7717-SP-2015.PDF',
