@@ -177,13 +177,37 @@ class OCRCompleteScraper(BaseScraper):
                             if 'must' in rule.lower() or 'one' in rule.lower():
                                 result['selection_rules'].append(rule)
         
-        # Extract unit groups and their topics
-        # Pattern: "Unit group 1", "Unit group 2", etc.
+        # Extract content - UNIVERSAL approach
+        # Look for ANY of: Unit group, Component, Module
+        # Each can have nested topics/bullet points
+        
+        # Patterns to detect
         unit_group_pattern = re.compile(r'Unit group (\d+)', re.I)
+        component_pattern = re.compile(r'Component (\d+)', re.I)
+        module_pattern = re.compile(r'Module (\d+)', re.I)
         
         for heading in soup.find_all(['h2', 'h3', 'h4']):
             text = heading.get_text().strip()
-            match = unit_group_pattern.search(text)
+            
+            # Try to match any pattern
+            match = None
+            content_type = None
+            
+            if unit_group_pattern.search(text):
+                match = unit_group_pattern.search(text)
+                content_type = 'unit_group'
+            elif component_pattern.search(text):
+                match = component_pattern.search(text)
+                content_type = 'component'
+            elif module_pattern.search(text):
+                match = module_pattern.search(text)
+                content_type = 'module'
+            
+            if not match:
+                continue
+            
+            # Universal extraction regardless of type
+            match = match
             
             if match:
                 group_num = match.group(1)
@@ -224,6 +248,60 @@ class OCRCompleteScraper(BaseScraper):
                 
                 if unit_info['topics']:  # Only add if we found topics
                     result['unit_groups'].append(unit_info)
+                continue
+            
+            # Try Component pattern (Psychology, Biology, etc.)
+            comp_match = component_pattern.search(text)
+            if comp_match:
+                comp_num = comp_match.group(1)
+                
+                logger.info(f"  Found Component {comp_num}")
+                
+                comp_info = {
+                    'component_number': comp_num,
+                    'component_title': text,
+                    'topics': []
+                }
+                
+                # Extract nested content under this component
+                # Look for bullet points and nested headings
+                next_elem = heading.find_next_sibling()
+                
+                while next_elem and next_elem.name not in ['h2', 'h3']:
+                    # Extract from lists
+                    if next_elem.name == 'ul':
+                        for li in next_elem.find_all('li', recursive=False):
+                            topic_text = li.get_text().strip()
+                            if topic_text and len(topic_text) > 10:
+                                topic_data = {
+                                    'topic_name': topic_text,
+                                    'component': comp_num,
+                                    'is_required': True,  # Components are usually all required
+                                    'raw_text': topic_text
+                                }
+                                comp_info['topics'].append(topic_data)
+                                result['all_topics'].append(topic_data)
+                    
+                    # Or from nested h4/h5 headings
+                    elif next_elem.name in ['h4', 'h5']:
+                        section_text = next_elem.get_text().strip()
+                        # Check if this is a topic or just a label
+                        if not any(skip in section_text.lower() for skip in ['compulsory', 'one from', 'overview']):
+                            topic_data = {
+                                'topic_name': section_text,
+                                'component': comp_num,
+                                'is_required': True,
+                                'raw_text': section_text
+                            }
+                            comp_info['topics'].append(topic_data)
+                            result['all_topics'].append(topic_data)
+                    
+                    next_elem = next_elem.find_next_sibling()
+                
+                logger.info(f"    Extracted {len(comp_info['topics'])} topics from component")
+                
+                if comp_info['topics']:
+                    result['unit_groups'].append(comp_info)  # Store in unit_groups for consistency
         
         logger.info(f"Total topics extracted: {len(result['all_topics'])}")
         

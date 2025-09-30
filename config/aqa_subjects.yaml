@@ -80,6 +80,37 @@ gcse:
   Statistics: "8382"
 
 # Subject name mapping (for URL construction)
+# Subject URL mapping - handles variants like Art and Design
+# Key: What we call it internally → Value: What AQA calls it in URLs
+subject_url_mapping:
+  Accounting: 
+    slug: "accounting"
+    code_in_url: true
+  Art_and_Design_Art_Craft:
+    slug: "art-and-design"
+    code_in_url: true
+    base_code: "7201"  # All Art variants use base code
+  Art_and_Design_Fine_Art:
+    slug: "art-and-design"
+    code_in_url: true
+    base_code: "7202"
+  Art_and_Design_Graphic:
+    slug: "art-and-design"
+    code_in_url: true
+    base_code: "7203"
+  Art_and_Design_Photography:
+    slug: "art-and-design"
+    code_in_url: true
+    base_code: "7206"
+  Art_and_Design_Textile:
+    slug: "art-and-design"
+    code_in_url: true
+    base_code: "7204"
+  Art_and_Design_3D:
+    slug: "art-and-design"
+    code_in_url: true
+    base_code: "7205"
+
 subject_names:
   Accounting: "accounting"
   Art_and_Design_Art_Craft: "art-and-design"

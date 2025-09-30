@@ -93,8 +93,17 @@ class AQAWebScraper(BaseScraper):
         }
     
     def _build_subject_content_url(self, subject: str, qualification: str, code: str) -> str:
-        """Build URL for subject content page."""
+        """
+        Build URL for subject content page.
+        Handles special cases like Art and Design variants.
+        """
+        # Default: use subject name as slug
         subject_slug = subject.lower().replace(' ', '-')
+        
+        # Handle Art and Design - all variants use "art-and-design"
+        if 'art-and-design' in subject_slug or 'art and design' in subject.lower():
+            subject_slug = "art-and-design"
+        
         qual_slug = qualification.lower().replace(' ', '-')
         
         return f"{self.base_url}/subjects/{subject_slug}/{qual_slug}/{subject_slug}-{code}/specification/subject-content"
