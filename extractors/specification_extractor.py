@@ -88,6 +88,12 @@ class SpecificationExtractor:
         logger.info("Extracting topic options...")
         results['options'] = self._extract_topic_options(full_text, subject, results['components'], exam_board, qualification)
         
+        # Add context to each option (for uploader)
+        for option in results.get('options', []):
+            option['exam_board'] = exam_board
+            option['subject'] = subject  
+            option['qualification'] = qualification
+        
         # 5. Vocabulary
         logger.info("Extracting subject vocabulary...")
         results['vocabulary'] = self._extract_vocabulary(full_text, subject)

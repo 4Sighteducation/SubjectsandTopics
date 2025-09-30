@@ -1,0 +1,274 @@
+{
+  "subject": "Accounting",
+  "qualification": "A-Level",
+  "code": "7127",
+  "pattern_type": "numbered_sections",
+  "content_items": [
+    {
+      "code": "3.0",
+      "title": "Subject content",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.1",
+      "title": "An introduction to the role of the accountant in business",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/an-introduction-to-the-role-of-the-accountant-in-business",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.2",
+      "title": "Types of business organisation",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/types-of-business-organisation",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.3",
+      "title": "The double entry model",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/the-double-entry-model",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.4",
+      "title": "Verification of accounting records",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/verification-of-accounting-records",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.5",
+      "title": "Accounting concepts used in the preparation of accounting records",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/accounting-concepts-used-in-the-preparation-of-accounting-records",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.6",
+      "title": "Preparation of financial statements of sole traders",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/preparation-of-financial-statements-of-sole-traders",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.7",
+      "title": "Limited company accounts",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/limited-company-accounts",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.8",
+      "title": "Analysis and evaluation of financial information",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/analysis-and-evaluation-of-financial-information",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.9",
+      "title": "Budgeting",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/budgeting",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.10",
+      "title": "Marginal costing",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/marginal-costing",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.11",
+      "title": "Standard costing and variance analysis",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/standard-costing-and-variance-analysis",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.12",
+      "title": "Absorption and activity based costing",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/absorption-and-activity-based-costing",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.13",
+      "title": "Capital investment appraisal",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/capital-investment-appraisal",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.14",
+      "title": "Accounting for organisations with incomplete records",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/accounting-for-organisations-with-incomplete-records",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.15",
+      "title": "Partnership accounts",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/partnership-accounts",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.16",
+      "title": "Accounting for limited companies",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/accounting-for-limited-companies",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.17",
+      "title": "Interpretation, analysis and communication of accounting information",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/interpretation-analysis-and-communication-of-accounting-information",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.18",
+      "title": "The impact of ethical considerations",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/the-impact-of-ethical-considerations",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.1",
+      "title": "An introduction to the role of the accountant in business",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/an-introduction-to-the-role-of-the-accountant-in-business",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.2",
+      "title": "Types of business organisation",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/types-of-business-organisation",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.3",
+      "title": "The double entry model",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/the-double-entry-model",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.4",
+      "title": "Verification of accounting records",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/verification-of-accounting-records",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.5",
+      "title": "Accounting concepts used in the preparation of accounting records",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/accounting-concepts-used-in-the-preparation-of-accounting-records",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.6",
+      "title": "Preparation of financial statements of sole traders",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/preparation-of-financial-statements-of-sole-traders",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.7",
+      "title": "Limited company accounts",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/limited-company-accounts",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.8",
+      "title": "Analysis and evaluation of financial information",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/analysis-and-evaluation-of-financial-information",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.9",
+      "title": "Budgeting",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/budgeting",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.10",
+      "title": "Marginal costing",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/marginal-costing",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.11",
+      "title": "Standard costing and variance analysis",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/standard-costing-and-variance-analysis",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.12",
+      "title": "Absorption and activity based costing",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/absorption-and-activity-based-costing",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.13",
+      "title": "Capital investment appraisal",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/capital-investment-appraisal",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.14",
+      "title": "Accounting for organisations with incomplete records",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/accounting-for-organisations-with-incomplete-records",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.15",
+      "title": "Partnership accounts",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/partnership-accounts",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.16",
+      "title": "Accounting for limited companies",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/accounting-for-limited-companies",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.17",
+      "title": "Interpretation, analysis and communication of accounting information",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/interpretation-analysis-and-communication-of-accounting-information",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.18",
+      "title": "The impact of ethical considerations",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/the-impact-of-ethical-considerations",
+      "key_questions": [],
+      "study_areas": []
+    },
+    {
+      "code": "3.1",
+      "title": "An introduction to the role of the accountant in business",
+      "url": "https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content/an-introduction-to-the-role-of-the-accountant-in-business",
+      "key_questions": [],
+      "study_areas": []
+    }
+  ]
+}

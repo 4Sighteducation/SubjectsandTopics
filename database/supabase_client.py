@@ -199,9 +199,10 @@ class SupabaseUploader:
         first_option = options[0]
         exam_board = first_option.get('exam_board', 'AQA')
         subject = first_option.get('subject', 'Unknown')
+        qualification = first_option.get('qualification', 'A-Level')
         
         # Find the exam_board_subject record
-        exam_board_subject_id = self._get_or_create_exam_board_subject(exam_board, subject)
+        exam_board_subject_id = self._get_or_create_exam_board_subject(exam_board, subject, qualification)
         
         if not exam_board_subject_id:
             logger.error(f"Could not find/create exam_board_subject for {exam_board} {subject}")
@@ -265,19 +266,37 @@ class SupabaseUploader:
             except Exception as e:
                 logger.error(f"Failed to upload subtopic: {e}")
     
-    def _upload_vocabulary(self, spec_id: str, vocabulary: List[Dict]) -> int:
+    def _upload_vocabulary(self, spec_id: str, vocabulary: List) -> int:
         """Upload subject vocabulary."""
         count = 0
         
+        if not vocabulary:
+            return 0
+        
         for term_data in vocabulary:
             try:
-                self.client.table('subject_vocabulary').insert({
-                    'spec_metadata_id': spec_id,
-                    'term': term_data.get('term'),
-                    'definition': term_data.get('definition'),
-                    'category': term_data.get('category'),
-                    'importance': term_data.get('importance', 'medium')
-                }).execute()
+                # Handle both dict and string formats
+                if isinstance(term_data, str):
+                    # Simple string format
+                    self.client.table('subject_vocabulary').insert({
+                        'spec_metadata_id': spec_id,
+                        'term': term_data,
+                        'category': 'general',
+                        'importance': 'medium'
+                    }).execute()
+                elif isinstance(term_data, dict):
+                    # Dict format with details
+                    self.client.table('subject_vocabulary').insert({
+                        'spec_metadata_id': spec_id,
+                        'term': term_data.get('term'),
+                        'definition': term_data.get('definition'),
+                        'category': term_data.get('category', 'general'),
+                        'importance': term_data.get('importance', 'medium')
+                    }).execute()
+                else:
+                    logger.warning(f"Unknown vocabulary format: {type(term_data)}")
+                    continue
+                    
                 count += 1
                 
             except Exception as e:
@@ -332,24 +351,44 @@ class SupabaseUploader:
             'is_active': True
         }
     
-    def _get_or_create_exam_board_subject(self, exam_board: str, subject: str) -> Optional[str]:
+    def _get_or_create_exam_board_subject(self, exam_board: str, subject: str, qualification: str = 'A-Level') -> Optional[str]:
         """
         Find or create exam_board_subject record and return its ID.
         This is needed because curriculum_topics uses exam_board_subject_id foreign key.
         """
         try:
-            # First, try to find existing record
+            # First, get the exam_board_id
+            board_result = self.client.table('exam_boards').select('id').eq('code', exam_board).execute()
+            if not board_result.data:
+                logger.error(f"Exam board {exam_board} not found in database")
+                return None
+            
+            exam_board_id = board_result.data[0]['id']
+            
+            # Get the qualification_type_id
+            qual_code = qualification.upper().replace('-', '_')  # A-Level → A_LEVEL
+            qual_result = self.client.table('qualification_types').select('id').eq('code', qual_code).execute()
+            if not qual_result.data:
+                logger.error(f"Qualification type {qualification} not found")
+                return None
+            
+            qualification_type_id = qual_result.data[0]['id']
+            
+            # Now find the exam_board_subject with BOTH IDs
             result = self.client.table('exam_board_subjects').select('id').eq(
                 'subject_name', subject
+            ).eq(
+                'exam_board_id', exam_board_id
+            ).eq(
+                'qualification_type_id', qualification_type_id
             ).execute()
             
             if result.data and len(result.data) > 0:
-                logger.info(f"Found existing exam_board_subject for {exam_board} {subject}")
-                return result.data[0]['id']
+                subject_id = result.data[0]['id']
+                logger.info(f"Found exam_board_subject ID for {exam_board} {subject} {qualification}: {subject_id}")
+                return subject_id
             
-            # If not found, we should create it, but for now just log
-            logger.warning(f"No exam_board_subject found for {exam_board} {subject} - topics won't upload")
-            logger.info("You may need to create exam_board_subject records first")
+            logger.warning(f"No exam_board_subject found for {exam_board} {subject} {qualification}")
             return None
             
         except Exception as e:
