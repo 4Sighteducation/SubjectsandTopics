@@ -1,90 +1,85 @@
-# SubjectsandTopics
+# FLASH Curriculum Pipeline v2
 
-A tool for generating and managing standardized curriculum topic lists for various exam boards, exam types, and subjects.
+Intelligent curriculum content scraper for FLASH educational app. Extracts comprehensive topic data from UK and international exam boards with AI-assisted analysis.
 
-## Overview
+## Features
 
-SubjectsandTopics is designed to solve the problem of obtaining comprehensive, structured curriculum topic lists for use in educational applications. It generates these lists via the Anthropic AI API (Claude) and organizes them for easy import into databases like Knack.
+- 🌍 **Comprehensive Coverage**: UK exam boards (AQA, Edexcel, OCR, WJEC, SQA, CCEA) + International (Cambridge, IB)
+- 🤖 **AI-Enhanced Extraction**: Uses Claude & Gemini to extract specification structure, constraints, and detailed topics
+- 📊 **Rich Metadata**: Captures component structure, selection rules, assessment context
+- 🔄 **Automated Updates**: GitHub Actions runs every 6 months
+- 💾 **Direct Supabase Integration**: Batch uploads with deduplication
+- 🎯 **Context-Aware**: Understands how students actually select and study topics
 
-Key features:
-- Generate topic lists for any exam board, type, and subject combination
-- Use Anthropic's Claude AI model for accurate curriculum extraction
-- Export in JSON or CSV format for database import
-- Assign unique identifiers to collections and individual topics
-- Provide a simple web interface for topic management
+## What Makes This v2
 
-## Getting Started
+**v1 (Node.js - archived):** Simple AI topic generation  
+**v2 (Python):** Comprehensive scraping + enhanced AI extraction with specification metadata
 
-### Prerequisites
+## Quick Start
 
-- Node.js (v14 or higher)
-- OpenRouter API key (for Anthropic Claude access)
-
-### Installation
-
-1. Clone this repository:
 ```bash
-git clone https://github.com/4Sighteducation/SubjectsandTopics.git
-cd SubjectsandTopics
-```
+# Install dependencies
+pip install -r requirements.txt
 
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Create an `.env` file based on the example:
-```bash
+# Configure environment
 cp .env.example .env
+# Edit .env with your credentials
+
+# Test with single subject
+python scripts/test_single_subject.py --board AQA --subject History --qualification a-level
+
+# Run full pipeline
+python pipeline.py
 ```
 
-4. Add your OpenRouter API key to the `.env` file:
+## Architecture
+
 ```
-OPENROUTER_API_KEY=your_api_key_here
+Scrapers → AI Extractors → Processors → Supabase
+   ↓           ↓              ↓            ↓
+  PDFs    Metadata        Normalize    Batch
+  HTML    Constraints     Dedupe       Upsert
+         Topics          Validate
 ```
 
-5. Start the application:
-```bash
-npm start
-```
+## What Gets Extracted
 
-## Usage
+For each subject:
+1. **Specification Metadata** - Overview, assessment structure
+2. **Component Structure** - How course is organized (e.g., Component 1, 2, 3)
+3. **Selection Constraints** - Rules students must follow
+4. **Topic Options** - Choosable topics with metadata (periods, regions, themes)
+5. **Detailed Subtopics** - Granular content for each option
+6. **Assessment Context** - Question types, mark schemes, focus areas
+7. **Subject Vocabulary** - Key terms and concepts
 
-1. Open your browser to `http://localhost:3000`
-2. Select an exam board, exam type, and subject
-3. Click "Generate Topics"
-4. Review the generated topics
-5. Export to JSON or CSV
+## Example: History A-Level
 
-## Data Format
+Extracts structure showing students must:
+- Choose 1 from Component 1 (11 Breadth Studies)
+- Choose 1 from Component 2 (20 Depth Studies)
+- Include 1 British + 1 non-British option
+- Avoid prohibited combinations
+- Cover 200+ year chronological span
 
-Topics are structured as follows:
+## Timeline
 
-```json
-{
-  "id": "aqa-alevel-physics-2025-01",
-  "examBoard": "AQA",
-  "examType": "A-Level",
-  "subject": "Physics",
-  "version": "2025.1",
-  "topics": [
-    {
-      "id": "1.1",
-      "uuid": "t-aqa-alev-phy-1-1-abc123",
-      "topic": "Mechanics: Forces and Motion",
-      "mainTopic": "Mechanics",
-      "subtopic": "Forces and Motion"
-    },
-    // more topics...
-  ]
-}
-```
+- **Weeks 1-2:** UK boards with Supabase integration
+- **Weeks 3-4:** Automation & quality assurance
+- **Weeks 5-8:** International expansion (Cambridge, IB, Edexcel International)
+
+## Documentation
+
+- `docs/ARCHITECTURE.md` - System design
+- `docs/SCRAPER_GUIDE.md` - How scrapers work
+- `docs/AI_PROMPTS.md` - Extraction strategies
+- `ENHANCED-SCRAPER-DESIGN.md` - Specification constraints approach
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Copyright © 2025 4Sight Education Ltd. All rights reserved.
 
-## Acknowledgments
+---
 
-- Built for VESPA Flashcards
-- Uses Anthropic's Claude AI model via OpenRouter
+**Previous Version:** See `archive/nodejs-version` branch for the original Node.js implementation

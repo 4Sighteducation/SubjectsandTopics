@@ -1,0 +1,30 @@
+# Core libraries
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+selenium>=4.1.0
+pandas>=1.4.0
+python-dotenv>=0.20.0
+PyPDF2>=3.0.0
+tqdm>=4.64.0  # For progress bars
+
+# Database - NEW
+supabase>=2.0.0  # Supabase Python client
+postgrest>=0.10.0  # PostgreSQL client
+
+# For better retries - NEW
+tenacity>=8.0.0  # Retry logic with exponential backoff
+
+# For image handling (if needed)
+Pillow>=9.1.0
+
+# Utility libraries
+lxml>=4.9.0  # For better HTML parsing
+html2text>=2020.1.16  # For converting HTML to plain text
+pyyaml>=6.0  # For YAML config files
+
+# AI integration
+anthropic>=0.18.0  # For Claude API (updated version)
+typing-extensions>=4.0.0  # For improved type hints
+
+# Monitoring - Optional
+streamlit>=1.20.0  # For monitoring dashboard (optional)
