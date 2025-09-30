@@ -101,42 +101,80 @@ class AQAWebScraper(BaseScraper):
     
     def _detect_pattern_and_get_links(self, soup: BeautifulSoup, base_url: str) -> Tuple[str, List[Tuple[str, str, str]]]:
         """
-        Detect if this subject uses Pattern A (3.1, 3.2) or Pattern B (1A, 1B).
+        Find all content links under "Subject content" section.
+        Robust to handle AQA's inconsistent numbering (3.x, 4.x, or any pattern).
         Returns: (pattern_type, [(code, title, url), ...])
         """
-        # Look for the navigation menu or content links
-        # Usually in a ul or nav element
-        
         content_links = []
         
-        # Find all links that look like subsections
-        all_links = soup.find_all('a', href=True)
+        # Find the "Subject content" section/heading
+        subject_content_heading = soup.find(string=re.compile(r'Subject content', re.I))
         
-        for link in all_links:
+        if subject_content_heading:
+            # Get the parent container (could be nav, ul, div, etc.)
+            container = subject_content_heading.find_parent(['nav', 'ul', 'div', 'section'])
+            
+            if container:
+                # Get all links within this container
+                section_links = container.find_all('a', href=True)
+            else:
+                # Fallback: get siblings after the heading
+                section_links = []
+                current = subject_content_heading.find_next_sibling()
+                while current and current.name not in ['h1', 'h2']:
+                    if current.name == 'a' and current.get('href'):
+                        section_links.append(current)
+                    elif current.name in ['ul', 'nav']:
+                        section_links.extend(current.find_all('a', href=True))
+                    current = current.find_next_sibling()
+        else:
+            # Fallback: look for all content-like links
+            section_links = soup.find_all('a', href=True)
+        
+        # Process the links we found
+        for link in section_links:
             text = link.get_text().strip()
             href = link.get('href')
             
-            # Pattern A: "3.1 Topic Name"
-            pattern_a_match = re.match(r'^(3\.\d+)\s+(.+)$', text)
-            if pattern_a_match:
-                code = pattern_a_match.group(1)
-                title = pattern_a_match.group(2)
+            if not text or len(text) < 2:
+                continue
+            
+            # Try to extract code and title from link text
+            # Pattern: "X.Y Title" or "XY Title" or just "Title"
+            
+            # Numbered pattern (3.1, 4.1, 4.2, etc.)
+            numbered_match = re.match(r'^(\d+\.\d+)\s+(.+)$', text)
+            if numbered_match:
+                code = numbered_match.group(1)
+                title = numbered_match.group(2)
                 url = urljoin(base_url, href)
                 content_links.append((code, title, url))
                 continue
             
-            # Pattern B: "1A Topic Name" or just "1A"
-            pattern_b_match = re.match(r'^([12][A-Z])\s*(.*)$', text)
-            if pattern_b_match:
-                code = pattern_b_match.group(1)
-                title = pattern_b_match.group(2) or link.get('title', '')
+            # Option code pattern (1A, 1B, 2A, 2B, etc.)
+            option_match = re.match(r'^([12][A-Z])\s*(.*)$', text)
+            if option_match:
+                code = option_match.group(1)
+                title = option_match.group(2) or link.get('title', '')
                 url = urljoin(base_url, href)
                 content_links.append((code, title, url))
+                continue
+            
+            # If link looks like subject content (contains subject-content in URL)
+            if 'subject-content' in href and text not in ['Subject content', 'Introduction']:
+                # Try to extract code from URL
+                url_match = re.search(r'/([^/]+)$', href)
+                if url_match:
+                    code = url_match.group(1).split('-')[0].upper()
+                    if len(code) <= 4:  # Reasonable code length
+                        url = urljoin(base_url, href)
+                        content_links.append((code, text, url))
         
         # Determine pattern type
         if content_links:
             first_code = content_links[0][0]
-            if first_code.startswith('3.'):
+            # Check if it's numbered (3.1, 4.1, etc.) or option codes (1A, 2B, etc.)
+            if re.match(r'^\d+\.\d+$', first_code):
                 pattern_type = 'numbered_sections'
             else:
                 pattern_type = 'option_codes'
