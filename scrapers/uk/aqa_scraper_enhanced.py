@@ -30,8 +30,9 @@ class AQAScraperEnhanced(BaseScraper):
     """
     
     # Direct specification PDF URLs for AQA subjects
+    # Note: AQA now uses CDN (sanity.io) for PDF storage
     SPEC_URLS = {
-        ('History', 'A-Level'): 'https://filestore.aqa.org.uk/resources/history/specifications/AQA-7042-SP-2015.PDF',
+        ('History', 'A-Level'): 'https://cdn.sanity.io/files/p28bar15/green/2c896bdee6a0bd2c11452368cac03109175832d3.pdf',
         ('Mathematics', 'A-Level'): 'https://filestore.aqa.org.uk/resources/mathematics/specifications/AQA-7357-SP-2017.PDF',
         ('Biology', 'A-Level'): 'https://filestore.aqa.org.uk/resources/biology/specifications/AQA-7402-SP-2015.PDF',
         ('Chemistry', 'A-Level'): 'https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-7405-SP-2016.PDF',
@@ -128,6 +129,11 @@ class AQAScraperEnhanced(BaseScraper):
             if not complete_data:
                 raise ValueError("AI extraction failed")
             
+            # Add root-level context for uploader
+            complete_data['exam_board'] = 'AQA'
+            complete_data['subject'] = subject
+            complete_data['qualification'] = exam_type
+            
             logger.info(f"✓ Extracted:")
             logger.info(f"  - Metadata: {bool(complete_data.get('metadata'))}")
             logger.info(f"  - Components: {len(complete_data.get('components', []))}")
@@ -169,7 +175,13 @@ class AQAScraperEnhanced(BaseScraper):
         # Check hardcoded URLs first
         key = (subject, exam_type)
         if key in self.SPEC_URLS:
-            return self.SPEC_URLS[key]
+            url = self.SPEC_URLS[key]
+            
+            # If it's a webpage (not PDF), extract PDF link from it
+            if not url.lower().endswith('.pdf'):
+                return self._extract_pdf_from_page(url)
+            
+            return url
         
         # Try to find dynamically from AQA website
         logger.info(f"No hardcoded URL for {subject} ({exam_type}), searching AQA website...")
@@ -203,6 +215,36 @@ class AQAScraperEnhanced(BaseScraper):
         logger.warning(f"Could not find specification PDF for {subject}")
         return None
     
+    def _extract_pdf_from_page(self, page_url: str) -> str:
+        """Extract PDF download link from a specification page."""
+        from bs4 import BeautifulSoup
+        
+        logger.info(f"Extracting PDF link from page: {page_url}")
+        
+        html = self._get_page(page_url, use_selenium=False)
+        if not html:
+            return None
+        
+        soup = BeautifulSoup(html, 'lxml')
+        
+        # Look for PDF download link
+        pdf_link = soup.find('a', href=re.compile(r'\.pdf$', re.I), string=re.compile(r'specification', re.I))
+        
+        if pdf_link:
+            pdf_url = urljoin(self.base_url, pdf_link['href'])
+            logger.info(f"Found PDF link: {pdf_url}")
+            return pdf_url
+        
+        # Try looking for any PDF link
+        pdf_links = soup.find_all('a', href=re.compile(r'\.pdf$', re.I))
+        if pdf_links:
+            pdf_url = urljoin(self.base_url, pdf_links[0]['href'])
+            logger.info(f"Found PDF link (generic): {pdf_url}")
+            return pdf_url
+        
+        logger.warning("No PDF link found on page")
+        return None
+    
     def _download_spec_pdf(self, url: str, subject: str, exam_type: str) -> str:
         """
         Download specification PDF.
@@ -231,7 +273,13 @@ class AQAScraperEnhanced(BaseScraper):
             import requests
             from tqdm import tqdm
             
-            response = requests.get(url, stream=True, timeout=60)
+            # Create a fresh session to avoid base_scraper's session issues
+            session = requests.Session()
+            session.headers.update({
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            })
+            
+            response = session.get(url, stream=True, timeout=60, allow_redirects=True)
             response.raise_for_status()
             
             total_size = int(response.headers.get('content-length', 0))
@@ -260,7 +308,15 @@ class AQAScraperEnhanced(BaseScraper):
         For enhanced extraction, use process_subject_complete() instead.
         """
         logger.warning("Using legacy scrape_topics method. Consider using process_subject_complete() for enhanced extraction.")
-        return super().scrape_topics(subject, exam_type)
+        return []
+    
+    def scrape_papers(self, subject=None, exam_type=None, year_from=2021):
+        """
+        Legacy method - not implemented in enhanced version.
+        Focus is on topic/specification extraction, not papers.
+        """
+        logger.warning("scrape_papers not implemented in enhanced scraper")
+        return []
 
 
 # Convenience function for single subject processing

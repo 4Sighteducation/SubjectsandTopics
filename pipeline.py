@@ -84,7 +84,7 @@ def main():
     if not args.no_upload:
         try:
             uploader = SupabaseUploader()
-            logger.info("✓ Supabase uploader initialized")
+            logger.info("Supabase uploader initialized")
         except Exception as e:
             logger.error(f"Failed to initialize Supabase: {e}")
             return 1

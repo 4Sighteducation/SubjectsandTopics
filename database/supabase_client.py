@@ -39,7 +39,13 @@ class SupabaseUploader:
         Upload complete specification data including metadata, components, constraints, and topics.
         
         Args:
-            complete_data: Complete package from enhanced scraper
+            complete_data: Complete package from enhanced scraper containing:
+                - metadata: subject info
+                - components: course structure  
+                - constraints: selection rules
+                - options: topic options
+                - vocabulary: key terms
+                Plus exam_board, subject, qualification at root level
             
         Returns:
             Dict with upload results
@@ -54,8 +60,18 @@ class SupabaseUploader:
         }
         
         try:
+            # Extract root-level context
+            exam_board = complete_data.get('exam_board', 'AQA')
+            subject = complete_data.get('subject', 'Unknown')
+            qualification = complete_data.get('qualification', 'A-Level')
+            
             # 1. Upload specification metadata
-            metadata_id = self._upload_metadata(complete_data['metadata'])
+            metadata_id = self._upload_metadata(
+                complete_data.get('metadata', {}),
+                exam_board,
+                subject,
+                qualification
+            )
             results['metadata_id'] = metadata_id
             
             # 2. Upload components
@@ -91,22 +107,29 @@ class SupabaseUploader:
         
         return results
     
-    def _upload_metadata(self, metadata: Dict) -> str:
+    def _upload_metadata(self, metadata: Dict, exam_board: str, subject: str, qualification: str) -> str:
         """Upload specification metadata, return ID."""
         try:
-            result = self.client.table('specification_metadata').upsert({
-                'exam_board': metadata.get('exam_board'),
-                'qualification_type': metadata.get('qualification'),
-                'subject_name': metadata.get('subject'),
-                'subject_code': metadata.get('code'),
+            # Map from extraction format to database format
+            data_to_insert = {
+                'exam_board': exam_board,
+                'qualification_type': qualification.lower().replace('-', '_'),
+                'subject_name': subject,
+                'subject_code': metadata.get('subject_code'),
                 'spec_version': metadata.get('spec_version'),
                 'subject_description': metadata.get('description'),
                 'total_guided_learning_hours': metadata.get('guided_learning_hours'),
                 'assessment_overview': metadata.get('assessment_overview'),
-                'specification_url': metadata.get('spec_url'),
-                'specification_pdf_url': metadata.get('pdf_url'),
-                'scraped_date': 'now()'
-            }, on_conflict='exam_board,qualification_type,subject_name').execute()
+                'specification_url': metadata.get('specification_url'),
+                'specification_pdf_url': metadata.get('specification_pdf_url')
+            }
+            
+            logger.info(f"Uploading metadata: {exam_board} {subject} {qualification}")
+            
+            result = self.client.table('specification_metadata').upsert(
+                data_to_insert,
+                on_conflict='exam_board,qualification_type,subject_name'
+            ).execute()
             
             if result.data:
                 logger.info(f"Uploaded metadata for {metadata.get('subject')}")
@@ -168,13 +191,27 @@ class SupabaseUploader:
         """Upload topic options with detailed subtopics."""
         count = 0
         
+        if not options:
+            logger.warning("No topic options to upload")
+            return 0
+        
+        # Get exam_board_subject_id first (required foreign key)
+        first_option = options[0]
+        exam_board = first_option.get('exam_board', 'AQA')
+        subject = first_option.get('subject', 'Unknown')
+        
+        # Find the exam_board_subject record
+        exam_board_subject_id = self._get_or_create_exam_board_subject(exam_board, subject)
+        
+        if not exam_board_subject_id:
+            logger.error(f"Could not find/create exam_board_subject for {exam_board} {subject}")
+            return 0
+        
         for option in options:
             try:
-                # Upload the main topic option
+                # Upload the main topic option using existing schema
                 result = self.client.table('curriculum_topics').upsert({
-                    'exam_board': option.get('exam_board'),
-                    'qualification_type': option.get('qualification'),
-                    'subject_name': option.get('subject'),
+                    'exam_board_subject_id': exam_board_subject_id,  # Use foreign key
                     'topic_code': option.get('code'),
                     'component_code': option.get('component_code'),
                     'topic_name': option.get('title'),
@@ -186,8 +223,9 @@ class SupabaseUploader:
                     'period_length_years': option.get('period_length'),
                     'geographical_region': option.get('region'),
                     'key_themes': option.get('key_themes', []),
-                    'page_reference': option.get('page_reference')
-                }, on_conflict='exam_board,qualification_type,subject_name,topic_code').execute()
+                    'page_reference': option.get('page_reference'),
+                    'description': option.get('title')  # Use title as description
+                }).execute()
                 
                 count += 1
                 
@@ -293,6 +331,30 @@ class SupabaseUploader:
             'topic_level': 2 if topic.get('Sub Topic') else 1,
             'is_active': True
         }
+    
+    def _get_or_create_exam_board_subject(self, exam_board: str, subject: str) -> Optional[str]:
+        """
+        Find or create exam_board_subject record and return its ID.
+        This is needed because curriculum_topics uses exam_board_subject_id foreign key.
+        """
+        try:
+            # First, try to find existing record
+            result = self.client.table('exam_board_subjects').select('id').eq(
+                'subject_name', subject
+            ).execute()
+            
+            if result.data and len(result.data) > 0:
+                logger.info(f"Found existing exam_board_subject for {exam_board} {subject}")
+                return result.data[0]['id']
+            
+            # If not found, we should create it, but for now just log
+            logger.warning(f"No exam_board_subject found for {exam_board} {subject} - topics won't upload")
+            logger.info("You may need to create exam_board_subject records first")
+            return None
+            
+        except Exception as e:
+            logger.error(f"Error finding exam_board_subject: {e}")
+            return None
     
     def _normalize_qualification(self, exam_type: str) -> str:
         """Normalize exam type to match database enum."""

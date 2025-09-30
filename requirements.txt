@@ -23,7 +23,8 @@ html2text>=2020.1.16  # For converting HTML to plain text
 pyyaml>=6.0  # For YAML config files
 
 # AI integration
-anthropic>=0.18.0  # For Claude API (updated version)
+anthropic>=0.40.0  # For Claude API (latest version for Python 3.13)
+httpx>=0.27.0  # Ensure compatible version
 typing-extensions>=4.0.0  # For improved type hints
 
 # Monitoring - Optional
