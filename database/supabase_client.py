@@ -211,7 +211,7 @@ class SupabaseUploader:
         for option in options:
             try:
                 # Upload the main topic option using existing schema
-                result = self.client.table('curriculum_topics').upsert({
+                result = self.client.table('curriculum_topics').insert({
                     'exam_board_subject_id': exam_board_subject_id,  # Use foreign key
                     'topic_code': option.get('code'),
                     'component_code': option.get('component_code'),
@@ -225,7 +225,13 @@ class SupabaseUploader:
                     'geographical_region': option.get('region'),
                     'key_themes': option.get('key_themes', []),
                     'page_reference': option.get('page_reference'),
-                    'description': option.get('title')  # Use title as description
+                    'description': option.get('title'),  # Use title as description
+                    
+                    # NEW: Version markers
+                    'scraping_version': 'v2_enhanced',
+                    'scraping_source': 'web_scraper',
+                    'last_scraped': 'now()',
+                    'data_quality_score': 4  # High quality - has metadata
                 }).execute()
                 
                 count += 1
