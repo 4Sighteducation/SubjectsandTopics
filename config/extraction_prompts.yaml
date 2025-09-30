@@ -1,0 +1,180 @@
+# AI Extraction Prompts for Specification Analysis
+# Using Claude 3.5 Sonnet for enhanced accuracy
+
+extract_metadata:
+  system: |
+    You are an expert at analyzing UK exam specifications.
+    Extract high-level metadata about the qualification.
+    Return ONLY valid JSON with no markdown, no code blocks, no explanations.
+  
+  user_template: |
+    Analyze this {qualification} {subject} specification from {exam_board}.
+    
+    Extract:
+    1. **Subject Code** (e.g., "7042", "8300") - usually near the title or on cover page
+    2. **Subject Description** - What is this qualification about? (2-3 sentences)
+    3. **Guided Learning Hours** - Total hours if mentioned (look for "GLH" or "guided learning")
+    4. **Assessment Overview** - Brief summary of how it's assessed
+    5. **Specification Version** - Version number if mentioned
+    
+    Return ONLY this JSON structure (no other text):
+    {{
+      "subject_code": "7042",
+      "description": "Study of significant historical developments in breadth and depth with independent historical investigation",
+      "guided_learning_hours": 360,
+      "assessment_overview": "Three components: Breadth Study (40%), Depth Study (40%), Historical Investigation (20%)",
+      "spec_version": "1.5"
+    }}
+
+extract_components:
+  system: |
+    You are an expert at analyzing UK exam specification structure.
+    Extract how the qualification is organized into components.
+    Return ONLY valid JSON array with no markdown.
+  
+  user_template: |
+    Analyze this {subject} specification and extract ALL COMPONENTS.
+    
+    Components are major parts like "Component 1", "Paper 1", "Unit 1".
+    
+    For EACH component, extract:
+    - Component name
+    - Component code (or infer from name: Component 1 → C1)
+    - Selection type: choose_one, choose_multiple, required_all, or custom
+    - How many students must choose
+    - Total options available
+    - Assessment weight (%)
+    - Assessment format
+    - Description
+    
+    Look for sections titled: "Assessment", "Structure", "Components", "Papers"
+    
+    Return ONLY this JSON array (no other text):
+    [
+      {{
+        "name": "Component 1: Breadth Study",
+        "code": "C1",
+        "selection_type": "choose_one",
+        "count_required": 1,
+        "total_available": 11,
+        "weight": "40%",
+        "assessment": "2 hours 30 minutes written exam",
+        "description": "Study of significant historical developments over approximately 100 years"
+      }}
+    ]
+
+extract_constraints:
+  system: |
+    You are an expert at extracting selection rules from UK exam specifications.
+    Find ALL constraints about how students choose topics.
+    Return ONLY valid JSON array with no markdown.
+  
+  user_template: |
+    Analyze this {subject} specification for SELECTION RULES and CONSTRAINTS.
+    
+    Find rules like:
+    - "Must choose British AND non-British option"
+    - "May not be combined with"
+    - "Prohibited combinations"
+    - "Must cover X years chronologically"
+    - "Must include"
+    
+    For EACH constraint, extract:
+    - Type (geographic_diversity, prohibited_combination, chronological_requirement, required_pair)
+    - Description
+    - Specific details (which option codes, years required, etc.)
+    - Which components it applies to
+    
+    Return ONLY this JSON array (no other text):
+    [
+      {{
+        "type": "geographic_diversity",
+        "description": "Must choose 1 British and 1 non-British option across Components 1 and 2",
+        "rule_details": {{
+          "british_codes": ["1C", "1D", "1F", "1G", "1J", "2A", "2B", "2D", "2E", "2M", "2S"],
+          "non_british_codes": ["1A", "1B", "1E", "1H", "1K", "1L", "2C", "2F", "2G", "2H", "2J", "2K", "2L", "2N", "2O", "2P", "2Q", "2R", "2T"]
+        }},
+        "applies_to_components": ["C1", "C2"]
+      }}
+    ]
+
+extract_topic_options:
+  system: |
+    You are an expert at extracting topic options from UK exam specifications.
+    Extract ALL choosable topic options with complete metadata.
+    Return ONLY valid JSON array with no markdown.
+  
+  user_template: |
+    Extract ALL TOPIC OPTIONS from this {subject} specification.
+    
+    These are the specific topics/periods students can choose (often have codes like 1A, 1B, 2A, etc.)
+    
+    For EACH option, extract:
+    1. Option code (e.g., "1C", "2N")
+    2. Full title
+    3. Time period if applicable (extract start and end years)
+    4. Geographic region (British, European, American, Asian, African, etc.)
+    5. Component it belongs to
+    6. Type (breadth_study, depth_study, coursework, etc.)
+    7. Page reference if given
+    8. Key themes/sections listed under this option
+    
+    Be comprehensive - find ALL options in the specification.
+    
+    Return ONLY this JSON array (no other text):
+    [
+      {{
+        "code": "1C",
+        "title": "The Tudors: England, 1485–1603",
+        "period": "1485-1603",
+        "period_start": 1485,
+        "period_end": 1603,
+        "period_length": 118,
+        "region": "British",
+        "component": "Component 1",
+        "component_code": "C1",
+        "type": "breadth_study",
+        "page_reference": "page 18",
+        "key_themes": [
+          "Consolidation of the Tudor Dynasty: England, 1485–1547",
+          "The Mid-Tudor Crisis: Edward VI and Mary I, 1547–1558",
+          "Elizabeth I: Monarchy, Government and Parliament",
+          "Elizabeth I: Religion and Foreign Policy",
+          "Society in the Age of Elizabeth",
+          "The Historic Environment"
+        ]
+      }}
+    ]
+
+extract_vocabulary:
+  system: |
+    You are an expert at identifying key terminology from exam specifications.
+    Extract the most important subject-specific vocabulary.
+    Return ONLY valid JSON array with no markdown.
+  
+  user_template: |
+    Extract KEY VOCABULARY from this {subject} specification.
+    
+    Focus on:
+    - Assessment-specific terms (e.g., "source analysis", "interpretation")
+    - Subject concepts (e.g., "causation", "continuity", "change")
+    - Technical terminology
+    - Skills being tested
+    
+    Extract 20-30 most important terms.
+    
+    Return ONLY this JSON array (no other text):
+    [
+      {{
+        "term": "Historical interpretation",
+        "definition": "Analysis and evaluation of how historians view and explain past events",
+        "category": "skill",
+        "importance": "high"
+      }},
+      {{
+        "term": "Causation",
+        "definition": "Understanding causes and consequences of historical events",
+        "category": "concept",
+        "importance": "high"
+      }}
+    ]
