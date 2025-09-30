@@ -116,42 +116,26 @@ class AQAWebScraper(BaseScraper):
         """
         content_links = []
         
-        # Find the "Subject content" section/heading
-        subject_content_heading = soup.find(string=re.compile(r'Subject content', re.I))
-        
-        if subject_content_heading:
-            # Get the parent container (could be nav, ul, div, etc.)
-            container = subject_content_heading.find_parent(['nav', 'ul', 'div', 'section'])
-            
-            if container:
-                # Get all links within this container
-                section_links = container.find_all('a', href=True)
-            else:
-                # Fallback: get siblings after the heading
-                section_links = []
-                current = subject_content_heading.find_next_sibling()
-                while current and current.name not in ['h1', 'h2']:
-                    if current.name == 'a' and current.get('href'):
-                        section_links.append(current)
-                    elif current.name in ['ul', 'nav']:
-                        section_links.extend(current.find_all('a', href=True))
-                    current = current.find_next_sibling()
-        else:
-            # Fallback: look for all content-like links
-            section_links = soup.find_all('a', href=True)
+        # SIMPLIFIED APPROACH: Just find ALL links with 'subject-content' in href
+        # This is more reliable than trying to navigate the DOM structure
+        section_links = soup.find_all('a', href=re.compile(r'/subject-content/', re.I))
         
         # Process the links we found
         for link in section_links:
             text = link.get_text().strip()
             href = link.get('href')
             
-            if not text or len(text) < 2:
+            if not text or len(text) < 5:  # Skip very short texts
+                continue
+            
+            # Skip the main "Subject content" link itself
+            if text.lower() == 'subject content' or href.endswith('/subject-content'):
                 continue
             
             # Try to extract code and title from link text
-            # Pattern: "X.Y Title" or "XY Title" or just "Title"
             
-            # Numbered pattern (3.1, 4.1, 4.2, etc.)
+            # Numbered pattern (3.1, 3.2, 4.1, etc.)
+            # Also handles: "3.2 A: Proof" (Mathematics format with letter prefixes)
             numbered_match = re.match(r'^(\d+\.\d+)\s+(.+)$', text)
             if numbered_match:
                 code = numbered_match.group(1)
@@ -168,16 +152,6 @@ class AQAWebScraper(BaseScraper):
                 url = urljoin(base_url, href)
                 content_links.append((code, title, url))
                 continue
-            
-            # If link looks like subject content (contains subject-content in URL)
-            if 'subject-content' in href and text not in ['Subject content', 'Introduction']:
-                # Try to extract code from URL
-                url_match = re.search(r'/([^/]+)$', href)
-                if url_match:
-                    code = url_match.group(1).split('-')[0].upper()
-                    if len(code) <= 4:  # Reasonable code length
-                        url = urljoin(base_url, href)
-                        content_links.append((code, text, url))
         
         # Determine pattern type
         if content_links:

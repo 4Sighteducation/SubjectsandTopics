@@ -62,3 +62,7 @@ analyze_page(url2)
 print("\n" + "="*80)
 print("Analysis complete! Use findings to adapt OCR scraper.")
 print("="*80)
+
+
+
+

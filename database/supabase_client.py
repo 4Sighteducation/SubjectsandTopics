@@ -167,19 +167,39 @@ class SupabaseUploader:
         
         return component_ids
     
-    def _upload_constraints(self, spec_id: str, constraints: List[Dict]) -> int:
+    def _upload_constraints(self, spec_id: str, constraints: List) -> int:
         """Upload selection constraints."""
         count = 0
         
+        if not constraints:
+            return 0
+        
         for constraint in constraints:
             try:
-                self.client.table('selection_constraints').insert({
-                    'spec_metadata_id': spec_id,
-                    'constraint_type': constraint.get('type'),
-                    'constraint_rule': constraint.get('rule_details', {}),
-                    'description': constraint.get('description'),
-                    'applies_to_components': constraint.get('applies_to_components', [])
-                }).execute()
+                # Handle both string and dict formats
+                if isinstance(constraint, str):
+                    # AI returned string - convert to dict
+                    constraint_data = {
+                        'spec_metadata_id': spec_id,
+                        'constraint_type': 'general',
+                        'constraint_rule': {},
+                        'description': constraint,
+                        'applies_to_components': []
+                    }
+                elif isinstance(constraint, dict):
+                    # AI returned dict - use it
+                    constraint_data = {
+                        'spec_metadata_id': spec_id,
+                        'constraint_type': constraint.get('type', 'general'),
+                        'constraint_rule': constraint.get('rule_details', {}),
+                        'description': constraint.get('description', ''),
+                        'applies_to_components': constraint.get('applies_to_components', [])
+                    }
+                else:
+                    logger.warning(f"Unknown constraint format: {type(constraint)}")
+                    continue
+                
+                self.client.table('selection_constraints').insert(constraint_data).execute()
                 count += 1
                 
             except Exception as e:
@@ -197,9 +217,16 @@ class SupabaseUploader:
         
         # Get exam_board_subject_id first (required foreign key)
         first_option = options[0]
-        exam_board = first_option.get('exam_board', 'AQA')
-        subject = first_option.get('subject', 'Unknown')
-        qualification = first_option.get('qualification', 'A-Level')
+        
+        # Handle different formats
+        if isinstance(first_option, dict):
+            exam_board = first_option.get('exam_board', 'AQA')
+            subject = first_option.get('subject', 'Unknown')
+            qualification = first_option.get('qualification', 'A-Level')
+        else:
+            # If not dict, we can't get context - skip
+            logger.error(f"Options in invalid format: {type(first_option)}")
+            return 0
         
         # Find the exam_board_subject record
         exam_board_subject_id = self._get_or_create_exam_board_subject(exam_board, subject, qualification)
@@ -209,6 +236,10 @@ class SupabaseUploader:
             return 0
         
         for option in options:
+            # Skip if not dict
+            if not isinstance(option, dict):
+                logger.warning(f"Skipping option in wrong format: {type(option)}")
+                continue
             try:
                 # Upload the main topic option using existing schema
                 result = self.client.table('curriculum_topics').insert({
@@ -357,7 +388,7 @@ class SupabaseUploader:
             'is_active': True
         }
     
-    def _get_or_create_exam_board_subject(self, exam_board: str, subject: str, qualification: str = 'A-Level') -> Optional[str]:
+    def _get_or_create_exam_board_subject(self, exam_board: str, subject: str, qualification: str = 'A-Level', subject_code: str = None) -> Optional[str]:
         """
         Find or create exam_board_subject record and return its ID.
         This is needed because curriculum_topics uses exam_board_subject_id foreign key.
@@ -391,14 +422,32 @@ class SupabaseUploader:
             
             if result.data and len(result.data) > 0:
                 subject_id = result.data[0]['id']
-                logger.info(f"Found exam_board_subject ID for {exam_board} {subject} {qualification}: {subject_id}")
+                logger.info(f"Found exam_board_subject ID: {subject_id}")
                 return subject_id
             
-            logger.warning(f"No exam_board_subject found for {exam_board} {subject} {qualification}")
+            # NOT FOUND - CREATE IT!
+            logger.warning(f"Creating new exam_board_subject for {exam_board} {subject} {qualification}")
+            
+            new_subject = {
+                'exam_board_id': exam_board_id,
+                'qualification_type_id': qualification_type_id,
+                'subject_name': subject,
+                'subject_code': subject_code or 'UNKNOWN',
+                'is_current': True
+            }
+            
+            create_result = self.client.table('exam_board_subjects').insert(new_subject).execute()
+            
+            if create_result.data and len(create_result.data) > 0:
+                new_id = create_result.data[0]['id']
+                logger.info(f"Created exam_board_subject with ID: {new_id}")
+                return new_id
+            
+            logger.error("Failed to create exam_board_subject")
             return None
             
         except Exception as e:
-            logger.error(f"Error finding exam_board_subject: {e}")
+            logger.error(f"Error in _get_or_create_exam_board_subject: {e}")
             return None
     
     def _normalize_qualification(self, exam_type: str) -> str:

@@ -120,3 +120,6 @@ CREATE POLICY "Allow service role manage examiner_report_insights" ON examiner_r
 
 CREATE POLICY "Allow authenticated read question_bank" ON question_bank FOR SELECT TO authenticated USING (true);
 CREATE POLICY "Allow service role manage question_bank" ON question_bank FOR ALL TO service_role USING (true);
+
+
+

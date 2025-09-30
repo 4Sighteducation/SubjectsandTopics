@@ -79,3 +79,7 @@ Both patterns successfully detected and scraped!
 
 if __name__ == '__main__':
     exit(main())
+
+
+
+

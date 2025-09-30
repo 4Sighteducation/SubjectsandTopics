@@ -32,7 +32,7 @@ class AQAScraperEnhanced(BaseScraper):
     # Direct specification PDF URLs for AQA subjects
     # Note: AQA moved to CDN (sanity.io) - need to extract PDF link from web page
     # Better approach: Navigate to /specification page and find PDF link
-    SPEC_PAGE_URLS = {
+    SPEC_PDF_URLS = {
         ('History', 'A-Level'): 'https://www.aqa.org.uk/subjects/history/a-level/history-7042/specification',
         ('Mathematics', 'A-Level'): 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification',
         ('Biology', 'A-Level'): 'https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/specification',
@@ -175,8 +175,8 @@ class AQAScraperEnhanced(BaseScraper):
         """
         # Check hardcoded URLs first
         key = (subject, exam_type)
-        if key in self.SPEC_URLS:
-            url = self.SPEC_URLS[key]
+        if key in self.SPEC_PDF_URLS:
+            url = self.SPEC_PDF_URLS[key]
             
             # If it's a webpage (not PDF), extract PDF link from it
             if not url.lower().endswith('.pdf'):
