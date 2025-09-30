@@ -227,11 +227,11 @@ class SupabaseUploader:
                     'page_reference': option.get('page_reference'),
                     'description': option.get('title'),  # Use title as description
                     
-                    # NEW: Version markers
-                    'scraping_version': 'v2_enhanced',
-                    'scraping_source': 'web_scraper',
-                    'last_scraped': 'now()',
-                    'data_quality_score': 4  # High quality - has metadata
+                    # Version markers (skip for now if migration not run)
+                    # 'scraping_version': 'v2_enhanced',
+                    # 'scraping_source': 'web_scraper',
+                    # 'last_scraped': 'now()',
+                    # 'data_quality_score': 4
                 }).execute()
                 
                 count += 1

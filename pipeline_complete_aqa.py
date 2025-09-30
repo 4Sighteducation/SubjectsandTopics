@@ -128,6 +128,11 @@ def process_all_aqa_subjects(qualification_filter=None, subject_filter=None,
     # Final summary
     print_summary(results, logger)
     
+    # Generate report
+    report_file = generate_final_report(results, timestamp)
+    logger.info(f"\n📊 Report generated: {report_file}")
+    logger.info(f"Open in browser to view detailed results!")
+    
     web_scraper.close()
     
     return results
@@ -189,6 +194,114 @@ def save_progress(results, timestamp):
     import json
     with open(progress_file, 'w') as f:
         json.dump(results, f, indent=2)
+
+def generate_final_report(results, timestamp):
+    """Generate comprehensive HTML report."""
+    report_file = f"data/reports/aqa_complete_report_{timestamp}.html"
+    Path(report_file).parent.mkdir(parents=True, exist_ok=True)
+    
+    total = len(results['successful']) + len(results['partial']) + len(results['failed'])
+    success_rate = (len(results['successful']) / total * 100) if total > 0 else 0
+    
+    html = f"""<!DOCTYPE html>
+<html>
+<head>
+    <title>AQA Complete Scrape Report - {timestamp}</title>
+    <style>
+        body {{ font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; }}
+        .container {{ background: white; padding: 30px; border-radius: 8px; max-width: 1200px; margin: 0 auto; }}
+        h1 {{ color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; }}
+        h2 {{ color: #34495e; margin-top: 30px; }}
+        .summary {{ display: flex; gap: 20px; margin: 20px 0; }}
+        .stat-box {{ flex: 1; background: #ecf0f1; padding: 20px; border-radius: 8px; text-align: center; }}
+        .stat-number {{ font-size: 48px; font-weight: bold; color: #3498db; }}
+        .stat-label {{ color: #7f8c8d; margin-top: 5px; }}
+        .success {{ color: #27ae60; }}
+        .partial {{ color: #f39c12; }}
+        .failed {{ color: #e74c3c; }}
+        table {{ width: 100%; border-collapse: collapse; margin: 20px 0; }}
+        th {{ background: #34495e; color: white; padding: 12px; text-align: left; }}
+        td {{ padding: 10px; border-bottom: 1px solid #ddd; }}
+        tr:hover {{ background: #f8f9fa; }}
+        .success-row {{ background: #d5f4e6; }}
+        .partial-row {{ background: #fef5e7; }}
+        .failed-row {{ background: #fadbd8; }}
+        .timestamp {{ color: #95a5a6; font-size: 0.9em; }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AQA Complete Scrape Report</h1>
+        <p class="timestamp">Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
+        
+        <div class="summary">
+            <div class="stat-box">
+                <div class="stat-number">{total}</div>
+                <div class="stat-label">Total Subjects</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number success">{len(results['successful'])}</div>
+                <div class="stat-label">Successful</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number partial">{len(results['partial'])}</div>
+                <div class="stat-label">Partial</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number failed">{len(results['failed'])}</div>
+                <div class="stat-label">Failed</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number">{success_rate:.1f}%</div>
+                <div class="stat-label">Success Rate</div>
+            </div>
+        </div>
+        
+        <h2>✅ Successful Subjects ({len(results['successful'])})</h2>
+        <table>
+            <tr><th>#</th><th>Subject</th><th>Status</th></tr>
+"""
+    
+    for i, subj in enumerate(results['successful'], 1):
+        html += f"            <tr class='success-row'><td>{i}</td><td>{subj}</td><td class='success'>✓ Complete</td></tr>\n"
+    
+    html += f"""        </table>
+        
+        <h2>⚠️ Partial Subjects ({len(results['partial'])})</h2>
+        <table>
+            <tr><th>#</th><th>Subject</th><th>Status</th></tr>
+"""
+    
+    for i, subj in enumerate(results['partial'], 1):
+        html += f"            <tr class='partial-row'><td>{i}</td><td>{subj}</td><td class='partial'>⚠ Partial Data</td></tr>\n"
+    
+    html += f"""        </table>
+        
+        <h2>❌ Failed Subjects ({len(results['failed'])})</h2>
+        <table>
+            <tr><th>#</th><th>Subject</th><th>Status</th></tr>
+"""
+    
+    for i, subj in enumerate(results['failed'], 1):
+        html += f"            <tr class='failed-row'><td>{i}</td><td>{subj}</td><td class='failed'>✗ Failed</td></tr>\n"
+    
+    html += """        </table>
+        
+        <h2>Next Steps</h2>
+        <ul>
+            <li>Review partial/failed subjects in log file</li>
+            <li>Verify data in Supabase</li>
+            <li>Re-run failed subjects if needed</li>
+            <li>Check data/processed/ folder for extracted JSON</li>
+        </ul>
+    </div>
+</body>
+</html>"""
+    
+    with open(report_file, 'w', encoding='utf-8') as f:
+        f.write(html)
+    
+    return report_file
 
 def print_summary(results, logger):
     """Print final summary."""
