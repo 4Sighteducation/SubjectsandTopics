@@ -82,20 +82,29 @@ class OCRCompleteScraper(BaseScraper):
         
         logger.info(f"Subject URL: {subject_url}")
         
-        # Step 1: Get specification overview
+        # Step 1: Get specification overview (this has EVERYTHING for OCR!)
         spec_overview = self._scrape_specification_overview(subject_url)
         
-        # Step 2: Get detailed content
-        # OCR typically has content under "Content" or specific unit pages
-        content = self._scrape_content_structure(subject_url, subject_code)
+        # For OCR, the spec_overview contains all topics already!
+        # No need for separate content_structure
         
         return {
             'subject': subject_name,
             'qualification': qualification,
             'code': subject_code,
-            'overview': spec_overview,
-            'content_structure': content,
-            'exam_board': 'OCR'
+            'exam_board': 'OCR',
+            
+            # Assessment structure
+            'components': spec_overview.get('components', []),
+            'selection_rules': spec_overview.get('selection_rules', []),
+            'content_overview': spec_overview.get('content_overview'),
+            
+            # Topic content
+            'unit_groups': spec_overview.get('unit_groups', []),
+            'all_topics': spec_overview.get('all_topics', []),
+            
+            # For compatibility with pipeline
+            'content_structure': spec_overview.get('all_topics', [])
         }
     
     def _get_qualification_slug(self, qualification: str) -> str:
@@ -114,11 +123,11 @@ class OCRCompleteScraper(BaseScraper):
     def _scrape_specification_overview(self, subject_url: str) -> Dict:
         """
         Scrape 'Specification at a glance' page.
-        This shows unit groups and selection rules.
+        For OCR, ALL the content is on this single page!
         """
         spec_glance_url = f"{subject_url}specification-at-a-glance/"
         
-        logger.info(f"Scraping specification overview: {spec_glance_url}")
+        logger.info(f"Scraping specification at a glance: {spec_glance_url}")
         
         html = self._get_page(spec_glance_url, use_selenium=False)
         if not html:
@@ -128,55 +137,132 @@ class OCRCompleteScraper(BaseScraper):
         soup = BeautifulSoup(html, 'lxml')
         
         result = {
-            'unit_groups': [],
+            'components': [],  # From assessment overview table
             'selection_rules': [],
-            'assessment_overview': []
+            'content_overview': None,  # General description
+            'unit_groups': [],
+            'all_topics': []
         }
         
-        # Extract assessment overview table if present
-        tables = soup.find_all('table')
-        for table in tables:
-            # Look for assessment overview table
-            if 'component' in str(table).lower() or 'unit' in str(table).lower():
-                result['assessment_overview'].append(self._parse_assessment_table(table))
+        # Extract content overview (general description)
+        content_overview_heading = soup.find(string=re.compile(r'Content overview', re.I))
+        if content_overview_heading:
+            parent = content_overview_heading.find_parent(['h2', 'h3', 'h4'])
+            if parent:
+                # Get all paragraphs after this heading until next heading
+                description = []
+                next_elem = parent.find_next_sibling()
+                while next_elem and next_elem.name not in ['h2', 'h3', 'h4', 'table']:
+                    if next_elem.name == 'p':
+                        description.append(next_elem.get_text().strip())
+                    next_elem = next_elem.find_next_sibling()
+                result['content_overview'] = ' '.join(description)
         
-        # Extract unit groups from content
-        # Look for "Unit group 1", "Unit group 2", etc.
+        # Extract assessment overview table (this has the components!)
+        assessment_heading = soup.find(string=re.compile(r'Assessment overview', re.I))
+        if assessment_heading:
+            parent = assessment_heading.find_parent(['h2', 'h3', 'h4'])
+            if parent:
+                # Find next table
+                table = parent.find_next('table')
+                if table:
+                    components = self._parse_assessment_table(table)
+                    result['components'] = components
+                    logger.info(f"  Found {len(components)} components in assessment table")
+                    
+                    # Extract selection rules from table
+                    for comp in components:
+                        if comp.get('insert text'):  # The selection rule column
+                            rule = comp['insert text']
+                            if 'must' in rule.lower() or 'one' in rule.lower():
+                                result['selection_rules'].append(rule)
+        
+        # Extract unit groups and their topics
+        # Pattern: "Unit group 1", "Unit group 2", etc.
         unit_group_pattern = re.compile(r'Unit group (\d+)', re.I)
         
         for heading in soup.find_all(['h2', 'h3', 'h4']):
-            text = heading.get_text()
+            text = heading.get_text().strip()
             match = unit_group_pattern.search(text)
             
             if match:
                 group_num = match.group(1)
                 
-                # Get description and options from following content
+                logger.info(f"  Found Unit group {group_num}")
+                
                 unit_info = {
                     'group_number': group_num,
-                    'title': text.strip(),
-                    'options': []
+                    'group_title': text,
+                    'topics': [],
+                    'selection_rule': None
                 }
                 
-                # Find next ul or list of options
+                # Get description paragraph and topic list
                 next_elem = heading.find_next_sibling()
+                
                 while next_elem and next_elem.name not in ['h2', 'h3', 'h4']:
-                    if next_elem.name == 'ul':
+                    # Check for selection rule in paragraphs
+                    if next_elem.name == 'p':
+                        p_text = next_elem.get_text().strip()
+                        if any(word in p_text.lower() for word in ['select', 'choose', 'must study', 'one of']):
+                            unit_info['selection_rule'] = p_text
+                    
+                    # Extract topics from ul
+                    elif next_elem.name == 'ul':
                         for li in next_elem.find_all('li', recursive=False):
-                            option_text = li.get_text().strip()
-                            if option_text and len(option_text) > 5:
-                                unit_info['options'].append(option_text)
-                    elif next_elem.name == 'p':
-                        # Might contain selection rule
-                        p_text = next_elem.get_text()
-                        if 'select' in p_text.lower() or 'choose' in p_text.lower():
-                            unit_info['selection_rule'] = p_text.strip()
+                            topic_text = li.get_text().strip()
+                            
+                            if topic_text and len(topic_text) > 10:
+                                # Parse topic to extract title and period
+                                topic_data = self._parse_topic_text(topic_text, group_num)
+                                unit_info['topics'].append(topic_data)
+                                result['all_topics'].append(topic_data)
                     
                     next_elem = next_elem.find_next_sibling()
                 
-                result['unit_groups'].append(unit_info)
+                logger.info(f"    Extracted {len(unit_info['topics'])} topics")
+                
+                if unit_info['topics']:  # Only add if we found topics
+                    result['unit_groups'].append(unit_info)
+        
+        logger.info(f"Total topics extracted: {len(result['all_topics'])}")
         
         return result
+    
+    def _parse_topic_text(self, text: str, unit_group: str) -> Dict:
+        """
+        Parse a topic text to extract title, period, and metadata.
+        
+        Example: "Spain 1469—1556" or "The early Tudors 1485-1558"
+        """
+        # Try to extract period (years)
+        period_match = re.search(r'(\d{3,4})\s*[–—-]\s*(\d{3,4})', text)
+        period = None
+        period_start = None
+        period_end = None
+        
+        if period_match:
+            period_start = int(period_match.group(1))
+            period_end = int(period_match.group(2))
+            period = f"{period_start}-{period_end}"
+        
+        # Determine if being withdrawn
+        is_withdrawn = 'being withdrawn' in text.lower()
+        
+        # Clean title (remove withdrawal note and dates for clean title)
+        title = text
+        if '(being withdrawn' in title:
+            title = title.split('(being withdrawn')[0].strip()
+        
+        return {
+            'topic_name': title,
+            'unit_group': unit_group,
+            'period': period,
+            'period_start': period_start,
+            'period_end': period_end,
+            'is_withdrawn': is_withdrawn,
+            'raw_text': text
+        }
     
     def _parse_assessment_table(self, table) -> Dict:
         """Parse assessment overview table."""
