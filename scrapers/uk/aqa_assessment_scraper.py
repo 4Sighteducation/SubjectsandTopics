@@ -82,7 +82,8 @@ class AQAAssessmentScraper(BaseScraper):
         
         try:
             # Scrape multiple pages (AQA paginates results)
-            for page_num in range(1, 15):  # Up to 15 pages (should cover 150 results)
+            # History needs more pages (30 components × multiple years = lots of pages!)
+            for page_num in range(1, 40):  # Up to 40 pages for complex subjects like History
                 page_url = f"{resources_url}?page={page_num}" if page_num > 1 else resources_url
                 
                 logger.info(f"Scraping page {page_num}: {page_url}")
@@ -121,6 +122,11 @@ class AQAAssessmentScraper(BaseScraper):
                 for link in pdf_links:
                     href = link.get('href')
                     text = link.get_text().strip()
+                
+                    # Skip modified/accessibility versions (large font PDFs)
+                    if 'modified' in text.lower():
+                        logger.debug(f"Skipping modified version: {text[:60]}")
+                        continue
                 
                     # Try to extract year
                     year_match = re.search(r'20(2[0-4])', text + href)

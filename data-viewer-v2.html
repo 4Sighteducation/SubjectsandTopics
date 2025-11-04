@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AQA Data Viewer V2 - Fast & Powerful</title>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0a0f1e; color: #e2e8f0; padding: 20px; }
+    h1 { color: #00f5ff; margin-bottom: 20px; }
+    .container { max-width: 1600px; margin: 0 auto; }
+    .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 30px; }
+    .stat-card { background: rgba(0,245,255,0.1); border: 1px solid #00f5ff; border-radius: 8px; padding: 15px; }
+    .stat-card h3 { color: #00f5ff; font-size: 14px; margin-bottom: 5px; }
+    .stat-card .number { font-size: 32px; font-weight: bold; }
+    .filters { display: flex; gap: 15px; margin-bottom: 25px; align-items: center; }
+    .filters select { background: rgba(0,245,255,0.1); border: 1px solid #00f5ff; color: #e2e8f0; padding: 10px 15px; border-radius: 6px; font-size: 14px; cursor: pointer; }
+    .filters select:hover { background: rgba(0,245,255,0.2); }
+    .filters label { color: #00f5ff; font-weight: bold; margin-right: 8px; }
+    .subjects-grid { display: grid; gap: 12px; }
+    .subject-card { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 18px; cursor: pointer; transition: all 0.2s; }
+    .subject-card:hover { background: rgba(0,245,255,0.1); border-color: #00f5ff; transform: translateX(4px); }
+    .subject-card h3 { color: #00f5ff; margin-bottom: 10px; font-size: 18px; }
+    .subject-card .metrics { display: flex; gap: 20px; flex-wrap: wrap; }
+    .subject-card .metric { font-size: 13px; color: #94a3b8; }
+    .subject-card .metric strong { color: #e2e8f0; }
+    .loading { text-align: center; color: #00f5ff; padding: 40px; font-size: 18px; }
+    .topics-list { background: rgba(255,255,255,0.03); border-radius: 8px; padding: 20px; margin-top: 20px; max-height: 70vh; overflow-y: auto; }
+    .topic-item { padding: 10px; margin: 4px 0; background: rgba(255,255,255,0.02); border-radius: 6px; font-size: 14px; display: flex; align-items: center; gap: 12px; cursor: grab; transition: all 0.2s; }
+    .topic-item:hover { background: rgba(255,255,255,0.08); }
+    .topic-item.dragging { opacity: 0.5; cursor: grabbing; }
+    .topic-item.drag-over { border-top: 3px solid #00f5ff; }
+    .topic-item .code { color: #00f5ff; min-width: 100px; font-family: 'Courier New', monospace; font-size: 13px; cursor: text; padding: 4px; border-radius: 4px; }
+    .topic-item .code:hover { background: rgba(255,255,255,0.05); }
+    .topic-item .code[contenteditable="true"] { background: rgba(0,245,255,0.1); border: 1px solid #00f5ff; }
+    .topic-item .level { color: #666; min-width: 45px; font-size: 12px; text-align: center; cursor: text; padding: 4px; border-radius: 4px; }
+    .topic-item .level:hover { background: rgba(255,255,255,0.05); color: #999; }
+    .topic-item .level[contenteditable="true"] { background: rgba(0,245,255,0.1); border: 1px solid #00f5ff; color: #00f5ff; }
+    .topic-item .indent { display: inline-block; }
+    .topic-item .name { flex: 1; cursor: text; padding: 6px; border-radius: 4px; }
+    .topic-item .name:hover { background: rgba(255,255,255,0.05); }
+    .topic-item .name[contenteditable="true"] { background: rgba(0,245,255,0.1); border: 1px solid #00f5ff; }
+    .edit-btn, .save-btn, .delete-btn { font-size: 11px; padding: 5px 10px; background: rgba(0,245,255,0.2); color: #00f5ff; border: 1px solid #00f5ff; border-radius: 4px; cursor: pointer; white-space: nowrap; }
+    .save-btn { background: #00f5ff; color: #0a0f1e; }
+    .delete-btn { background: rgba(255,0,0,0.2); color: #ff4444; border-color: #ff4444; }
+    .delete-btn:hover { background: rgba(255,0,0,0.4); }
+    .add-topic-btn { margin: 15px 0; background: #00ff88; color: #0a0f1e; border: none; padding: 12px 24px; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 14px; }
+    .add-topic-btn:hover { background: #00dd77; }
+    .add-topic-form { background: rgba(0,245,255,0.1); border: 2px solid #00f5ff; border-radius: 8px; padding: 20px; margin: 15px 0; }
+    .add-topic-form input, .add-topic-form select { width: 100%; padding: 10px; margin: 8px 0; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.2); color: #e2e8f0; border-radius: 4px; font-size: 14px; }
+    .add-topic-form label { display: block; margin-top: 10px; color: #00f5ff; font-weight: bold; }
+    .form-buttons { display: flex; gap: 10px; margin-top: 15px; }
+    .paper-link { color: #00f5ff; text-decoration: none; padding: 4px 8px; background: rgba(0,245,255,0.1); border-radius: 4px; font-size: 12px; }
+    .paper-link:hover { background: rgba(0,245,255,0.2); }
+    .paper-item { display: flex; gap: 10px; align-items: center; padding: 10px; background: rgba(255,255,255,0.02); border-radius: 6px; margin: 8px 0; }
+    button { background: #00f5ff; color: #0a0f1e; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-weight: bold; }
+    button:hover { background: #00d4e6; }
+    .back-btn { margin-bottom: 15px; }
+    .cancel-btn { background: #666; color: #fff; }
+    .cancel-btn:hover { background: #888; }
+    .help-text { color: #666; font-size: 12px; margin-top: 10px; font-style: italic; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🔍 AQA Data Viewer V2 - Fast & Powerful</h1>
+    
+    <div class="filters">
+      <div>
+        <label>Exam Board:</label>
+        <select id="filter-board" onchange="applyFilters()">
+          <option value="AQA" selected>AQA</option>
+        </select>
+      </div>
+      <div>
+        <label>Qualification:</label>
+        <select id="filter-qual" onchange="applyFilters()">
+          <option value="all">All Qualifications</option>
+          <option value="A-Level" selected>A-Level</option>
+          <option value="GCSE">GCSE</option>
+        </select>
+      </div>
+    </div>
+    
+    <div id="stats" class="stats"></div>
+    <div id="subjects" class="subjects-grid"></div>
+    <div id="details" style="display:none;">
+      <button class="back-btn" onclick="showSubjects()">← Back to Subjects</button>
+      <div id="topic-details"></div>
+    </div>
+  </div>
+
+  <script>
+    const SUPABASE_URL = 'https://qkapwhyxcpgzahuemucg.supabase.co';
+    const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFrYXB3aHl4Y3BnemFodWVtdWNnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk1NTgzNTUsImV4cCI6MjA2NTEzNDM1NX0.Labu2GwodnfEce4Nh5oBqTBTaD3weN63nKRMwAsyfbg';
+    
+    const { createClient } = supabase;
+    const sb = createClient(SUPABASE_URL, SUPABASE_KEY);
+
+    let currentSubjectId = null;
+    let currentSubjectName = null;
+    let currentFilters = { board: 'AQA', qual: 'A-Level' };
+
+    function applyFilters() {
+      currentFilters.qual = document.getElementById('filter-qual').value;
+      loadStats();
+      loadSubjects();
+    }
+
+    function getFilterQuery() {
+      let query = sb.from('staging_aqa_subjects').select('*');
+      if (currentFilters.qual !== 'all') {
+        query = query.eq('qualification_type', currentFilters.qual);
+      }
+      return query;
+    }
+
+    async function loadStats() {
+      const { data: subjects } = await getFilterQuery();
+      
+      // LAZY: Get counts without loading all data
+      let topicCount = 0, paperCount = 0;
+      
+      if (currentFilters.qual === 'all') {
+        const { count: tc } = await sb.from('staging_aqa_topics').select('*', { count: 'exact', head: true });
+        const { count: pc } = await sb.from('staging_aqa_exam_papers').select('*', { count: 'exact', head: true });
+        topicCount = tc;
+        paperCount = pc;
+      } else {
+        // Count for filtered subjects only
+        for (const subj of subjects) {
+          const { count: tc } = await sb.from('staging_aqa_topics').select('*', { count: 'exact', head: true }).eq('subject_id', subj.id);
+          const { count: pc } = await sb.from('staging_aqa_exam_papers').select('*', { count: 'exact', head: true }).eq('subject_id', subj.id);
+          topicCount += tc || 0;
+          paperCount += pc || 0;
+        }
+      }
+      
+      const statsHtml = `
+        <div class="stat-card">
+          <h3>Subjects</h3>
+          <div class="number">${subjects?.length || 0}</div>
+        </div>
+        <div class="stat-card">
+          <h3>Topics</h3>
+          <div class="number">${topicCount || 0}</div>
+        </div>
+        <div class="stat-card">
+          <h3>Paper Sets</h3>
+          <div class="number">${paperCount || 0}</div>
+        </div>
+        <div class="stat-card">
+          <h3>Avg Topics/Subject</h3>
+          <div class="number">${subjects?.length ? Math.round(topicCount / subjects.length) : 0}</div>
+        </div>
+      `;
+      
+      document.getElementById('stats').innerHTML = statsHtml;
+    }
+
+    async function loadSubjects() {
+      // LAZY LOAD: Only load subject metadata, not all topics!
+      document.getElementById('subjects').innerHTML = '<div class="loading">⏳ Loading subjects...</div>';
+      
+      const { data: subjects } = await getFilterQuery();
+      
+      let subjectsHtml = '';
+      
+      // Load counts in parallel for speed
+      const subjectPromises = subjects.map(async (subject) => {
+        const { count: topicCount } = await sb.from('staging_aqa_topics').select('*', { count: 'exact', head: true }).eq('subject_id', subject.id);
+        const { count: paperCount } = await sb.from('staging_aqa_exam_papers').select('*', { count: 'exact', head: true }).eq('subject_id', subject.id);
+        
+        return {
+          ...subject,
+          topicCount,
+          paperCount
+        };
+      });
+      
+      const subjectsWithCounts = await Promise.all(subjectPromises);
+      
+      // Sort by name
+      subjectsWithCounts.sort((a, b) => a.subject_name.localeCompare(b.subject_name));
+      
+      for (const subject of subjectsWithCounts) {
+        subjectsHtml += `
+          <div class="subject-card" onclick="showSubjectDetails('${subject.id}', '${subject.subject_name.replace(/'/g, "\\'")}')">
+            <h3>${subject.subject_name}</h3>
+            <div class="metrics">
+              <div class="metric"><strong>${subject.topicCount || 0}</strong> topics</div>
+              <div class="metric"><strong>${subject.paperCount || 0}</strong> papers</div>
+              <div class="metric">${subject.qualification_type}</div>
+            </div>
+          </div>
+        `;
+      }
+      
+      document.getElementById('subjects').innerHTML = subjectsHtml;
+    }
+
+    async function showSubjectDetails(subjectId, subjectName) {
+      currentSubjectId = subjectId;
+      currentSubjectName = subjectName;
+      
+      document.getElementById('subjects').style.display = 'none';
+      document.getElementById('details').style.display = 'block';
+      document.getElementById('topic-details').innerHTML = '<div class="loading">⏳ Loading topics...</div>';
+      
+      await refreshTopicList();
+    }
+
+    async function refreshTopicList() {
+      // LAZY LOAD: Only load topics for THIS subject
+      let allTopics = [];
+      let page = 0;
+      const pageSize = 1000;
+      
+      while (true) {
+        const { data: topicPage } = await sb
+          .from('staging_aqa_topics')
+          .select('*')
+          .eq('subject_id', currentSubjectId)
+          .range(page * pageSize, (page + 1) * pageSize - 1);
+        
+        if (!topicPage || topicPage.length === 0) break;
+        allTopics.push(...topicPage);
+        if (topicPage.length < pageSize) break;
+        page++;
+      }
+      
+      const { data: papers } = await sb.from('staging_aqa_exam_papers').select('*').eq('subject_id', currentSubjectId).order('year', { ascending: false });
+      
+      // Natural sort topics
+      allTopics.sort((a, b) => {
+        const aParts = a.topic_code.split('.').map(n => parseInt(n) || n);
+        const bParts = b.topic_code.split('.').map(n => parseInt(n) || n);
+        
+        for (let i = 0; i < Math.max(aParts.length, bParts.length); i++) {
+          const aVal = aParts[i] || 0;
+          const bVal = bParts[i] || 0;
+          
+          if (typeof aVal === 'number' && typeof bVal === 'number') {
+            if (aVal !== bVal) return aVal - bVal;
+          } else {
+            if (aVal < bVal) return -1;
+            if (aVal > bVal) return 1;
+          }
+        }
+        return 0;
+      });
+      
+      let detailsHtml = `<h2>${currentSubjectName}</h2>`;
+      
+      // Add Topic Button
+      detailsHtml += `<button class="add-topic-btn" onclick="showAddTopicForm()">➕ Add New Topic</button>`;
+      detailsHtml += `<p class="help-text">💡 Tip: Drag topics to reorder, click code/level/name to edit, or use buttons</p>`;
+      
+      // Add Topic Form
+      detailsHtml += `
+        <div id="add-topic-form" style="display:none;" class="add-topic-form">
+          <h3 style="color: #00f5ff; margin-bottom: 15px;">Add New Topic</h3>
+          <label>Topic Code (e.g., 3.5.2)</label>
+          <input type="text" id="new-topic-code" placeholder="3.5.2" />
+          
+          <label>Topic Name</label>
+          <input type="text" id="new-topic-name" placeholder="Topic name..." />
+          
+          <label>Parent Topic (select to auto-set level)</label>
+          <select id="new-topic-parent">
+            <option value="">-- No Parent (Level 0) --</option>
+            ${allTopics.map(t => `<option value="${t.id}">${t.topic_code} - ${t.topic_name}</option>`).join('')}
+          </select>
+          
+          <label>Level (0-4)</label>
+          <input type="number" id="new-topic-level" min="0" max="4" value="0" />
+          
+          <div class="form-buttons">
+            <button onclick="addNewTopic()">💾 Save Topic</button>
+            <button class="cancel-btn" onclick="hideAddTopicForm()">✖ Cancel</button>
+          </div>
+        </div>
+      `;
+      
+      // Papers
+      if (papers && papers.length > 0) {
+        detailsHtml += `<h3 style="margin-top: 20px; color: #00f5ff;">📄 Past Papers (${papers.length})</h3>`;
+        detailsHtml += `<div class="topics-list">`;
+        papers.forEach(p => {
+          detailsHtml += `<div class="paper-item">
+            <strong>${p.year} ${p.exam_series} ${p.component_code || 'Paper ' + p.paper_number}</strong>
+            ${p.question_paper_url ? `<a href="${p.question_paper_url}" target="_blank" class="paper-link">📄 Question</a>` : ''}
+            ${p.mark_scheme_url ? `<a href="${p.mark_scheme_url}" target="_blank" class="paper-link">📝 Marks</a>` : ''}
+            ${p.examiner_report_url ? `<a href="${p.examiner_report_url}" target="_blank" class="paper-link">📊 Report</a>` : ''}
+          </div>`;
+        });
+        detailsHtml += `</div>`;
+      }
+      
+      // Topics with drag & drop
+      detailsHtml += `<h3 style="margin-top: 20px; color: #00f5ff;">📚 Topics (${allTopics.length})</h3>`;
+      detailsHtml += `<div class="topics-list">`;
+      
+      allTopics.forEach(topic => {
+        const indent = '&nbsp;&nbsp;'.repeat(topic.topic_level * 3);
+        detailsHtml += `
+          <div class="topic-item" 
+               id="topic-row-${topic.id}" 
+               draggable="true"
+               ondragstart="dragStart(event, '${topic.id}')"
+               ondragover="dragOver(event)"
+               ondrop="drop(event, '${topic.id}')"
+               ondragleave="dragLeave(event)">
+            <span class="indent">${indent}</span>
+            <span class="code" id="code-${topic.id}" onclick="editCode('${topic.id}')">${topic.topic_code}</span>
+            <span class="level" id="level-${topic.id}" onclick="editLevel('${topic.id}')" title="Click to edit level">L${topic.topic_level}</span>
+            <span class="name" id="name-${topic.id}" onclick="editName('${topic.id}')">${topic.topic_name}</span>
+            <button class="edit-btn" onclick="editTopic('${topic.id}')">✏️ Edit All</button>
+            <button class="delete-btn" onclick="deleteTopic('${topic.id}', '${topic.topic_name.replace(/'/g, "\\'")}')">🗑️</button>
+          </div>
+        `;
+      });
+      
+      detailsHtml += `</div>`;
+      document.getElementById('topic-details').innerHTML = detailsHtml;
+    }
+
+    function showSubjects() {
+      document.getElementById('subjects').style.display = 'grid';
+      document.getElementById('details').style.display = 'none';
+    }
+
+    // DRAG & DROP
+    let draggedTopicId = null;
+
+    function dragStart(event, topicId) {
+      draggedTopicId = topicId;
+      event.currentTarget.classList.add('dragging');
+    }
+
+    function dragOver(event) {
+      event.preventDefault();
+      event.currentTarget.classList.add('drag-over');
+    }
+
+    function dragLeave(event) {
+      event.currentTarget.classList.remove('drag-over');
+    }
+
+    async function drop(event, targetTopicId) {
+      event.preventDefault();
+      event.currentTarget.classList.remove('drag-over');
+      document.getElementById(`topic-row-${draggedTopicId}`).classList.remove('dragging');
+      
+      if (draggedTopicId === targetTopicId) return;
+      
+      if (confirm('Move this topic to be a child of the target topic?')) {
+        // Update parent_topic_id
+        const { error } = await sb
+          .from('staging_aqa_topics')
+          .update({ parent_topic_id: targetTopicId })
+          .eq('id', draggedTopicId);
+        
+        if (error) {
+          alert('Failed to move: ' + error.message);
+        } else {
+          alert('✅ Topic moved! Refresh to see changes.');
+          refreshTopicList();
+        }
+      }
+      
+      draggedTopicId = null;
+    }
+
+    // EDIT CODE
+    function editCode(topicId) {
+      const element = document.getElementById(`code-${topicId}`);
+      element.contentEditable = 'true';
+      element.focus();
+      selectAll(element);
+      
+      element.addEventListener('blur', async function saveCode() {
+        const newCode = element.innerText.trim();
+        element.contentEditable = 'false';
+        
+        const { error } = await sb
+          .from('staging_aqa_topics')
+          .update({ topic_code: newCode })
+          .eq('id', topicId);
+        
+        if (error) {
+          alert('Failed: ' + error.message);
+        } else {
+          element.style.background = 'rgba(0,245,0,0.2)';
+          setTimeout(() => { element.style.background = ''; }, 1000);
+        }
+        
+        element.removeEventListener('blur', saveCode);
+      }, { once: true });
+    }
+
+    // EDIT LEVEL
+    function editLevel(topicId) {
+      const element = document.getElementById(`level-${topicId}`);
+      const currentLevel = parseInt(element.innerText.replace('L', ''));
+      
+      const newLevel = prompt(`Change level (0-4):`, currentLevel);
+      if (newLevel === null || newLevel === currentLevel.toString()) return;
+      
+      const level = parseInt(newLevel);
+      if (isNaN(level) || level < 0 || level > 4) {
+        alert('Invalid level (must be 0-4)');
+        return;
+      }
+      
+      sb.from('staging_aqa_topics')
+        .update({ topic_level: level })
+        .eq('id', topicId)
+        .then(({ error }) => {
+          if (error) {
+            alert('Failed: ' + error.message);
+          } else {
+            element.innerText = `L${level}`;
+            element.style.background = 'rgba(0,245,0,0.2)';
+            setTimeout(() => { 
+              element.style.background = '';
+              refreshTopicList(); // Refresh to show new indentation
+            }, 1000);
+          }
+        });
+    }
+
+    // EDIT NAME
+    function editName(topicId) {
+      const element = document.getElementById(`name-${topicId}`);
+      element.contentEditable = 'true';
+      element.focus();
+      selectAll(element);
+      
+      element.addEventListener('blur', async function saveName() {
+        const newName = element.innerText.trim();
+        element.contentEditable = 'false';
+        
+        const { error } = await sb
+          .from('staging_aqa_topics')
+          .update({ topic_name: newName })
+          .eq('id', topicId);
+        
+        if (error) {
+          alert('Failed: ' + error.message);
+        } else {
+          element.style.background = 'rgba(0,245,0,0.2)';
+          setTimeout(() => { element.style.background = ''; }, 1000);
+        }
+        
+        element.removeEventListener('blur', saveName);
+      }, { once: true });
+    }
+
+    // EDIT ALL (opens edit mode for all fields)
+    function editTopic(topicId) {
+      editCode(topicId);
+    }
+
+    function selectAll(element) {
+      const range = document.createRange();
+      range.selectNodeContents(element);
+      const selection = window.getSelection();
+      selection.removeAllRanges();
+      selection.addRange(range);
+    }
+
+    async function deleteTopic(topicId, topicName) {
+      if (!confirm(`Delete:\n"${topicName}"?\n\nThis cannot be undone!`)) return;
+      
+      const { error } = await sb.from('staging_aqa_topics').delete().eq('id', topicId);
+      
+      if (error) {
+        alert('Failed: ' + error.message);
+      } else {
+        const row = document.getElementById(`topic-row-${topicId}`);
+        row.style.background = 'rgba(255,0,0,0.2)';
+        setTimeout(() => row.remove(), 300);
+      }
+    }
+
+    function showAddTopicForm() {
+      document.getElementById('add-topic-form').style.display = 'block';
+    }
+
+    function hideAddTopicForm() {
+      document.getElementById('add-topic-form').style.display = 'none';
+    }
+
+    async function addNewTopic() {
+      const code = document.getElementById('new-topic-code').value.trim();
+      const name = document.getElementById('new-topic-name').value.trim();
+      const parentId = document.getElementById('new-topic-parent').value;
+      const level = parseInt(document.getElementById('new-topic-level').value);
+      
+      if (!code || !name) {
+        alert('Please enter code and name');
+        return;
+      }
+      
+      const { error } = await sb.from('staging_aqa_topics').insert([{
+        subject_id: currentSubjectId,
+        topic_code: code,
+        topic_name: name,
+        topic_level: level,
+        parent_topic_id: parentId || null
+      }]);
+      
+      if (error) {
+        alert('Failed: ' + error.message);
+      } else {
+        hideAddTopicForm();
+        refreshTopicList();
+      }
+    }
+
+    // Load on startup
+    window.onload = async () => {
+      await loadStats();
+      await loadSubjects();
+    };
+  </script>
+</body>
+</html>
+

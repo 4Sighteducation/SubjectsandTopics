@@ -95,7 +95,7 @@ class AQAWebScraper(BaseScraper):
     def _build_subject_content_url(self, subject: str, qualification: str, code: str) -> str:
         """
         Build URL for subject content page.
-        Handles special cases like Art and Design variants.
+        Handles special cases like Art and Design, English variants.
         """
         # Default: use subject name as slug
         subject_slug = subject.lower().replace(' ', '-')
@@ -103,6 +103,18 @@ class AQAWebScraper(BaseScraper):
         # Handle Art and Design - all variants use "art-and-design"
         if 'art-and-design' in subject_slug or 'art and design' in subject.lower():
             subject_slug = "art-and-design"
+        
+        # Handle English subjects
+        if 'english-literature-a' in subject_slug or subject == 'English Literature A':
+            subject_slug = "english"  # English Lit A uses /english/ path
+        elif 'english-literature-b' in subject_slug or subject == 'English Literature B':
+            subject_slug = "english"  # English Lit B also uses /english/ path
+        elif 'english-language-and-literature' in subject_slug:
+            subject_slug = "english"
+        elif 'english-language' in subject_slug:
+            subject_slug = "english"
+        elif 'english-literature' in subject_slug:
+            subject_slug = "english"
         
         qual_slug = qualification.lower().replace(' ', '-')
         
@@ -153,9 +165,20 @@ class AQAWebScraper(BaseScraper):
                 content_links.append((code, title, url))
                 continue
         
+        # DEDUPLICATE content_links (same topic appears multiple times on page!)
+        unique_links = []
+        seen_codes = set()
+        
+        for code, title, url in content_links:
+            if code not in seen_codes:
+                unique_links.append((code, title, url))
+                seen_codes.add(code)
+        
+        logger.info(f"After deduplication: {len(unique_links)} unique topics (was {len(content_links)})")
+        
         # Determine pattern type
-        if content_links:
-            first_code = content_links[0][0]
+        if unique_links:
+            first_code = unique_links[0][0]
             # Check if it's numbered (3.1, 4.1, etc.) or option codes (1A, 2B, etc.)
             if re.match(r'^\d+\.\d+$', first_code):
                 pattern_type = 'numbered_sections'
@@ -165,7 +188,7 @@ class AQAWebScraper(BaseScraper):
             pattern_type = 'unknown'
             logger.warning("Could not detect content pattern")
         
-        return pattern_type, content_links
+        return pattern_type, unique_links
     
     def _scrape_content_page(self, url: str, code: str, title: str, pattern_type: str) -> Dict:
         """
