@@ -1,0 +1,3884 @@
+A Level 
+Chemistry
+Specification
+Pearson Edexcel Level 3 Advanced GCE in Chemistry (9CH0)
+First teaching from September 2015
+First certification from 2017 Issue 3
+ 
+ 
+About Pearson 
+We are the world’s leading learning company operating in countries all around the 
+world. We provide content, assessment and digital services to learners, educational 
+institutions, employers, governments and other partners globally. We are 
+committed to helping equip learners with the skills they need to enhance their 
+employability prospects and to succeed in the changing world of work. We believe 
+that wherever learning flourishes so do people. 
+References to third party materials made in this specification are made in good 
+faith. Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Materials may include textbooks, journals, magazines and other publications and 
+websites.) 
+ 
+All information in this specification is correct at time of publication. 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 92953 7 
+All the material in this publication is copyright 
+© Pearson Education Limited 2024 
+ 
+ 
+Summary of Pearson Edexcel Level 3  
+Advanced GCE in Chemistry (9CH0) specification  
+Issue 3 changes 
+ 
+Summary of changes made between previous issue and this current 
+issue 
+Page 
+number 
+Adjusted font so that symbols for Aluminum, Chlorine and Thallium are more 
+clear. 
+Removal of ‘Relation in electronegativity difference’ table 
+97 
+ 
+If you need further information on these changes or what they mean, contact us via 
+our website at: qualifications.pearson.com/en/support/contact-us.html 
+ 
+ 
+ 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+May 2014 
+  The reform of the qualifications system in England is a profoundly important 
+change to the education system. Teachers need to know that the new qualifications 
+will assist them in helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an 
+‘Expert Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or 
+because of our experience in reforming qualifications in other systems around the 
+world as diverse as Singapore, Hong Kong, Australia and a number of countries 
+across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification 
+development process that has included: 
+• Extensive international comparability of subject content against the highest-
+performing jurisdictions in the world 
+• Benchmarking assessments against UK and overseas providers to ensure that 
+they are at the right level of demand 
+• Establishing External Subject Advisory Groups, drawing on independent subject-
+specific expertise to challenge and validate our qualifications 
+• Subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future 
+oriented. The design has been guided by what is called an ‘Efficacy Framework’, 
+meaning learner outcomes have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a 
+learner’s success in education. As a result of our work as a panel we are confident 
+that we have supported the development of qualifications that are outstanding for 
+their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.  
+  
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong  
+Director, National Institute of 
+Education, Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+All titles correct as at May 2014 
+“ 
+” 
+ 
+ 
+Introduction 
+The Pearson Edexcel Level 3 Advanced GCE in Chemistry is designed for use in 
+schools and colleges. It is part of a suite of GCE qualifications offered by Pearson. 
+Purpose of the specification 
+This specification sets out: 
+• the objectives of the qualification 
+• any other qualifications that a student must have completed before taking the 
+qualification 
+• any prior knowledge and skills that the student is required to have before taking 
+the qualification 
+• any other requirements that a student must have satisfied before they will be 
+assessed or before the qualification will be awarded 
+• the knowledge and understanding that will be assessed as part of the 
+qualification 
+• the method of assessment and any associated requirements relating to it 
+• the criteria against which a student’s level of attainment will be measured (such 
+as assessment criteria). 
+ 
+  
+Rationale 
+The Pearson Edexcel Level 3 Advanced GCE in Chemistry meets the following 
+purposes, which fulfil those defined by the Office of Qualifications and Examinations 
+Regulation (Ofqual) for GCE qualifications in their GCE Qualification Level 
+Conditions and Requirements document, published in April 2014. 
+The purposes of this qualification are to: 
+• define and assess achievement of the knowledge, skills and understanding that 
+will be needed by students planning to progress to undergraduate study at UK 
+higher education institutions, particularly (although not only) in the same 
+subject area 
+• set out a robust and internationally comparable post-16 academic course of 
+study to develop that knowledge, skills and understanding 
+• enable higher education institutions to identify accurately the level of 
+attainment of students 
+• provide a basis for school and college accountability measures at age 18 
+• provide a benchmark of academic ability for employers. 
+Qualification aims and objectives 
+The aims and objectives of the Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+are to enable students to develop: 
+• essential knowledge and understanding of different areas of the subject and 
+how they relate to each other 
+• a deep appreciation of the skills, knowledge and understanding of scientific 
+methods 
+• competence and confidence in a variety of practical, mathematical and  
+problem-solving skills 
+• their interest in and enthusiasm for the subject, including developing an interest 
+in further study and careers associated with the subject 
+• an understanding of how society makes decisions about scientific issues and 
+how the sciences contribute to the success of the economy and society. 
+ 
+ 
+The context for the development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+• reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+• consulting with key stakeholders on content and assessment, including subject 
+associations, higher education academics, teachers and employers to ensure 
+this qualification is suitable for a UK context 
+• reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their document GCE Qualification Level Conditions and Requirements and by the 
+Department for Education (DfE) in their GCE AS and A level regulatory 
+requirements for biology, chemistry, physics and psychology document, published 
+in April 2014. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] Pearson’s World Class Qualification principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep 
+learning and measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing 
+reliable and valid assessment tasks and processes, and generating confidence in 
+end users of the knowledge, skills and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that 
+students develop at different rates and have different learning needs, and 
+focusing on progression 
+● empowering, through promoting the development of transferable skills,  
+see Appendix 1. 
+ 
+  
+ 
+ 
+ 
+ 
+Contents 
+Qualification at a glance 1 
+Knowledge, skills and understanding 5 
+Science Practical Endorsement 45 
+Marking and standardisation 49 
+Malpractice 50 
+Assessment 53 
+Assessment summary 53 
+Assessment Objectives and weightings 55 
+Breakdown of Assessment Objectives 56 
+Entry and assessment information 57 
+Student entry 57 
+Forbidden combinations and discount code 57 
+Access arrangements, reasonable adjustments and special 
+consideration 57 
+Equality Act 2010 and Pearson equality policy 59 
+Synoptic assessment 59 
+Awarding and reporting 59 
+Language of assessment 60 
+Other information 61 
+Student recruitment 61 
+Prior learning and other requirements 61 
+Progression 61 
+Relationship between Advanced Subsidiary GCE and Advanced 
+GCE 61 
+Progression from Advanced Subsidiary GCE to Advanced GCE 62 
+Relationship between GCSE and Advanced GCE 62 
+Progression from GCSE to Advanced GCE 62 
+Appendix 1: Transferable skills 65 
+Appendix 2: Level 3 Extended Project qualification 67 
+Appendix 3: Codes 71 
+Appendix 4: Practical competency authentication 
+sheet 73 
+Appendix 5: Working scientifically 75 
+Appendix 5a: Practical skills identified for indirect 
+assessment and developed through teaching and 
+learning 77
+ 
+ 
+  
+Appendix 5b: Practical skills identified for direct 
+assessment and developed through teaching and 
+learning 79 
+Appendix 5c: Use of apparatus and techniques 81 
+Appendix 5d: Mapping between Appendix 5c and core 
+practicals (chemistry) 83 
+Appendix 6: Mathematical skills and exemplifications 85 
+Appendix 7: Command words used in examination 
+papers 91
+ 
+Appendix 8: Data Booklet 93 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+1 
+Qualification at a glance 
+The Pearson Edexcel Level 3 Advanced GCE in Chemistry consists of three 
+externally examined papers and the Science Practical Endorsement. 
+Students are expected to carry out the sixteen core practical experiments that are 
+identified in the topics. 
+Students must complete all assessment in May/June in any single year. 
+ 
+Paper 1: Advanced Inorganic and Physical Chemistry 
+ *Paper code: 9CH0/01 
+• Externally assessed 
+• Availability: May/June 
+• First assessment: 2017 
+30% of the 
+total 
+qualification 
+Overview of content 
+This paper will examine the following topics. 
+• Topic 1: Atomic Structure and the Periodic Table 
+• Topic 2: Bonding and Structure 
+• Topic 3: Redox I 
+• Topic 4: Inorganic Chemistry and the Periodic Table 
+• Topic 5: Formulae, Equations and Amounts of Substance 
+• Topic 8: Energetics I 
+• Topic 10: Equilibrium I 
+• Topic 11: Equilibrium II 
+• Topic 12: Acid-base Equilibria 
+• Topic 13: Energetics II 
+• Topic 14: Redox II 
+• Topic 15: Transition Metals 
+Overview of assessment 
+• Assessment is 1 hour 45 minutes. 
+• The paper consists of 90 marks. 
+• The paper may include multiple-choice, short open, open-response, 
+calculations and extended writing questions. 
+• The paper will include questions that target mathematics at Level 2 or above 
+(see Appendix 6: Mathematical skills and exemplifications). Overall, a 
+minimum of 20% of the marks across the three papers will be awarded for 
+mathematics at Level 2 or above. 
+ 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+2 
+ 
+Paper 2: Advanced Organic and Physical Chemistry 
+ *Paper code: 9CH0/02 
+• Externally assessed 
+• Availability: May/June 
+• First assessment: 2017 
+30% of the 
+total 
+qualification 
+Overview of content 
+This paper will examine the following topics. 
+• Topic 2: Bonding and Structure 
+• Topic 3: Redox I 
+• Topic 5: Formulae, Equations and Amounts of Substance 
+• Topic 6: Organic Chemistry I 
+• Topic 7: Modern Analytical Techniques I 
+• Topic 9: Kinetics I 
+• Topic 16: Kinetics II 
+• Topic 17: Organic Chemistry II 
+• Topic 18: Organic Chemistry III 
+• Topic 19: Modern Analytical Techniques II 
+Overview of assessment 
+• Assessment is 1 hour 45 minutes. 
+• The paper consists of 90 marks. 
+• The paper may include multiple-choice, short open, open-response, 
+calculations and extended writing questions. 
+• The paper will include questions that target mathematics at Level 2 or above 
+(see Appendix 6: Mathematical skills and exemplifications). Overall, a 
+minimum of 20% of the marks across the three papers will be awarded for 
+mathematics at Level 2 or above. 
+ 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+3 
+ 
+Paper 3: General and Practical Principles in Chemistry  
+*Paper code: 9CH0/03 
+• Externally assessed 
+• Availability: May/June 
+• First assessment: 2017 
+40% of the 
+total 
+qualification 
+Overview of content 
+• Questions in this paper may draw on any of the topics in this specification. 
+• The paper will include synoptic questions that may draw on two or more 
+different topics listed. 
+• The paper will include questions that assess conceptual and theoretical 
+understanding of experimental methods (indirect practical skills) that will draw 
+on students’ experiences of the core practicals. 
+Overview of assessment 
+• Assessment is 2 hours 30 minutes. 
+• The paper consists of 120 marks. 
+• The paper may include short open, open-response, calculations and extended 
+writing questions. 
+• The paper will include questions that target mathematics at Level 2 or above 
+(see Appendix 6: Mathematical skills and exemplifications). Overall, a 
+minimum of 20% of the marks across the three papers will be awarded for 
+mathematics at Level 2 or above. 
+• Some questions will assess conceptual and theoretical understanding of 
+experimental methods (see Appendix 5: Working scientifically). 
+ 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+4 
+ 
+Science Practical Endorsement**  
+*Paper code: 9CH0/04 
+• Internally assessed and externally monitored by Pearson. 
+• Availability: May/June 
+• First assessment: 2017 
+Overview of content 
+The assessment of practical skills is a compulsory requirement of the course of 
+study for A level chemistry. It will appear on all students’ certificates as a 
+separately reported result, alongside the overall grade for the qualification.  
+Students must carry out a minimum of 12 practical activities which, together, 
+meet the requirements of Appendices 5b (Practical skills identified for direct 
+assessment and developed through teaching and learning) and 5c (Use of 
+apparatus and techniques) from the prescribed subject content.  
+The practical activities prescribed in this specification (the "core practicals") 
+provide opportunities for demonstrating competence in all the skills identified, 
+together with the use of apparatus and techniques for each subject. However, 
+students can also demonstrate these competencies in any additional practical 
+activity undertaken throughout the course of study which covers the requirements 
+of Appendix 5c. 
+Overview of assessment 
+Students' practical work will be assessed by teachers, using common practical 
+assessment criteria (CPAC) that are consistent across exam boards. These criteria 
+can be found on pages 48–49. 
+Students who demonstrate the required standard across all the requirements of 
+the CPAC will receive a ‘pass’ grade. 
+Students may work in groups but teachers who award a pass to their students 
+need to be confident of individual students’ competence. 
+The correct application of CPAC to students' work will be monitored through a 
+system of visits to centres. These visits will be coordinated across the exam 
+boards by JCQ, to ensure that all centres are visited regularly, although not 
+necessarily in each science subject. 
+ 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+**Students will be assessed separately for the Science Practical Endorsement. The 
+Endorsement will not contribute to the overall grade for this qualification, but the 
+result will be recorded on the student’s certificate. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+5 
+ 
+Knowledge, skills and understanding 
+Content overview 
+Students will be expected to demonstrate and apply the knowledge, understanding 
+and skills described in the content. They will also be expected to analyse, interpret 
+and evaluate a range of scientific information, ideas and evidence using their 
+knowledge, understanding and skills. 
+To demonstrate their knowledge, students should be able to undertake a range of 
+activities, including the ability to recall, describe and define, as appropriate. To 
+demonstrate their understanding, students should be able to explain ideas and to 
+use their knowledge to apply, analyse, interpret and evaluate, as appropriate. 
+Core practicals will be assessed through examination. 
+There are opportunities for students to develop mathematical skills throughout the 
+content. They are required to apply the skills to relevant chemistry contexts. Please 
+see Appendix 6: Mathematical skills and exemplifications for further information. 
+Practical skills 
+Practical work is central to any study of chemistry. For this reason, the specification 
+includes 16 core practical activities which form a thread linking theoretical 
+knowledge and understanding to practical scenarios. In following this thread, 
+students will build on practical skills learned at GCSE, becoming confident practical 
+chemists, handling apparatus competently and safely. Using a variety of apparatus 
+and techniques, they should be able to design and carry out both the core practical 
+activities and their own investigations, collecting data which can be analysed and 
+used to draw valid conclusions.  
+One important aspect of practical work is the ability to evaluate and manage 
+potential risks. The variety of different practical techniques and scenarios in the 
+core practical activities give students scope to consider risk management in 
+different contexts.  
+Students should also consider the ethical issues presented by their work in the 
+laboratory, which might include consideration for using minimum quantities of 
+resources, such as through microscale procedures; the safe disposal of waste 
+materials, especially from organic reactions; and appropriate consideration for 
+other people involved in their own work or who is working nearby. 
+Also central to the development of practical skills is the ability to communicate 
+information and ideas through the use of appropriate terminology and ICT. Being 
+able to communicate clearly the findings of practical work is arguably as important 
+as the collection of accurate data.  
+In carrying out practical activities, students will be expected to use their knowledge 
+and understanding to pose scientific questions which can be investigated through 
+experimental activities. Such activities will enable students to collect data, analyse 
+it for correlations and causal relationships, and to develop solutions to the 
+questions posed.  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+6 
+Questions within written examination papers will aim to assess the knowledge and 
+understanding that students gain while carrying out practical activities, within the 
+context of the 16 core practical activities, as well as in novel practical scenarios. 
+The written papers will test the skills of students in planning practical work – both 
+in familiar and unfamiliar applications – including risk management and the 
+selection of apparatus, with reasons. As part of data handling, students will be 
+expected to use significant figures appropriately, to process data and to plot 
+graphs. In analysing outcomes and drawing valid conclusions, students should 
+critically consider methods and data, including assessing measurement 
+uncertainties and errors.  
+Examination papers will also provide the opportunity for students to evaluate the 
+wider role of the scientific community in validating new knowledge and the ways in 
+which society as a whole uses science to inform decision making. Within this, they 
+could be asked to consider the implications and applications of chemistry in terms 
+of associated benefits and risks. Students may also be asked to evaluate 
+methodology, evidence and data and resolve conflicting evidence. 
+Success in questions that indirectly assess practical skills within written papers will 
+come more naturally to those candidates who have a solid foundation of laboratory 
+practice and who, having carried them out, have a thorough understanding of 
+practical techniques. Therefore, where possible, teachers should consider adding 
+additional experiments to the core practical activities. The 16 core practicals will 
+provide the basis from which some of the Paper 3 examination questions will be 
+drawn. 
+Teachers should note that the completion of the 16 core practical activities can also 
+provide evidence of competence for the Science Practical Endorsement (please see 
+page 45) and that evidence must be provided for the 12 practical techniques listed 
+in Appendix 5c through a minimum of 12 core practical activities.  
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+7 
+Topic 1: Atomic Structure and the Periodic Table 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+the use of hand-held spectroscopes to investigate spectra from flame tests. 
+Mathematical skills that could be developed in this topic include calculating a 
+relative atomic mass from isotopic composition data, using simple probability to 
+calculate the peak heights for the mass spectrum of chlorine molecules, using 
+logarithms to compare successive ionisation energies for an element. 
+Within this topic, students can consider how models for the atom have developed 
+over time, as new evidence has become available. They can also consider how data 
+is used to investigate relationships, such as between the magnitude of ionisation 
+energy and the structure of an atom. 
+ 
+Students should: 
+1. know the structure of an atom in terms of electrons, protons and neutrons 
+2. know the relative mass and relative charge of protons, neutrons and electrons 
+3. know what is meant by the terms ‘atomic (proton) number’ and ‘mass number’ 
+4. be able to determine the number of each type of sub-atomic particle in an atom, 
+molecule or ion from the atomic (proton) number and mass number 
+5. understand the term ‘isotopes’ 
+6. be able to define the terms ‘relative isotopic mass’ and ‘relative atomic mass’, 
+based on the 12C scale 
+7. understand the terms ‘relative molecular mass’ and ‘relative formula mass’, 
+including calculating these values from relative atomic masses 
+ Definitions of these terms will not be expected. 
+ The term ‘relative formula mass’ should be used for compounds with giant 
+structures. 
+8. be able to analyse and interpret data from mass spectrometry to calculate 
+relative atomic mass from relative abundance of isotopes and vice versa 
+9. be able to predict the mass spectra, including relative peak heights, for diatomic 
+molecules, including chlorine 
+10. understand how mass spectrometry can be used to determine the relative 
+molecular mass of a molecule 
+ Limited to the m/z value for the molecular ion, M+, giving the relative molecular 
+mass of the molecule. 
+11. be able to define the terms ‘first ionisation energy’ and ‘successive ionisation 
+energies’ 
+12. understand how ionisation energies are influenced by the number of protons, the 
+electron shielding and the electron sub-shell from which the electron is removed 
+13. understand reasons for the general increase in first ionisation energy across a 
+period 
+14. understand reasons for the decrease in first ionisation energy down a group 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+8 
+ 
+Students should: 
+15. understand how ideas about electronic configuration developed from: 
+ i the fact that atomic emission spectra provide evidence for the existence  
+ of quantum shells  
+ ii the fact that successive ionisation energies provide evidence for the existence
+ of quantum shells and the group to which the element belongs 
+ iii the fact that the first ionisation energy of successive elements provides
+ evidence for electron sub-shells 
+16. know the number of electrons that can fill the first four quantum shells 
+17. know that an orbital is a region within an atom that can hold up to two electrons 
+with opposite spins 
+18. know the shape of an s-orbital and a p-orbital 
+19. know the number of electrons that occupy s, p and d-subshells 
+20 know that electrons fill subshells singly, before pairing up, and that two electrons 
+in the same orbital must have opposite spins 
+21. be able to predict the electronic configurations, using 1s notation and electrons-
+in-boxes notation, of: 
+ i atoms, given the atomic number, Z, up to Z = 36 
+ ii ions, given the atomic number, Z, and the ionic charge, for s and p block ions  
+ only, up to Z = 36 
+22. know that elements can be classified as s, p and d-block elements 
+23. understand that electronic configuration determines the chemical properties of an 
+element 
+24. understand periodicity in terms of a repeating pattern across different periods 
+25. understand reasons for the trends in the following properties of the elements 
+from periods 2 and 3 of the Periodic Table: 
+      i the melting and boiling temperatures of the elements, based on given data, in 
+terms of structure and bonding 
+      ii ionisation energy based on given data or recall of the plots of ionisation energy 
+versus atomic number 
+26. be able to illustrate periodicity using data, including electronic configurations, 
+atomic radii, melting and boiling temperatures and first ionisation energies 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+9 
+Topic 2: Bonding and Structure 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+investigating the migration of ions, for example in a U-tube of copper(II) chromate, 
+seeing the effect of a charged rod on a flow of water. 
+Mathematical skills that could be developed in this topic include representing 
+shapes of molecules with suitable sketches, plotting data to investigate trends in 
+boiling temperatures of alkanes. 
+Within this topic, students can consider the strengths and weaknesses of the 
+models used to describe different types of bonding. As part of their study of 
+electron-pair repulsion theory, students can see how chemists can make 
+generalisations and use them to make predictions. 
+ 
+Students should: 
+Topic 2A: Bonding 
+1. know that ionic bonding is the strong electrostatic attraction between oppositely 
+charged ions 
+2. understand the effects that ionic radius and ionic charge have on the strength of 
+ionic bonding 
+3. understand the formation of ions in terms of electron loss or gain 
+4. be able to draw electronic configuration diagrams of cations and anions using 
+dot-and-cross diagrams 
+5. understand reasons for the trends in ionic radii down a group and for a set of 
+isoelectronic ions, e.g. N3– to Al3+ 
+6. understand that the physical properties of ionic compounds and the migration of 
+ions provide evidence for the existence of ions 
+7. know that a covalent bond is the strong electrostatic attraction between two 
+nuclei and the shared pair of electrons between them 
+8. be able to draw dot-and-cross diagrams to show electrons in covalent substances, 
+including: 
+ i molecules with single, double and triple bonds 
+ ii species exhibiting dative covalent (coordinate) bonding, including Al2Cl6 and  
+ ammonium ion 
+9. understand the relationship between bond lengths and bond strengths for 
+covalent bonds 
+10. understand that the shape of a simple molecule or ion is determined by the 
+repulsion between the electron pairs that surround a central atom 
+11. understand reasons for the shapes of, and bond angles in, simple molecules and 
+ions with up to six outer pairs of electrons (any combination of bonding pairs and 
+lone pairs) 
+ Examples should include BeCl2, BCl3, CH4, NH3, NH4+, H2O, CO2, PCl5(g) and 
+SF6(g) and related molecules and ions; as well as simple organic molecules in 
+this specification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+10 
+ 
+ 
+Students should: 
+12. be able to predict the shapes of, and bond angles in, simple molecules and ions 
+analogous to those specified above using electron-pair repulsion theory 
+13. know that electronegativity is the ability of an atom to attract the bonding 
+electrons in a covalent bond 
+14. know that ionic and covalent bonding are the extremes of a continuum of 
+bonding type and that electronegativity differences lead to bond polarity in bonds 
+and molecules 
+15. understand that molecules with polar bonds may not be polar molecules and be 
+able to predict whether or not a given molecule is likely to be polar 
+16. understand the nature of intermolecular forces resulting from the following 
+interactions: 
+      i London forces (instantaneous dipole – induced dipole) 
+ ii permanent dipoles 
+ iii hydrogen bonds 
+17. understand the interactions in molecules, such as H2O, liquid NH3 and liquid HF, 
+which give rise to hydrogen bonding 
+18. understand the following anomalous properties of water resulting from hydrogen 
+bonding: 
+ i its relatively high melting temperature and boiling temperature 
+ ii the density of ice compared to that of water 
+19. be able to predict the presence of hydrogen bonding in molecules analogous to 
+those mentioned above 
+20. understand, in terms of intermolecular forces, physical properties shown by 
+materials, including: 
+ i the trends in boiling temperatures of alkanes with increasing chain length 
+ ii the effect of branching in the carbon chain on the boiling temperatures of
+ alkanes 
+ iii the relatively low volatility (higher boiling temperatures) of alcohols compared
+ to alkanes with a similar number of electrons 
+ iv the trends in boiling temperatures of the hydrogen halides, HF to HI 
+21. understand factors that influence the choice of solvents, including: 
+ i water, to dissolve some ionic compounds, in terms of the hydration of the ions 
+ ii water, to dissolve simple alcohols, in terms of hydrogen bonding 
+ iii water, as a poor solvent for compounds (to include polar molecules such as
+ halogenoalkanes), in terms of inability to form hydrogen bonds 
+ iv non-aqueous solvents, for compounds that have similar intermolecular forces
+ to those in the solvent 
+22. know that metallic bonding is the strong electrostatic attraction between metal 
+ions and the delocalised electrons 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+11 
+ 
+Students should: 
+Topic 2B: Structure 
+23. know that giant lattices are present in: 
+ i ionic solids (giant ionic lattices) 
+ ii covalently bonded solids, such as diamond, graphite and silicon(IV) oxide
+ (giant covalent lattices) 
+ iii solid metals (giant metallic lattices) 
+24. know that the structure of covalently bonded substances such as iodine, I2, and 
+ice, H2O, is simple molecular 
+25. know the different structures formed by carbon atoms, including graphite, 
+diamond and graphene 
+26. be able to predict the type of structure and bonding present in a substance from 
+numerical data and/or other information 
+27. be able to predict the physical properties of a substance, including melting and 
+boiling temperature, electrical conductivity and solubility in water, in terms of: 
+ i the types of particle present (atoms, molecules, ions, electrons) 
+ ii the structure of the substance 
+ iii the type of bonding and the presence of intermolecular forces, where relevant 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+12 
+Topic 3: Redox I 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+simple test tube reactions to investigate redox systems. 
+Mathematical skills that could be developed in this topic include using an algebraic 
+method to work out the oxidation number of an element within a complex species, 
+balancing equations for redox reactions by combining ionic half-equations. 
+Within this topic, students can consider how the concept of oxidation number 
+provides a more considered route for the process of balancing chemical equations. 
+ 
+Students should: 
+1. know what is meant by the term ‘oxidation number’ 
+2. be able to calculate the oxidation number of elements in compounds and ions 
+ The use of oxidation numbers in peroxides and metal hydrides is expected. 
+3. understand oxidation and reduction in terms of electron transfer and changes in 
+oxidation number, applied to reactions of s- and p-block elements 
+4. understand oxidation and reduction in terms of electron loss or electron gain 
+5. know that oxidising agents gain electrons 
+6. know that reducing agents lose electrons 
+7. understand that a disproportionation reaction involves an element in a single 
+species being simultaneously oxidised and reduced 
+8. know that oxidation number is a useful concept in terms of the classification of 
+reactions as redox and as disproportionation 
+9. be able to indicate the oxidation number of an element in a compound or ion, 
+using a Roman numeral 
+10. be able to write formulae given oxidation numbers 
+11. understand that metals, in general, form positive ions by loss of electrons with 
+an increase in oxidation number 
+12. understand that non-metals, in general, form negative ions by gain of electrons 
+with a decrease in oxidation number 
+13. be able to write ionic half-equations and use them to construct full ionic 
+equations 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+13 
+Topic 4: Inorganic Chemistry and the Periodic Table 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+reacting Group 2 elements with water, heating nitrates and carbonates of Group 1 
+and 2 elements, investigating flame colours of s-block elements, preparing iodine 
+from seaweed, investigating displacement reactions in the halogens, reacting 
+Group 1 halides with concentrated sulfuric acid. 
+Mathematical skills that could be developed in this topic include manipulating data 
+on the solubility of hydroxides. 
+Within this topic, students can consider how data can be used to make predictions 
+based on patterns and relationships, for example by predicting properties of 
+Group 7 elements. 
+ 
+Students should: 
+Topic 4A: The elements of Groups 1 and 2 
+1. understand reasons for the trend in ionisation energy down Group 2 
+2. understand reasons for the trend in reactivity of the Group 2 elements down the 
+group 
+3. know the reactions of the elements Mg to Ba in Group 2 with oxygen, chlorine 
+and water 
+4. know the reactions of the oxides of Group 2 elements with water and dilute acid, 
+and their hydroxides with dilute acid 
+5. know the trends in solubility of the hydroxides and sulfates of Group 2 elements 
+6. understand reasons for the trends in thermal stability of the nitrates and the 
+carbonates of the elements in Groups 1 and 2 in terms of the size and charge of 
+the cations involved 
+7. understand the formation of characteristic flame colours by Group 1 and 2 
+compounds in terms of electron transitions 
+ Students will be expected to know the flame colours for Groups 1 and 2 
+compounds. 
+8. understand experimental procedures to show: 
+ i patterns in thermal decomposition of Group 1 and 2 nitrates and carbonates 
+ ii flame colours in compounds of Group 1 and 2 elements 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+14 
+ 
+Students should: 
+Topic 4B: The elements of Group 7 (halogens) 
+9. understand reasons for the trends in melting and boiling temperatures, physical 
+state at room temperature, and electronegativity for Group 7 elements 
+10. understand reasons for the trend in reactivity of Group 7 elements down the 
+group 
+11. understand the trend in reactivity of Group 7 elements in terms of the redox 
+reactions of Cl2, Br2 and I2 with halide ions in aqueous solution, followed by the 
+addition of an organic solvent 
+12. understand, in terms of changes in oxidation number, the following reactions of 
+the halogens: 
+ i oxidation reactions with Group 1 and 2 metals 
+ ii the disproportionation reaction of chlorine with water and the use of chlorine
+ in water treatment 
+  iii the disproportionation reaction of chlorine with cold, dilute aqueous sodium
+ hydroxide to form bleach 
+ iv the disproportionation reaction of chlorine with hot alkali 
+ v reactions analogous to those specified above 
+13. understand the following reactions: 
+ i solid Group 1 halides with concentrated sulfuric acid, to illustrate the trend in
+ reducing ability of the hydrogen halides  
+ ii precipitation reactions of the aqueous anions Cl–, Br– and I– with aqueous
+ silver nitrate solution, followed by aqueous ammonia solution 
+ iii hydrogen halides with ammonia and with water (to produce acids) 
+14. be able to make predictions about fluorine and astatine and their compounds, in 
+terms of knowledge of trends in halogen chemistry 
+Topic 4C: Analysis of inorganic compounds 
+15. know reactions, including ionic equations where appropriate, for identifying: 
+ i carbonate ions, CO32-, and hydrogencarbonate ions, HCO3–, using an aqueous  
+ acid to form carbon dioxide 
+ ii sulfate ions, SO42-, using acidified barium chloride solution 
+ iii ammonium ions, NH4+, using sodium hydroxide solution and warming to form  
+ ammonia 
+ Tests for halide ions and for the ions of Group 1 and 2 metals are also required, 
+but are covered elsewhere in this Topic. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+15 
+Topic 5: Formulae, Equations and Amounts of Substance 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+determining a simple empirical formula such as MgO or CuO, determining the 
+number of moles of water of crystallisation in a salt such as Epsom salts, 
+performing a wide range of titrations involving different indicators, preparing salts. 
+Mathematical skills that could be developed in this topic include converting between 
+units such as cm3 and dm3, using standard form with the Avogadro constant, 
+rearranging formulae for calculating moles in solids and in solutions, calculating 
+atom economy, dealing with percentage errors. 
+Within this topic, students first encounter core practicals and can consider ideas of 
+measurement uncertainty, evaluating their results in terms of systematic and 
+random errors. They can also consider how the concept of atom economy is useful 
+to help chemists make decisions so that reactions can be made more efficient in 
+terms of resources. 
+ 
+Students should: 
+1. know that the mole (mol) is the unit for amount of a substance 
+2. be able to use the Avogadro constant, L, (6.02 × 1023 mol-1) in calculations 
+3. know that the molar mass of a substance is the mass per mole of the substance 
+in g mol-1 
+4. know what is meant by the terms ‘empirical formula’ and ‘molecular formula’ 
+5.  be able to use experimental data to calculate  
+ i. empirical formulae  
+ ii. molecular formulae including the use of pV = nRT for gases and volatile liquids 
+ Calculations of empirical formula may involve composition by mass or percentage 
+composition by mass data. 
+6. be able to write balanced full and ionic equations, including state symbols, for 
+chemical reactions 
+7. be able to calculate amounts of substances (in mol) in reactions involving mass, 
+volume of gas, volume of solution and concentration 
+ These calculations may involve reactants and/or products. 
+8. be able to calculate reacting masses from chemical equations, and vice versa, 
+using the concepts of amount of substance and molar mass 
+9. be able to calculate reacting volumes of gases from chemical equations, and vice 
+versa, using the concepts of amount of substance 
+10. be able to calculate reacting volumes of gases from chemical equations, and vice 
+versa, using the concepts of molar volume of gases 
+CORE PRACTICAL 1: Measure the molar volume of a gas 
+11. be able to calculate solution concentrations, in mol dm-3 and g dm-3, including 
+simple acid-base titrations using a range of acids, alkalis and indicators 
+ The use of both phenolphthalein and methyl orange as indicators will be 
+expected. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+16 
+ 
+Students should: 
+CORE PRACTICAL 2: Prepare a standard solution from a solid acid and use it 
+to find the concentration of a solution of sodium hydroxide 
+CORE PRACTICAL 3: Find the concentration of a solution of hydrochloric acid 
+12. be able to: 
+ i calculate measurement uncertainties and measurement errors in experimental
+ results 
+ ii comment on sources of error in experimental procedures 
+13. understand how to minimise the percentage error and percentage uncertainty in 
+experiments involving measurements 
+14. be able to calculate percentage yields and percentage atom economies using 
+chemical equations and experimental results 
+ molar mass of the desired productAtom economy of a reaction =  × 100%
+sum of the molar masses of all products
+ 
+ 
+15. be able to relate ionic and full equations, with state symbols, to observations 
+from simple test tube reactions, to include: 
+ i displacement reactions 
+ ii reactions of acids 
+ iii precipitation reactions 
+16. understand risks and hazards in practical procedures and suggest appropriate 
+precautions where necessary 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+17 
+Topic 6: Organic Chemistry I 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+cracking of artificial crude oil, extracting limonene from orange peel, dehydrating an 
+alcohol to an alkene, preparing a simple halogenoalkane such as 1-bromobutane, 
+simple test tube reactions for different functional groups. 
+Mathematical skills that could be developed in this topic include calculating the yield 
+of a reaction or an atom economy. 
+Within this topic, students can consider how the polymer industry provides useful 
+solutions for many modern applications, but poses questions about sustainability of 
+resources and the feasibility of recycling. They will also encounter practical organic 
+chemistry, showing them how chemists work safely with potentially hazardous 
+chemicals by managing risks. 
+ 
+Students should: 
+Topic 6A: Introduction to organic chemistry 
+1. know that a hydrocarbon is a compound of hydrogen and carbon only 
+2. be able to represent organic molecules using empirical formulae, molecular 
+formulae, general formulae, structural formulae, displayed formulae and skeletal 
+formulae 
+3. know what is meant by the terms ‘homologous series’ and ‘functional group’ 
+4. be able to name compounds relevant to this specification using the rules of 
+International Union of Pure and Applied Chemistry (IUPAC) nomenclature 
+ Students will be expected to know prefixes for compounds up to C10 
+5. be able to classify reactions as addition, elimination, substitution, oxidation, 
+reduction, hydrolysis or polymerisation 
+6. understand the term ‘structural isomerism’ and determine the possible structural, 
+displayed and skeletal formulae of an organic molecule, given its molecular 
+formula 
+7. understand the term ‘stereoisomerism’, as illustrated by E/Z isomerism 
+(including cis-trans isomerism where two of the substituent groups are the same) 
+Topic 6B: Alkanes 
+8. know the general formula for alkanes 
+9. know that alkanes and cycloalkanes are saturated hydrocarbons 
+10. understand that alkane fuels are obtained from the fractional distillation, cracking 
+and reforming of crude oil 
+Reforming is described as the processing of straight-chain hydrocarbons into 
+branched-chain alkanes and cyclic hydrocarbons for efficient combustion. 
+11. know that pollutants, including carbon monoxide, oxides of nitrogen and sulfur, 
+carbon particulates and unburned hydrocarbons, are formed during the 
+combustion of alkane fuels 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+18 
+ 
+Students should: 
+12. understand the problems arising from pollutants from the combustion of fuels, 
+limited to the toxicity of carbon monoxide and the acidity of oxides of nitrogen 
+and sulfur 
+13. understand how the use of a catalytic converter solves some problems caused by 
+pollutants 
+14. understand the use of alternative fuels, including biodiesel and alcohols derived 
+from renewable sources such as plants, in terms of a comparison with 
+non-renewable fossil fuels 
+15. know that a radical: 
+ i is a species with an unpaired electron and is represented in mechanisms by a 
+ single dot 
+ ii is formed by homolytic fission of a covalent bond and results in the formation 
+ of radicals 
+16. understand the reactions of alkanes with: 
+ i oxygen in air (combustion) 
+ ii halogens, in terms of the mechanism of radical substitution through initiation,
+ propagation and termination steps 
+      The use of curly half-arrows is not expected in this mechanism. 
+17. understand the limitations of the use of radical substitution reactions in the 
+synthesis of organic molecules, in terms of further substitution reactions and the 
+formation of a mixture of products 
+Topic 6C: Alkenes 
+18. know the general formula for alkenes 
+19. know that alkenes and cycloalkenes are unsaturated hydrocarbons 
+20. understand the bonding in alkenes in terms of σ- and π- bonds 
+21. know what is meant by the term ‘electrophile’ 
+22. understand the addition reactions of alkenes with: 
+ i hydrogen, in the presence of a nickel catalyst, to form an alkane 
+ Knowledge of the application of this reaction to the manufacture of margarine 
+by catalytic hydrogenation of unsaturated vegetable oils is expected. 
+ ii halogens to produce dihalogenoalkanes 
+ iii hydrogen halides to produce halogenoalkanes 
+ iv steam, in the presence of an acid catalyst, to produce alcohols 
+ v potassium manganate(VII), in acid conditions, to oxidise the double bond and
+ produce a diol 
+23. understand that heterolytic bond fission of a covalent bond results in the 
+formation of ions 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+19 
+ 
+Students should: 
+24. understand the mechanism of the electrophilic addition reactions between 
+alkenes and: 
+ i halogens 
+ ii hydrogen halides, including addition to unsymmetrical alkenes 
+ iii other given binary compounds 
+ Use of the curly arrow notation is expected − curly arrows should start from 
+either a bond or from a lone pair of electrons. 
+ Knowledge of the relative stability of primary, secondary and tertiary carbocation 
+intermediates is expected. 
+25. know the qualitative test for a C=C double bond using bromine or bromine water 
+26. know that alkenes form polymers through addition polymerisation 
+ Be able to identify the repeat unit of an addition polymer given the monomer, 
+and vice versa. 
+27. know that waste polymers can be separated into specific types of polymer for: 
+ i recycling 
+ ii incineration to release energy 
+ iii use as a feedstock for cracking 
+28. understand, in terms of the use of energy and resources over the life cycle of 
+polymer products, that chemists can contribute to the more sustainable use of 
+materials 
+29. understand how chemists limit the problems caused by polymer disposal by: 
+ i developing biodegradable polymers 
+ ii removing toxic waste gases caused by incineration of plastics 
+Topic 6D: Halogenoalkanes 
+30. know that halogenoalkanes can be classified as primary, secondary or tertiary 
+31. understand what is meant by the term ‘nucleophile’ 
+32. understand the reactions of halogenoalkanes with: 
+ i aqueous potassium hydroxide to produce alcohols (where the hydroxide ion
+ acts as a nucleophile) 
+ ii aqueous silver nitrate in ethanol (where water acts as a nucleophile) 
+ iii potassium cyanide to produce nitriles (where the cyanide ion acts as a 
+nucleophile) 
+ Students should know this as an example of increasing the length of the 
+carbon chain. 
+ iv ammonia to produce primary amines (where the ammonia molecule acts as a
+ nucleophile) 
+ v ethanolic potassium hydroxide to produce alkenes (where the hydroxide ion
+ acts as a base) 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+20 
+ 
+Students should: 
+33. understand that experimental observations and data can be used to compare the 
+relative rates of hydrolysis of: 
+ i primary, secondary and tertiary halogenoalkanes 
+ ii chloro-, bromo-, and iodoalkanes 
+ using aqueous silver nitrate in ethanol 
+CORE PRACTICAL 4: Investigation of the rates of hydrolysis of some 
+halogenoalkanes 
+34. know the trend in reactivity of primary, secondary and tertiary halogenoalkanes 
+35. understand, in terms of bond enthalpy, the trend in reactivity of chloro-, bromo-, 
+and iodoalkanes 
+36. understand the mechanisms of the nucleophilic substitution reactions between 
+primary halogenoalkanes and: 
+ i aqueous potassium hydroxide 
+ ii ammonia 
+Topic 6E: Alcohols 
+37. know that alcohols can be classified as primary, secondary or tertiary 
+38. understand the reactions of alcohols with: 
+ i oxygen in air (combustion) 
+ ii halogenating agents: 
+• PCl5 to produce chloroalkanes 
+• 50% concentrated sulfuric acid and potassium bromide to produce 
+bromoalkanes 
+• red phosphorus and iodine to produce iodoalkanes 
+      iii potassium dichromate(VI) in dilute sulfuric acid to oxidise primary alcohols to 
+aldehydes (including a test for the aldehyde using Benedict’s/Fehling’s 
+solution) and carboxylic acids, and secondary alcohols to ketones 
+In equations, the oxidising agent can be represented as [O]. 
+ iv concentrated phosphoric acid to form alkenes by elimination 
+  Descriptions of the mechanisms of these reactions are not expected. 
+39. understand the following techniques used in the preparation and purification of a 
+liquid organic compound: 
+ i heating under reflux 
+ ii extraction with a solvent in a separating funnel 
+ iii distillation 
+ iv drying with an anhydrous salt 
+ v boiling temperature determination 
+CORE PRACTICAL 5: The oxidation of ethanol 
+CORE PRACTICAL 6: Chlorination of 2-methylpropan-2-ol using concentrated 
+hydrochloric acid 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+21 
+Topic 7: Modern Analytical Techniques I 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Hands-on practical work is 
+limited in this topic, although many universities allow students to visit and learn 
+about instrumentation first hand. 
+Mathematical skills that could be developed in this topic include analysing 
+fragmentation patterns in mass spectra. 
+Within this topic, students can consider how different instrumental methods can 
+provide evidence for analysis. They can see how accurate and sensitive methods of 
+analysis can be applied to the study of chemical changes, but also to detect drugs 
+such as in blood or urine testing in sport. 
+ 
+Students should: 
+Topic 7A: Mass spectrometry 
+1. be able to use data from a mass spectrometer to: 
+ i determine the relative molecular mass of an organic compound from the  
+ molecular ion peak 
+ ii suggest possible structures of a simple organic compound from the m/z of the  
+ molecular ion and fragmentation patterns 
+Topic 7B: Infrared (IR) spectroscopy 
+2. be able to use data from infrared spectra to deduce functional groups present in 
+organic compounds and to predict infrared absorptions, given wavenumber data, 
+due to familiar functional groups, including: 
+ i C–H stretching absorption in alkanes, alkenes and aldehydes 
+ ii C=C stretching absorption in alkenes 
+ iii O–H stretching absorption in alcohols 
+ iv C=O stretching absorption in aldehydes and ketones 
+ v C=O stretching absorption and the broad O-H stretching absorption in
+ carboxylic acids 
+ vi N–H stretching absorption in amines 
+CORE PRACTICAL 7: Analysis of some inorganic and organic unknowns 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+22 
+Topic 8: Energetics I 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+a wide variety of calorimetry experiments involving displacement and neutralisation 
+reactions, investigating the enthalpy of combustion of a homologous series of 
+alcohols. 
+Mathematical skills that could be developed in this topic include plotting and 
+extrapolating graphs of temperature rise against time for displacement reactions, 
+calculating enthalpy changes in J and in kJ mol
+-1, using algebra to solve Hess’s law 
+problems, calculating enthalpy changes using bond enthalpies. 
+Within this topic, students can consider how the use of Hess’s Law can facilitate the 
+study of energy changes in reactions which are not directly measureable. They can 
+also consider the value of a general chemical concept, such as mean bond enthalpy, 
+and why the use of a simplification such as this has some benefits, as well as some 
+short-comings. 
+ 
+Students should:  
+1. know that standard conditions are 100 kPa and a specified temperature, usually 
+298 K 
+2. know that the enthalpy change is the heat energy change measured at constant 
+pressure 
+3. be able to construct and interpret enthalpy level diagrams showing an enthalpy 
+change, including appropriate signs for exothermic and endothermic reactions 
+ Activation energy is not shown in enthalpy level diagrams but it is shown in 
+reaction profile diagrams. 
+4. be able to define standard enthalpy change of: 
+ i reaction 
+ ii formation 
+ iii combustion 
+ iv neutralisation 
+5. understand experiments to measure enthalpy changes in terms of: 
+ i processing results using the expression: 
+  energy transferred = mass x specific heat capacity × temperature change 
+ (Q=mcΔT) 
+ ii evaluating sources of error and assumptions made in the experiments 
+  Students will need to consider experiments where: 
+o substances are mixed in an insulated container and the temperature 
+change is measured 
+o enthalpy of combustion is measured, such as using a series of alcohols in a 
+spirit burner 
+o the enthalpy change cannot be measured directly. 
+6. be able to calculate enthalpy changes in kJ mol-1 from given experimental results 
+ Both a sign and units are expected in the final answer. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+23 
+ 
+Students should:  
+7. be able to construct enthalpy cycles using Hess’s Law 
+8. be able to calculate enthalpy changes from data using Hess’s Law 
+CORE PRACTICAL 8: To determine the enthalpy change of a reaction using 
+Hess’s Law 
+9. know what is meant by the terms ‘bond enthalpy’ and ‘mean bond enthalpy’ 
+10. be able to calculate an enthalpy change of reaction using mean bond enthalpies 
+and explain the limitations of this method of calculation 
+11. be able to calculate mean bond enthalpies from enthalpy changes of reaction 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+24 
+Topic 9: Kinetics I 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+investigating a variety of factors that influence the rates of reaction between, for 
+example, marble chips and hydrochloric acid, or sodium thiosulfate and hydrochloric 
+acid, investigating catalysis using hydrogen peroxide. 
+Mathematical skills that could be developed in this topic include calculating rates 
+from reaction time, plotting graphs and having an appreciation of the nature of the 
+graph for a Maxwell-Boltzmann distribution. 
+Within this topic, students can consider how the use of models in chemistry is 
+illustrated by the way in which the Maxwell-Boltzmann distribution and collision 
+theory can account for the effects of changing variables on the rate of a chemical 
+reaction. 
+ 
+Students should:  
+1. understand, in terms of collision theory, the effect of a change in concentration, 
+temperature, pressure and surface area on the rate of a chemical reaction 
+2. understand that reactions only take place when collisions take place with 
+sufficient energy, known as activation energy 
+3. be able to calculate the rate of a reaction from: 
+ i data showing the time taken for reaction 
+ ii the gradient of a suitable graph, by drawing a tangent, either for initial rate, 
+or at a time, t 
+4. understand qualitatively, in terms of the Maxwell-Boltzmann distribution of 
+molecular energies, how changes in temperature affect the rate of a reaction 
+5. understand the role of catalysts in providing alternative reaction routes of lower 
+activation energy 
+6. be able to draw the reaction profiles for uncatalysed and catalysed reactions 
+7. be able to interpret the action of a catalyst in terms of a qualitative 
+understanding of the Maxwell-Boltzmann distribution of molecular energies 
+8. understand the use of a solid (heterogeneous) catalyst for industrial reactions, in 
+the gas phase, in terms of providing a surface for the reaction 
+9. understand the economic benefits of the use of catalysts in industrial reactions 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+25 
+Topic 10: Equilibrium I 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+investigating equilibrium systems, such as iron(III) – thiocyanate, or the effect of 
+temperature on the equilibrium between [Co(H2O)6]2+ and [CoCl4]2– 
+Mathematical skills that could be developed in this topic include deriving an 
+algebraic expression for the equilibrium constant. 
+Within this topic, students can consider how an appreciation of equilibrium 
+processes, coupled with kinetics, can lead chemists to redevelop manufacturing 
+processes to make them more efficient. 
+ 
+Students should: 
+1. know that many reactions are readily reversible and that they can reach a state 
+of dynamic equilibrium in which: 
+ i the rate of the forward reaction is equal to the rate of the backward reaction 
+ ii the concentrations of reactants and products remain constant 
+2. be able to predict and justify the qualitative effect of a change in temperature, 
+concentration or pressure on a homogeneous system in equilibrium 
+3. evaluate data to explain the necessity, for many industrial processes, to reach a 
+compromise between the yield and the rate of reaction 
+4. be able to deduce an expression for Kc , for homogeneous and heterogeneous 
+systems, in terms of equilibrium concentrations 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+26 
+Topic 11: Equilibrium II 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+determining the value for an equilibrium constant for a simple esterification 
+reaction. 
+Mathematical skills that could be developed in this topic include constructing 
+expressions for Kc and Kp and calculating values with relevant units, estimating the 
+change to the value of an equilibrium constant when a variable changes. 
+Within this topic, students can consider how chemists can use the concept of 
+equilibria to predict quantitatively the direction and extent of chemical change. 
+ 
+Students should: 
+1. be able to deduce an expression for Kp, for homogeneous and heterogeneous 
+systems, in terms of equilibrium partial pressures in atm 
+2. be able to calculate a value, with units where appropriate, for the equilibrium 
+constant (Kc and Kp) for homogeneous and heterogeneous reactions, from 
+experimental data 
+3. know the effect of changing temperature on the equilibrium constant (Kc and Kp), 
+for both exothermic and endothermic reactions 
+4. understand that the effect of temperature on the position of equilibrium is 
+explained using a change in the value of the equilibrium constant 
+5. understand that the value of the equilibrium constant is not affected by changes 
+in concentration or pressure or by the addition of a catalyst 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+27 
+Topic 12: Acid-base Equilibria 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+a series of pH titrations to determine titration curves, calculating an ionisation 
+constant for a pH indicator, making up and investigating the properties of buffer 
+solutions and using a pH meter. 
+Mathematical skills that could be developed in this topic include the use of 
+logarithms and exponentials for converting from concentration to pH and vice 
+versa, rearranging Ka expressions into expressions suitable for calculating pH of a 
+buffer solution, plotting and interpreting titration curves. 
+Within this topic, students can consider how the historical development of theories 
+explaining acid and base behaviour show that scientific ideas change as a result of 
+new evidence and fresh thinking. They can also relate their study of buffer solutions 
+to a range of applications in living cells, medicines, foods and the natural 
+environment. 
+ 
+Students should: 
+1. know that a Brønsted–Lowry acid is a proton donor and a Brønsted–Lowry base is 
+a proton acceptor 
+2. know that acid-base reactions involve the transfer of protons 
+3. be able to identify Brønsted–Lowry conjugate acid-base pairs 
+4. be able to define the term ‘pH’ 
+5. be able to calculate pH from hydrogen ion concentration 
+6. be able to calculate the concentration of hydrogen ions, in mol dm-3, in a solution 
+from its pH, using the expression [H+] = 10–pH 
+7. understand the difference between a strong acid and a weak acid in terms of 
+degree of dissociation 
+8. be able to calculate the pH of a strong acid 
+9. be able to deduce the expression for the acid dissociation constant, Ka, for a 
+weak acid and carry out relevant calculations 
+10. be able to calculate the pH of a weak acid making relevant assumptions 
+11. be able to define the ionic product of water, Kw 
+12. be able to calculate the pH of a strong base from its concentration, using Kw 
+13. be able to define the terms ‘pKa’ and ‘pKw’ 
+14. be able to analyse data from the following experiments: 
+ i measuring the pH of a variety of substances, e.g. equimolar solutions of
+ strong and weak acids, strong and weak bases, and salts 
+ ii comparing the pH of a strong acid and a weak acid after dilution 10, 100 and
+ 1000 times 
+15. be able to calculate Ka for a weak acid from experimental data given the pH of a 
+solution containing a known mass of acid 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+28 
+ 
+Students should: 
+16. be able to draw and interpret titration curves using all combinations of strong 
+and weak monobasic acids and bases 
+17. be able to select a suitable indicator, using a titration curve and appropriate data 
+18. know what is meant by the term ‘buffer solution’ 
+19. understand the action of a buffer solution 
+20. be able to calculate the pH of a buffer solution given appropriate data 
+21. be able to calculate the concentrations of solutions required to prepare a buffer 
+solution of a given pH 
+22. understand how to use a weak acid–strong base titration curve to: 
+ i demonstrate buffer action 
+ ii determine Ka from the pH at the point where half the acid is neutralised 
+23. understand why there is a difference in enthalpy changes of neutralisation values 
+for strong and weak acids 
+24. understand the roles of carbonic acid molecules and hydrogencarbonate ions in 
+controlling the pH of blood 
+CORE PRACTICAL 9: Finding the Ka value for a weak acid 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+29 
+Topic 13: Energetics II 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+measuring enthalpy change of solution, investigating enthalpy and entropy changes 
+in reactions such as neutralisations. 
+Mathematical skills that could be developed in this topic include calculating the 
+missing value from a Born-Haber cycle using algebraic expressions, using natural 
+logarithms when calculating an equilibrium constant from ΔG. 
+Within this topic, students can consider how chemists evaluate theoretical models 
+by comparing the real and ideal properties of chemicals, for example in the study of 
+theoretical and experimental lattice energies. The study of entropy shows students 
+how chemists use formal, abstract thinking to answer fundamental questions about 
+the stability of chemicals and the direction of chemical change. 
+ 
+Students should: 
+Topic 13A: Lattice energy 
+1. be able to define lattice energy as the energy change when one mole of an ionic 
+solid is formed from its gaseous ions 
+2. be able to define the terms: 
+ i enthalpy change of atomisation, ΔatH 
+ ii electron affinity 
+3. be able to construct Born-Haber cycles and carry out related calculations 
+4. know that lattice energy provides a measure of ionic bond strength 
+5. understand that a comparison of the experimental lattice energy value (from a 
+Born-Haber cycle) with the theoretical value (obtained from electrostatic theory) 
+in a particular compound indicates the degree of covalent bonding 
+6. understand the meaning of polarisation as applied to ions 
+7. know that the polarising power of a cation depends on its radius and charge 
+8. know that the polarisability of an anion depends on its radius and charge 
+9. be able to define the terms ‘enthalpy change of solution, ΔsolH’, and ‘enthalpy 
+change of hydration, ΔhydH’ 
+10. be able to use energy cycles and energy level diagrams to carry out calculations 
+involving enthalpy change of solution, enthalpy change of hydration and lattice 
+energy 
+11. understand the effect of ionic charge and ionic radius on the values of: 
+ i lattice energy 
+ ii enthalpy change of hydration 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+30 
+ 
+Students should: 
+Topic 13B: Entropy 
+12. understand that, since some endothermic reactions can occur at room 
+temperature, enthalpy changes alone do not control whether reactions occur 
+13. know that entropy is a measure of the disorder of a system and that the natural 
+direction of change is increasing total entropy (positive entropy change) 
+14. understand why entropy changes occur during: 
+ i changes of state 
+ ii dissolving of a solid ionic lattice 
+ iii reactions in which there is a change in the number of moles from reactants to
+ products 
+  Students should be able to discuss typical reactions in terms of disorder and 
+ enthalpy change, including: 
+o dissolving ammonium nitrate crystals in water 
+o reacting ethanoic acid with ammonium carbonate 
+o burning magnesium ribbon in air 
+o mixing solid barium hydroxide, Ba(OH)2.8H2O, with solid ammonium 
+chloride. 
+15. understand that the total entropy change in any reaction is the entropy change in 
+the system added to the entropy change in the surroundings, shown by the 
+expression:  
+ΔStotal = ΔSsystem + ΔSsurroundings 
+16. be able to calculate the entropy change for the system, ΔSsystem , in a reaction, 
+given the entropies of the reactants and products 
+17. be able to calculate the entropy change in the surroundings, and hence ΔStotal , 
+using the expression: 
+ 
+∆∆= −surroundings
+HS T
+ 
+18. know that the balance between the entropy change and the enthalpy change 
+determines the feasibility of a reaction and is represented by the equation  
+  ΔG = ΔH − TΔSsystem  
+19. be able to use the equation ΔG = ΔH − TΔSsystem to: 
+ i predict whether a reaction is feasible 
+ ii determine the temperature at which a reaction is feasible 
+20. be able to use the equation ΔG = −RT ln K to show that reactions which are 
+feasible in terms of ΔG have large values for the equilibrium constant and vice 
+versa 
+21. understand why a reaction for which the ΔG value is negative may not occur in 
+practice 
+22. know that reactions that are thermodynamically feasible may be inhibited by 
+kinetic factors 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+31 
+Topic 14: Redox II 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+investigating redox systems (especially within transition metals), setting up a 
+variety of electrochemical cells, investigating disproportionation in copper(I) salts, 
+performing redox titrations using potassium manganate(VII) or iodine-thiosulfate. 
+Mathematical skills that could be developed in this topic include calculating redox 
+potentials, balancing redox equations from half cells, calculations involving redox 
+titrations. 
+Within this topic, students can consider how ideas developed in different contexts 
+within chemistry can be shown to be related to a major explanatory principle. Here, 
+cell emfs and equilibrium constants are shown to be related to the fundamental 
+criterion for the feasibility of a chemical reaction: the total entropy change. 
+Students can also consider how chemists continue to search for alternative sources 
+of energy, through the development of fuel cells. 
+ 
+Students should: 
+1. understand the terms ‘oxidation’ and ‘reduction’ in terms of electron transfer, 
+applied to s-, p- and d-block elements 
+2. understand the terms ‘oxidation’ and ‘reduction’ in terms of changes in oxidation 
+number, applied to s-, p- and d-block elements 
+3. know what is meant by the term ‘standard electrode potential’, Eo 
+4. know that the standard electrode potential, Eo, refers to conditions of: 
+ i 298 K temperature 
+ ii 100 kPa pressure of gases 
+ iii 1.00 mol dm-3 concentration of ions 
+5. know the features of the standard hydrogen electrode and understand why a 
+reference electrode is necessary 
+6. understand that different methods are used to measure standard electrode 
+potentials of: 
+ i metals or non-metals in contact with their ions in aqueous solution 
+ ii ions of the same element with different oxidation numbers 
+CORE PRACTICAL 10: Investigating some electrochemical cells 
+7. be able to calculate a standard emf, Eo cell, by combining two standard electrode 
+potentials 
+8. be able to write cell diagrams using the conventional representation of half-cells 
+9. understand the importance of the conditions when measuring the electrode 
+potential, E 
+10. be able to predict the thermodynamic feasibility of a reaction using standard 
+electrode potentials 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+32 
+ 
+Students should: 
+11. understand that Eo cell is directly proportional to the total entropy change and to 
+ln K for a reaction 
+12. understand the limitations of predictions made using standard electrode 
+potentials, in terms of kinetic inhibition and departure from standard conditions 
+13. know that standard electrode potentials can be listed as an electrochemical series 
+14. understand how disproportionation reactions relate to standard electrode 
+potentials 
+15. understand the application of electrode potentials to storage cells 
+16. understand that the energy released on the reaction of a fuel with oxygen is 
+utilised in a fuel cell to generate a voltage 
+ Knowledge that methanol and other hydrogen-rich fuels are used in fuel cells is 
+expected. 
+17. know the electrode reactions that occur in a hydrogen-oxygen fuel cell 
+ Knowledge of hydrogen-oxygen fuel cells with both acidic and alkaline 
+electrolytes is expected. 
+18. be able to carry out both structured and non-structured titration calculations 
+including Fe2+/MnO4−, and I2/S2O32− 
+19. understand the methods used in redox titrations 
+CORE PRACTICAL 11: Redox titration 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+33 
+Topic 15: Transition Metals 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+the stepwise reduction of vanadium(V) to vanadium(II), investigating the reactions 
+of copper(II) ions or chromium(III) ions, using sodium hydroxide and ammonia 
+solution to identify transition metal ions, investigating autocatalysis, preparing a 
+complex transition metal salt. 
+Mathematical skills that could be developed in this topic include investigating the 
+geometry of different transition metal complexes. 
+Within this topic, students can consider the model for the filling of electron orbitals 
+encountered in Topic 1, and see how limitations in that model indicate the need for 
+more sophisticated explanations. They can also appreciate that catalyst research is 
+a frontier area, and one which provides an opportunity to show how the scientific 
+community reports and validates new knowledge. 
+ 
+Students should: 
+Topic 15A: Principles of transition metal chemistry 
+1. be able to deduce the electronic configurations of atoms and ions of the d-block 
+elements of period 4 (Sc–Zn), given the atomic number and charge (if any) 
+2. know that transition metals are d-block elements that form one or more stable 
+ions with incompletely-filled d-orbitals 
+3. understand why transition metals show variable oxidation number 
+4. know what is meant by the term ‘ligand’ 
+5. understand that dative (coordinate) bonding is involved in the formation of 
+complex ions 
+6. know that a complex ion is a central metal ion surrounded by ligands 
+7. know that transition metals form coloured ions in solution 
+8. understand that the colour of aqueous ions, and other complex ions, results from 
+the splitting of the energy levels of the d-orbitals by ligands 
+9. understand why there is a lack of colour in some aqueous ions and other complex 
+ions 
+10. understand that colour changes in transition metal ions may arise as a result of 
+changes in: 
+ i oxidation number 
+ ii ligand 
+ iii coordination number 
+11. understand the meaning of the term ‘coordination number’ 
+12. understand why H2O, OH− and NH3 act as monodentate ligands 
+13. understand why complexes with six-fold coordination have an octahedral shape, 
+such as those formed by metal ions with H2O, OH− and NH3 as ligands 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+34 
+ 
+Students should: 
+14. know that transition metal ions may form tetrahedral complexes with relatively 
+large ligands such as Cl− 
+15. know that square planar complexes are also formed by transition metal ions and 
+that cis-platin is an example of such a complex 
+16. understand why cis-platin used in cancer treatment is supplied as a single isomer 
+and not in a mixture with the trans form 
+17. be able to identify bidentate ligands, such as NH2CH2CH2NH2 and multidentate 
+ligands, such as EDTA4− 
+18. know that haemoglobin is an iron(II) complex containing a multidentate ligand 
+ The structure of the haem group will not be assessed. 
+19. know that a ligand exchange reaction occurs when an oxygen molecule bound to 
+haemoglobin is replaced by a carbon monoxide molecule 
+Topic 15B: Reactions of transition metal elements 
+20. know the colours of the oxidation states of vanadium (+5, +4, +3 and +2) in its 
+compounds 
+21. understand redox reactions for the interconversion of the oxidation states of 
+vanadium (+5, +4, +3 and +2), in terms of the relevant Eo values 
+22. understand, in terms of the relevant Eo values, that the dichromate(VI) ion, 
+Cr2O72−: 
+ i can be reduced to Cr3+ and Cr2+ ions using zinc in acidic conditions 
+ ii can be produced by the oxidation of Cr3+ ions using hydrogen peroxide in
+ alkaline conditions (followed by acidification) 
+23. know that the dichromate(VI) ion, Cr2O72−, can be converted into chromate(VI) 
+ions as a result of the equilibrium 
+ 2CrO42−+ 2H+ ⇌ Cr2O72−+ H2O 
+24. be able to record observations and write suitable equations for the reactions of 
+Cr
+3+(aq), Fe2+(aq), Fe3+(aq), Co2+(aq) and Cu2+(aq) with aqueous sodium 
+hydroxide and aqueous ammonia, including in excess 
+25. be able to write ionic equations to show the difference between ligand exchange 
+and amphoteric behaviour for the reactions in (24) above 
+26. understand that ligand exchange, and an accompanying colour change, occurs in 
+the formation of: 
+ i [Cu(ΝΗ3)4(Η2Ο)2]2+ from [Cu(Η2Ο)6]2+  via Cu(OH)2(Η2Ο)4 
+ ii [CuCl4]2− from [Cu(Η2Ο)6]2+ 
+ iii [CoCl4]2− from [Co(Η2Ο)6]2+ 
+27. understand that the substitution of small, uncharged ligands (such as H2O) by 
+larger, charged ligands (such as Cl−) can lead to a change in coordination 
+number 
+28. understand, in terms of the large positive increase in ΔSsystem, that the 
+substitution of a monodentate ligand by a bidentate or multidentate ligand leads 
+to a more stable complex ion 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+35 
+ 
+Students should: 
+29. know that transition metals and their compounds can act as heterogeneous and 
+homogeneous catalysts 
+30. know that a heterogeneous catalyst is in a different phase from the reactants and 
+that the reaction occurs at the surface of the catalyst 
+31. understand, in terms of oxidation number, how V2O5 acts as a catalyst in the 
+contact process 
+32. understand how a catalytic converter decreases carbon monoxide and nitrogen 
+monoxide emissions from internal combustion engines by: 
+ i adsorption of CO and NO molecules onto the surface of the catalyst 
+ ii weakening of bonds and chemical reaction 
+ iii desorption of CO2 and N2 product molecules from the surface of the catalyst 
+33. know that a homogeneous catalyst is in the same phase as the reactants and 
+appreciate that the catalysed reaction will proceed via an intermediate species 
+34. understand the role of Fe2+ ions in catalysing the reaction between I− and S2O82− 
+ions 
+35. know the role of Mn2+ ions in autocatalysing the reaction between MnO4− and 
+C2O42− ions 
+CORE PRACTICAL 12: The preparation of a transition metal complex 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+36 
+Topic 16: Kinetics II 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+investigating different methods for tracking rates of reaction by gas collection or 
+change in mass or colour change, investigating clock reactions such as Harcourt-
+Essen, using a simple rates experiment to calculate an activation energy. 
+Mathematical skills that could be developed in this topic include plotting and 
+justifying the shapes of rate–concentration and concentration–time graphs, 
+calculating half-life of a reaction, calculating activation energy from a suitable 
+graph, rearranging the Arrhenius equation in the form y = mx + c. 
+Within this topic, students can consider different methods used to measure reaction 
+rates and collect valid data. Through the analysis of this data, and a knowledge of 
+rate equations, they can see how chemists are able to propose models to describe 
+the mechanisms of chemical reactions. 
+ 
+Students should: 
+1. understand the terms: 
+ i  rate of reaction 
+ ii  rate equation 
+ iii  order with respect to a substance in a rate equation 
+ iv  overall order of reaction 
+ v  rate constant 
+ vi  half-life 
+ vii  rate-determining step 
+ viii activation energy 
+ ix  heterogeneous and homogenous catalyst 
+2. be able to determine and use rate equations of the form: 
+ rate = k[A]m[B]n, where m and n are 0, 1 or 2 
+3. be able to select and justify a suitable experimental technique to obtain rate data 
+for a given reaction, including: 
+ i titration 
+ ii colorimetry 
+ iii mass change 
+ iv volume of gas evolved 
+ v other suitable technique(s) for a given reaction 
+4. understand experiments that can be used to investigate reaction rates by: 
+ i an initial-rate method, carrying out separate experiments where different
+ initial concentrations of one reagent are used 
+  A ‘clock reaction’ is an acceptable approximation of this method 
+ ii a continuous monitoring method to generate data to enable concentration-
+ time or volume-time graphs to be plotted 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+37 
+ 
+Students should: 
+5. be able to calculate the rate of reaction and the half-life of a first-order reaction 
+using data from a concentration-time or a volume-time graph 
+6. be able to deduce the order (0, 1 or 2) with respect to a substance in a rate 
+equation using data from: 
+ i a concentration-time graph 
+ ii a rate-concentration graph 
+7. be able to deduce the order (0, 1 or 2) with respect to a substance in a rate 
+equation using data from an initial-rate method 
+8. understand how to: 
+ i obtain data to calculate the order with respect to the reactants (and the
+ hydrogen ion) in the acid-catalysed iodination of propanone 
+ ii use these data to make predictions about species involved in the  
+ rate-determining step 
+ iii deduce a possible mechanism for the reaction 
+9. be able to deduce a rate-determining step from a rate equation and vice versa 
+10. be able to deduce a reaction mechanism, using knowledge from a rate equation 
+and the stoichiometric equation for a reaction 
+11. understand that knowledge of the rate equations for the hydrolysis of 
+halogenoalkanes can be used to provide evidence for S
+N1 or SN2 mechanisms for 
+tertiary and primary halogenoalkane hydrolysis 
+12. be able to use graphical methods to find the activation energy for a reaction from 
+experimental data 
+ The Arrhenius equation will be given if needed. 
+CORE PRACTICAL 13a and 13b: Rates of reaction 
+Following the rate of the iodine-propanone reaction by a titrimetric method 
+and investigating a ‘clock reaction’ (Harcourt-Esson, iodine clock) 
+CORE PRACTICAL 14: Finding the activation energy of a reaction 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+38 
+Topic 17: Organic Chemistry II 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+investigating the reactions of different functional groups, identifying a carbonyl 
+compound by preparing and finding the melting point of its 2,4-DNPH derivative, 
+preparing and hydrolysing esters. 
+Mathematical skills that could be developed in this topic include representing chiral 
+molecules with appropriate diagrams, calculating percentage yields and 
+experimental errors. 
+Within this topic, students can consider how organic synthesis can produce a 
+variety of important materials, such as esters for solvents, flavourings and 
+perfumes. They will also continue their study of reaction mechanisms, and see the 
+ways in which different mechanisms act as a pattern to describe a range of organic 
+reactions. 
+ 
+Students should: 
+Topic 17A: Chirality 
+1. know that optical isomerism is a result of chirality in molecules with a single 
+chiral centre 
+2. understand that optical isomerism results from chiral centre(s) in a molecule 
+with asymmetric carbon atom(s) and that optical isomers are object and non-
+superimposable mirror images 
+3. know that optical activity is the ability of a single optical isomer to rotate the 
+plane of polarisation of plane-polarised monochromatic light in molecules 
+containing a single chiral centre 
+4. understand the nature of a racemic mixture 
+5. be able to use data on optical activity of reactants and products as evidence for 
+SN1 and SN2 mechanisms 
+Topic 17B: Carbonyl compounds 
+6. be able to identify the aldehyde and ketone functional groups 
+7. understand that aldehydes and ketones: 
+ i do not form intermolecular hydrogen bonds and this affects their physical
+ properties 
+ ii can form hydrogen bonds with water and this affects their solubility 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+39 
+ 
+ 
+Students should: 
+8. understand the reactions of carbonyl compounds with: 
+ i Fehling’s or Benedict’s solution, Tollens’ reagent and acidified 
+ dichromate(VI) ions 
+  In equations, the oxidising agent can be represented as [O] 
+ ii lithium tetrahydridoaluminate (lithium aluminium hydride) in dry ether 
+  In equations, the reducing agent can be represented as [H] 
+ iii HCN, in the presence of KCN, as a nucleophilic addition reaction, using curly
+ arrows, relevant lone pairs, dipoles and evidence of optical activity to show
+ the mechanism 
+ iv 2,4-dinitrophenylhydrazine (2,4-DNPH), as a qualitative test for the 
+ presence of a carbonyl group and to identify a carbonyl compound given data  
+ for the melting temperatures of derivatives 
+  The equation for this reaction is not required 
+ v iodine in the presence of alkali 
+Topic 17C: Carboxylic acids 
+9. be able to identify the carboxylic acid functional group 
+10. understand that hydrogen bonding affects the physical properties of carboxylic 
+acids, in relation to their boiling temperatures and solubility 
+11. understand that carboxylic acids can be prepared by the oxidation of alcohols or 
+aldehydes, and the hydrolysis of nitriles 
+12. understand the reactions of carboxylic acids with: 
+ i lithium tetrahydridoaluminate (lithium aluminium hydride) in dry ether 
+ ii bases to produce salts 
+ iii phosphorus(V) chloride (phosphorus pentachloride) 
+ iv alcohols in the presence of an acid catalyst 
+13. be able to identify the acyl chloride and ester functional groups 
+14. understand the reactions of acyl chlorides with: 
+ i water 
+ ii alcohols 
+ iii concentrated ammonia 
+ iv amines 
+15. understand the hydrolysis reactions of esters, in acidic and alkaline solution 
+16. understand how polyesters are formed by condensation polymerisation reactions 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+40 
+Topic 18: Organic Chemistry III 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+investigating the reactions of different functional groups, preparing an aromatic 
+ester such as methyl benzoate, making nylon, purifying an organic solid. 
+Mathematical skills that could be developed in this topic include calculating the 
+resonance stability of benzene from thermodynamic data, calculating percentage 
+yields. 
+Within this topic, students can consider how the model for benzene structure has 
+developed in response to new evidence. By this stage, their continuing practical 
+experience should enable them to use techniques to carry out reactions and purify 
+products efficiently and safely. 
+ 
+Students should: 
+Topic 18A: Arenes - benzene 
+1. understand that the bonding in benzene has been represented using the Kekulé 
+and the delocalised model, the latter in terms of overlap of p-orbitals to form  
+π-bonds 
+2. understand that evidence for the delocalised model of the bonding in benzene is 
+provided by data from enthalpy changes of hydrogenation and carbon-carbon 
+bond lengths 
+ 
+ Students may represent the structure of benzene as: 
+ 
+ 
+    or               as appropriate in equations and mechanisms. 
+ 
+3. understand why benzene is resistant to bromination, compared with alkenes, in 
+terms of delocalisation of π-bonds in benzene and the localised electron density 
+of the π-bond in alkenes 
+4. understand the reactions of benzene with: 
+ i oxygen in air (combustion with a smoky flame) 
+ ii bromine, in the presence of a catalyst 
+ iii a mixture of concentrated nitric and sulfuric acids 
+ iv halogenoalkanes and acyl chlorides with aluminium chloride as catalyst
+ (Friedel-Crafts reaction) 
+5. understand the mechanism of the electrophilic substitution reactions of benzene 
+(halogenation, nitration and Friedel-Crafts reactions), including the generation of 
+the electrophile 
+6. understand the reaction of phenol with bromine water 
+7. understand reasons for the relative ease of bromination of phenol, compared to 
+benzene 
+
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+41 
+ 
+Students should: 
+Topic 18B: Amines, amides, amino acids and proteins 
+8. be able to identify: 
+ i the amine and amide functional groups 
+ ii molecules that are amino acids 
+9. understand the reactions of primary aliphatic amines, using butylamine as an 
+example, with: 
+ i water to form an alkaline solution 
+ ii acids to form salts 
+ iii ethanoyl chloride 
+ iv halogenoalkanes 
+ v copper(II) ions to form complex ions 
+10. understand reasons for the difference in basicity of ammonia, primary aliphatic 
+and primary aromatic amines given suitable data 
+11. understand, in terms of reagents and general reaction conditions, the preparation 
+of primary aliphatic amines: 
+ i from halogenoalkanes 
+ ii by the reduction of nitriles 
+12. know that aromatic nitro-compounds can be reduced, using tin and concentrated 
+hydrochloric acid, to form amines 
+13. understand that amides can be prepared from acyl chlorides 
+14. know that the formation of a polyamide is a condensation polymerisation reaction 
+15. be able to draw the structural formulae of the repeat units of condensation 
+polymers formed by reactions between: 
+ i dicarboxylic acids and diols 
+ ii dicarboxylic acids and diamines 
+ iii amino acids 
+16. understand the properties of 2-amino acids, including: 
+ i acidity and basicity in solution, as a result of the formation of zwitterions 
+ ii effect of aqueous solutions on plane-polarised monochromatic light 
+17. understand that the peptide bond in proteins: 
+ i is formed when amino acids combine, by condensation polymerisation 
+ ii can be hydrolysed to form the constituent amino acids, which can be
+ separated by chromatography 
+CORE PRACTICAL 15: Analysis of some inorganic and organic unknowns 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+42 
+ 
+Students should: 
+Topic 18C: Organic Synthesis 
+18. be able to deduce the empirical formulae, molecular formulae and structural 
+formulae of compounds from data obtained from combustion analysis, elemental 
+percentage composition, characteristic reactions of functional groups, infrared 
+spectra, mass spectra and nuclear magnetic resonance 
+19. be able to plan reaction schemes, of up to four steps, to form both familiar and 
+unfamiliar compounds 
+20. understand methods of increasing the length of the carbon chain in a molecule 
+by the use of magnesium to form Grignard reagents and the reactions of the 
+latter with carbon dioxide and with carbonyl compounds in dry ether 
+21. be able to select and justify suitable practical procedures for carrying out 
+reactions involving compounds with functional groups included in the 
+specification, including identifying appropriate control measures to reduce risk, 
+based on data about hazards 
+22. understand the following techniques used in the preparation and purification of 
+organic compounds: 
+ i  refluxing 
+ ii  purification by washing 
+ iii  solvent extraction 
+ iv  recrystallisation 
+ v  drying 
+ vi  distillation, including steam distillation 
+ vii  melting temperature determination 
+ viii  boiling temperature determination 
+CORE PRACTICAL 16: The preparation of aspirin 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+43 
+Topic 19: Modern Analytical Techniques II 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+using chromatography to identify unknowns such as metals in a ‘silver’ coin or 
+amino acids in a protein. 
+Mathematical skills that could be developed in this topic include calculating Rf 
+values, interpreting a variety of different spectra, calculating relative molecular 
+masses, using the (n+1) rule for proton NMR. 
+Within this topic, students can consider a wider range of instrumental methods 
+used for analysis, such as NMR; and see how this technique is used in medicine 
+through MRI scans. They can also see a wide range of applications that rely on a 
+combination of different analytical techniques. 
+ 
+Students should: 
+Topic 19A: Mass Spectrometry 
+1. be able to use data from mass spectra to: 
+ i suggest possible structures of a simple organic compound given relative
+ molecular masses, accurate to four decimal places 
+ ii calculate the accurate relative molecular mass of a compound, given relative
+ atomic masses to four decimal places, and therefore identify a compound 
+Topic 19B: Nuclear magnetic resonance (NMR) 
+2. understand that 13C NMR spectroscopy provides information about the positions 
+of 13C atoms in a molecule 
+3. be able to use data from 13C NMR spectroscopy to: 
+ i predict the different environments for carbon atoms present in a molecule,
+ given values of chemical shift, δ 
+ ii justify the number of peaks present in a 13C NMR spectrum because of carbon
+ atoms in different environments 
+4. understand that high resolution proton NMR provides information about the 
+positions of 1H atoms in a molecule 
+5. be able to use data from high resolution 1H NMR spectroscopy to: 
+ i predict the different types of proton present in a molecule, given values of
+ chemical shift, δ 
+ ii relate relative peak areas, or ratio numbers of protons, to the relative
+ numbers of 1H atoms in different environments 
+ iii deduce the splitting patterns of adjacent, non-equivalent protons using the
+ (n+1) rule and hence suggest the possible structures for a molecule 
+ iv predict the chemical shifts and splitting patterns of the 1H atoms in a given
+ molecule 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+44 
+ 
+Students should: 
+Topic 19C: Chromatography 
+6. know that chromatography separates components of a mixture between a mobile 
+phase and a stationary phase 
+7. be able to calculate Rf values from one-way chromatograms 
+8. know that high performance liquid chromatography, HPLC, and gas 
+chromatography, GC: 
+ i are types of column chromatography 
+ ii separate substances because of different retention times in the column 
+ iii may be used in conjunction with mass spectrometry, in applications such as
+ forensics or drugs testing in sport 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+45 
+Science Practical Endorsement 
+Overview 
+The assessment of practical skills is a compulsory 
+requirement of the course of study for A level qualifications 
+in biology, chemistry and physics. It will appear on all 
+students’ certificates as a separately reported result, 
+alongside the overall grade for the qualification. The 
+arrangements for the assessment of practical skills will be 
+common to all awarding organisations. These arrangements 
+include: 
+● A minimum of 12 practical activities to be carried out by 
+each student which, together, meet the requirements of 
+Appendices 5b (Practical skills identified for direct 
+assessment and developed through teaching and 
+learning) and 5c (Use of apparatus and techniques) 
+from the prescribed subject content, published by the 
+Department for Education. The required practical 
+activities will be defined by each awarding organisation. 
+● Teachers will assess students against Common Practical 
+Assessment Criteria (CPAC) issued by the awarding 
+organisations. The CPAC are based on the requirements 
+of Appendices 5b and 5c of the subject content 
+requirements published by the Department for 
+Education, and define the minimum standard required 
+for the achievement of a pass.  
+● Each student will keep an appropriate record of their 
+practical work, including their assessed practical 
+activities 
+● Students who demonstrate the required standard across 
+all the requirements of the CPAC will receive a ‘pass’ 
+grade 
+● There will be no separate assessment of practical skills 
+for AS qualifications. 
+● Students will answer questions in the AS and A level 
+examination papers that assess the requirements of 
+Appendix 5a (Practical skills identified for indirect 
+assessment and developed through teaching and 
+learning) from the prescribed subject content, published 
+by the Department for Education. These questions may 
+draw on, or range beyond, the practical activities 
+included in the specification. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+46 
+Setting practical work 
+Teaching and learning 
+Teachers should ensure that the core practicals listed in the 
+subject content are incorporated into teaching and learning 
+and that students carry them out. This is to support 
+development of competency for the practical endorsement 
+and also because students will be indirectly assessed on 
+their practical skills in the examinations. Teachers should 
+consider setting additional practical work to support 
+teaching and learning. 
+Teachers must devise and retain a teaching plan that shows 
+when practicals will be covered in teaching and learning. 
+Students should attempt all 16 practicals given in the 
+qualification content. 
+Conditions for assessing practical work 
+Authenticity 
+Students and teachers must sign the practical competency 
+authentication sheet (see Appendix 4). 
+Collaboration 
+Students may work in pairs on some practicals where 
+appropriate, provided they are able to produce individual 
+evidence to meet the competency statements. 
+Feedback 
+Teachers may help students to understand instructions and 
+may provide feedback to support development of the 
+competencies. Teachers should be confident that students 
+have developed their skills and thus students should be able 
+to demonstrate the competencies independently by the end 
+of the course. 
+Resources 
+Students must have access to the equipment needed to 
+carry out the core practicals. Students must also have 
+access to IT and internet facilities. 
+Supervision 
+Teachers must ensure that students are supervised 
+appropriately. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+47 
+Evidence of practical work 
+Evidence should be collected of practical work that is 
+sufficient to show that the competencies have been 
+achieved. Evidence may take a variety of forms. 
+The practical activities prescribed in the specification 
+provide opportunities for demonstrating competence in all 
+the skills identified, together with the use of apparatus and 
+techniques for each subject. However, students can also 
+demonstrate these competencies in any additional practical 
+activity undertaken throughout the course of study which 
+covers the requirements of Appendix 5c. 
+Observations and notes by teachers 
+Teachers should observe sufficient student practicals to 
+ensure that competencies have been achieved. 
+Student records 
+Students should keep notes of their practical work sufficient 
+to show evidence of the practical competencies on making 
+and recording observations and researching, referencing 
+and reporting. 
+Assessing practical work 
+Teachers should make a judgement of student practical 
+competence using the Common Practical Assessment 
+Criteria on the following pages. Teachers should include any 
+comments on the practical competency authentication sheet 
+(see Appendix 4) to justify the decision made. 
+In order to achieve a pass, students will need to: 
+● develop these competencies by carrying out a minimum 
+of 12 practical activities, which allow acquisition of the 
+techniques outlined in the requirements of the 
+specification 
+● consistently and routinely exhibit the competencies 
+listed in the CPAC before the completion of the A-level 
+course 
+● keep an appropriate record of their practical work, 
+including their assessed practical activities  
+● be able to demonstrate and/or record independent 
+evidence of their competency, including evidence of 
+independent application of investigative approaches and 
+methods to practical work. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+48 
+Common Practical Assessment Criteria 
+Teachers must assess student practicals against the following competencies. 
+ 
+Criteria for the assessment of GCE Science practical competency for 
+biology, chemistry and physics 
+Competency The criteria for a pass 
+In order to be awarded a Pass a learner must, by the 
+end of the practical science assessment, consistently 
+and routinely meet the criteria in respect of each 
+competency listed below. 
+A learner may demonstrate the competencies in any 
+practical activity undertaken as part of that 
+assessment throughout the course of study. 
+Learners may undertake practical activities in groups. 
+However, the evidence generated by each learner 
+must demonstrate that he or she independently 
+meets the criteria outlined below in respect of each 
+competency. 
+Such evidence: 
+(a) will comprise both the learner’s performance 
+during each practical activity and his or her 
+contemporaneous record of the work that he or she 
+has undertaken during that activity, and 
+(b) must include evidence of independent application 
+of investigative approaches and methods to practical 
+work. 
+1. Follows written 
+procedures 
+a) Correctly follows written instructions to carry out 
+the experimental techniques or procedures. 
+2. Applies investigative 
+approaches and 
+methods when using 
+instruments and 
+equipment 
+a) Correctly uses appropriate instrumentation, 
+apparatus and materials (including ICT) to carry out 
+investigative activities, experimental techniques and 
+procedures with minimal assistance or prompting. 
+b) Carries out techniques or procedures methodically, 
+in sequence and in combination, identifying practical 
+issues and making adjustments when necessary. 
+c) Identifies and controls significant quantitative 
+variables where applicable, and plans approaches to 
+take account of variables that cannot readily be 
+controlled. 
+d) Selects appropriate equipment and measurement 
+strategies in order to ensure suitably accurate results. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+49 
+ 
+Criteria for the assessment of GCE Science practical competency for 
+biology, chemistry and physics 
+3. Safely uses a range 
+of practical 
+equipment and 
+materials 
+a) Identifies hazards and assesses risks associated with 
+these hazards, making safety adjustments as 
+necessary, when carrying out experimental techniques 
+and procedures in the lab or field. 
+b) Uses appropriate safety equipment and approaches 
+to minimise risks with minimal prompting. 
+4. Makes and records 
+observations 
+a) Makes accurate observations relevant to the 
+experimental or investigative procedure. 
+b) Obtains accurate, precise and sufficient data for 
+experimental and investigative procedures and records 
+this methodically using appropriate units and 
+conventions. 
+5. Researches, 
+references and 
+reports 
+a) Uses appropriate software and/or tools to process 
+data, carry out research and report findings. 
+b) Cites sources of information demonstrating that 
+research has taken place, supporting planning and 
+conclusions. 
+Marking and standardisation 
+The practical work is assessed by teachers. Pearson will 
+support teachers in making judgements against the criteria 
+for assessment. 
+In coordination with other exam boards, Pearson will 
+monitor how schools provide students with opportunities to 
+develop and demonstrate the required practical skills and 
+how they mark the assessments. 
+Every school will be monitored at least once in a two-year 
+period in respect of at least one of the A level science 
+subjects. These monitoring visits will be coordinated by 
+JCQ, who will undertake communications with centres to 
+facilitate the allocation of exam board monitoring visits.  
+In common with other exam boards, Pearson will require 
+centres to provide a statement confirming they have taken 
+reasonable steps to secure that students: 
+● undertook the minimum number of practical activities, 
+and  
+● made a contemporaneous record of their work. 
+If a school fails to provide a statement, or provides a false 
+statement, this will be treated as malpractice and/or 
+maladministration. 
+Students will only get a certificate for the practical 
+assessment if they achieve at least a grade E in the 
+examined part of the qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+50 
+Students who do not pass the practical assessment will 
+have a ‘Not Classified’ outcome included on their certificate 
+unless they were exempt from the assessment because of a 
+disability. 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that 
+compromises or seeks to compromise the process of 
+assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered 
+before the candidate has signed the declaration of 
+authentication form does not need to be reported to 
+Pearson. 
+Candidate malpractice found in controlled assessments after 
+the declaration of authenticity has been signed, and in 
+examinations must be reported to Pearson on a  
+JCQ M1 Form (available at www.jcq.org.uk/exams-
+office/malpractice
+). The completed form can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations 
+Team, Pearson, 190 High Holborn, London, WC1V 7BH. 
+Please provide as much information and supporting 
+documentation as possible. Note that the final decision 
+regarding appropriate sanctions lies with Pearson. 
+Failure to report candidate malpractice constitutes staff or 
+centre malpractice.  
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate 
+malpractice and maladministration of our qualifications. As 
+with candidate malpractice, staff and centre malpractice is 
+any act that compromises or seeks to compromise the 
+process of assessment or undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and 
+maladministration must be reported immediately, before 
+any investigation is undertaken by the centre, to Pearson 
+on a JCQ M2(a) Form (available at www.jcq.org.uk/exams-
+office/malpractice). The form, supporting documentation 
+and as much information as possible can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations 
+Team, Pearson, 190 High Holborn, London, WC1V 7BH. Note 
+that the final decision regarding appropriate sanctions lies 
+with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+51 
+More-detailed guidance on malpractice can be found in the 
+latest version of the document JCQ General and Vocational 
+Qualifications Suspected Malpractice in Examinations and 
+Assessments, available at www.jcq.org.uk/exams-
+office/malpractice. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+52 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+53 
+Assessment 
+Assessment summary 
+Students must complete all assessment in May/June in any single year. 
+ 
+Paper 1: Advanced Inorganic and Physical Chemistry  
+*Paper code: 9CH0/01 
+• Questions draw on content from Topics 1, 2, 3, 4, 5, 8, 10 and 
+Topics 11–15. 
+• Questions are broken down into a number of parts. 
+• Availability: May/June 
+• First assessment: 2017 
+• The assessment is 1 hour 45 minutes. 
+• The assessment consists of 90 marks. 
+30% of the 
+total 
+qualification 
+ 
+ 
+Paper 2: Advanced Organic and Physical Chemistry  
+*Paper code: 9CH0/02 
+• Questions draw on content from Topics 2, 3, 5, 6, 7, 9 and 
+Topics 16–19. 
+• Questions are broken down into a number of parts. 
+• Availability: May/June 
+• First assessment: 2017 
+• The assessment is 1 hour 45 minutes. 
+• The assessment consists of 90 marks. 
+30% of the 
+total 
+qualification 
+ 
+ 
+Paper 3: General and Practical Principles in Chemistry  
+*Paper code: 9CH0/03 
+• Questions draw on content from Topics 1–19. 
+• Questions are broken down into a number of parts. 
+• Availability: May/June 
+• First assessment: 2017 
+• The assessment is 2 hours 30 minutes. 
+• The assessment consists of 120 marks. 
+40% of the 
+total 
+qualification 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+54 
+ 
+Science Practical Endorsement**  
+*Paper code: 9CH0/04 
+• Internally assessed and externally moderated by Pearson. 
+• Availability: May/June 
+• First assessment: 2017 
+• The practical endorsement is teacher assessed against the Common Practical 
+Assessment criteria (CPAC).  
+ 
+The sample assessment materials can be found in the Pearson Edexcel Level 3 
+Advanced GCE in Chemistry Sample Assessment Materials document. 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+**Students will be assessed separately for the Science Practical Endorsement. The 
+Endorsement will not contribute to the overall grade for this qualification, but the 
+result will be recorded on the student’s certificate. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+55 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Demonstrate knowledge and understanding of scientific ideas, 
+processes, techniques and procedures 31–33 
+AO2 Apply knowledge and understanding of scientific ideas, 
+processes, techniques and procedures: 
+• in a theoretical context 
+• in a practical context 
+• when handling qualitative data 
+• when handling quantitative data 
+41–43 
+AO3 Analyse, interpret and evaluate scientific information, ideas and 
+evidence, including in relation to issues, to: 
+• make judgements and reach conclusions 
+• develop and refine practical design and procedures 
+25–27 
+Total 100% 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+56 
+Breakdown of Assessment Objectives 
+ 
+Paper AO1 AO2 AO3 
+Total for all 
+Assessment 
+Objectives 
+Paper 1: Advanced Inorganic 
+and Physical Chemistry 11–13% 12–14% 5–7% 30% 
+Paper 2: Advanced Organic 
+and Physical Chemistry 11–13% 12–14% 5–7% 30% 
+Paper 3: General and 
+Practical Principles in 
+Chemistry 
+8–10% 16–18% 13–15% 40% 
+Total for this qualification 31–33% 41–43% 25–27% 100% 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+57 
+Entry and assessment information 
+Student entry 
+Details of how to enter students for the examinations for 
+this qualification can be found in our UK Information 
+Manual. A copy is made available to all examinations 
+officers and is available on our website at: 
+www.edexcel.com/iwantto/Pages/uk-information-
+manual.aspx 
+Forbidden combinations and discount code 
+Centres should be aware that students who enter for more 
+than one GCE qualification with the same discount code will 
+have only one of the grades they achieve counted for the 
+purpose of the School and College Performance Tables – 
+normally the better grade (please see Appendix 3: Codes). 
+Students should be advised that if they take two 
+qualifications with the same discount code, colleges, 
+universities and employers are very likely to take the view 
+that they have achieved only one of the two GCEs. The 
+same view may be taken if students take two GCE 
+qualifications that have different discount codes but have 
+significant overlap of content. Students or their advisers 
+who have any doubts about their subject combinations 
+should check with the institution to which they wish to 
+progress before embarking on their programmes. 
+Access arrangements, reasonable adjustments and 
+special consideration 
+Access arrangements 
+Access arrangements are agreed before an assessment. 
+They allow students with special educational needs, 
+disabilities or temporary injuries to: 
+● access the assessment 
+● show what they know and can do without changing the 
+demands of the assessment. 
+The intention behind an access arrangement is to meet the 
+particular needs of an individual student with a disability 
+without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding 
+bodies comply with the duty under the Equality Act 2010 to 
+make ‘reasonable adjustments’. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+58 
+Access arrangements should always be processed at the 
+start of the course. Students will then know what is 
+available and have the access arrangement(s) in place for 
+assessment. 
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to 
+make reasonable adjustments where a person with a 
+disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is 
+required to take reasonable steps to overcome that 
+disadvantage. 
+A reasonable adjustment for a particular person may be 
+unique to that individual and therefore might not be in the 
+list of available access arrangements. 
+Whether an adjustment will be considered reasonable will 
+depend on a number of factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with 
+the disability and other students. 
+An adjustment will not be approved if it involves 
+unreasonable costs to the awarding organisation, 
+timeframes or affects the security or integrity of the 
+assessment. This is because the adjustment is not 
+‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a 
+student's mark or grade to reflect temporary injury, illness 
+or other indisposition at the time of the 
+examination/assessment, which has had, or is reasonably 
+likely to have had, a material effect on a candidate’s ability 
+to take an assessment or demonstrate his or her level of 
+attainment in an assessment. 
+Further information 
+Please see our website for further information about how to 
+apply for access arrangements and special consideration. 
+For further information about access arrangements, 
+reasonable adjustments and special consideration, please 
+refer to the JCQ website: www.jcq.org.uk. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+59 
+Equality Act 2010 and Pearson equality policy 
+Equality and fairness are central to our work. Our equality 
+policy requires all students to have equal opportunity to 
+access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every 
+student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by 
+the Equality Act 2010) are not, when they are 
+undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that 
+characteristic 
+● all students achieve the recognition they deserve for 
+undertaking a qualification and that this achievement 
+can be compared fairly to the achievement of their 
+peers. 
+Teachers can find details on how to make adjustments for 
+students with protected characteristics in the policy 
+document Access Arrangements, Reasonable Adjustments 
+and Special Consideration, which is on our website, 
+www.edexcel.com/Policies. 
+Synoptic assessment 
+Synoptic assessment requires students to work across 
+different parts of a qualification and to show their 
+accumulated knowledge and understanding of a topic or 
+subject area. 
+Synoptic assessment enables students to show their ability 
+to combine their skills, knowledge and understanding with 
+breadth and depth of the subject. 
+In this qualification, synoptic assessment can be found in 
+Paper 3: General and Practical Principles in Chemistry. 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to 
+comply with the requirements of the current Code of 
+Practice published by the Office of Qualifications and 
+Examinations Regulation (Ofqual). 
+This qualification will be graded and certificated on a six-
+grade scale from A* to E using the total subject mark. 
+Individual papers are not graded. 
+The first certification opportunity for the Pearson Edexcel 
+Level 3 Advanced GCE in Chemistry will be 2017. 
+Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be 
+recorded on a certificate will receive an unclassified U 
+result. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+60 
+Language of assessment 
+Assessment of this qualification will be available in English. 
+All student work must be in English. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+61 
+ 
+Other information 
+Student recruitment 
+Pearson follows the JCQ policy concerning recruitment to 
+our qualifications in that: 
+● they must be available to anyone who is capable of 
+reaching the required standard 
+● they must be free from barriers that restrict access and 
+progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this 
+qualification. 
+Students who would benefit most from studying this 
+qualification are likely to have a Level 2 qualification such 
+as a GCSE in Additional Science or Chemistry. 
+Progression 
+Students can progress from this qualification to: 
+● a range of different, relevant academic or vocational 
+higher education qualifications 
+● employment in a relevant sector 
+● further training. 
+Relationship between Advanced Subsidiary GCE and 
+Advanced GCE 
+The content for Advanced GCE in Chemistry includes all the 
+content studied at Advanced Subsidiary GCE. The Advanced 
+GCE in Chemistry builds on the knowledge, skills, and 
+understanding achieved when studying the Advanced 
+Subsidiary GCE in Chemistry. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+62 
+Progression from Advanced Subsidiary GCE to 
+Advanced GCE 
+Students who have achieved the Advanced Subsidiary GCE 
+in Chemistry can progress to the Advanced GCE in 
+Chemistry. They would have covered Topics 1–10 which are 
+common to both qualifications but the additional  
+Topics 11–19 will need to be covered; all the assessment 
+for the Advanced GCE qualification must be taken at the 
+end of the course. 
+Relationship between GCSE and Advanced GCE 
+Students cover Key Stage 4 fundamental core concepts in 
+sciences at GCSE and continue to cover these concepts and 
+additional subject material in the Advanced GCE at 
+Key Stage 5. 
+Progression from GCSE to Advanced GCE 
+Students will draw on knowledge and understanding 
+achieved in GCSE Additional Science or GCSE Chemistry to 
+progress to an Advanced GCE in Chemistry qualification. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+63 
+ 
+Appendices 
+Appendix 1: Transferable skills 65 
+Appendix 2: Level 3 Extended Project qualification 67 
+Appendix 3: Codes 71 
+Appendix 4: Practical competency authentication sheet 73 
+Appendix 5: Working scientifically 75 
+Appendix 5a: Practical skills identified for indirect assessment and 
+developed through teaching and learning 77 
+Appendix 5b: Practical skills identified for direct assessment and 
+developed through teaching and learning 79 
+Appendix 5c: Use of apparatus and techniques 81 
+Appendix 5d: Mapping between Appendix 5c and core practicals 
+(chemistry) 83 
+Appendix 6: Mathematical skills and exemplifications 85 
+Appendix 7: Command words used in examination papers 91 
+Appendix 8: Data Booklet 93 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+64 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+65 
+Appendix 1: Transferable skills 
+ 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines 
+skills, or competencies, as ‘the bundle of knowledge, attributes and capacities that 
+can be learned and that enable individuals to successfully and consistently perform 
+an activity or task and can be built upon and extended through learning.’ 1 
+To support the design of our qualifications, the Pearson Research Team selected 
+and evaluated seven global 21st-century skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the 
+most evidence-based and robust skills framework. We adapted the framework 
+slightly to include the Program for International Student Assessment (PISA) ICT 
+Literacy and Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: 2 
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and 
+communicate3. 
+Interpersonal skills 
+● Communication – active listening, oral communication, written 
+communication, assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, 
+service orientation, self-presentation, social influence, conflict resolution and 
+negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+ 
+ 
+1 OECD (2012), Better Skills, Better Jobs, Better Lives (2012): 
+http://skills.oecd.org/documents/OECDSkillsStrategyFINALENG.pdf 
+2 Koenig, J. A. (2011) Assessing 21st Century Skills: Summary of a Workshop, National Research Council 
+3 PISA (2011) The PISA Framework for Assessment of ICT Literacy, PISA 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+66 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher 
+education, as well as the demands of the workplace, and are important in the 
+teaching and learning of this qualification. We will provide teaching and learning 
+materials, developed with stakeholders, to support our qualifications. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+67 
+ 
+Appendix 2: Level 3 Extended Project 
+qualification 
+ 
+What is the Extended Project? 
+The Extended Project is a stand-alone qualification that can be taken alongside 
+GCEs. It supports the development of 21st-century independent learning skills and 
+helps to prepare students for their next step – whether that be university study or 
+employment. The qualification: 
+• is recognised by universities for the skills it develops 
+• is worth half of an Advanced GCE qualification at grades to A*–E 
+• carries UCAS points for university entry. 
+The Extended Project encourages students to develop skills in the following areas: 
+research, critical thinking, extended writing and project management. Students 
+identify and agree a topic area of their choice (which may or may not be related to 
+a GCE subject they are already studying), guided by their teacher. 
+Students can choose from one of four approaches to produce: 
+• a dissertation (for example an investigation based on predominately secondary 
+research) 
+• an investigation/field study (for example a practical experiment) 
+• a performance (for example in music, drama or sport) 
+• an artefact (for example creating a sculpture in response to a client brief or 
+solving an engineering problem). 
+The qualification is coursework based and students are assessed on the skills of 
+managing, planning and evaluating their project. Students will research their topic, 
+develop skills to review and evaluate the information, and then present the final 
+outcome of their project. 
+Students: what they need to do 
+The Extended Project qualification requires students to: 
+• select a topic of interest for an in-depth study and negotiate the scope of the 
+project with their teacher 
+• identify and draft an objective for their project (for example in the form of a 
+question, hypothesis, challenge, outline of proposed performance, issue to be 
+investigated or commission for a client) and provide a rationale for their choice 
+• produce a plan for how they will deliver their intended objective 
+• conduct research as required by the project brief, using appropriate techniques 
+• carry out the project using tools and techniques safely 
+• share the outcome of the project using appropriate communication methods, 
+including a presentation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+68 
+Teachers: key information 
+• The Extended Project has 120 guided learning hours (GLH) consisting of: 
+o a 40-GLH taught element that includes teaching the technical skills (for 
+example research skills) 
+o an 80-GLH guided element that includes mentoring students through the 
+project work. 
+• Group work is acceptable, however it is important that each student provides 
+evidence of their own contribution and produces their own report. 
+• 100% externally moderated. 
+• Four Assessment Objectives: manage, use resources, develop and realise, 
+review. 
+• Can be run over 1, 1½ or 2 years. 
+• Can be submitted in January or June. 
+What is the Extended Project for chemistry? 
+How to link the Extended Project with chemistry 
+The Extended Project creates the opportunity for students to develop transferable 
+skills for progression to higher education and to the workplace through the 
+exploration of either an area of personal interest or a topic of interest from the 
+chemistry qualification content. 
+For example, chemistry students could choose to carry out an investigation that 
+would give them an opportunity to develop their skills in data collection, in the 
+development and testing of hypotheses and in the application of mathematical 
+models in data analysis. 
+Skills developed 
+Through the Extended Project students will develop skills in the following areas: 
+• independent research skills, including skills in primary research and the 
+selection of appropriate methods for data collection 
+• extended reading and academic writing, including reading scientific literature 
+and writing about trends or patterns in data sets 
+• planning/project management, including the refining of hypotheses to be tested 
+in investigations 
+• data handling and evaluation, including the comparison of data from primary 
+research with published data and exploration of the significance of results 
+• evaluation of arguments and processes, including arguments in favour of 
+alternative interpretations of data and evaluation of experimental methodology 
+• critical thinking. 
+In the context of the Extended Project, critical thinking refers to the ability to 
+identify and develop arguments for a point of view or hypothesis and to consider 
+and respond to alternative arguments. 
+The Extended Project is an ideal vehicle to develop the skills identified in 
+Appendix 1. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+69 
+Using the Extended Project to support breadth and depth 
+There is no specified material that students are expected to study and, in the 
+Extended Project, students are assessed on the quality of the work they produce 
+and the skills they develop and demonstrate through completing this work. 
+Students can use the Extended Project to demonstrate extension in one or more 
+dimensions: 
+• deepening understanding: where a student explores a topic in greater depth 
+than in the specification content 
+• broadening skills: the student learns a new skill. In a chemistry-based 
+project, this might involve learning to assemble and manipulate an unfamiliar 
+piece of apparatus or learning advanced data-handling techniques 
+• widening perspectives: the student’s project spans different subjects. This 
+might involve discussing historical, philosophical or ethical aspects of a 
+chemistry-based topic or making links with other subject areas such as 
+economics. 
+Choosing topics and narrowing down to a question 
+A dissertation, typically around 6000 words in length, involves addressing a 
+research question through a literature review and argumentative discussion while 
+an investigation/field study involves data collection and analysis, leading to a 
+written report of around 5000 words. 
+For example, consider a student with an interest in alternatives to conventional 
+fuels who decided to carry out an investigation to compare the strengths and 
+weaknesses of two different types of biodiesel. The investigation involved 
+secondary research to establish the theoretical background to the project, to 
+explore the uses and properties of different biodiesels and to consider what 
+techniques can be used to gather data. The student collected data using 
+appropriately designed experiments. The student’s own data were compared with 
+published data, and the trends and patterns in data analysed, with consideration of 
+the significance of the results obtained, and an attempt to interpret them in the 
+light of the mathematical models that the student had learned about through 
+research. 
+The student drew conclusions about the relative merits of the two biodiesels, basing 
+these conclusions on their own research together with analysis of published data. 
+Finally, the student’s project ended with a review of the effectiveness of the 
+investigation and an oral presentation of the main findings and arguments 
+considered. 
+Chemistry-based dissertation projects can cover a wide variety of topics, as these 
+examples illustrate: 
+• Should legislation be used to enforce the principles of green chemistry? 
+• Could nanochemistry revolutionise medicine? 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+70 
+Examples of chemistry-based investigations include: 
+• Are calorific values in diet foods accurate? 
+• Can changing the method of synthesis significantly alter the material properties 
+of a polymer? 
+• Is there a correlation between the chemical composition of a chilli pepper and 
+its taste? 
+• Is the use of oil-dispersants an effective way of tackling oil spills? 
+There is also scope for chemistry-based artefact Extended Projects. For example, a 
+student might set out to design, make and test an item of apparatus such as a 
+spectrometer. Extended Projects involving a performance can also be chemistry 
+based. For example, a social issue relating to chemistry could be explored through 
+drama. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+71 
+ 
+Appendix 3: Codes 
+ 
+Type of code Use of code Code number 
+Discount codes Every qualification eligible for performance 
+tables is assigned a discount code 
+indicating the subject area to which it 
+belongs. 
+Discount codes are published by DfE. 
+Please see the GOV.UK 
+website*  
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes 
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a Qualification 
+Number (QN). This is the code that 
+features in the DfE Section 96 and on the 
+LARA as being eligible for 16–18 and 19+ 
+funding, and is to be used for all 
+qualification funding purposes. The QN will 
+appear on the student’s final certification 
+documentation. 
+The QN for the 
+qualification in this 
+publication is:  
+601/5646/6 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. Centres 
+will need to use the entry codes only when 
+claiming students’ qualifications. 
+Advanced GCE – 9CH0 
+Paper code These codes are provided for reference 
+purposes. Students do not need to be 
+entered for individual papers. 
+Paper 1: 9CH0/01 
+Paper 2: 9CH0/02 
+Paper 3: 9CH0/03 
+Science Practical 
+Endorsement: 9CH0/04  
+ 
+*www.gov.uk/government/publications/key-stage-4-qualifications-discount-codes-
+and-point-scores 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+72 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+73 
+ 
+Appendix 4: Practical competency 
+authentication sheet 
+ 
+For students to gain the Science Practical Endorsement, centres will need to: 
+• ensure that there is evidence that students have completed the necessary 
+practical activities, meeting the requirements of Appendix 5c 
+• ensure that there is evidence that students have met the requirements of each 
+of the CPAC statements, in accordance with the guidelines provided for 
+achieving the 'pass' standard 
+• complete an authentication sheet for their students. 
+Centres will also need to have had a satisfactory monitoring visit, according to the 
+guidelines for monitoring visits, as set down by the JCQ. 
+Evidence for meeting practical attendance and CPAC competency may be provided 
+in a variety of formats using student lab books or practical portfolios; and registers 
+or tracking spreadsheets.  
+A final version of the authentication statement will be made available to schools in 
+time for the first submission of entries in 2017. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+74 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+75 
+ 
+Appendix 5: Working scientifically 
+ 
+Appendices 5, 5a, 5b and 5c are taken from the document GCE AS and A level 
+regulatory requirements for biology, chemistry, physics and psychology published 
+by the DfE in April 2014. Working scientifically is achieved through practical 
+activities. 
+Specifications in biology, chemistry and physics must encourage the development 
+of the skills, knowledge and understanding in science through teaching and learning 
+opportunities for regular hands-on practical work. 
+In order to develop the necessary skills, knowledge and understanding, students 
+studying biology, chemistry and physics will be required to have carried out a 
+minimum of 12 practical activities, which will contribute towards the Practical 
+Endorsement. These skills, knowledge and understanding will also be assessed in 
+written examinations in the context of these, and other, practical activities. 
+The skills can be split into those which can be assessed through written 
+examinations (Appendix 5a); and those that will be assessed by teachers through 
+appropriate practical activities (Appendix 5b). 
+The practical activities highlighted as the minimum requirement within 
+specifications must cover the use of apparatus and practical techniques identified 
+for each science (Appendix 5c). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+76 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+77 
+ 
+Appendix 5a: Practical skills identified for 
+indirect assessment and developed 
+through teaching and learning 
+ 
+Question papers will assess the following abilities: 
+a) Independent thinking 
+• solve problems set in practical contexts 
+• apply scientific knowledge to practical contexts 
+ 
+b) Use and application of scientific methods and practices 
+• comment on experimental design and evaluate scientific methods 
+• present data in appropriate ways 
+• evaluate results and draw conclusions with reference to measurement 
+uncertainties and errors 
+• identify variables including those that must be controlled 
+ 
+c) Numeracy and the application of mathematical concepts in a practical 
+context 
+• plot and interpret graphs 
+• process and analyse data using appropriate mathematical skills as 
+exemplified in the mathematical appendix for each science 
+• consider margins of error, accuracy and precision of data 
+ 
+d) Instruments and equipment 
+• know and understand how to use a wide range of experimental and practical 
+instruments, equipment and techniques appropriate to the knowledge and 
+understanding included in the specification 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+78 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+79 
+ 
+Appendix 5b: Practical skills identified for 
+direct assessment and developed through 
+teaching and learning 
+ 
+Practical work carried out throughout the course will enable students to develop the 
+following skills. 
+ 
+a) Independent thinking 
+• apply investigative approaches and methods to practical work 
+ 
+b) Use and apply scientific methods and practices 
+• safely and correctly use a range of practical equipment and materials 
+• follow written instructions 
+• make and record observations 
+• keep appropriate records of experimental activities 
+• present information and data in a scientific way 
+• use appropriate software and tools to process data, carry out research and 
+report findings 
+ 
+c) Research and referencing 
+• use online and offline research skills including websites, textbooks and other 
+printed scientific sources of information 
+• correctly cite sources of information 
+ 
+d) Instruments and equipment 
+• use a wide range of experimental and practical instruments, equipment and 
+techniques appropriate to the knowledge and understanding included in the 
+specification 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+80 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+81 
+Appendix 5c: Use of apparatus and 
+techniques 
+ 
+Use of apparatus and techniques – chemistry 
+Specifications for chemistry must give students opportunities to use relevant 
+apparatus to develop and demonstrate these techniques. 
+All of the techniques listed below will be assessed through a minimum of  
+12 identified practical activities within each specification. These ‘core’ practicals 
+must allow students to demonstrate all of the practical skills given in 5b. 
+Practical techniques to be gained by candidates 
+1. use appropriate apparatus to record a range of measurements (to include 
+mass, time, volume of liquids and gases, temperature) 
+2. use water bath or electric heater or sand bath for heating 
+3. measure pH using pH charts, or pH meter, or pH probe on a data logger 
+4. use laboratory apparatus for a variety of experimental techniques, including: 
+• titration, using burette and pipette 
+• distillation and heating under reflux, including setting up glassware using 
+retort stand and clamps 
+• qualitative tests for ions and organic functional groups 
+• filtration, including use of fluted filter paper, or filtration under reduced 
+pressure 
+5. use volumetric flask, including accurate technique for making up a standard 
+solution 
+6. use acid-base indicators in titrations of weak/strong acids with weak/strong 
+alkalis 
+7. purify: 
+• a solid product by recrystallization 
+• a liquid product, including use of separating funnel 
+8. use melting point apparatus 
+9. use thin-layer or paper chromatography 
+10. set up electrochemical cells and measuring voltages 
+11. safely and carefully handle solids and liquids, including corrosive, irritant, 
+flammable and toxic substances 
+12. measure rates of reaction by at least two different methods, for example: 
+• an initial rate method such as a clock reaction 
+• a continuous monitoring method 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+82 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+83 
+ 
+Appendix 5d: Mapping between Appendix 5c 
+and core practicals (chemistry) 
+ 
+This qualification gives students opportunities to use relevant apparatus to develop 
+practical skills and demonstrate competency in a range of practical techniques. 
+All of the techniques listed in Appendix 5c will be assessed through a series of core 
+practical activities within this specification. 
+To achieve the Science Practical Endorsement, students need to show competence in 
+the 12 practical techniques listed in Appendix 5c: Use of apparatus and techniques. 
+The following table shows how each core practical activity, listed in the content, maps 
+to the required practical techniques in Appendix 5c: Use of apparatus and techniques. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+84 
+ 
+Chemistry Core Practical Practical technique in Appendix 5c 
+1 2 3 4 5 6 7 8 9 10 11 12 
+1: Measuring the molar 
+volume of a gas             
+2: Preparation of a standard 
+solution from a solid acid             
+3: Finding the concentration 
+of a solution of hydrochloric 
+acid 
+            
+4: Investigation of the rates 
+of hydrolysis of 
+halogenoalkanes 
+            
+5: The oxidation of ethanol             
+6: Chlorination of  
+2-methylpropan-2-ol with 
+concentrated hydrochloric 
+acid 
+            
+7: Analysis of some inorganic 
+and organic unknowns             
+8: To determine the enthalpy 
+change of a reaction using 
+Hess’s Law 
+            
+9. Finding the Ka value for 
+a weak acid 
+            
+10. Investigating some 
+electrochemical cells             
+11. Redox titration             
+12. The preparation of a 
+transition metal complex             
+13a and 13b: Following 
+the rate of the iodine-
+propanone reaction by a 
+titrimetric method and 
+investigating a ‘clock 
+reaction’ (Harcourt-Esson, 
+iodine clock) 
+            
+14. Finding the activation 
+energy of a reaction             
+15. Analysis of some 
+inorganic and organic 
+unknowns 
+            
+16. The preparation of 
+aspirin             
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+85 
+ 
+Appendix 6: Mathematical skills and 
+exemplifications 
+ 
+The information in this appendix has been taken directly from the document  
+GCE AS and A level regulatory requirements for biology, chemistry, physics and 
+psychology published by the Department for Education in April 2014. 
+In order to be able to develop their skills, knowledge and understanding in science, 
+students need to have been taught, and to have acquired competence in, the 
+appropriate areas of mathematics relevant to the subject as indicated in the table 
+of coverage below. 
+The assessment of quantitative skills will include at least 10% level 2 or above 
+mathematical skills for biology and psychology, 20% for chemistry and 40% for 
+physics. These skills will be applied in the context of the relevant science A Level. 
+All mathematical content must be assessed within the lifetime of the specification. 
+The following tables illustrate where these mathematical skills may be developed 
+and could be assessed in each of the sciences. Those shown in bold type would only 
+be tested in the full A Level course. 
+This list of examples is not exhaustive. These skills could be developed in other 
+areas of specification content. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+86 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level chemistry (assessment is 
+not limited to the examples given below) 
+(i)  B.0 – arithmetic and numerical computation  
+B.0.0 Recognise and make use of 
+appropriate units in calculation 
+Candidates may be tested on their ability to: 
+• convert between units, e.g. cm3 to dm3 as 
+part of volumetric calculations 
+• give units for an equilibrium constant or 
+a rate constant 
+• understand that different units are used in 
+similar topic areas, so that conversions may 
+be necessary, e.g. entropy in J mol
+-1 K-1 and 
+enthalpy changes in kJ mol-1 
+B.0.1 Recognise and use expressions in 
+decimal and ordinary form 
+Candidates may be tested on their ability to: 
+• use an appropriate number of decimal places 
+in calculations, e.g. for pH 
+• carry out calculations using numbers in 
+standard and ordinary form, e.g. use of 
+Avogadro’s number 
+• understand standard form when applied to 
+areas such as (but not limited to) Kw 
+• convert between numbers in standard and 
+ordinary form 
+• understand that significant figures need 
+retaining when making conversions between 
+standard and ordinary form, e.g. 0.0050 mol 
+dm
+-3 is equivalent to 5.0 x 10-3 mol dm-3 
+B.0.2 Use ratios, fractions and 
+percentages 
+Candidates may be tested on their ability to: 
+• calculate percentage yields 
+• calculate the atom economy of a reaction 
+• construct and/or balance equations using 
+ratios 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+87 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level chemistry (assessment is 
+not limited to the examples given below) 
+B.0.3 Make estimates of the results of 
+calculations (without using a 
+calculator). 
+Candidates may be tested on their ability to: 
+• evaluate the effect of changing 
+experimental parameters on measurable 
+values, e.g. how the value of Kc would 
+change with temperature given different 
+specified conditions 
+B.0.4 Use calculators to find and use 
+power, exponential and 
+logarithmic functions 
+Candidates may be tested on their ability to: 
+• carry out calculations using the Avogadro 
+constant 
+• carry out pH and pKa calculations 
+• make appropriate mathematical 
+approximations in buffer calculations 
+(ii)  B.1 – handling data 
+B.1.1 Use an appropriate number of 
+significant figures 
+Candidates may be tested on their ability to: 
+• report calculations to an appropriate number 
+of significant figures given raw data quoted 
+to varying numbers of significant figures 
+• understand that calculated results can only 
+be reported to the limits of the least accurate 
+measurement 
+B.1.2 Find arithmetic means Candidates may be tested on their ability to: 
+• calculate weighted means, e.g. calculation of 
+an atomic mass based on supplied isotopic 
+abundances 
+• select appropriate titration data (i.e. 
+identification of outliers) in order to calculate 
+mean titres 
+B.1.3 Identify uncertainties in 
+measurements and use simple 
+techniques to determine 
+uncertainty when data are 
+combined 
+Candidates may be tested on their ability to: 
+● determine uncertainty when two burette 
+readings are used to calculate a titre value 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+88 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level chemistry (assessment is 
+not limited to the examples given below) 
+(iii) B.2 – algebra 
+B.2.1 Understand and use the symbols: 
+=, <, <<, >>, >, ∝, ~, 
+equilibrium sign 
+No exemplification required. 
+B.2.2 Change the subject of an 
+equation 
+Candidates may be tested on their ability to: 
+• carry out structured and unstructured mole 
+calculations, e.g. calculate a rate constant 
+k from a rate equation 
+B.2.3 Substitute numerical values into 
+algebraic equations using 
+appropriate units for physical 
+quantities 
+Candidates may be tested on their ability to: 
+• carry out structured and unstructured mole 
+calculations 
+• carry out rate calculations 
+• calculate the value of an equilibrium 
+constant KC 
+B.2.4 Solve algebraic equations Candidates may be tested on their ability to: 
+• carry out Hess’s law calculations 
+• calculate a rate constant k from a rate 
+equation 
+B.2.5 Use logarithms in relation to 
+quantities that range over 
+several orders of magnitude 
+Students may be tested on their ability to: 
+• carry out pH and pKa calculations 
+(iv) B.3 – graphs 
+B.3.1 Translate information between 
+graphical, numerical and algebraic 
+forms 
+Candidates may be tested on their ability to: 
+• interpret and analyse spectra 
+• determine the order of a reaction from a 
+graph 
+• derive rate expression from a graph 
+B.3.2 Plot two variables from 
+experimental or other data 
+Candidates may be tested on their ability to: 
+• plot concentration–time graphs from 
+collected or supplied data and draw an 
+appropriate best-fit curve 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+89 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level chemistry (assessment is 
+not limited to the examples given below) 
+B.3.3 Determine the slope and 
+intercept of a linear graph 
+Candidates may be tested on their ability to: 
+• calculate the rate constant of a zero-
+order reaction by determination of the 
+gradient of a concentration–time graph 
+B.3.4 Calculate rate of change from 
+a graph showing a linear 
+relationship 
+Candidates may be tested on their ability to: 
+• calculate the rate constant of a zero-
+order reaction by determination of the 
+gradient of a concentration–time graph 
+B.3.5 Draw and use the slope of a 
+tangent to a curve as a 
+measure of rate of change 
+Candidates may be tested on their ability to: 
+• determine the order of a reaction using 
+the initial rates method 
+(v)  B.4 – geometry and trigonometry 
+B.4.1 Appreciate angles and shapes in  
+regular 2D and 3D structures. 
+Candidates may be tested on their ability to: 
+• predict/identify shapes of and bond angles in 
+molecules with and without a lone pair(s), for 
+example NH3, CH4, H2O etc 
+B.4.2 Visualise and represent 2D and 
+3D forms including two-
+dimensional representations of 3D 
+objects 
+Candidates may be tested on their ability to: 
+• draw different forms of isomers 
+• identify chiral centres from a 2D or 3D 
+representation 
+B.4.3 Understand the symmetry of 2D 
+and 3D shapes 
+Candidates may be tested on their ability to: 
+• describe the types of stereoisomerism shown 
+by molecules/complexes 
+• identify chiral centres from a 2D or 3D 
+representation 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+90 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+91 
+Appendix 7: Command words used in 
+examination papers 
+ 
+The following table lists the command words used in the external assessments. 
+ 
+Command word Definition 
+Add/Label Requires the addition or labelling to a stimulus material given 
+in the question, for example labelling a diagram or adding 
+units to a table. 
+Assess Give careful consideration to all the factors or events that 
+apply and identify which are the most important or relevant. 
+Make a judgement on the importance of something, and 
+come to a conclusion where needed. 
+Calculate Obtain a numerical answer, showing relevant working. If the 
+answer has a unit, this must be included. 
+Comment on Requires the synthesis of a number of variables from 
+data/information to form a judgement. 
+Compare and 
+contrast 
+Looking for the similarities and differences of two (or more) 
+things. Should not require the drawing of a conclusion. 
+Answer must relate to both (or all) things mentioned in the 
+question. 
+The answer must include at least one similarity and one 
+difference. 
+Complete Requires the completion of a table/diagram. 
+Criticise Inspect a set of data, an experimental plan or a scientific 
+statement and consider the elements. Look at the merits and 
+faults of the information presented and back judgements 
+made by giving evidence.  
+Deduce Draw/reach conclusion(s) from the information provided. 
+Describe To give an account of something. Statements in the response 
+need to be developed as they are often linked but do not 
+need to include a justification or reason. 
+Determine The answer must have an element which is quantitative from 
+the stimulus provided, or must show how the answer can be 
+reached quantitatively. To gain maximum marks there must 
+be a quantitative element to the answer. 
+Devise Plan or invent a procedure from existing principles/ideas 
+Discuss • Identify the issue/situation/problem/argument that is 
+being assessed within the question. 
+• Explore all aspects of an 
+issue/situation/problem/argument. 
+• Investigate the issue/situation etc by reasoning or 
+argument. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+92 
+ 
+Command word Definition 
+Draw Produce a diagram either using a ruler or using freehand. 
+Evaluate Review information then bring it together to form a 
+conclusion, drawing on evidence including strengths, 
+weaknesses, alternative actions, relevant data or information. 
+Come to a supported judgement of a subject’s qualities and 
+relation to its context. 
+Explain An explanation requires a justification/exemplification of a 
+point. The answer must contain some element of 
+reasoning/justification, this can include mathematical 
+explanations. 
+Give/State/Name All of these command words are really synonyms. They 
+generally all require recall of one or more pieces of 
+information. 
+Give a 
+reason/reasons 
+When a statement has been made and the requirement is 
+only to give the reasons why. 
+Identify Usually requires some key information to be selected from a 
+given stimulus/resource. 
+Justify Give evidence to prove (either the statement given in the 
+question or an earlier answer) 
+Plot Produce a graph by marking points accurately on a grid from 
+data that is provided and then drawing a line of best fit 
+through these points. A suitable scale and appropriately 
+labelled axes must be included if these are not provided in 
+the question. 
+Predict Give an expected result. 
+Show that Verify the statement given in the question. 
+Sketch Produce a freehand drawing. For a graph this would need a 
+line and labelled axis with important features indicated, the 
+axis are not scaled. 
+State what is 
+meant by 
+When the meaning of a term is expected but there are 
+different ways of how these can be described. 
+Write When the questions ask for an equation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+93 
+ 
+Appendix 8: Data Booklet 
+ 
+This appendix shows the data included in a Data Booklet that will be available on 
+our website. Centres will be sent copies of the Data Booklet for the first 
+examination series. 
+Centres can make additional fresh copies by printing the Data Booklet from our 
+website. Candidates must use an unmarked copy of the Data Booklet in 
+examinations. 
+Acknowledgement of source 
+The data used in the Data Booklet is derived from the Nuffield Advanced Science, 
+Revised Book of Data (ISBN 058235448X), Nuffield Foundation. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+94 
+ 
+Physical constants 
+ 
+Avogadro constant (L)   6.02 x 1023 mol-1 
+ 
+Elementary charge (e)   1.60 x 10-19 C 
+ 
+Gas constant (R)     8.31 J mol-1 K-1 
+ 
+Molar volume of ideal gas: 
+ at r.t.p.      24 dm3 mol-1 
+ 
+Specific heat capacity of water 4.18 J g
+-1 K-1  
+ 
+Ionic product of water (Kw)  1.00 x 10-14 mol2 dm-6 
+ 
+1 dm3 = 1 000 cm3 = 0.001 m3 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+95 
+ 
+Infrared spectroscopy 
+ 
+Correlation of infrared absorption wavenumbers with molecular structure 
+ 
+Group Wavenumber range/cm-1 
+C-H stretching vibrations  
+Alkane 2962-2853 
+Alkene 3095-3010 
+Alkyne 3300 
+Arene 3030 
+Aldehyde 2900-2820 and 2775-2700 
+  
+C-H bending variations  
+Alkane 1485-1365 
+Arene 5 adjacent hydrogen atoms 750 and 700 
+4 adjacent hydrogen atoms 750 
+3 adjacent hydrogen atoms 780 
+2 adjacent hydrogen atoms 830 
+1 adjacent hydrogen atom 880 
+  
+N-H stretching vibrations  
+Amine 3500-3300 
+Amide 3500-3140 
+  
+O-H stretching vibrations  
+Alcohols and phenols 3750-3200 
+Carboxylic acids 3300-2500 
+  
+C=C stretching vibrations  
+Isolated alkene 1669-1645 
+Arene 1600, 1580, 1500, 1450 
+  
+C=O stretching vibrations  
+Aldehydes, saturated alkyl 1740-1720 
+Ketones, alkyl 1720-1700 
+Ketones, aryl 1700-1680 
+Carboxylic acids, alkyl 1725-1700 
+Carboxylic acids, aryl 1700-1680 
+Carboxylic acid, anhydrides  1850-1800 and 1790-1740 
+Acyl halides, chlorides 1795 
+Acyl halides, bromides 1810  
+Esters, saturated 1750-1735 
+Amides 1700-1630 
+  
+Triple bond stretching vibrations  
+C≡N 2260-2215 
+C≡C 2260-2100 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+96 
+ 
+1H nuclear magnetic resonance chemical shifts relative to 
+tetramethylsilane (TMS) 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13C nuclear magnetic resonance chemical shifts relative to 
+tetramethylsilane (TMS) 
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TMS 
+CH2O 
+  220     200     180    160    140     120     100      80      60      40       20       0       -20     -40 
+C–Cl 
+ 
+C–Br 
+C–C 
+Arene 
+        O 
+ 
+C–C–H 
+ 
+C=C 
+C-OH 
+C–C 
+C-N 
+        O 
+ 
+C–C–C 
+ 
+    O 
+ 
+–C–N 
+ 
+    O 
+ 
+–C–O 
+ 
+12.0       11.0        10.0         9.0         8.0          7.0           6.0         5.0           4.0         3.0         2.0            1.0         0.0 
+δ/ppm for TMS 
+ 
+H–C–C=C 
+   alkenes 
+   arenes 
+H–C–N 
+ amine 
+ amide 
+C–N–H 
+amine 
+ 
+Ar–N–H 
+phenylamines 
+ 
+CON–H 
+amide 
+ 
+H–C–C=O 
+aldehyde 
+ketone 
+ester 
+amide 
+acid 
+ 
+H–C–O– 
+ alcohol 
+ether 
+ester 
+         –O–H 
+         alcohol 
+ 
+     H–C–halogen 
+   halogenoalkane 
+   R2CHF>R2CHCl> 
+   R2CHBr>R2CHI 
+CH3OH 
+ 
+   3.39 
+ 
+ 
+propanone 
+         
+     2.10 
+ 
+       
+ 
+ 
+ethene 
+ 
+  5.28 
+ 
+ 
+benzene 
+ 
+    7.27 
+ 
+ 
+Ar–O–H 
+phenol 
+ 
+COO–H 
+carboxylic acid 
+ 
+H–C–C 
+alkane 
+R3CH>R2CH2> 
+RCH3 
+H–C=C 
+alkene 
+Ar–H 
+arene ring 
+    O 
+ 
+– C–H 
+aldehyde 
+TMS 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+97 
+ 
+Pauling electronegativities 
+ 
+Pauling electronegativity index 
+ 
+       H 
+2∙1 
+         He 
+Li 
+1∙0 
+Be 
+1∙5 
+          B 
+2∙0 
+C 
+2∙5 
+N 
+3∙0 
+O 
+3∙5 
+F 
+4∙0 
+Ne 
+Na 
+0∙9 
+Mg 
+1∙2 
+          Al 
+1∙5 
+Si 
+1∙9 
+P 
+2∙1 
+S 
+2∙5 
+Cl 
+3∙0 
+Ar 
+K 
+0∙8 
+Ca 
+1∙0 
+Sc 
+1∙3 
+Ti 
+1∙5 
+V 
+1∙6 
+Cr 
+1∙6 
+Mn 
+1∙5 
+Fe 
+1∙8 
+Co 
+1∙8 
+Ni 
+1∙8 
+Cu 
+1∙9 
+Zn 
+1∙6 
+Ga 
+1∙6 
+Ge 
+2∙0 
+As 
+2∙0 
+Se 
+2∙4 
+Br 
+2∙8 
+Kr 
+Rb 
+0∙8 
+Sr 
+1∙0 
+Y 
+1∙2 
+Zr 
+1∙3 
+Nb 
+1∙6 
+Mo 
+2∙1 
+Tc 
+1∙9 
+Ru 
+2∙2 
+Rh 
+2∙2 
+Pd 
+2∙2 
+Ag 
+1∙9 
+Cd 
+1∙6 
+In 
+1∙7 
+Sn 
+1∙9 
+Sb 
+1∙9 
+Te 
+2∙1 
+I 
+2∙5 
+Xe 
+Cs 
+0∙7 
+Ba 
+0∙9 
+La 
+1∙1 
+Hf 
+1∙3 
+Ta 
+1∙5 
+W 
+2∙3 
+Re 
+1∙9 
+Os 
+2∙2 
+Ir 
+2∙2 
+Pt 
+2∙2 
+Au 
+2∙5 
+Hg 
+2∙0 
+Tl 
+1∙6 
+Pb 
+1∙8 
+Bi 
+1∙9 
+Po 
+2∙0 
+At 
+2∙2 
+Rn 
+ 
+ 
+Indicators 
+ 
+  pKin 
+(at 298 K) 
+acid pH range alkaline 
+1 Thymol blue (acid) 1.7 red 1.2−2.8 yellow 
+2 Screened methyl orange 3.7 purple 3.2−4.2 green 
+3 Methyl orange 3.7 red 3.2−4.4 yellow 
+4 Bromophenol blue 4.0 yellow 2.8−4.6 blue 
+5 Bromocresol green 4.7 yellow 3.8−5.4 blue 
+      
+6 Methyl red 5.1 red 4.2−6.3 yellow 
+7 Litmus  red 5.0−8.0 blue 
+8 Bromothymol blue 7.0 yellow 6.0−7.6 blue 
+9 Phenol red 7.9 yellow 6.8−8.4 red 
+10 Phenolphthalein (in 
+ethanol) 
+9.3 colourless 8.2−10.0 red 
+      
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+98 
+Standard electrode potentials 
+ 
+Eo Standard electrode potential of aqueous system at 298 K, that is, standard 
+emf of electrochemical cell in the hydrogen half-cell forms the left-hand side 
+electrode system.  
+ 
+ Right-hand electrode system Eo/V 
+1 Na+ + e- ⇌ Na -2.71 
+2 Mg2+  + 2e- ⇌ Mg -2.37 
+3 Al3+  + 3e- ⇌ Al -1.66 
+4 V2+ + 2e- ⇌ V -1.18 
+5 Zn2+ + 2e- ⇌ Zn -0.76 
+6 Cr3+ + 3e- ⇌ Cr -0.74 
+7 Fe2+ + 2e- ⇌ Fe -0.44 
+8 Cr3+ + e- ⇌ Cr2+ -0.41 
+9 V3+ + e- ⇌ V2+ -0.26 
+10 Ni2+ + 2e- ⇌ Ni -0.25 
+11 H+ + e- ⇌ ½H2 0.00 
+12 ½S4O62- + e- ⇌ S2O32- +0.09 
+13 Cu2+ + e- ⇌ Cu+ +0.15 
+14 Cu2+ + 2e- ⇌ Cu +0.34 
+15 VO2+ + 2H+ + e- ⇌ V3+ + H2O +0.34 
+16 ½O2 + H2O + 2e- ⇌ 2OH- +0.40 
+17 S2O32- + 6H+ + 4e- ⇌ 2S + 3H2O +0.47 
+18 Cu+ + e- ⇌ Cu +0.52 
+19 ½I2 + e- ⇌ I- +0.54 
+20 3O2 + 2H+ + 2e- ⇌ H2O2 +0.68 
+21 Fe3+ + e- ⇌ Fe2+ +0.77 
+22 Ag+ + e- ⇌ Ag +0.80 
+23 NO3- + 2H+ + e- ⇌ NO2 + H2O +0.80 
+24 ClO- + H2O + 2e- ⇌ Cl- + 2OH- +0.89 
+25 VO2+ + 2H+ + e- ⇌ VO2+ + H2O +1.00 
+26 ½Br2 + e- ⇌ Br- +1.09 
+27 ½O2 + 2H+ + 2e- ⇌ H2O +1.23 
+28 ½Cr2O
+2
+7
+- + 7H+ + 3e- ⇌ Cr3+ + 27 H2O +1.33 
+29 ½Cl2 + e-⇌ Cl- +1.36 
+30 MnO4- + 8H+ + 5e- ⇌ Mn2+ + 4H2O +1.51 
+31 ½ H2O2 + H+ + e- ⇌ H2O +1.77  
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Chemistry 
+Specification – Issue 3 – February 2024 © Pearson Education Limited 2024 
+99 
+ 
+ 
+ 
+ 
+ 
+DB260224 9781446929537_GCE2015_AL_CHEM_ISS3.DOC.1–110/0 
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office:  80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121

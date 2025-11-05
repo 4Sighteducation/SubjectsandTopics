@@ -1,0 +1,1926 @@
+A Level 
+English 
+Language
+Specification
+Pearson Edexcel Level 3 Advanced GCE in English Language (9EN0)
+First teaching from September 2015
+First certification from 2017 Issue 6
+ 
+ 
+About Pearson 
+We are the world’s leading learning company operating in countries all around the 
+world. We provide content, assessment and digital services to learners, educational 
+institutions, employers, governments and other partners globally. We are 
+committed to helping equip learners with the skills they need to enhance their 
+employability prospects and to succeed in the changing world of work. We believe 
+that wherever learning flourishes so do people. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party materials made in this specification are made in good 
+faith. Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Materials may include textbooks, journals, magazines and other publications and 
+websites.) 
+ 
+All information in this specification is correct at time of publication. 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 94480 6 
+All the material in this publication is copyright 
+© Pearson Education Limited 2024 
+ 
+ 
+Summary of Pearson Edexcel Level 3 Advanced GCE 
+in English Language specification 
+Issue 6 
+ 
+Summary of changes made between previous issue and this current 
+issue  
+Page 
+number  
+Non-examination assessment authentication sheet 
+This has been amended to include a statement regarding the use of AI. 
+45–46 
+ 
+If you need further information on these changes or what they mean, contact us via 
+our website at: qualifications.pearson.com/en/support/contact-us.html. 
+ 
+
+ 
+ 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+May 2014 
+“The reform of the qualifications system in England is a profoundly important 
+change to the education system. Teachers need to know that the new qualifications 
+will assist them in helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an 
+‘Expert Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or because of 
+our experience in reforming qualifications in other systems around the world as diverse as 
+Singapore, Hong Kong, Australia and a number of countries across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification 
+development process that has included: 
+● extensive international comparability of subject content against the highest-
+performing jurisdictions in the world 
+● benchmarking assessments against UK and overseas providers to ensure that 
+they are at the right level of demand 
+● establishing External Subject Advisory Groups, drawing on independent subject-
+specific expertise to challenge and validate our qualifications 
+● subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future 
+oriented. The design has been guided by what is called an ‘Efficacy Framework’, 
+meaning learner outcomes have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a 
+learner’s success in education. As a result of our work as a panel we are confident 
+that we have supported the development of qualifications that are outstanding for 
+their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.
+” 
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong 
+Director, National Institute of 
+Education, Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+All titles correct as of May 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+The Pearson Edexcel Level 3 Advanced GCE in English Language is designed for use 
+in schools and colleges. It is part of a suite of GCE qualifications offered by Pearson. 
+Purpose of the specification 
+This specification sets out: 
+● the objectives of the qualification 
+● any other qualification(s) that a student must have completed before taking the 
+qualification 
+● any prior knowledge and skills that the student is required to have before taking 
+the qualification 
+● any other requirements that a student must have satisfied before they will be 
+assessed or before the qualification will be awarded 
+● the knowledge and understanding that will be assessed as part of the 
+qualification 
+● the method of assessment and any associated requirements relating to it 
+● the criteria against which a student’s level of attainment will be measured (such 
+as assessment criteria). 
+ 
+ 
+Rationale 
+The Pearson Edexcel Level 3 Advanced GCE in English Language meets the 
+following purposes, which fulfil those defined by the Office of Qualifications and 
+Examinations Regulation (Ofqual) for GCE qualifications in their GCE Qualification 
+Level Conditions and Requirements document, published in April 2014. 
+The purposes of this qualification are to: 
+● define and assess achievement of the knowledge, skills and understanding that 
+will be needed by students planning to progress to undergraduate study at a UK 
+higher education establishment, particularly (although not only) in the same 
+subject area, for example English Language, Linguistics, English  
+● set out a robust and internationally comparable post-16 academic course of 
+study to develop that knowledge, skills and understanding 
+● enable UK universities to accurately identify the level of attainment of students 
+● provide a basis for school and college accountability measures at age 18 
+● provide a benchmark of academic ability for employers. 
+Qualification aims and objectives 
+The aims and objectives of the Pearson Edexcel Level 3 Advanced GCE in English 
+Language are to enable students to: 
+● develop and apply their understanding of the concepts and methods appropriate 
+for the analysis and study of language 
+● explore data and examples of language in use 
+● engage creatively and critically with a varied programme for the study of 
+English 
+● develop their skills as producers and interpreters of language 
+● independently investigate language in use. 
+ 
+ 
+The context for the development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+● reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+● consulting with key stakeholders on content and assessment, including learned 
+bodies, subject associations, higher-education academics, teachers and 
+employers to ensure this qualification is suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their documents GCE Qualification Level Conditions and Requirements and GCE 
+Subject Level Conditions and Requirements for English Language, published in 
+April 2014. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] Pearson’s World Class Qualification principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep learning and 
+measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing reliable and valid 
+assessment tasks and processes, and generating confidence in end users of the knowledge, skills 
+and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that students develop at 
+different rates and have different learning needs, and focusing on progression 
+● empowering, through promoting the development of transferable skills,  
+see Appendix 1. 
+ 
+
+ 
+ 
+Contents 
+Qualification at a glance 1 
+Assessment Objectives and weightings 5 
+Knowledge, skills and understanding 6 
+Component 1: Language Variation 6 
+Component 2: Child Language 9 
+Component 3: Investigating Language 11 
+Non-examination assessment – Crafting Language 14 
+Marking, standardisation and moderation 23 
+Security and backups 23 
+Malpractice 23 
+Further information 24 
+Assessment 25 
+Assessment summary 25 
+Assessment Objectives and weightings 27 
+Breakdown of Assessment Objectives 28 
+Entry and assessment information 29 
+Student entry 29 
+Forbidden combinations, discount code and performance tables 29 
+Access arrangements, reasonable adjustments and special 
+consideration 29 
+Equality Act 2010 and Pearson equality policy 31 
+Synoptic assessment 31 
+Awarding and reporting 32 
+Language of assessment 32 
+Other information 33 
+Student recruitment 33 
+Prior learning and other requirements 33 
+Progression 33 
+Relationship between Advanced Subsidiary GCE and Advanced GCE 34 
+Relationship between GCSE and Advanced GCE 34 
+Progression from GCSE to Advanced GCE 34 
+Appendix 1: Transferable skills 37 
+Appendix 2: Level 3 Extended Project qualification 39 
+ 
+ 
+Appendix 3: Codes 43 
+Appendix 4: Non-examination Assessment Authentication 
+Sheet 45 
+Appendix 5: English phonemic reference sheet 47 
+Appendix 6: Transcription mark key 49 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 1 
+Qualification at a glance 
+The Pearson Edexcel Level 3 Advanced GCE in English Language consists of three 
+externally examined components and one non-examination assessment component. 
+Students must complete all assessment in May/June in any single year. 
+Component 1: Language Variation *Paper code: 9EN0/01  
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+35% of the 
+total 
+qualification 
+Overview of content 
+Students will explore: 
+● how language varies depending on mode, field, function and audience 
+● how language choices can create personal identities 
+● language variation in English from c1550 (the beginnings of Early Modern 
+English) to the present day. 
+Overview of assessment 
+● Written examination, lasting 2 hours 15 minutes. 
+● Two sections: students answer the question in Section A and the question in 
+Section B. 
+● Total of 60 marks available – 30 marks per section. 
+● Section A – Individual Variation: one question on two unseen 21st-century 
+linked texts/data. Students produce an extended comparative response (AO1, 
+AO2, AO3, AO4 assessed). 
+● Section B – Variation over Time: one question on two thematically linked 
+unseen texts/data, from two different periods. Students produce an extended 
+comparative response (AO1, AO2, AO3, AO4 assessed). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+2 
+ 
+Component 2: Child Language *Paper code: 9EN0/02  
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+20% of the 
+total 
+qualification 
+Overview of content 
+Students will explore: 
+● spoken language acquisition and how children learn to write between the ages 
+of 0 and 8 
+● the relationship between spoken language acquisition and literacy skills that 
+children are taught, including the beginnings of reading 
+● appropriate theories of children’s language development. 
+Overview of assessment 
+● Written examination, lasting 1 hour 15 minutes**. 
+● Total of 45 marks available. 
+● One question based on a set of unseen data – either spoken or written. 
+Students produce an extended response (AO1, AO2, AO3 assessed). 
+**the change to the assessment time will be for the examination in summer 2020 
+and for all other examinations thereafter. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 3 
+ 
+Component 3: Investigating Language *Paper code: 9EN0/03 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+25% of the 
+total 
+qualification 
+Overview of content 
+Students will: 
+● select a research focus from five topic areas 
+● develop their research and investigation skills 
+● undertake a focused investigation 
+● apply their knowledge of language levels and key language concepts developed 
+throughout the whole course 
+● develop their personal language specialism. 
+A subtopic will be pre-released on the 1 December*** before the examination. 
+The pre-released subtopic will provide a steer for students’ research and 
+investigation to enable them to prepare for the external assessment. 
+Overview of assessment 
+● Written examination, lasting 1 hour 45 minutes. 
+● Two sections: students answer one question from Section A and one question 
+from Section B. 
+● Total of 45 marks available: Section A question is 15 marks and Section B 
+question is 30 marks. 
+● Section A – one question on unseen data. Students must answer the question 
+on the subtopic they have researched (AO1, AO2, AO3 assessed). 
+● Section B – one evaluative question. Students must answer the question on 
+the subtopic they have researched and must make connections with data from 
+their investigation. Students produce an extended response (AO1, AO2, AO3, 
+AO4 assessed). 
+*** the change to the pre-release materials date will first come into effect for the 
+2021 paper: the subtopics for this paper will be released on 1 December 2020.  
+All subsequent series of this paper will also have a 1 December pre-release date. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+4 
+ 
+Non-examination assessment: Crafting Language *Code: 9EN0/04 
+● Internally assessed, externally moderated 
+● Availability: May/June 
+● First moderation: 2017 
+20% of the 
+total 
+qualification 
+Overview of content 
+Students will: 
+● research a selected genre 
+● demonstrate their skills as writers within their selected genre, crafting texts for 
+different audiences and/or purposes 
+● reflect on their research and writing in an accompanying commentary. 
+Overview of assessment 
+Students produce two assignments: 
+● Assignment 1: two pieces of original writing from the same genre, 
+differentiated by function and/or audience (AO5 assessed).  
+● Assignment 2: one commentary, reflecting on the two pieces of original  
+writing produced and making connections with research undertaken  
+(AO1, AO2, AO3, AO4 assessed). 
+● Advisory total word count is 2500–3000 words: Assignment 1 is  
+1500–2000 words and Assignment 2 is 1000 words. 
+● Total of 50 marks available: Assignment 1 is 30 marks and Assignment 2 is  
+20 marks. 
+ 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 5 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Apply appropriate methods of language analysis, using 
+associated terminology and coherent written expression 24.4 
+AO2 Demonstrate critical understanding of concepts and issues 
+relevant to language use 
+24.4 
+AO3 Analyse and evaluate how contextual factors and language 
+features are associated with the construction of meaning 
+24.4 
+AO4 Explore connections across texts, informed by linguistic 
+concepts and methods 15 
+AO5 Demonstrate expertise and creativity in the use of English to 
+communicate in different ways 
+Note: This Assessment Objective must be targeted with at 
+least one of AO2, AO3 or AO4, either in the same task or in 
+two or more linked tasks. 
+12 
+Total 100 
+NB: total has been rounded down 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+6 
+Knowledge, skills and understanding 
+Component 1: Language Variation 
+Overview 
+This component introduces students to the ways in which language varies, 
+depending on the contexts of production and reception. Students will explore and 
+critically evaluate how language choices can create personal identities. They will 
+also explore and critically evaluate how language varies over time. 
+Learning outcomes 
+Students are required to appropriately and systematically: 
+● apply concepts relating to language variation to data drawn from written, 
+spoken and multimodal discourse and from different time periods 
+● apply critical skills to description, analysis and evaluation of a range of data and 
+discourses, including data from different time periods 
+● use and apply linguistic terminology accurately 
+● show their understanding of historical, geographical, social and individual 
+varieties of English 
+● critically evaluate attitudes towards language and its users when discussing 
+data, including texts from different time periods 
+● synthesise and reflect on language knowledge drawn from different areas of 
+their studies of English language. 
+Content 
+Throughout this component, students will focus on how language varies, depending 
+on: 
+● mode: the method of communication (spoken, written, multimodal) 
+● field: the subject matter 
+● function: the purpose 
+● audience: the relationship between writers/speakers and readers/listeners. 
+Students will study how the key language frameworks contribute to meaning in 
+spoken and written English: 
+● pragmatics: variation in meaning, depending on context 
+● discourse: extended texts (written or spoken) in their context 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 7 
+In addition to the key language frameworks, the following language levels also 
+contribute to meaning in spoken and written English: 
+● graphology: the writing system and the presentation of language 
+● phonetics, phonology and prosody: speech sounds, sound effects and 
+intonation  
+● morphology: the structure of words 
+● lexis: the vocabulary of a language and semantics: its meanings 
+● syntax: the relationships between words in sentences. 
+Please ensure that students are familiar with the English phonemic reference sheet 
+in Appendix 5 and the transcription mark key in Appendix 6. The reference sheet 
+and the mark key will be given to students in the examination. 
+Individual Variation 
+Students will explore how language choices reflect and construct the identity or 
+identities of the user and vary depending on the contexts of production and 
+reception. 
+Students will apply appropriate methods of language analysis to a range of written, 
+spoken or multimodal data from 21st-century sources, using the key language 
+frameworks and levels. 
+Students will demonstrate critical understanding of concepts and issues, exploring 
+attitudes to language and using a descriptive approach to evaluate how an 
+individual’s language choices are affected by: 
+● the mode, field, function and audience 
+● geographical factors 
+● social factors, such as gender, age, ethnicity and other social identities. 
+Variation Over Time 
+Students will explore variation in the English language from c1550 (the beginnings 
+of Early Modern English) to the present day. 
+Students will apply appropriate methods of language analysis and demonstrate 
+critical understanding of concepts and issues when evaluating a range of data. 
+Students will explore: 
+● the development of English as the national language 
+● the cultural, social, political and technological influences that have changed 
+English over time. 
+Students will need to consider the effect of language variation over time across the 
+language frameworks and levels, for example changes in: 
+● the writing and spelling system (graphology and orthography) 
+● pronunciation, evident in obsolete spelling and rhyme (phonology) 
+● inflections, evident in verb endings and plurals (morphology) 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+8 
+● sentence structures (syntax) 
+● vocabulary, evident in pronoun usage and the incorporation of words from other 
+languages (lexis) 
+● meaning (semantics) 
+● the form (style) and structure of whole texts (discourse). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 9 
+Component 2: Child Language 
+Overview 
+In this component, students will explore and critically evaluate the development of 
+both speech and writing in children between the ages of 0 and 8. Students will 
+focus on the spoken language acquisition of children and will explore how children 
+learn to write. 
+Learning outcomes 
+Students are required to appropriately and systematically: 
+● analyse and evaluate examples of children’s language using a descriptive 
+approach 
+● apply and evaluate relevant theories associated with the development of spoken 
+and written language 
+● analyse and evaluate how language development is influenced by the function 
+and context of the language used. 
+Content 
+Students will understand the ways in which speech develops and the relationship 
+between spoken language acquisition and the literacy skills children are taught, 
+including the beginnings of reading and learning to write. Students will analyse both 
+written and spoken data, demonstrating critical understanding of releveant 
+children’s language development theories. 
+Throughout this component, students will explore the following aspects of children’s 
+spoken language acquisition: 
+● the beginnings of speech 
+● the acquisition and development of the sound system (phonetics) 
+● how children understand the structure of words (morphology) 
+● the development and extension of vocabulary (lexis) 
+● how children understand the meanings of words (semantics) 
+● the types of structures used by children at various stages of development and 
+how children start to form larger structures (syntax) 
+● the way children talk to adults and the way adults talk to children; the 
+development of interactive and pragmatic skills (conversation). 
+Students will also explore the following aspects of children’s written language 
+development: 
+● the transition from speech to writing: the use of drawing, gesture and writing to 
+create meaning 
+● early forms of writing such as drawing, scribbling, letter-like forms, random 
+letters 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+10 
+● the development of letter forms, capital letters, linearity and directionality; the 
+link between letters, sounds and early spelling (graphology) 
+● the effect of learnt reading strategies on spelling (morphology) 
+● the vocabulary choices (lexis) and sentence structures (syntax) in early writing 
+● the development of narrative and descriptive skills (discourse). 
+Please ensure that students are familiar with the English phonemic reference sheet 
+in Appendix 5 and the transcription mark key in Appendix 6. The reference sheet 
+and the mark key will be given to students in the examination. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 11 
+Component 3: Investigating Language 
+Overview 
+In this component, students will have the opportunity to develop their research and 
+investigation skills. They will consolidate their knowledge of language frameworks 
+and key language concepts gained from components 1, 2 and the non-examination 
+assessment. 
+Students will apply these skills to an area of language study that particularly 
+interests them, selected from pre-released subtopics, in preparation for an 
+externally assessed examination. 
+This component is skills based, with the content being driven by individual students’ 
+interests. Teachers must ensure that students are taught research and investigation 
+skills and introduced to the relevant language topic areas. 
+Learning outcomes 
+Students are required to appropriately and systematically: 
+● apply critical skills in description, analysis and evaluation of a range of data and 
+discourses 
+● use and apply linguistic terminology accurately 
+● undertake independent investigations of language, selecting appropriate 
+methods and techniques 
+● critically evaluate attitudes towards language and its users, making connections 
+with their investigation 
+● synthesise and reflect on language knowledge drawn from different areas of 
+their studies of English language. 
+Content 
+Students’ investigation skills are developed in the context of one of the following 
+five topic areas: 
+● Global English 
+● Language and Gender Identity 
+● Language and Journalism 
+● Language and Power 
+● Regional Language Variation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+12 
+Pre-release 
+On 1 December before the examination, a subtopic will be pre-released on our 
+website (www.edexcel.com) for each of the five topic areas *. The five pre-
+released subtopics will provide a steer for students’ research and investigation and 
+will include: 
+● an introduction to the subtopic, for example the subtopic for ‘Global English’ in 
+our Sample Assessment Materials is ‘South African English’  
+● suggested research resources. 
+The ‘suggested resources’ are guidance for students and are not definitive. 
+Students can decide which resources to use but they are expected to research and 
+investigate the topic beyond the suggested resources. 
+The five subtopics for investigation will be different each year. 
+Centres must ensure that they use the pre-released subtopic appropriate 
+for the examination series their students will be sitting. 
+*the change to the pre-release materials date will first come into effect for the 
+2021 paper: the subtopics for this paper will be released on 1 December 2020.  
+All subsequent series of this paper will also have a 1 December pre-release date. 
+Research and investigation 
+For this component, teaching should focus on developing students’ research and 
+investigation skills. Students will be able to research their chosen subtopic 
+independently when it is released in the January before the examination. 
+Students should carry out a focused investigation and ensure that they have 
+researched the following aspects of their chosen subtopic, as appropriate: 
+● the origins/development 
+● the main features 
+● different varieties 
+● changing attitudes 
+● the influence of social/historical/cultural factors. 
+Students will use their research, the observations made in their investigation and 
+the data they gather to inform their response in the examination. 
+Students cannot take any of their research or investigation data carried out as part 
+of the pre-release into the examination. 
+Topic details 
+All prescribed subject content is covered in components 1 and 2 and the non-
+examination assessment. Therefore, when teaching research and investigation skills 
+before the subtopic is pre-released, teachers are welcome to introduce students to 
+all five main topic areas below or focus on one or two.  
+Global English 
+This topic will explore aspects of varieties of global English, including those from 
+outside the UK, such as Ireland, the Americas and the Caribbean, the Pacific and 
+Australasia, Africa, South and Southeast Asia. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 13 
+Language and Gender Identity 
+This topic will explore social attitudes and how the forms and conventions of 
+written, spoken and multimodal language can construct or reflect gender and 
+sexual identities. 
+Language and Journalism 
+This topic will explore the many varieties of print and online journalism. Students 
+will have opportunities to explore the influence of contextual factors, how language 
+is crafted to meet the expectations of different audiences and purposes, and to 
+consider notions of bias, subjectivity and objectivity. 
+Language and Power 
+This topic will explore the way language use in society can create and enforce 
+power relationships. Students will explore aspects such as instrumental and 
+influential power, political discourse, discourses in unequal power relationships, 
+persuasion, prestige and politeness. 
+Regional Language Variation 
+This topic will explore English that varies regionally within the UK. Students will 
+explore the historical aspects of regional variation, how and why language varies 
+regionally, attitudes to regional variation, and variation within regional varieties. 
+Synopticity in assessment 
+In this component, students are required to apply their learning from across the 
+qualification.  
+In Section A students will respond to unseen data from their chosen subtopic. 
+Students will synthesise and reflect on the language knowledge and understanding 
+drawn from the other components in this qualification and from their research and 
+investigation for this component. 
+In Section B students will respond to an evaluative question on their chosen 
+subtopic. 
+Students will also analyse data and apply language concepts and methods of 
+analysis to a range of data. They will make connections with their research and the 
+observations from their investigation, critically evaluating attitudes towards 
+language and its users.  
+ 
+Please ensure that students are familiar with the English phonemic reference sheet 
+in Appendix 5 and the transcription mark key in Appendix 6. The reference sheet 
+and the mark key will be given to students in the examination. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+14 
+Non-examination assessment – Crafting 
+Language 
+Overview 
+In the non-examination assessment, students will develop their research skills as 
+they explore their selected writing genre and will demonstrate their skills as writers, 
+crafting texts for different audiences and purposes. They will also reflect on their 
+work in an accompanying commentary, making connections with their research. 
+Learning outcomes 
+Students are required to appropriately and systematically: 
+● demonstrate expertise and creativity in the use of English to communicate in 
+different ways, drawing on their knowledge of the forms and structures of 
+spoken or written English for different audiences and purposes 
+● select and apply methods of language analysis in order to comment and reflect 
+on their own writing using appropriate terminology and coherent, accurate 
+written expression 
+● demonstrate critical understanding of concepts and issues relevant to language 
+use, including register and style 
+● analyse and evaluate how contextual factors and language features are 
+associated with the construction of meaning in stimulus texts and in their own 
+writing 
+● explore connections between their research and their writing, informed by 
+linguistic concepts 
+● synthesise and reflect on language knowledge and understanding drawn from 
+different areas of their study of English Language 
+● critically evaluate language use in their own texts and style models. 
+Content 
+Students will produce the following assignments: 
+● Assignment 1: two pieces of original writing from the same genre, 
+differentiated by function and/or audience (1500-2000 words) 
+● Assignment 2: one commentary, reflecting on the two pieces they have 
+produced and making connections with their research (1000 words). 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 15 
+Assignment 1: Original writing 
+Students will select one genre to research for their assignment. They will produce 
+two pieces of writing in this genre, differentiated by function and/or audience. 
+Examples of genres they might choose include: 
+● feature articles 
+● journalist interviews 
+● speeches 
+● scripted presentations 
+● dramatic monologues 
+● short stories 
+● travel writing. 
+ 
+Example 1: a student could choose the genre of ‘short stories’ and produce the 
+following two clearly differentiated texts for Assignment 1: 
+ 
+Genre Audience Function Text description 
+Short 
+stories 
+ 
+Year 6 
+students 
+Entertain A short story set in a fantasy world. 
+Adults Entertain A short story set in a dystopian world. 
+ 
+ 
+Example 2: a student could choose the genre of ‘travel writing’ and produce the 
+following two clearly differentiated texts for Assignment 1: 
+ 
+Genre Audience Function Text description 
+Travel 
+writing 
+ 
+Gap year 
+students 
+Inform A magazine feature on top travel 
+destinations for your gap year. 
+Pensioners Persuade A magazine article to encourage 
+pensioners to explore the world. 
+ 
+In preparation for this non-examination assessment, students will explore: 
+● distinctive features of a variety of genres 
+● texts that exemplify key features of their chosen genre (style models) 
+● the effect of language choices and discourse strategies for different contexts. 
+They will also develop: 
+● the skills of effective and accurate drafting and redrafting. 
+It is expected that students will undertake research in order to prepare for the 
+writing assignments. While these preparatory stages are not assessed and are not 
+required for submission, students will be expected to make connections between 
+their research and their original writing in their commentary. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+16 
+Students are encouraged to see their writing as work in progress. They should be 
+prepared to draft and redraft as part of the writing process and to reflect on and 
+critically evaluate this process in their commentary. 
+Assignment length should be appropriate to the selected genre and function. For 
+example, it is likely that two short stories would require a higher word count than 
+two speeches. 
+Assignment 2: Commentary 
+In their commentary, students will reflect on the writing process. They should: 
+● discuss the findings of their initial research into their chosen genre 
+● make connections between the techniques used in the style models and those 
+they have adopted in their own writing 
+● evaluate language choices they made, through the drafting process, to achieve 
+effects appropriate to the chosen function and target audience 
+Students are expected to use a range of terminology accurately and ensure that 
+any texts and other sources used are accurately referenced. 
+Assignment setting, taking and marking 
+Assignment setting 
+When deciding on the assignments they will produce, 
+students should be encouraged to draw on their own 
+interests and skills, as well as applying what they have 
+learned about language. The choice of assignments should 
+be made with teacher guidance to ensure that the 
+assignments are of an appropriate standard. 
+It is advised that because of the personal nature of 
+assignment selection each year, students complete different 
+assignments from previous years. 
+Assignment use 
+Teachers should ensure that assignments chosen by 
+students are relevant and appropriate to the student’s 
+course of learning. Students should have the opportunity to 
+choose sources/interpretations/texts as appropriate. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 17 
+Assignment research 
+Teaching and learning 
+Teachers should provide students with a short course of 
+study that covers: 
+● research and study skills 
+● editing and proofreading skills 
+● referencing and bibliography skills. 
+Collaboration 
+Students may work together on their research. 
+Feedback 
+Teachers may help students to understand rubrics, 
+assessment criteria and controls. Teachers must not provide 
+students with solutions. For example, teachers may provide 
+a simplified student friendly version of the assessment 
+criteria, but this must not be specific to the work of 
+individual students or a group of students (see the Joint 
+Council for Qualifications (JCQ) Instructions for conducting 
+non-examination assessments (new GCE and GCSE 
+specifications) on the JCQ website: www.jcq.org.uk). Any 
+additional feedback must be recorded in the Non-
+examination Assessment Authentication Sheet (see 
+Appendix 4). 
+Resources 
+Students must have equal access to IT resources. Students 
+should have access to a range of resources/texts to enable 
+them to make choices as required for their assignments. 
+Assignment writing 
+Authenticity 
+Students and teachers must sign the Non-examination 
+Assessment Authentication Sheet (see Appendix 4). 
+Teachers must review at least one draft to offer support 
+and to ensure they can verify that the student’s final work 
+is their own. This support may take the form of general 
+advice only and work may not be provisionally assessed. 
+Please refer to the Joint Council for Qualifications (JCQ) 
+Instructions for conducting non-examination assessments 
+(new GCE and GCSE specifications) on the JCQ website 
+(www.jcq.org.uk) for further information on the level of 
+feedback permitted. 
+Students must ensure that all quotations and citations are 
+referenced using an established referencing system, such as 
+Harvard, and produce a bibliography citing reference texts. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+18 
+Collaboration 
+Students must not work with others when writing their 
+assignments. Centres must ensure that the same teacher 
+has reviewed all work from a class in order to be able to 
+verify on the Non-examination Assessment Authentication 
+Sheet that students’ work is their own. 
+Feedback 
+Teachers may help students to understand rubrics, 
+assessment criteria and controls. Any additional feedback 
+must be recorded on the Non-examination Assessment 
+Authentication Sheet (see Appendix 4). Please refer to the 
+Joint Council for Qualifications (JCQ) Instructions for 
+conducting non-examination assessments (new GCE and 
+GCSE specifications) on the JCQ website: www.jcq.org.uk 
+for further information.  
+Word count 
+It is strongly recommended that students write between 
+1500–2000 words for the original writing and 1000 words 
+for the commentary. The advisory total word count for the 
+non-examination assessment is between 2500–3000 words. 
+This does not include footnotes and bibliographies. 
+It is advisable that the upper word limit is adhered to by 
+students to enable them to satisfy the requirement to 
+produce a concise and coherently structured response.  
+Assignment marking 
+Teachers should mark the assignments using the 
+assessment criteria on the following pages. Teachers may 
+annotate students’ work. The marks awarded should be 
+justified and teachers should add comments to the Non-
+examination Assessment Authentication Sheet (see 
+Appendix 4). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 19 
+Assessment criteria 
+Teachers must mark students’ work using the assessment criteria on pages 20–22. 
+Marking guidance  
+● All candidates must receive the same treatment. Teachers must mark the last 
+candidate in exactly the same way as they mark the first. 
+● Mark schemes should be applied positively. Candidates must be rewarded for 
+what they have shown they can do rather than be penalised for omissions. 
+● All the marks on the mark scheme are designed to be awarded. Teachers should 
+always award full marks if deserved, i.e. if the answer matches the mark 
+scheme. Teachers should also be prepared to award zero marks if the 
+candidate’s response is not worthy of credit according to the mark scheme. 
+The marking grids have been designed to assess student work holistically. The grids 
+identify which Assessment Objective is being targeted by each bullet point within 
+the level descriptors. Each bullet point is linked to one Assessment Objective, 
+however please note that the number of bullet points in the level descriptors does 
+not directly correlate to the number of marks in the level descriptor. 
+When deciding how to reward an answer using a levels-based mark scheme, the 
+‘best fit’ approach should be used. To do this teachers should: 
+● first decide which level descriptor most closely matches the candidate answer 
+and place it in that band 
+● decide on the mark awarded within the band based on quality of the answer and 
+modify according to how securely all bullet points are displayed at that level 
+● remember that in cases of uneven performance, all the above points still apply. 
+Candidates are to be placed in the band that best describes their answer 
+according to each of the Assessment Objectives described in the level. Marks 
+are to be awarded towards the top or bottom of that band depending how they 
+have evidenced each of the descriptor bullet points  
+● remember that all Assessment Objectives within a level are equally weighted 
+and take this into consideration when making their judgements.  
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+20 
+Please refer to the marking guidance on page 19 when applying this grid. 
+ 
+Level Mark 
+Non-examination assessment: Crafting Language – 
+Original Writing  
+Descriptor (AO5)  
+ 0 No rewardable material  
+Level 1  1–6 Low skill level 
+● Writing has frequent errors and technical lapses. Limited 
+control of genre and mode, with inappropriate style used 
+for audience and function. 
+● Writing is formulaic and predictable. 
+Level 2  7–12 General/imprecise skills 
+● Writing has some errors and technical lapses. Shows 
+general understanding of genre, mode and the 
+requirements of audience and function. 
+● Writing attempts an individual voice. Makes obvious, 
+though not always successful, attempts at crafting 
+language for effect. 
+Level 3  13–18 Clear skills 
+● Writing has minor errors and technical lapses. Applies clear 
+understanding of genre, mode and the requirements of 
+audience and function. 
+● Writing has an individual voice, with clear engaging 
+attempts at crafting language. 
+Level 4 19–24 Controlled skills 
+● Writing is precisely edited and controlled. Demonstrates 
+effective understanding of genre, mode and the 
+requirements of audience and function. 
+● Writing uses an effective individual voice, that crafts an 
+engaging response. Displays a skilful selection of 
+techniques for effect. 
+Level 5 25–30 Assured skills 
+● Writing is assured, accurate and highly effective. Displays 
+an assured control of genre, mode and the requirements of 
+audience and function. 
+● Writing employs a sophisticated individual voice that 
+differentiates in terms of audience and/or function. Crafts a 
+highly-engaging response, with sophisticated selection of 
+techniques.  
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 21 
+Please refer to the marking guidance on page 19 when applying this grid. 
+ 
+Level Mark 
+Non-examination assessment: Crafting Language – 
+Commentary 
+AO1 –  
+bullet point 1 
+AO2 –  
+bullet point 2 
+AO3 –  
+bullet point 3 
+AO4 –  
+bullet point 4 
+Descriptor (AO1, AO2, AO3, AO4)  
+ 0 No rewardable material  
+Level 1  1–4 Descriptive  
+● Knowledge of methods is largely unassimilated. Recalls 
+limited range of terminology and makes frequent errors and 
+technical lapses. 
+● Has a descriptive approach with little awareness of concepts 
+and issues. Makes simple comments on how and why 
+language is used in own writing and style models. 
+● Shows limited understanding of contextual factors. Able to 
+show in simple ways how audience and function can affect 
+the construction of meaning in own writing and style models. 
+● Makes limited links between style models and own writing. 
+Shows limited understanding of relevant concepts and 
+methods. 
+Level 2  5–8 General understanding 
+● Recalls methods of analysis that show general 
+understanding. Organises and expresses ideas with some 
+clarity, though has lapses in use of terminology. 
+● Shows general understanding of concepts and issues. Able to 
+apply some of this understanding when describing language 
+use in own writing and style models. 
+● Has general understanding of contextual factors. Can explain 
+effect of audience and function on construction of meaning in 
+own writing and style models, though not always securely 
+applied. 
+● Describes general links between style models and own 
+writing. Shows general understanding of relevant concepts 
+and methods. 
+Level 3  9–12 Clear relevant application 
+● Applies relevant methods of analysis to texts with clear 
+examples. Ideas are structured logically and expressed with 
+few lapses in clarity and transitioning. Clear use of 
+terminology. 
+● Clear understanding and application of some concepts and 
+issues. Able to explain language use in own writing and style 
+models. 
+● Able to show clear awareness of contextual factors. Able to 
+explain how audience and function affect construction of 
+meaning in own writing and style models. 
+● Explains clear links between style models and own writing. 
+Explains relevant concepts and methods. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+22 
+ 
+Level Mark 
+Non-examination assessment: Crafting Language – 
+Commentary 
+AO1 –  
+bullet point 1 
+AO2 –  
+bullet point 2 
+AO3 –  
+bullet point 3 
+AO4 –  
+bullet point 4 
+Descriptor (AO1, AO2, AO3, AO4)  
+Level 4 13–16 Discriminating controlled approach  
+● Applies controlled discussion of methods supported with 
+use of discriminating examples. Controls the structure of 
+response with effective transitions, carefully chosen 
+language and use of terminology. 
+● Discriminating selection and application of a range of 
+concepts and issues. Able to analyse language use in own 
+writing and style models. 
+● Makes inferences about contextual factors. Discriminating 
+approach to explaining how audience and function affect 
+the construction of meaning in own writing and style 
+models. 
+● Discriminating connections made between style models 
+and own writing. Examines in a controlled way links to 
+concepts and methods. 
+Level 5 17–20 Critical evaluative approach 
+● Presents critical application of language analysis with 
+sustained examples. Uses sophisticated structure and 
+expression with appropriate register and style, including 
+use of appropriate terminology. 
+● Critical application of a wide range of concepts and issues. 
+Evaluates language use in own writing and style models. 
+● Exhibits a sophisticated awareness of complex contextual 
+factors. Evaluates how contextual factors affect the 
+construction of meaning in own writing and style models.  
+● Evaluates connections made between style models and 
+own writing. Critically examines links to concepts and 
+methods. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 23 
+Marking, standardisation and moderation 
+The assignments are marked by teachers. Where marking 
+for this qualification has been carried out by more than one 
+teacher in a centre, there must be a process of internal 
+standardisation to ensure that there is a consistent 
+application of the assessment criteria. 
+Marks awarded by the centre will be subject to external 
+moderation by Pearson. Moderation will ensure consistency 
+with national standards and will review assignments to 
+ensure that the assignment-setting rules have been 
+correctly applied by centres. Pearson will notify centres of 
+the students whose responses have been selected for 
+moderation. This sample will take cohort size into account.  
+If the moderation indicates that centre assessment does not 
+reflect national standards, an adjustment will be made to 
+students’ final marks to compensate. 
+Please refer to the Joint Council for Qualifications (JCQ) 
+Instructions for conducting non-examination assessments 
+(new GCE and GCSE specifications) on the JCQ website: 
+www.jcq.org.uk for further information. The assessment in 
+this qualification will comply with these instructions. 
+Security and backups 
+It is the responsibility of the centre to keep the work that 
+students have submitted for assessment secure. 
+Secure storage is defined as a securely-locked cabinet or 
+cupboard. 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that 
+compromises or seeks to compromise the process of 
+assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered 
+before the candidate has signed the declaration of 
+authentication form does not need to be reported to 
+Pearson. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+24 
+Candidate malpractice found in controlled assessments after 
+the declaration of authenticity has been signed, and in 
+examinations, must be reported to Pearson on a  
+JCQ Form M1 (available at www.jcq.org.uk/exams-
+office/malpractice). The form should be emailed to 
+candidatemalpractice@pearson.com. Please provide as 
+much information and supporting documentation as 
+possible. Note that the final decision regarding appropriate 
+sanctions lies with Pearson. 
+Failure to report candidate malpractice constitutes staff or 
+centre malpractice.  
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate 
+malpractice and maladministration of our qualifications. As 
+with candidate malpractice, staff and centre malpractice is 
+any act that compromises or seeks to compromise the 
+process of assessment or undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and 
+maladministration must be reported immediately, before 
+any investigation is undertaken by the centre, to Pearson 
+on a JCQ Form M2(a) (available at www.jcq.org.uk/exams-
+office/malpractice). The form, supporting documentation 
+and as much information as possible should be emailed to 
+pqsmalpractice@pearson.com. Note that the final decision 
+regarding appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More-detailed guidance on malpractice can be found in the 
+latest version of the document General and Vocational 
+Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at 
+www.jcq.org.uk/exams-office/malpractice. 
+Further information 
+For up-to-date advice on teacher involvement and 
+administration of non-examination assessments, please 
+refer to the Joint Council for Qualifications (JCQ) document 
+Instructions for conducting non-examination assessments 
+(new GCE and GCSE specifications) available on the JCQ 
+website: www.jcq.org.uk 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 25 
+Assessment 
+Assessment summary 
+Summary of table of assessment 
+It is expected that students use a range of terminology accurately in the 
+examination and make accurate reference to texts and data. 
+Centres are reminded that the marks given are raw marks and as such for results 
+purposes will be scaled to reflect the appropriate component weighting. 
+Students must complete all assessment in May/June in any single year. 
+ 
+Component 1: Language Variation *Paper code: 9EN0/01 
+Written examination consisting of two sections. 
+Section A: Individual Variation 
+One question on two unseen 21st-century linked texts/data. 
+Students produce an extended comparative response (AO1, AO2, 
+AO3, AO4 assessed). 
+Section B: Variation over Time 
+One question on two unseen texts/data, from two different 
+periods. Students produce an extended comparative response 
+(AO1, AO2, AO3, AO4 assessed). 
+● First assessment: May/June 2017. 
+● The assessment is 2 hours 15 minutes. 
+● The assessment consists of two questions – one per section. 
+● The assessment consists of 60 marks – 30 marks per section. 
+35% of the 
+total 
+qualification 
+ 
+ 
+ 
+ 
+Component 2: Child Language *Paper code: 9EN0/02 
+Written examination. 
+Students answer one question based on a set of unseen data – 
+either spoken or written. Students produce an extended response 
+(AO1, AO2, AO3 assessed). 
+● First assessment: May/June 2017. 
+● The assessment is 1 hour 15 minutes**. 
+● The assessment consists of one question. 
+● The assessment consists of 45 marks. 
+20% of the 
+total 
+qualification 
+ 
+**the change to the assessment time will be for the examination in summer 2020 
+and for all other examinations thereafter. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+26 
+Component 3: Investigating Language *Paper code: 9EN0/03 
+Subtopics pre-released on 1 December*** before examination. 
+Written examination consisting of two sections. Students answer 
+two questions on their chosen subtopic. 
+Section A:  
+One question on unseen data. Students must answer the question 
+on the subtopic they have researched (AO1, AO2, AO3 assessed.) 
+Section B: 
+One evaluative question. Students must answer the question on 
+the subtopic they have researched and also make connections with 
+data from their investigation. Students produce an extended 
+response (AO1, AO2, AO3, AO4 assessed). 
+● First assessment: May/June 2017. 
+● The assessment is 1 hour 45 minutes. 
+● The assessment consists of 45 marks – Section A is 15 marks 
+and Section B is 30 marks. 
+25% of the 
+total 
+qualification 
+ 
+ 
+***the change to the pre-release materials date will first come into effect for the 
+2021 paper: the subtopics for this paper will be released on 1 December 2020. 
+All subsequent series of this paper will also have a 1 December pre-release date. 
+Non-examination assessment: Crafting Language *Code: 9EN0/04 
+Assessment consists of two assignments. 
+Assignment 1: two pieces of original writing from the same genre, 
+differentiated by function and/or audience (AO5 assessed).  
+Assignment 2: one commentary, reflecting on the two pieces of 
+original writing produced and making connections with research 
+undertaken (AO1, AO2, AO3, AO4 assessed). 
+Advisory word counts: 
+Total for assessment – 2500–3000 words. 
+Assignment 1 – 1500–2000 words.  
+Assignment 2 – 1000 words. 
+● First moderation: May/June 2017. 
+● This assessment is internally assessed, externally moderated. 
+● The assessment consists of 50 marks – Assignment 1 is  
+30 marks and Assignment 2 is 20 marks. 
+● Assignments must be submitted at the end of the course. 
+20% of the 
+total 
+qualification 
+ 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+The sample assessment materials can be found in the Pearson Edexcel Level 3  
+Advanced GCE in English Language Sample Assessment Materials document. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 27 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Apply appropriate methods of language analysis, using 
+associated terminology and coherent written expression 24.4 
+AO2 Demonstrate critical understanding of concepts and issues 
+relevant to language use 
+24.4 
+AO3 Analyse and evaluate how contextual factors and language 
+features are associated with the construction of meaning 
+24.4 
+AO4 Explore connections across texts, informed by linguistic 
+concepts and methods 15 
+AO5 Demonstrate expertise and creativity in the use of English to 
+communicate in different ways 
+Note: This Assessment Objective must be targeted with at 
+least one of AO2, AO3 or AO4, either in the same task or in 
+two or more linked tasks. 
+12 
+Total 100 
+NB: total has been rounded down 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+28 
+Breakdown of Assessment Objectives 
+ 
+ Assessment Objectives Total for all 
+Assessment 
+Objectives Paper/component AO1 AO2 AO3 AO4 AO5 
+Paper 1:  
+Language Variation 8.8% 8.8% 8.8% 8.8% 0% 35% 
+Paper 2:  
+Child Language 6.6% 6.6% 6.6% 0% 0% 20% 
+Paper 3:  
+Investigating 
+Language 
+7% 7% 7% 4% 0% 25% 
+Non-examination 
+assessment:  
+Crafting Language 
+2% 2% 2% 2% 12% 20% 
+Total for this 
+qualification 24.4% 24.4% 24.4% 15% 12% 100% 
+NB: totals have been rounded either up or down 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 29 
+Entry and assessment information 
+Student entry 
+Details of how to enter students for the examinations for 
+this qualification can be found in our UK Information 
+Manual. A copy is made available to all examinations 
+officers and is available on our website (www.edexcel.com). 
+Forbidden combinations, discount code and 
+performance tables 
+There are no forbidden combinations with this qualification. 
+Centres should be aware that students who enter for more 
+than one GCE qualification with the same discount code will 
+have only one of the grades they achieve counted for the 
+purpose of the school and college performance tables. This 
+will be the grade for the larger qualification (i.e. the A Level 
+grade rather than the AS grade). If the qualifications are 
+the same size, then the better grade will be counted (please 
+see Appendix 3: Codes). 
+Students should be advised that if they take two GCE 
+qualifications with the same discount code, colleges, 
+universities and employers they wish to progress to are 
+likely to take the view that this achievement is equivalent to 
+only one GCE. The same view may be taken if students take 
+two GCE qualifications that have different discount codes 
+but have significant overlap of content. Students or their 
+advisers who have any doubts about their subject 
+combinations should check with the institution they wish to 
+progress to before embarking on their programmes. 
+Access arrangements, reasonable adjustments and 
+special consideration 
+Access arrangements 
+Access arrangements are agreed before an assessment. 
+They allow students with special educational needs, 
+disabilities or temporary injuries to:  
+● access the assessment 
+● show what they know and can do without changing the 
+demands of the assessment.  
+The intention behind an access arrangement is to meet the 
+particular needs of an individual student with a disability 
+without affecting the integrity of the assessment. Access  
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+30 
+arrangements are the principal way in which awarding 
+bodies comply with the duty under the Equality Act 2010 to 
+make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the 
+start of the course. Students will then know what is 
+available and have the access arrangement(s) in place for 
+assessment.  
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to 
+make reasonable adjustments where a person with a 
+disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is 
+required to take reasonable steps to overcome that 
+disadvantage. 
+A reasonable adjustment for a particular person may be 
+unique to that individual and therefore might not be in the 
+list of available access arrangements. 
+Whether an adjustment will be considered reasonable will 
+depend on a number of factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with 
+the disability and other students. 
+An adjustment will not be approved if it involves 
+unreasonable costs to the awarding organisation, 
+timeframes or affects the security or integrity of the 
+assessment. This is because the adjustment is not 
+‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a 
+student's mark or grade to reflect temporary injury, illness 
+or other indisposition at the time of the examination/ 
+assessment, which has had, or is reasonably likely to have 
+had, a material effect on a candidate’s ability to take an 
+assessment or demonstrate his or her level of attainment in 
+an assessment. 
+Further information 
+Please see our website for further information about how to 
+apply for access arrangements and special consideration. 
+For further information about access arrangements, 
+reasonable adjustments and special consideration, please 
+refer to the JCQ website: www.jcq.org.uk. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 31 
+Equality Act 2010 and Pearson equality policy 
+Equality and fairness are central to our work. Our equality 
+policy requires all students to have equal opportunity to 
+access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every 
+student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by 
+the Equality Act 2010) are not, when they are 
+undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that 
+characteristic 
+● all students achieve the recognition they deserve for 
+undertaking a qualification and that this achievement 
+can be compared fairly to the achievement of their 
+peers. 
+You can find details on how to make adjustments for 
+students with protected characteristics in the policy 
+document Access Arrangements, Reasonable Adjustments 
+and Special Considerations, which is on our website 
+(www.edexcel.com). 
+Synoptic assessment 
+Synoptic assessment requires students to work across 
+different parts of a qualification and to show their 
+accumulated knowledge and understanding of a topic or 
+subject area. 
+Synoptic assessment enables students to show their ability 
+to combine their skills, knowledge and understanding with 
+breadth and depth of the subject.  
+This qualification assesses synoptically through the 
+following assessment, Component 3: Investigating 
+Language and in the Non-examination assessment: Crafting 
+Language. Students draw together skills synoptically in 
+their analysis and evaluation of texts.  
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+32 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to 
+comply with the requirements of the current Code of 
+Practice, published by the Office of Qualifications and 
+Examinations Regulation (Ofqual). 
+The Advanced GCE qualification will be graded and 
+certificated on a six-grade scale from A* to E using the total 
+subject mark. Individual components are not graded. 
+The first certification opportunity for the Pearson Edexcel 
+Level 3 Advanced GCE in English Language will be 2017. 
+Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be 
+recorded on a certificate will receive an unclassified 
+U result. 
+Language of assessment 
+Assessment of this qualification will be available in English. 
+All student work must be in English. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 33 
+Other information 
+Student recruitment 
+Students are advised against making entries for more than 
+one A level in English. Examinations for A level English 
+Language and A level English Language and Literature are 
+timetabled at the same time. 
+Pearson follows the JCQ policy concerning recruitment to 
+our qualifications in that: 
+● they must be available to anyone who is capable of 
+reaching the required standard 
+● they must be free from barriers that restrict access and 
+progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this 
+qualification. 
+Students who would benefit most from studying an 
+Advanced GCE in English Language are likely to have a 
+Level 2 qualification such as a GCSE in English Language or 
+a GCSE in English Literature. 
+Progression 
+Students can progress from this qualification to: 
+● higher education courses such as degrees in English, 
+English language, linguistics, creative writing or in 
+related subjects such as English literature, law, 
+journalism, media, speech and language therapy, 
+teaching, drama, history 
+● a wide range of careers either directly related to English 
+language, such as speech and language therapist, 
+teaching, editor, writer or in areas such as publishing, 
+journalism, the media, advertising, marketing, public 
+relations, arts administration, record offices, libraries, 
+national and local government, civil service. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+34 
+Relationship between Advanced Subsidiary GCE and 
+Advanced GCE 
+The Advanced Subsidiary GCE is a discrete linear 
+qualification and comprises two examined components; 
+these are built from content that is common with the 
+Advanced GCE but they have different assessments that 
+take place at the end of the course.  
+Relationship between GCSE and Advanced GCE 
+This qualification provides progression from GCSE building 
+on skills of analysing, evaluating and comparing texts and 
+transactional writing skills, including accurate spelling, 
+punctuation and grammar. It can, for example, allow 
+students to develop a broader and deeper understanding of 
+English language as a discipline and allow them to develop 
+higher English language skills. 
+Progression from GCSE to Advanced GCE 
+There is a distinct step up from GCSE in terms of content 
+and skills to study English Language as a subject at 
+Advanced GCE.  
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 35 
+Appendices 
+Appendix 1: Transferable skills 37 
+Appendix 2: Level 3 Extended Project qualification 39 
+Appendix 3: Codes 43 
+Appendix 4: Non-examination Assessment Authentication Sheet 45 
+Appendix 5: English phonemic reference sheet 47 
+Appendix 6: Transcription mark key 49 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+36 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 37 
+Appendix 1: Transferable skills  
+ 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines 
+skills, or competencies, as ‘the bundle of knowledge, attributes and capacities that 
+can be learned and that enable individuals to successfully and consistently perform 
+an activity or task and can be built upon and extended through learning.’
+ [1] 
+To support the design of our qualifications, the Pearson Research Team selected 
+and evaluated seven global 21st-century skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the 
+most evidence-based and robust skills framework. We adapted the framework 
+slightly to include the Program for International Student Assessment (PISA) ICT 
+Literacy and Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: [2] 
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and 
+communicate[3]. 
+Interpersonal skills 
+● Communication – active listening, oral communication, written 
+communication, assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, 
+service orientation, self-presentation, social influence, conflict resolution and 
+negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+ 
+ 
+[1]  OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+[2]  Koenig J A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop  
+(National Academies Press, 2011) 
+[3]  PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+38 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher 
+education, as well as the demands of the workplace, and are important in the 
+teaching and learning of this qualification. We will provide teaching and learning 
+materials, developed with stakeholders, to support our qualifications. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 39 
+Appendix 2: Level 3 Extended Project 
+qualification 
+ 
+What is the Extended Project? 
+The Extended Project is a standalone qualification that can be taken alongside 
+GCEs. It supports the development of independent learning skills and helps to 
+prepare students for their next step – whether that be higher education or 
+employment. The qualification: 
+● is recognised by higher education for the skills it develops 
+● is worth half of an Advanced GCE qualification at grade A*–E  
+● carries UCAS points for university entry. 
+The Extended Project encourages students to develop skills in the following areas: 
+research, critical thinking, extended writing and project management. Students 
+identify and agree a topic area of their choice (which may or may not be related to 
+a GCE subject they are already studying), guided by their teacher. 
+Students can choose from one of four approaches to produce: 
+● a dissertation (for example, an investigation based on predominately secondary 
+research) 
+● an investigation/field study (for example, a practical experiment) 
+● a performance (for example, in music, drama or sport) 
+● an artefact (for example, a creating a sculpture in response to a client brief or 
+solving an engineering problem). 
+The qualification is non-examination assessment based and students are assessed 
+on the skills of managing, planning and evaluating their project. Students will 
+research their topic, develop skills to review and evaluate the information, and then 
+present the final outcome of their project. 
+Students: what they need to do 
+The Extended Project qualification requires students to: 
+● select a topic of interest for an in-depth study and negotiate the scope of the 
+project with their teacher 
+● identify and draft an objective for their project (for example in the form of a 
+question, hypothesis, challenge, outline of proposed performance, issue to be 
+investigated or commission for a client) and provide a rationale for their choice 
+● produce a plan for how they will deliver their intended objective 
+● conduct research as required by the project brief, using appropriate techniques 
+● carry out the project using tools and techniques safely 
+● share the outcome of the project using appropriate communication methods, 
+including a presentation. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+40 
+Teachers: key information 
+● The Extended Project has 120 guided learning hours (GLH) consisting of: 
+o a taught 40-GLH element that includes teaching the technical skills  
+(for example research skills) 
+o a guided 80-GLH element that includes mentoring students through the 
+project work. 
+● Group work is acceptable, however it is important that each student provides 
+evidence of their own contribution and produces their own report. 
+● 100% externally moderated. 
+● Four Assessment Objectives: manage, use resources, develop and realise, 
+review. 
+● Can be run over 1, 1½ or 2 years. 
+● Can be submitted in January or June. 
+How to link Extended Project with English Language 
+The Extended Project creates the opportunity to develop transferable skills for 
+progression to higher education and to the workplace, through the exploration of 
+either an area of personal interest or a topic of interest within the English Language 
+qualification content. For example, English Language students could work on the 
+writing of a dissertation exploring an aspect of English Language.  
+Skills developed 
+Through teaching and work on projects, it is expected that Extended Project 
+students will develop skills in the following areas. 
+● Independent research skills, including skills in primary research and the 
+selection of appropriate methods for data collection. 
+● Extended reading and academic writing, including reading academic articles. 
+● Planning/project management, including the refining of research questions. 
+● Source handling and evaluation. 
+● Evaluation of arguments and processes, including arguments in favour of 
+alternative interpretations of sources and evaluation of the research process. 
+● Critical thinking. 
+In the context of the Extended Project, critical thinking refers to the ability to 
+identify and develop arguments for a point of view or hypothesis and to consider 
+and respond to alternative arguments.  
+The Extended Project is an ideal vehicle to develop the transferable skills identified 
+in Appendix 1.  
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 41 
+Using the Extended Project to support breadth and depth 
+There is no specified material that students are expected to study and, in the 
+Extended Project, students are assessed on the quality of the work they produce 
+and the skills they develop and demonstrate through completing this work. A 
+student of English Language should demonstrate that they have extended 
+themselves in some significant way by means of their Extended Project. It is 
+important that the student shows, at the outset, how their work involves significant 
+extension beyond what they have been studying in English Language. Students can 
+use the Extended Project to demonstrate extension in one or more dimensions:  
+● Deepening understanding: where a student explores a topic in greater depth 
+than in the specification content. A student of English Language could choose to 
+carry out a deeper, more analytic exploration of a concept which can be 
+explored through the lens of linguistic study. For example, questions about the 
+nature of language or exploration of a concept such as meaning or translation. 
+● Broadening skills: where a student learns a new skill, for example 
+performance or creative writing skills 
+● Widening perspectives: where the student’s project spans different subjects. 
+Cross-curricular exploration which involves examining, for example political, 
+social, philosophical or psychological aspects of the question. 
+Choosing topics and narrowing down to a question 
+Topics or titles linked to the themes from the English Language course could inspire 
+a choice of Extended Project topic. 
+Students who wish to extend their creative writing skills can produce an artefact. 
+The emphasis in the assessment criteria is on the process leading up to the finished 
+piece of work. Consider a student who wished to write a short science fiction-story. 
+The student wrote a literature review that contained research into genre, 
+influences, source materials for the story and the processes and techniques of 
+creative writing. As well as submitting the finished story, the student included 
+extracts from drafts, which were annotated to show the development of ideas and 
+the creative decisions the student took during the development of the work, 
+including reflection on alternative possibilities and evaluation of their relative 
+merits. 
+Example dissertation titles include: 
+● How far are we products and how far are we masters of language? 
+● Can people think and express themselves without language? 
+● Is femininity socially or biologically constructed? 
+There is also scope for English Language-based Performance Extended Projects. For 
+example, a student might perform a play to explore problems with the concept of 
+interpretation of language. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+42 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 43 
+Appendix 3: Codes 
+ 
+Type of code Use of code Code number 
+Discount codes Every qualification eligible for performance 
+tables is assigned a discount code 
+indicating the subject area to which it 
+belongs. 
+Discount codes are published by DfE. 
+Please see the  
+GOV.UK website 
+Regulated 
+Qualifications 
+Framework 
+(RQF) codes 
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications Framework 
+(RQF) code. 
+The RQF code is known as a Qualification 
+Number (QN). This is the code that 
+features in the DfE Section 96 and on the 
+LARA as being eligible for 16–18 and 19+ 
+funding, and is to be used for all 
+qualification funding purposes. The QN will 
+appear on students’ final certification 
+documentation.  
+The QN for this 
+qualification is: 
+601/5009/9 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. Centres 
+will need to use the entry codes only when 
+claiming students’ qualifications. 
+GCE – 9EN0 
+Paper/component 
+code 
+These codes are provided for reference 
+purposes. Students do not need to be 
+entered for individual papers/components. 
+Paper 1: 9EN0/01 
+Paper 2: 9EN0/02 
+Paper 3: 9EN0/03 
+Non-examination 
+assessment: 
+9EN0/04 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+44 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 45 
+ 
+ 
+ 
+ 
+ 
+Appendix 4: Non-examination 
+Assessment Authentication Sheet 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 9EN0/04 
+Centre name:  
+ 
+Centre number:  
+Candidate name:  
+ 
+Candidate number:  
+Assignment Marks 
+awarded 
+Comments  
+1. Original Writing 
+ 
+Text 1 description: 
+ 
+ 
+Text 2 description: 
+  
+/30 
+ 
+ 
+ 
+ 
+ 
+2. Commentary 
+ 
+ 
+ 
+ 
+ 
+ 
+/20 
+ 
+ 
+ 
+TOTAL 
+ 
+/50 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+46 
+Teacher declaration 
+I declare that the work submitted for assessment has been carried out without 
+assistance other than that which is acceptable according to the rules of the 
+specification. I certify that to the best of my knowledge the evidence submitted for 
+this assignment is the learner’s own. The learner has clearly referenced any sources 
+and any artificial intelligence (AI) tools used in the work. I have not solely used AI to 
+mark the learner’s work. I understand that false declaration is a form of malpractice. 
+ 
+Assessor name:   
+Assessor signed:  Date:  
+ 
+Candidate declaration 
+I certify that the work submitted for this assessment is my own. I have clearly 
+referenced any sources and any AI tools used in the work. I understand that false 
+declaration is a form of malpractice. I acknowledge that Pearson may use candidate 
+work for the purposes of standardisation, training, and exemplar material. 
+ 
+Candidate 
+signed:   Date:  
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 47 
+Appendix 5: English phonemic reference 
+sheet  
+ 
+These tables will be available in the examination when data has been transcribed to 
+show phonetic pronunciation. 
+Centres should make students aware of these tables as they will be given to them 
+in the examinations. 
+ 
+ 
+ 
+ 
+ 
+ 
+Vowels 
+kit dress trap lot strut foot 
+ɪ e æ ɒ ʌ ʊ 
+letter fleece bath thought goose nurse 
+ə i: ɑ: ɔ: u: ɜ: 
+Diacritics: = length mark. These vowels may be shorter in some accents and 
+will be transcribed without the length mark /:/ in this case. 
+Diphthongs 
+face goat price mouth choice near square cure 
+eɪ ə ʊ ɑɪ ɑʊ ɔɪ ɪə e ə ʊ ə 
+Consonants 
+pip bid tack door cake good 
+p b t d k g 
+chain jam fly vase thing this 
+tʃ ʤ f v θ ð 
+say zoo shoe treasure house mark 
+s z ʃ ʒ h m 
+not sing lot rose yet witch 
+n ŋ l r j w 
+Glottal stop Syllabic /l/ bottle Syllabic /n/ fatten 
+ʔ ļ ņ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+48 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 49 
+ 
+Appendix 6: Transcription mark key 
+ 
+These are common marks that will be used on any data that has the transcription of 
+speech in the examinations. 
+There are different and more varied transcription marks available but those given 
+below will always be used to ensure a consistent student experience in 
+examinations. 
+Centres should make students aware of this transcription mark key as it will be 
+given to them in the examinations. 
+ 
+bold emphatic stress 
+[ _ ] paralinguistic features 
+/_ / key phonemic transcription 
+// overlapping/simultaneous speech 
+(.) micro pause (less than a second) 
+(3) longer pause (number of seconds 
+indicated) 
+? rising intonation 
+ 
+ 
+ 
+ 
+ 
+Db140824 9781446944806_GCE2015_A_ENGLANG_ISS6.DOC.1–62/0 
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office:  80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121

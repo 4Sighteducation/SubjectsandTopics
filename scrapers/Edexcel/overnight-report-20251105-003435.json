@@ -1,0 +1,48 @@
+{
+  "started": "2025-11-05 00:32:13",
+  "subjects": [
+    {
+      "name": "Arabic",
+      "code": "9AA0",
+      "topics": {
+        "success": true,
+        "count": "3"
+      },
+      "papers": {
+        "success": true,
+        "count": "30"
+      }
+    },
+    {
+      "name": "Art and Design",
+      "code": "9AD0",
+      "topics": {
+        "success": true,
+        "count": "3"
+      },
+      "papers": {
+        "success": true,
+        "count": "30"
+      }
+    },
+    {
+      "name": "Biology B",
+      "code": "9BI0",
+      "topics": {
+        "success": true,
+        "count": "3"
+      },
+      "papers": {
+        "success": true,
+        "count": "30"
+      }
+    }
+  ],
+  "summary": {
+    "topics_success": 3,
+    "papers_success": 3,
+    "topics_failed": 0,
+    "papers_failed": 0
+  },
+  "completed": "2025-11-05 00:34:35"
+}

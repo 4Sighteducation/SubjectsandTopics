@@ -1,0 +1,2466 @@
+A Level 
+Economics B
+Speciﬁ  cation 
+Pearson Edexcel Level 3 Advanced GCE in Economics B (9EB0)
+First teaching from September 2015
+First certiﬁ  cation from 2017 Issue 1
+Introduction
+Sample assessment materials (SAMs) provide learners and centres with specimen 
+questions and mark schemes. These are used as the benchmark to develop the 
+external assessment learners will take. 
+Unit 1: Principles of Science   
+The SAMs for this external unit have been provided for the following qualifications: 
+• BTEC Level 1/Level 2 First Award in Principles of Applied Science  
+• BTEC Level 1/Level 2 First Extended Certificate in Applied Science  
+Unit 8: Scientific Skills   
+The SAMs for this external unit have been provided for the following qualifications: 
+• BTEC Level 1/Level 2 First Award in Application of Science  
+• BTEC Level 1/Level 2 First Extended Certificate in Applied Science  
+ 
+ 
+Pearson  
+Edexcel Level 3 Advanced 
+GCE in Economics B (9EB0) 
+Specification 
+ 
+First certification 2017 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Edexcel, BTEC and LCCI qualifications 
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK’s largest 
+awarding body offering academic and vocational qualifications that are globally 
+recognised and benchmarked. For further information, please visit our qualification 
+websites at www.edexcel.com, www.btec.co.uk or www.lcci.org.uk. Alternatively, 
+you can get in touch with us using the details on our contact us page at 
+www.edexcel.com/contactus 
+About Pearson 
+Pearson is the world's leading learning company, with 40,000 employees in more 
+than 70 countries working to help people of all ages to make measurable progress 
+in their lives through learning. We put the learner at the centre of everything we 
+do, because wherever learning flourishes, so do people. Find out more about how 
+we can help you and your learners at: www.pearson.com/uk 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party material made in this specification are made in good faith. 
+Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Material may include textbooks, journals, magazines and other publications and 
+websites.) 
+ 
+All information in this specification is correct at time of publication. 
+ 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd / Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 91441 0 
+All the material in this publication is copyright 
+© Pearson Education Limited 2014 
+ 
+ 
+ From Pearson’s Expert Panel for World Class Qualifications 
+ 
+  The reform of the qualifications system in England is a profoundly important 
+change to the education system. Teachers need to know that the new qualifications 
+will assist them in helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an 
+‘Expert Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or 
+because of our experience in reforming qualifications in other systems around the 
+world as diverse as Singapore, Hong Kong, Australia and a number of countries 
+across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification 
+development process that has included: 
+ Extensive international comparability of subject content against the highest-
+performing jurisdictions in the world 
+ Benchmarking assessments against UK and overseas providers to ensure that 
+they are at the right level of demand 
+ Establishing External Subject Advisory Groups, drawing on independent subject-
+specific expertise to challenge and validate our qualifications 
+ Subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future 
+oriented. The design has been guided by what is called an ‘Efficacy Framework’, 
+meaning learner outcomes have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a 
+learner’s success in education. As a result of our work as a panel we are confident 
+that we have supported the development of qualifications that are outstanding for 
+their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.  
+  
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Sing Kong Lee 
+Director, National Institute of 
+Education, Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+“ 
+” 
+ 
+ 
+ 
+ 
+Introduction 
+The Pearson Edexcel Level 3 Advanced GCE in Economics B is designed for use in 
+schools and colleges. It is part of a suite of GCE qualifications offered by Pearson. 
+Purpose of the specification 
+This specification sets out: 
+● the objectives of the qualification 
+● any other qualification(s) that a student must have completed before taking the 
+qualification 
+● any prior knowledge and skills that the student is required to have before taking 
+the qualification 
+● any other requirements that a student must have satisfied before they will be 
+assessed or before the qualification will be awarded 
+● the knowledge and understanding that will be assessed as part of the 
+qualification 
+● the method of assessment and any associated requirements relating to it 
+● the criteria against which a student’s level of attainment will be measured 
+(such as assessment criteria). 
+ 
+ 
+ 
+Rationale 
+The Pearson Edexcel Level 3 Advanced GCE in Economics B meets the following 
+purposes, which fulfil those defined by the Office of Qualifications and Examinations 
+Regulation (Ofqual) for GCE qualifications in their GCE Qualification Level 
+Conditions and Requirements document, published in April 2014. 
+The purposes of this qualification are to: 
+● define and assess achievement of the knowledge, skills and understanding that 
+will be needed by students planning to progress to undergraduate study at a UK 
+higher education establishment, particularly (although not only) in the same 
+subject area, for example economics, degrees in applied economics such as 
+environmental economics, labour economics, public sector economics or 
+monetary economics, business economics, or a business degree 
+● set out a robust and internationally comparable post-16 academic course of 
+study to develop that knowledge, skills and understanding 
+● enable UK universities to accurately identify the level of attainment of students 
+● provide a basis for school and college accountability measures at age 18 
+● provide a benchmark of academic ability for employers. 
+Qualification aims and objectives 
+The aims and objectives of the Pearson Edexcel Level 3 Advanced GCE in 
+Economics B are to enable students to: 
+● develop an interest in, and enthusiasm for, the subject 
+● appreciate the contribution of economics to the understanding of the wider 
+economic and social environment 
+● develop an understanding of a range of concepts and an ability to use those 
+concepts in a variety of different contexts 
+● use an enquiring, critical and thoughtful approach to the study of economics and 
+develop an ability to think as an economist 
+● understand that economic behaviour can be studied from a range of 
+perspectives 
+● develop analytical and quantitative skills, together with qualities and attitudes 
+that will equip them for the challenges, opportunities and responsibilities of 
+adult and working life. 
+ 
+The context for the development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+● reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+● consulting with key stakeholders on content and assessment, including learned 
+bodies, subject associations, higher-education academics, teachers and 
+employers to ensure this qualification is suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their documents GCE Qualification Level Conditions and Requirements and GCE 
+Subject Level Conditions and Requirements for Economics, published in April 2014. 
+ 
+ 
+ 
+[1] Pearson’s World Class Qualification principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep 
+learning and measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing 
+reliable and valid assessment tasks and processes, and generating confidence in 
+end users of the knowledge, skills and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that 
+students develop at different rates and have different learning needs, and 
+focusing on progression 
+● empowering, through promoting the development of transferable skills,  
+see Appendix 1. 
+ 
+ 
+
+ 
+Contents 
+Qualification at a glance 1 
+Assessment Objectives and weightings 4 
+Knowledge, skills and understanding 5 
+Theme 1: Markets, consumers and firms 5 
+Theme 2: The wider economic environment 13 
+Theme 3: The global economy 21 
+Theme 4: Making markets work 29 
+Assessment 37 
+Assessment summary 37 
+Assessment Objectives and weightings 39 
+Breakdown of Assessment Objectives 40 
+Entry and assessment information 41 
+Student entry 41 
+Forbidden combinations and discount code 41 
+Access arrangements, reasonable adjustments and special 
+consideration 41 
+Equality Act 2010 and Pearson equality policy 43 
+Synoptic assessment 43 
+Awarding and reporting 43 
+Language of assessment 44 
+Grade descriptions 44 
+Other information 45 
+Student recruitment 45 
+Prior learning and other requirements 45 
+Progression 45 
+Appendix 1: Transferable skills 49 
+Appendix 2: Level 3 Extended Project qualification 51 
+Appendix 3: Quantitative skills 55 
+Appendix 4: Accounting ratios 57 
+Appendix 5: Codes 59 
+ 
+
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+1 
+Qualification at a glance 
+The Pearson Edexcel Level 3 Advanced GCE in Economics B is structured into four 
+themes and consists of three externally examined papers. 
+Students are introduced to economics through building knowledge of core 
+microeconomic and macroeconomic concepts, and by investigating economic theory 
+through real-world businesses and the environments in which they operate. 
+Breadth and depth of knowledge and understanding with applications to more 
+complex concepts and models are developed in the second year of study. 
+Students will need to apply their knowledge and understanding to both familiar and 
+unfamiliar contexts in the assessment and demonstrate an awareness of current 
+economic events and policies. 
+ 
+Theme 1: Markets, consumers 
+and firms 
+Theme 2: The wider economic 
+environment 
+Students will develop an understanding 
+of: 
+● scarcity, choice and potential 
+conflicts 
+● enterprise, business and the 
+economy 
+● introducing the market 
+● the role of credit in the economy 
+● market failure and government 
+intervention 
+● revenue, costs, profits and cash. 
+Students will develop an understanding 
+of: 
+● business growth and competitive 
+advantage 
+● firms, consumers and elasticities of 
+demand 
+● productive efficiency 
+● life in a global economy 
+● the economic cycle 
+● introduction to macroeconomic 
+policy. 
+Theme 3: The global economy Theme 4: Making markets work 
+This theme develops the concepts 
+introduced in Theme 2. Students will 
+develop an understanding of: 
+● globalisation 
+● economic factors in business 
+expansion 
+● impact of globalisation on global 
+companies 
+● impact of globalisation on local and 
+national economies 
+● global labour markets 
+● inequality and redistribution. 
+This theme develops the concepts 
+introduced in Theme 1. Students will 
+develop an understanding of: 
+● competition and market power 
+● market power and market failure 
+● market failure across the economy 
+● macroeconomic policies and impact 
+on firms and individuals 
+● risk and the financial sector. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+2 
+Students must complete all assessment in May/June in any single year. 
+ 
+Paper 1: Markets and how they work *Paper code: 9EB0/01 
+ 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+35% of the 
+total 
+qualification 
+Overview of content 
+Paper 1 will assess markets and questions will be drawn from Themes 1 and 4. 
+Overview of assessment 
+● Written examination. 
+● The paper comprises three sections. 
+● Students answer all questions from all sections. 
+● Section A comprises one data response question. 
+● Section B and Section C each comprise one extended open-response question 
+based on data. 
+● Duration: 2 hours. 
+● 100 marks available. 
+ 
+ 
+Paper 2: Competing in the global economy *Paper code: 9EB0/02 
+ 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+35% of the 
+total 
+qualification 
+Overview of content 
+Paper 2 will assess the global economic environment and questions will be drawn 
+from Themes 2 and 3. 
+Overview of assessment 
+● Written examination. 
+● The paper comprises three sections. 
+● Students answer all questions from all sections. 
+● Section A comprises one data response question. 
+● Section B and Section C each comprise one extended open-response question 
+based on data. 
+● Duration: 2 hours. 
+● 100 marks available. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+3 
+ 
+Paper 3: The economic environment and business  
+*Paper code: 9EB0/03 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+30% of the 
+total 
+qualification 
+Overview of content 
+For Paper 3, there will be a pre-released context document issued on our website 
+in November of the previous year. A new context will be given to centres each 
+year and will relate to the examination series for the following summer. 
+The context will focus on a broad context, such as an economy, industry, market 
+or economic issue. The question paper will be in two sections. 
+The first section will focus on the broad context provided. This will be outlined to 
+centres through the pre-released document. 
+The second section will focus on at least one strand within the context provided, 
+such as a particular firm. 
+Each section will contain unseen stimulus materials comprising quantitative and 
+qualitative evidence. Students are required to apply their knowledge and 
+understanding from Themes 1, 2, 3 and 4 and their understanding of the broad 
+context to this evidence. 
+Students cannot take any of their research or investigation data carried out as 
+part of the pre-release into the examination. 
+Overview of assessment 
+● Written examination. 
+● The paper comprises two sections. Each section comprises data response 
+questions broken down into a number of parts, including one extended  
+open-response question. 
+● Students answer all questions from both sections. 
+● Duration: 2 hours. 
+● 100 marks available. 
+ 
+*See Appendix 5: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+4 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Demonstrate knowledge of terms/concepts and 
+theories/models to show an understanding of the behaviour of 
+economic agents and how they are affected by and respond to 
+economic issues 
+20-22 
+AO2 Apply knowledge and understanding to various economic 
+contexts to show how economic agents are affected by and 
+respond to economic issues 
+22-24 
+AO3 Analyse issues within economics, showing an understanding 
+of their impact on economic agents 28-30 
+AO4 Evaluate economic arguments and use qualitative and 
+quantitative evidence to support informed judgements 
+relating to economic issues 
+26-28 
+Total 100% 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+5 
+Knowledge, skills and understanding 
+Theme 1: Markets, consumers and firms 
+ 
+Overview 
+In this theme, students explore the way in which consumers 
+make choices and entrepreneurs create desirable products. 
+Students will need to build upon the knowledge, skills and 
+understanding developed in Theme 1 in Theme 4, making 
+connections across these two themes in Paper 1, and across 
+Themes 1, 2, 3 and 4 in Paper 3. Teaching approaches to 
+content must reflect this. 
+Students will need to apply their knowledge and 
+understanding of both familiar and unfamiliar contexts in 
+the assessments, and demonstrate an awareness of current 
+economic events and policies. Students should have 
+knowledge of the UK economy in the last 10 years. 
+Content 
+Students will learn about the market economy and how 
+market forces shape the way in which firms meet consumer 
+demand, how firms raise the finance they need and how 
+they measure their performance. 
+Students will consider how markets work, looking at how 
+supply and demand interact to allocate resources in local, 
+national and international markets. They will learn how to 
+apply supply and demand analysis to real-world situations 
+and be able to offer explanations to explain consumer 
+behaviour. 
+Having investigated how markets work, students will then 
+look at market failure. They will look at the nature and 
+causes of market failure before considering the strengths 
+and weaknesses of possible government interventions to 
+remedy market failure. 
+Students are encouraged to use an enquiring, critical and 
+thoughtful approach to the study of economics and to 
+develop an ability to think as an economist. 
+To develop their skills, knowledge and understanding in 
+economics, students need to have acquired competence in 
+quantitative skills that are relevant to, and applied in the 
+context of, this theme (see Appendix 3: Quantitative skills). 
+For this theme, students will need to be aware of the 
+accounting ratios outlined in Appendix 4: Accounting ratios. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+6 
+1.1 Scarcity, choice and potential conflicts 
+Students are introduced to the basic economic problem and to the way in which 
+different economic agents have different and conflicting objectives. 
+ 
+Subject content What students need to learn: 
+1.1.1 
+The economic 
+problem 
+ 
+a) The problem of scarcity (where there are unlimited 
+wants and finite resources) 
+b) Choices and potential trade-offs 
+c) The importance of opport unity costs to consumers, 
+producers and government 
+1.1.2 
+Business objectives 
+ 
+a) Different business objecti ves and reasons for them: 
+o profit maximisation 
+o sales maximisation 
+o satisficing 
+b) Other objectives: 
+o survival 
+o market share 
+o cost efficiency 
+o return on investment 
+o employee welfare 
+o customer satisfaction 
+o social objectives 
+1.1.3 
+Stakeholders 
+(economic agents) 
+and their objectives 
+a) Stakeholders (economic agents) 
+b) Stakeholder objectives 
+c) Stakeholder conflicts 
+d) Corporate social  responsibility 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+7 
+1.2 Enterprise, business and the economy 
+Entrepreneurs are key to a dynamic economy and they take decisions in the 
+context of current economic conditions. 
+ 
+Subject content What students need to learn: 
+1.2.1 
+Role of an 
+entrepreneur in the 
+economy 
+a) Creative destruction (organis ing factors of production to 
+create and set up an enterprise) 
+b) Making decisions to oper ate, expand and develop a 
+business 
+c) Selling the output for more than the cost of the inputs 
+(adding value) 
+1.2.2 
+Entrepreneurial 
+motives  
+a) Profit as an incentive 
+b) Non-financial motives:  ethical stance, social 
+entrepreneurship, independence, home working 
+1.2.3  
+Factors of 
+production 
+a) Enterprise  
+b) Capital, land and labour: 
+o premises 
+o equipment 
+o raw materials 
+o managers and employees 
+1.2.4 
+Specialisation 
+ 
+a) Division of labour: adva ntages and disadvantages to 
+employers and employees 
+b) Specialisation: advantages  and disadvantages to the 
+firm 
+1.2.5 
+The wider economic 
+environment 
+a) Implications for firms of changes in: 
+o interest rates 
+o exchange rates 
+o taxation 
+o unemployment 
+o inflation 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+8 
+1.3 Introducing the market 
+The understanding of markets is fundamental to economics and helps students to 
+understand what is produced and how it is sold. 
+ 
+Subject content What students need to learn:  
+1.3.1 
+Demand 
+ 
+a) Consumer objecti ves and decisions 
+b) The demand curve 
+c) The distinction between movements along a demand 
+curve and shifts of a demand curve 
+d) The factors that may cause a shift in the demand curve: 
+o changes in the prices of substitutes and 
+complementary goods 
+o changes in real incomes 
+o changes in tastes and fashions 
+o advertising and branding 
+o changes in size and age distribution of the population 
+1.3.2 
+Supply 
+ 
+a) Producer objectives and decisions 
+b) The supply curve 
+c) The distinction between movements along a supply 
+curve and shifts of a supply curve 
+d) The factors that may cause a shift in the supply curve: 
+o changes in the costs of production 
+o the introduction of new technology 
+o indirect taxes 
+o subsidies 
+o changes in the number of firms in an industry 
+o external shocks 
+1.3.3 
+Price determination 
+ 
+a) Equilibrium price and quantity and how they are 
+determined 
+b) The use of supply and demand diagrams to depict 
+excess supply and excess demand 
+c) The operation of market forces to eliminate excess 
+demand and excess supply 
+d) The use of the supply and demand model to show how 
+shifts in demand and supply curves cause the 
+equilibrium price and quantity to change in real-world 
+situations 
+e) The limitations of the supply and demand model and its 
+predictions 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+9 
+ 
+Subject content What students need to learn:  
+1.3.4 
+Price mechanism 
+ 
+a) Functions of the price mechanism to allocate resources: 
+rationing, incentives, signalling 
+b) How firms respond to a change in demand 
+c) The price mechanism in the context of different types of 
+markets: 
+o mass markets 
+o niche markets 
+d) Potential market growth 
+1.3.5 
+Understanding the 
+consumer 
+ 
+a) Primary and secondary market research data 
+(quantitative and qualitative) used to quantify likely 
+demand and gain insight into consumer behaviour 
+b) Limitations of market rese arch, sample size and bias 
+c) Categorising consumer s: market segmentation 
+1.3.6 
+The competition 
+ 
+a) Market positioning: mark et mapping and market maps 
+b) Competitive advantage of a product or service 
+c) Product differentiation 
+d) Adding value to products/services 
+e) How firms decide on price and level of output 
+f) Nature and range of markets: stable and dynamic 
+markets 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+10 
+1.4 The role of credit in the economy 
+Firms may need to borrow for capital investment and working capital but borrowing 
+can be both costly and risky. 
+ 
+Subject content What students need to learn: 
+1.4.1 
+Role of banks in the 
+economy 
+a) Channelling savings towards investment 
+b) Role of banks in providing credit 
+c) Interest rates and collateral 
+1.4.2 
+Risk and liability 
+a) The meaning of risk 
+b) Implications of limited and unlimited liability 
+1.4.3 
+Types and sources 
+of credit and the 
+impact of credit 
+within the economy 
+a) Types of credit: 
+o loans 
+o overdrafts 
+o trade credit 
+b) Sources of credit: 
+o banks 
+o other firms 
+c) Other types of finance: 
+o venture capital 
+o share capital 
+o leasing 
+d) Other sources of finance: 
+o owner’s capital: personal savings 
+o retained profit 
+o sale of assets 
+o individual investors 
+o online collaborative funding 
+e) Challenges in obtaining credit: 
+o role and impact of credit on the economy 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+11 
+1.5 Market failure and government intervention 
+Some markets work better than others and governments may try to make markets 
+work more efficiently for the benefit of society. 
+ 
+Subject content What students need to learn: 
+1.5.1 
+Market failure and 
+externalities 
+ 
+a) Private costs, external  costs and social costs 
+b) Private benefits, external benefits and social benefits 
+c) Costs and benefits from the production and consumption 
+of goods and services 
+d) Strength of the market  economy: markets work well 
+when the private and social benefits exceed (or are 
+equal to) the private and social costs 
+e) Weaknesses of the market economy: some markets fail 
+because of the existence of external costs, leading to 
+under/over production or consumption 
+1.5.2 
+Government 
+intervention and 
+failure 
+ 
+a) Purpose of intervention with reference to market failure 
+in various contexts 
+b) Methods of government intervention: 
+o regulation 
+o legislation 
+o indirect taxation 
+o grants and subsidies 
+o voluntary agreements 
+c) Causes of government failure: 
+o distortion of price signals 
+o unintended consequences 
+o excessive administrative costs 
+o information gaps 
+d) Government failure in various markets 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+12 
+1.6 Revenue, costs, profits and cash 
+An efficient allocation of resources requires a way of measuring the costs of using 
+those resources and the revenues generated by their use. 
+ 
+Subject content What students need to learn: 
+1.6.1 
+Revenue and costs 
+a) Calculation of sales volume and sales revenue 
+b) Calculation of average, fi xed, variable and total costs 
+c) Calculation of percentage change 
+1.6.2 
+The relationship 
+between revenue 
+and costs 
+ 
+a) Contribution: selling price – variable cost per unit 
+b) Break-even point: total fixe d costs + total variable costs 
+= total sales revenue 
+c) Using contribution to calculate the break-even point 
+d) Margin of safety 
+e) Limitations of break-even analysis 
+1.6.3 
+Profit and loss 
+ 
+a) Profit as an incentive in a competitive market: market 
+entry and exit 
+b) How firms calculate: 
+o gross profit 
+o operating profit 
+o profit for the year (net profit) 
+c) Statement of comprehensive income (profit and loss 
+account) 
+d) How firms measure profitability: 
+o gross profit margin 
+o operating profit margin 
+o profit for the year (net profit) margin 
+e) How firms increase profit 
+1.6.4 
+Business survival 
+and cash flow 
+ 
+a) Distinction between profit and cash flow 
+b) Importance of cash fl ow for business survival 
+c) Forecasting and interpreting cash flow 
+d) Use of a cash-flow forecast to identify credit 
+requirements and minimise risk 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+13 
+Theme 2: The wider economic environment 
+ 
+Overview 
+This theme helps students to explore how firms can become 
+more competitive. It introduces them to the wider 
+international and economic environment in which firms 
+operate. 
+Students will need to build upon the knowledge, skills and 
+understanding developed in Theme 2 in Theme 3, making 
+connections across these two themes in Paper 2, and across 
+Themes 1, 2, 3 and 4 in Paper 3. Teaching approaches to 
+content must reflect this. 
+Students will need to apply their knowledge and 
+understanding of both familiar and unfamiliar contexts in 
+the assessments, and demonstrate an awareness of current 
+economic events and policies. Students should have 
+knowledge of the UK economy in the last 10 years. 
+Content 
+Business growth and competitive advantage lead naturally 
+to the ways in which consumers are influenced by and 
+respond to changes in prices and incomes. This theme goes 
+on to develop an understanding of the nature of productive 
+efficiency and the need to improve it. At this point, the 
+theme broadens out to cover global issues, fluctuations in 
+the economy and the ways in which governments respond 
+to threats and changes with micro- and macro-economic 
+policies. 
+Students will consider the different approaches that may be 
+used by policy-makers to address the main economic 
+issues. 
+Students are encouraged to use an enquiring, critical and 
+thoughtful approach to the study of economics and develop 
+an ability to think as an economist. 
+To develop their skills, knowledge and understanding in 
+economics, students need to have acquired competence in 
+quantitative skills that are relevant to and applied in the 
+context of this theme (see Appendix 3: Quantitative skills). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+14 
+2.1 Business growth and competitive advantage 
+Success in business requires dynamism and flexibility which must include technical 
+excellence, sensitivity to market trends and imaginative thinking. 
+ 
+Subject content What students need to learn: 
+2.1.1 
+Growth 
+ 
+a) Objectives of growth: 
+o to achieve economies of scale (internal and external) 
+o increased market power over consumers and 
+suppliers 
+o increased market share and brand recognition 
+o increased profitability 
+b) Problems arising from growth: 
+o diseconomies of scale 
+o internal communication 
+o potential skills shortages 
+c)  The role of corporate culture 
+2.1.2 
+Methods of growth 
+a) Organic and inorganic growth 
+b) Horizontal, vertical and conglomerate integration 
+2.1.3 
+Research and 
+development (R&D) 
+and innovation 
+ 
+a) Competitive advantage through innovation 
+b) Incentive to increase market power 
+c) Product and process innovation 
+d) Role of state funding 
+e) Product life cycle and extension strategies 
+2.1.4 
+How the digital 
+economy affects 
+markets and firms 
+ 
+a)  Market information in the digital economy: 
+o price comparison sites 
+o viral marketing 
+o social media 
+b)  The supply-side: 
+o micromarketing 
+o online retailing and online distribution 
+o recruiting and training staff with digital skills 
+c)  The demand-side: 
+o satisfying consumers with the long tail 
+o wider geographical markets 
+d)  Impact on markets and firms: 
+o impact on costs, prices, profit and loss 
+o firm creation and destruction in a new business 
+environment 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+15 
+ 
+Subject content What students need to learn: 
+2.1.5 
+How small firms 
+compete 
+ 
+a) Small-firm survival in competitive markets: 
+o product differentiation and unique selling points 
+(USPs) 
+o flexibility in responding to customer needs 
+o customer service 
+o targeting niche markets 
+o achieving competitive advantage through 
+relationships with stakeholders 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+16 
+2.2 Firms, consumers and elasticities of demand 
+Measuring consumer response to changes in prices and incomes helps firms make 
+price, product and output decisions. 
+ 
+Subject content What students need to learn: 
+2.2.1 
+Price elasticity of 
+demand (PED) 
+ 
+a) The significance of price el asticity of demand to firms  
+(in both niche and mass markets) in terms of 
+implications for pricing 
+b) Calculation of price elasticity of demand 
+c) Interpretation of numerical values of price elasticity of 
+demand 
+d) The factors influencing price elasticity of demand 
+e) The relationship between pr ice elasticity of demand and 
+total revenue 
+2.2.2 
+Competing on price 
+ 
+a) Pricing strategies: 
+o cost plus (calculating mark up on unit cost) 
+o price skimming 
+o penetration 
+o predatory 
+o competitive 
+o psychological 
+b) Factors that determine th e most appropriate pricing 
+strategy for a particular situation: 
+o number of USPs/amount of differentiation 
+o price elasticity of demand 
+o amount of competition 
+o strength of brand 
+o stage in the product life cycle 
+o costs and the need to make a profit 
+c) Changes in pricing to reflec t social trends (online sales 
+and price comparison sites) 
+2.2.3 
+Types of non-price 
+competition 
+ 
+a) The impact of marketin g on the demand curve: 
+ product differentiation 
+ advertising and other promotional methods 
+ distribution methods 
+b) Devising appropriate marketing approaches 
+2.2.4 
+Income elasticity of 
+demand (YED) 
+a) The significance of income elasticity of demand to firms 
+b) Calculation of income elasticity of demand 
+c) Interpretation of numerical values of income elasticity of 
+demand 
+d) The factors influencing income elasticity of demand 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+17 
+2.3 Productive efficiency 
+Firms’ success and living standards in the economy depend on increasing 
+productive efficiency. 
+ 
+Subject content What students need to learn: 
+2.3.1 
+Productivity 
+ 
+a) Productivity (output per unit of input in a given time 
+period): 
+o factors influencing productivity 
+o link between productivity and competitiveness 
+o productivity and wages 
+o productivity and economic growth 
+b) Distinction between labour and capital intensive 
+production 
+2.3.2 
+Capacity utilisation 
+ 
+a) Full capacity and spare capacity 
+b) Capacity utilisation: 
+o current output (divided by) maximum possible output 
+(as a percentage) 
+c) Implications of under- and over-utilisation of capacity 
+d) Ways of improving capacity utilisation 
+2.3.3 
+Efficiency and 
+competitiveness 
+using lean 
+production 
+a) Quality: control, assurance, Total Quality Management 
+(TQM) 
+b) Continuous improvement (Kaizen) 
+c) Just in time (JIT) management of stock 
+d) Competitive advantage from lean production 
+2.3.4 
+Impact on costs and 
+sales revenue 
+ 
+a) Impact on average costs 
+b) Minimising waste of resources 
+c) Competitive advantage of  short product development 
+lead times 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+18 
+2.4 Life in a global economy 
+Globalisation has given firms many new opportunities to trade and to contribute to 
+economic development. 
+ 
+Subject content What students need to learn: 
+2.4.1 
+Globalisation 
+ 
+a) Characteristics of globalisation: 
+o increased investment flows 
+o world trade rising as a proportion of world Gross 
+Domestic Product (GDP) 
+o increased migration 
+b) Factors contributing to glob alisation in the last 50 years: 
+o trade liberalisation 
+o capital market liberalisation 
+o political change resulting in the opening up of China 
+and the former Soviet Union 
+o reduced cost of transport and communications 
+o increased significance of global (transnational) 
+companies 
+2.4.2 
+Developed, 
+emerging and 
+developing 
+economies 
+ 
+a) Growth rate of the UK and BRIC (Brazil, Russia, India 
+and China) economies since 2000 
+b) Indicators of growth: 
+o GDP per capita 
+o literacy 
+o health 
+o Human Development Index (HDI)  
+c) Characteristics of develo ped (mature), emerging and 
+developing economies 
+d) Mean and median incomes 
+2.4.3 
+International trade 
+ 
+a) Specialisation and international trade 
+b) Trading blocs 
+c) Trade and growth 
+d) Imports and exports: visibles and invisibles 
+e) Impact of cheap import s on standards of living 
+2.4.4 
+Exchange rates 
+ 
+a) Changes in exchange rates 
+b) Impact of changing exchange rates on firms 
+c) Interpretation of exchange rate data 
+d) Interpretation of effective exchange rates 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+19 
+2.5 The economic cycle 
+Economic growth rates are constantly changing, creating instability and uncertainty 
+for firms and economic agents. 
+ 
+Subject content What students need to learn: 
+2.5.1 
+The economic cycle 
+ 
+a) Understanding of the economic cycle 
+b) Characteristics of a boom 
+c) Characteristi cs of a recession 
+d) Implications for firms of fluctuations in economic activity 
+2.5.2 
+Circular flow of 
+income, expenditure 
+and output 
+ 
+a) The circular flow of income 
+b) The impact of injections into and withdrawals from the 
+circular flow of income 
+c) Factors influencing AD: co mponents C + I + G + (X-M) 
+d) Factors influencing AS: 
+o changes in the cost of inputs and resources 
+o changes in productivity 
+2.5.3 
+Inflation 
+ 
+a) Inflation, deflat ion and disinflation 
+b) Interpret price indices (RPI and CPI) and the rate of 
+inflation 
+c) Real and nominal values, constant and current prices 
+d) Causes of inflation: 
+o demand pull 
+o cost push 
+e) The impact of inflation on firms: 
+o uncertainty 
+o loss of international competitiveness 
+f) The impact of inflation on individuals: 
+o loss of real income 
+o savers and borrowers 
+2.5.4 
+Employment and 
+unemployment 
+a) Employment, underemployment and unemployment 
+b) Measures of unemployment: 
+o the claimant count 
+o the International Labour Organisation (ILO) measure 
+c) The causes of unemployment: 
+o structural unemployment 
+o occupational immobility 
+o geographical immobility 
+o technological unemployment 
+o demand deficiency and cyclical unemployment 
+d) The impact of unemployme nt on firms and individuals 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+20 
+2.6 Introduction to macroeconomic policy 
+Economic policies focus on stabilisation and standards of living but controversy and 
+debate may influence the outcome. 
+Subject content What students need to learn: 
+2.6.1 
+Possible 
+macroeconomic 
+objectives 
+a) Economic growth 
+b) Low unemployment 
+c) Low and stable rate of inflation 
+d) Balance of payments equilibrium on current account 
+2.6.2 
+Policy instruments 
+ 
+The nature and impact of the following on the economy, 
+firms and economic agents: 
+a) Fiscal policy: 
+o adjusting levels of government spending and 
+taxation to affect aggregate demand 
+b) Monetary policy: 
+o adjusting interest rates to affect aggregate demand 
+c) Supply-side policies: 
+o taxes, benefits, education and training, grants and 
+subsidies infrastructure 
+d) Exchange rate policy: 
+o floating rate 
+2.6.3 
+Potential policy 
+conflicts and 
+trade-offs 
+a) Inflation and unemployment 
+b) Economic growth and negative externalities 
+c) The issues governments fa ce in managing the macro-
+economy 
+d) How different macroecono mic perspectives influence 
+policy decisions 
+e) The likely effects of indivi dual policy instruments on 
+specific problems; possible unintended consequences 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+21 
+Theme 3: The global economy 
+ 
+Overview 
+This theme builds on the content of Theme 2: The wider 
+economic environment and continues its focus on the 
+international economic environment. 
+Students will need to build upon the knowledge, skills and 
+understanding developed in Theme 2 in Theme 3, making 
+connections across these two themes in Paper 2, and across 
+Themes 1, 2, 3 and 4 in Paper 3. Teaching approaches to 
+content must reflect this. 
+Students will need to apply their knowledge and 
+understanding of both familiar and unfamiliar contexts in 
+the assessments, and demonstrate an awareness of current 
+economic events and policies. Students should have 
+knowledge of the UK economy in the last 10 years. 
+Content 
+Students develop their understanding of the meaning of 
+globalisation. They then go on to explore ways in which 
+firms expand into new markets and move to new locations 
+for production, alongside looking at the issues relating to 
+global trade and growth, and the trade policies that shape 
+the global economy. Multinational corporations figure 
+significantly in this theme, along with the study of global 
+labour markets, poverty, inequality and income distribution. 
+Students will apply supply and demand analysis to the 
+labour market as they see how wages are determined and 
+look at other influences on the rewards of labour. 
+Students are encouraged to use an enquiring, critical and 
+thoughtful approach to the study of economics and develop 
+an ability to think as an economist. 
+To develop their skills, knowledge and understanding in 
+economics, students need to have acquired competence in 
+quantitative skills that are relevant to and applied in the 
+context of this theme (see Appendix 3: Quantitative skills). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+22 
+3.1 Globalisation 
+The term ‘globalisation’ describes a range of economic developments that enhance 
+the ability of nations and firms to trade within a rules-based system. 
+ 
+Subject content What students need to learn: 
+3.1.1 
+Growing economies 
+ 
+a) Growing economic power of: 
+o Asia (China and India) 
+o Africa 
+o other emerging markets 
+b) Implications of economic growth for individuals and 
+firms: 
+o trade and rationalisation opportunities for firms 
+o shifting employment patterns 
+c) Rising incomes 
+d) Conversion of nominal to real values 
+e) Calculating and interpreting index numbers 
+3.1.2 
+Trade and growth 
+ 
+a) Increasing trade liberalisation 
+b) The role of specialisation and increasing specialisation by 
+country 
+c) Trade liberalisation and economic growth 
+d) Foreign direct investment (FDI) and link to growth 
+3.1.3 
+Trading blocs 
+ 
+a) Trade creation and trade diversion 
+b) Expansion of trading blocs: 
+o EU and the single market 
+o ASEAN 
+o NAFTA 
+c) Impact on firms of trading blocs 
+d) Growing interdependence 
+3.1.4 
+Trade policy and 
+trade negotiations 
+ 
+a) Protectionism: 
+o tariffs and import quotas (with diagrammatic 
+representation) 
+o other trade barriers 
+o government legislation and domestic subsidies 
+b) International trade negotiations: 
+o role of G20 
+o role of international institutions (World Trade 
+Organisation (WTO), International Monetary Fund 
+(IMF), World Bank) 
+o bilateral trading agreements 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+23 
+ 
+Subject content What students need to learn: 
+3.1.5 
+Exchange rate 
+changes 
+ 
+a) Impact of changes in exchange rates and the possible 
+effects on: 
+o the current account and the balance of payments 
+o economic growth; firms 
+o employment/unemployment 
+o the rate of inflation 
+o FDI flows 
+b) The Eurozone 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+24 
+3.2 Economic factors in business expansion 
+Firms need to be able to assess the relative merits of competing potential locations 
+for market growth and production. 
+ 
+Subject content What students need to learn: 
+3.2.1 
+Conditions that 
+prompt trade 
+ 
+a) Push factors: 
+o saturated markets 
+o competition 
+b) Pull factors: 
+o economies of scale 
+o risk spreading 
+c) Possibility of offs horing and outsourcing 
+d) Extending the product life cycles by selling in multiple 
+markets 
+e) Raising capacity utilisation 
+3.2.2 
+Assessing the 
+potential of different 
+economies 
+ 
+a) Factors influencing expansion into a market: 
+o levels and growth of disposable income 
+o ease of doing business 
+o infrastructure 
+o political stability 
+o exchange rate 
+b) Factors influencing the loca tion of production sites: 
+o costs of production 
+o skills and availability of labour force 
+o infrastructure 
+o location in trade bloc 
+o government incentives 
+o ease of doing business 
+o political stability 
+o natural resources 
+o likely return on investment 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+25 
+3.3 Impact of globalisation on global companies 
+Firms need to understand the differences between consumers in different countries 
+and cultures. 
+ 
+Subject content What students need to learn: 
+3.3.1 
+Responding to 
+global demand 
+ 
+a) Globalisation vs glocalisation 
+b) Different approaches to global markets: 
+o domestic/ethnocentric 
+o mixed/geocentric 
+o international/polycentric 
+c) Price and non-price competition in global markets 
+o adapting marketing strategies for global markets 
+d) Branding and differentiation in global markets 
+3.3.2 
+Demand-side 
+factors in global 
+markets 
+ 
+a) Cultural/social factors: 
+o cultural differences 
+o different tastes 
+b) Information and comm unication factors:  
+o language, unintended meanings, 
+inappropriate/inaccurate translations 
+c) How firms respond to these demand-side factors 
+o adapting marketing strategies for niche and mass 
+markets 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+26 
+3.4 Impact of globalisation on local and national economies 
+Large firms can wield significant market power and can have both positive and 
+negative effects in the countries in which they operate. 
+ 
+Subject content What students need to learn: 
+3.4.1 
+The impact of 
+multinational 
+corporations (MNCs) 
+ 
+a) Impact of MNCs on the local economy: 
+o local labour, wages, working conditions and job 
+creation 
+o local firms 
+o the local community and environment 
+b) Impact of MNCs on the national economy: 
+o economic growth 
+o FDI flows 
+o balance of payments 
+o technology and skills transfer 
+o consumers 
+o business culture 
+o tax revenues and transfer pricing 
+3.4.2 
+Ethical issues 
+ 
+a) Stakeholder conflicts 
+b) Pay and working conditions 
+c) Environmental considerations: 
+o emissions 
+o waste disposal 
+d) Supply chain considerations: 
+o exploitation of labour 
+o child labour 
+e) Marketing considerations: 
+o misleading product labelling 
+o inappropriate promotional activities 
+3.4.3 
+Controlling MNCs 
+ 
+a) Factors to consider: 
+o political influence 
+o legal control 
+o pressure groups 
+o social media 
+b) Self-regulation 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+27 
+3.5 Global labour markets 
+Globalisation has opened up labour markets, giving firms access to a greater 
+number of potential employees. Production has sometimes moved to where labour 
+is cheaper and this has had an impact on both pay and job opportunities. 
+ 
+Subject content What students need to learn: 
+3.5.1 
+Employment 
+patterns 
+a) Growth of the global labour force 
+b) Structural change 
+c) Interdependence of labour markets 
+3.5.2 
+Wage rates 
+ 
+a) Factors that influence th e supply of and demand for 
+labour 
+b) The importance of skills, training and education 
+c) Impact of global co mpetition, recession and 
+redundancies 
+d) Impact of trade unions and professional bodies 
+3.5.3 
+Minimum wage 
+legislation 
+ 
+a) Minimum wages in developi ng and developed countries 
+b) Skill shortages and their impact on international 
+competitiveness 
+c) Migration: 
+o within economies 
+o between economies 
+d) Inequality and incentives 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+28 
+3.6 Inequality and re-distribution 
+Globalisation has helped to reduce the number of people living in absolute poverty 
+and has had an impact on inequality between and within nations. 
+ 
+Subject content What students need to learn: 
+3.6.1 
+Poverty and 
+inequality 
+ 
+a) Absolute and relative poverty 
+b) Measures of poverty: 
+o national measures 
+o international measures 
+c) Measures of inequality: 
+o Gini coefficient 
+o Lorenz curve (diagrammatic analysis) 
+3.6.2 
+Reducing poverty 
+a) Economic development and economic growth 
+b) International aid and improvements in welfare; non-
+governmental organisations (NGOs) 
+c) Poverty reduction policies 
+3.6.3 
+The impact of 
+inequality on 
+economic agents 
+a) On individuals 
+b) On firms: connections between low income and low 
+productivity 
+c) On the economy 
+3.6.4 
+Re-distribution of 
+income and wealth 
+a) The distinction betw een income and wealth 
+b) Incentives and the poverty trap 
+c) Taxation and the provision of services 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+29 
+Theme 4: Making markets work 
+ 
+Overview 
+This theme starts by considering degrees of competition 
+within markets and then encourages students to apply their 
+understanding to how governments may improve the 
+functioning of markets and the economy. 
+Students will need to build upon the knowledge, skills and 
+understanding developed in Theme 1 in Theme 4, making 
+connections across these two themes in Paper 1, and across 
+Themes 1, 2, 3 and 4 in Paper 3. Teaching approaches to 
+content must reflect this. 
+Students will need to apply their knowledge and 
+understanding of both familiar and unfamiliar contexts in 
+the assessments, and demonstrate an awareness of current 
+economic events and policies. Students should have 
+knowledge of the UK economy in the last 10 years. 
+Content 
+Students will investigate competition and market power in 
+this theme, as well as other aspects of market failure, 
+covered in greater depth from Theme 1: Markets, 
+consumers and firms. The focus on regulation opens up the 
+range of measures that can be used to prevent firms from 
+using their market power in ways that are detrimental to 
+the interests of society as a whole. 
+In-depth coverage of macroeconomic policy and the role of 
+the financial markets allows students to explore the 
+significant problems that have developed in recent years 
+without needing technical understanding of the financial 
+system. 
+Students are encouraged to use an enquiring, critical and 
+thoughtful approach to the study of economics and develop 
+an ability to think as an economist. 
+To develop their skills, knowledge and understanding in 
+economics, students need to have acquired competence in 
+quantitative skills that are relevant to and applied in the 
+context of this theme (see Appendix 3: Quantitative skills). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+30 
+4.1 Competition and market power 
+Firms operate in markets with varying degrees of competition and this affects their 
+decisions and the way in which resources are used. 
+ 
+Subject content What students need to learn:  
+4.1.1 
+Spectrum of 
+competition 
+ 
+a) Characteristics of monopoly, oligopoly, imperfect and 
+perfect competition 
+b) How the model of perfect competition helps to explain 
+how markets work 
+c) The impact of market struct ure on pricing strategies and 
+consumers 
+d) Non-price competition 
+e) The limitations of the model of perfect competition 
+4.1.2 
+Barriers to entry 
+a) Contestability and ease of entry 
+b) Barriers to entry: 
+o product differentiation 
+o branding 
+o start-up costs 
+o intellectual property rights 
+o R&D and technology change 
+c) The impact of barriers to  entry on market structure 
+d) Economies of scale and their impact on cost and price 
+4.1.3 
+Oligopoly 
+ 
+a) Concentration ratios 
+b) Competition in an oligopoly; interdependence and price 
+stability 
+c) Tacit agreement 
+d) Price discrimination 
+4.1.4 
+Business objectives 
+and pricing 
+decisions 
+ 
+a) Calculate average cost, average revenue and profit 
+b) Calculate marginal co st and marginal revenue 
+c) Link between marginal  cost and revenue and 
+contribution 
+d) The impact of objective s on pricing strategies 
+4.1.5 
+Productive and 
+allocative efficiency 
+ 
+a) The distinction between allocative efficiency and 
+productive efficiency 
+b) The significance of the ma rgin; opportunity costs, trade-
+offs and allocative efficiency 
+c) Increasing productivity to  reduce average cost through 
+greater efficiency by improving: 
+o technology 
+o human capital (skills training and education) 
+o the quality of management 
+d) Matching the structure of production to the pattern of 
+consumer preferences (market orientation) 
+e) How markets interact with one another 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+31 
+4.2 Market power and market failure 
+Firms do not always behave in a way that benefits all economic agents and 
+governments may intervene to regulate the power these firms have. 
+ 
+Subject content What students need to learn: 
+4.2.1 
+Market failure 
+ 
+a) Significance of market power: 
+o cartels, collusion, restrictive practices and tacit 
+agreement 
+o monopsony power 
+o natural monopolies 
+o power in the labour market 
+b) The implications of market failure in the business world 
+for economic agents and governments 
+4.2.2 
+Business regulation 
+ 
+a) Promoting competition through: 
+o preventing anti-competitive practices 
+o controlling mergers and takeovers 
+o privatisation 
+b) Regulating natural monopolies 
+c) Protecting consumers 
+d) The work of the Compet ition and Markets Authority 
+e) Impact of EU competition policy 
+f) Employee protection 
+4.2.3 
+Arguments for and 
+against regulation 
+a) The benefits of regulation 
+b) The costs of regulation 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+32 
+4.3 Market failure across the economy 
+Markets may not produce outcomes that are always considered socially desirable. 
+This may prompt governments to intervene in an attempt to change the outcomes. 
+ 
+Subject content What students need to learn: 
+4.3.1 
+Market failure in 
+society 
+ 
+a) The consequences of under-provision and under-
+consumption of merit and other goods and services 
+b) Positive and nega tive externalities 
+c) Over-consumption of demerit goods 
+d) Factor immobility (occu pational and geographical) 
+e) Imperfect and asymmetric information 
+f) Consequences of environmental change 
+4.3.2 
+Externalities 
+ 
+a) Private, external and social costs and benefits 
+b) The impact on society of charging prices that do not 
+reflect total internal and external costs 
+c) Environmental externalities 
+4.3.3 
+Policies to deal with 
+market failure 
+ 
+a) The provision of public and merit goods, indirect taxation 
+of demerit goods, tradable pollution permits, provision of 
+information, legislation and regulation 
+b) The impact of these po licies on the economy and 
+society, long- and short-term 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+33 
+4.4 Macroeconomic policies and impact on firms and individuals 
+Economic fluctuations may well affect the fortunes of firms and individuals, and this 
+encourages a demand for policies that reduce harm and promote wellbeing. 
+ 
+Subject content What students need to learn: 
+4.4.1 
+The AD/AS model 
+ 
+a) Changes in Aggregate Demand (AD) 
+b) Changes in Aggregate Supply (AS) 
+c) Full capacity output 
+d) Impact of changes in AD and/or AS on inflation and 
+unemployment 
+e) The multiplier effect 
+f) How the AS/AD model sheds light on the economy as a 
+whole 
+4.4.2 
+Demand-side 
+policies 
+ 
+a) Distinction between monetary and fiscal policy 
+o fiscal policy: government spending and taxation 
+(direct and indirect) 
+o monetary policy: the role of the Bank of England and 
+the Bank of England's Monetary Policy Committee 
+o interest rates 
+o asset purchases to increase the money supply 
+(quantitative easing) 
+b) The impact of changing th e level of AD on the economy 
+as a whole 
+c) The use of AD/AS diagrams to illustrate demand-side 
+policies 
+d) How investment, job creati on and economic growth can 
+be encouraged 
+e) How inflation and unemployment can be controlled 
+f) Time lags involved 
+g) Strengths and weaknesses of demand-side policies 
+h) Potential policy conflicts and trade-offs facing policy-
+makers when applying policies 
+4.4.3 
+Supply-side policies 
+ 
+a) Distinction between market -based and interventionist 
+methods 
+b) Market-based and inte rventionist policies to: 
+o increase incentives 
+o promote competition 
+o reform the labour market 
+o improve the skills and quality of the labour force 
+o improve the infrastructure 
+c) The use of AD/AS diagrams to illustrate supply-side 
+policies 
+d) Strengths and weaknesses of supply-side policies 
+e) Potential policy conflicts and trade offs facing 
+policy-makers when applying policies 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+34 
+ 
+Subject content What students need to learn: 
+4.4.4 
+The impact of 
+macroeconomic 
+policies 
+a) The possible impact of  macroeconomic policies 
+b) Comparing alternative approaches 
+c) Identifying criteria for success and evaluating 
+effectiveness 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+35 
+4.5 Risk and the financial sector 
+Firms and individuals require access to credit to meet their respective needs.  
+The financial sector provides a system that facilitates growth and development; 
+economic policies regulate that system in the hope of ensuring stability. 
+ 
+Subject content What students need to learn: 
+4.5.1 
+Risks and 
+uncertainty 
+a) The difference between  risk and uncertainty 
+b) The impact of shocks 
+c) Exchange rate risk  and forward markets 
+d) The role of insurance in business 
+4.5.2 
+The role of the 
+financial sector 
+ 
+a) To mobilise savings for le nding to firms and individuals 
+b) To lend to business for investment in working capital 
+c) To lend to individuals 
+d) To facilitate the exchange of goods and services 
+e) To assess creditor risk 
+f) To provide forward ma rkets in currencies and 
+commodities 
+g) To provide a market for equities 
+4.5.3 
+The role of the 
+central bank 
+ 
+a) The role of the Monetary Policy Committee in setting the 
+official interest (base) rate 
+b) The implementation of monetary policy to control 
+inflation 
+c) Regulation of the bank ing industry: the Bank of 
+England’s Financial Policy Committee 
+d) Banker to the banks – lender of last resort 
+4.5.4 
+The Global Financial 
+Crisis 
+ 
+a) Contributing factors: 
+o sub-prime mortgages 
+o moral hazard (too big to fail) 
+o collapse of lending to businesses 
+o speculation and market bubbles 
+o the role of organisational culture 
+b) The role of banking regulation 
+c) The impact of the financia l sector on economic agents 
+and governments 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+36 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+37 
+Assessment 
+Assessment summary 
+ 
+Students must complete all assessment in May/June in any single year. 
+ 
+Paper 1: Markets and how they work *Paper code: 9EB0/01 
+ 
+35% of the 
+total 
+qualification 
+● Each question is set in a context, drawing on topics from across 
+Themes 1 and 4. 
+● Students answer all questions from all sections. 
+● Section A comprises one data response question broken down 
+into a number of parts. 
+● Section B and Section C each comprise one extended  
+open-response question based on data. 
+● First assessment: May/June 2017. 
+● The assessment is 2 hours. 
+● The assessment comprises 3 questions. 
+● The assessment comprises 100 marks. 
+ 
+ 
+ 
+Paper 2: Competing in the global economy  *Paper code: 9EB0/02 
+ 
+35% of the 
+total 
+qualification 
+● Each question is set in a context, drawing on topics from across 
+Themes 2 and 3. 
+● Students answer all questions from all sections. 
+● Section A comprises one data response question broken down 
+into a number of parts. 
+● Section B and Section C each comprise one extended  
+open-response question based on data. 
+● First assessment: May/June 2017. 
+● The assessment is 2 hours. 
+● The assessment comprises 3 questions. 
+● The assessment comprises 100 marks. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+38 
+ 
+Paper 3: The economic environment and business *Paper code: 9EB0/03  
+ 
+30% of the 
+total 
+qualification 
+● Section A will focus on the broad context provided in the  
+pre-released document issued on our website in November of 
+the previous year. Section B will focus on at least one strand 
+within the context provided. 
+● Each section will contain unseen stimulus materials comprising 
+quantitative and qualitative evidence. Students are required to 
+apply their knowledge and understanding from Themes 1, 2, 3 
+and 4, and their understanding of the broad context to this 
+evidence. 
+● Questions in Sections A and B are each broken down into a 
+number of parts, including one extended open-response 
+question. 
+● Students cannot take any of their research or investigation 
+data carried out as part of the pre-release into the examination. 
+● First assessment: May/June 2017. 
+● The assessment is 2 hours. 
+● The assessment comprises 2 questions. 
+● The assessment comprises 100 marks. 
+ 
+ 
+The sample assessment materials can be found in the Pearson Edexcel Level 3 
+Advanced GCE in Economics B Sample Assessment Materials document. 
+ 
+*See Appendix 5: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+39 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Demonstrate knowledge of terms/concepts and 
+theories/models to show an understanding of the behaviour of 
+economic agents and how they are affected by and respond to 
+economic issues 
+20-22 
+AO2 Apply knowledge and understanding to various economic 
+contexts to show how economic agents are affected by and 
+respond to economic issues 
+22-24 
+AO3 Analyse issues within economics, showing an understanding 
+of their impact on economic agents 28-30 
+AO4 Evaluate economic arguments and use qualitative and 
+quantitative evidence to support informed judgements 
+relating to economic issues 
+26-28 
+Total 100% 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+40 
+Breakdown of Assessment Objectives 
+ 
+ Assessment Objectives 
+Paper AO1 AO2 AO3 AO4 
+Total for all 
+Assessment 
+Objectives 
+Paper 1: Markets and how they work 6–8% 7–9% 9–11% 8–10% 35% 
+Paper 2: Competing in the global economy 6–8% 7–9% 9–11% 8–10% 35% 
+Paper 3: The economic environment and business 6–8% 7–9% 9–11% 8–10% 30% 
+Total for this qualification 20–22% 22–24% 28%–30% 26–28% 100% 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+41 
+Entry and assessment information 
+Student entry 
+Details of how to enter students for the examinations for 
+this qualification can be found in our UK Information 
+Manual. A copy is made available to all examinations 
+officers and is available on our website at: 
+www.edexcel.com/iwantto/Pages/uk-information-
+manual.aspx 
+Forbidden combinations and discount code 
+Centres should be aware that students who enter for more 
+than one GCE qualification with the same discount code will 
+have only one of the grades they achieve counted for the 
+purpose of the School and College Performance Tables – 
+normally the better grade (please see Appendix 5: Codes). 
+Students should be advised that, if they take two 
+qualifications with the same discount code, colleges, 
+universities and employers are very likely to take the view 
+that they have achieved only one of the two GCEs. The 
+same view may be taken if students take two GCE 
+qualifications that have different discount codes but have 
+significant overlap of content, for example Advanced or 
+Advanced Subsidiary GCEs in Business. Students or their 
+advisers who have any doubts about their subject 
+combinations should check with the institution to which 
+they wish to progress before embarking on their 
+programmes. 
+This qualification is a forbidden combination with Advanced 
+Subsidiary GCE in Economics A or Advanced GCE in 
+Economics A qualifications. 
+Access arrangements, reasonable adjustments and 
+special consideration 
+Access arrangements 
+Access arrangements are agreed before an assessment. 
+They allow students with special educational needs, 
+disabilities or temporary injuries to: 
+● access the assessment 
+● show what they know and can do without changing the 
+demands of the assessment. 
+The intention behind an access arrangement is to meet the 
+particular needs of an individual disabled student without 
+affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding 
+bodies comply with the duty under the Equality Act 2010 to 
+make ‘reasonable adjustments’. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+42 
+Access arrangements should always be processed at the 
+start of the course. Students will then know what is 
+available and have the access arrangement(s) in place for 
+assessment.  
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to 
+make reasonable adjustments where a person with a 
+disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is 
+required to take reasonable steps to overcome that 
+disadvantage. 
+A reasonable adjustment for a particular person may be 
+unique to that individual and therefore might not be in the 
+list of available access arrangements. 
+Whether an adjustment will be considered reasonable will 
+depend on a number of factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with 
+the disability and other students. 
+An adjustment will not be approved if it involves 
+unreasonable costs to the awarding organisation, 
+timeframes or affects the security or integrity of the 
+assessment. This is because the adjustment is not 
+‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a 
+student's mark or grade to reflect temporary injury, illness 
+or other indisposition at the time of the 
+examination/assessment, which has had, or is reasonably 
+likely to have had, a material effect on a candidate’s ability 
+to take an assessment or demonstrate his or her level of 
+attainment in an assessment. 
+Further information 
+Please see our website for further information about how to 
+apply for access arrangements and special consideration. 
+For further information about access arrangements, 
+reasonable adjustments and special consideration, please 
+refer to the JCQ website: www.jcq.org.uk. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+43 
+Equality Act 2010 and Pearson equality policy 
+Equality and fairness are central to our work. Our equality 
+policy requires all students to have equal opportunity to 
+access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every 
+student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by 
+the Equality Act 2010) are not, when they are 
+undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that 
+characteristic 
+● all students achieve the recognition they deserve for 
+undertaking a qualification and that this achievement 
+can be compared fairly to the achievement of their 
+peers. 
+You can find details on how to make adjustments for 
+students with protected characteristics in the policy 
+document Access Arrangements, Reasonable Adjustments 
+and Special Considerations, which is on our website, 
+www.edexcel.com/Policies. 
+Synoptic assessment 
+Synoptic assessment requires students to work across 
+different parts of a qualification and to show their 
+accumulated knowledge and understanding of a topic or 
+subject area. 
+Synoptic assessment enables students to show their ability 
+to combine their skills, knowledge and understanding with 
+breadth and depth of the subject. 
+In this qualification, synoptic assessment can be found in 
+Paper 3: The economic environment and business. 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to 
+comply with the requirements of the current Code of 
+Practice, published by the Office of Qualifications and 
+Examinations Regulation (Ofqual). 
+The Advanced GCE qualification will be graded and 
+certificated on a six-grade scale from A* to E using the total 
+subject mark. Individual papers are not graded. 
+The first certification opportunity for the Pearson Edexcel 
+Level 3 Advanced GCE in Economics B will be 2017. 
+Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be 
+recorded on a certificate will receive an unclassified U 
+result. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+44 
+Language of assessment 
+Assessment of this qualification will be available in English. 
+All student work must be in English. 
+Grade descriptions 
+The grade descriptions for this qualification are published by 
+Ofqual and will be available on its website. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+45 
+Other information 
+Student recruitment 
+Pearson follows the JCQ policy concerning recruitment to 
+our qualifications in that: 
+● they must be available to anyone who is capable of 
+reaching the required standard 
+● they must be free from barriers that restrict access and 
+progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this 
+qualification. 
+Progression 
+Students will develop transferable skills that support study 
+in a wide range of subjects at university and the transition 
+to employment, including quantitative and analytical 
+analysis, forming and testing hypotheses, and commercial 
+awareness. The development and application of quantitative 
+skills prepare students for study of economics and related 
+courses at university. 
+Students can progress from this qualification to: 
+● higher education courses such as economics degrees 
+with a focus on theory, or degrees in applied economics 
+such as environmental economics, labour economics, 
+public sector economics or monetary economics. 
+Alternatively, students may choose to study a business 
+economics, mathematical economics or business degree 
+● a wide range of careers ranging from finance, banking, 
+insurance, accountancy, management and consultancy, 
+to becoming professional economists. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+46 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+47 
+ 
+Appendices 
+Appendix 1: Transferable skills 49 
+Appendix 2: Level 3 Extended Project qualification 51 
+Appendix 3: Quantitative skills 55 
+Appendix 4: Accounting ratios 57 
+Appendix 5: Codes 59 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+48 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+49 
+Appendix 1: Transferable skills 
+ 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines 
+skills, or competencies, as ‘the bundle of knowledge, attributes and capacities that 
+can be learned and that enable individuals to successfully and consistently perform 
+an activity or task and can be built upon and extended through learning.’1 
+To support the design of our qualifications, the Pearson Research Team selected 
+and evaluated seven global 21st-century skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the 
+most evidence-based and robust skills framework. We adapted the framework 
+slightly to include the Program for International Student Assessment (PISA) ICT 
+Literacy and Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves:2 
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and 
+communicate3. 
+Interpersonal skills 
+● Communication – active listening, oral communication, written 
+communication, assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, 
+service orientation, self-presentation, social influence, conflict resolution and 
+negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+                                         
+ 
+1 OECD (2012), Better Skills, Better Jobs, Better Lives (2012): 
+http://skills.oecd.org/documents/OECDSkillsStrategyFINALENG.pdf 
+2 Koenig, J. A. (2011) Assessing 21st Century Skills: Summary of a Workshop, National Research 
+Council 
+3 PISA (2011) The PISA Framework for Assessment of ICT Literacy, PISA 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+50 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher 
+education, as well as the demands of the workplace, and are important in the 
+teaching and learning of this qualification. We will provide teaching and learning 
+materials, developed with stakeholders, to support our qualifications. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+51 
+Appendix 2: Level 3 Extended Project 
+qualification 
+ 
+What is the Extended Project? 
+● The Extended Project is a standalone qualification that can be taken alongside 
+GCEs. It supports the development of independent learning skills and helps to 
+prepare students for their next step – whether that be university study or 
+employment. The qualification: 
+● is recognised by universities for the skills it develops 
+● is worth half of an Advanced GCE qualification at grades A*–E 
+● carries UCAS points for university entry. 
+The Extended Project encourages students to develop skills in the following areas: 
+research, critical thinking, extended writing and project management. Students 
+identify and agree a topic area of their choice (which may or may not be related to 
+a GCE subject they are already studying), guided by their teacher. 
+Students can choose from one of four approaches to produce: 
+● a dissertation (for example an investigation based on predominately secondary 
+research) 
+● an investigation/field study (for example a practical experiment) 
+● a performance (for example in music, drama or sport) 
+● an artefact (for example a creating a sculpture in response to a client brief or 
+solving an engineering problem). 
+The qualification is coursework based and students are assessed on the skills of 
+managing, planning and evaluating their project. Students will research their topic, 
+develop skills to review and evaluate the information, and then present the final 
+outcome of their project. 
+Students: what they need to do 
+The Extended Project qualification requires students to: 
+● select a topic of interest for an in-depth study and negotiate the scope of the 
+project with their teacher 
+● identify and draft an objective for their project (for example in the form of a 
+question, hypothesis, challenge, outline of proposed performance, issue to be 
+investigated or commission for a client) and provide a rationale for their choice 
+● produce a plan for how they will deliver their intended objective 
+● conduct research as required by the project brief, using appropriate techniques 
+● carry out the project using tools and techniques safely 
+● share the outcome of the project using appropriate communication methods, 
+including a presentation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+52 
+Teachers: key information 
+● The Extended Project has 120 guided learning hours (GLH) consisting of: 
+o a 40-GLH taught element that includes teaching the technical skills (for 
+example research skills) 
+o an 80-GLH guided element that includes mentoring students through the 
+project work. 
+● Group work is acceptable, however it is important that each student provides 
+evidence of their own contribution and produces their own report. 
+● 100% externally moderated. 
+● Four Assessment Objectives: manage, use resources, develop and realise, 
+review. 
+● Can be run over 1, 1½ or 2 years. 
+● Can be submitted in January or June. 
+What is the Extended Project for Economics? 
+The Extended Project creates the opportunity to develop transferable skills for 
+progression to higher education and to the workplace, through the exploration of 
+either an area of personal interest or a topic of interest within the Economics 
+qualification content. Through the study of this Economics qualification, students 
+will develop knowledge and understanding of economic concepts and issues; apply 
+these concepts and issues to-real world contexts; then analyse and evaluate these 
+concepts and issues. 
+Skills developed 
+Through the Extended Project students will develop skills in: 
+● conducting, organising and using research 
+● independent reading in the subject area 
+● planning, project management and time management 
+● defining a hypothesis to be tested in investigations or developing a design brief 
+● collecting, handling and interpreting data and evidence 
+● evaluating arguments and processes, including arguments in favour of 
+alternative interpretations of data and evaluation of experimental methodology 
+● critical thinking. 
+In the context of the Extended Project, critical thinking refers to the ability to 
+identify and develop arguments for a point of view or hypothesis and to consider 
+and respond to alternative arguments. This supports the development of evaluative 
+skills, through evaluating economic arguments, and using qualitative and 
+quantitative evidence to support informed judgements relating to economic issues. 
+The Extended Project is an ideal vehicle to develop the skills identified in 
+Appendix 1. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+53 
+Types of Extended Project 
+Students may choose a university-style dissertation on any topic that can be 
+researched and argued, for example: 
+● a controversial economic issue such as UK membership of the EU 
+● High Speed rail (HS2) 
+● the government’s role in reducing pollution. 
+A dissertation might involve an investigation such as: 
+● Is fair trade actually fair? 
+● Does income inequality help or harm economic growth? 
+● Taxing wealth is less harmful than taxing income or spending. 
+The dissertation uses secondary research sources to provide a reasoned defence or 
+a point of view, with consider of counter arguments. 
+An alternative might be an investigative project or field study involving the 
+collection of data from primary research, for example: 
+● a study of the impact of unemployment on the local community 
+● a statistical survey of attitudes concerning a social issue such as alcohol or drug 
+use. 
+A field study might consider an issue which lends itself to primary research, for 
+example: 
+● the impact of peer pressure on teenage mobile phone purchasing 
+● an investigation into whether teenage binge drinking is a supply-side not a 
+demand-side problem. 
+Using the Extended Project to support breadth and depth 
+There is no specified material that students are expected to study and, in the 
+Extended Project, students are assessed on the quality of the work they produce 
+and the skills they develop and demonstrate through completing this work. 
+Students can use the Extended Project to demonstrate extension in one or more 
+dimensions: 
+● deepening understanding: where a student explores a topic in greater depth 
+than in the specification content 
+● broadening skills: where a student learns a new skill. This might be learning 
+how to design a website or learning a new statistical technique which can be 
+used in the analysis of either primary or secondary data collected by the student 
+● widening perspectives: where the student’s project spans different subjects. 
+A student studying Economics with History may wish to research the influence 
+of an economic thinker such as Keynes or Hayek. A student studying Economics 
+with Geography may wish to research the economic development of a particular 
+country or the impact of an industry on the landscape. A student studying 
+Economics with Mathematics may wish to use statistical techniques to analyse 
+macroeconomic data and research one aspect of the economy in more detail. A 
+student studying Economics with Psychology may wish to conduct an 
+experiment into economic behaviour. 
+A wide range of information to support the delivery and assessment of the 
+Extended Project, including the specification, teacher guidance for all aspects, 
+editable scheme of work and exemplars for all four approaches, can be found on 
+our website www.edexcel.com/project 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+54 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+55 
+ 
+Appendix 3: Quantitative skills 
+ 
+This appendix is taken from the DfE Subject Content for Economics. 
+Throughout the course of study, students will develop competence in the 
+quantitative skills listed below. There are opportunities for students to develop 
+these skills throughout the content and they are required to apply the skills to 
+relevant economic contexts. 
+The assessment of quantitative skills will include at least Level 2 mathematical skills 
+and constitute a minimum of 20% of the overall marks for this qualification. 
+ 
+Quantitative 
+skill number 
+Quantitative skill 
+QS 1 calculate, use and understand ratios and fractions 
+QS 2 calculate, use and understand percentages, percentage changes 
+and percentage point changes 
+QS 3 understand and use the terms mean, median and relevant 
+quantiles 
+QS 4 construct and interpret a range of standard graphical forms 
+QS 5 calculate and interpret index numbers 
+QS 6 calculate cost, revenue and profit (marginal, average, totals) 
+QS 7 make calculations to convert from money to real terms 
+QS 8 make calculations of elasticity and interpret the result 
+QS 9 interpret, apply and analyse information in written, graphical 
+tabular and numerical forms 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+56 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+57 
+Appendix 4: Accounting ratios 
+ 
+Students will need to learn the following accounting ratios for this qualification. 
+ 
+Statement of comprehensive income 
+ 
+ Ratio name Ratio formula 
+Revenue 
+– Cost of sales 
+= Gross profit 
+Gross profit 
+margin 
+Gross Profit x 100% 
+Revenue 
+– Other operating 
+expenses 
+= Operating profit 
+Operating profit 
+margin 
+Operating Profit x 100% 
+Revenue 
+– Interest 
+= Profit for the 
+year (net profit) 
+Profit for the year 
+(net profit) margin 
+Profit for the year (net profit) x 100% 
+Revenue 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+58 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Economics B 
+Specification – Issue 1 – September 2014 © Pearson Education Limited 2014 
+59 
+Appendix 5: Codes 
+ 
+Type of code Use of code Code number 
+Discount codes Every qualific ation is assigned to a 
+discount code indicating the subject 
+area to which it belongs. This code 
+may change. Please go to our website 
+(www.edexcel.com) for details of any 
+changes. 
+4410 
+National 
+Qualifications 
+Framework (NQF) 
+codes 
+Each qualification title is allocated an 
+Ofqual National Qualifications 
+Framework (NQF) code. 
+The NQF code is known as a 
+Qualification Number (QN). This is the 
+code that features in the DfE Section 
+96 and on the LARA as being eligible 
+for 16–18 and 19+ funding, and is to 
+be used for all qualification funding 
+purposes. The QN is the number that 
+will appear on the student’s final 
+certification documentation. 
+The QN for the 
+qualification in this 
+publication is: 
+Advanced GCE – 
+601/4767/2 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. 
+Centres will need to use the entry 
+codes only when claiming students’ 
+qualifications. 
+GCE – 9EB0 
+Paper code These codes are provided for 
+reference purposes. Students do not 
+need to be entered for individual 
+papers. 
+Paper 1: 9EB0/01 
+Paper 2: 9EB0/02 
+Paper 3: 9EB0/03 
+ 
+ 
+ 
+ 
+sb090914 G:\LT\PD\GCE 2015\9781446914410_GCE2015_A_EcoB\9781446914410_GCE2015_A_EcoB.Doc.1–70/1 
+For more information about Edexcel or BTEC qualifications from 
+Pearson, visit www.edexcel.com or www.btec.co.uk
+Edexcel is a registered trademark of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office: Edinburgh Gate, Harlow, Essex CM20 2JE 
+VAT Reg No GB 278 537121

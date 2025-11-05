@@ -1,0 +1,48 @@
+{
+  "started": "2025-11-05 00:23:33",
+  "subjects": [
+    {
+      "name": "Arabic",
+      "code": "9AA0",
+      "topics": {
+        "success": false,
+        "error": ",encoding_table)[0]\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'charmap' codec can't encode character '\\u2705' in position 0: character maps to <undefined>\n"
+      },
+      "papers": {
+        "success": false,
+        "error": ",encoding_table)[0]\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'charmap' codec can't encode character '\\u274c' in position 2: character maps to <undefined>\n"
+      }
+    },
+    {
+      "name": "Art and Design",
+      "code": "9AD0",
+      "topics": {
+        "success": false,
+        "error": ",encoding_table)[0]\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'charmap' codec can't encode character '\\u2705' in position 0: character maps to <undefined>\n"
+      },
+      "papers": {
+        "success": false,
+        "error": ",encoding_table)[0]\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'charmap' codec can't encode character '\\u274c' in position 2: character maps to <undefined>\n"
+      }
+    },
+    {
+      "name": "Biology B",
+      "code": "9BI0",
+      "topics": {
+        "success": false,
+        "error": ",encoding_table)[0]\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'charmap' codec can't encode character '\\u2705' in position 0: character maps to <undefined>\n"
+      },
+      "papers": {
+        "success": false,
+        "error": ",encoding_table)[0]\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'charmap' codec can't encode character '\\u274c' in position 2: character maps to <undefined>\n"
+      }
+    }
+  ],
+  "summary": {
+    "topics_failed": 3,
+    "papers_failed": 3,
+    "topics_success": 0,
+    "papers_success": 0
+  },
+  "completed": "2025-11-05 00:23:43"
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "name": "History",
+    "code": "9HI0",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A-Level/History/2015/Specification-and-sample-assessments/9781446914366-gce-2015-a-hist.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/history-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "complex",
+    "status": "complete"
+  },
+  {
+    "name": "Biology A (Salters-Nuffield)",
+    "code": "9BN0",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A-Level/biology-a/2015/specification-and-sample-assessment-materials/9781446930885-gce2015-a-bioa-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/biology-a-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "complete"
+  },
+  {
+    "name": "Biology B",
+    "code": "9BI0",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A-Level/biology-b/2015/specification-and-sample-assessment-materials/9781446930892-gce2015-a-biob-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/biology-b-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "Chemistry",
+    "code": "9CH0",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A-Level/Chemistry/2015/specification-and-sample-assessments/9781446914373-gce-2015-a-chem.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/chemistry-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "Physics",
+    "code": "9PH0",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A-Level/Physics/2015/specification-and-sample-assessments/9781446914380-gce-2015-a-phys.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/physics-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "Mathematics",
+    "code": "9MA0",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A-Level/Mathematics/2017/specification-and-sample-assessments/9781446914410-gce-2017-a-math.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/mathematics-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "English Literature",
+    "code": "9ET0",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A-Level/English-Literature/2015/specification-and-sample-assessments/9781446914397-gce-2015-a-englit.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-literature-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "Geography",
+    "code": "9GE0",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A-Level/Geography/2016/specification-and-sample-assessments/9781446914403-gce-2016-a-geog.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/geography-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "Psychology",
+    "code": "9PS0",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A-Level/Psychology/2015/specification-and-sample-assessments/Pearson-Edexcel-Level-3-Advanced-GCE-in-Psychology-9PS0.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/psychology-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  }
+]
+

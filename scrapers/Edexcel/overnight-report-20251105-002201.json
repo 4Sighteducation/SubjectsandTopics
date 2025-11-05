@@ -1,0 +1,48 @@
+{
+  "started": "2025-11-05 00:22:01",
+  "subjects": [
+    {
+      "name": "Arabic",
+      "code": "9AA0",
+      "topics": {
+        "success": false,
+        "error": "'charmap' codec can't decode byte 0x9d in position 580: character maps to <undefined>"
+      },
+      "papers": {
+        "success": false,
+        "error": "'charmap' codec can't decode byte 0x90 in position 1460: character maps to <undefined>"
+      }
+    },
+    {
+      "name": "Art and Design",
+      "code": "9AD0",
+      "topics": {
+        "success": false,
+        "error": "'charmap' codec can't decode byte 0x9d in position 580: character maps to <undefined>"
+      },
+      "papers": {
+        "success": false,
+        "error": "'charmap' codec can't decode byte 0x90 in position 1460: character maps to <undefined>"
+      }
+    },
+    {
+      "name": "Biology B",
+      "code": "9BI0",
+      "topics": {
+        "success": false,
+        "error": "'charmap' codec can't decode byte 0x9d in position 580: character maps to <undefined>"
+      },
+      "papers": {
+        "success": false,
+        "error": "'charmap' codec can't decode byte 0x90 in position 1460: character maps to <undefined>"
+      }
+    }
+  ],
+  "summary": {
+    "topics_failed": 3,
+    "papers_failed": 3,
+    "topics_success": 0,
+    "papers_success": 0
+  },
+  "completed": "2025-11-05 00:22:01"
+}

@@ -1,0 +1,2878 @@
+ 
+ 
+ 
+ 
+ 
+ 
+A Level 
+English 
+Literature 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Specification  
+Pearson Edexcel Level 3 Advanced GCE in English Literature (9ET0) 
+First teaching from September 2015 
+First certification from 2017 Issue 11 
+
+About Pearson 
+We are the world’s leading learning company operating in countries all around the 
+world. We provide content, assessment and digital services to learners, educational 
+institutions, employers, governments and other partners globally. We are 
+committed to helping equip learners with the skills they need to enhance their 
+employability prospects and to succeed in the changing world of work. We believe 
+that wherever learning flourishes so do people. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party materials made in this specification are made in good 
+faith. Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Materials may include textbooks, journals, magazines and other publications and 
+websites.) 
+All information in this specification is correct at time of publication. 
+ 
+ 
+Original origami artwork: Mark Bolitho 
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ 
+ISBN 978 1 446 94481 3 
+All the material in this publication is copyright 
+© Pearson Education Limited 2025 
+ 
+Summary of Pearson Edexcel Level 3 Advanced GCE in 
+English Literature specification Issue 11 changes 
+ 
+ 
+Summary of changes made between previous issue and this current 
+issue 
+Page 
+number 
+Non-examination assessment authentication sheet 
+This has been updated to reflect changes in texts for Prose and Drama. 
+49–51 
+We have amended wording regarding the comedy and tragedy genres for the 
+plays in Paper 1, to support clarification of these labels referring to 
+Shakespeare plays only. 
+ 1,6,12 
+ 
+If you need further information on these changes or what they mean, contact 
+us via our website at: qualifications.pearson.com/en/support/contact-us.html. 
+From Pearson’s Expert Panel for World Class Qualifications 
+May 2014 
+“ The reform of the qualifications system in England is a profoundly important 
+change to the education system. Teachers need to know that the new qualifications 
+will assist them in helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an 
+‘Expert Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or 
+because of our experience in reforming qualifications in other systems around the 
+world as diverse as Singapore, Hong Kong, Australia and a number of countries 
+across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification 
+development process that has included: 
+● extensive international comparability of subject content against the highest- 
+performing jurisdictions in the world 
+● benchmarking assessments against UK and overseas providers to ensure that they 
+are at the right level of demand 
+● establishing External Subject Advisory Groups, drawing on independent subject- 
+specific expertise to challenge and validate our qualifications 
+● subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission. 
+Importantly, we have worked to ensure that the content and learning is future 
+oriented. The design has been guided by what is called an ‘Efficacy Framework’, 
+meaning learner outcomes have been at the heart of this development throughout. 
+We understand that ultimately it is excellent teaching that is the key factor to a 
+learner’s success in education. As a result of our work as a panel we are confident 
+that we have supported the development of qualifications that are outstanding for 
+their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.” 
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong 
+Director, National Institute of 
+Education, Singapore 
+ 
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+ 
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+ 
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+ 
+Dr Peter Hill 
+Former Chief Executive ACARA 
+All titles correct as at May 2014 
+ 
+ Introduction  
+ 
+The Pearson Edexcel Level 3 Advanced GCE in English Literature is designed for use 
+in schools and colleges. It is part of a suite of GCE qualifications offered by Pearson. 
+ 
+Purpose of the specification 
+ 
+This specification sets out: 
+• the objectives of the qualification 
+• any other qualification(s) that a student must have completed before taking the 
+qualification 
+• any prior knowledge and skills that the student is required to have before taking 
+the qualification 
+• any other requirements that a student must have satisfied before they will be 
+assessed or before the qualification will be awarded 
+• the knowledge and understanding that will be assessed as part of the 
+qualification 
+• the method of assessment and any associated requirements relating to it 
+• the criteria against which a student’s level of attainment will be measured (such 
+as assessment criteria). 
+Rationale 
+ 
+The Pearson Edexcel Level 3 Advanced GCE in English Literature meets the 
+following purposes, which fulfil those defined by the Office of Qualifications and 
+Examinations Regulation (Ofqual) for Advanced GCE qualifications in their GCE 
+Qualification Level Conditions and Requirements document, published in April 2014. 
+The purposes of this qualification are to: 
+● define and assess achievement of the knowledge, skills and understanding that 
+will be needed by students planning to progress to undergraduate study at a UK 
+higher education establishment, particularly (although not only) in the same 
+subject area, for example English Literature 
+● set out a robust and internationally comparable post-16 academic course of 
+study to develop that knowledge, skills and understanding 
+● enable UK universities to accurately identify the level of attainment of students 
+● provide a basis for school and college accountability measures at age 18 
+● provide a benchmark of academic ability for employers. 
+ 
+Qualification aims and objectives 
+The aims and objectives of the Pearson Edexcel Level 3 Advanced GCE in English 
+Literature are to enable students to: 
+● read widely and independently set texts and others that they have selected for 
+themselves 
+● engage critically and creatively with a substantial body of texts and ways of 
+responding to them 
+● develop and effectively apply their knowledge of literary analysis and evaluation 
+● explore the contexts of the texts they are reading and others’ interpretations of 
+them 
+● undertake independent and sustained studies to deepen their appreciation and 
+understanding of English literature, including its changing traditions. 
+ 
+The context for the development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+● reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+● consulting with key stakeholders on content and assessment, including learned 
+bodies, subject associations, higher-education academics, teachers and 
+employers to ensure this qualification is suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their documents GCE Qualification Level Conditions and Requirements and GCE 
+Subject Level Conditions and Requirements for English Literature, published in 
+April 2014. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] Pearson’s World Class Qualification principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep 
+learning and measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing 
+reliable and valid assessment tasks and processes, and generating confidence in 
+end users of the knowledge, skills and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that 
+students develop at different rates and have different learning needs, and 
+focusing on progression 
+● empowering, through promoting the development of transferable skills, 
+see Appendix 1. 
+Contents  
+Qualification at a glance 1 
+Qualification requirements 5 
+Prescribed texts at a glance 6 
+Assessment Objectives and weightings 10 
+Knowledge, skills and understanding 11 
+Component 1: Drama 11 
+Component 2: Prose 14 
+Component 3: Poetry 17 
+Non-examination assessment 20 
+Marking, standardisation and moderation 29 
+Security and backups 29 
+Further information 29 
+Assessment 30 
+Assessment summary 30 
+Assessment Objectives and weightings 33 
+Breakdown of Assessment Objectives 34 
+Entry and assessment information 35 
+Student entry 35 
+Forbidden combinations, discount code and performance tables 35 
+Access arrangements, reasonable adjustments and special 
+consideration 35 
+Malpractice 37 
+Equality Act 2010 and Pearson equality policy 38 
+Synoptic assessment 38 
+Awarding and reporting 39 
+Language of assessment 39 
+Other information 40 
+Student recruitment 40 
+Prior learning and other requirements 40 
+Progression 40 
+Relationship between Advanced Subsidiary GCE and Advanced GCE 40 
+Relationship between GCSE and Advanced GCE 41 
+Progression from GCSE to Advanced GCE 41 
+ 
+Appendix 1: Transferable skills 43 
+Appendix 2: Level 3 Extended Project qualification 45 
+Appendix 3: Codes 48 
+Appendix 4: Non-examination assessment 
+authentication sheet 49 
+Appendix 5: Prescribed texts 52 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+1 
+ 
+Qualification at a glance 
+The Pearson Edexcel Level 3 Advanced GCE in English Literature consists of three 
+externally examined papers and one non-examination assessment component. The 
+qualification requires the study of eight literary texts plus unseen poetry. 
+Students must complete all assessment in May/June in any single year. 
+ 
+Component 1: Drama *Paper code: 9ET0/01 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+30% of the 
+total 
+qualification 
+Overview of content 
+Students study: 
+● one Shakespeare play from either tragedy or comedy, and one other drama. 
+● critical essays related to their selected Shakespeare play. Students’ 
+preparation is supported by Shakespeare: A Critical Anthology – Tragedy or 
+Shakespeare: A Critical Anthology – Comedy. 
+Overview of assessment 
+● Written examination, lasting 2 hours and 15 minutes. 
+● Open book – clean copies of the drama texts can be taken into the 
+examination. The Critical Anthology must not be taken into the examination. 
+● Total of 60 marks available – 35 marks for Section A and 25 marks for 
+Section B. 
+● Two sections: students answer one question from a choice of two on their 
+studied text for both Section A and Section B. 
+● Section A – Shakespeare: one essay question, incorporating ideas from wider 
+critical reading (AO1, AO2, AO3, AO5 assessed). 
+● Section B – Other Drama: one essay question (AO1, AO2, AO3 assessed). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+ 
+Component 2: Prose *Paper code: 9ET0/02 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+20% of the 
+total 
+qualification 
+Overview of content 
+Students study: 
+● two prose texts from a chosen theme. At least one of the prose texts must be 
+pre-1900. 
+Overview of assessment 
+● Written examination, lasting 1 hour and 15 minutes. 
+● Open book – clean copies of the prose texts can be taken into the 
+examination. 
+● Total of 40 marks available. 
+● Students answer one comparative essay question from a choice of two on 
+their studied theme (AO1, AO2, AO3, AO4 assessed). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+3  
+ 
+Component 3: Poetry *Paper code: 9ET0/03 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+30% of the 
+total 
+qualification 
+Overview of content 
+Students study: 
+● poetic form, meaning and language 
+● a selection of post-2000 specified poetry 
+and 
+● a specified range of poetry from: 
+either 
+● a literary period (either pre- or post-1900) 
+or 
+● a named poet from within a literary period. 
+Overview of assessment 
+● Written examination, lasting 2 hours and 15 minutes. 
+● Open book – clean copies of the poetry texts can be taken into the 
+examination. 
+● Total of 60 marks available – 30 marks for Section A and 30 marks for 
+Section B. 
+● Two sections: students answer one question from a choice of two, comparing 
+an unseen poem with a named poem from their studied contemporary text 
+and one question from a choice of two on their studied movement/poet. 
+● Section A – Post-2000 Specified Poetry: one comparative essay question on 
+an unseen modern poem written post-2000 and one named poem from the 
+studied contemporary text (AO1, AO2, AO4 assessed). 
+● Section B – Specified Poetry Pre- or Post-1900: one essay question (AO1, 
+AO2, AO3 assessed). 
+4 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+Non-examination assessment *Code: 9ET0/04 
+● Internally assessed, externally moderated 
+● Availability: May/June 
+● First moderation: 2017 
+20% of the 
+total 
+qualification 
+Overview of content 
+Students have a free choice of two texts to study. 
+Chosen texts: 
+● must be different from those studied in Components 1, 2 and 3 
+● must be complete texts and may be linked by theme, movement, author or 
+period 
+● may be selected from poetry, drama, prose or literary non-fiction. 
+Overview of assessment 
+Students produce one assignment: 
+● one extended comparative essay referring to two texts (AO1, AO2, AO3, AO4, 
+AO5 assessed) 
+● advisory total word count is 2500–3000 words 
+● total of 60 marks available. 
+ 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+5  
+ 
+Qualification requirements 
+The qualification requires students to study eight literary texts. Three of these have 
+to be pre-1900 texts (including one Shakespeare play), plus one text first published 
+or performed post-2000. 
+The requirement to study eight texts is met in the following way: 
+ 
+Qualification 
+Structure 
+Studied Texts 
+Component 1: Drama 1 Shakespeare 2 Other drama play* 
+Component 2: Prose 3 Pre-1900 prose fiction 4 Prose fiction* 
+Component 3: Poetry 5 Post-2000 specified 
+poetry 
+6 Specified poetry (pre- 
+or post-1900)* 
+Non-examination 
+assessment 
+7 Chosen text 8 Chosen text 
+* These represent where students can study a third pre-1900 text in the examined 
+components. 
+ 
+The pre-1900 requirement 
+In addition to their Shakespeare play and one pre-1900 prose text, students must 
+study one further pre-1900 text from the available options in any one of the 
+examined components. 
+The pre-1900 texts are shown in the prescribed texts section and in each of the 
+content sections for the examined components. 
+To ensure that centres are meeting these requirements an online form must be 
+submitted to us at the beginning of the course. Details are on our website: 
+qualifications.pearson.com 
+6 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+Prescribed texts at a glance 
+ 
+ 
+Component 1: Drama 
+Drama 
+Provided texts: the free-of-charge Shakespeare Critical Anthology; a collection of 
+critical essays on either the theme of tragedy or comedy that will enrich the study 
+of students’ selected Shakespeare play. Students explore the essays that relate to 
+their chosen genre and play. 
+ 
+WILLIAM SHAKESPEARE 
+A choice of one text from the following: 
+ 
+Tragedy 
+Antony and Cleopatra, Hamlet, King Lear, Othello 
+ 
+OR 
+ 
+Comedy 
+A Midsummer Night’s Dream, Measure for Measure, The Taming of the Shrew, 
+Twelfth Night 
+ 
+And 
+ 
+OTHER DRAMA 
+A choice of one text from the following: 
+ 
+pre-1900 
+● Doctor Faustus, Christopher Marlowe 
+● The Duchess of Malfi, John Webster 
+● The Importance of Being Earnest, Oscar Wilde 
+● The Rover, Aphra Behn 
+ 
+post-1900 
+● Les Blancs, Lorraine Hansberry 
+● A Streetcar Named Desire, Tennessee Williams 
+● Sweat, Lynn Nottage 
+● Waiting for Godot, Samuel Beckett 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+7  
+ 
+Component 2: Prose 
+Selection of two prose texts (including at least one pre-1900) on a chosen theme. 
+ 
+Childhood 
+Pre-1900: Hard Times, Charles Dickens; What Maisie Knew, Henry James 
+Post-1900: Atonement, Ian McEwan; The Color Purple, Alice Walker 
+Colonisation and its Aftermath 
+Pre-1900: The Adventures of Huckleberry Finn, Mark Twain; Heart of Darkness, 
+Joseph Conrad 
+Post-1900: Home Fire, Kamila Shamsie; The Lonely Londoners, Sam Selvon 
+ 
+Crime and Detection 
+Pre-1900: Lady Audley’s Secret, Mary Elizabeth Braddon; The Moonstone, 
+Wilkie Collins 
+Post-1900: The Cutting Season, Attica Locke; In Cold Blood, Truman Capote 
+ 
+Science and Society 
+Pre-1900: Frankenstein, Mary Shelley; The War of the Worlds, H G Wells 
+Post-1900: The Handmaid’s Tale, Margaret Atwood; Never Let Me Go, 
+Kazuo Ishiguro 
+ 
+The Supernatural 
+Pre-1900: Dracula, Bram Stoker; The Picture of Dorian Gray, Oscar Wilde 
+Post-1900: Beloved, Toni Morrison; The Little Stranger, Sarah Waters 
+Women and Society 
+Pre-1900: Tess of the D’Urbervilles, Thomas Hardy; Wuthering Heights, 
+Emily Brontë 
+Post-1900: Mrs Dalloway, Virginia Woolf; A Thousand Splendid Suns, 
+Khaled Hosseini 
+8 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+Component 3: Poetry 
+Post-2000 Specified Poetry 
+Selection of modern poetry from Poems of the Decade: An Anthology of the Forward 
+Books of Poetry 2002–2011. 
+ 
+Specified Poetry Pre- or Post-1900 
+EITHER selected poems from the named text OR the named poet from the tables 
+below. 
+A list of all prescribed poems is provided in Appendix 5: Prescribed texts. 
+ANTHOLOGY POETRY – PRE-1900 CHOICES 
+ The Medieval Period 
+Medieval Poetic Drama Everyman and Medieval Miracle Plays, editor A C Cawley 
+(Everyman, 1993). This edition has normalised spelling. 
+These poetic dramas can also be read with the original 
+spelling: English Mystery Plays: A Selection, editor 
+Peter Happe (Penguin Classics, 1975). 
+Either edition is permissible. 
+OR 
+Medieval Poet: 
+Geoffrey Chaucer 
+The Wife of Bath’s Prologue and Tale, 
+editor James Winny (Cambridge, 1994) 
+Metaphysical Poetry 
+The Metaphysical 
+Poets 
+Metaphysical Poetry, editor Colin Burrow 
+(Penguin, 2006) 
+OR 
+Metaphysical Poet: 
+John Donne 
+John Donne Selected Poems (Penguin Classics, 2006) 
+The Romantic Period 
+The Romantics English Romantic Verse, editor David Wright 
+(Penguin Classics, 1973) 
+OR 
+Romantic Poet: 
+John Keats 
+Selected Poems: John Keats, editor John Barnard 
+(Penguin Classics, 2007) 
+The Victorian Period 
+The Victorians The New Oxford Book of Victorian Verse, 
+editor Christopher Ricks (OUP, 2008) 
+OR 
+Victorian Poet: 
+Christina Rossetti 
+Christina Rossetti Selected Poems, editor Dinah Roe 
+(Penguin, 2008) 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+9  
+ANTHOLOGY POETRY – POST-1900 CHOICES 
+ The Modernism Period 
+Modernist Period The Great Modern Poets, editor Michael Schmidt 
+(Quercus, 2014) 
+OR 
+Modernist Poet: 
+T S Eliot 
+T S Eliot Selected Poems (Faber, 2009) 
+The Movement 
+The Movement The Oxford Book of Twentieth Century English Verse, 
+editor Philip Larkin with foreword by Andrew Motion 
+(OUP, 1973) 
+OR 
+The Movement Poet: 
+Philip Larkin 
+The Less Deceived (Faber, 2011) 
+ 
+Non-examination assessment 
+There are no prescribed texts here – teachers and students are offered a free choice 
+of two texts. There are no genre or date restrictions, apart from the fact that texts 
+in translation are not allowed. 
+Centres are welcome to draw on texts named elsewhere in the specification that 
+have not been selected by the centre for examination assessment. 
+10 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+Assessment Objectives and weightings 
+ 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Articulate informed, personal and creative responses to literary 
+texts, using associated concepts and terminology, and 
+coherent, accurate written expression 
+ 
+26.7 
+AO2 Analyse ways in which meanings are shaped in literary texts 26.7 
+AO3 Demonstrate understanding of the significance and influence of 
+the contexts in which literary texts are written and received 21.9 
+AO4 Explore connections across literary texts 14 
+AO5 Explore literary texts informed by different interpretations 11 
+Total 100% 
+NB: some figures have been rounded up 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+11  
+ 
+Knowledge, skills and understanding 
+ 
+ 
+Component 1: Drama 
+ 
+ 
+Overview 
+Students will study aspects of the form of drama via two plays. The central focus of 
+the drama study is the literary text. Students will need to explore the use of literary 
+and dramatic devices and the shaping of meanings in their chosen plays. Students 
+study a tragedy or comedy drama by Shakespeare and another drama. 
+Teaching and wider reading should address the significance and influence of 
+contextual factors and engage with different interpretations of the chosen 
+Shakespeare play. 
+Students’ study of Shakespeare should be enhanced by engagement with critical 
+writing. Teaching of this is supported by either Shakespeare: A Critical Anthology – 
+Tragedy or Shakespeare: A Critical Anthology – Comedy, provided by Pearson free 
+of charge. 
+ 
+Learning outcomes 
+Students are required to: 
+● show knowledge and understanding of how playwrights use dramatic forms to 
+shape meaning in drama texts and evoke responses in audiences 
+● show knowledge and understanding of the contexts in which texts have been 
+produced and received and understanding of how these contexts influence 
+meaning 
+● show knowledge and understanding of a range of ways to read and experience 
+texts, responding critically and creatively 
+● respond to and evaluate texts, drawing on their understanding of interpretations 
+by different readers such as literary critics 
+● identify and explore how attitudes and values are expressed in texts 
+● communicate fluently, accurately and effectively their knowledge, understanding 
+and evaluation of texts 
+● use literary critical concepts and terminology with understanding and 
+discrimination 
+● make appropriate use of the conventions of writing in literary studies, referring 
+accurately and appropriately to texts and sources. 
+12 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+Content 
+Students will study aspects of the form of drama via two plays, including one by 
+Shakespeare and a second drama text. 
+ 
+WILLIAM SHAKESPEARE 
+A choice of one text from the following: 
+ 
+Tragedy 
+Antony and Cleopatra, Hamlet, King Lear, Othello 
+ 
+Comedy 
+A Midsummer Night’s Dream, Measure for Measure, The Taming of the Shrew, 
+Twelfth Night 
+ 
+OTHER DRAMA 
+A choice of one text from the following. 
+pre-1900 
+● Doctor Faustus, Christopher Marlowe 
+● The Duchess of Malfi, John Webster 
+● The Importance of Being Earnest, Oscar Wilde 
+● The Rover, Aphra Behn 
+post-1900 
+● Les Blancs, Lorraine Hansberry 
+● A Streetcar Named Desire, Tennessee Williams 
+● Sweat, Lynn Nottage 
+● Waiting for Godot, Samuel Beckett 
+ 
+Critical writing 
+As part of their study of their selected Shakespeare play, students should engage 
+with different interpretations. To support this, students should be provided with 
+either the Shakespeare: A Critical Anthology: Tragedy or Shakespeare: A Critical 
+Anthology: Comedy. Each critical anthology includes four generic essays and three 
+specific essays on each set text to encourage students to engage with different 
+readings of their studied Shakespeare play. 
+Each anthology fulfils all of the requirements for engagement with different 
+perspectives for this component. However, centres are welcome to select other 
+essays or criticism on their studied Shakespeare play or to supplement the critical 
+anthologies with other critical materials on Shakespeare’s drama. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+13  
+Pre-1900 requirement 
+If a pre-1900 choice is not selected as the other drama play then it must be 
+selected in either Component 2: Prose or Component 3: Poetry. Please see the 
+Qualification requirements section on page 5 for more information on ensuring that 
+this requirement has been met. 
+14 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+Component 2: Prose 
+ 
+Overview 
+Students will study aspects of prose via two thematically linked texts, at least one 
+of which must be pre-1900. Literary study of both texts selected for this 
+component should incorporate the links and connections between them, and the 
+contexts in which they were written and received. 
+ 
+Learning outcomes 
+Students are required to: 
+● show knowledge and understanding of how genre features and conventions 
+operate in prose fiction texts 
+● show knowledge and understanding of a range of ways to read texts, including 
+reading for detail of how writers use and adapt language, form and structure in 
+texts, responding critically and creatively 
+● show knowledge and understanding of a range of literary texts and make 
+connections and explore the relationships between texts 
+● show knowledge and understanding of the ways texts can be grouped and 
+compared to inform interpretation 
+● show knowledge and understanding of the contexts in which texts have been 
+produced and received and understanding of how these contexts influence 
+meaning 
+● identify and explore how attitudes and values are expressed in texts 
+● communicate fluently, accurately and effectively their knowledge, understanding 
+and evaluation of texts 
+● use literary critical concepts and terminology with understanding and 
+discrimination 
+● make appropriate use of the conventions of writing in literary studies, referring 
+accurately and appropriately to texts and sources. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+15  
+Content 
+This component has a thematic focus and students have a choice of two 
+thematically linked texts which are listed below. 
+At least one text must be selected from the pre-1900 options. However, centres 
+are welcome to select both pre-1900 texts for this component if desired. 
+ 
+Childhood 
+Pre-1900 Hard Times, Charles Dickens What Maisie Knew, 
+Henry James 
+Post-1900 Atonement, Ian McEwan The Color Purple, Alice Walker 
+Colonisation and its Aftermath 
+Pre-1900 The Adventures of Huckleberry 
+Finn, Mark Twain 
+Heart of Darkness, 
+Joseph Conrad 
+Post-1900 Home Fire, Kamila Shamsie The Lonely Londoners, Sam 
+Selvon 
+Crime and Detection 
+Pre-1900 Lady Audley’s Secret, 
+Mary Elizabeth Braddon 
+The Moonstone, Wilkie Collins 
+Post-1900 The Cutting Season, 
+Attica Locke 
+In Cold Blood, 
+Truman Capote 
+Science and Society 
+Pre-1900 Frankenstein, Mary Shelley The War of the Worlds, 
+H G Wells 
+Post-1900 The Handmaid’s Tale, 
+Margaret Atwood 
+Never Let Me Go, 
+Kazuo Ishiguro 
+The Supernatural 
+Pre-1900 Dracula, Bram Stoker The Picture of Dorian Gray, 
+Oscar Wilde 
+Post-1900 Beloved, Toni Morrison The Little Stranger, 
+Sarah Waters 
+Women and Society 
+Pre-1900 Tess of the D’Urbervilles, 
+Thomas Hardy 
+Wuthering Heights, 
+Emily Brontë 
+Post-1900 Mrs Dalloway, 
+Virginia Woolf 
+A Thousand Splendid Suns, 
+Khaled Hosseini 
+16 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+Pre-1900 requirement 
+If a pre-1900 choice is not selected as the second prose text then it must be 
+selected in either Component 1: Drama or Component 3: Poetry. Please see the 
+Qualification requirements section on page 5 for more information on ensuring that 
+this requirement has been met. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+17  
+ 
+Component 3: Poetry 
+ 
+Overview 
+Students will study a selection of poems from two published poetry texts. 
+They will consider the concerns and choices of modern-day poets in a selection of 
+contemporary poems. Students will apply their knowledge of poetic form, content 
+and meaning, and develop their skills in comparing an unseen poem with an 
+example of studied poetry. 
+Students will also develop depth of knowledge about poetic style by studying a 
+selection from the work of a single named poet, or a selection from within a literary 
+period or movement. Literary study of the chosen set poems should be enhanced 
+by study of the contexts in which they were written and received. 
+ 
+Learning outcomes 
+Students are required to: 
+● show knowledge and understanding of the function of genre features and 
+conventions in poetry 
+● show knowledge and understanding of a range of ways to read texts, including 
+reading for detail of how writers use and adapt language, form and structure in 
+texts, responding critically and creatively 
+● show knowledge and understanding of a range of literary texts and make 
+connections and explore the relationships between texts 
+● show knowledge and understanding of the ways texts can be grouped and 
+compared to inform interpretation 
+● show knowledge and understanding of the contexts in which texts have been 
+produced and received and understanding of how these contexts influence 
+meaning 
+● communicate fluently, accurately and effectively their knowledge, understanding 
+and critical evaluation of texts 
+● identify and explore how attitudes and values are expressed in texts 
+● use literary critical concepts and terminology with understanding and 
+discrimination 
+● make appropriate use of the conventions of writing in literary studies referring 
+accurately and appropriately to texts and sources. 
+18 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+Content 
+In this component, students will study aspects of a range of poetry, from the 
+established literary canon through to the present day. 
+Students are required to study two selections of poetry; one specified post-2000 
+poetry text and either one specified selection of poems from one pre- or post-1900 
+text. This will be either a single named poet or a literary movement. 
+The lists of poems to be studied can be found in Appendix 5: Prescribed texts. 
+ 
+Post-2000 poetry 
+Specified text: 
+Poems of the Decade: An Anthology of the Forward Books of Poetry 2002–2011 
+Specified Poetry Pre- or Post-1900 
+Centres choose either selected poems from the named text or the single named 
+poet from the following periods: 
+Pre-1900 choices 
+The Medieval Period 
+Medieval Poetic Drama 
+OR 
+Medieval Poet: Geoffrey Chaucer 
+ 
+Metaphysical Poetry 
+The Metaphysical Poets 
+OR 
+Metaphysical Poet: John Donne 
+ 
+The Romantic Period 
+The Romantics 
+OR 
+Romantic Poet: John Keats 
+ 
+The Victorian Period 
+The Victorians 
+OR 
+Victorian Poet: Christina Rossetti 
+ 
+Post-1900 choices 
+The Modernist Period 
+Modernism 
+OR 
+Modernist Poet: T S Eliot 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+19  
+The Movement 
+The Movement 
+OR 
+The Movement Poet: Philip Larkin 
+ 
+Unseen poetry 
+Students will be required to respond to an unseen poem in comparison with a 
+studied poem from their contemporary text. Centres are welcome to make use of 
+the additional poems in the contemporary text, that have not been set for study, 
+for unseen practice and wider reading. 
+ 
+Pre-1900 requirement 
+If a pre-1900 choice is not selected as one of the poetry options then it must be 
+selected in either Component 1: Drama or Component 2: Prose. Please see the 
+Qualification requirements section on page 5 for more information on ensuring this 
+requirement has been met. 
+20 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+Non-examination assessment 
+ 
+Overview 
+Non-examination assessment will be assessed via two texts. There are no 
+prescribed texts but centres must select complete texts which may be drawn from 
+poetry, drama, prose or literary non-fiction. Students must select different texts 
+from those studied in Components 1, 2 and 3. 
+The selected texts may be linked by theme, movement, author or period. Literary 
+study of both texts should be enhanced by study of the links and connections 
+between them, different interpretations and the contexts in which they were written 
+and received. 
+ 
+Learning outcomes 
+Students are required to: 
+● show knowledge and understanding of a variety of strategies for reading texts, 
+including reading for detail of how writers use and adapt language, form and 
+structure in texts 
+● show knowledge and understanding of ways to interpret and evaluate texts 
+independently and in response to interpretations by different readers 
+● show knowledge and understanding of the contexts in which texts have been 
+produced and received and understanding of how these contexts influence 
+meaning 
+● show knowledge and understanding of a range of literary texts and make 
+connections and explore the relationships between texts 
+● show knowledge and understanding of the ways texts can be grouped and 
+linked to inform interpretation 
+● identify and explore how attitudes and values are expressed in texts 
+● communicate fluently, accurately and effectively their knowledge, understanding 
+and evaluation of texts 
+● use literary critical concepts and terminology with understanding and 
+discrimination 
+● make appropriate use of the conventions of writing in literary studies, referring 
+accurately and appropriately to texts and sources 
+● make connections and explore the relationships between texts. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+21  
+Content 
+Students will apply their literary reading skills to two chosen texts. They will engage 
+in wider reading, use independent reading skills and apply research and study skills 
+to their chosen literature. 
+Teachers and students are offered a free choice of two texts which should ideally 
+reflect interests and preferences that have arisen as a result of the prescribed 
+course and wider independent reading. 
+ 
+Assignment choice 
+One extended comparative essay referring to two texts. 
+Total advisory word count: 2500–3000. 
+Centres are welcome to draw on texts named elsewhere in the specification which 
+have not been selected by the centre for examination assessment. Please note also 
+that texts in translation are not allowed. 
+Tasks must enable students to explore the links and connections between their 
+texts, different interpretations and the contexts in which they were written and 
+received. 
+The following topic areas and texts are provided for guidance purposes and 
+represent examples on which tasks could be set. 
+ 
+Example 1 – Conflict 
+Texts: Birdsong, Sebastian Faulks and The Kite Runner, Khaled Hosseini 
+ 
+Example 2 – Relationships 
+Texts: The Joy Luck Club, Amy Tan and Brick Lane, Monica Ali 
+ 
+Example 3 – Cultural perspectives 
+Texts: Things Fall Apart, Chinua Achebe and The Heart of Darkness, Joseph Conrad 
+ 
+Example 4 – Literary reportage 
+Texts: Dispatches, Michael Kerr and Homage to Catalonia, George Orwell 
+22 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+Assignment setting, taking and marking 
+ 
+Assignment setting 
+When deciding on the texts they select and the assignments 
+they produce, students should be encouraged to draw on 
+their own interests and skills, as well as applying what they 
+have learned about literature. The choice of texts should be 
+made with teacher guidance to ensure that they are of an 
+appropriate standard. 
+Teachers are encouraged to use the assignment guidance 
+service offered by Pearson to check the appropriate nature 
+of assignments selected by students. 
+It is advised that, due to the personal nature of the 
+assignment selection each year, students complete different 
+assignments from previous years. 
+Centres are advised that Pearson will carry out checks on 
+their adherence to the requirement that texts studied for an 
+examination are not used in non-examination assessment 
+and that at least three pre-1900 texts have been studied 
+overall. 
+ 
+Assignment use 
+Teachers should ensure that texts chosen by students are 
+relevant and appropriate to the student’s course of learning. 
+Students should have the opportunity to choose 
+sources/interpretations/texts as appropriate. 
+ 
+Assignment guidance service 
+Pearson provides a free assignment guidance service. 
+Please see our website qualifications.pearson.com for 
+further details. 
+ 
+Assignment research 
+ 
+Teaching and learning 
+Teachers should provide students with a short course of 
+study that covers: 
+● research and study skills 
+● editing and proofreading skills 
+● referencing and bibliography skills. 
+ 
+Collaboration 
+Students may work together on their research. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+23  
+Feedback 
+Teachers may help students to understand rubrics, 
+assessment criteria and controls. Teachers must not give 
+students solutions. For example, teachers may provide a 
+simplified student friendly version of the assessment 
+criteria, but this must not be specific to the work of 
+individual students or a group of students (see the Joint 
+Council for Qualifications (JCQ) Instructions for conducting 
+non-examination assessments (new GCE and GCSE 
+specifications) on the JCQ website: www.jcq.org.uk). Any 
+additional feedback must be recorded in the Non- 
+examination assessment authentication sheet (see 
+Appendix 4). 
+ 
+Resources 
+Students must have equal access to IT resources. They 
+should have access to a range of resources, interpretations 
+and texts to enable them to make choices as required for 
+their assignments. 
+ 
+Assignment writing 
+ 
+Authenticity 
+Students and teachers must sign the Non-examination 
+assessment authentication sheet (see Appendix 4). 
+Teachers must review at least one draft to offer support 
+and to ensure they can verify that the student’s final work 
+is their own. This support may take the form of general 
+advice only and work may not be provisionally assessed. 
+Please refer to the Joint Council for Qualifications (JCQ) 
+Instructions for conducting non-examination assessments 
+(new GCE and GCSE specifications) on the JCQ website: 
+www.jcq.org.uk) for further information on the level of 
+feedback permitted. 
+Students must ensure that all quotations and citations are 
+referenced using an established referencing system, such as 
+Harvard, and produce a bibliography citing reference texts. 
+ 
+Collaboration 
+Students must not work with others when writing their 
+assignments. Centres must ensure that the same teacher 
+has reviewed all work from a class in order to be able to 
+verify on the Non-examination assessment authentication 
+sheet that students’ work is their own. 
+24 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+Feedback 
+Teachers may help students to understand rubrics, 
+assessment criteria and controls. Any additional feedback 
+must be recorded on the Non-examination assessment 
+authentication sheet (see Appendix 4). Please refer to the 
+Joint Council for Qualifications (JCQ) Instructions for 
+conducting non-examination assessments (new GCE and 
+GCSE specifications) on the JCQ website: www.jcq.org.uk 
+for further information. 
+ 
+Word count 
+It is strongly recommended that students write between 
+2500–3000 words in total for their chosen assignment. This 
+does not include footnotes and bibliographies. 
+It is advisable that the upper word limit is adhered to by 
+students to enable them to satisfy the requirement to 
+produce a concise and coherently structured response. 
+ 
+Assignment marking 
+Teachers should mark the assignment using the assessment 
+criteria on the following pages. Teachers may annotate 
+students’ work. The marks awarded should be justified and 
+teachers should add comments to the Non-examination 
+assessment authentication sheet (see Appendix 4). 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+25  
+Assessment criteria 
+Teachers must mark students’ work using the assessment criteria on pages 26–28. 
+ 
+Marking guidance 
+● All candidates must receive the same treatment. Teachers must mark the last 
+candidate in exactly the same way as they mark the first. 
+● Mark schemes should be applied positively. Candidates must be rewarded for 
+what they have shown they can do rather than be penalised for omissions. 
+● All the marks on the mark scheme are designed to be awarded. Teachers should 
+always award full marks if deserved, i.e. if the answer matches the mark 
+scheme. Teachers should be prepared to award zero marks if the candidate’s 
+response is not worthy of credit according to the mark scheme. 
+The marking grids have been designed to assess student work holistically. The grids 
+identify which Assessment Objective is being targeted by each bullet point within 
+the level descriptors. Each bullet point is linked to one Assessment Objective, 
+however please note that the number of bullet points in the level descriptor does 
+not directly correlate to the number of marks in the level descriptor. 
+When deciding how to reward an answer using a levels-based mark scheme, the 
+‘best fit’ approach should be used. To do this teachers should: 
+● first decide which level descriptor most closely matches the candidate answer 
+and place it in that band 
+● decide on the mark awarded within the band based on the quality of the answer 
+and modify according to how securely all bullet point descriptors are met at that 
+level 
+● remember that in cases of uneven performance, all the above points still apply. 
+Candidates are to be placed in the band that best describes their answer 
+according to each of the Assessment Objectives described in the level. Marks 
+will be awarded towards the top or bottom of that band depending how they 
+have evidenced each of the descriptor bullet points 
+● remember that all Assessment Objectives within a level are equally weighted 
+and they must take this into consideration when making their judgements. 
+ 
+Please refer to the marking guidance on page 25 when applying this grid. 
+ 
+ 
+ 
+ 
+ 
+ 
+Level 
+ 
+ 
+ 
+ 
+ 
+Mark 
+ 
+ 
+ 
+ 
+Guidance 
+Non-examination assessment 
+ 
+AO1 = bullet 
+point 1 
+AO2 = bullet 
+point 2 
+AO3 = bullet 
+point 3 
+Descriptor (AO1, AO2, A03)  
+ 
+0 
+ 
+No rewardable material 
+Level 
+1 
+1–7 Low (1–2 marks) 
+Qualities of levels are 
+inconsistently met 
+Descriptive 
+● Makes little reference to the text with limited organisation of 
+ideas. Limited use of appropriate concepts and terminology 
+with frequent errors and lapses of expression. 
+● Uses a narrative or descriptive approach that shows limited 
+knowledge of texts. Shows a lack of understanding of the 
+writer’s craft. 
+● Shows limited awareness of contextual factors. 
+Mid (3–5 marks) 
+Qualities of level are 
+largely met 
+High (6–7 marks) 
+Qualities of level are 
+convincingly met 
+Level 
+2 
+8–14 Low (8–9 marks) 
+Qualities of levels are 
+inconsistently met 
+General understanding 
+● Makes general points, identifying some literary techniques with 
+general explanation of effects. Aware of some appropriate 
+concepts and terminology. Organises and expresses ideas with 
+clarity, although still has errors and lapses. 
+● Gives surface readings of texts and shows general 
+understanding of writer’s craft by commenting on 
+straightforward elements. 
+● Makes general links between text and contexts. General 
+awareness of significance and influence of contextual factors. 
+Mid (10–12 marks) 
+Qualities of level are 
+largely met 
+High (13–14 marks) 
+Qualities of level are 
+convincingly met 
+Level 
+3 
+15–21 Low (15–16 marks) 
+Qualities of levels are 
+inconsistently met 
+Clear relevant application 
+● Offers a clear response using relevant textual examples. 
+Relevant use of terminology and concepts. Creates a logical, 
+clear structure with few errors and lapses in expression. 
+● Shows clear understanding of writer’s craft. Demonstrates 
+knowledge of how meanings are shaped with consistent 
+analysis. 
+● Identifies detailed points to link texts and contexts. These are 
+supported by specific textual examples that show clear 
+understanding of significance and influence. 
+Mid (17–19 marks) 
+Qualities of level are 
+largely met 
+High (20–21 marks) 
+Qualities of level are 
+convincingly met 
+Level 
+4 
+22–29 Low (22–23 marks) 
+Qualities of levels are 
+inconsistently met 
+Discriminating controlled application 
+● Constructs a controlled argument with fluently embedded 
+examples. Discriminating use of concepts and terminology. 
+Controls structures with precise cohesive transitions and 
+carefully chosen language. 
+● Analyses the effects of literary features and demonstrates 
+discriminating understanding of how meanings are shaped. 
+Controlled analysis that is aware of nuances and subtleties of 
+the writer’s craft. 
+● Provides a discriminating analysis of how context influences the 
+writer’s craft. Explores links in a detailed way. 
+Mid (24–27 marks) 
+Qualities of level are 
+largely met 
+High (28–29 marks) 
+Qualities of level are 
+convincingly met 
+ 
+26 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+Level 
+ 
+ 
+ 
+ 
+ 
+Mark 
+ 
+ 
+ 
+ 
+Guidance 
+Non-examination assessment 
+ 
+AO1 = bullet 
+point 1 
+AO2 = bullet 
+point 2 
+AO3 = bullet 
+point 3 
+Descriptor (AO1, AO2, A03) 
+ 
+Level 
+5 
+30–36 Low (30–31 marks) 
+Qualities of levels are 
+inconsistently met 
+Critical evaluative application 
+● Presents a critical evaluative argument with sustained textual 
+examples. Evaluates the effects of literary features with 
+sophisticated use of concepts and terminology. Uses 
+sophisticated structure and expression. 
+● Exhibits a critical evaluation of the ways meanings are shaped. 
+Evaluates the effects of literary features and shows a 
+sophisticated understanding of the writer’s craft. 
+● Presents a sophisticated evaluation and appreciation of 
+significance and influence of contextual factors. Makes 
+sophisticated links between text and contexts. 
+Mid (32–34 marks) 
+Qualities of level are 
+largely met 
+High (35–36 marks) 
+Qualities of level are 
+convincingly met 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 27 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+28 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+Please refer to the marking guidance on page 25 when applying this grid. 
+ 
+Non-examination assessment 
+  AO4 = bullet point 1 AO5 = bullet point 2 
+Level Mark Descriptor (AO4, AO5)  
+ 0 No rewardable material 
+Level 1 1–4 Descriptive 
+● Demonstrates limited awareness of similarities, 
+differences or links between texts. Describes the texts as 
+separate entities. 
+● Shows limited awareness of different interpretations and 
+alternative readings of texts. Limited linking of 
+alternative readings to own response. 
+Level 2 5–9 General exploration 
+● Identifies general similarities, differences or links 
+between texts. Makes general cross-references between 
+texts. 
+● Offers straightforward explanations of different 
+interpretations and alternative readings of texts. Some 
+support of own ideas given with reference to generic 
+alternative interpretations. 
+Level 3 10–14 Detailed exploration 
+● Makes clear connections between texts, developing an 
+integrated, connective approach with clear examples. 
+● Offers clear understanding of different interpretations 
+and alternative readings of texts. Explores different 
+interpretations in support or contrast to own argument. 
+Level 4 15–19 Discriminating exploration 
+● Analyses connections between texts. Takes a controlled 
+discriminating approach to integration with detailed 
+examples. 
+● Produces a developed exploration of different 
+interpretations and alternative readings of texts. 
+Discussion is controlled and offers integrated exploration 
+of alternative interpretations in development of own 
+critical position. 
+Level 5 20–24 Critical and evaluative 
+● Evaluates connections between texts. Exhibits a 
+sophisticated connective approach with exemplification. 
+● Applies a sustained evaluation of different interpretations 
+of texts. This is cogent and supported by sophisticated 
+use of application of alternative interpretations to 
+illuminate own critical position. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+29 
+ 
+Marking, standardisation and moderation 
+The assignment is marked by teachers. Where marking for 
+this qualification has been carried out by more than one 
+teacher in a centre, a process of internal standardisation 
+must be carried out to ensure that there is a consistent 
+application of the assessment criteria. 
+Marks awarded by the centre will be subject to external 
+moderation by Pearson. Moderation will ensure consistency 
+with national standards and will review assignments to 
+ensure that the assignment setting rules have been 
+correctly applied by centres. Pearson will notify centres of 
+the students whose responses have been selected for 
+moderation. This sample will take cohort size into account. 
+If the moderation indicates that centre assessment does not 
+reflect national standards, an adjustment will be made to 
+students’ final marks to compensate. 
+Please refer to the Joint Council for Qualifications (JCQ) 
+Instructions for conducting non-examination assessments 
+(new GCE and GCSE specifications) on the JCQ website, 
+www.jcq.org.uk, for further information. The assessment in 
+this qualification will comply with these instructions. 
+ 
+Security and backups 
+ 
+It is the responsibility of the centre to keep the work that 
+students have submitted for assessment secure. 
+Secure storage is defined as a securely locked cabinet or 
+cupboard. 
+ 
+Further information 
+For up-to-date advice on teacher involvement and 
+administration of non-examination assessment, please refer 
+to the Joint Council for Qualifications (JCQ) Instructions for 
+conducting non-examination assessments (new GCE and 
+GCSE specifications) document on the JCQ website: 
+www.jcq.org. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+Assessment 
+ 
+ 
+Assessment summary 
+ 
+ 
+Summary of table of assessment 
+Students must complete all assessment in May/June in any single year. 
+Centres are reminded that the marks given are raw marks and as such for results 
+purposes will be scaled to reflect the appropriate component weighting. 
+ 
+Component 1: Drama *Paper code: 9ET0/01 
+Written examination consisting of two sections. Open book 
+examination – clean copies of the prescribed drama texts to be 
+taken into the examination. Copies of the Critical Anthologies 
+30% of the 
+total 
+qualification 
+must not be taken into the examination. 
+ 
+Section A: Shakespeare 
+One essay question from a choice of two on their studied text, 
+incorporating ideas from wider critical reading (AO1, AO2, AO3, 
+AO5 assessed). 
+ 
+Section B: Other drama 
+One essay question from a choice of two on their studied text 
+(AO1, AO2, AO3 assessed). 
+● First assessment: May/June 2017. 
+● The assessment length is 2 hours and 15 minutes. 
+● The assessment consists of 32 questions. Students answer 
+two of these. 
+● The assessment consists of 60 marks – 35 marks for Section A 
+and 25 marks for Section B. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+31  
+ 
+Component 2: Prose *Paper code: 9ET0/02 
+Written examination consisting of one section. Open book 
+examination – clean copies of the prescribed prose texts to be 
+taken into the examination. 
+20% of the 
+total 
+qualification 
+Students answer one comparative essay question from a choice of 
+two on their studied theme (AO1, AO2, AO3, AO4 assessed). 
+● First assessment: May/June 2017. 
+● The assessment length is 1 hour and 15 minutes. 
+● The assessment consists of 12 questions. Students answer one 
+of these. 
+● The assessment consists of 40 marks. 
+ 
+Component 3: Poetry *Paper code: 9ET0/03 
+Written examination consisting of two sections. Open book 
+examination – clean copies of the prescribed poetry texts to be 
+taken into the examination. 
+30% of the 
+total 
+qualification 
+Section A: Post-2000 Poetry 
+One comparative essay question from a choice of two on an 
+unseen modern poem written post-2000 and one named poem 
+from the studied contemporary text (AO1, AO2, AO4 assessed). 
+ 
+Section B: Specified Poetry Pre- or Post-1900 
+One essay question from a choice of two on their studied text 
+(AO1, AO2, AO3 assessed). 
+● First assessment: May/June 2017. 
+● The assessment length is 2 hours and 15 minutes. 
+● The assessment consists of 26 questions – students answer one 
+question from a choice of two then one question from a choice 
+of 24. 
+● The assessment consists of 60 marks – 30 marks for Section A 
+and 30 marks for Section B. 
+32 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+Non-examination assessment *Code: 9ET0/04 
+Students produce one assignment. 
+One extended comparative essay referring to two texts (AO1, 
+AO2, AO3, AO4, AO5 assessed). 
+20% of the 
+total 
+qualification 
+Total advisory word count is 2500–3000 words. 
+● First moderation: May/June 2017. 
+● This assessment is internally assessed, externally moderated. 
+● The assignment consists of 60 marks. 
+● Assignments must be submitted at the end of the course. 
+ 
+The sample assessment materials can be found in the Pearson Edexcel Level 3 
+Advanced GCE in English Literature Sample Assessment Materials document. 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+33  
+ 
+Assessment Objectives and weightings 
+ 
+ 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Articulate informed, personal and creative responses to literary 
+texts, using associated concepts and terminology, and 
+coherent, accurate written expression 
+ 
+26.7 
+AO2 Analyse ways in which meanings are shaped in literary texts 26.7 
+AO3 Demonstrate understanding of the significance and influence of 
+the contexts in which literary texts are written and received 21.9 
+AO4 Explore connections across literary texts 14 
+AO5 Explore literary texts informed by different interpretations 11 
+Total 100% 
+ 
+NB: some totals have been rounded either up or down 
+34 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+Breakdown of Assessment Objectives 
+ 
+ 
+ 
+ 
+Paper/Component 
+Assessment Objectives Total for all 
+Assessment 
+Objectives AO1 AO2 AO3 AO4 AO5 
+Paper 1: Drama 7.8% 7.8% 7.8% 0% 6.9% 30% 
+Paper 2: Prose 5% 5% 5% 5% 0% 20% 
+Paper 3: Poetry 9.9% 9.9% 5.1% 5.1% 0% 30% 
+Non-examination 
+assessment 4% 4% 4% 4% 4% 20% 
+Total for this 
+qualification 26.7 26.7 21.9 14 11 100% 
+ 
+NB: some totals have been rounded either up or down 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+35  
+ 
+Entry and assessment information 
+ 
+Student entry 
+Details of how to enter students for the examinations for 
+this qualification can be found in our UK Information 
+Manual. A copy is made available to all examinations 
+officers and is available on our website 
+qualifications.pearson.com 
+ 
+Forbidden combinations, discount code and 
+performance tables 
+There are no forbidden combinations with this qualification. 
+Centres should be aware that students who enter for more 
+than one GCE qualification with the same discount code will 
+have only one of the grades they achieve counted for the 
+purpose of the School and College Performance Tables. If 
+the qualifications are the same size, then the better grade 
+will be counted (please see Appendix 3: Codes). 
+Students should be advised that if they take two GCE 
+qualifications with the same discount code, colleges, 
+universities and employers are very likely to take the view 
+that this achievement is equivalent to only one GCE. The 
+same view may be taken if students take two GCE 
+qualifications that have different discount codes but have 
+significant overlap of content. Students or their advisers 
+who have any doubts about their subject combinations 
+should check with the institution to which they wish to 
+progress before embarking on their programmes. 
+ 
+Access arrangements, reasonable adjustments and 
+special consideration 
+ 
+Access arrangements 
+Access arrangements are agreed before an assessment. 
+They allow students with special educational needs, 
+disabilities or temporary injuries to: 
+● access the assessment 
+● show what they know and can do without changing the 
+demands of the assessment. 
+The intention behind an access arrangement is to meet the 
+particular needs of an individual student with a disability 
+without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding 
+36 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+bodies comply with the duty under the Equality Act 2010 to 
+make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the 
+start of the course. Students will then know what is 
+available and have the access arrangement(s) in place for 
+assessment. 
+ 
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to 
+make reasonable adjustments where a person with a 
+disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is 
+required to take reasonable steps to overcome that 
+disadvantage. 
+A reasonable adjustment for a particular person may be 
+unique to that individual and therefore might not be in the 
+list of available access arrangements. 
+Whether an adjustment will be considered reasonable will 
+depend on a number of factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with 
+the disability and other students. 
+An adjustment will not be approved if it involves 
+unreasonable costs to the awarding organisation, 
+timeframes or affects the security or integrity of the 
+assessment. This is because the adjustment is not 
+‘reasonable’. 
+ 
+Special consideration 
+Special consideration is a post-examination adjustment to a 
+student's mark or grade to reflect temporary injury, illness 
+or other indisposition at the time of the 
+examination/assessment, which has had, or is reasonably 
+likely to have had, a material effect on a candidate’s ability 
+to take an assessment or demonstrate his or her level of 
+attainment in an assessment. 
+ 
+Further information 
+Please see our website for further information about how to 
+apply for access arrangements and special consideration. 
+For further information about access arrangements, 
+reasonable adjustments and special consideration, please 
+refer to the JCQ website: www.jcq.org.uk. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+37  
+Malpractice 
+ 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that 
+compromises or seeks to compromise the process of 
+assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered 
+before the candidate has signed the declaration of 
+authentication form does not need to be reported to 
+Pearson. 
+Candidate malpractice found in controlled assessments after 
+the declaration of authenticity has been signed, and in 
+examinations must be reported to Pearson on a JCQ 
+Form M1 (available at www.jcq.org.uk/exams- 
+office/malpractice). The form should be emailed to 
+candidatemalpractice@pearson.com. Please provide as 
+much information and supporting documentation as 
+possible. Note that the final decision regarding appropriate 
+sanctions lies with Pearson. 
+Failure to report candidate malpractice constitutes staff or 
+centre malpractice. 
+ 
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate 
+malpractice and maladministration of our qualifications. As 
+with candidate malpractice, staff and centre malpractice is 
+any act that compromises or seeks to compromise the 
+process of assessment or undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and 
+maladministration must be reported immediately, before 
+any investigation is undertaken by the centre, to Pearson 
+on a JCQ Form M2(a) (available at www.jcq.org.uk/exams- 
+office/malpractice). The form, supporting documentation 
+and as much information as possible should be emailed to 
+pqsmalpractice@pearson.com. Note that the final decision 
+regarding appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More detailed guidance on malpractice can be found in the 
+latest version of the document General and Vocational 
+Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at 
+www.jcq.org.uk/exams-office/malpractice. 
+38 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+Equality Act 2010 and Pearson equality policy 
+Equality and fairness are central to our work. Our equality 
+policy requires all students to have equal opportunity to 
+access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every 
+student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by 
+the Equality Act 2010) are not, when they are 
+undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that 
+characteristic 
+● all students achieve the recognition they deserve for 
+undertaking a qualification and that this achievement 
+can be compared fairly to the achievement of their 
+peers. 
+You can find details on how to make adjustments for 
+students with protected characteristics in the policy 
+document Access Arrangements, Reasonable Adjustments 
+and Special Consideration which is on our website 
+(qualifications.pearson.com). 
+ 
+Synoptic assessment 
+Synoptic assessment requires students to work across 
+different parts of a qualification and to show their 
+accumulated knowledge and understanding of a topic or 
+subject area. 
+Synoptic assessment enables students to show their ability 
+to combine their skills, knowledge and understanding with 
+breadth and depth of the subject. 
+Students draw together skills synoptically in their analysis 
+and evaluation of texts. This occurs throughout the 
+qualification and assessment, particularly in the non- 
+examination assessment. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+39  
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to 
+comply with the requirements of the current Code of 
+Practice, published by the Office of Qualifications and 
+Examinations Regulation (Ofqual). 
+The Advanced GCE qualification will be graded and 
+certificated on a six-grade scale from A* to E using the total 
+subject mark. Individual components are not graded. 
+The first certification opportunity for the Pearson Edexcel 
+Level 3 Advanced GCE in English Literature will be 2017. 
+Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be 
+recorded on a certificate will receive an unclassified U 
+result. 
+ 
+Language of assessment 
+Assessment of this qualification will be available in English. 
+All student work must be in English. 
+40 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+ 
+Other information 
+ 
+ 
+Student recruitment 
+ 
+Pearson follows the JCQ policy concerning recruitment to 
+our qualifications in that: 
+● they must be available to anyone who is capable of 
+reaching the required standard 
+● they must be free from barriers that restrict access and 
+progression 
+● equal opportunities exist for all students. 
+ 
+Prior learning and other requirements 
+ 
+There are no prior learning or other requirements for this 
+qualification. 
+Students who would benefit most from studying an 
+Advanced GCE in English Literature are likely to have a 
+Level 2 qualification such as a GCSE in English Literature. 
+ 
+Progression 
+ 
+Students can progress from this qualification to: 
+● higher education courses such as degrees in English, 
+English literature, creative writing or in related subjects 
+such as journalism, media, teaching, drama, history 
+● a wide range of careers directly related to English 
+literature, such as teacher, editor, writer, or in areas 
+such as publishing, journalism, the media, advertising, 
+marketing, public relations, arts administration, record 
+offices, libraries, national and local government and the 
+civil service. 
+ 
+Relationship between Advanced Subsidiary GCE and 
+Advanced GCE 
+The Advanced Subsidiary GCE is a discrete linear 
+qualification and comprises two examined components; 
+these are built from content that is common with the 
+Advanced GCE but they have different assessments that 
+take place at the end of the course. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+41  
+Relationship between GCSE and Advanced GCE 
+This qualification provides progression from GCSE building 
+on skills of analysing, evaluating and comparing texts and 
+writing skills, including accurate spelling, punctuation and 
+grammar. 
+ 
+Progression from GCSE to Advanced GCE 
+The Advanced GCE will allow students to develop a broader 
+and deeper understanding of English Literature and allow 
+them to develop higher English Literature skills. 
+42 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+ Appendices  
+Appendix 1: Transferable skills 43 
+Appendix 2: Level 3 Extended Project qualification 45 
+Appendix 3: Codes 48 
+Appendix 4: Non-examination assessment authentication sheet 49 
+Appendix 5: Prescribed texts 52 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+43  
+ 
+ 
+ 
+ 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines 
+skills, or competencies, as ‘the bundle of knowledge, attributes and capacities that 
+can be learned and that enable individuals to successfully and consistently perform 
+an activity or task and can be built upon and extended through learning.’1 
+To support the design of our qualifications, the Pearson Research Team selected 
+and evaluated seven global 21st-century skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the 
+most evidence-based and robust skills framework. We adapted the framework 
+slightly to include the Program for International Student Assessment (PISA) ICT 
+Literacy and Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves:2 
+ 
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills.  
+● ICT literacy – access, manage, integrate, evaluate, construct and 
+communicate3. 
+ 
+Interpersonal skills 
+● Communication – active listening, oral communication, written 
+communication, assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, 
+service orientation, self-presentation, social influence, conflict resolution and 
+negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+2 Koenig, J. A, National Research Council –) Assessing 21st Century Skills: Summary of a Workshop 
+(National Academies Press, 2011) 
+3 PISA −The PISA Framework for Assessment of ICT Literacy (2011) 
+Appendix 1: Transferable skills 
+44 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments.  
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher 
+education, as well as the demands of the workplace, and are important in the 
+teaching and learning of this qualification. We will provide teaching and learning 
+materials, developed with stakeholders, to support our qualifications. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+45  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What is the Extended Project? 
+The Extended Project is a standalone qualification that can be taken alongside 
+GCEs. It supports the development of independent learning skills and helps to 
+prepare students for their next step – whether that be higher education study or 
+employment. The qualification: 
+● is recognised by higher education for the skills it develops 
+● is worth half of an Advanced GCE qualification at grades A*–E 
+● carries UCAS points for university entry. 
+The Extended Project encourages students to develop skills in the following areas: 
+research, critical thinking, extended writing and project management. Students 
+identify and agree a topic area of their choice (which may or may not be related to 
+a GCE subject they are already studying), guided by their teacher. 
+Students can choose from one of four approaches to produce: 
+● a dissertation (for example, an investigation based on predominately secondary 
+research) 
+● an investigation/field study (for example, a practical experiment) 
+● a performance (for example, in music, drama or sport) 
+● an artefact (for example, creating a sculpture in response to a client brief or 
+solving an engineering problem). 
+The qualification is non-examination assessment based and students are assessed 
+on the skills of managing, planning and evaluating their project. Students will 
+research their topic, develop skills to review and evaluate the information, and then 
+present the final outcome of their project. 
+ 
+Students: what they need to do 
+The Extended Project qualification requires students to: 
+● select a topic of interest for an in-depth study and negotiate the scope of the 
+project with their teacher 
+● identify and draft an objective for their project (for example, in the form of a 
+question, hypothesis, challenge, outline of proposed performance, issue to be 
+investigated or commission for a client) and provide a rationale for their choice 
+● produce a plan for how they will deliver their intended objective 
+● conduct research as required by the project brief, using appropriate techniques 
+● carry out the project using tools and techniques safely 
+● share the outcome of the project using appropriate communication methods, 
+including a presentation. 
+Appendix 2: Level 3 Extended Project 
+qualification 
+46 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+Teachers: key information 
+● The Extended Project has 120 guided learning hours (GLH) consisting of: 
+o a taught 40-GLH element that includes teaching the technical skills 
+(for example, research skills) 
+o a guided 80-GLH element that includes mentoring students through the 
+project work. 
+● Group work is acceptable, however it is important that each student provides 
+evidence of their own contribution and produces their own report. 
+● 100% externally moderated. 
+● Four Assessment Objectives: manage, use resources, develop and realise, 
+review. 
+● Can be run over 1, 1½ or 2 years. 
+● Can be submitted in January or June. 
+ 
+How to link the Extended Project with English Literature 
+The Extended Project creates the opportunity to develop transferable skills for 
+progression to higher education and the workplace. This is through the exploration 
+of an area of personal interest or a topic of interest from the English Literature 
+qualification content. For example, English Literature students could work on a 
+dissertation that explores an aspect of English literature. 
+ 
+Skills developed 
+Through what they are taught and from their work on other projects, it is expected 
+that Extended Project students will develop skills in the following areas: 
+● independent research skills, including skills in primary research and the 
+selection of appropriate methods for data collection 
+● extended reading and academic writing, including reading academic articles 
+● planning/project management, including the refining of research questions 
+● source handling and evaluation 
+● evaluation of arguments and processes, including arguments in favour of 
+alternative interpretations of sources and evaluation of the research process 
+● critical thinking. 
+In the context of the Extended Project, critical thinking refers to the ability to 
+identify and develop arguments for a point of view or hypothesis, and the ability to 
+consider and to respond to alternative arguments. 
+The Extended Project is an ideal vehicle to develop the transferable skills identified 
+in Appendix 1. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+47  
+Using the Extended Project to support breadth and depth 
+Students are not expected to study specified material. In the Extended Project, 
+students are assessed on the quality of the work they produce and the skills they 
+develop and demonstrate through working on it. 
+English Literature students should demonstrate that they have extended 
+themselves in some significant way by means of their Extended Project. It is 
+important that they show at the outset how their work involves significant 
+extension beyond what they have studied in English Literature. Students can use 
+the Extended Project to demonstrate extension in one or more dimensions: 
+● deepening understanding: this is where a student explores a topic in greater 
+depth than in the specification content. An English Literature student could 
+choose to carry out a deeper, more analytic exploration of a concept that can be 
+explored through the lens of textual study. For example, questions about the 
+nature of literature or exploration of a concept such as identity or meaning 
+● broadening skills: this is where a student learns a new skill, for example 
+performance skills 
+● widening perspectives: this is where a student’s project spans different 
+subjects and involves cross-curricular exploration that looks at, for example, 
+political, social, philosophical and psychological aspects of the question.  
+ 
+Choosing topics and narrowing down to a question 
+Topics or titles linked to the themes from the English Literature qualification could 
+inspire a choice of Extended Project topic. 
+As an example of an English Literature related project, consider a student who, 
+having studied Hamlet, decided to explore the question of how identity is defined, 
+using the text of the play as a central source. The student’s dissertation contained a 
+literature review, examining the way in which the concept of identity figures in 
+Hamlet, and exploring this through engagement with commentaries on the play. In 
+the discussion section, the student critically examined some philosophical aspects of 
+the question of identity, using points from Hamlet to exemplify them. The project 
+concluded with a review of the research process and an oral presentation of the 
+main findings. 
+Examples of dissertation titles: 
+● Does the work of Christopher Marlowe illustrate the idea that works of art reflect 
+rather than initiate social changes? 
+● Is it possible to produce tragedy in the modern era? 
+● Is poetry essential to religious literature? 
+● Is authorial intent irrelevant when we are seeking to interpret a text? 
+There is also scope for English Literature based performance and artefact Extended 
+Projects. For example, a student might perform scenes from a text they are 
+studying or create an artefact inspired by a topic studied in English Literature.  
+48 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+ 
+ 
+ 
+ 
+Type of code Use of code Code number 
+Discount codes Every qualification eligible for 
+performance tables is assigned to a 
+discount code indicating the subject 
+area to which it belongs. 
+Discount codes are published by DfE. 
+Please see the 
+GOV.UK website 
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes 
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a 
+Qualification Number (QN). This is the 
+code that features in the DfE Section 96 
+and on the LARA as being eligible for 
+16–18 and 19+ funding, and is to be 
+used for all qualification funding 
+purposes. The QN is the number that 
+will appear on the student’s final 
+certification documentation. 
+The QN for the 
+qualification in this 
+publication is: 
+601/5046/4 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. 
+Centres will need to use the entry 
+codes only when claiming students’ 
+qualifications. 
+Advanced GCE – 
+9ET0 
+Paper/component 
+code 
+These codes are provided for reference 
+purposes. Students do not need to be 
+entered for individual 
+papers/components. 
+Paper 1: 9ET0/01 
+Paper 2: 9ET0/02 
+Paper 3: 9ET0/03 
+Non-examination 
+assessment: 
+9ET0/04 
+Appendix 3: Codes 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+49  
+ 
+ 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 9ET0/04 
+Have you received advice on the title 
+from the Assignment Advisory Service? 
+Y/N 
+Centre name: Centre number: 
+Candidate name: Candidate number: 
+Assignment Marks 
+awarded 
+Comments 
+Essay title: AOs 1, 2 and 3 
+/36 
+AOs 4 and 5 
+/24 
+ 
+TOTAL /60  
+Teacher declaration 
+I declare that the work submitted for assessment has been carried out without 
+assistance other than that which is acceptable according to the rules of the 
+specification. I certify that to the best of my knowledge the evidence submitted for this 
+assignment is the learner’s own. The learner has clearly referenced any sources and 
+any artificial intelligence (AI) tools used in the work. I have not solely used AI to mark 
+the learner’s work. I understand that false declaration is a form of malpractice. 
+I confirm that the candidate has studied at least three pre-1900 texts in the examined 
+components to meet the requirements of the qualification, and the same texts have 
+not been studied for both non-examination assessment and examination. 
+ 
+Assessor name:  
+Assessor signed:  Date:  
+Candidate declaration 
+I certify that the work submitted for this assessment is my own. I have clearly 
+referenced any sources used in the work and any AI tools used in the work. I 
+understand that false declaration is a form of malpractice. I understand that to 
+meet the requirements of the qualification, I must answer examination questions 
+on at least three pre-1900 texts and I must not use texts which I have studied for 
+non-examination assessment in my answers to examination questions. 
+I acknowledge that Pearson may use candidate work for the purposes of 
+standardisation, training, and exemplar material. 
+ 
+Candidate signed:  Date:  
+Appendix 4: Non-examination 
+assessment authentication sheet 
+50 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025  
+Texts coverage check 
+You are reminded that the text choices for the non-examination assessment must 
+be different to the texts studied in Components 1, 2 and 3. 
+Please tick all texts that have been studied in the other components. 
+ 
+Component 1 
+Shakespeare Other drama 
+Antony and Cleopatra  Les Blancs  
+Hamlet  Doctor Faustus  
+King Lear  The Duchess of Malfi  
+Othello  The Importance of Being Earnest  
+A Midsummer Night’s Dream  The Rover  
+Measure for Measure  A Streetcar Named Desire  
+The Taming of the Shrew  Sweat  
+Twelfth Night  Waiting for Godot  
+Component 2 Childhood Colonisation and its Aftermath 
+Hard Times  The Adventures of Huckleberry Finn  
+What Maisie Knew  Heart of Darkness  
+Atonement  Home Fire  
+The Color Purple  The Lonely Londoners  
+Component 2 The Supernatural Women and Society 
+Dracula  Tess of the D’Urbervilles  
+The Picture of Dorian Gray  Wuthering Heights  
+Beloved  Mrs Dalloway  
+The Little Stranger  A Thousand Splendid Suns  
+Component 2 Crime and Detection Science and Society 
+Lady Audley’s Secret  Frankenstein  
+The Moonstone  The War of the Worlds  
+The Cutting Season  The Handmaid’s Tale  
+In Cold Blood  Never Let Me Go  
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+51  
+Component 3 
+The Medieval Period  Geoffrey Chaucer  
+The Metaphysical Poets  John Donne  
+The Romantics  John Keats  
+The Victorians  Christina Rossetti  
+Modernism  T S Eliot  
+The Movement  Philip Larkin  
+ 
+Non-examination 
+assessment Please list the non-examination assessment texts below 
+Text 1 Text 2 
+52 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+ 
+ 
+ 
+ 
+Texts will be reviewed throughout the lifetime of the specification to ensure that all 
+prescribed texts remain fit for purpose. In the event that a change is required, 
+centres will be notified and a list of the appropriate alternative(s) will be posted on 
+our website (qualifications.pearson.com). 
+Please note that while resources are checked at the time of publication, materials 
+may be withdrawn from circulation at anytime. A list of appropriate alternatives will 
+be provided on our website (qualifications.pearson.com) in the event that a named 
+edition goes out of print. 
+ 
+Component 1: Drama and Component 2: Prose 
+We have not prescribed specific editions of the named drama and prose texts for 
+this qualification. Centres may select text editions for drama and prose that best 
+suit their needs but must adhere to the following guidelines when selecting editions 
+of texts for use in open book examination: 
+● editions that offer a paraphrase of the original text are not allowed, for example 
+editions of plays that offer a modern ‘translation’ on the facing page 
+● editions of Shakespeare plays that will be used in the examination may not 
+contain critical materials 
+● editions that offer study notes are not allowed. 
+Centres can source inexpensive editions such as Wordsworth Classics and Dover 
+Thrift. 
+ 
+Component 3: Poetry – poems to be studied 
+The lists of prescribed poems for the Post-2000 Specified Poetry and Specified 
+Poetry Pre- or Post-1900 appear overleaf. Page numbers refer to those used in the 
+named anthology/collection. 
+Please note that while resources are checked at the time of publication, materials 
+may be withdrawn from circulation at any time. A list of appropriate alternatives 
+will be posted on our website (qualifications.pearson.com) in the event that a 
+specific named edition goes out of print. 
+Appendix 5: Prescribed texts 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+53  
+Post-2000 Specified Poetry 
+ 
+Poems of the Decade: An Anthology of the Forward Books of Poetry 
+2002–2011 (Faber and Faber, 2015) 
+ISBN 978-0571325405 
+Poem title Poet Page 
+number 
+Eat Me Patience Agbabi 3 
+Chainsaw Versus the Pampas Grass Simon Armitage 6 
+Material Ros Barber 10 
+History John Burnside 25 
+An Easy Passage Julia Copus 37 
+The Deliverer Tishani Doshi 43 
+The Lammas Hireling Ian Duhig 51 
+To My Nine-Year-Old Self Helen Dunmore 52 
+A Minor Role U A Fanthorpe 57 
+The Gun Vicki Feaver 62 
+The Furthest Distances I’ve Travelled Leontia Flynn 64 
+Giuseppe Roderick Ford 66 
+Out of the Bag Seamus Heaney 81 
+Effects Alan Jenkins 92 
+Genetics Sinéad Morrissey 125 
+From the Journal of a Disappointed 
+Man 
+Andrew Motion 127 
+Look We Have Coming to Dover! Daljit Nagra 129 
+Please Hold Ciaran O’Driscoll 132 
+On Her Blindness Adam Thorpe 170 
+Ode on a Grayson Perry Urn Tim Turnbull 172 
+NB: other editions may use different page numbers 
+54 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+Specified Poetry Pre- or Post-1900 
+ 
+ 
+Pre-1900 – The Medieval Period 
+ 
+Everyman and Medieval Miracle Plays, editor A C Cawley 
+(Everyman, 1993) ISBN 9780460872805 
+Poem title Poet Page 
+number 
+Noah’s Flood (Chester) Anon 33 
+The Second Shepherds' Pageant 
+(Wakefield) 
+75 
+The Crucifixion (York) 137 
+ 
+ 
+English Mystery Plays: A Selection, editor Peter Happé 
+(Penguin Classics, 1975) ISBN 9780140430936 
+Poem title Poet Page 
+number 
+Noah (Chester) Anon 118 
+The Second Shepherds' Play 265 
+The Crucifixion 525 
+ 
+Note for prescribed list of poems for medieval poetry: 
+● Noah’s Flood/Noah is counted as the equivalent of seven poems 
+● The Second Shepherds’ Pageant/Play is counted as the equivalent of seventeen 
+poems 
+● The Crucifixion is counted as the equivalent of six poems. 
+ 
+ 
+The Wife of Bath’s Prologue and Tale, editor James Winny 
+(Cambridge, 1994) ISBN 9780521466899 or ISBN 9781316615607 
+Poem title Poet Page 
+number 
+The Wife of Bath’s Prologue Geoffrey Chaucer 35 
+The Wife of Bath’s Tale 63 
+ 
+Note for prescribed list of poems for Geoffrey Chaucer: 
+● The Wife of Bath’s Prologue is counted as the equivalent of twenty poems 
+● The Wife of Bath’s Tale is counted as the equivalent of ten poems. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+55  
+ 
+Pre-1900 – Metaphysical Poetry 
+Metaphysical Poetry, editor Colin Burrow (Penguin, 2006) 
+ISBN 9780140424447 
+Poem title Poet Page 
+number 
+The Flea John Donne 4 
+The Good Morrow 5 
+Song (‘Go and catch a falling star’) 6 
+Woman’s Constancy 7 
+The Sun Rising 8 
+A Valediction of Weeping 19 
+A Nocturnal Upon St Lucy’s Day, 
+Being the Shortest Day 
+21 
+The Apparition 22 
+Elegy: To his Mistress Going to Bed 29 
+‘At the Round Earth’s Imagined 
+Corners’ 
+31 
+‘Death be not Proud’ 32 
+‘Batter My Heart’ 33 
+A Hymn to God the Father 36 
+Redemption George Herbert 67 
+The Collar 78 
+The Pulley 79 
+Love III 87 
+To My Mistress Sitting by a River’s 
+Side: An Eddy 
+Thomas Carew 89 
+To a Lady that Desired I Would 
+Love Her 
+95 
+A Song (‘Ask me no more where 
+Jove bestows’) 
+98 
+A Letter to her Husband, Absent 
+upon Public Engagement 
+Anne Bradstreet 135 
+Song: To Lucasta, Going to the 
+Wars 
+Richard Lovelace 182 
+The Nymph Complaining for the 
+Death of her Fawn 
+Andrew Marvell 195 
+To His Coy Mistress 198 
+The Definition of Love 201 
+56 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+Metaphysical Poetry, editor Colin Burrow (Penguin, 2006) 
+ISBN 9780140424447 
+Poem title Poet Page 
+number 
+Unprofitableness Henry Vaughan 219 
+The World 220 
+To My Excellent Lucasia, on Our 
+Friendship 
+Katherine Philips 240 
+A Dialogue of Friendship Multiplied 241 
+Orinda to Lucasia 242 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+57  
+John Donne Selected Poems (Penguin Classics, 2006) 
+ISBN 9780140424409 
+Poem title Poet Page 
+number 
+The Good Morrow John Donne 3 
+Song (‘Go and catch a falling star’) 3 
+Woman’s Constancy 4 
+The Sun Rising 6 
+The Canonization 9 
+Song (‘Sweetest love I do not go’) 12 
+Air and Angels 15 
+The Anniversary 17 
+Twicknam Garden 20 
+Love’s Growth 24 
+A Valediction of Weeping 28 
+Love’s Alchemy 29 
+The Flea 30 
+A Nocturnal upon St Lucy’s Day, 
+Being the Shortest Day 
+33 
+The Apparition 36 
+A Valediction Forbidding Mourning 37 
+The Ecstasy 39 
+The Funeral 45 
+The Relic 48 
+Elegy: To His Mistress Going to 
+Bed 
+80 
+Holy Sonnet I (‘Thou hast made 
+me’) 
+177 
+Holy Sonnet V (‘I am a little 
+world’) 
+179 
+Holy Sonnet VI (‘This is my play’s 
+last scene’) 
+179 
+Holy Sonnet VII (‘At the round 
+earth’s imagined corners’) 
+180 
+Holy Sonnet X (‘Death be not 
+proud’) 
+181 
+58 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+John Donne Selected Poems (Penguin Classics, 2006) 
+ISBN 9780140424409 
+Poem title Poet Page 
+number 
+Holy Sonnet XI (‘Spit in my face, 
+you Jews’) 
+John Donne 182 
+Holy Sonnet XIV (‘Batter my 
+heart’) 
+183 
+Goodfriday, 1613. Riding 
+Westward 
+190 
+Hymn to God my God, in My 
+Sickness 
+195 
+A Hymn to God the Father 197 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+59  
+Pre-1900 – The Romantic Period 
+ 
+English Romantic Verse, editor David Wright 
+(Penguin Classics, 1973) ISBN 9780140421026 
+Poem title Poet Page 
+number 
+Songs of Innocence: Holy 
+Thursday 
+William Blake 69 
+Songs of Experience: Holy 
+Thursday 
+73 
+Songs of Experience: The Sick 
+Rose 
+73 
+Songs of Experience: The Tyger 74 
+Songs of Experience: London 75 
+Lines Written in Early Spring William Wordsworth 108 
+Lines Composed a Few Miles above 
+Tintern Abbey 
+109 
+Ode: Intimations of Immortality 133 
+Lines Inscribed upon a Cup Formed 
+from a Skull 
+George Gordon, Lord Byron 211 
+So We’ll Go no more A Roving 213 
+On This Day I Complete My 
+Thirty-Sixth Year 
+232 
+‘The cold earth slept below’ Percy Bysshe Shelley 242 
+Stanzas Written in Dejection, near 
+Naples 
+243 
+Ode to the West Wind 246 
+The Question 249 
+Ode to a Nightingale John Keats 276 
+Ode on a Grecian Urn 279 
+Ode on Melancholy 283 
+Sonnet on the Sea 287 
+60 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+Selected Poems: John Keats, editor John Barnard 
+(Penguin Classics, 2007) ISBN 9780140424478 
+Poem title Poet Page 
+number 
+‘O Solitude! if I must with thee 
+dwell’ 
+John Keats 5 
+On First Looking into Chapman’s 
+Homer 
+12 
+On the Sea 35 
+‘In drear-nighted December’ 97 
+On Sitting Down to Read King Lear 
+Once Again 
+99 
+‘When I have fears that I may 
+cease to be’ 
+100 
+The Eve of St Agnes 165 
+To Sleep 186 
+Ode to Psyche 187 
+Ode on a Grecian Urn 191 
+Ode to a Nightingale 193 
+Ode on Melancholy 195 
+‘Bright Star! would I were 
+steadfast as thou art’ 
+219 
+To Autumn 219 
+ 
+Note for prescribed list of poems for John Keats: 
+The Eve of St Agnes is counted as the equivalent of five poems. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+61  
+ 
+Pre-1900 – The Victorian Period 
+The New Oxford Book of Victorian Verse, editor Christopher Ricks 
+(OUP, 2008) ISBN 9780199556311 
+Poem title Poet Page 
+number 
+From In Memoriam: VII ‘Dark 
+house, by which once more I 
+stand’ 
+Alfred Tennyson 23 
+From In Memoriam: XCV ‘By night 
+we linger’d on the lawn’ 
+28 
+From Maud: I.xi ‘O let the solid 
+ground’ 
+37 
+From Maud: I.xviii ‘I have led her 
+home, my love, my only friend’ 
+38 
+From Maud: I.xxii ‘Come into the 
+garden, Maud’ 
+40 
+From Maud: II.iv ‘O that ’twere 
+possible’ 
+43 
+The Visionary Emily Brontë and Charlotte 
+Brontë 
+61 
+Grief Elizabeth Barrett Browning 101 
+From Sonnets from the Portuguese 
+XXIV ‘Let the world’s sharpness, 
+like a closing knife’ 
+102 
+The Best Thing in the World 115 
+‘Died…’ 116 
+My Last Duchess Robert Browning 117 
+Home-Thoughts, from Abroad 124 
+Meeting at Night 125 
+Love in a Life 134 
+‘The Autumn day its course has run–
+the Autumn evening falls’ 
+Charlotte Brontë 213 
+‘The house was still–the room was 
+still’ 
+214 
+‘I now had only to retrace’ 214 
+‘The Nurse believed the sick man 
+slept’ 
+215 
+Stanzas – [‘Often rebuked, yet 
+always back returning’] 
+Charlotte Brontë (perhaps by 
+Emily Brontë) 
+215 
+62 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+The New Oxford Book of Victorian Verse, editor Christopher Ricks 
+(OUP, 2008) ISBN 9780199556311 
+Poem title Poet Page 
+number 
+Remember Christina Rossetti 278 
+Echo 278 
+May 280 
+A Birthday 280 
+Somewhere or Other 297 
+At an Inn Thomas Hardy 465 
+‘I Look into My Glass’ 466 
+Drummer Hodge 467 
+A Wife in London 467 
+The Darkling Thrush 468 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+63  
+Christina Rossetti Selected Poems, editor Dinah Roe 
+(Penguin, 2008) ISBN 9780140424690 
+Poem title Poet Page 
+number 
+Some ladies dress in muslin full 
+and white 
+Christina Rossetti 12 
+Remember 16 
+The World 26 
+Echo 30 
+May 33 
+A Birthday 52 
+An Apple-Gathering 53 
+Maude Clare 55 
+At Home 57 
+Up-Hill 58 
+Goblin Market 67 
+What Would I Give? 88 
+Twice 89 
+Memory 112 
+A Christmas Carol 134 
+Passing and Glassing 156 
+Piteous my rhyme is 179 
+‘A Helpmeet for Him’ 182 
+As froth on the face of the deep 184 
+Our Mothers, lovely women pitiful 190 
+Babylon the Great 191 
+ 
+Note for prescribed list of poems for Christina Rossetti: 
+Goblin Market is counted as the equivalent of ten poems. 
+64 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+Post-1900 – The Modernist Period 
+ 
+The Great Modern Poets, editor Michael Schmidt 
+(Quercus, 2014) ISBN 9781848668669 
+Poem title Poet Page 
+number 
+The Runaway Robert Frost 30 
+Mending Wall 30 
+Stopping by Woods on a Snowy 
+Evening 
+32 
+Mowing 32 
+The Road Not Taken 32 
+Out, Out 33 
+The Red Wheelbarrow William Carlos Williams 46 
+This is just to say 46 
+Landscape with the Fall of Icarus 46 
+The Hunters in the Snow 47 
+The Great Figure 47 
+Snake D H Lawrence 50 
+To a Snail Marianne Moore 64 
+What Are Years? 64 
+La Figlia Che Piange T S Eliot 68 
+The Love Song of J. Alfred Prufrock 68 
+Time does not bring relief; you all 
+have lied… 
+Edna St Vincent Millay 78 
+Recuerdo 78 
+Wild Swans 79 
+The Fawn 79 
+in Just e e cummings 86 
+what if a much of a which of a 
+wind 
+86 
+pity this busy monster, manunkind 87 
+Stop all the Clocks W H Auden 114 
+Lullaby 114 
+Musée des Beaux Arts 115 
+The Shield of Achilles 116 
+Note for prescribed list of poems for Modernism: 
+The Love Song of J. Alfred Prufrock is counted as the equivalent of three poems. 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+65  
+T S Eliot: Selected Poems (Faber, 2009) ISBN 9780571247059 
+Poem title Poet Page 
+number 
+The Love Song of J. Alfred Prufrock T S Eliot 3 
+Portrait of a Lady 8 
+Preludes 13 
+Rhapsody on a Windy Night 16 
+Gerontion 21 
+Sweeney Erect 26 
+Whispers of Immortality 32 
+The Waste Land  
+I. The Burial of the Dead 41 
+II. A Game of Chess 44 
+III. The Fire Sermon 48 
+IV. Death by Water 53 
+V. What the Thunder said 54 
+The Hollow Men 65 
+Ash-Wednesday 71 
+Ariel Poems:  
+Journey of the Magi (1927) 87 
+66 Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+ 
+Post-1900 – The Movement 
+ 
+The Oxford Book of Twentieth Century English Verse, editor Philip Larkin 
+with foreword by Andrew Motion (OUP, 1973) ISBN 9780198121374  
+Poem title Poet Page 
+number 
+Hospital for Defectives Thomas Blackburn 484 
+Felo De Se 485 
+Horror Comic Robert Conquest 496 
+Man and Woman 497 
+Toads Philip Larkin 537 
+Coming 538 
+At Grass 538 
+Take One Home for the Kiddies 539 
+Nothing to be Said 540 
+The Whitsun Weddings 540 
+Apology for Understatement John Wain 555 
+Au Jardin des Plantes 556 
+A Song about Major Eatherly 557 
+Brooklyn Heights 562 
+Delay Elizabeth Jennings 563 
+Song at the Beginning of Autumn 563 
+Answers 564 
+The Young Ones 564 
+One Flesh 565 
+Photograph of Haymaker, 1890 Molly Holden 569 
+Giant Decorative Dahlias 570 
+Metamorphosis Peter Porter 584 
+London is full of chickens on 
+electric spits 
+585 
+Your Attention Please 585 
+Warning Jenny Joseph 609 
+The Miner’s Helmet George Macbeth 610 
+The Wasps’ Nest 611 
+When I am Dead 611 
+Story of a Hotel Room Rosemary Tonks 617 
+Farewell to Kurdistan 617 
+Pearson Edexcel Level 3 Advanced GCE in English Literature 
+Specification – Issue 11 – August 2025 © Pearson Education Limited 2025 
+67  
+Philip Larkin: The Less Deceived (Faber, 2011) ISBN 9780571260126 
+Poem title Poet Page 
+number 
+Lines On A Young Lady's 
+Photograph Album 
+Philip Larkin 1 
+Wedding-Wind 3 
+Places, Loved Ones 4 
+Coming 5 
+Reasons for Attendance 6 
+Dry-Point 7 
+Next, Please 8 
+Going 9 
+Wants 10 
+Maiden Name 11 
+Born Yesterday 12 
+Whatever Happened? 13 
+No Road 14 
+Wires 15 
+Church Going 16 
+Age 18 
+Myxomatosis 19 
+Toads 20 
+Poetry Of Departures 22 
+Triple Time 23 
+Spring 24 
+Deceptions 25 
+I Remember, I Remember 26 
+Absences 28 
+Latest Face 29 
+If, My Darling 30 
+Skin 31 
+Arrivals, Departures 32 
+At Grass 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Db140824 9781446944813_GCE2015_AL_ENGLIT_ISS10 V2.DOCX.1–80/0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com 
+Edexcel and BTEC are registered trademarks of Pearson Education Limited 
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office: 80 Strand, London WC2R 0RL 
+VAT Reg No GB 278 537121 

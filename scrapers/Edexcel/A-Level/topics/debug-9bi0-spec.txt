@@ -1,0 +1,3058 @@
+A Level 
+Biology B
+Specification
+Pearson Edexcel Level 3 Advanced GCE in Biology B (9BI0)
+First teaching from September 2015
+First certification from 2017 Issue 4
+
+ 
+Pearson Edexcel  
+Level 3 Advanced GCE  
+in Biology B (9BI0) 
+Specification 
+First certification 2017 
+Issue 4 
+ 
+ 
+ 
+ 
+
+Edexcel, BTEC and LCCI qualifications 
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK’s largest 
+awarding body offering academic and vocational qualifications that are globally 
+recognised and benchmarked. For further information, please visit our qualifications 
+website at qualifications.pearson.com. Alternatively, you can get in touch with us 
+using the details on our contact us page at qualifications.pearson.com/contactus 
+About Pearson 
+Pearson is the world's leading learning company, with 35,000 employees in more 
+than 70 countries working to help people of all ages to make measurable progress 
+in their lives through learning. We put the learner at the centre of everything we 
+do, because wherever learning flourishes, so do people. Find out more about how 
+we can help you and your learners at qualifications.pearson.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party material made in this specification are made in good faith. 
+Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Material may include textbooks, journals, magazines and other publications and 
+websites.) 
+ 
+All information in this specification is correct at time of publication. 
+ 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 93798 3  
+All the material in this publication is copyright 
+© Pearson Education Limited 2018 
+ 
+ 
+ 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+May 2014 
+  The reform of the qualifications system in England is a profoundly important 
+change to the education system. Teachers need to know that the new qualifications 
+will assist them in helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an 
+‘Expert Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or 
+because of our experience in reforming qualifications in other systems around the 
+world as diverse as Singapore, Hong Kong, Australia and a number of countries 
+across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification 
+development process that has included: 
+• extensive international comparability of subject content against the highest-
+performing jurisdictions in the world 
+• benchmarking assessments against UK and overseas providers to ensure that 
+they are at the right level of demand 
+• establishing External Subject Advisory Groups, drawing on independent subject-
+specific expertise to challenge and validate our qualifications 
+• subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future 
+oriented. The design has been guided by what is called an ‘Efficacy Framework’, 
+meaning learner outcomes have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a 
+learner’s success in education. As a result of our work as a panel we are confident 
+that we have supported the development of qualifications that are outstanding for 
+their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.  
+  
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong  
+Director, National Institute of 
+Education, Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+All titles correct as at May 2014 
+ 
+“ 
+” 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+The Pearson Edexcel Level 3 Advanced GCE in Biology B is designed for use in 
+schools and colleges. It is part of a suite of GCE qualifications offered by Pearson. 
+Purpose of the specification 
+This specification sets out: 
+● the objectives of the qualification 
+● any other qualification(s) that a student must have completed before taking the 
+qualification 
+● any prior knowledge and skills that the student is required to have before taking 
+the qualification 
+● any other requirements that a student must have satisfied before they will be 
+assessed or before the qualification will be awarded 
+● the knowledge and understanding that will be assessed as part of the 
+qualification 
+● the method of assessment and any associated requirements relating to it 
+● the criteria against which a student’s level of attainment will be measured (such 
+as assessment criteria). 
+ 
+ 
+ 
+Rationale 
+The Pearson Edexcel Level 3 Advanced GCE in Biology B meets the following 
+purposes, which fulfil those defined by the Office of Qualifications and Examinations 
+Regulation (Ofqual) for GCE qualifications in their GCE Qualification Level 
+Conditions and Requirements document, published in April 2014. 
+The purposes of this qualification are to: 
+• define and assess achievement of the knowledge, skills and understanding that 
+will be needed by students planning to progress to undergraduate study at UK 
+higher education institutions, particularly (although not only) in biology 
+• set out a robust and internationally comparable post-16 academic course of 
+study to develop that knowledge, skills and understanding 
+• enable HE institutions to identify accurately the level of attainment of students 
+• provide a basis for school and college accountability measures at age 18 
+• provide a benchmark of academic ability for employers. 
+Qualification aims and objectives 
+The aims and objectives of the Pearson Edexcel Level 3 Advanced GCE in Biology B 
+are to enable students to develop: 
+● essential knowledge and understanding of different areas of the subject and 
+how they relate to each other 
+● and demonstrate a deep appreciation of the skills, knowledge and 
+understanding of scientific methods 
+● competence and confidence in a variety of practical, mathematical and problem-
+solving skills 
+● their interest in and enthusiasm for the subject, including developing an interest 
+in further study and careers associated with the subject 
+● understanding of how society makes decisions about scientific issues and how 
+the sciences contribute to the success of the economy and society. 
+ 
+ 
+The context for the development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+• reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+• consulting with key stakeholders on content and assessment, including subject 
+associations, higher education academics, teachers and employers to ensure 
+this qualification is suitable for a UK context 
+• reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their document GCE Qualification Level Conditions and Requirements and by the 
+Department for Education (DfE) in their GCE AS and A level regulatory 
+requirements for biology, chemistry, physics and psychology document, published 
+in April 2014. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] Pearson’s World Class Qualification principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep learning and 
+measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing reliable and valid 
+assessment tasks and processes, and generating confidence in end users of the knowledge, skills 
+and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that students develop at 
+different rates and have different learning needs, and focusing on progression 
+● empowering, through promoting the development of transferable skills, see Appendix 1. 
+ 
+ 
+ 
+Summary of Pearson Edexcel Level 3 Advanced GCE in 
+Biology B specification Issue 4 changes  
+ 
+Summary of changes made between previous issue and this 
+current issue 
+Page 
+number 
+‘Subject to confirmation in spring 2015 following trialling’ has been 
+deleted. 
+37 and 38 
+ 
+If you need further information on these changes or what they mean, contact us via 
+our website at: qualifications.pearson.com/en/support/contact-us.html. 
+ 
+ 
+ 
+ 
+ 
+Contents 
+Qualification at a glance 1 
+Knowledge, skills and understanding 5 
+Science Practical Endorsement 34 
+Marking and standardisation 38 
+Malpractice 39 
+Assessment 41 
+Assessment summary 41 
+Assessment Objectives and weightings 43 
+Breakdown of Assessment Objectives 43 
+Entry and assessment information 44 
+Student entry 44 
+Discount codes and performance tables 44 
+Access arrangements, reasonable adjustments and special 
+consideration 45 
+Equality Act 2010 and Pearson equality policy 46 
+Synoptic assessment 46 
+Awarding and reporting 47 
+Language of assessment 47 
+Other information 49 
+Student recruitment 49 
+Prior learning and other requirements 49 
+Progression 49 
+Relationship between Advanced Subsidiary GCE and 
+Advanced GCE 49 
+Progression from Advanced Subsidiary GCE to Advanced 
+GCE 49 
+Relationship between GCSE and Advanced GCE 50 
+Progression from GCSE to Advanced GCE 50 
+Appendix 1: Transferable skills 53 
+Appendix 2: Level 3 Extended Project qualification 55 
+Appendix 3: Codes 59 
+Appendix 4: Practical competency authentication 
+sheet 61 
+Appendix 5: Working scientifically 63 
+Appendix 5a: Practical skills identified for indirect 
+assessment and developed through teaching and 
+learning 65
+ 
+ 
+ 
+Appendix 5b: Practical skills identified for direct 
+assessment and developed through teaching and 
+learning 67 
+Appendix 5c: Use of apparatus and techniques 69 
+Appendix 5d: Mapping between Appendix 5c and 
+core practicals (biology) 71 
+Appendix 6: Mathematical skills and 
+exemplifications 75 
+Appendix 7: Command words used in examination 
+papers 81 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+1 
+Qualification at a glance 
+The Pearson Edexcel Level 3 Advanced GCE in Biology B consists of three externally 
+examined papers and the Science Practical Endorsement. 
+Students are expected to carry out the 16 core practical experiments that are 
+identified in the content. 
+Students must complete all assessment in May/June in any single year. 
+ 
+Paper 1: Advanced Biochemistry, Microbiology and Genetics 
+ *Paper code: 9BI0/01 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+30% of the 
+total 
+qualification 
+Overview of content 
+This paper will examine the following topics: 
+● Topic 1: Biological Molecules 
+● Topic 2: Cells, Viruses and Reproduction of Living Things 
+● Topic 3: Classification and Biodiversity 
+● Topic 4: Exchange and Transport 
+● Topic 5: Energy for Biological Processes 
+● Topic 6: Microbiology and Pathogens 
+● Topic 7: Modern Genetics.  
+Overview of assessment 
+● Assessment is 1 hour 45 minutes. 
+● The paper consists of 90 marks. 
+● The paper may include multiple-choice, short open, open-response, calculations and 
+extended writing questions. 
+● The paper will include questions that target mathematics at Level 2 or above (see 
+Appendix 6: Mathematical skills and exemplifications). Overall, a minimum of 10% 
+of the marks across the three papers will be awarded for mathematics at Level 2 or 
+above. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+2 
+ 
+Paper 2: Advanced Physiology, Evolution and Ecology 
+ *Paper code: 9BI0/02 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+30% of the 
+total 
+qualification 
+Overview of content 
+This paper will examine the following topics: 
+● Topic 1: Biological Molecules 
+● Topic 2: Cells, Viruses and Reproduction of Living Things 
+● Topic 3: Classification and Biodiversity 
+● Topic 4: Exchange and Transport 
+● Topic 8: Origins of Genetic Variation  
+● Topic 9: Control Systems 
+● Topic 10: Ecosystems. 
+Overview of assessment 
+● Assessment is 1 hour 45 minutes. 
+● The paper consists of 90 marks. 
+● The paper may include multiple-choice, short open, open-response, calculations and 
+extended writing questions. 
+● The paper will include questions that target mathematics at Level 2 or above (see 
+Appendix 6: Mathematical skills and exemplifications). Overall, a minimum of 10% 
+of the marks across the three papers will be awarded for mathematics at Level 2 or 
+above.  
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+3 
+ 
+Paper 3: General and Practical Principles in Biology 
+ *Paper code: 9BI0/03 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+40% of the 
+total 
+qualification 
+Overview of content 
+● This paper will include questions from Topics 1−10. 
+Overview of assessment 
+● Assessment is 2 hours 30 minutes. 
+● The paper consists of 120 marks. 
+● The paper may include short open, open-response, calculations and extended writing 
+questions. 
+● The paper will include synoptic questions that may draw on two or more different 
+topics. 
+● The paper will include questions that target mathematics at Level 2 or above (see 
+Appendix 6: Mathematical skills and exemplifications). Overall, a minimum of 10% 
+of the marks across the three papers will be awarded for mathematics at Level 2 or 
+above. 
+● The paper will include questions that target the conceptual and theoretical 
+understanding of experimental methods. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+4 
+ 
+Science Practical Endorsement** 
+*Paper code: 9BI0/04 
+• Internally assessed and externally monitored by Pearson. 
+• Availability: May/June 
+• First assessment: 2017 
+Overview of content 
+The assessment of practical skills is a compulsory requirement of the course of study for 
+A level biology. It will appear on all students’ certificates as a separately reported result, 
+alongside the overall grade for the qualification.  
+Students must carry out a minimum of 12 practical activities which, together, meet the 
+requirements of Appendices 5b (Practical skills identified for direct assessment and 
+developed through teaching and learning) and 5c (Use of apparatus and techniques) 
+from the prescribed subject content.  
+The practical activities prescribed in this specification (the "core practicals") provide 
+opportunities for demonstrating competence in all the skills identified, together with the 
+use of apparatus and techniques for each subject. However, students can also 
+demonstrate these competencies in any additional practical activity undertaken 
+throughout the course of study which covers the requirements of Appendix 5c. 
+Overview of assessment 
+Students' practical work will be assessed by teachers, using common practical 
+assessment criteria (CPAC) that are consistent across exam boards. These criteria can 
+be found on pages 48-49. 
+Students who demonstrate the required standard across all the requirements of the 
+CPAC will receive a ‘pass’ grade. 
+Students may work in groups but teachers who award a pass to their students need to 
+be confident of individual students’ competence. 
+The correct application of CPAC to students' work will be monitored through a system of 
+visits to centres. These visits will be coordinated across the exam boards by JCQ, to 
+ensure that all centres are visited regularly, although not necessarily in each science 
+subject. 
+ 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+** Students will be assessed separately for the Science Practical Endorsement. The 
+Endorsement will not contribute to the overall grade for this qualification, but the 
+result will be recorded on the student’s certificate. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+5 
+Knowledge, skills and understanding 
+Content overview 
+Students will be expected to demonstrate and apply the knowledge, understanding 
+and skills described in the content for each topic below. In addition, they will be 
+expected to analyse, interpret and evaluate a range of scientific information, ideas 
+and evidence using their knowledge, understanding and skills. 
+To demonstrate knowledge, students should be able to undertake a range of 
+activities, including the ability to recall, describe and define, as appropriate. To 
+demonstrate understanding, students should be able to explain ideas and use their 
+knowledge to apply, analyse, interpret and evaluate, as appropriate. 
+Each topic begins with an overview of the wider biological context designed to 
+encourage an overarching approach to both the teaching and learning of the 
+subject. As such, it will not be directly assessed. 
+There are opportunities for students to develop mathematical skills throughout the 
+content. They are required to apply the skills to relevant biology contexts. In order 
+to be able to develop their skills, knowledge and understanding in science, students 
+need to have been taught, and to have acquired competence in, the appropriate 
+areas of mathematics relevant to the subject. These skills will be applied in the 
+context of biology and will be developed throughout the course. All mathematical 
+skills listed in Appendix 6 must be assessed within the lifetime of the qualification. 
+Content that is common to the Pearson Edexcel Level 3 Advanced Subsidiary GCE in 
+Biology B is in Topics 1-4. 
+Practical skills 
+Practical work is central to any study of biology. For this reason, the specification 
+includes 16 core practical activities which form a thread linking theoretical 
+knowledge and understanding to practical scenarios. In following this thread, 
+students will build on practical skills learned at GCSE, becoming confident practical 
+biologists, handling apparatus competently and safely. Using a variety of apparatus 
+and techniques, they should be able to design and carry out both the core practical 
+activities and their own investigations, collecting data which can be analysed and 
+used to draw valid conclusions. 
+One important aspect of practical work is the ability to evaluate and manage 
+potential risks. The variety of different practical techniques and scenarios in the 
+core practical activities give students scope to consider risk management in 
+different contexts. 
+Students should also consider the ethical issues presented by their work in the 
+laboratory, which might include consideration for the ethical use of live subjects, 
+the safe disposal of waste materials, and appropriate consideration for other people 
+involved in their own work or who are working nearby. 
+Also central to the development of practical skills is the ability to communicate 
+information and ideas through the use of appropriate terminology and ICT. Being 
+able to communicate clearly the findings of practical work is arguably as important 
+as the collection of accurate data. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+6 
+In carrying out practical activities, students will be expected to use their knowledge 
+and understanding to pose scientific questions which can be investigated through 
+experimental activities. Such activities will enable students to collect data, analyse 
+it for correlations and causal relationships, and to develop solutions to the 
+questions posed.  
+Questions within written examination papers will aim to assess the knowledge and 
+understanding that students gain while carrying out practical activities, within the 
+context of the 16 core practical activities, as well as in novel practical scenarios. 
+The written papers will test the skills of students in planning practical work – both 
+in familiar and unfamiliar applications – including risk management and the 
+selection of apparatus, with reasons. As part of data handling, students will be 
+expected to use significant figures appropriately, to process data and to plot 
+graphs. In analysing outcomes and drawing valid conclusions, students should 
+critically consider methods and data, including assessing measurement 
+uncertainties and errors.  
+Examination papers will also provide the opportunity for students to evaluate the 
+wider role of the scientific community in validating new knowledge and the ways in 
+which society as a whole uses science to inform decision making. Within this, they 
+could be asked to consider the implications and applications of biology in terms of 
+associated benefits and risks. Students may also be asked to evaluate 
+methodology, evidence and data and resolve conflicting evidence. 
+Success in questions that indirectly assess practical skills within written papers will 
+come more naturally to those candidates who have a solid foundation of laboratory 
+practice and who, having carried them out, have a thorough understanding of 
+practical techniques. Therefore, where possible, teachers should consider adding 
+additional experiments to the core practical activities. The 16 core practicals will 
+provide the basis from which some of the examination questions will be drawn. 
+Teachers should note that the completion of the 16 core practical activities can also 
+provide evidence of competence for the Science Practical Endorsement (please see  
+page 31) and that evidence must be provided for the 12 practical techniques listed 
+in Appendix 5c through a minimum of 12 core practical activities. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+7 
+Topic 1: Biological Molecules 
+This topic introduces the chemicals of life: the organic and inorganic molecules and 
+ions that are fundamental to the structure and physiology of living organisms. The 
+role of monomers in the synthesis of polymers and how the structure and 
+properties of these relate to their functions are considered. An understanding of 
+scientific method is developed in the practical investigation of enzyme action. 
+Opportunities for developing mathematical skills within this topic include: 
+recognising and making use of appropriate units in calculations; using ratios, 
+fractions and percentages; constructing and interpreting frequency tables and 
+diagrams; translating information between graphical, numerical and algebraic 
+forms; understanding that y = mx + c represents a linear relationship; determining 
+the intercept of a graph; calculating rate of change from a graph; drawing and 
+using the slope of a tangent to a curve as a measure of rate of change. (Please see 
+Appendix 6: Mathematical skills and exemplifications for further information.) 
+ 
+Students should: 
+1.1 Carbohydrates 
+i Know the difference between monosaccharides, disaccharides and 
+polysaccharides. 
+ii Know the structure of the hexose glucose (alpha and beta) and the pentose 
+ribose.  
+iii Understand how monosaccharides (glucose, fructose, galactose) join to form 
+disaccharides (sucrose, lactose and maltose) and polysaccharides (starch 
+formed from amylose and amylopectin; glycogen) through condensation 
+reactions forming glycosidic bonds, and how these can be split through 
+hydrolysis reactions. 
+iv Understand how the structure of glucose, starch, glycogen and cellulose relates 
+to their function.  
+1.2 Lipids 
+i Understand how a triglyceride is synthesised, including the formation of ester 
+bonds during condensation reactions between glycerol and three fatty acids. 
+ii Know the differences between saturated and unsaturated lipids. 
+iii Understand how the structure of lipids relates to their role in energy storage, 
+waterproofing and insulation. 
+iv Understand how the structure and properties of phospholipids relate to their 
+function in cell membranes.
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+8 
+ 
+Students should: 
+1.3 Proteins 
+i Know the structure of an amino acid (structures of specific amino acids are not 
+required). 
+ii Understand the formation of polypeptides and proteins (as amino acid 
+monomers linked by peptide bonds in condensation reactions). 
+iii Understand the role of ionic, hydrogen and disulfide bonding in the structure of 
+proteins. 
+iv Understand the significance of the primary, secondary, tertiary and quaternary 
+structure of a protein in determining the properties of fibrous and globular 
+proteins, including collagen and haemoglobin. 
+v Understand how the structure of collagen and haemoglobin are related to their 
+function. 
+1.4 DNA and protein synthesis 
+i Know the structure of DNA, including the structure of the nucleotides (purines 
+and pyrimidines), base pairing, the two sugar-phosphate backbones, 
+phosphodiester bonds and hydrogen bonds. 
+ii Understand how DNA is replicated semi-conservatively, including the role of 
+DNA helicase, polymerase and ligase. 
+iii Know that a gene is a sequence of bases on a DNA molecule coding for a 
+sequence of amino acids in a polypeptide chain. 
+iv Know the structure of mRNA including nucleotides, the sugar phosphate 
+backbone and the role of hydrogen bonds.  
+v Know the structure of tRNA, including nucleotides, the role of hydrogen bonds 
+and the anticodon. 
+vi Understand the processes of transcription in the nucleus and translation at the 
+ribosome, including the role of sense and anti-sense DNA, mRNA, tRNA and the 
+ribosomes. 
+vii Understand the nature of the genetic code, including triplets coding for amino 
+acids, start and stop codons, degenerate and non-overlapping nature, and that 
+not all the genome codes for proteins. 
+viii Understand the term gene mutation as illustrated by base deletions, insertions 
+and substitutions. 
+ix Understand the effect of point mutations on amino acid sequences, as 
+illustrated by sickle cell anaemia in humans.
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+9 
+ 
+Students should: 
+1.5 Enzymes 
+i Know the structure of enzymes as globular proteins. 
+ii Understand the concepts of specificity and the induced fit hypothesis. 
+iii Understand that enzymes are catalysts that reduce activation energy. 
+iv Understand how temperature, pH, substrate and enzyme concentration affect 
+the rate of enzyme activity. 
+CORE PRACTICAL 1: Investigate a factor affecting the initial rate of an enzyme– 
+controlled reaction. 
+v Understand how the initial rate of enzyme activity can be measured and why 
+this is important. 
+vi Understand how enzymes can be affected by competitive, non-competitive and 
+end-product inhibition. 
+vii Know that enzymes catalyse a wide range of intracellular reactions as well as 
+extracellular ones.
+ 
+1.6 Inorganic ions 
+i Understand the role in plants of:  
+● nitrate ions – to make DNA and amino acids 
+● calcium ions – to form calcium pectate for the middle lamellae 
+● magnesium ions – to produce chlorophyll 
+● phosphate ions – to make ADP and ATP. 
+ 
+1.7 Water 
+i Understand the importance of the dipole nature of water leading to hydrogen 
+bonding and the significance of the following to organisms:  
+● high specific heat capacity 
+● polar solvent 
+● surface tension 
+● incompressibility 
+● maximum density at 4 °C. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+10 
+Topic 2: Cells, Viruses and Reproduction of Living Things 
+This topic considers the ultrastructure of prokaryotes, eukaryotes and viruses. 
+Details of the types of nuclear division are included and how these are involved in 
+animal and plant reproduction. Microscopy and observational skills are developed 
+through the preparation of stained plant tissue. 
+Opportunities for developing mathematical skills within this topic include: 
+recognising and using expressions in decimal and standard form; making order of 
+magnitude calculations; changing the subject of an equation; plotting two variables 
+from experimental or other data. (Please see Appendix 6: Mathematical skills and 
+exemplifications for further information.) 
+ 
+Students should: 
+2.1 Eukaryotic and prokaryotic cell structure and function 
+i Understand that cell theory is a unifying concept that states that cells are a 
+fundamental unit of structure, function and organisation in all living organisms.  
+ii Understand that in complex organisms, cells are organised into tissues, organs, 
+and organ systems.  
+iii Know the ultrastructure of prokaryotic cells and the structure of organelles, 
+including: nucleoid, plasmids, 70S ribosomes and cell wall. 
+iv Be able to distinguish between Gram positive and Gram negative bacterial cell 
+walls and understand why each type reacts differently to some antibiotics. 
+v Know the ultrastructure of eukaryotic cells and the functions of organelles, 
+including: nucleus, nucleolus, 80S ribosomes, rough and smooth endoplasmic 
+reticulum, mitochondria, centrioles, lysosomes, Golgi apparatus, cell wall, 
+chloroplasts, vacuole and tonoplast. 
+vi Know how magnification and resolution can be achieved using light and electron 
+microscopy. 
+vii Understand the importance of staining specimens in microscopy. 
+CORE PRACTICAL 2:
+ Use of the light microscope, including simple stage and eyepiece 
+micrometers and drawing small numbers of cells from a specialised tissue. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+11 
+ 
+Students should: 
+2.2 Viruses 
+i Understand that the classification of viruses is based on structure and nucleic 
+acid types as illustrated by λ (lambda) phage (DNA), tobacco mosaic virus and 
+Ebola (RNA) and human immunodeficiency virus (RNA retrovirus). 
+ii Know the lytic cycle of a virus and latency. 
+iii Know that viruses are not living cells and so antivirals must work by inhibiting 
+virus replication. 
+iv Know that as viruses can be difficult to treat once infection has occurred, the 
+focus of disease control should be on preventing the spread, as exemplified by 
+the 2014 Ebola outbreak in West Africa. 
+v Be able to evaluate the ethical implications of using untested drugs during 
+epidemics. 
+2.3 Eukaryotic cell cycle and division 
+i Know that the cell cycle is a regulated process in which cells divide into two 
+identical daughter cells, and that this process consists of three main stages: 
+interphase, mitosis and cytokinesis. 
+ii Understand what happens to genetic material during the cell cycle, including the 
+stages of mitosis. 
+iii Understand how mitosis contributes to growth, repair and asexual reproduction. 
+CORE PRACTICAL 3: Make a temporary squash preparation of a root tip to show stages 
+of mitosis in the meristem under the light microscope. 
+ 
+iv Understand how meiosis results in haploid gametes, including the stages of 
+meiosis. 
+v Understand that meiosis results in genetic variation through recombination of 
+alleles, including independent assortment and crossing over. 
+vi Understand what chromosome mutations are, as illustrated by translocations. 
+vii Understand how non-disjunction can lead to polysomy, including Down’s 
+syndrome, and monosomy, including Turner’s syndrome. 
+2.4 Sexual reproduction in mammals 
+i Understand the processes of oogenesis and spermatogenesis. 
+ii Understand the events of fertilisation from the first contact between the 
+gametes to the fusion of nuclei. 
+iii Understand the early development of the embryo to blastocyst stage. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+12 
+ 
+Students should: 
+2.5 Sexual reproduction in plants 
+i Understand how a pollen grain forms in the anther and the embryo sac forms in 
+the ovule. 
+ii Understand how the male nuclei formed by division of the generative nucleus in 
+the pollen grain reach the embryo sac, including the roles of the tube nucleus, 
+pollen tube and enzymes. 
+CORE PRACTICAL 4: Investigate the effect of sucrose concentrations on pollen tube 
+growth or germination. 
+ 
+iii Understand the process of double fertilisation inside the embryo sac to form a 
+triploid endosperm and a zygote. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+13 
+Topic 3: Classification and Biodiversity 
+This topic considers the evidence used in the development of models for the 
+classification of organisms. It also considers the limitations of these models. The 
+topic includes the principles underlying natural selection and how this can lead to 
+speciation.  
+Opportunities for developing mathematical skills within this topic include the 
+principles of sampling as applied to scientific data, and assessment of species 
+diversity using a formula to calculate an index of diversity. (Please see Appendix 6: 
+Mathematical skills and exemplifications for further information.) 
+ 
+Students should: 
+3.1 Classification 
+i Know that the classification system consists of a hierarchy of domain, kingdom, 
+phylum, class, order, family, genus and species.  
+ii Understand the limitations of the definition of a species as a group of 
+organisms with similar characteristics that interbreed to produce fertile 
+offspring. 
+iii Understand why it is often difficult to assign organisms to any one species or to 
+identify new species. 
+iv Understand how gel electrophoresis can be used to distinguish between species 
+and determine evolutionary relationships.  
+v Know that DNA sequencing and bioinformatics can be used to distinguish 
+between species and determine evolutionary relationships. 
+vi Understand the role of scientific journals, the peer review process and scientific 
+conferences in validating new evidence supporting the accepted scientific 
+theory of evolution. 
+vii Understand the evidence for the three-domain model of classification as an 
+alternative to the five-kingdom model and the role of the scientific community 
+in validating this evidence.  
+3.2 Natural selection 
+i Understand how evolution can come about through natural selection acting on 
+variation bringing about adaptations. 
+ii Understand how organisms occupy niches according to physiological, 
+behavioural and anatomical adaptations. 
+iii Understand how reproductive isolation can lead to allopatric and sympatric 
+speciation.  
+iv Understand that there is an evolutionary race between pathogens and the 
+development of medicines to treat the diseases they cause. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+14 
+ 
+Students should: 
+3.3 Biodiversity 
+i Know that biodiversity can be assessed at different scales: 
+● within a habitat at the species level using a formula to calculate an index 
+of diversity: 
+( )
+( )
+NN 1D Σn n 1
+−= −
+ 
+ 
+● within a species at the genetic level by looking at the variety of alleles in 
+the gene pool of a population. 
+ii Understand the ethical and economic reasons (ecosystem services) for the 
+maintenance of biodiversity. 
+iii Understand the principles of ex-situ (zoos and seed banks) and in-situ 
+conservation (protected habitats), and the issues surrounding each method. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+15 
+Topic 4: Exchange and Transport 
+This topic considers the requirements for transport mechanisms in cells and mass 
+flow systems in organisms. The roles of the components of the mammalian 
+circulatory system and the vascular system in plants are studied. Practical skills are 
+developed through the investigation of factors that affect membrane permeability 
+and water potential of plant tissues. 
+Opportunities for developing mathematical skills within this topic include: 
+recognising and making use of appropriate units in calculations; recognising and 
+using expressions in decimal and standard form; using ratios, fractions and 
+percentages; finding arithmetic means; solving algebraic equations; translating 
+information between graphical, numerical and algebraic forms; plotting variables 
+from experimental data; understanding that y = mx + c represents a linear 
+relationship; determining the intercept of a graph; calculating rate of change from a 
+graph showing a linear relationship; calculating the circumferences, surface areas 
+and volumes of regular shapes. (Please see Appendix 6: Mathematical skills and 
+exemplifications for further information.) 
+ 
+Students should: 
+4.1 Surface area to volume ratio 
+i Understand how surface area to volume ratio affects transport of molecules in 
+living organisms. 
+ii Understand why organisms need a mass transport system and specialised gas 
+exchange surfaces as they increase in size. 
+4.2 Cell transport mechanisms 
+i Know the structure of the cell surface membrane with reference to the fluid 
+mosaic model. 
+ii Understand how passive transport is brought about by: 
+● diffusion 
+● facilitated diffusion (through carrier proteins and protein channels) 
+● osmosis. 
+ 
+iii Understand how the properties of molecules affects how they are transported, 
+including solubility, size and charge. 
+iv Know that large molecules can be transported into and out of cells through the 
+formation of vesicles, in the processes of endocytosis and exocytosis. 
+CORE PRACTICAL 5: Investigate the effect of temperature on beetroot membrane 
+permeability. 
+CORE PRACTICAL 6: Determine the water potential of plant cells. 
+ 
+Water potential = turgor pressure + osmotic potential 
+ 
+ψ = 
+P + π  
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+16 
+ 
+Students should: 
+4.2 Cell transport mechanisms (continued) 
+v Understand the process of active transport, including the role of ATP. 
+vi Know that phosphorylation of ADP requires energy and that hydrolysis of ATP 
+provides an accessible supply of energy for biological processes. 
+4.3 Gas exchange 
+i Understand how insects, fish and mammals are adapted for gas exchange. 
+CORE PRACTICAL 7: Dissect an insect to show the structure of the gas exchange 
+system, taking into account the safe and ethical use of organisms. 
+ii Understand gas exchange in flowering plants, including the role of stomata, gas 
+exchange surfaces in the leaf and lenticels. 
+4.4 Circulation 
+i Know the structure of the heart, arteries, veins and capillaries. 
+ii Understand the advantages of a double circulatory system in mammals over the 
+single circulatory systems in bony fish, including the facility for blood to be 
+pumped to the body at higher pressure and the splitting of oxygenated and 
+deoxygenated blood. 
+iii Know the sequence of events of the cardiac cycle. 
+iv Understand myogenic stimulation of the heart, including the roles of the 
+sinoatrial node (SAN), atrioventricular node (AVN) and bundle of His. 
+v Be able to interpret data showing ECG traces and pressure changes during the 
+cardiac cycle.  
+vi Know the structure of blood as plasma and blood cells, to include erythrocytes 
+and leucocytes (neutrophils, eosinophils, monocytes and lymphocytes).  
+vii Know the function of blood as transport, defence, and formation of lymph and 
+tissue fluid. 
+viii Understand the role of platelets and plasma proteins in the sequence of events 
+leading to blood clotting, including:
+ 
+● platelets form a plug and release clotting factors, including thromboplastin 
+● prothrombin changes to its active form, thrombin 
+● soluble fibrinogen forms insoluble fibrin to cover the wound. 
+ 
+ix Understand the stages that lead to atherosclerosis, its effect on health and the 
+factors that increase the risk of its development. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+17 
+ 
+Students should: 
+4.5 Transport of gases in the blood 
+i Understand the structure of haemoglobin in relation to its role in the transport of 
+respiratory gases, including the Bohr effect. 
+ii Understand the oxygen dissociation curve of haemoglobin. 
+iii Understand the similarities and differences between the structures and functions 
+of haemoglobin and myoglobin. 
+iv Understand the significance of the oxygen affinity of fetal haemoglobin as 
+compared to adult haemoglobin. 
+4.6 Transfer of materials between the circulatory system and cells 
+i Understand how the interchange of substances occurs through the formation and 
+reabsorption of tissue fluid, including the effects of hydrostatic pressure and 
+oncotic pressure. 
+ii Know that tissue fluid that is not reabsorbed is returned to the blood via the 
+lymph system. 
+4.7 Transport in plants 
+i Understand the structure of xylem and phloem tissues in relation to their role in 
+transport. 
+ii Understand how water can be moved through plant cells by the apoplastic and 
+symplastic pathways. 
+iii Understand how the cohesion-tension model explains the transport of water 
+from plant roots to shoots. 
+iv Understand how temperature, light, humidity and movement of air affect the 
+rate of transpiration.  
+v Understand the strengths and weaknesses of the mass-flow hypothesis in 
+explaining the movement of sugars through phloem tissue.  
+CORE PRACTIAL 8:
+ Investigate factors affecting water uptake by plant shoots using a 
+potometer. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+18 
+Topic 5: Energy for Biological Processes 
+This topic builds on knowledge of carbohydrates and enzymes. It considers the 
+sources of energy in living organisms and how energy transfers take place. Details 
+of the stages in respiration and photosynthesis, the roles of co-enzymes and 
+electrons along with the uses of intermediates are included. Practical skills are 
+developed in the investigations of photosynthetic pigments and the factors that 
+affect rates of respiration and photosynthesis. 
+Opportunities for developing mathematical skills within this topic include: 
+translating information between graphical, numerical and algebraic forms; plotting 
+variables from experimental data; understanding that y = mx + c represents a 
+linear relationship; determining the intercept of a graph; calculating rate of change 
+from a graph showing a linear relationship; determining the intercept of a graph; 
+drawing and using the slope of a tangent to a curve as a measure of rate of 
+change. (Please see Appendix 6: Mathematical skills and exemplifications for 
+further information.) 
+ 
+Students should: 
+5.1 Aerobic respiration 
+i  Know that cellular respiration yields ATP which is used as a source of energy 
+for metabolic reactions, and the process also generates heat. 
+ii Know the different stages in aerobic respiration, including:  
+● glycolysis in the cytoplasm 
+● link reaction 
+● Krebs cycle 
+● oxidative phosphorylation in mitochondria. 
+ 
+5.2 Glycolysis 
+i Understand the conversion of monosaccharides to pyruvate during glycolysis 
+in the cytoplasm, including: 
+● the phosphorylation of hexose molecules by ATP 
+● breakdown to glycerate 3-phosphate (GP) 
+● production of reduced coenzyme (NADH) and ATP (details of 
+intermediate compounds and other reactions are not required). 
+ 
+5.3 Link reaction and Krebs cycle 
+i Know that the link reaction and Krebs cycle take place in the mitochondrial 
+matrix. 
+ii Understand that during the complete oxidation of pyruvate the events of the 
+link reaction and the Krebs cycle result in the removal of carbon atoms to 
+produce: 
+● carbon dioxide 
+● reduced coenzyme (NADH) 
+● ATP (detailed knowledge of the intermediate compounds in the Krebs 
+cycle is not required).  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+19 
+ 
+Students should: 
+5.4 Oxidative phosphorylation 
+i Know that the electron transport chain takes place in the inner mitochondrial 
+membrane. 
+ii Understand the role of the electron transport chain in generating ATP 
+(oxidative phosphorylation). 
+iii Understand the role of oxygen as a terminal electron acceptor forming water. 
+iv Understand how ATP is synthesised by chemiosmosis. 
+v Understand the importance of mitochondrial membranes in this process. 
+5.5 Anaerobic respiration 
+i Know that anaerobic respiration is the partial breakdown of hexoses to 
+produce a limited yield of ATP in the absence of oxygen. 
+ii Understand the difference in ATP yields from one molecule of hexose sugar in 
+aerobic conditions compared with anaerobic conditions. 
+iii Understand how lactate as a by-product of anaerobic respiration affects 
+mammalian muscle contraction. 
+iv Understand how anaerobic respiration in plants results in ethanol formation. 
+CORE PRACTICAL 9: Investigate factors affecting the rate of aerobic or anaerobic 
+respiration using a respirometer, taking into account the safe and ethical use of 
+organisms. 
+ 
+5.6 Photosynthetic pigments 
+i Understand what is meant by absorption and action spectra. 
+CORE PRACTICAL 10: Investigate the effects of different wavelengths of light on the 
+rate of photosynthesis. 
+ 
+ii Understand why many plants have a variety of different photosynthetic 
+pigments. 
+CORE PRACTICAL 11: Investigate the presence of different chloroplast pigments 
+using chromatography. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+20 
+ 
+Students should: 
+5.7 Photosynthesis 
+i Know the structure of chloroplasts, including: envelope, stroma, grana and 
+lamellar structure. 
+Light-dependent stage: 
+ii Understand the role of the thylakoid membranes in the light-dependent stage 
+of photosynthesis.  
+iii Understand that the processes of cyclic and non-cyclic photophosphorylation 
+result in the production of reduced NADP, ATP and oxygen. 
+Light-independent stage: 
+iv Understand the role of the stroma in the light-independent stage of 
+photosynthesis. 
+v Understand how carbon dioxide is fixed by combination with 5C ribulose 
+bisphosphate (RuBP) to form glycerate 3-phosphate (GP) using the enzyme 
+ribulose bisphosphate carboxylase (RUBISCO). 
+vi Understand how reduced NADP and ATP from the light-dependent stage are 
+used: 
+● to synthesise glyceraldehyde phosphate (GALP) from GP 
+● to regenerate 5C ribulose bisphosphate in the Calvin cycle (details of 
+intermediate compounds are not required). 
+ 
+vii Understand how GALP is used as a raw material in the production of 
+monosaccharides, amino acids and other molecules. 
+viii Understand the factors that limit photosynthesis including carbon dioxide, 
+light intensity and temperature. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+21 
+Topic 6: Microbiology and Pathogens 
+This topic builds on knowledge of prokaryotes, eukaryotes, viruses and transport 
+systems. It considers how some microorganisms act as pathogens. Details of how 
+the human body responds to infection are included. The social, economic and 
+ethical implications of the methods of treatment and control of the spread of 
+infection are discussed. Microbial techniques are used in the isolation of bacteria 
+and the investigation of the factors that affect their rate of growth. 
+Opportunities for developing mathematical skills within this topic include: 
+recognising and making use of appropriate units in calculations, recognising and 
+using expressions in decimal and standard form; using ratios, fractions and 
+percentages; estimating results; finding and using power, exponential and 
+logarithmic functions; using an appropriate number of significant figures; finding 
+arithmetic means; using logarithms in relation to quantities that range over several 
+orders of magnitude; translating information between graphical, numerical and 
+algebraic forms; plotting two variables from experimental data; determining the 
+intercept of a graph; drawing and using the slope of a tangent to a curve as a 
+measure of rate of change. (Please see Appendix 6: Mathematical skills and 
+exemplifications for further information.) 
+ 
+Students should: 
+6.1 Microbial techniques 
+i Understand the basic aseptic techniques used in culturing organisms.  
+ii Understand the principles and techniques involved in culturing 
+microorganisms. 
+iii Understand the use of different media (broth cultures, agar and selective 
+media). 
+iv Understand the different methods of measuring the growth of a bacterial 
+culture as illustrated by cell counts, dilution plating, mass and optical 
+methods (turbidity). 
+v Understand the different phases of a bacterial growth curve (lag phase, log 
+phase, stationary phase and death phase) and calculate exponential growth 
+rate constants. 
+CORE PRACTICAL 12: Investigate the rate of growth of bacteria in liquid culture 
+taking into account the safe and ethical use of organisms. 
+ 
+CORE PRACTICAL 13: Isolate individual species from a mixed culture of bacteria 
+using streak plating taking into account the safe and ethical use of organisms. 
+6.2 Bacteria as pathogens 
+i Understand that bacteria can be agents of infection, invading and destroying 
+host tissues and producing toxins.  
+ii Understand that pathogenic effects can be produced by exotoxins 
+(Staphylococcus spp.), endotoxins (Salmonella spp.) and invasion of host 
+tissue (Mycobacterium tuberculosis). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+22 
+ 
+Students should: 
+6.3 Action of antibiotics 
+i Understand the action of bactericidal and bacteriostatic antibiotics, as 
+illustrated by penicillin and tetracycline. 
+6.4 Antibiotic resistance 
+i Understand the development and spread of antibiotic resistance in bacteria. 
+ii Understand the methods and difficulties of controlling the spread of antibiotic 
+resistance in bacteria. 
+6.5 Other pathogenic agents 
+i Understand the transmission, mode of infection and pathogenic effect of the 
+following: 
+● stem rust fungus on cereal crops (Puccinia graminis on wheat)  
+● influenza virus 
+● the malarial parasite (Plasmodium spp).  
+ (Detailed life cycles are not required.) 
+ 
+6.6 Problems of controlling endemic diseases 
+i Understand the social and economic and ethical implications of different 
+control methods for endemic malaria and the role of the scientific community 
+in validating these methods.  
+6.7 Response to infection 
+i Know the mode of action of macrophages, neutrophils and lymphocytes. 
+ii Understand the development of the humoral immune response, including the 
+role of: 
+● antigen presenting T cells 
+● T helper cells and cytokines 
+● B cells 
+● clonal selection 
+● plasma cells 
+● antibodies. 
+iii Understand the development of the cell-mediated immune response including 
+the role of: 
+● antigen presenting cells 
+● T helper cells and cytokines 
+● T killer cells. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+23 
+ 
+Students should: 
+6.7 Response to infection continued 
+iv Understand the role of T and B memory cells in the secondary immune 
+response. 
+v Understand how immunity can be natural or artificial, and active or passive. 
+vi Understand how vaccination can be used in the control of disease and the 
+development of herd immunity.  
+vii Understand the potential issues in populations where a proportion choose not 
+to vaccinate. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+24 
+Topic 7: Modern Genetics 
+This topic builds on the knowledge of nucleic acids and proteins and how they are 
+involved in gene expression. Knowledge of epigenetics, the use of stem cells and 
+how these are contributing to medical advances are considered. The ethical 
+implications of the use of gene technology in scientific developments are discussed.  
+Opportunities for developing mathematical skills within this topic include: 
+recognising and using expressions in decimal and standard form; using an 
+appropriate number of significant figures. (Please see Appendix 6: Mathematical 
+skills and exemplifications for further information.) 
+ 
+Students should:  
+7.1 Using gene sequencing 
+i Understand what is meant by the term genome. 
+ii Understand how PCR can be used to amplify DNA samples, and how these 
+samples can be used: 
+● to predict the amino acid sequence of proteins and possible links to 
+genetically determined conditions, using gene sequencing. 
+● in forensic science, to identify criminals and to test paternity, using DNA 
+profiling. 
+ 
+7.2 Factors affecting gene expression 
+i Know that transcription factors are proteins that bind to DNA. 
+ii Understand the role of transcription factors in regulating gene expression. 
+iii Understand how post–transcription modification of mRNA in eukaryotic cells 
+(RNA splicing) can result in different products from a single gene. 
+iv Understand that gene expression can be changed by epigenetic modification, 
+including non-coding RNA, histone modification and DNA methylation.  
+v Know that epigenetic modification is important in ensuring cell differentiation. 
+7.3 Stem cells 
+i Understand what is meant by a stem cell, including the differences between 
+totipotent, pluripotent and multipotent stem cells.  
+ii Understand that pluripotent stem cells from embryos provide opportunities to 
+develop new medical advances although there are ethical considerations. 
+iii Understand how epigenetic modifications can result in totipotent stem cells in 
+the embryo developing into pluripotent cells in the blastocyst and finally into 
+fully differentiated somatic cells. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+25 
+ 
+Students should: 
+7.3 Stem cells continued 
+iv Understand how differentiated fibroblasts can be reprogrammed to form 
+induced pluripotent stem cells (iPS cells) by the artificial introduction of 
+named genes. 
+v Understand why the use of iPS stem cells may be less problematic than the 
+use of embryonic stem cells. 
+7.4 Gene technology 
+i Understand how recombinant DNA can be produced, including the role of 
+restriction endonucleases and DNA ligase. 
+ii Understand how recombinant DNA can be inserted into other cells, and the 
+use of various vectors such as viruses and gene guns. 
+iii Understand how antibiotic resistance marker genes and replica plating are 
+used to identify recombinant cells. 
+iv Understand how ‘knockout’ mice can be used as a valuable animal model to 
+investigate gene function. 
+v Understand the process of genetic modification of soya beans and how it has 
+been used to improve production, including altering the balance of fatty acids 
+to prevent oxidation of soya products. 
+vi Understand why the widespread use of genetic modification of major 
+commercial crops and other transgenic processes have caused public debate 
+of their advantages and disadvantages. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+26 
+Topic 8: Origins of Genetic Variation  
+This topic builds on the knowledge of meiosis and natural selection. It considers the 
+dihybrid inheritance of alleles and genes. The inheritance of unlinked and linked 
+genes is studied. The effect of selection pressures on the allele frequencies in gene 
+pools and their impact on speciation are discussed.  
+Opportunities for developing mathematical skills within this topic include: using 
+ratios, fractions and percentages; understanding simple probability; using Chi 
+squared tests; understanding measures of dispersion, including standard deviation 
+and range; solving algebraic equations; the analysis of allele frequencies using the 
+Hardy-Weinberg equation. (Please see Appendix 6: Mathematical skills and 
+exemplifications for further information.) 
+ 
+Students should: 
+8.1 Origins of genetic variation  
+i Understand that mutations are the source of new variations and that the 
+processes of random assortment and crossing over during meiosis give rise to 
+new combinations of alleles in gametes. 
+ii Understand how random fertilisation during sexual reproduction brings about 
+genetic variation. 
+8.2 Transfer of genetic information 
+i Understand the terms ‘genotype and phenotype’,’ homozygote and 
+heterozygote’, ‘dominance’, ‘recessive’, ‘codominance’ and ‘multiple alleles’. 
+ii Be able to construct genetic crosses and pedigree diagrams. 
+iii Understand the inheritance of two non-interacting unlinked genes. 
+iv Understand that autosomal linkage results from the presence of alleles on the 
+same chromosome and that the results of crosses can be explained by the 
+events of meiosis, including black/grey body and long/vestigial wing in 
+Drosophila. 
+v Understand sex linkage on the X chromosome, including haemophilia in 
+humans. 
+vi Be able to use chi squared tests to test the significance of the difference 
+between observed and expected results.  
+8.3 Gene pools 
+i Understand that selection pressures acting on the gene pool change allele 
+frequencies in the population, including: 
+● stabilising selection maintaining continuity in a population 
+● disruptive selection leading to changes or speciation. 
+ 
+ii Understand that sometimes changes in allele frequencies can be the result of 
+chance and not selection, including genetic drift. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+27 
+ 
+Students should: 
+8.3 Gene pools continued 
+iii Understand that allele frequencies can be influenced by: 
+● population bottlenecks 
+● founder effect. 
+ 
+iv Understand how the Hardy-Weinberg equation can be used to monitor 
+changes in the allele frequencies in a population. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+28 
+Topic 9: Control Systems 
+This topic builds on knowledge of transport mechanisms and considers the 
+processes of chemical and nervous coordination. Details of the role of plant growth 
+substances and hormonal control in mammals are included. Osmoregulation in 
+mammals adapted to dry environments is considered. Details of the effect of drugs 
+on the transmission of nerve impulses are studied. Practical skills are developed in 
+the investigation of the effect of gibberellin on germination. 
+Opportunities for developing mathematical skills within this topic include: making 
+use of appropriate units in calculations; using expressions in decimal and standard 
+form; using ratios, fractions and percentages; interpreting frequency tables and 
+diagrams, bar charts and histograms; understanding simple probability; translating 
+information between graphical, numerical and algebraic forms; plotting variables 
+from experimental data; understanding that y = mx + c represents a linear 
+relationship; determining the intercept of a graph; calculating rate of change from a 
+graph; using the slope of a tangent to a curve as a measure of rate of change. 
+(Please see Appendix 6: Mathematical skills and exemplifications for further 
+information.) 
+ 
+Students should: 
+9.1 Homeostasis 
+i Know that homeostasis is the maintenance of a state of dynamic equilibrium. 
+ii Understand the importance of maintaining pH, temperature and water 
+potential in the body.  
+iii Understand what is meant by negative feedback and positive feedback 
+control. 
+9.2 Chemical control in mammals 
+i Understand the principles of mammalian hormone production by endocrine 
+glands and their mode of action involving receptors on target cells. 
+ii Know that there are two main modes of action in hormones: 
+● hormones attach to receptor sites and trigger the release of a second 
+messenger that activates specific enzymes in the cell, including 
+adrenaline 
+● hormones enter cells and bind directly to transcription factors, including 
+oestrogen. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+29 
+ 
+Students should: 
+9.3 Chemical control in plants  
+i Understand that chemical control in plants is brought about by plant growth 
+substances such as auxins, cytokinins and gibberellins. 
+CORE PRACTICAL 14: Investigate the effect of gibberellin on the production of 
+amylase in germinating cereals using a starch agar assay. 
+ 
+ii Know that auxin has several effects, including cell elongation, suppression of 
+lateral buds (apical dominance) and promoting root growth. 
+iii Understand that plant growth substances often interact with each other as 
+shown by the antagonistic actions of cytokinin and auxin on apical 
+dominance. 
+iv Understand how phytochrome controls flowering and photomorphogenesis. 
+9.4  Structure and function of the mammalian nervous system 
+i Know that the mammalian nervous system is composed of the central and 
+peripheral nervous systems.  
+ii Know the structure of the spinal cord. 
+iii Know the location and main functions of:  
+● the medulla oblongata – controls breathing and heart rate 
+● cerebellum – controls balance and coordination of movement 
+● cerebrum – initiates movement 
+● hypothalamus – temperature regulation and osmoregulation.  
+ 
+iv Know that the peripheral nervous system is divided into autonomic and 
+voluntary systems. 
+v Understand why the autonomic nervous system is divided into sympathetic 
+and parasympathetic systems, which act antagonistically. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+30 
+ 
+Students should: 
+9.5  Nervous transmission 
+i Understand how the properties of the axon membrane and the transport of 
+Na+ ions and K+ ions result in a resting potential. 
+ii Understand how an action potential is formed and how it is propagated along 
+an axon. 
+iii Understand why the speed of transmission along myelinated axons is greater 
+than along non-myelinated axons, including the role of saltatory conduction. 
+iv Understand the structure and function of a synapse, including the role of 
+transmitter substances limited to acetylcholine and noradrenaline. 
+v Understand the formation and effects of excitatory and inhibitory postsynaptic 
+potentials. 
+9.6  Effects of drugs on the nervous system 
+i Understand how the effects of drugs can be caused by their influence on 
+synaptic transmission, including: 
+● nicotine (mimicking effects of acetylcholine) 
+● lidocaine (blocking voltage gated Na+ ion channels) 
+● cobra venom (blocking acetylcholine receptors). 
+ 
+9.7  Detection of light by mammals 
+i Know the structure of the human retina. 
+ii Understand the role of the rhodopsin in initiating action potentials. 
+iii Understand how the distribution of human rod and cone cells maintain vision 
+in different light intensities. 
+9.8 Control of heart rate in mammals 
+i Understand how the autonomic nervous system controls heart rate including: 
+● aortic and carotid baroreceptors and chemoreceptors 
+● cardiac centre in the medulla oblongata 
+● sympathetic nerve stimulated to release noradrenaline at the SAN 
+● parasympathetic nerve stimulated to release acetylcholine at the SAN.  
+ 
+ii Understand the role of the autonomic nervous system in causing the release 
+of adrenaline to increase heart rate. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+31 
+ 
+Students should: 
+9.9 Osmoregulation and temperature regulation 
+i Know the gross and microscopic structure of the mammalian kidney. 
+ii Understand how urea is produced in the liver from excess amino acids (details 
+of the ornithine cycle are not required) and how it is removed from the 
+bloodstream by ultrafiltration. 
+iii Understand how solutes are selectively reabsorbed in the proximal tubule and 
+how the Loop of Henle acts as a counter-current multiplier to increase the 
+reabsorption of water. 
+iv Understand how the pituitary gland and osmoreceptors in the hypothalamus, 
+combined with the action of antidiuretic hormone (ADH) bring about negative 
+feedback control of mammalian plasma concentration. 
+v Understand how the kidney of a kangaroo rat (Dipodomys sp.) is adapted for 
+life in a dry environment. 
+vi Understand that an endotherm is able to produce heat through metabolic 
+processes but an ectotherm must rely on the external environment.  
+vii Understand how an endotherm is able to regulate its temperature through 
+behaviour, and also physiologically through the autonomic nervous system, 
+including the role of thermoreceptors, hypothalamus and the skin. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+32 
+Topic 10: Ecosystems 
+This topic considers the interactions between the organisms and the environment 
+within an ecosystem. It includes details of how biotic and abiotic factors are 
+involved in the development of ecosystems over time. Human influences on 
+ecosystems are also discussed along with the need for conservation.  
+Opportunities for developing mathematical skills within this topic include: 
+estimating results; constructing and interpresting frequency tables and diagrams, 
+bar charts and histograms; understanding principles of sampling, including use of a 
+formula to calculate an index of diversity; understanding the terms mean, median 
+and mode; selecting and using statistical tests, including the Chi squared test, 
+Student’s t-test of difference, Spearman’s rank, correlation coefficient; standard 
+deviation and range. (Please see Appendix 6: Mathematical skills and 
+exemplifications for further information.) 
+ 
+Students should: 
+10.1 The nature of ecosystems 
+i Understand what is meant by the term ecosystem and that they range in size. 
+ii Understand what is meant by trophic levels. 
+iii Understand the advantages and disadvantages of pyramids of numbers, 
+biomass (dry) and energy as useful representations of ecosystem structure 
+and how biomass and energy are transferred within them.  
+iv Know the ecological techniques used to assess abundance and  distribution of 
+organisms in a natural habitat, including types of quadrat, transects, ACFOR 
+scales, percentage cover and individual counts. 
+v Be able to select appropriate ecological techniques according to the 
+ecosystem and organisms to be studied. 
+CORE PRACTICAL 15: Investigate the effect of different sampling methods on 
+estimates of the size of a population taking into account the safe and ethical use of 
+organisms. 
+ 
+vi Be able to use statistical tests to analyse data, including t-test and Spearman 
+rank correlation coefficient. 
+10.2 Energy transfer through ecosystems 
+i Understand how energy is transferred between trophic levels using the terms 
+‘net primary productivity’ and ‘gross primary productivity’. 
+ii Be able to calculate the efficiency of energy transfer between different trophic 
+levels and account for the loss of energy at each level. 
+iii Understand the significance of microorganisms in the recycling of nutrients 
+within an ecosystem. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+33 
+ 
+Students should: 
+10.3 Changes in ecosystems 
+i Understand how ecosystems can develop over time, including use of the 
+terms colonisation and succession and types of climax communities. 
+ii Understand the effects of biotic and abiotic factors on population size. 
+CORE PRACTICAL 16: Investigate the effect of one abiotic factor on the distribution or 
+morphology of one species taking into account the safe and ethical use of organisms. 
+ 
+10.4 Human effects on ecosystems 
+i Understand data relating to human influences on ecosystems, including 
+climate change and depletion of biological resources, including overfishing. 
+ii Understand the effect that treaties such as CITES have had on global 
+biodiversity.  
+iii Understand the idea that sustainability of resources depends on effective 
+management of the conflict between human needs and conservation, as 
+illustrated by attempts to conserve fish stocks and reduce possible causes of 
+climate change. 
+iv Understand the role of the scientific journals, the peer review process and 
+scientific conferences in validating evidence related to the debate about 
+climate change.
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+34 
+ 
+Science Practical Endorsement 
+Overview 
+The assessment of practical skills is a compulsory 
+requirement of the course of study for A level qualifications 
+in biology, chemistry and physics. It will appear on all 
+students’ certificates as a separately reported result, 
+alongside the overall grade for the qualification. The 
+arrangements for the assessment of practical skills will be 
+common to all awarding organisations. These arrangements 
+include: 
+● A minimum of 12 practical activities to be carried out by 
+each student which, together, meet the requirements of 
+Appendices 5b (Practical skills identified for direct 
+assessment and developed through teaching and 
+learning) and 5c (Use of apparatus and techniques) 
+from the prescribed subject content, published by the 
+Department for Education. The required practical 
+activities will be defined by each awarding organisation. 
+● Teachers will assess students against Common Practical 
+Assessment Criteria (CPAC) issued by the awarding 
+organisations. The CPAC are based on the requirements 
+of Appendices 5b and 5c of the subject content 
+requirements published by the Department for 
+Education, and define the minimum standard required 
+for the achievement of a pass.  
+● Each student will keep an appropriate record of their 
+practical work, including their assessed practical 
+activities 
+● Students who demonstrate the required standard across 
+all the requirements of the CPAC will receive a ‘pass’ 
+grade 
+● There will be no separate assessment of practical skills 
+for AS qualifications. 
+● Students will answer questions in the AS and A level 
+examination papers that assess the requirements of 
+Appendix 5a (Practical skills identified for indirect 
+assessment and developed through teaching and 
+learning) from the prescribed subject content, published 
+by the Department for Education. These questions may 
+draw on, or range beyond, the practical activities 
+included in the specification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+35 
+ 
+Setting practical work 
+Teaching and learning 
+Teachers should ensure that the core practicals listed in the 
+subject content are incorporated into teaching and learning 
+and that students carry them out. This is to support 
+development of competency for the practical endorsement 
+but also because students will be indirectly assessed on 
+their practical skills in the examinations. Teachers should 
+consider setting additional practical work to support 
+teaching and learning.  
+Teachers must devise and retain a teaching plan that shows 
+when practicals will be covered in teaching and learning.  
+Students should attempt all 16 practicals given in the 
+qualification content. 
+Conditions for assessing practical work 
+Authenticity 
+Students and teachers must sign the Practical competency 
+authentication sheet (see Appendix 4). 
+Collaboration 
+Students may work in pairs on some practicals, where this 
+is appropriate, provided they are able to produce individual 
+evidence to meet the competency statements.  
+Feedback 
+Teachers may help students to understand instructions and 
+may provide feedback to support development of the 
+competencies. Teachers should be confident that students 
+have developed their skills and thus students should be able 
+to demonstrate the competencies independently by the end 
+of the course. 
+Resources 
+Students must have access to the equipment needed to 
+carry out the core practicals. Students must also have 
+access to IT and internet facilities. 
+Supervision 
+Teachers must ensure that students are supervised 
+appropriately. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+36 
+Evidence of practical work 
+Evidence should be collected of practical work that is 
+sufficient to show that the competencies have been 
+achieved. Evidence may take a variety of forms. 
+The practical activities prescribed in the specification 
+provide opportunities for demonstrating competence in all 
+the skills identified, together with the use of apparatus and 
+techniques for each subject. However, students can also 
+demonstrate these competencies in any additional practical 
+activity undertaken throughout the course of study which 
+covers the requirements of Appendix 5c. 
+Observations and notes by teachers 
+Teachers should observe sufficient student practicals to 
+ensure that competencies have been achieved. 
+Student records  
+Students should keep notes of their practical work sufficient 
+to show evidence of the practical competencies on making 
+and recording observations and researching, referencing 
+and reporting. 
+Assessing practical work 
+Teachers should make a judgement of student practical 
+competence using the Common Practical Assessment 
+Criteria on the following pages. Teachers should include any 
+comments on the Practical competency authentication sheet 
+(see Appendix 4) to justify the decision made. 
+In order to achieve a pass, students will need to: 
+● develop these competencies by carrying out a minimum 
+of 12 practical activities, which allow acquisition of the 
+techniques outlined in the requirements of the 
+specification 
+● consistently and routinely exhibit the competencies 
+listed in the CPAC before the completion of the A-level 
+course 
+● keep an appropriate record of their practical work, 
+including their assessed practical activities  
+● be able to demonstrate and/or record independent 
+evidence of their competency, including evidence of 
+independent application of investigative approaches and 
+methods to practical work. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+37 
+Common Practical Assessment Criteria (CPAC) 
+Teachers must assess student practicals against the following competencies. 
+ 
+Criteria for the assessment of GCE Science practical competency for 
+Biology, Chemistry and Physics 
+Competency The criteria for a pass 
+In order to be awarded a Pass a learner must, by the end 
+of the practical science assessment, consistently and 
+routinely meet the criteria in respect of each competency 
+listed below. 
+A learner may demonstrate the competencies in any 
+practical activity undertaken as part of that assessment 
+throughout the course of study. 
+Learners may undertake practical activities in groups. 
+However, the evidence generated by each learner must 
+demonstrate that he or she independently meets the 
+criteria outlined below in respect of each competency. 
+Such evidence: 
+(a) will comprise both the learner’s performance during 
+each practical activity and his or her contemporaneous 
+record of the work that he or she has undertaken during 
+that activity, and 
+(b) must include evidence of independent application of 
+investigative approaches and methods to practical work. 
+1. Follows written 
+procedures 
+a) Correctly follows written instructions to carry out the 
+experimental techniques or procedures. 
+2. Applies 
+investigative 
+approaches and 
+methods when 
+using instruments 
+and equipment 
+a) Correctly uses appropriate instrumentation, apparatus 
+and materials (including ICT) to carry out investigative 
+activities, experimental techniques and procedures with 
+minimal assistance or prompting. 
+b) Carries out techniques or procedures methodically, in 
+sequence and in combination, identifying practical issues 
+and making adjustments when necessary. 
+c) Identifies and controls significant quantitative variables 
+where applicable, and plans approaches to take account 
+of variables that cannot readily be controlled. 
+d) Selects appropriate equipment and measurement 
+strategies in order to ensure suitably accurate results. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+38 
+ 
+Criteria for the assessment of GCE Science practical competency for 
+Biology, Chemistry and Physics 
+3. Safely uses a range of 
+practical equipment and 
+materials 
+a) Identifies hazards and assesses risks associated 
+with these hazards, making safety adjustments as 
+necessary, when carrying out experimental 
+techniques and procedures in the lab or field. 
+b) Uses appropriate safety equipment and 
+approaches to minimise risks with minimal 
+prompting. 
+4. Makes and records 
+observations 
+a) Makes accurate observations relevant to the 
+experimental or investigative procedure. 
+b) Obtains accurate, precise and sufficient data for 
+experimental and investigative procedures and 
+records this methodically using appropriate units 
+and conventions. 
+5. Researches, references 
+and reports 
+a) Uses appropriate software and/or tools to process 
+data, carry out research and report findings. 
+b) Cites sources of information demonstrating that 
+research has taken place, supporting planning and 
+conclusions. 
+ 
+Marking and standardisation 
+The practical work is assessed by teachers. Pearson Edexcel 
+will support teachers in making judgements against the 
+criteria for assessment.  
+In coordination with other exam boards, Pearson will 
+monitor how schools provide students with opportunities to 
+develop and demonstrate the required practical skills and 
+how they mark the assessments. 
+Every school will be monitored at least once in a two-year 
+period in respect of at least one of the A level science 
+subjects. These monitoring visits will be coordinated by 
+JCQ, who will undertake communications with centres to 
+facilitate the allocation of exam board monitoring visits.  
+In common with other exam boards, Pearson will require 
+centres to provide a statement confirming they have taken 
+reasonable steps to secure that students: 
+● undertook the minimum number of practical activities, 
+and  
+● made a contemporaneous record of their work. 
+If a school fails to provide a statement, or provides a false 
+statement, this will be treated as malpractice and/or 
+maladministration. 
+Students will only get a certificate for the practical 
+assessment if they achieve at least a grade E in the 
+examined part of the qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+39 
+Students who do not pass the practical assessment will 
+have a ‘Not Classified’ outcome included on their certificate 
+unless they were exempt from the assessment because of a 
+disability. 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that 
+compromises or seeks to compromise the process of 
+assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered 
+before the candidate has signed the declaration of 
+authentication form does not need to be reported to 
+Pearson. 
+Candidate malpractice found in controlled assessments after 
+the declaration of authenticity has been signed, and in 
+examinations must be reported to Pearson on a  
+JCQ Form M1 (available at www.jcq.org.uk/exams-
+office/malpractice
+). The completed form can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations 
+Team, Pearson, 190 High Holborn, London, WC1V 7BH. 
+Please provide as much information and supporting 
+documentation as possible. Note that the final decision 
+regarding appropriate sanctions lies with Pearson. 
+Failure to report candidate malpractice constitutes staff or 
+centre malpractice.  
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate 
+malpractice and maladministration of our qualifications. As 
+with candidate malpractice, staff and centre malpractice is 
+any act that compromises or seeks to compromise the 
+process of assessment or undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and 
+maladministration must be reported immediately, before 
+any investigation is undertaken by the centre, to Pearson 
+on a JCQ Form M2(a) (available at www.jcq.org.uk/exams-
+office/malpractice). The form, supporting documentation 
+and as much information as possible can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations 
+Team, Pearson, 190 High Holborn, London, WC1V 7BH. Note 
+that the final decision regarding appropriate sanctions lies 
+with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+40 
+More-detailed guidance on malpractice can be found in the 
+latest version of the document JCQ General and Vocational 
+Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at 
+www.jcq.org.uk/exams-office/malpractice. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+41 
+ 
+Assessment 
+Assessment summary 
+Summary of table of assessment 
+Students must complete all assessment in May/June in any single year. 
+ 
+Paper 1: Advanced Biochemistry, Microbiology and Genetics 
+ *Paper code: 9BI0/01 
+● Questions draw on content from Topics 1–7. 
+● Questions are broken down into a number of parts. 
+● Availability: May/June  
+● First assessment: 2017 
+● The assessment is 1 hour 45 minutes. 
+● The assessment consists of 90 marks. 
+30% of the 
+total 
+qualification 
+ 
+ 
+Paper 2: Advanced Physiology, Evolution and Ecology 
+ *Paper code: 9BI0/02 
+● Questions draw on content from Topics 1–4 and Topics 8–10. 
+● Questions are broken down into a number of parts. 
+● Availability: May/June  
+● First assessment: 2017 
+● The assessment is 1 hour 45 minutes. 
+● The assessment consists of 90 marks. 
+30% of the 
+total 
+qualification 
+ 
+ 
+Paper 3: General and Practical Principles in Biology 
+ *Paper code: 9BI0/03 
+● Questions draw on content from across all topics, Topics 1–10. 
+● Questions are broken down into a number of parts. 
+● The paper will include synoptic questions that may draw on two 
+or more different topics. 
+● Availability: May/June  
+● First assessment: 2017 
+● The assessment is 2 hours 30 minutes. 
+● The assessment consists of 120 marks. 
+40% of the 
+total 
+qualification 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+42 
+ 
+Science Practical Endorsement** 
+*Paper code: 9BI0/04 
+• Internally assessed and externally moderated by Pearson. 
+• Availability: May/June 
+• First assessment: 2017 
+• The practical endorsement is teacher assessed against the Common Practical 
+Assessment criteria (CPAC).  
+ 
+The sample assessment materials can be found in the Pearson Edexcel Level 3 
+Advanced GCE in Biology B Sample Assessment Materials document.  
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+** Students will be assessed separately for the Science Practical Endorsement. The 
+Endorsement will not contribute to the overall grade for this qualification, but the 
+result will be recorded on the student’s certificate. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+43 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Demonstrate knowledge and understanding of scientific ideas, 
+processes, techniques and procedures 31-33 
+AO2 Apply knowledge and understanding of scientific ideas, 
+processes, techniques and procedures: 
+• in a theoretical context 
+• in a practical context 
+• when handling qualitative data 
+• when handling quantitative data 
+41-43 
+AO3 Analyse, interpret and evaluate scientific information, ideas and 
+evidence, including in relation to issues, to: 
+• make judgements and reach conclusions  
+• develop and refine practical design and procedures 
+25-27 
+Total 100% 
+ 
+ 
+Breakdown of Assessment Objectives 
+ 
+Paper AO1 AO2 AO3 
+Total for all 
+Assessment 
+Objectives 
+Paper 1: Advanced 
+Biochemistry, Microbiology 
+and Genetics 
+11-13% 12-14% 5-7% 30% 
+Paper 2: Advanced 
+Physiology, Evolution and 
+Ecology 
+11-13% 12-14% 5-7% 30% 
+Paper 3: General and 
+Practical Principles in Biology 8-10% 16-18% 13-15% 40% 
+Total for this qualification 31-33% 41-43% 25-27% 100% 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+44 
+Entry and assessment information 
+Student entry 
+Details of how to enter students for the examinations for 
+this qualification can be found in our UK Information 
+Manual. A copy is made available to all examinations 
+officers and is available on our website at: 
+www.edexcel.com/iwantto/Pages/uk-information-
+manual.aspx. 
+Discount codes and performance tables 
+Centres should be aware that students who enter for more 
+than one GCE qualification with the same discount code will 
+have only one of the grades they achieve counted for the 
+purpose of the school and college performance tables. This 
+will be the grade for the larger qualification (i.e. the A Level 
+grade rather than the AS grade). If the qualifications are 
+the same size, then the better grade will be counted (please 
+see Appendix 3: Codes). 
+Students should be advised that if they take two GCE 
+qualifications with the same discount code, the colleges, 
+universities and employers to which they wish to progress 
+are likely to take the view that this achievement is 
+equivalent to only one GCE. The same view may be taken if 
+students take two GCE qualifications that have different 
+discount codes but which have significant overlap of 
+content. Before embarking on their programmes, students 
+or their advisers who have any doubts about their subject 
+combinations should check with the institution to which 
+they wish to progress. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+45 
+Access arrangements, reasonable adjustments and 
+special consideration 
+Access arrangements 
+Access arrangements are agreed before an assessment. 
+They allow students with special educational needs, 
+disabilities or temporary injuries to:  
+● access the assessment 
+● show what they know and can do without changing the 
+demands of the assessment.  
+The intention behind an access arrangement is to meet the 
+particular needs of an individual disabled student without 
+affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding 
+organisations comply with the duty under the Equality 
+Act 2010 to make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the 
+start of the course. Students will then know what is 
+available and have the access arrangement(s) in place for 
+assessment.  
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to 
+make reasonable adjustments where a person with a 
+disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is 
+required to take reasonable steps to overcome that 
+disadvantage. 
+A reasonable adjustment for a particular person may be 
+unique to that individual and therefore might not be in the 
+list of available access arrangements. 
+Whether an adjustment will be considered reasonable will 
+depend on a number of factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with 
+the disability and other students. 
+An adjustment will not be approved if it involves 
+unreasonable costs to the awarding organisation, 
+timeframes or affects the security or integrity of the 
+assessment. This is because the adjustment is not 
+‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a 
+student's mark or grade to reflect temporary injury, illness 
+or other indisposition at the time of the examination/ 
+assessment, which has had, or is reasonably likely to have  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+46 
+had, a material effect on a candidate’s ability to take an 
+assessment or demonstrate his or her level of attainment in 
+an assessment. 
+Further information 
+Please see our website for further information about how to 
+apply for access arrangements and special consideration. 
+For further information about access arrangements, 
+reasonable adjustments and special consideration, please 
+refer to the JCQ website: www.jcq.org.uk. 
+Equality Act 2010 and Pearson equality policy 
+Equality and fairness are central to our work. Our equality 
+policy requires all students to have equal opportunity to 
+access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every 
+student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by 
+the Equality Act 2010) are not, when they are 
+undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that 
+characteristic 
+● all students achieve the recognition they deserve for 
+undertaking a qualification and that this achievement 
+can be compared fairly to the achievement of their 
+peers. 
+You can find details on how to make adjustments for 
+students with protected characteristics in the policy 
+document Access Arrangements, Reasonable Adjustments 
+and Special Considerations, which is on our website, 
+www.edexcel.com/Policies.
+ 
+Synoptic assessment 
+Synoptic assessment requires students to work across 
+different parts of a qualification and to show their 
+accumulated knowledge and understanding of a topic or 
+subject area. 
+Synoptic assessment enables students to show their ability 
+to combine their skills, knowledge and understanding with 
+breadth and depth of the subject.  
+In this qualification, synoptic assessment can be found in  
+Paper 3: General and Practical Principles in Biology. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+47 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to 
+comply with the requirements of the current Code of 
+Practice published by the Office of Qualifications and 
+Examinations Regulation (Ofqual). 
+This qualification will be graded and certificated on a six-
+grade scale from A* to E using the total subject mark. 
+Individual papers are not graded. 
+The first certification opportunity for the Pearson Edexcel 
+Level 3 Advanced GCE in Biology B will be 2017. 
+Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be 
+recorded on a certificate will receive an unclassified U 
+result. 
+Language of assessment 
+Assessment of this qualification will be available in English. 
+All student work must be in English. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+48 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+49 
+Other information 
+Student recruitment 
+Pearson follows the JCQ policy concerning recruitment to 
+our qualifications in that: 
+● they must be available to anyone who is capable of 
+reaching the required standard 
+● they must be free from barriers that restrict access and 
+progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this 
+qualification. 
+Students who would benefit most from studying this 
+qualification are likely to have a Level 2 qualification such 
+as a GCSE in Additional Science or Biology.  
+Progression 
+Students can progress from this qualification to: 
+● a range of different relevant academic or vocational 
+higher education qualifications 
+● employment in a relevant sector 
+● further training. 
+Relationship between Advanced Subsidiary GCE and 
+Advanced GCE 
+The content for Advanced GCE in Biology B includes all the 
+content studied at Advanced Subsidiary GCE. The Advanced 
+GCE in Biology B builds on the knowledge, skills, and 
+understanding achieved when studying the Advanced 
+Subsidiary GCE in Biology B. 
+Progression from Advanced Subsidiary GCE to 
+Advanced GCE 
+Students who have achieved the Advanced Subsidiary GCE 
+in Biology B can progress to the Advanced GCE in Biology B. 
+They would have covered Topics 1-4 which are common to 
+both qualifications but the additional Topics 5-10 will need 
+to be covered and then all the assessment for the Advanced 
+GCE qualification must be taken at the end of the course.  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+50 
+Relationship between GCSE and Advanced GCE  
+Students cover Key Stage 4 fundamental core concepts in 
+sciences at GCSE and continue to cover these concepts and 
+additional subject material in the Advanced GCE at  
+Key Stage 5. 
+Progression from GCSE to Advanced GCE  
+Students will draw on knowledge and understanding 
+achieved in GCSE Additional Science or GCSE Biology to 
+progress on to an Advanced GCE in Biology B qualification. 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+51 
+ 
+Appendices 
+Appendix 1: Transferable skills 53 
+Appendix 2: Level 3 Extended Project qualification 55 
+Appendix 3: Codes 59 
+Appendix 4: Practical competency authentication sheet 61 
+Appendix 5: Working scientifically 63 
+Appendix 5a: Practical skills identified for indirect assessment 
+and developed through teaching and learning 65 
+Appendix 5b: Practical skills identified for direct assessment 
+and developed through teaching and learning 67 
+Appendix 5c: Use of apparatus and techniques 69 
+Appendix 5d: Mapping between Appendix 5c and core 
+practicals (biology) 71 
+Appendix 6: Mathematical skills and exemplifications 75 
+Appendix 7: Command words used in examination papers 81 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+52 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+53 
+Appendix 1: Transferable skills 
+ 
+ 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines 
+skills, or competencies, as ‘the bundle of knowledge, attributes and capacities that 
+can be learned and that enable individuals to successfully and consistently perform 
+an activity or task and can be built upon and extended through learning.’ [1] 
+To support the design of our qualifications, the Pearson Research Team selected 
+and evaluated seven global 21st-century skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the 
+most evidence-based and robust skills framework. We adapted the framework 
+slightly to include the Program for International Student Assessment (PISA) ICT 
+Literacy and Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: [2]  
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and 
+communicate.[3] 
+Interpersonal skills 
+● Communication – active listening, oral communication, written 
+communication, assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, 
+service orientation, self-presentation, social influence, conflict resolution and 
+negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+                                          
+ 
+[1]  OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+[2]  Koenig J A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop (National 
+Academies Press, 2011) 
+[3]  PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+54 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher 
+education, as well as the demands of the workplace, and are important in the 
+teaching and learning of this qualification. We will provide teaching and learning 
+materials, developed with stakeholders, to support our qualifications. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+55 
+ 
+Appendix 2: Level 3 Extended Project 
+qualification 
+ 
+What is the Extended Project? 
+The Extended Project is a standalone qualification that can be taken alongside 
+GCEs. It supports the development of independent learning skills and helps to 
+prepare students for their next step – whether that be higher education or 
+employment. The qualification: 
+● is recognised by higher education for the skills it develops 
+● is worth half of an Advanced GCE qualification at grades A*–E 
+● carries UCAS points for university entry. 
+The Extended Project encourages students to develop skills in the following areas: 
+research, critical thinking, extended writing and project management. Students 
+identify and agree a topic area of their choice (which may or may not be related to 
+a GCE subject they are already studying), guided by their teacher. 
+Students can choose from one of four approaches to produce: 
+● a dissertation (for example an investigation based on predominately secondary 
+research) 
+● an investigation/field study (for example a practical experiment) 
+● a performance (for example in music, drama or sport) 
+● an artefact (for example a creating a sculpture in response to a client brief or 
+solving an engineering problem). 
+The qualification is coursework based and students are assessed on the skills of 
+managing, planning and evaluating their project. Students will research their topic, 
+develop skills to review and evaluate the information, and then present the final 
+outcome of their project. 
+Students: what they need to do 
+The Extended Project qualification requires students to: 
+● select a topic of interest for an in-depth study and negotiate the scope of the 
+project with their teacher 
+● identify and draft an objective for their project (for example in the form of a 
+question, hypothesis, challenge, outline of proposed performance, issue to be 
+investigated or commission for a client) and provide a rationale for their choice 
+● produce a plan for how they will deliver their intended objective 
+● conduct research as required by the project brief, using appropriate techniques 
+● carry out the project using tools and techniques safely 
+● share the outcome of the project using appropriate communication methods, 
+including a presentation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+56 
+Teachers: key information 
+● The Extended Project has 120 guided learning hours (GLH) consisting of: 
+o a 40-GLH taught element that includes teaching the technical skills (for 
+example research skills) 
+o an 80-GLH guided element that includes mentoring students through the 
+project work. 
+● Group work is acceptable, however it is important that each student provides 
+evidence of their own contribution and produces their own report. 
+● 100% externally moderated. 
+● Four Assessment Objectives: manage, use resources, develop and realise, 
+review. 
+● Can be run over 1, 1½ or 2 years. 
+● Can be submitted in January or June. 
+How to link Extended Project with biology 
+The Extended Project creates the opportunity to develop transferable skills for 
+progression to higher education and to the workplace through the exploration of 
+either an area of personal interest, or a topic of interest, from within the 
+qualification content. 
+For example, biology students could choose to carry out an investigation that would 
+enable them to develop their skills in data collection, the development and testing 
+of hypotheses and the application of mathematical models in data analysis. 
+Skills developed 
+Through the Extended Project students will develop skills in the following areas: 
+● independent research, including skills in primary research and the selection of 
+appropriate methods for data collection 
+● extended reading and academic writing, including reading scientific literature 
+and writing about trends or patterns in data sets 
+● planning/project management, including the refining of hypotheses to be tested 
+in investigations 
+● data handling and evaluation, including the comparison of data from primary 
+research with published data and exploration of the significance of results 
+● evaluation of arguments and processes, including arguments in favour of 
+alternative interpretations of data and evaluation of experimental methodology 
+● critical thinking. 
+In the context of the Extended Project, critical thinking refers to the ability to 
+identify and develop arguments for a point of view or hypothesis and to consider 
+and respond to alternative arguments. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+57 
+Using the Extended Project to support breadth and depth 
+There is no specified material that students are expected to study and, in the 
+Extended Project, students are assessed on the quality of the work they produce 
+and the skills they develop and demonstrate through completing this work. 
+Students can use the Extended Project to demonstrate extension in one or more 
+dimensions: 
+● deepening understanding: where a student explores a topic in greater depth 
+than in the specification content 
+● broadening skills: the student learns a new skill. In a biology-based project, 
+this might involve learning to assemble and manipulate an unfamiliar piece of 
+apparatus or learning advanced data-handling techniques 
+● widening perspectives: the student’s project spans different subjects. This 
+might involve discussing historical, philosophical or ethical aspects of a biology-
+based topic or making links with other subject areas such as chemistry or 
+geography. 
+Choosing topics and narrowing down to a question 
+A dissertation, typically around 6000 words in length, involves addressing a 
+research question through a literature review and argumentative discussion while 
+an investigation/field study involves data collection and analysis, leading to a 
+written report of around 5000 words. 
+For example, consider a student with an interest in genetic testing. After some 
+initial research, the student decided to explore the risks and benefits associated 
+with direct to consumer genetic testing. In the literature review of the project, the 
+student researched the background to genetic testing and looked at the work of 
+some of the companies which offer to do tests. The student created a questionnaire 
+survey to elicit information about people’s attitudes towards testing and their 
+knowledge of the potential risks and benefits. The survey was piloted then repeated 
+with a sample of 50 people. The student’s data from this survey were compared 
+with published data, and the trends and patterns in data analysed, with 
+consideration of the significance of the results obtained. Finally, the student’s 
+project ended with a review of the effectiveness of the investigation and an oral 
+presentation of the main findings and arguments considered. 
+Biology-based dissertation projects can cover a wide variety of topics, as these 
+examples illustrate: 
+● Is it ethical to use stem cells for medical purposes? 
+● Should restrictions be placed on research into genetic enhancement? 
+● Is the use of animal experimentation justifiable? 
+● Is autism genetic? 
+Examples of biology-based investigations include: 
+● Can changing owl behaviour be monitored through pellet studies? 
+● How has marina development affected local marshland biodiversity? 
+● Can pollution be effectively monitored by water quality in a local stream? 
+● Can monitoring a fitness programme help improve hurdling performance? 
+There is also scope for biology-based artefact Extended Projects. For example, a 
+student might set out to design, make and test an item of apparatus. Extended 
+Projects involving a performance can also be biology based, for example, a social 
+issue relating to biology could be explored through drama. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+58 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+59 
+ 
+Appendix 3: Codes 
+ 
+Type of code Use of code Code number 
+Discount codes Every qualification eligible for performance 
+tables is assigned a discount code indicating 
+the subject area to which it belongs. 
+Discount codes are published by DfE. 
+Please see the GOV.UK 
+website* 
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes 
+Each qualification title is allocated an Ofqual 
+Regulated Qualifications Framework (RQF) 
+code. 
+The RQF code is known as a Qualification 
+Number (QN). This is the code that features 
+in the DfE Section 96 and on the LARA as 
+being eligible for 16–18 and 19+ funding, 
+and is to be used for all qualification 
+funding purposes. The QN is the number 
+that will appear on the student’s final 
+certification documentation. 
+The QN for the 
+qualification in this 
+publication is: 
+601/5301/5 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. Centres 
+will need to use the entry codes only when 
+claiming students’ qualifications. 
+Advanced GCE – 9BI0 
+Paper code These codes are provided for reference 
+purposes. Students do not need to be 
+entered for individual papers. 
+Paper 1: 9BI0/01 
+Paper 2: 9BI0/02 
+Paper 3: 9BI0/03 
+Science Practical 
+Endorsement: 9BI0/04 
+ 
+*www.gov.uk/government/publications/key-stage-4-qualifications-discount-codes-
+and-point-scores 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+60 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+61 
+ 
+Appendix 4: Practical competency 
+authentication sheet 
+ 
+For students to gain the Science Practical Endorsement, centres will need to: 
+● ensure that there is evidence that students have completed the necessary 
+practical activities, meeting the requirements of Appendix 5c,  
+● ensure that there is evidence that students have met the requirements of each 
+of the CPAC statements, in accordance with the guidelines provided for 
+achieving the 'pass' standard, - complete an authentication sheet for their 
+students. 
+Centres will also need to have had a satisfactory monitoring visit, according to the 
+guidelines for monitoring visits, as set down by the JCQ. 
+Evidence for meeting practical attendance and CPAC competency may be provided 
+in a variety of formats using student lab books or practical portfolios; and registers 
+or tracking spreadsheets.  
+A final version of the authentication statement will be made available to schools in 
+time for the first submission of entries in 2017. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+62 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+63 
+ 
+Appendix 5: Working scientifically 
+ 
+Appendices 5, 5a, 5b and 5c are taken from the document GCE AS and A level 
+regulatory requirements for biology, chemistry, physics and psychology published 
+by the DfE April 2014. Working scientifically is achieved through practical activities. 
+ 
+Specifications in biology, chemistry and physics must encourage the development 
+of the skills, knowledge and understanding in science through teaching and learning 
+opportunities for regular hands-on practical work. 
+In order to develop the necessary skills, knowledge and understanding, students 
+studying biology, chemistry and physics will be required to have carried out a 
+minimum of 12 practical activities, which will contribute towards the Practical 
+Endorsement. These skills, knowledge and understanding will also be assessed in 
+written examinations in the context of these, and other, practical activities. 
+The skills can be split into those which can be assessed through written 
+examinations (Appendix 5a); and those that will be assessed by teachers through 
+appropriate practical activities (Appendix 5b). 
+The practical activities highlighted as the minimum requirement within 
+specifications must cover the use of apparatus and practical techniques identified 
+for each science (Appendix 5c). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+64 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+65 
+ 
+Appendix 5a: Practical skills identified for 
+indirect assessment and developed 
+through teaching and learning 
+ 
+Question papers will assess the student’s following abilities: 
+a) Independent thinking 
+• solve problems set in practical contexts 
+• apply scientific knowledge to practical contexts. 
+b) Use and application of scientific methods and practices 
+• comment on experimental design and evaluate scientific methods 
+• present data in appropriate ways 
+• evaluate results and draw conclusions with reference to measurement 
+uncertainties and errors 
+• identify variables including those that must be controlled. 
+c) Numeracy and the application of mathematical concepts in a practical 
+context 
+• plot and interpret graphs 
+• process and analyse data using appropriate mathematical skills as 
+exemplified in the mathematical appendix for each science 
+• consider margins of error, accuracy and precision of data. 
+d) Instruments and equipment 
+• know and understand how to use a wide range of experimental and practical 
+instruments, equipment and techniques appropriate to the knowledge and 
+understanding included in the specification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+66 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+67 
+ 
+Appendix 5b: Practical skills identified for 
+direct assessment and developed through 
+teaching and learning 
+ 
+Practical work carried out throughout the course will enable students to develop the 
+following skills: 
+a) Independent thinking 
+• apply investigative approaches and methods to practical work. 
+b) Use and apply scientific methods and practices 
+• safely and correctly use a range of practical equipment and materials 
+• follow written instructions 
+• make and record observations 
+• keep appropriate records of experimental activities 
+• present information and data in a scientific way 
+• use appropriate software and tools to process data, carry out research and 
+report findings. 
+c) Research and referencing 
+• use online and offline research skills including websites, textbooks and other 
+printed scientific sources of information 
+• correctly cite sources of information. 
+d) Instruments and equipment 
+• use a wide range of experimental and practical instruments, equipment and 
+techniques appropriate to the knowledge and understanding included in the 
+specification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+68 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+69 
+Appendix 5c: Use of apparatus and 
+techniques 
+ 
+Use of apparatus and techniques – biology 
+Specifications for biology must give students opportunities to use relevant 
+apparatus to develop and demonstrate these techniques. 
+All of the techniques listed below will be assessed through a minimum of 16 
+identified practical activities within each specification. These ‘core’ practicals must 
+allow students to demonstrate all of the practical skills given in Appendix 5b. 
+Practical techniques to be completed by candidates. 
+1. use appropriate apparatus to record a range of quantitative measurements (to 
+include mass, time, volume, temperature, length and pH) 
+2. use appropriate instrumentation to record quantitative measurements, such as 
+a colorimeter or potometer 
+3. use laboratory glassware apparatus for a variety of experimental techniques to 
+include serial dilutions 
+4. use of light microscope at high power and low power, including use of a 
+graticule 
+5. produce scientific drawing from observation with annotations 
+6. use qualitative reagents to identify biological molecules 
+7. separate biological compounds using thin layer/paper chromatography or 
+electrophoresis 
+8. safely and ethically use organisms to measure: 
+ - plant or animal responses 
+ - physiological functions 
+9. use microbiological aseptic techniques, including the use of agar plates and 
+broth 
+10. safely use instruments for dissection of an animal organ, or plant organ 
+11. use sampling techniques in fieldwork 
+12. use ICT such as computer modelling, or data logger to collect data, or use 
+software to process data. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+70 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+71 
+ 
+Appendix 5d: Mapping between 
+Appendix 5c and core practicals (biology) 
+ 
+This qualification gives students opportunities to use relevant apparatus to develop 
+practical skills and demonstrate competency in a range of practical techniques. 
+All of the techniques listed in Appendix 5c will be assessed through a series of core 
+practical activities within this specification. 
+To achieve the Science Practical Endorsement, students need to show competence 
+in the 12 practical techniques listed in Appendix 5c: Use of apparatus and 
+techniques. 
+The following table shows how each core practical activity, listed in the content, 
+maps to the required practical techniques in Appendix 5c: Use of apparatus and 
+techniques. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+72 
+ 
+Biology B Core Practical Practical technique in Appendix 5c 
+1 2 3 4 5 6 7 8 9 10 11 12 
+1: Investigate a factor 
+affecting the initial rate of 
+an enzyme controlled 
+reaction. 
+            
+2: Use of the light 
+microscope, including simple 
+stage and eyepiece 
+micrometers and drawing 
+small numbers of cells from 
+a specialised tissue. 
+            
+3: Make a temporary squash 
+preparation of a root tip to 
+show stages of mitosis in 
+the meristem under the light 
+microscope. 
+            
+4: Investigate the effect of 
+sucrose concentrations on 
+pollen tube growth. 
+            
+5: Investigate the effect of 
+temperature on beetroot 
+membrane permeability. 
+   
+         
+6: Determine the water 
+potential of plant cells.    
+         
+7: Dissect an insect to show 
+the structure of the gas 
+exchange system. 
+            
+8: Investigate factors 
+affecting water uptake by 
+plant shoots using a 
+potometer. 
+   
+         
+9: Investigate factors 
+affecting the rate of 
+respiration using a 
+respirometer. 
+  
+          
+10: Investigate the effects 
+of different wavelengths of 
+light on the rate of 
+photosynthesis. 
+
+            
+11: Investigate the presence 
+of different chloroplast 
+pigments using 
+chromatography. 
+
+            
+12: Investigate the rate of 
+growth of bacteria in liquid 
+culture. 
+            
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+73 
+ 
+Biology B Core Practical Practical technique in Appendix 5c 
+1 2 3 4 5 6 7 8 9 10 11 12 
+13: Isolate individual 
+species from a mixed 
+culture of bacteria using 
+streak plating. 
+            
+14: Investigate the effect of 
+gibberellin on the 
+production of amylase in 
+germinating cereals using a 
+starch agar assay. 
+            
+15: Investigate the effect of 
+different sampling methods 
+on estimates of the size of a 
+population. 
+           
+ 
+16: Investigate the effect of 
+one abiotic factor on the 
+distribution or morphology 
+of one species. 
+            
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+74 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+75 
+ 
+Appendix 6: Mathematical skills and 
+exemplifications 
+ 
+The information in this appendix has been taken directly from the document GCE 
+AS and A level regulatory requirements for biology, chemistry, physics and 
+psychology published by the Department for Education (April 2014). 
+In order to be able to develop their skills, knowledge and understanding in science, 
+students need to have been taught, and to have acquired competence in, the 
+appropriate areas of mathematics relevant to the subject as indicated in the table 
+of coverage below. 
+The assessment of quantitative skills will include at least 10% Level 2 or above 
+mathematical skills for biology and psychology, 20% for chemistry and 40% for 
+physics. These skills will be applied in the context of the relevant science A Level. 
+All mathematical content must be assessed within the lifetime of the specification. 
+The following tables illustrate where these mathematical skills may be developed 
+and could be assessed in each of the sciences. Those shown in bold type would only 
+be tested in the full A Level course. 
+This list of examples is not exhaustive. These skills could be developed in other 
+areas of specification content.  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+76 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level biology (assessment is 
+not limited to the examples given below) 
+(i)  A.0 — arithmetic and numerical computation 
+A.0.1 Recognise and make use of 
+appropriate units in calculations 
+Candidates may be tested on their ability to: 
+● convert between units, e.g. mm3 to cm3 as 
+part of volumetric calculations 
+● work out the unit for a rate, e.g. breathing 
+rate  
+A.0.2 Recognise and use expressions in 
+decimal and standard form  
+Candidates may be tested on their ability to: 
+● use an appropriate number of decimal 
+places in calculations, e.g. for a mean 
+● carry out calculations using numbers in 
+standard and ordinary form, e.g. use of 
+magnification 
+● understand standard form when applied to 
+areas such as size of organelles 
+● convert between numbers in standard and 
+ordinary form 
+● understand that significant figures need 
+retaining when making conversions between 
+standard and ordinary form,  
+e.g. 0.0050 mol dm
+-3 is equivalent to  
+5.0 x 10-3 mol dm-3 
+A.0.3 Use ratios, fractions and 
+percentages 
+Candidates may be tested on their ability to: 
+● calculate percentage yields 
+● calculate surface area to volume ratio 
+● use scales for measuring 
+● represent phenotypic (monohybrid and 
+dihybrid crosses) 
+A.0.4 Estimate results  Candidates may be tested on their ability to: 
+● estimate results to sense check that the 
+calculated values are appropriate 
+A.0.5 Use calculators to find and use 
+power, exponential and 
+logarithmic functions 
+Candidates may be tested on their ability 
+to: 
+● estimate the number of bacteria grown 
+over a certain length of time 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+77 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level biology (assessment is 
+not limited to the examples given below) 
+(ii)  A.1 — handling data 
+A.1.1 Use an appropriate number of 
+significant figures 
+Candidates may be tested on their ability to: 
+● report calculations to an appropriate 
+number of significant figures given raw data 
+quoted to varying numbers of significant 
+figures 
+● understand that calculated results can be 
+reported only to the limits of the least 
+accurate measurement 
+A.1.2 Find arithmetic means  Candidates may be tested on their ability to: 
+● find the mean of a range of data, e.g. the 
+mean number of stomata in the leaves of a 
+plant 
+A.1.3 Construct and interpret frequency 
+tables and diagrams, bar charts 
+and histograms 
+Candidates may be tested on their ability to: 
+● represent a range of data in a table with 
+clear headings, units and consistent decimal 
+places 
+● interpret data from a variety of tables, e.g. 
+data relating to organ function 
+● plot a range of data in an appropriate 
+format, e.g. enzyme activity over time 
+represented on a graph 
+● interpret data for a variety of graphs, e.g. 
+explain electrocardiogram traces 
+A.1.4 Understand simple probability Candidates may be tested on their ability to: 
+● use the terms probability and chance 
+appropriately 
+● understand the probability associated with 
+genetic inheritance 
+A.1.5 Understand the principles of 
+sampling as applied to scientific 
+data 
+Candidates may be tested on their ability to: 
+● analyse random data collected by an 
+appropriate means, e.g. calculate an index 
+of diversity to compare the biodiversity of a 
+habitat 
+A.1.6 Understand the terms mean, 
+median and mode 
+Candidates may be tested on their ability to: 
+● calculate or compare the mean, median and 
+mode of a set of data, e.g. height/mass/size 
+of a group of organisms  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+78 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level biology (assessment is 
+not limited to the examples given below) 
+(ii)  A.1 — handling data 
+A.1.7 Use a scatter diagram to identify 
+a correlation between two 
+variables 
+Candidates may be tested on their ability to: 
+● interpret a scattergram, e.g. the effect of 
+life style factors on health 
+A.1.8 Make order of magnitude 
+calculations 
+Candidates may be tested on their ability to: 
+● use and manipulate the magnification 
+formula 
+magnification =  size of image 
+size of real object 
+A.1.9 Select and use a statistical test Candidates may be tested on their ability to 
+select and use: 
+● the Chi squared test to test the significance 
+of the difference between observed and 
+expected results 
+● the Student’s t-test 
+● the correlation coefficient 
+A.1.10 Understand measures of 
+dispersion, including standard 
+deviation and range 
+Candidates may be tested on their ability to: 
+● calculate the standard deviation 
+● understand why standard deviation might 
+be a more useful measure of dispersion for 
+a given set of data, e.g. where there is an 
+outlying result 
+A.1.11 Identify uncertainties in 
+measurements and use simple 
+techniques to determine 
+uncertainty when data are 
+combined 
+Candidates may be tested on their ability to: 
+● calculate percentage error where there are 
+uncertainties in measurement 
+(iii) A.2 – algebra 
+A.2.1 Understand and use the symbols: 
+=, <, <<, >>, >, ∝, ~ 
+No exemplification required 
+A.2.2 Change the subject of an equation Candidates may be tested on their ability to: 
+● use and manipulate equations,  
+e.g. magnification 
+A.2.3 Substitute numerical values into 
+algebraic equations using 
+appropriate units for physical 
+quantities 
+Candidates may be tested on their ability to: 
+● use a given equation e.g. a formula to 
+calculate an index of diversity  
+( )
+( )
+NN 1D Σn n 1
+−= −
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+79 
+ 
+ Mathematical skills 
+ 
+Exemplification of mathematical skill in the 
+context of A Level biology (assessment is 
+not limited to the examples given below) 
+A.2.4 Solve algebraic equations Candidates may be tested on their ability to: 
+● solve equations in a biological context, e.g. 
+cardiac output = stroke volume x heart rate 
+A.2.5 Use logarithms in relation to 
+quantities that range over 
+several orders of magnitude 
+Candidates may be tested on their ability 
+to: 
+● use a logarithmic scale in the context of 
+microbiology, e.g. growth rate of a 
+microorganism such as yeast 
+(iv) A.3 – graphs 
+A.3.1 Translate information between 
+graphical, numerical and algebraic 
+forms 
+Candidates may be tested on their ability to: 
+● understand that data may be presented in a 
+number of formats and be able to use these 
+data, e.g. dissociation curves 
+A.3.2 Plot two variables from 
+experimental or other data 
+Candidates may be tested on their ability to: 
+● select an appropriate format for presenting 
+data, bar charts, histograms, graphs and 
+scattergrams 
+A.3.3 Understand that y = mx + c 
+represents a linear relationship 
+Candidates may be tested on their ability to: 
+● predict/sketch the shape of a graph with a 
+linear relationship, e.g. the effect of 
+substrate concentration on the rate of an 
+enzyme-controlled reaction with excess 
+enzyme 
+A.3.4 Determine the intercept of a 
+graph 
+Candidates may be tested on their ability 
+to: 
+● read off an intercept point from a 
+graph, e.g. compensation point in 
+plants 
+A.3.5 Calculate rate of change from a 
+graph showing a linear 
+relationship 
+Candidates may be tested on their ability to: 
+● calculate a rate from a graph, e.g. rate of 
+transpiration 
+A.3.6 Draw and use the slope of a 
+tangent to a curve as a measure 
+of rate of change 
+Candidates may be tested on their ability to: 
+● use this method to measure the gradient of 
+a point on a curve, e.g. amount of product 
+formed plotted against time when the 
+concentration of enzyme is fixed 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+80 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level biology (assessment is 
+not limited to the examples given below) 
+(v)  A.4 — geometry and trigonometry 
+A.4.1 
+ 
+Calculate the circumferences, 
+surface areas and volumes of 
+regular shapes 
+Candidates may be tested on their ability to: 
+● calculate the circumference and area of a 
+circle 
+● calculate the surface area and volume of 
+rectangular prisms, of cylindrical prisms and 
+of spheres 
+● e.g. calculate the surface area or volume of 
+a cell 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+81 
+Appendix 7: Command words used in 
+examination papers 
+ 
+The following table lists the command words used in the external assessments. 
+ 
+Command word Definition 
+Add/Label Requires the addition or labelling to a stimulus material given 
+in the question, for example labelling a diagram or adding 
+units to a table. 
+Assess Give careful consideration to all the factors or events that 
+apply and identify which are the most important or relevant. 
+Make a judgement on the importance of something, and 
+come to a conclusion where needed. 
+Calculate Obtain a numerical answer, showing relevant working. If the 
+answer has a unit, this must be included. 
+Comment on Requires the synthesis of a number of variables from 
+data/information to form a judgement.  
+Compare and 
+contrast 
+Looking for the similarities and differences of two (or more) 
+things. Should not require the drawing of a conclusion. 
+Answer must relate to both (or all) things mentioned in the 
+question.  
+The answer must include at least one similarity and one 
+difference. 
+Complete Requires the completion of a table/diagram. 
+Criticise Inspect a set of data, an experimental plan or a scientific 
+statement and consider the elements. Look at the merits and 
+faults of the information presented and support judgements 
+made by giving evidence.  
+Deduce Draw/reach conclusion(s) from the information provided. 
+Describe To give an account of something. Statements in the response 
+need to be developed as they are often linked but do not 
+need to include a justification or reason.  
+Determine The answer must have an element which is quantitative from 
+the stimulus provided, or must show how the answer can be 
+reached quantitatively. To gain maximum marks there must 
+be a quantitative element to the answer. 
+Devise Plan or invent a procedure from existing principles/ideas. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Biology B 
+Specification – Issue 4 – November 2018 © Pearson Education Limited 2018 
+82 
+ 
+Command word Definition 
+Discuss ● Identify the issue/situation/problem/argument that is 
+being assessed within the question 
+● Explore all aspects of an 
+issue/situation/problem/argument 
+● Investigate the issue/situation etc by reasoning or 
+argument 
+Draw Produce a diagram either using a ruler or using freehand. 
+Evaluate Review information then bring it together to form a 
+conclusion, drawing on evidence including strengths, 
+weaknesses, alternative actions, relevant data or 
+information. Come to a supported judgement of a subject’s 
+qualities and relation to its context. 
+Explain An explanation requires a justification/exemplification of a 
+point. The answer must contain some element 
+of reasoning/justification, this can include mathematical 
+explanations.  
+Give/State/Name All of these command words are really synonyms. They 
+generally all require recall of one or more pieces of 
+information. 
+Give a 
+reason/reasons 
+When a statement has been made and the requirement is 
+only to give the reasons why. 
+Identify Usually requires some key information to be selected from a 
+given stimulus/resource. 
+Justify Give evidence to support (either the statement given in the 
+question or an earlier answer) 
+Plot Produce a graph by marking points accurately on a grid from 
+data that is provided and then drawing a line of best fit 
+through these points. A suitable scale and appropriately 
+labelled axes must be included if these are not provided in 
+the question. 
+Predict Give an expected result. 
+Show that Verify the statement given in the question. 
+Sketch Produce a freehand drawing. For a graph this would need a 
+line and labelled axis with important features indicated, the 
+axis are not scaled. 
+State what is meant 
+by 
+When the meaning of a term is expected but there are 
+different ways of how these can be described. 
+Write When the questions ask for an equation. 
+ 
+ 
+ 
+Sb211118Z:\LT\PD\GCE 2015 NEW ISSUES\978144693798_GCE2015_AL_BIOB_ISSUE4.DOC.1–93/1 
+
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office:  80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121

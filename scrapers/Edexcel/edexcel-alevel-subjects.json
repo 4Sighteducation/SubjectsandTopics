@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Pearson Art and Design (2015)\nArt and Design",
+    "code": "UNKNOWN",
+    "slug": "art-and-design-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/art-and-design-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nBiology A (Salters-Nuffield) from",
+    "code": "UNKNOWN",
+    "slug": "biology-a-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/biology-a-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "complete"
+  },
+  {
+    "name": "A levels\nBiology B",
+    "code": "UNKNOWN",
+    "slug": "biology-b-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/biology-b-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nBusiness",
+    "code": "UNKNOWN",
+    "slug": "business-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/business-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nChemistry",
+    "code": "UNKNOWN",
+    "slug": "chemistry-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/chemistry-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nEconomics A",
+    "code": "UNKNOWN",
+    "slug": "economics-a-2015",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Economics/2015/teaching-and-learning-materials/Specification_mapping.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/economics-a-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nEconomics B",
+    "code": "UNKNOWN",
+    "slug": "economics-b-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/economics-b-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "Pearson English Language",
+    "code": "UNKNOWN",
+    "slug": "english-language-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-language-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "Pearson English Language and Literature",
+    "code": "UNKNOWN",
+    "slug": "english-language-and-literature-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-language-and-literature-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "Pearson English Literature",
+    "code": "UNKNOWN",
+    "slug": "english-literature-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-literature-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "History",
+    "code": "UNKNOWN",
+    "slug": "history-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/history-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "complex",
+    "status": "complete"
+  },
+  {
+    "name": "A levels\nPhysics",
+    "code": "UNKNOWN",
+    "slug": "physics-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/physics-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nPsychology",
+    "code": "UNKNOWN",
+    "slug": "psychology-2015",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/psychology-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nDrama and Theatre",
+    "code": "UNKNOWN",
+    "slug": "drama-and-theatre-2016",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/drama-and-theatre-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nFrench",
+    "code": "UNKNOWN",
+    "slug": "french-2016",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/french-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "Geography",
+    "code": "UNKNOWN",
+    "slug": "geography-2016",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/geography-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nGerman",
+    "code": "UNKNOWN",
+    "slug": "german-2016",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/german-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nMusic",
+    "code": "9MU0",
+    "slug": "music-2016",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/music-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A level Physical Education",
+    "code": "UNKNOWN",
+    "slug": "physical-education-2016",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/physical-education-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A level\nReligious Studies",
+    "code": "UNKNOWN",
+    "slug": "religious-studies-2016",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/religious-studies-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nSpanish",
+    "code": "UNKNOWN",
+    "slug": "spanish-2016",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/spanish-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nChinese",
+    "code": "UNKNOWN",
+    "slug": "chinese-2017",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/chinese-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nDesign and Technology - Product Design",
+    "code": "9DT0",
+    "slug": "design-technology-product-design-2017",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/design-technology-product-design-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nMathematics",
+    "code": "UNKNOWN",
+    "slug": "mathematics-2017",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/mathematics-2017.coursematerials.html#%252Ftab-AlevelFurtherMathematics#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nHistory of Art",
+    "code": "UNKNOWN",
+    "slug": "history-of-art-2017",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/history-of-art-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "complex",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nItalian",
+    "code": "UNKNOWN",
+    "slug": "italian-2017",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/italian-2017.coursematerials.html#tab-0#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nMusic Technology",
+    "code": "9MT0",
+    "slug": "music-technology-2017",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/music-technology-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nPolitics",
+    "code": "UNKNOWN",
+    "slug": "politics-2017",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/politics-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  },
+  {
+    "name": "A levels\nRussian",
+    "code": "UNKNOWN",
+    "slug": "russian-2017",
+    "pdf_url": null,
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/russian-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials",
+    "scraper_type": "simple",
+    "status": "ready"
+  }
+]

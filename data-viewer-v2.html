@@ -31,6 +31,9 @@
     .topic-item:hover { background: rgba(255,255,255,0.08); }
     .topic-item.dragging { opacity: 0.5; cursor: grabbing; }
     .topic-item.drag-over { border-top: 3px solid #00f5ff; }
+    .topic-item.collapsed { display: none; }
+    .collapse-icon { cursor: pointer; user-select: none; min-width: 20px; font-size: 16px; color: #00f5ff; }
+    .collapse-icon:hover { color: #00ff88; }
     .topic-item .code { color: #00f5ff; min-width: 100px; font-family: 'Courier New', monospace; font-size: 13px; cursor: text; padding: 4px; border-radius: 4px; }
     .topic-item .code:hover { background: rgba(255,255,255,0.05); }
     .topic-item .code[contenteditable="true"] { background: rgba(0,245,255,0.1); border: 1px solid #00f5ff; }
@@ -64,13 +67,14 @@
 </head>
 <body>
   <div class="container">
-    <h1>🔍 AQA Data Viewer V2 - Fast & Powerful</h1>
+    <h1>🔍 Curriculum Data Viewer V2 - Fast & Powerful</h1>
     
     <div class="filters">
       <div>
         <label>Exam Board:</label>
         <select id="filter-board" onchange="applyFilters()">
           <option value="AQA" selected>AQA</option>
+          <option value="Edexcel">Edexcel</option>
         </select>
       </div>
       <div>
@@ -103,6 +107,7 @@
     let currentFilters = { board: 'AQA', qual: 'A-Level' };
 
     function applyFilters() {
+      currentFilters.board = document.getElementById('filter-board').value;
       currentFilters.qual = document.getElementById('filter-qual').value;
       loadStats();
       loadSubjects();
@@ -110,6 +115,9 @@
 
     function getFilterQuery() {
       let query = sb.from('staging_aqa_subjects').select('*');
+      if (currentFilters.board) {
+        query = query.eq('exam_board', currentFilters.board);
+      }
       if (currentFilters.qual !== 'all') {
         query = query.eq('qualification_type', currentFilters.qual);
       }
@@ -232,24 +240,79 @@
       
       const { data: papers } = await sb.from('staging_aqa_exam_papers').select('*').eq('subject_id', currentSubjectId).order('year', { ascending: false });
       
-      // Natural sort topics
-      allTopics.sort((a, b) => {
-        const aParts = a.topic_code.split('.').map(n => parseInt(n) || n);
-        const bParts = b.topic_code.split('.').map(n => parseInt(n) || n);
+      // Build hierarchical tree structure
+      function buildTreeOrder(topics) {
+        const topicMap = new Map(topics.map(t => [t.id, {...t, children: []}]));
+        const roots = [];
         
-        for (let i = 0; i < Math.max(aParts.length, bParts.length); i++) {
-          const aVal = aParts[i] || 0;
-          const bVal = bParts[i] || 0;
-          
-          if (typeof aVal === 'number' && typeof bVal === 'number') {
-            if (aVal !== bVal) return aVal - bVal;
+        // Build parent-child relationships
+        for (const topic of topics) {
+          const topicNode = topicMap.get(topic.id);
+          if (topic.parent_topic_id === null) {
+            roots.push(topicNode);
           } else {
-            if (aVal < bVal) return -1;
-            if (aVal > bVal) return 1;
+            const parent = topicMap.get(topic.parent_topic_id);
+            if (parent) {
+              parent.children.push(topicNode);
+            } else {
+              // Parent not found - add as root (orphan)
+              roots.push(topicNode);
+            }
           }
         }
-        return 0;
-      });
+        
+        console.log(`Tree: ${roots.length} root topics found`);
+        
+        // Natural sort function (Routes A-H first, then Paper3, then Options, etc.)
+        function naturalSort(a, b) {
+          // Special case: Route codes should come before Paper codes
+          const aIsRoute = a.topic_code.startsWith('Route');
+          const bIsRoute = b.topic_code.startsWith('Route');
+          const aIsPaper = a.topic_code.startsWith('Paper');
+          const bIsPaper = b.topic_code.startsWith('Paper');
+          
+          if (aIsRoute && bIsPaper) return -1;  // Route before Paper
+          if (aIsPaper && bIsRoute) return 1;   // Paper after Route
+          
+          // Natural sort by splitting on digits
+          const aParts = a.topic_code.split(/(\d+)/).filter(Boolean);
+          const bParts = b.topic_code.split(/(\d+)/).filter(Boolean);
+          
+          for (let i = 0; i < Math.max(aParts.length, bParts.length); i++) {
+            const aPart = aParts[i] || '';
+            const bPart = bParts[i] || '';
+            
+            const aNum = parseInt(aPart);
+            const bNum = parseInt(bPart);
+            
+            if (!isNaN(aNum) && !isNaN(bNum)) {
+              if (aNum !== bNum) return aNum - bNum;
+            } else {
+              if (aPart < bPart) return -1;
+              if (aPart > bPart) return 1;
+            }
+          }
+          return 0;
+        }
+        
+        // Recursively flatten tree in order
+        function flattenTree(nodes) {
+          nodes.sort(naturalSort);
+          const result = [];
+          for (const node of nodes) {
+            result.push(node);
+            if (node.children && node.children.length > 0) {
+              result.push(...flattenTree(node.children));
+            }
+          }
+          return result;
+        }
+        
+        return flattenTree(roots);
+      }
+      
+      allTopics = buildTreeOrder(allTopics);
+      console.log(`Sorted topics: ${allTopics.length}`);
       
       let detailsHtml = `<h2>${currentSubjectName}</h2>`;
       
@@ -302,16 +365,31 @@
       detailsHtml += `<h3 style="margin-top: 20px; color: #00f5ff;">📚 Topics (${allTopics.length})</h3>`;
       detailsHtml += `<div class="topics-list">`;
       
+      // Track which topics have children for collapse icons
+      const topicHasChildren = new Map();
+      allTopics.forEach(t => {
+        if (t.children && t.children.length > 0) {
+          topicHasChildren.set(t.id, true);
+        }
+      });
+      
       allTopics.forEach(topic => {
         const indent = '&nbsp;&nbsp;'.repeat(topic.topic_level * 3);
+        const hasChildren = topicHasChildren.get(topic.id);
+        const collapseIcon = hasChildren ? 
+          `<span class="collapse-icon" onclick="toggleCollapse('${topic.id}', event)" title="Click to collapse/expand">▼</span>` : 
+          `<span class="collapse-icon" style="visibility:hidden;">▼</span>`;
+        
         detailsHtml += `
           <div class="topic-item" 
                id="topic-row-${topic.id}" 
+               data-parent-id="${topic.parent_topic_id || ''}"
                draggable="true"
                ondragstart="dragStart(event, '${topic.id}')"
                ondragover="dragOver(event)"
                ondrop="drop(event, '${topic.id}')"
                ondragleave="dragLeave(event)">
+            ${collapseIcon}
             <span class="indent">${indent}</span>
             <span class="code" id="code-${topic.id}" onclick="editCode('${topic.id}')">${topic.topic_code}</span>
             <span class="level" id="level-${topic.id}" onclick="editLevel('${topic.id}')" title="Click to edit level">L${topic.topic_level}</span>
@@ -329,6 +407,48 @@
     function showSubjects() {
       document.getElementById('subjects').style.display = 'grid';
       document.getElementById('details').style.display = 'none';
+    }
+
+    // COLLAPSE/EXPAND TOPICS
+    function toggleCollapse(topicId, event) {
+      event.stopPropagation(); // Don't trigger drag
+      
+      const icon = event.target;
+      const isCollapsed = icon.textContent === '▶';
+      
+      // Toggle icon
+      icon.textContent = isCollapsed ? '▼' : '▶';
+      
+      // Find and toggle all descendants
+      const allRows = document.querySelectorAll('.topic-item');
+      const descendants = findDescendants(topicId, allRows);
+      
+      descendants.forEach(descId => {
+        const row = document.getElementById(`topic-row-${descId}`);
+        if (row) {
+          if (isCollapsed) {
+            row.classList.remove('collapsed');
+          } else {
+            row.classList.add('collapsed');
+          }
+        }
+      });
+    }
+
+    function findDescendants(topicId, allRows) {
+      const descendants = [];
+      const children = Array.from(allRows).filter(row => 
+        row.dataset.parentId === topicId
+      );
+      
+      children.forEach(child => {
+        const childId = child.id.replace('topic-row-', '');
+        descendants.push(childId);
+        // Recursively find grandchildren
+        descendants.push(...findDescendants(childId, allRows));
+      });
+      
+      return descendants;
     }
 
     // DRAG & DROP

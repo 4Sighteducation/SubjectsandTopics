@@ -1,0 +1,3309 @@
+Specification
+Pearson Edexcel Level 3 Advanced GCE in Psychology (9PS0)
+First teaching from September 2015
+First certification from 2017 Issue 3
+A level 
+Psychology
+
+Edexcel, BTEC and LCCI qualifications 
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK’s largest 
+awarding body offering academic and vocational qualifications that are globally 
+recognised and benchmarked. For further information, please visit our qualifications 
+website at qualifications.pearson.com. Alternatively, you can get in touch with us 
+using the details on our contact us page at qualifications.pearson.com/contactus 
+About Pearson 
+Pearson is the world's leading learning company, with 35,000 employees in more 
+than 70 countries working to help people of all ages to make measurable progress 
+in their lives through learning. We put the learner at the centre of everything we 
+do, because wherever learning flourishes, so do people. Find out more about how 
+we can help you and your learners at qualifications.pearson.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This specification is Issue 3. Key changes are sidelined. We will inform centres of 
+any changes to this issue. The latest issue can be found on the Pearson website: 
+qualifications.pearson.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party material made in this specification are made in good faith. 
+Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Material may include textbooks, journals, magazines and other publications and 
+websites.) 
+ 
+All information in this specification is correct at time of publication. 
+ 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 94208 6 
+All the material in this publication is copyright 
+© Pearson Education Limited 2025 
+ 
+ 
+Summary of Pearson Edexcel Level 3 
+Advanced GCE in Psychology (9PS0) specification  
+Issue 3 changes 
+ 
+Summary of changes made between previous issue and this current 
+issue 
+Page 
+number 
+Updated exam time for papers 1 and 2, from 2 hours to 2 hours and 15 
+minutes each. 
+1, 2 
+Updated exam time for papers 1 and 2, from 2 hours to 2 hours and 15 
+minutes each. 
+46 
+ 
+If you need further information on these changes or what they mean, contact us via 
+our website at: qualifications.pearson.com/en/support/contact-us.html. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+ 
+  The reform of the qualifications system in England is a profoundly important 
+change to the education system. Teachers need to know that the new qualifications 
+will assist them in helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an 
+‘Expert Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or 
+because of our experience in reforming qualifications in other systems around the 
+world as diverse as Singapore, Hong Kong, Australia and a number of countries 
+across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification 
+development process that has included: 
+• Extensive international comparability of subject content against the highest-
+performing jurisdictions in the world 
+• Benchmarking assessments against UK and overseas providers to ensure that 
+they are at the right level of demand 
+• Establishing External Subject Advisory Groups, drawing on independent subject-
+specific expertise to challenge and validate our qualifications 
+• Subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future 
+oriented. The design has been guided by what is called an ‘Efficacy Framework’, 
+meaning learner outcomes have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a 
+learner’s success in education. As a result of our work as a panel we are confident 
+that we have supported the development of qualifications that are outstanding for 
+their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.  
+  
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong 
+Director, National Institute of 
+Education, Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Sw
+itzerland 
+  
+Professor Robin Coningham 
+Pro-V ice Chancellor, University of Durham  
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+“ 
+” 
+ 
+ 
+ 
+Introduction 
+The Pearson Edexcel Level 3 Advanced GCE in Psychology is designed for use in 
+schools and colleges. It is part of a suite of GCE qualifications offered by Pearson. 
+Purpose of the specification  
+This specification sets out: 
+● the objectives of the qualification 
+● any other qualification that a student must have completed before taking the 
+qualification 
+● any prior knowledge and skills that the student is required to have before taking 
+the qualification 
+● any other requirements that a student must have satisfied before they will be 
+assessed or before the qualification will be awarded 
+● the knowledge and understanding that will be assessed as part of the 
+qualification 
+● the method of assessment and any associated requirements relating to it 
+● the criteria against which a student’s level of attainment will be measured  
+(such as assessment criteria). 
+ 
+ 
+ 
+Rationale 
+The Pearson Edexcel Level 3 Advanced GCE in Psychology meets the following 
+purposes, which fulfil those defined by the Office of Qualifications and Examinations 
+Regulation (Ofqual) for GCE qualifications in their GCE Qualification Level 
+Conditions and Requirements document, published in April 2014. 
+The purposes of this qualification are to: 
+● define and assess achievement of the knowledge, skills and understanding that 
+will be needed by students planning to progress to undergraduate study at a UK 
+higher education establishment, particularly (although not only) in the same 
+subject area, for example higher education qualifications such as psychology 
+degrees and further education courses such as BTEC Higher Nationals 
+● set out a robust and internationally comparable post-16 academic course of 
+study to develop that knowledge, skills and understanding 
+● enable UK universities to accurately identify the level of attainment of students 
+● provide a basis for school and college accountability measures at age 18 
+● provide a benchmark of academic ability for employers. 
+Qualification aims and objectives 
+The aims and objectives of the Pearson Edexcel Level 3 Advanced GCE in 
+Psychology are to enable students to: 
+● develop essential knowledge and understanding of different areas of the subject 
+and how they relate to each other 
+● develop and demonstrate a deep appreciation of the skills, knowledge and 
+understanding of scientific methods 
+● develop competence and confidence in a variety of practical, mathematical and 
+problem-solving skills 
+● develop their interest in and enthusiasm for the subject, including developing an 
+interest in further study and careers associated with the subject 
+● appreciate how society makes decisions about scientific issues and how the 
+sciences contribute to the success of the economy and society. 
+ 
+ 
+ 
+ 
+The context for the development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+● reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+● consulting with key stakeholders on content and assessment, including learned 
+bodies, subject associations, higher-education academics, teachers and 
+employers to ensure this qualification is suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their documents GCE Qualification Level Conditions and Requirements and GCE AS 
+and A level regulatory requirements for biology, chemistry, physics and psychology, 
+published by the Department for Education (DfE) in April 2014. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] Pearson’s World Class Qualification principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep 
+learning and measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing 
+reliable and valid assessment tasks and processes, and generating confidence in 
+end users of the knowledge, skills and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that 
+students develop at different rates and have different learning needs, and 
+focusing on progression 
+● empowering, through promoting the development of transferable skills,  
+see Appendix 1. 
+ 
+ 
+ 
+Contents 
+Qualification at a glance 1 
+Assessment Objectives and weightings 4 
+Knowledge, skills and understanding 5 
+Topic 1: Social psychology 6 
+Topic 2: Cognitive psychology 10 
+Topic 3: Biological psychology 15 
+Topic 4: Learning theories 19 
+Topic 5: Clinical psychology 24 
+Topic 6: Criminological psychology 29 
+Topic 7: Child psychology 34 
+Topic 8: Health psychology 39 
+Topic 9: Psychological skills 43 
+Assessment 46 
+Assessment summary 46 
+Assessment Objectives and weightings 48 
+Breakdown of Assessment Objectives 49 
+Entry and assessment information 50 
+Student entry 50 
+Discount code and performance tables 50 
+Access arrangements, reasonable adjustments and special 
+consideration 51 
+Malpractice 52 
+Equality Act 2010 and Pearson equality policy 53 
+Synoptic assessment 53 
+Awarding and reporting 54 
+Language of assessment 54 
+Other information 55 
+Student recruitment 55 
+Prior learning and other requirements 55 
+Progression 55 
+Appendix 1: Transferable skills 57 
+Appendix 2: Level 3 Extended Project qualification 59 
+Appendix 3: Mathematical skills 62 
+Appendix 4: Formulae and statistical tables 65 
+Appendix 5: Codes 70 
+Appendix 6: Taxonomy (command words) 71 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 1 
+Qualification at a glance 
+The Pearson Edexcel Level 3 Advanced GCE in Psychology is structured into nine 
+topic areas. Topics 1–4 are compulsory and focus on the areas that have laid the 
+foundations of modern psychological understanding. Topics 5–8 focus on how our 
+understanding of psychology is applied today. Topic 5 is compulsory. One topic 
+from 6, 7 or 8 must be studied. Finally, Topic 9 summarises the psychological skills 
+and research methods covered in the qualification. 
+This qualification consists of three externally examined papers. 
+Students must complete all assessment in May/June in any single year. 
+ 
+Paper 1: Foundations in psychology *Paper code: 9PS0/01 
+ 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+35% of the 
+total 
+qualification 
+Overview of content 
+● Topic 1: Social psychology 
+● Topic 2: Cognitive psychology 
+● Topic 3: Biological psychology 
+● Topic 4: Learning theories 
+Overview of assessment 
+● Written examination. 
+● Students must answer all questions from five sections. 
+● Sections A–D total 70 marks and comprise mixed question types, including 
+stimulus and data response, short-answer and extended response questions 
+and cover the topic areas as follows: 
+Section A: Social psychology 
+Section B: Cognitive psychology 
+Section C: Biological psychology 
+Section D: Learning theories 
+● Section E: Issues and debates has 20 marks and comprises two extended 
+response questions, covering the topic area of issues and debates in 
+psychology. 
+● The assessment is 2 hours and 15 minutes long. 
+● The assessment consists of 90 marks. 
+● The formulae and statistical tables given in Appendix 4: Formulae and 
+statistical tables will also be given in the paper. 
+● Calculators may be used in the examination. 
+ 
+*See Appendix 5: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 2 
+ 
+Paper 2: Applications of psychology *Paper code: 9PS0/02 
+ 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+35% of the 
+total 
+qualification 
+Overview of content 
+Mandatory content 
+● Topic 5: Clinical psychology 
+Optional topics (students must study one) 
+● Topic 6: Criminological psychology 
+● Topic 7: Child psychology 
+● Topic 8: Health psychology 
+Overview of assessment 
+● Written examination. 
+● The paper is composed of two sections. Students must answer all questions 
+from Section A and all questions from a choice of three optional topic areas in 
+Section B. 
+● Section A has 54 marks and comprises of mixed question types, including 
+data and stimulus response, short-answer and extended response questions 
+with a 20-mark response covering the topic area of clinical psychology. 
+● Section B presents students with a choice of one from three optional topic 
+areas – Criminological psychology, Child psychology or Health psychology. 
+Each section totals 36 marks and comprises mixed question types, including 
+stimulus and data response, short-answer and extended response questions. 
+● The assessment is 2 hours and 15 minutes long. 
+● The assessment consists of 90 marks. 
+● The formulae and statistical tables given in Appendix 4: Formulae and 
+statistical tables will also be given in the paper. 
+● Calculators may be used in the examination. 
+ 
+*See Appendix 5: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 3 
+ 
+Paper 3: Psychological skills  *Paper code: 9PS0/03 
+ 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+30% of the 
+total 
+qualification 
+Overview of content 
+Topic 9: Psychological skills: 
+● Methods 
+● Synoptic review of studies 
+● Issues and debates. 
+Overview of assessment 
+● Written examination. 
+● Students must answer all questions from three sections. 
+● Section A has 24 marks and comprises mixed question types, including 
+stimulus and data response and short-answer questions, covering the topic 
+area of research methods. 
+● Section B has 24 marks and comprises mixed question types, including 
+stimulus and data response and short-answer questions based on psychological 
+studies and one extended response questions based on classic studies given in 
+Topics 1-5. 
+● Section C has 32 marks and comprises two extended response questions, 
+covering the topic area of issues and debates in psychology. 
+● The assessment is 2 hours long. 
+● The assessment consists of 80 marks. 
+● The formulae and statistical tables given in Appendix 4: Formulae and 
+statistical tables will also be given in the paper. 
+● Calculators may be used in the examination. 
+ 
+*See Appendix 5: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 4 
+Assessment Objectives and weightings 
+ 
+Students must: % in 
+GCE 
+AO1 Demonstrate knowledge and understanding of scientific ideas, 
+processes, techniques and procedures 
+30-35% 
+AO2 Apply knowledge and understanding of scientific ideas, 
+processes, techniques and procedures: 
+● in a theoretical context 
+● in a practical context 
+● when handling qualitative data 
+● when handling quantitative data 
+30-35% 
+AO3 Analyse, interpret and evaluate scientific information, ideas 
+and evidence, including in relation to issues, to: 
+● make judgements and reach conclusions 
+● develop and refine practical design and procedures 
+35-40% 
+Total 100% 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 5 
+Knowledge, skills and understanding 
+Content overview 
+Students should know, understand, apply, critically analyse 
+and evaluate the following content – performing procedures 
+and making connections where appropriate.  
+This qualification is composed of nine topics. For  
+Topics 1–4, content in the What students need to learn 
+column in bold will be assessed for this qualification only 
+but will not be assessed as part of the Advanced Subsidiary 
+GCE qualification. 
+Content indicated with an ‘e.g.’ is intended to further 
+illustrate core material and is indicative of content that may 
+be assessed. Additional examples not stated in the 
+specification may also be assessed. 
+There are opportunities for students to develop 
+mathematical skills throughout the content. They are 
+required to apply the skills to relevant psychological 
+contexts. Please see Appendix 3: Mathematical skills for 
+further information.  
+Assessment overview 
+Students will be assessed through three examination 
+papers, which focus on specific topics in the qualification. 
+Paper 3 is by nature synoptic, however extended writing 
+questions in papers 1 and 2 may ask students to draw on 
+their knowledge from other topics addressed in the paper 
+concerned. 
+The formulae and statistical tables given in Appendix 4: 
+Formulae and statistical tables will also be given in the 
+paper. 
+Calculators may be used in the examination. 
+Students may be required to respond to stimulus material 
+using psychological concepts, theories and research from 
+across topic areas. 
+Students may be asked to consider issues of validity, 
+reliability, credibility, generalisability, objectivity and 
+subjectivity in their evaluation of studies and theories. 
+Students should be able to define any terms given in the 
+specification. 
+Relevant psychological skills are contextualised in each 
+topic area. In addition, they have been drawn together in 
+Topic 9 in order to ensure that all content has been 
+covered. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 6 
+Topic 1: Social psychology 
+Topic overview 
+Students must show understanding that social psychology is 
+about aspects of human behaviour that involve the 
+individual’s relationship to other persons, groups and 
+society, including cultural influences on behaviour. 
+Individual differences and developmental psychology must 
+be considered when learning about obedience, prejudice, 
+personality and cultural influences on social behaviour. 
+ 
+Subject content What students need to learn: 
+1.1 Content 
+ 
+Obedience 
+1.1.1 Theories of obedience, including agency theory and 
+social impact theory. 
+1.1.2 Research into obedience, including Milgram’s 
+research into obedience and three of his variation 
+studies: Rundown Office Block (Experiment 10), 
+Telephonic instructions (Experiment 7), Ordinary 
+man gives orders (Experiment 13) as they 
+demonstrate situational factors that encourage 
+dissent. 
+1.1.3 Factors affecting obedience and dissent/resistance 
+to obedience, including individual differences 
+(personality and gender), situation and culture. 
+Prejudice 
+1.1.4 Explanations and research into prejudice, including 
+social identity theory (Tajfel and Turner, 1979, 
+1986) and realistic conflict theory (Sherif, 1966). 
+1.1.5 Factors affecting prejudice (and discrimination), 
+including individual differences (personality), 
+situation and culture. 
+1.1.6 Individual differences in obedience/prejudice  
+● Obedience is affected by personality. 
+● Prejudice can have an explanation linked to 
+personality. 
+1.1.7 Developmental psychology in obedience/prejudice 
+● Obedience can be affected by gender and 
+culture, which come from environmental effects. 
+● Prejudice can be affected by culture, which 
+comes from environmental effects. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 7 
+ 
+Subject content What students need to learn: 
+1.2 Methods Self-reporting data 
+1.2.1 Designing and conducting questionnaires and 
+interviews, considering researcher effects. 
+1.2.2 Unstructured, semi-structured and structured 
+interviews, open, closed (including ranked scale) 
+questions. 
+1.2.3 Alternate hypotheses. 
+Sample selection and techniques 
+1.2.4 Random, stratified, volunteer and opportunity 
+techniques. 
+Qualitative and quantitative data 
+1.2.5 Analysis of quantitative data: calculating measures 
+of central tendency, frequency tables, graphical 
+presentation using a bar chart, measures of 
+dispersion (range and standard deviation). 
+1.2.6 Analysis of qualitative data using thematic analysis. 
+Ethical guidelines 
+1.2.7 B ritish Psychological Society (BPS) code of ethics 
+and conduct (2009) including risk management 
+when carrying out research in psychology. 
+1.3 Studies 
+ 
+Classic study 
+1.3.1 Sherif et al. (1954/1961) Intergroup conflict and 
+cooperation: The Robbers Cave Experiment. 
+One contemporary study from the following: 
+1.3.2 Burger (2009) Replicating Milgram: Would people 
+still obey today? 
+1.3.3 Reicher and Haslam (2006) Rethinking the 
+psychology of tyranny. 
+1.3.4 Cohrs et al. (2012) Individual differences in 
+ideological attitudes and prejudice: evidence from 
+peer report data. 
+1.4 Key questions 
+ 
+1.4.1 One key question of relevance to today’s society, 
+discussed as a contemporary issue for society rather 
+than an academic argument. 
+1.4.2 Concepts, theories and/or research (as appropriate 
+to the chosen key question) drawn from social 
+psychology as used in this qualification. 
+Suitable examples 
+● How can knowledge of social psychology be used to 
+reduce prejudice in situations such as crowd behaviour 
+or rioting? 
+● How can social psychology be used to explain heroism? 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 8 
+ 
+Subject content What students need to learn: 
+1.5 Practical 
+investigation 
+1.5.1 One practical research exercise to gather data 
+relevant to topics covered in social psychology. This 
+practical research exercise must adhere to ethical 
+principles in both content and intention. 
+In conducting the practical research exercise, students 
+must: 
+● design and conduct a questionnaire to gather both 
+qualitative and quantitative data to look for a difference 
+in the data 
+● consider questionnaire construction, sampling decisions 
+and ethical issues  
+● collect and present an analysis of quantitative data using 
+measures of central tendency, measures of dispersion, 
+(including range and standard deviation as appropriate), 
+bar graph and frequency table 
+● collect and present an analysis of qualitative data using 
+thematic analysis 
+● consider strengths and weaknesses of the questionnaire 
+and possible improvements 
+● write up the procedure, results and discussion section of 
+a report. 
+Suitable examples 
+● A questionnaire to see if males or females perceive 
+themselves to be more obedient. 
+● An investigation into in-group favouritism. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 9 
+ 
+Subject content What students need to learn: 
+1.6 Issues and 
+debates 
+Examples of issues and debates in social psychology: 
+● Ethics (e.g. when researching obedience and prejudice, 
+and also implications of findings in both areas). 
+● Practical issues in the design and implementation 
+of research (e.g. designing questionnaires and 
+interviews and social desirability). 
+● Reductionism (e.g. the risk of reductionism when 
+drawing conclusions from social data). 
+● Comparisons between ways of explaining 
+behaviour using different themes (e.g. the two 
+theories of prejudice: social identity and realistic 
+conflict). 
+● Psychology as a science (e.g. social desirability in 
+questionnaires; issues of validity in questionnaires). 
+● Culture and gender (e.g. whether prejudice and 
+obedience are influenced by cultural factors or according 
+to gender). 
+● Nature-nurture (e.g. the role of personality in 
+obedience compared with the role of the situation). 
+● An understanding of how psychological 
+understanding has developed over time (e.g. if 
+using Burger's work replicating Milgram and comparing 
+with Milgram's work; or looking at Tajfel's ideas and a 
+contemporary study). 
+● Issues of social control (e.g. reducing prejudice; or 
+how people obey someone in authority/uniform). 
+● The use of psychological knowledge in society  
+(e.g. reducing conflict in society) 
+● Issues related to socially-sensitive research  
+(e.g. racism or cultural differences in social psychology). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 10 
+Topic 2: Cognitive psychology 
+Topic overview 
+Students must show understanding that cognitive 
+psychology is about the role of cognition/cognitive 
+processes in human behaviour. Processes include 
+perception, memory, selective attention, language and 
+problem solving. The cognitive topic area draws on the 
+likeness of cognitive processing to computer processing. 
+Individual differences and developmental psychology must 
+be considered when learning about memory differences, 
+memory deficits and how this develops as the brain ages. 
+ 
+Subject content What students need to learn:  
+2.1 Content 
+ 
+Memory 
+2.1.1 The working memory model (Baddeley and Hitch, 
+1974). 
+2.1.2 The multi-store model of memory (Atkinson and 
+Shiffrin, 1968), including short- and long-term 
+memory, and ideas about information processing, 
+encoding, storage and retrieval, capacity and 
+duration. 
+2.1.3 Explanation of long-term memory – episodic and 
+semantic memory (Tulving, 1972). 
+2.1.4 Reconstructive memory (Bartlett, 1932) including 
+schema theory. 
+2.1.5 Individual differences in memory  
+● Memory can be affected by individual differences 
+in processing speed or by schemas that guide 
+the reconstructive nature of memory. 
+● Autobiographical memory is by nature individual. 
+2.1.6 Developmental psychology in memory, including at 
+least one of these: 
+● Sebastián and Hernández-Gil (2012) discuss 
+developmental issues in memory span 
+development, which is low at 5-years old, then 
+develops as memory develops, up to 17-years 
+old. 
+● Dyslexia affects children's memory, span and 
+working memory which can affect their learning. 
+● The impact of Alzheimer's on older people and 
+the effects on their memory. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 11 
+ 
+Subject content What students need to learn:  
+2.2 Methods Experiments 
+2.2.1 Designing and conducting experiments, including 
+field and laboratory experiments. 
+2.2.2 Independent and dependent variables. 
+2.2.3 Experimental and null hypotheses. 
+2.2.4 Directional (one-tailed) and non-directional (two-
+tailed) tests and hypotheses. 
+2.2.5 Experimental and research designs: repeated 
+measures, independent groups and matched pairs. 
+2.2.6 Operationalisation of variables, extraneous variables 
+and confounding variables. 
+2.2.7 Counterbalancing, randomisation and order effects. 
+2.2.8 Situational and participant variables. 
+2.2.9 Objectivity, reliability and validity (internal, 
+predictive and ecological). 
+2.2.10 Experimenter effects, demand characteristics and 
+control issues. 
+ 2.2.11 Quantitative data analysis 
+● Analysis of quantitative data: calculate measures 
+of central tendency, frequency tables, measures 
+of dispersion (range and standard deviation), 
+percentages. 
+● Graphical presentation of data (bar graph, 
+histogram). 
+ 2.2.12 Decision making and interpretation of inferential 
+statistics 
+● Non-parametric test of difference:  
+Mann-Whitney U and Wilcoxon. 
+● Probability and levels of significance  
+(p≤.10 p≤.05 p≤.01). 
+● Observed and critical values, use of critical 
+value tables and sense checking of data. 
+● One- or two-tailed regarding inferential testing. 
+● Type I and type II errors. 
+● Normal and skewed distribution. 
+ 2.2.13 Case study of brain-damaged patients, including 
+Henry Molaison (HM) and the use of qualitative 
+data, including strengths and weaknesses of the 
+case study. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 12 
+ 
+Subject content What students need to learn:  
+2.3 Studies 
+ 
+Classic study 
+2.3.1 Baddeley (1966b) Working memory model: The 
+influence of acoustic and semantic similarity on 
+long-term memory for word sequences. 
+One contemporary study from the following: 
+2.3.2 Schmolck et al. (2002) Semantic knowledge in 
+patient HM and other patients with bilateral medial 
+and lateral temporal lobe lesions. 
+2.3.3 Steyvers and Hemmer (2012) Reconstruction from 
+memory in naturalistic environments. 
+2.3.4 Sebastián and Hernández-Gil (2012) Developmental 
+pattern of digit span in Spanish population. 
+2.4 Key questions 
+ 
+2.4.1 One key question of relevance to today’s society, 
+discussed as a contemporary issue for society rather 
+than an as academic argument. 
+2.4.2 Concepts, theories and/or research (as appropriate 
+to the chosen key question) drawn from cognitive 
+psychology as used in this specification. 
+Suitable examples 
+● How can psychologists’ understanding of memory help 
+patients with dementia? 
+● How can knowledge of working memory be used to 
+inform the treatment of dyslexia? 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 13 
+ 
+Subject content What students need to learn:  
+2.5 Practical 
+investigation 
+2.5.1 One practical research exercise to gather data 
+relevant to topics covered in cognitive psychology. 
+This practical research exercise must adhere to 
+ethical principles in both content and intention. 
+In conducting the practical research exercise, students 
+must: 
+● design and conduct a laboratory experiment to gather 
+quantitative data and include descriptive statistics as 
+analysis and a non-parametric test of difference 
+● make design decisions when planning and conducting 
+your experiment, including experimental design, 
+sampling decisions, operationalisation, control, ethical 
+considerations, hypothesis construction, experimenter 
+effects and demand characteristics 
+● collect, present and comment on data gathered, 
+including using measures of central tendency (mean, 
+median, mode as appropriate); measures of dispersion 
+(including range and standard deviation as appropriate); 
+bar graph, histogram, frequency graph as relevant; 
+normal distribution if appropriate and draw conclusions 
+● use a Mann-Whitney U or Wilcoxon non-parametric test 
+of difference to test significance (as appropriate), 
+including level of significance and critical/observed 
+values 
+● consider strengths and weaknesses of the experiment, 
+and possible improvements 
+● write up the procedure, results and discussion section of 
+a report. 
+Suitable examples 
+● Dual task experiment to investigate components of 
+working memory. 
+● An experiment to look at acoustic similarity of words and 
+the effect on short-term memory. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 14 
+ 
+Subject content What students need to learn:  
+2.6 Issues and 
+debates 
+ 
+Examples of issues and debates in cognitive psychology: 
+● Ethics (e.g. Henry Molaison (HM) and confidentiality). 
+● Practical issues in the design and implementation 
+of research (e.g. how to measure memory and the 
+validity of experimental design). 
+● Reductionism (e.g. under-emphasis on the 
+interconnections between parts of the brain in favour of 
+individual parts responsible for memory; artificially 
+breaking memory up into parts like Short-term Memory 
+and Long-term Memory for the purposes of study). 
+● Comparisons of ways of explaining behaviour 
+using different themes (e.g. the different memory 
+models). 
+● Psychology as a science (e.g. laboratory experiments 
+and controls). 
+● Culture and gender (e.g. how memory is reconstructed 
+based on cultural differences or gender stereotypes; or 
+differences in digit span cross-culturally if studied 
+Sebastian and Hernandez-Gil contemporary study). 
+● Nature-nurture (e.g. Henry Molaison (HM) and brain 
+function = nature, reconstructive memory emphasises 
+experiences = nurture). 
+● An understanding of how psychological 
+understanding has developed over time (e.g. if 
+studying the development of the working memory model 
+over time; or how the multi-store model informed later 
+memory models). 
+● Issues of social control (e.g. perhaps using 
+understanding of memory in court situations). 
+● The use of psychological knowledge within society 
+(e.g. using understanding of memory to help with 
+memory 'loss', for example a memory bus). 
+● Issues related to socially sensitive research (e.g. 
+memory loss related to dementia is socially sensitive for 
+the individual). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 15 
+Topic 3: Biological psychology 
+Topic overview 
+Students must show an understanding that biological 
+psychology is about the mechanisms within our body and 
+understand how they affect our behaviour, focusing on 
+aggression.  
+Individual differences and developmental psychology must 
+be considered when learning about issues such as 
+aggression caused by an accident and how the function of 
+structures of the brain can be affected by the environment. 
+ 
+Subject content What students need to learn: 
+3.1 Content 
+ 
+3.1.1 The central nervous system (CNS) and 
+neurotransmitters in human behaviour, including 
+the structure and role of the neuron, the function of 
+neurotransmitters and synaptic transmission. 
+3.1.2 The effect of recreational drugs on the transmission 
+process in the central nervous system.  
+3.1.3 The structure of the brain, different brain areas  
+(e.g. pre-frontal cortex) and brain functioning as an 
+explanation of aggression as a human behaviour. 
+3.1.4 The role of evolution and natural selection to explain 
+human behaviour, including aggression. 
+3.1.5 Biological explanation of aggression as an 
+alternative to Freud’s psychodynamic explanation, 
+referring to the different parts of the personality (id, 
+ego, superego), the importance of the unconscious, 
+and catharsis. 
+3.1.6 The role of hormones (e.g. testosterone) to explain 
+human behaviour such as aggression. 
+3.1.7 Individual differences  
+● Damage to the brain may be affected by 
+individual differences in case studies of brain-
+damaged patients when it is assumed there are 
+no individual differences. 
+● Freud's view of the personality shows it develops 
+individual differences. 
+3.1.8 Developmental psychology 
+● The role of evolution in human development. 
+● The role of hormones in human development. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 16 
+ 
+Subject content What students need to learn:  
+3.2 Methods 3.2.1 Correlational research 
+● The use of the correlational research method in 
+psychology, including co-variables. 
+● Types of correlation: positive, negative and 
+including the use of scatter diagrams. 
+● Issues surrounding the use of correlations in 
+psychology; issues with cause and effect, other 
+variables. 
+3.2.2 Analysis of correlational data 
+● Analysis of, use of, and drawing conclusions 
+from correlational studies, including scatter 
+diagrams, using inferential statistical testing 
+(use of Spearman’s rho) and issues of statistical 
+significance; levels of measurement; critical 
+and observed values. 
+● The use of alternate, experimental and null 
+hypotheses. The use of IV and DV in 
+experiments and co-variables in correlations. 
+The use of control groups, randomising to 
+groups, sampling, levels of measurement 
+(ordinal, interval, nominal), reasons for 
+using Spearman’s rho. 
+3.2.3 Other biological research methods 
+● Brain-scanning techniques (CAT, PET, and fMRI). 
+● The use of brain-scanning techniques to 
+investigate human behaviour, e.g. aggression. 
+● One twin study and one adoption study, e.g. 
+Gottesman and Shields (1966); Ludeke et al. 
+(2013). 
+3.3 Studies 
+ 
+Classic study 
+3.3.1 Raine et al. (1997) Brain abnormalities in murderers 
+indicated by positron emission tomography. 
+One contemporary study from the following: 
+3.3.2 Li et al. (2013) Abnormal function of the posterior 
+cingulate cortex in heroin addicted users during 
+resting-state and drug-cue stimulation task. 
+3.3.3 Brendgen et al. (2005) Examining genetic and 
+environmental effects on social aggression: A study 
+of 6-year-old twins. 
+3.3.4 Van den Oever et al. (2008) Prefrontal cortex AMPA 
+receptor plasticity is crucial for cue-induced relapse 
+for heroin-seeking. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 17 
+ 
+Subject content What students need to learn:  
+3.4 Key questions 
+ 
+3.4.1 One key question of relevance to today’s society, 
+discussed as a contemporary issue for society rather 
+than as an academic argument. 
+3.4.2 Concepts, theories and/or research (as appropriate 
+to the chosen key question) drawn from biological 
+psychology as used in this specification. 
+Suitable examples 
+● How effective is drug therapy for treating addictions? For 
+example, methadone to treat heroin addiction. 
+● What are the implications for society if aggression is 
+found to be caused by nature not nurture? 
+3.5 Practical 
+investigation 
+3.5.1 One practical research exercise to gather data 
+relevant to topics covered in biological psychology. 
+This practical research exercise must adhere to 
+ethical principles in both content and intention. 
+In conducting the practical research exercise, students 
+must: 
+● design and conduct a correlational study 
+● link their research to aggression or attitudes to drug use 
+● include inferential statistical testing (Spearman’s rho) 
+and explain the significance of the result and the use of 
+levels of significance. Students must also be able to use 
+descriptive statistics (strength/direction) to explain the 
+relationship 
+● produce an abstract of the research method and a 
+discussion section that includes conclusions 
+● include research question/hypothesis; research method, 
+sampling, ethical considerations, data-collection tools, 
+data analysis, results; discussion 
+● consider strengths and weaknesses of the correlational 
+study and possible improvements. 
+Suitable examples 
+● A correlation into age and attitudes to drug use. 
+● A correlation to see if there is a relationship between 
+height and a self-rating of aggressive tendencies. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 18 
+ 
+Subject content What students need to learn:  
+3.6 Issues and 
+debates 
+ 
+Examples of issues and debates in biological psychology: 
+● Ethics (e.g. studying aggression and how findings are 
+used; in the research itself such as issues of 
+confidentiality and informed consent). 
+● Practical issues in the design and implementation 
+of research (e.g. issues in scanning and measuring the 
+complexity of the brain). 
+● Reductionism (e.g. focusing on aggression when 
+studying the brain). 
+● Comparisons of ways of explaining behaviour 
+using different themes (e.g. causes of aggression 
+comparing Freud's ideas and biological explanations). 
+● Psychology as a science (e.g. synaptic transmission; 
+brain-scanning techniques). 
+● Culture and gender (e.g. hormonal differences 
+between males and females possibly influencing 
+behaviour, such as aggression) 
+● Nature-nurture (e.g. brain localisation in aggression 
+and environmental influences in aggression). 
+● An understanding of how psychological 
+understanding has developed over time (e.g. 
+development of scanning techniques up to fMRI and 
+development of knowledge accordingly). 
+● Issues of social control (e.g. using knowledge of brain 
+function to control individuals). 
+● The use of psychological knowledge within society 
+(e.g. understanding causes of aggression, in order to 
+perhaps deal with them). 
+● Issues related to socially sensitive research  
+(e.g. confidentiality). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 19 
+Topic 4: Learning theories 
+Topic overview 
+Students must show an understanding that learning 
+theories are about learning from the environment and of 
+the effects of conditioning, reinforcement, punishment, the 
+role of reward and social learning on the organism. 
+Individual differences and developmental psychology must 
+be considered when learning about the effect of rewards 
+and punishment on individuals and how children develop 
+through the different ways of learning, including social 
+learning. 
+ 
+Subject content What students need to learn: 
+4.1 Content 
+ 
+Classical conditioning 
+4.1.1 The main features of classical conditioning, 
+including: unconditioned stimulus (UCS); 
+unconditioned response (UCR); conditioned stimulus 
+(CS); neutral stimulus (NS); conditioned response 
+(CR); extinction, spontaneous recovery and stimulus 
+generalisation. 
+4.1.2 Pavlov (1927) experiment with salivation in dogs. 
+Operant conditioning 
+4.1.3 The main features of operant conditioning, 
+including: types of reinforcement and punishment 
+(positive and negative). 
+4.1.4 Properties of reinforcement, including primary and 
+secondary reinforcement and schedules of 
+reinforcement. 
+4.1.5 Behaviour modification, including ‘shaping’ 
+behaviour. 
+4.1.6 The main features of social learning theory, 
+including: observation, imitation, modelling and 
+vicarious reinforcement. 
+4.1.7 Social learning ‘stages’ of attention, retention, 
+reproduction and motivation (reinforcement). 
+4.1.8 Bandura (1961, 1963) original Bobo doll 
+experiments. 
+4.1.9 Bandura (1965) Bobo doll experiment with vicarious 
+reinforcement. 
+4.1.10 How learning theories explain the acquisition and 
+maintenance of phobias. 
+4.1.11 Treatments for phobias based on theories of 
+learning, including systematic desensitisation and 
+one other. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 20 
+ 
+Subject content What students need to learn: 
+4.1 Content 
+(continued) 
+4.1.12 Individual differences 
+● How people differ because of different 
+environmental influences and experiences, for 
+example in the form of rewards and 
+punishments and models observed. 
+4.1.13 Developmental psychology 
+● The idea that development is through patterns 
+of rewards and punishments. 
+● Social learning theory's idea that development is 
+through observation of others. 
+4.2 Methods 4.2.1 Human research 
+● The use of the observational research method in 
+psychology, including the gathering of both 
+qualitative and quantitative data (including 
+tallying, event and time sampling).
+ 
+● Types of observation: participant, non-
+participant, structured, naturalistic overt and 
+covert.
+ 
+● Use of content analysis as a research method. 
+4.2.2 Animal research 
+● The use of animals in laboratory experiments 
+where results can be related to humans.
+ 
+● Ethical issues regarding the use of animals in 
+laboratory experiments, including Scientific 
+Procedures Act (1986) and Home Office 
+Regulations. 
+4.2.3 Analysis of data 
+● With regard to inferential statistics: levels of 
+measurement; reasons for choosing a  
+chi-squared test; comparing observed and 
+critical values to judge significance; the  
+chi-squared test. 
+● Analysis of qualitative data using thematic 
+analysis.
+ 
+4.2.4 Scientific status of psychology, including: 
+● Replicability, reliability, validity (internal, 
+predictive and ecological), reductionism, 
+falsification, empiricism, hypothesis testing, and 
+use of controls. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 21 
+ 
+Subject content What students need to learn: 
+4.3 Studies 
+ 
+Classic study 
+4.3.1 Watson and Rayner (1920) Little Albert: Conditioned 
+emotional reactions. 
+One contemporary study from the following: 
+4.3.2 Becker et al. (2002) Eating behaviours and attitudes 
+following prolonged exposure to television among 
+ethnic Fijian adolescent girls. 
+4.3.3 Bastian et al. (2011) Cyber-dehumanization: Violent 
+video game play diminishes our humanity. 
+4.3.4 Capafóns et al. (1998) Systematic desensitisation in 
+the treatment of the fear of flying. 
+4.4 Key questions 
+ 
+ 
+4.4.1 One key question of relevance to today’s society, 
+discussed as a contemporary issue for society rather 
+than as an academic argument. 
+4.4.2 Concepts, theories and/or research (as appropriate 
+to the chosen key question) drawn from learning 
+theories as used in this specification. 
+Suitable examples 
+● Is the influence of role models and celebrities something 
+that causes anorexia? 
+● Would it be a good idea for airline companies to offer 
+treatment programmes for fear of flying? 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 22 
+ 
+Subject content What students need to learn: 
+.5 Practical 
+investigation 
+4.5.1 Two observations (one observation can be carried 
+out if both qualitative and quantitative data are 
+gathered in the same observation). 
+In conducting the practical research exercise, students 
+must: 
+● ensure that observations relate to an aspect of learned 
+behaviour, such as behaviour of different sexes, driving 
+characteristics, age-related behaviour, politeness and 
+helping behaviour 
+● ensure that observations enable the gathering of both 
+qualitative and quantitative data (including the use of 
+note taking, tallying and thematic analysis)  
+● analyse the findings to produce results, including using a 
+chi-squared test 
+● consider the strengths and weaknesses of the studies 
+and possible improvements  
+● write up the results of the quantitative data, including 
+appropriate graphs and tables 
+● write up the results of the qualitative analysis (thematic 
+analysis). 
+ 
+ 
+Suitable examples 
+● How age and sex affect driving speed. 
+● Investigating the differences in helpful or polite 
+behaviour in men and women. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 23 
+ 
+Subject content What students need to learn: 
+4.6 Issues and 
+debates 
+ 
+Examples of issues and debates in learning theories: 
+● Ethics (e.g. the ethical issues involved in using animals 
+in studies). 
+● Practical issues in the design and implementation 
+of research (e.g. generalising from animal-study 
+findings to humans). 
+● Reductionism (in the way behaviourism reduces 
+behaviour into parts to be studied). 
+● Comparisons between ways of explaining 
+behaviour using different themes (e.g. different 
+learning theories). 
+● Psychology as a science (e.g. in the methodology; in 
+the explicit focus of behaviourism on the measurable). 
+● Culture (e.g. relates to reinforcement patterns in 
+learning theory as well as social learning theory and 
+what is modelled) and gender (e.g. if used in the 
+practical research exercise, and in observational learning 
+issues). 
+● Nature-nurture (e.g. in the observations if looking at 
+gender or age or characteristics as these can be learned 
+or biologically given). 
+● An understanding of how psychological 
+understanding has developed over time (e.g. can 
+come through choice of study, such as if looking at video 
+game violence or through current therapy practice). 
+● Issues of social control (e.g. use of learning theories 
+in therapy can be social control, including issues of 
+power of the therapist). 
+● The use of psychological knowledge within society 
+(e.g. using patterns of reward to shape behaviour in 
+schools or prisons). 
+● Issues related to socially sensitive research (e.g. 
+issues of the power of the therapist).  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 24 
+Topic 5: Clinical psychology 
+Topic overview 
+Students must show understanding that clinical psychology 
+is about explaining and treating mental health issues, and 
+of the different ways of treating them, including counselling 
+and drug treatments. 
+Individual differences and developmental psychology must 
+be considered when learning about links between 
+personality factors and mental disorders and genetic 
+influences (nature) or environmental influences (nurture) 
+within different explanations for mental health disorders. 
+ 
+Subject content What students need to learn: 
+5.1 Content 
+ 
+5.1.1 Diagnosis of mental disorders, including deviance, 
+dysfunction, distress, and danger. 
+5.1.2 Classification systems (DSM IVR or DSM V, and ICD) 
+for mental health, including reliability and validity of 
+diagnoses. 
+5.1.3 Schizophrenia and one other disorder from anorexia 
+nervosa, Obsessive-compulsive disorder (OCD) and 
+unipolar depression. 
+For schizophrenia 
+● Description of symptoms and features, including thought 
+insertion, hallucinations, delusions, disordered thinking. 
+● The function of neurotransmitters as a 
+theory/explanation. 
+● One other biological theory/explanation. 
+● One non-biological theory/explanation. 
+For the other disorder 
+● Description of symptoms and features. 
+● Two explanations/theories: one biological 
+theory/explanation and one non-biological 
+theory/explanation. 
+5.1.4 For schizophrenia and the other disorder, students 
+should be familiar with two treatments for each 
+disorder: one from biological and one from 
+psychological. 
+Two treatments for each disorder. The two for schizophrenia 
+must come from different topic areas. The two for the other 
+chosen disorder must come from different topic areas (these 
+may be from the same topic areas as those used for 
+schizophrenia).
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 25 
+ 
+Subject content What students need to learn: 
+5.1 Content 
+(continued) 
+5.1.5 Individual differences  
+● Cultural effects can lead to individual differences 
+in mental health disorders, e.g. non-biological 
+explanation for schizophrenia. 
+● Cultural effects can lead to different diagnoses of 
+mental health disorders affecting reliablity and 
+validity. 
+5.1.6 Developmental psychology 
+● Issues around genes and mental health, such as 
+a genetic or biochemical explanation for 
+schizophrenia, can affect development. 
+5.2 Methods 5.2.1 Awareness of Health and Care Professions Council 
+(HCPC) guidelines for clinical practitioners. 
+5.2.2 Researching mental health 
+ The use of longitudinal, cross-sectional, cross-
+cultural methods, meta-analysis, and the use of 
+primary and secondary data. 
+5.2.3 The use of case studies, to include an example 
+study: 
+ e.g. Lavarenne et al. (2013) Containing psychotic 
+patients with fragile boundaries: a single group case 
+study. 
+5.2.4 The use of interviews in clinical psychology, to 
+include an example study: 
+ e.g. Vallentine et al. (2010) Psycho-educational 
+group for detained offender patients: understanding 
+mental illness. 
+5.2.5. Within the methods mentioned here:  
+ A nalysis of quantitative data using both descriptive 
+and inferential statistics (chi-squared, Spearman's, 
+Wilcoxon and Mann-Whitney U as appropriate). 
+ Analysis of qualitative data using thematic analysis 
+and grounded theory. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 26 
+ 
+Subject content What students need to learn:  
+5.3 Studies 
+ 
+Classic study 
+5.3.1 Rosenhan (1973) On being sane in insane places. 
+One contemporary study on schizophrenia 
+5.3.2 Carlsson et al. (2000) Network interactions in 
+schizophrenia – therapeutic implications. 
+One contemporary study on another disorder, from the 
+following: 
+Depression 
+5.3.3 Kroenke et al. (2008) The PHQ-8 as a measure of 
+current depression in the general population. 
+5.3.4 Williams et al. (2013) Combining imagination and 
+reason in the treatment of depression: a 
+randomised control trial of internet based cognitive 
+bias modification and internet-CBT for depression. 
+Anorexia 
+5.3.5 Scott-Van Zeeland et al. (2013) Evidence for the 
+role of EPHX2 gene variants in anorexia nervosa. 
+5.3.6 Guardia et al. (2012) Imagining One’s Own and 
+Someone Else’s Body Actions: Dissociation in 
+Anorexia Nervosa. 
+Obsessive Compulsive Disorder (OCD) 
+5.3.7 Masellis et al. (2003) Quality of life in OCD: 
+Differential impact of obsessions, compulsions, and 
+depressions co morbidity. 
+5.3.8 POTS team including March et al. (2004) Cognitive 
+behaviour therapy, Sertraline and their combination 
+for children and adolescents with OCD. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 27 
+ 
+Subject content What students need to learn:  
+5.4 Key questions 
+ 
+5.4.1 One key question of relevance to today’s society, 
+discussed as a contemporary issue for society rather 
+than an academic argument. 
+5.4.2 Concepts, theories and/or research (as appropriate 
+to the chosen key question) drawn from clinical 
+psychology as used in this specification. 
+Suitable examples 
+● How do different societies define mental health 
+disorders? 
+● What are the issues surrounding mental health in the 
+workplace?  
+5.5 Practical 
+investigation 
+5.5.1 One practical research exercise to gather data 
+relevant to topics covered in clinical psychology. 
+This practical research exercise must adhere to 
+ethical principles in both content and intention. 
+ Content analysis that explores attitudes to mental 
+health. 
+In conducting the practical research exercise, students 
+must: 
+● perform summative content analysis 
+● analyse at least two sources (e.g. radio interviews, 
+newspapers, magazines) to compare attitudes towards 
+mental health. 
+Suitable examples 
+● Comparing how attitudes have changed over time. 
+● How different sources report mental health. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 28 
+ 
+Subject content What students need to learn:  
+5.6 Issues and 
+debates 
+Examples of issues and debates in clinical psychology: 
+● Ethics (e.g. issues of diagnosing mental disorders such 
+as using labelling; obtaining consent for participation in 
+research; HCPC guidelines for practitioners). 
+● Practical issues in the design and implementation 
+of research (e.g. quantitative v qualitative data, 
+balancing validity with reliability). 
+● Reductionism (e.g. in research where causes of mental 
+disorders are isolated and diagnoses are not holistic). 
+● Comparisons between ways of explaining 
+behaviour using different themes (e.g. ICD and 
+DSM; different explanations for mental health issues). 
+● Psychology as a science (e.g. in research that 
+involves biological methods; in treatments such as drug 
+therapies; in research that uses scientific research 
+methods such as laboratory experiments). 
+● Culture (e.g. cultural differences in diagnosis practices) 
+and gender (e.g. gender featuring as a difference in 
+frequency of a disorder). 
+● Nature-nurture (e.g. different theories of what causes 
+mental disorders, biological compared to social 
+psychology). 
+● An understanding of how psychological 
+understanding has developed over time (e.g. DSM 
+changes; changes in therapies; changing explanations 
+for mental health issues). 
+● Issues of social control (e.g. policies for the 
+treatement and therapy for mental health issues can 
+itself be seen as a form of social control). 
+● The use of psychological knowledge within society 
+(e.g. therapies and treatments for mental health issues). 
+● Issues related to socially sensitive research (e.g. 
+research in the area of mental health and cultural 
+issues). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 29 
+Topic 6: Criminological psychology 
+Topic overview 
+Students must show understanding that criminological 
+psychology is about the definition and causes of crime and 
+anti-social behaviour, and of the identification and 
+treatment of offenders undertaken by forensic investigators. 
+Individual differences and developmental psychology must 
+be considered when learning about the possible causes of 
+criminal behaviour, such as labelling, self-fulfilling prophecy 
+and social learning. 
+ 
+Subject content What students need to learn: 
+6.1 Content 
+ 
+Explanations of crime and anti-social behaviour, with 
+consideration given to gender differences 
+6.1.1 Biological explanations, including brain injury, 
+amygdala and aggression, XYY syndrome and 
+personality. 
+6.1.2 Social explanations, including labelling, self-fulfilling 
+prophecy. 
+Understanding the offender, offence analysis and case 
+formulation 
+6.1.3 Cognitive interview and ethical interview techniques. 
+6.1.4 The use of psychological formulation to understand 
+the function of offending behaviour in the individual. 
+Two treatments for offenders, including strengths and 
+weaknesses and one study for each that considers their 
+effectiveness 
+6.1.5 One cognitive-behavioural treatment e.g. CBT, 
+social skills training, anger management, 
+assertiveness training. 
+6.1.6 One biological treatment, e.g. improved diet, 
+hormone treatment. 
+6.1.7 Factors influencing eye-witness testimony, including 
+consideration of reliability (including post-event 
+information and weapon focus). Studies can be the 
+same as those used for the methodology section of 
+criminological psychology. 
+6.1.8 Factors influencing jury decision-making, including 
+characteristics of the defendant and pre-trial 
+publicity, including studies in this area. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 30 
+ 
+Subject content What students need to learn: 
+6.1 Content 
+(continued) 
+6.1.9 Individual differences  
+● Personality as a factor in criminal/anti-social 
+behaviour. 
+● Individual differences affecting whether a self-
+fulfilling prophecy occurs, e.g. with regard to 
+developing criminal or anti-social behaviour. 
+6.1.10 Developmental psychology 
+● The self-fulfilling prophecy is an explanation for 
+criminal/anti-social behaviour that explains 
+development of some individuals. 
+● Social learning theory is a theory of human 
+development that can account for criminal/ 
+anti-social behaviour. 
+● Other causes for criminal/anti-social behaviour, 
+including biological, can explain development. 
+6.2 Methods 6.2.1 Research methods 
+● Research methods used to assess eye-witness 
+effectiveness, including laboratory experiments 
+and field experiments.
+ 
+● Case studies. 
+6.2.2 Sample selection and techniques 
+● Random. 
+● Stratified. 
+● Volunteer and technique. 
+● Opportunity. 
+6.2.3 Issues of reliability, validity, objectivity, credibility 
+and ethics in research in criminological psychology. 
+6.2.4 Data analysis 
+● Analysis of quantitative data: calculating 
+measures of central tendency, frequency tables, 
+measures of dispersion (range and standard 
+deviation) correlations, meta-analysis. 
+● Analysis of, use of, and drawing conclusions 
+from quantitative data, including using 
+inferential statistical testing (use of chi-squared, 
+Spearman, Mann-Whitney U, Wilcoxon) and 
+issues of statistical significance; levels of 
+measurement; critical and observed values. 
+● Analysis of qualitative data using thematic 
+analysis and grounded theory. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 31 
+ 
+Subject content What students need to learn: 
+6.2 Methods 
+(continued) 
+6.2.5 Ethical guidelines 
+British Psychological Society (BPS) Code of Ethics 
+and Conduct (2009), including risk management 
+when carrying out research in psychology and 
+Health and Care Professions Council (HCPC) 
+principles for undertaking psychological, formulation 
+and intervention. 
+6.3 Studies 
+ 
+Classic study 
+6.3.1 Loftus and Palmer (1974) Reconstruction of auto 
+mobile destruction: An example of the interaction 
+between language and memory.  
+One contemporary study from the following: 
+6.3.2 Bradbury M D and Williams, M R (2013) Diversity 
+and Citizen Participation: The Effects of Race on 
+Juror Decision Making.  
+6.3.3 Valentine T and Mesout J (2009) Eyewitness 
+identification under stress in the London Dungeon 
+6.3.4 Howells et al. (2005) Brief anger management 
+programs with offenders: Outcomes and predictors 
+of change. 
+6.4 Key questions 
+ 
+6.4.1 One key issue of relevance to today’s society, 
+discussed as a contemporary issue for society rather 
+than as an academic argument. 
+6.4.2 Concepts, theories and/or research as appropriate 
+to the chosen key question drawn from 
+criminological psychology as given in this 
+specification. 
+Suitable examples 
+● Is eye-witness testimony too unreliable to trust? 
+● Should jury bias lead to the abolishment of juries? 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 32 
+ 
+Subject content What students need to learn: 
+6.5 Practical 
+investigation 
+6.5.1 One practical research exercise to gather data 
+relevant to topics covered in criminological 
+psychology. The practical research exercise must 
+adhere to ethical principles in both content and 
+intention. 
+In conducting the practical research exercise, students 
+must: 
+● conduct a questionnaire, interview or an experiment  
+● gather qualitative and/or quantitative data but must 
+involve quantitative data for analysis (can turn 
+qualitative data into quantitative date for analysis 
+purposes) 
+● include inferential statistical testing as appropriate such 
+as chi squared, Mann-Whitney U, Wilcoxon or 
+Spearman’s rho  
+● include research question/hypothesis; research method; 
+sampling; ethical considerations; data collection tools; 
+data analysis; results; discussion 
+● consider strengths and weaknesses of the practical 
+research exercise and possible improvements. 
+Suitable examples 
+● An experiment into the use of cognitive interview 
+concerning recall of a specific event.  
+● View a crime/courtroom drama and conduct an 
+interview/questionnaire on participants about the 
+reasons why the defendants may have committed the 
+crime they are accused of. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 33 
+ 
+Subject content What students need to learn: 
+6.6 Issues and 
+debates 
+Examples of issues and debates in criminological 
+psychology: 
+● Ethics (e.g. effects of unreliability of jury decision-
+making; effects of unreliability of eye-witness testimony; 
+using field experiments to test eye-witness unreliability 
+with possible lack of debriefing). 
+● Practical issues in the design and implementation 
+of research (e.g. having to use mock juries and 
+artificial situations because of not being able to 
+manipulate real trial situations). 
+● Reductionism (e.g. using experiments and field 
+experiments to test issues around eye-witness testimony 
+such as weapons effect; biological explanations for 
+criminal behaviour). 
+● Comparisons between ways of explaining 
+behaviour using different themes (e.g. different 
+explanations for criminal behaviour drawing on biology, 
+learning theories and social psychology). 
+● Psychology as a science (e.g. using experiments and 
+field experiments; using biological explanations). 
+● Culture and gender (e.g. as issues that might affect 
+jury decision-making – sometimes to the detriment of 
+the defendant). 
+● Nature-nurture (e.g. biological versus social/learning 
+explanations for criminal behaviour).  
+● An understanding of how psychological 
+understanding has developed over time (e.g. Loftus 
+and Palmer's study of eye-witness testimony and 
+consider Loftus's work in the field currently; cognitive 
+interview and ethical interview). 
+● Issues of social control (e.g. treatments and therapies 
+for those convicted of crime or anti-social behaviour; the 
+power of a therapist, a forensic psychologist, or the 
+person controlling the treatment/therapy). 
+● The use of psychological knowledge within society 
+(e.g. warning about unreliability of eye-witness 
+testimony; warning about issues that might affect jury 
+decision-making). 
+● Issues related to socially-sensitive research (e.g. 
+looking at causes for criminal behaviour in socially 
+sensitive areas such as socio-economic status, race, age, 
+gender).
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 34 
+Topic 7: Child psychology 
+Topic overview 
+Students must show understanding that child psychology is 
+about the development of the individual from before birth to 
+adolescence and beyond, in that what we experience as 
+children affects our later development. 
+Individual differences and developmental psychology must 
+be considered when learning about differences that can 
+come from the child’s age, gender, social situation, 
+privation and deprivation. 
+ 
+Subject content What students need to learn: 
+7.1 Content 
+ 
+Attachment, deprivation and privation 
+7.1.1 Bowlby’s work on attachment. 
+7.1.2 Ainsworth’s work on attachment, including types of 
+attachment and the Strange Situation procedure. 
+7.1.3 Research into deprivation (short-term and long-term 
+effects) and how negative effects can be reduced. 
+7.1.4 Research into privation and whether the negative 
+effects can be reversed. 
+7.1.5 Research into day care, including advantages and 
+disadvantages for the child, and what makes good 
+and poor-quality day care. 
+7.1.6 Cross-cultural research into attachment types and 
+nature-nurture issues that arise about development. 
+7.1.7 Autism 
+● The features of autism. 
+● One biological explanation for autism. 
+● One other explanation for autism. 
+● Therapies for helping children with autism. 
+7.1.8 Individual differences  
+● Attachment type can affect individuals 
+differently, such as issues of child temperament. 
+● Positive and negative aspects of day care can be 
+affected by individual differences such as gender 
+or temperament. 
+7.1.9 Developmental psychology 
+● Effects on development of day care. 
+● Effects on development of attachment 
+interactions, including deprivation, privation and 
+separation. 
+● Effects on development of developmental 
+disorders, including autism. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 35 
+ 
+Subject content What students need to learn:  
+7.2 Methods 7.2.1 Observation 
+● The use of the observational research method in 
+child psychology, including the gathering of both 
+qualitative and quantitative data (including 
+tallying).  
+● Types of observation: participant, non-
+participant, overt and covert. 
+7.2.2 Questionnaire/interview 
+● The use of both questionnaires and interviews in 
+child psychology, including the gathering of both 
+qualitative and quantitative data. 
+● Issues around using questionnaire and interview 
+methods: semi-structured, structured, 
+unstructured interviews; sampling; open and 
+closed questions; social desirability; demand 
+characteristics. 
+7.2.3 Cross-cultural research 
+● The use of the cross-cultural research method, 
+including the Strange Situation, in child 
+psychology, including nature-nurture issues and 
+issues of cross-sectional versus longitudinal 
+designs. 
+● The use of meta-analysis using cross-cultural 
+research to draw conclusions about the 
+universality of attachment types. 
+7.2.4 The ethics of researching with children, including 
+children’s rights and the UNCRC (1989), and issues 
+around participation and protection. 
+7.2.5 Data analysis 
+● Analysis of quantitative data using measures of 
+central tendency, frequency tables, measures of 
+dispersion (range and standard deviation). 
+● Analysis of, use of, and drawing conclusions 
+from quantitative data using inferential 
+statistics, including use of chi-squared, 
+Spearman, Mann-Whitney U and Wilcoxon, and 
+issues of statistical significance, levels of 
+measurement, critical and observed values. 
+● Analysis of qualitative data using thematic 
+analysis and grounded theory. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 36 
+ 
+Subject content What students need to learn:  
+7.3 Studies 
+ 
+Classic study 
+7.3.1 van IJzendoorn and Kroonenberg (1988) Cross-
+cultural patterns of attachment: A Meta-Analysis of 
+the Strange Situation. 
+One contemporary study from the following: 
+7.3.2 Cassibba et al. (2013) Attachment the Italian way. 
+7.3.3 Gagnon-Oosterwaal et al. (2012) Pre-adoption 
+adversity and self-reported behaviour problems in 
+7-year-old international adoptees. 
+7.3.4 Li et al. (2013) Timing of High-Quality Child Care 
+and Cognitive, Language and Preacademic 
+Development. 
+7.4 Key questions 
+ 
+7.4.1 One issue of relevance to today’s society, explaining 
+the issue and applying concepts, theories and/or 
+research (as appropriate) drawn from child 
+psychology as given in this specification. 
+7.4.2 Concepts, theories and/or research (as appropriate 
+to the chosen key question) drawn from child 
+psychology as given in this specification. 
+Suitable examples 
+● What issues should parents take into account when 
+deciding about day care for their child? 
+● Is international adoption good or bad for a child? 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 37 
+ 
+Subject content What students need to learn:  
+7.5 Practical 
+investigation 
+7.5.1 One practical research exercise to gather data 
+relevant to topics covered in child psychology. This 
+practical research exercise must adhere to ethical 
+principles in both content and intention. 
+In conducting the practical research exercise, students 
+must: 
+● conduct one study using a questionnaire, interview or 
+observation  
+● gather qualitative and/or quantitative data but must 
+involve quantitative data for analysis (can turn 
+qualitative data into quantitative date for analysis 
+purposes) 
+● include inferential statistical testing as appropriate, such 
+as chi squared, Mann-Whitney U, Wilcoxon or 
+Spearman’s rho 
+● include a research question/hypothesis, research 
+method, sampling, ethical considerations, data collection 
+tools, data analysis, results, discussion 
+● consider strengths and weaknesses of the practical 
+research exercise and possible improvements. 
+Suitable examples 
+● Interview of an adult to look for a relationship between 
+strong attachment experiences and strong adult 
+relationships. 
+● Interview of a parent of a child under 3 years old around 
+positive experiences when using day care for their child. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 38 
+ 
+Subject content What students need to learn:  
+7.6 Issues and 
+debates 
+Examples of issues and debates in child psychology: 
+● Ethics (e.g. balancing participation and protection rights 
+and the UNCRC). 
+● Practical issues in the design and implementation 
+of research (e.g. in meta-analyses, with special issues 
+about comparing results from different studies; in 
+observations and getting objective data). 
+● Reductionism can be discussed (e.g. reducing 
+behaviour to the Strange Situation in order to test 
+attachment types).
+ 
+● Comparisons between ways of explaining 
+behaviour using different themes (e.g. Ainsworth's 
+and Bowlby's theories about attachment; evolution ideas 
+about attachment).
+ 
+● Psychology as a science (e.g. looking at how cross-
+cultural research can answer questions about nature-
+nurture, so looking at what is universal in child 
+development).
+ 
+● Culture (e.g. cross-cultural findings about attachment 
+types and cultural differences in child rearing) and 
+gender (not considered directly but studies do look at 
+differences in gender, day care, and social, emotional 
+and cognitive development).
+ 
+● Nature-nurture (e.g. what cross-cultural studies say 
+about the universality of attachment types). 
+● An understanding of how psychological 
+understanding has developed over time (e.g. 
+Bowlby’s work has been followed up with more recent 
+studies on maternal deprivation linking to issues around 
+day care).
+ 
+● Issues of social control (e.g. how findings about day 
+care and parenting styles/attachments can be used as a 
+form of control such as advising day care (or not) for 
+economic reasons; treatment, therapy and behaviour 
+around the issue of autism).
+ 
+● The use of psychological knowledge within society 
+(e.g. treatment or therapy for problem behaviour; pros 
+and cons of day care and advice to parents; advice 
+regarding looked after children).
+ 
+● Issues related to socially sensitive research (e.g. 
+research into developmental issues such as autism; 
+research into issues around child development such as 
+socio-economic status; research around adoption and 
+the effects of privation).
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 39 
+Topic 8: Health psychology 
+Topic overview 
+Students must show understanding that health psychology 
+is about understanding health from a biological, cognitive 
+and social basis and that health psychology is about 
+promoting good health. 
+Individual differences and developmental psychology must 
+be considered when learning about peer influence or 
+labelling as explanations for drug misuse, and biological and 
+learning explanations for drug misuse. 
+ 
+Subject content What students need to learn: 
+8.1 Content 
+ 
+8.1.1 Issues around drug taking, including addiction, 
+tolerance, physical and psychological dependency, 
+withdrawal. 
+Explanations of drug addiction 
+8.1.2 One biological explanation each for alcohol, heroin 
+and nicotine addiction, including mode of action. 
+8.1.3 One learning explanation each for alcohol, heroin 
+and nicotine addiction. 
+Explanations may apply to more than one drug. 
+Treatments for drug addiction 
+8.1.4 Two treatments each for alcohol, heroin and nicotine 
+addiction, including aversion therapy. 
+Treatments may apply to more than one drug. 
+8.1.5 One anti-drug campaign and the psychological 
+strategies behind it. 
+8.1.6 Individual differences  
+● Biological and social factors in drug misuse can 
+include effects dependent on differences in the 
+individual, such as personality. 
+8.1.7 Developmental psychology 
+● Social interactions during development can lead 
+to drug misuse, including learning. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 40 
+ 
+Subject content What students need to learn:  
+8.2 Methods 8.2.1 Use of animals 
+● The use of animal laboratory experiments to 
+study drugs. 
+● Ethics of using animals to study drugs. 
+8.2.2 Human drug studies 
+● Two research methods using humans to study 
+drugs. 
+● Ethics of using human participants to study 
+drugs.  
+8.2.3 The use of cross-cultural research, including nature-
+nurture issues related to drug misuse. 
+8.2.4 Data analysis 
+● Analysis of quantitative data using measures of 
+central tendency, frequency tables, measures of 
+dispersion (range and standard deviation). 
+● Analysis of, use of, and drawing conclusions 
+from quantitative data, including using 
+inferential statistical testing (use of chi squared, 
+Spearman, Mann-Whitney U, Wilcoxon) and 
+issues of statistical significance; levels of 
+measurement; critical and observed values. 
+● Analysis of qualitative data using thematic 
+analysis and grounded theory. 
+8.3 Studies 
+ 
+Classic study 
+8.3.1 Olds and Milner (1954) Positive reinforcement 
+produced by electrical stimulation of septal area and 
+other regions of rat brain. 
+One contemporary study from the following: 
+8.3.2 Mundt et al. (2012) Peer selection and influence 
+effects on adolescent alcohol use: a stochastic 
+actor-based model. 
+8.3.3 Dixit et al. (2012) Biosocial determinants of alcohol 
+risk behaviour: An epidemiological study in urban 
+and rural communities of Aligarh, Uttar Pradesh. 
+8.3.4 Pengpid et al. (2012) Screening and brief 
+intervention for hazardous and harmful alcohol use 
+among hospital out-patients in South Africa: results 
+from a randomised controlled trial. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 41 
+ 
+Subject content What students need to learn:  
+8.4 Key questions 
+ 
+8.4.1 One issue of relevance to today’s society and to 
+explain the issue apply concepts, theories and/or 
+research (as appropriate) drawn from health 
+psychology as given in this specification. 
+8.4.2 Concepts, theories and/or research (as appropriate 
+to the chosen key question) drawn from health 
+psychology as given in this specification. 
+Suitable examples 
+● How to encourage the cessation of smoking? 
+● Government intervention in health behaviours versus 
+freedom of choice: to what extent is government 
+intervention appropriate? 
+8.5 Practical 
+investigation 
+8.5.1 One practical research exercise to gather data 
+relevant to topics covered in health psychology. This 
+practical research exercise must adhere to ethical 
+principles in both content and intention. 
+In conducting the practical research exercise, students 
+must: 
+● conduct a questionnaire, interview or a content analysis 
+● gather qualitative and/or quantitative data but must 
+involve quantitative data for analysis (can turn 
+qualitative data into quantitative date for analysis 
+purposes) 
+● include inferential statistical testing as appropriate such 
+as chi squared, Mann-Whitney U, Wilcoxon or 
+Spearman’s rho  
+● include research question/hypothesis; research method; 
+sampling; ethical considerations; data-collection tools; 
+data analysis; results; discussion 
+● consider strenghts and weaknesses of the practical 
+research exercise and possible improvements. 
+Suitable examples 
+● Content analysis of pop music/television programmes 
+e.g. references to drugs. 
+● Content analysis of newspaper articles/news comparing 
+references to alcohol and nicotine. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 42 
+ 
+Subject content What students need to learn:  
+8.6 Issues and 
+debates 
+ 
+Examples of issues and debates in health psychology: 
+● Ethical (e.g. the use of animals and humans when 
+researching drugs and drug treatments like aversion 
+therapy). 
+● Practical issues in the design and implementation 
+of research (e.g. generalising from findings from animal 
+studies to human behaviour; studying drug action in the 
+brain is hard to access holistically). 
+● Reductionism (e.g. when considering the use of 
+methods such as experiments; that studies using 
+animals tend to isolate variables). 
+● Comparisons between ways of explaining 
+behaviour using different themes (e.g. different 
+explanations for drug misuse, learning and biological). 
+● Psychology as a science (e.g. using animal 
+experiments to study drug misuse; considering biological 
+explanations for drug misuse). 
+● Culture (e.g. considering the cross-cultural research) 
+and gender (not specifically considered in this topic area, 
+though gender differences in drug taking could be 
+considered). 
+● Nature-nurture (e.g. learning as opposed to biological 
+explanations for drug misuse). 
+● An understanding of how psychological 
+understanding has developed over time (e.g. rise of 
+understanding about drug misuse – explanations for 
+drug misuse; rising understanding used in anti-drug 
+campaigns). 
+● Issues of social control (e.g. treating drug misuse as 
+criminal and requiring treatment). 
+● The use of psychological knowledge within society 
+(e.g. using understanding of drug misuse to develop 
+treatment ideas). 
+● Issues related to socially sensitive research (e.g. 
+asking about drug 'habits' when people are vulnerable). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 43 
+Topic 9: Psychological skills 
+Topic overview 
+This is a synoptic section in which students will be asked to 
+draw on other areas of the qualification in order to 
+understand conceptual and methodological issues. Students 
+will develop an understanding of how to use theories and 
+evidence from many areas of psychology and apply them to 
+the issues. 
+Relevant psychological skills have been contextualised in 
+Topics 1–8. This topic collects them together in order to 
+ensure that all content has been covered. 
+Students must consider issues and debates from across all 
+topics in order to develop a general knowledge of key issues 
+and debates. 
+Subject content What students need to learn: 
+9.1 Methods 9.1.1 Types of data: qualitative and quantitative data; 
+primary and secondary data. 
+9.1.2 Sampling techniques: random, stratified, volunteer 
+and opportunity. 
+9.1.3 Experimental/research designs: independent 
+groups, repeated measures and matched pairs. 
+9.1.4 Hypotheses: null, alternate, experimental; 
+directional and non-directional. 
+9.1.5 Questionnaires and interviews: open, closed 
+(including ranked scale questions); structured, 
+semi-structured and unstructured interviews;  
+self-report data. 
+9.1.6 Experiments: laboratory and field; independent and 
+dependent variables. 
+9.1.7 Observations: tallying; event and time sampling; 
+covert, overt, participant, non-participant; 
+structured observations; naturalistic observations. 
+9.1.8 Additional research methods and techniques: twin 
+and adoption studies, animal experiments, case 
+studies as used in different areas of psychology, 
+scanning (CAT, PET, fMRI), content analysis, 
+correlational research, longitudinal and cross-
+sectional, cross-cultural and meta-analysis. 
+ 9.1.9 Control issues: counterbalancing, order effects, 
+experimenter effects, social desirability, demand 
+characteristics, participant variables, situational 
+variables, extraneous variables, confounding 
+variables, operationalisation of variables. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 44 
+ 
+Subject content What students need to learn: 
+9.1 Methods  
+(continued) 
+9.1.10 Descriptive statistics 
+● measures of central tendency, frequency tables, 
+graphs (bar chart, histogram, scatter diagram), 
+normal distribution (including standard 
+deviation), skewed distribution, sense checking 
+data, measures of dispersion (range, standard 
+deviation). 
+● Produce, handle, interpret data-including 
+drawing comparisons (e.g. between means of 
+two sets of data). 
+Students do not need to know formulae but are expected to 
+be competent in simple mathematical steps. 
+9.1.11 Inferential statistics  
+ Decision making and interpretation 
+● Levels of measurement. Appropriate choice of 
+statistical test. The criteria for and use of  
+Mann-Whitney U, Wilcoxon, Spearman’s,  
+chi squared (for difference) tests. Directional 
+and non-directional testing. 
+● Use of critical value tables, one- and two-tailed 
+testing. 
+● Levels of significance, including knowledge of 
+standard statistical terminology such as p equal 
+to or greater than (e.g. p≤.05). Rejecting 
+hypotheses. Type I and type II errors. The 
+relationship between significance levels and  
+p values. 
+● Observed and critical values. 
+9.1.12 Methodological issues: validity (internal, predictive, 
+ecological), reliability, generalisability, objectivity, 
+subjectivity (researcher bias), credibility. 
+9.1.13 Analysis of qualitative data (thematic analysis and 
+grounded theory). 
+9.1.14 Conventions of published psychological research: 
+abstract, introduction, aims and hypotheses, 
+method, results, discussion; the process of  
+peer review. 
+9.1.15 Ethical issues in research using humans (BPS Code 
+of Ethics and Conduct, 2009), including risk 
+assessment when carrying out research in 
+psychology. 
+9.1.16 Ethical issues in research using animals (Scientific 
+Procedures Act 1986 and Home Office regulations). 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 45 
+ 
+Subject content What students need to learn: 
+9.2 Synoptic 
+review of 
+studies 
+9.2.1 Draw on and compare studies from the classic study 
+section throughout the qualification. 
+9.2.2 Review synoptically the classic studies of psychology 
+in terms of issues and debates. 
+9.2.3 Use principles of understanding, evaluation and 
+synopticity on unseen material. 
+9.3 Issues and 
+debates 
+See issues and debates sections in each topic area for 
+examples of how to apply each of the topic areas of 
+psychology. 
+9.3.1 Ethical issues in research (animal and human). 
+9.3.2 Practical issues in the design and implementation of 
+research. 
+9.3.3 Reductionism in the explanation of behaviour. 
+9.3.4 Comparisons of ways of explaining behaviour using 
+different themes. 
+9.3.5 Psychology as a science. 
+9.3.6 Cultural and gender issues in psychological 
+research. 
+9.3.7 The role of both nature and nurture in psychology. 
+9.3.8 An understanding of how psychological 
+understanding has developed over time. 
+9.3.9 The use of psychology in social control. 
+9.3.10 The use of psychological knowledge in society. 
+9.3.11 Issues related to socially-sensitive research. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 46 
+ 
+Assessment 
+Assessment summary 
+Summary of table of assessment 
+Students must complete all assessment in May/June in any single year. 
+The formulae and statistical tables given in Appendix 4: Formulae and statistical 
+tables will also be given in each paper. 
+Calculators may be used in each examination. 
+Paper 1: Foundations in psychology *Paper code: 9PS0/01 
+● Students must answer all questions from five sections. 
+● Sections A–D total 70 marks comprising mixed question types, 
+including stimulus and data response, short-answer and 
+extended response questions and cover the topic areas as 
+follows: 
+Section A: Social psychology 
+Section B: Cognitive psychology 
+Section C: Biological psychology 
+Section D: Learning theories. 
+● Section E: Issues and debates has 20 marks and comprises two 
+extended response questions, covering the topic area of issues 
+and debates in psychology. 
+● The assessment is 2 hours and 15 minutes long. 
+● The assessment consists of 90 marks. 
+● First assessment: May/June 2017. 
+35% of the 
+total 
+qualification 
+ 
+ 
+Paper 2: Applications of psychology  *Paper code: 9PS0/02 
+● The paper is composed of two sections. Students must answer 
+all questions from Section A and all questions from a choice of 
+three optional topic areas in Section B. 
+● Section A has 54 marks comprising mixed question types, 
+including data response, short-answer and extended response 
+questions and a 20-mark response covering the topic area of 
+clinical psychology. 
+● Section B presents students with a choice of one from three 
+optional topic areas: Criminological psychology, Child 
+psychology or Health psychology. Each section totals 36 marks, 
+and comprises mixed question types, including stimulus and  
+data-response, short-answer and extended response questions. 
+● The assessment is 2 hours and 15 minutes long. 
+● The assessment consists of 90 marks. 
+● First assessment: May/June 2017. 
+35% of the 
+total 
+qualification 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 47 
+ 
+Paper 3: Psychological skills  *Paper code: 9PS0/03 
+ 
+● Students must answer all questions from three sections. 
+● Section A has 24 marks and comprises mixed question types, 
+including stimulus and data response and short-answer 
+questions, covering the topic area of research methods. 
+● Section B has 24 marks and comprises mixed question types, 
+including stimulus and data response and short-answer 
+questions based on psychological studies and one extended 
+response question based on classic studies given in Topics 1–5. 
+● Section C has 32 marks and comprises two extended response 
+questions, covering the topic area of issues and debates in 
+psychology. 
+● The assessment is 2 hours long. 
+● The assessment consists of 80 marks. 
+● First assessment: May/June 2017. 
+30% of the 
+total 
+qualification 
+ 
+ 
+The sample assessment materials can be found in the Pearson Edexcel Level 3 
+Advanced GCE in Psychology Sample Assessment Materials document. 
+*See Appendix 5: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 48 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Demonstrate knowledge and understanding of scientific ideas, 
+processes, techniques and procedures 30–35% 
+AO2 Apply knowledge and understanding of scientific ideas, 
+processes, techniques and procedures: 
+● in a theoretical context 
+● in a practical context 
+● when handling qualitative data 
+● when handling quantitative data 
+30–35% 
+AO3 Analyse, interpret and evaluate scientific information, ideas 
+and evidence, including in relation to issues, to: 
+● make judgements and reach conclusions 
+● develop and refine practical design and procedures 
+35–40% 
+Total 100% 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 49 
+Breakdown of Assessment Objectives 
+ 
+ Assessment Objectives Total for all 
+Assessment 
+Objectives Paper AO1 AO2 AO3 
+Paper 1: Foundations in 
+psychology 11–15% 12–15% 8–12% 35% 
+Paper 2: Applications of 
+psychology 11–15% 9–12% 8–12% 35% 
+Paper 3: Psychological skills 6–8% 7–9% 15–17% 30% 
+Total for this qualification 30–35% 30–35% 35–40% 100% 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 50 
+Entry and assessment information 
+Student entry 
+Details of how to enter students for the examinations for 
+this qualification can be found in our UK Information 
+Manual. A copy is made available to all examinations 
+officers and is available on our website at: 
+www.edexcel.com/iwantto/Pages/uk-information-
+manual.aspx 
+Discount code and performance tables  
+Centres should be aware that students who enter for more 
+than one GCE qualification with the same discount code will 
+have only one of the grades they achieve counted for the 
+purpose of the School and College Performance Tables. This 
+will be the grade for the larger qualification (i.e. the A Level 
+grade rather than the AS grade). If the qualifications are 
+the same size, then the better grade will be counted (please 
+see Appendix 5: Codes). 
+Students should be advised that if they take two GCE 
+qualifications with the same discount code colleges, 
+universities and employers they wish to progress to are 
+likely to take the view that this achievement is equivalent to 
+only one GCE. The same view may be taken if students take 
+two GCE qualifications that have different discount codes 
+but have significant overlap of content. Students or their 
+advisers who have any doubts about their subject 
+combinations should check with the institution to which 
+they wish to progress to before embarking on their 
+programmes. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 51 
+Access arrangements, reasonable adjustments and 
+special consideration 
+Access arrangements 
+Access arrangements are agreed before an assessment. 
+They allow students with special educational needs, 
+disabilities or temporary injuries to:  
+● access the assessment 
+● show what they know and can do without changing the 
+demands of the assessment.  
+The intention behind an access arrangement is to meet the 
+particular needs of an individual student with a disability 
+without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding 
+bodies comply with the duty under the Equality Act 2010 to 
+make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the 
+start of the course. Students will then know what is 
+available and have the access arrangement(s) in place for 
+assessment.  
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to 
+make reasonable adjustments where a person with a 
+disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is 
+required to take reasonable steps to overcome that 
+disadvantage. 
+A reasonable adjustment for a particular person may be 
+unique to that individual and therefore might not be in the 
+list of available access arrangements. 
+Whether an adjustment will be considered reasonable will 
+depend on a number of factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with 
+the disability and other students. 
+An adjustment will not be approved if it involves 
+unreasonable costs to the awarding organisation, 
+timeframes or affects the security or integrity of the 
+assessment. This is because the adjustment is not 
+‘reasonable’. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 52 
+Special consideration 
+Special consideration is a post-examination adjustment to a 
+student's mark or grade to reflect temporary injury, illness 
+or other indisposition at the time of the 
+examination/assessment, which has had, or is reasonably 
+likely to have had, a material effect on a candidate’s ability 
+to take an assessment or demonstrate his or her level of 
+attainment in an assessment. 
+Further information 
+Please see our website for further information about how to 
+apply for access arrangements and special consideration. 
+For further information about access arrangements, 
+reasonable adjustments and special consideration, please 
+refer to the JCQ website: www.jcq.org.uk. 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that 
+compromises or seeks to compromise the process of 
+assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered 
+before the candidate has signed the declaration of 
+authentication form does not need to be reported to 
+Pearson. 
+Candidate malpractice found in controlled assessments after 
+the declaration of authenticity has been signed, and in 
+examinations must be reported to Pearson on a JCQ 
+Form M1 (available at www.jcq.org.uk/exams-
+office/malpractice
+). The completed form can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations 
+Team, Pearson, 190 High Holborn, London, WC1V 7BH. 
+Please provide as much information and supporting 
+documentation as possible. Note that the final decision 
+regarding appropriate sanctions lies with Pearson. 
+Failure to report candidate malpractice constitutes staff or 
+centre malpractice.  
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate 
+malpractice and maladministration of our qualifications. As 
+with candidate malpractice, staff and centre malpractice is 
+any act that compromises or seeks to compromise the 
+process of assessment or undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and 
+maladministration must be reported immediately, before  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 53 
+any investigation is undertaken by the centre, to Pearson 
+on a JCQ Form M2(a) (available at www.jcq.org.uk/exams-
+office/malpractice). The form, supporting documentation 
+and as much information as possible can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations 
+Team, Pearson, 190 High Holborn, London, WC1V 7BH. Note 
+that the final decision regarding appropriate sanctions lies 
+with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More detailed guidance on malpractice can be found in the 
+latest version of the document General and Vocational 
+Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at 
+www.jcq.org.uk/exams-office/ malpractice. 
+Equality Act 2010 and Pearson equality policy 
+Equality and fairness are central to our work. Our equality 
+policy requires all students to have equal opportunity to 
+access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every 
+student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by 
+the Equality Act 2010) are not, when they are 
+undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that 
+characteristic 
+● all students achieve the recognition they deserve for 
+undertaking a qualification and that this achievement 
+can be compared fairly to the achievement of their 
+peers. 
+You can find details on how to make adjustments for 
+students with protected characteristics in the policy 
+document Access Arrangements, Reasonable Adjustments 
+and Special Consideration, which is on our website, 
+www.edexcel.com/Policies. 
+Synoptic assessment 
+Synoptic assessment requires students to work across 
+different parts of a qualification and to show their 
+accumulated knowledge and understanding of a topic or 
+subject area. 
+Synoptic assessment enables students to show their ability 
+to combine their skills, knowledge and understanding with 
+breadth and depth of the subject.  
+Paper 3 is by nature synoptic, however extended writing 
+questions in Papers 1 and 2 may ask students to draw on 
+their knowledge from other topics addressed in the 
+examination paper concerned. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 54 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to 
+comply with the requirements of the current Code of 
+Practice, published by the Office of Qualifications and 
+Examinations Regulation (Ofqual). 
+The Advanced GCE qualification will be graded and 
+certificated on a six-grade scale from A* to E using the total 
+subject mark. Individual papers are not graded. 
+The first certification opportunity for the Pearson Edexcel 
+Level 3 Advanced GCE in Psychology will be 2017. 
+Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be 
+recorded on a certificate will receive an unclassified U 
+result. 
+Language of assessment 
+Assessment of this qualification will be available in English. 
+All student work must be in English. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 55 
+ 
+Other information 
+Student recruitment 
+Pearson follows the JCQ policy concerning recruitment to 
+our qualifications in that: 
+● they must be available to anyone who is capable of 
+reaching the required standard 
+● they must be free from barriers that restrict access and 
+progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this 
+qualification. 
+Progression 
+Students will develop transferable skills that support study 
+in a wide range of subjects at university and the transition 
+to employment, including quantitative and analytical 
+analysis, and forming and testing hypotheses. The 
+development and application of mathematical skills prepare 
+students for the study of psychology and related courses at 
+university. 
+Students can progress from this qualification to: 
+● higher education qualifications such as psychology 
+degrees and biology-related courses 
+● further education courses such as BTEC Higher 
+Nationals, for example Higher Nationals in Applied 
+Biology and Biological Sciences for Industry. 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 56 
+ 
+Appendices 
+Appendix 1: Transferable skills 57 
+Appendix 2: Level 3 Extended Project qualification 59 
+Appendix 3: Mathematical skills 62 
+Appendix 4: Formulae and statistical tables 65 
+Appendix 5: Codes 70 
+Appendix 6: Taxonomy (command words) 71 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 57 
+ 
+Appendix 1: Transferable skills 
+ 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines 
+skills, or competencies, as ‘the bundle of knowledge, attributes and capacities that 
+can be learned and that enable individuals to successfully and consistently perform 
+an activity or task and can be built upon and extended through learning.’
+1 
+To support the design of our qualifications, the Pearson Research Team selected 
+and evaluated seven global transferrable skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the 
+most evidence-based and robust skills framework. We adapted the framework 
+slightly to include the Program for International Student Assessment (PISA) ICT 
+Literacy and Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: 2 
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and 
+communicate3. 
+Interpersonal skills 
+● Communication – active listening, oral communication, written 
+communication, assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, 
+service orientation, self-presentation, social influence, conflict resolution and 
+negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+ 
+ 
+1  OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+2  Koenig J A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop 
+(National Academies Press, 2011) 
+3  PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 58 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher 
+education, as well as the demands of the workplace, and are important in the 
+teaching and learning of this qualification. We will provide teaching and learning 
+materials, developed with stakeholders, to support our qualifications. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 59 
+ 
+Appendix 2: Level 3 Extended Project 
+qualification 
+ 
+What is the Extended Project? 
+The Extended Project is a standalone qualification that can be taken alongside 
+GCEs. It supports the development of independent learning skills and helps to 
+prepare students for their next step – whether that be higher education study or 
+employment. The qualification: 
+● is recognised by higher education for the skills it develops 
+● is worth half of an Advanced GCE qualification at grades A*–E  
+● carries UCAS points for university entry. 
+The Extended Project encourages students to develop skills in the following areas: 
+research, critical thinking, extended writing and project management. Students 
+identify and agree a topic area of their choice (which may or may not be related to 
+a GCE subject they are already studying), guided by their teacher. 
+Students can choose from one of four topics to produce: 
+● a dissertation (for example an investigation based on predominately secondary 
+research) 
+● an investigation/field study (for example a practical experiment) 
+● a performance (for example in music, drama or sport) 
+● an artefact (for example creating a sculpture in response to a client brief or 
+solving an engineering problem). 
+The qualification is coursework based and students are assessed on the skills of 
+managing, planning and evaluating their project. Students will research their topic, 
+develop skills to review and evaluate the information, and then present the final 
+outcome of their project. 
+Students: what they need to do 
+The Extended Project qualification requires students to: 
+● select a topic of interest for an in-depth study and negotiate the scope of the 
+project with their teacher 
+● identify and draft an objective for their project (for example in the form of a 
+question, hypothesis, challenge, outline of proposed performance, issue to be 
+investigated or commission for a client) and provide a rationale for their choice 
+● produce a plan for how they will deliver their intended objective 
+● conduct research as required by the project brief, using appropriate techniques 
+● carry out the project using tools and techniques safely 
+● share the outcome of the project using appropriate communication methods, 
+including a presentation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 60 
+Teachers: key information 
+● The Extended Project has 120 guided learning hours (GLH) consisting of: 
+o a 40-GLH taught element that includes teaching the technical skills (for 
+example research skills) 
+o an 80-GLH guided element that includes mentoring students through the 
+project work. 
+● Group work is acceptable, however it is important that each student provides 
+evidence of their own contribution and produces their own report. 
+● 100% externally moderated. 
+● Four Assessment Objectives: manage, use resources, develop and realise, 
+review. 
+● Can be run over 1, 1½ or 2 years. 
+● Can be submitted in January or June. 
+How to link the Extended Project with psychology 
+The Extended Project enables students to develop transferable skills for progression 
+to higher education and to the workplace, through the exploration of either an area 
+of personal interest or a topic of interest within the psychology qualification 
+content. Through the study of this psychology qualification, students will develop 
+knowledge and understanding of psychological concepts and issues; apply these 
+concepts and issues to real-world contexts; then analyse and evaluate these 
+concepts and issues. 
+Skills developed 
+Through the Extended Project students will develop skills in: 
+● conducting, organising and using research 
+● independent reading in the subject area 
+● planning, project management and time management 
+● defining a hypothesis to be tested in investigations or developing a design brief 
+● collecting, handling and interpreting data and evidence 
+● evaluating arguments and processes, including arguments in favour of 
+alternative interpretations of data and evaluation of experimental methodology 
+● critical thinking. 
+In the context of the Extended Project, critical thinking refers to the ability to 
+identify and develop arguments for a point of view or hypothesis and to consider 
+and respond to alternative arguments. This supports the development of evaluative 
+skills, through evaluating psychological theories and concepts, and using qualitative 
+and quantitative evidence to support informed judgements relating to psychological 
+issues and debates. 
+The Extended Project is an ideal vehicle to develop the transferrable skills identified 
+in Appendix 1. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 61 
+Types of Extended Project 
+Students may choose a university-style dissertation on any topic that can be 
+researched and argued, for example: 
+● reductionism in psychology 
+● using psychology for social control 
+● the nature-nurture debate. 
+For their dissertation, students should use secondary research sources to provide a 
+reasoned defence or a point of view, with consideration of counter arguments. 
+An alternative might be an investigative project or field study involving the 
+collection of data, for example: 
+● an experiment to look at acoustic similarity of words and the effect on short-
+term memory  
+● an experiment that tests reaction time related to another measure of speed of 
+thinking. 
+Using the Extended Project to support breadth and depth 
+There is no specified material that students are expected to study and, in the 
+Extended Project, students are assessed on the quality of the work they produce 
+and the skills they develop and demonstrate through completing this work. 
+Students can use the Extended Project to demonstrate extension in one or more 
+dimensions: 
+● deepening understanding: where a student explores a topic in greater depth 
+than in the specification content 
+● broadening skills: where a student learns a new skill. This might be learning 
+how to design a website or learning a new statistical technique that can be used 
+in the analysis of either primary or secondary data collected by the student 
+● widening perspectives: where the student’s project spans different subjects. 
+A student studying psychology with other sciences may wish to research the 
+development of psychology from a new to an established scientific field.  
+A student studying psychology with mathematics may wish to use statistical 
+techniques to perform a comparative analysis of data from follow-up studies.  
+A student studying psychology with economics may wish to conduct an 
+experiment that investigates psychological reasons for economic behaviour. 
+A wide range of information to support the delivery and assessment of the 
+Extended Project, including the specification, teacher guidance for all aspects, 
+editable schemes of work and exemplars for all four topics, can be found on our 
+website at: www.edexcel.com/project 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 62 
+Appendix 3: Mathematical skills 
+ 
+This appendix is taken from the document GCE AS and A level regulatory 
+requirements for biology, chemistry, physics and psychology, published by the 
+Department of Education (DfE) in April 2014.  
+Throughout the course of study, students will develop competence in the 
+mathematical skills listed below. There are opportunities for students to develop 
+these skills throughout the content, and they are required to apply the skills to 
+relevant psychological contexts. 
+The assessment of mathematical skills will include at least Level 2 mathematical 
+skills as a minimum of 10% of the overall marks for this qualification. 
+Bold text indicates mathematical skills which will be assessed for this qualification 
+but not assessed as part of the Advanced Subsidiary GCE qualification.  
+ 
+Mathematical skills Exemplification of mathematical skill in the 
+context of GCE Psychology (assessment is 
+not limited to the examples given below) 
+D.0 – Arithmetic and numerical computation 
+D.0.1 Recognise and use 
+expressions in decimal 
+and standard form 
+For example converting data in standard form 
+from a results table into decimal form in order to 
+construct a pie chart. 
+D.0.2 Use ratios, fractions 
+and percentages 
+ 
+For example calculating the percentages of cases 
+that fall into different categories in an 
+observation study. 
+D.0.3 Estimate results For example commenting on the spread of scores 
+for a set of data, which would require estimating 
+the range. 
+D.1 – Handling data 
+D.1.1 Use an appropriate 
+number of significant 
+figures 
+For example expressing a correlation coefficient 
+to two or three significant figures. 
+D.1.2 Find arithmetic means For example calculating the means for two 
+conditions using raw data from a class 
+experiment. 
+D.1.3 Construct and 
+interpret frequency 
+tables and diagrams, 
+bar charts and 
+histograms 
+For example selecting and sketching an 
+appropriate form of data display for a given set 
+of data. 
+D.1.4 Understand simple 
+probability 
+For example explaining the difference between 
+the 0.05 and 0.01 levels of significance. 
+D.1.5 Understand the 
+principles of sampling 
+as applied to scientific 
+data 
+For example explaining how a random or 
+stratified sample could be obtained from a target 
+population. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 63 
+ 
+Mathematical skills Exemplification of mathematical skill in the 
+context of GCE Psychology (assessment is 
+not limited to the examples given below) 
+D.1 – Handling data (continued) 
+D.1.6 Understand the terms 
+mean, median and 
+mode 
+For example explaining the differences between 
+the mean, median and mode and selecting which 
+measure of central tendency is most appropriate 
+for a given set of data. 
+Calculating standard deviation. 
+D.1.7 Use a scatter diagram 
+to identify a 
+correlation between 
+two variables 
+For example plotting two variables from an 
+investigation on a scatter diagram and 
+identifying the pattern as a positive correlation, a 
+negative correlation or no correlation. 
+D.1.8 Use a statistical test For example calculating a non-parametric test of 
+differences using data from a given experiment. 
+D.1.9 Make order of 
+magnitude calculations 
+For example estimating the mean test score for a 
+large number of participants on the basis of the 
+total overall score. 
+D.1.10 Distinguish between 
+levels of 
+measurement 
+For example stating the level of 
+measurement (nominal, ordinal or interval) 
+that has been used in a study. 
+D.1.11 Know the 
+characteristics of 
+normal and skewed 
+distributions 
+For example being presented with a set of scores 
+from an experiment and being asked to indicate 
+the position of the mean (or median, or mode). 
+D.1.12 Select an 
+appropriate 
+statistical test 
+For example selecting a suitable inferential 
+test for a given practical investigation and 
+explaining why the chosen test is 
+appropriate. 
+D.1.13 Use statistical 
+tables to determine 
+significance 
+For example using an extract from 
+statistical tables to say whether or not a 
+given observed value is significant at the 
+0.05 level of significance for a one-tailed 
+test. 
+D.1.14 Understand measures 
+of dispersion, including 
+standard deviation and 
+range 
+For example explaining why the standard 
+deviation might be a more useful measure of 
+dispersion for a given set of scores e.g. where 
+there is an outlying score. 
+D.1.15 Understand the 
+differences between 
+qualitative and 
+quantitative data 
+For example explaining how a given qualitative 
+measure (such as an interview transcript) might 
+be converted into quantitative data. 
+D.1.16 Understand the 
+difference between 
+primary and secondary 
+data 
+For example stating whether data collected by a 
+researcher dealing directly with participants is 
+primary or secondary data. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 64 
+ 
+Mathematical skills Exemplification of mathematical skill in the 
+context of GCE Psychology (assessment is 
+not limited to the examples given below) 
+D.2 – Algebra 
+D.2.1 Understand and use 
+the symbols =, <,  
+<<, >>, >, ∝, ~. 
+For example, expressing the outcome of an 
+inferential test in the conventional form by 
+stating the level of significance at the 0.05 level 
+or 0.01 level by using symbols appropriately. 
+D.2.2 Substitute 
+numerical values 
+into algebraic 
+equations using 
+appropriate units 
+for physical 
+quantities 
+For example inserting the appropriate 
+values from a given set of data into the 
+formula for a statistical test such as 
+inserting the N value (for the number of 
+scores) into the Chi Square formula. 
+D.2.3 Solve simple 
+algebraic equations 
+For example calculating the degrees of 
+freedom for a Chi Square test. 
+D.3 – Graphs 
+D.3.1 Translate information 
+between graphical, 
+numerical and 
+algebraic forms 
+For example using a set of numerical data (a set 
+of scores) from a record sheet to construct a bar 
+graph. 
+D.3.2 Plot two variables from 
+experimental or other 
+data 
+For example sketching a scatter diagram using 
+two sets of data from a correlational 
+investigation. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 65 
+Appendix 4: Formulae and statistical tables 
+Standard deviation (sample estimate) 
+( )
+2
+1
+xx
+n
+ − −
+∑  
+Spearman’s rank correlation coefficient 
+( )
+2
+2
+61
+1
+d
+nn
+−
+−
+∑  
+Critical values for Spearman’s rank 
+ Level of significance for a one-tailed test 
+ 0.05 0.025 0.01 0.005 0.0025 
+ Level of significance for a two-tailed test 
+N 0.10 0.05 0.025 0.01 0.005 
+5 0.900 1.000 1.000 1.000 1.000 
+6 0.829 0.886 0.943 1.000 1.000 
+7 0.714 0.786 0.893 0.929 0.964 
+8 0.643 0.738 0.833 0.881 0.905 
+9 0.600 0.700 0.783 0.833 0.867 
+10 0.564 0.648 0.745 0.794 0.830 
+11 0.536 0.618 0.709 0.755 0.800 
+12 0.503 0.587 0.678 0.727 0.769 
+13 0.484 0.560 0.648 0.703 0.747 
+14 0.464 0.538 0.626 0.679 0.723 
+15 0.446 0.521 0.604 0.654 0.700 
+16 0.429 0.503 0.582 0.635 0.679 
+17 0.414 0.485 0.566 0.615 0.662 
+18 0.401 0.472 0.550 0.600 0.643 
+19 0.391 0.460 0.535 0.584 0.628 
+20 0.380 0.447 0.520 0.570 0.612 
+21 0.370 0.435 0.508 0.556 0.599 
+22 0.361 0.425 0.496 0.544 0.586 
+23 0.353 0.415 0.486 0.532 0.573 
+24 0.344 0.406 0.476 0.521 0.562 
+25 0.337 0.398 0.466 0.511 0.551 
+26 0.331 0.390 0.457 0.501 0.541 
+27 0.324 0.382 0.448 0.491 0.531 
+28 0.317 0.375 0.440 0.483 0.522 
+29 0.312 0.368 0.433 0.475 0.513 
+30 0.306 0.362 0.425 0.467 0.504 
+The calculated value must be equal to or exceed the critical value in this 
+table for significance to be shown. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 66 
+Chi squared distribution formula 
+( )
+2
+2 oeX e
+−=∑     ( )( )11df r c= −−   
+Critical values for chi squared distribution 
+Level of significance for a one-tailed test 
+ 0.10 0.05 0.025 0.01 0.005 0.0005 
+Level of significance for a two-tailed test 
+df 0.20 0.10 0.05 0.025 0.01 0.001 
+1 1.64 2.71 3.84 5.02 6.64 10.83 
+2 3.22 4.61 5.99 7.38 9.21 13.82 
+3 4.64 6.25 7.82 9.35 11.35 16.27 
+4 5.99 7.78 9.49 11.14 13.28 18.47 
+5 7.29 9.24 11.07 12.83 15.09 20.52 
+6 8.56 10.65 12.59 14.45 16.81 22.46 
+7 9.80 12.02 14.07 16.01 18.48 24.32 
+8 11.03 13.36 15.51 17.54 20.09 26.12 
+9 12.24 14.68 16.92 19.02 21.67 27.88 
+10 13.44 15.99 18.31 20.48 23.21 29.59 
+       
+11 14.63 17.28 19.68 21.92 24.73 31.26 
+12 15.81 18.55 21.03 23.34 26.22 32.91 
+13 16.99 19.81 22.36 24.74 27.69 34.53 
+14 18.15 21.06 23.69 26.12 29.14 36.12 
+15 19.31 22.31 25.00 27.49 30.58 37.70 
+16 20.47 23.54 26.30 28.85 32.00 39.25 
+17 21.62 24.77 27.59 30.19 33.41 40.79 
+18 22.76 25.99 28.87 31.53 34.81 42.31 
+19 23.90 27.20 30.14 32.85 36.19 43.82 
+20 25.04 28.41 31.41 34.17 37.57 45.32 
+       
+21 26.17 29.62 32.67 35.48 38.93 46.80 
+22 27.30 30.81 33.92 36.78 40.29 48.27 
+23 28.43 32.01 35.17 38.08 41.64 49.73 
+24 29.55 33.20 36.42 39.36 42.98 51.18 
+25 30.68 34.38 37.65 40.65 44.31 52.62 
+26 31.80 35.56 38.89 41.92 45.64 54.05 
+27 32.91 36.74 40.11 43.20 46.96 55.48 
+28 34.03 37.92 41.34 44.46 48.28 56.89 
+29 35.14 39.09 42.56 45.72 49.59 58.30 
+30 36.25 40.26 43.77 46.98 50.89 59.70 
+       
+40 47.27 51.81 55.76 59.34 63.69 73.40 
+50 58.16 63.17 67.51 71.42 76.15 86.66 
+60 68.97 74.40 79.08 83.30 88.38 99.61 
+70 79.72 85.53 90.53 95.02 100.43 112.32 
+The calculated value must be equal to or exceed the critical value in this 
+table for significance to be shown. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 67 
+Mann-Whitney U test formulae 
+( ) 1
+2
+aa
+a ab a
+nnU nn R+= +− ∑    
+( ) 1
+2
+bb
+b ab b
+nnU nn R+= +− ∑   
+(U is the smaller of Ua and Ub) 
+Critical values for the Mann-Whitney U test 
+Nb 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Na 
+p ≤ 0.05 (one-tailed), p ≤ 0.10 (two-tailed) 
+ 5 4 5 6 8 9 11 12 13 15 16 18 19 20 22 23 25 
+ 6 5 7 8 10 12 14 16 17 19 21 23 25 26 28 30 32 
+ 7 6 8 11 13 15 17 19 21 24 26 28 30 33 35 37 39 
+ 8 8 10 13 15 18 20 23 26 28 31 33 36 39 41 44 47 
+ 9 9 12 15 18 21 24 27 30 33 36 39 42 45 48 51 54 
+ 10 11 14 17 20 24 27 31 34 37 41 44 48 51 55 58 62 
+ 11 12 16 19 23 27 31 34 38 42 46 50 54 57 61 65 69 
+ 12 13 17 21 26 30 34 38 42 47 51 55 60 64 68 72 77 
+ 13 15 19 24 28 33 37 42 47 51 56 61 65 70 75 80 84 
+ 14 16 21 26 31 36 41 46 51 56 61 66 71 77 82 87 92 
+ 15 18 23 28 33 39 44 50 55 61 66 72 77 83 88 94 100 
+ 16 19 25 30 36 42 48 54 60 65 71 77 83 89 95 101 107 
+ 17 20 26 33 39 45 51 57 64 70 77 83 89 96 102 109 115 
+ 18 22 28 35 41 48 55 61 68 75 82 88 95 102 109 116 123 
+ 19 23 30 37 44 51 58 65 72 80 87 94 101 109 116 123 130 
+ 20 25 32 39 47 54 62 69 77 84 92 100 107 115 123 130 138 
+ 
+Nb 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Na 
+p ≤ 0.01 (one-tailed), p ≤ 0.02 (two-tailed) 
+ 5 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+ 6 2 3 4 6 7 8 9 11 12 13 15 16 18 19 20 22 
+ 7 3 4 6 7 9 11 12 14 16 17 19 21 23 24 26 28 
+ 8 4 6 7 9 11 13 15 17 20 22 24 26 28 30 32 34 
+ 9 5 7 9 11 14 16 18 21 23 26 28 31 33 36 38 40 
+ 10 6 8 11 13 16 19 22 24 27 30 33 36 38 41 44 47 
+ 11 7 9 12 15 18 22 25 28 31 34 37 41 44 47 50 53 
+ 12 8 11 14 17 21 24 28 31 35 38 42 46 49 53 56 60 
+ 13 9 12 16 20 23 27 31 35 39 43 47 51 55 59 63 67 
+ 14 10 13 17 22 26 30 34 38 43 47 51 56 60 65 69 73 
+ 15 11 15 19 24 28 33 37 42 47 51 56 61 66 70 75 80 
+ 16 12 16 21 26 31 36 41 46 51 56 61 66 71 76 82 87 
+ 17 13 18 23 28 33 38 44 49 55 60 66 71 77 82 88 93 
+ 18 14 19 24 30 36 41 47 53 59 65 70 76 82 88 94 100 
+ 19 15 20 26 32 38 44 50 56 63 69 75 82 88 94 101 107 
+ 20 16 22 28 34 40 47 53 60 67 73 80 87 93 100 107 114 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 68 
+ 
+Nb 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Na 
+p ≤ 0.025 (one-tailed), p ≤ 0.05 (two-tailed) 
+ 5 2 3 5 6 7 8 9 11 12 13 14 15 17 18 19 20 
+ 6 3 5 6 8 10 11 13 14 16 17 19 21 22 24 25 27 
+ 7 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 
+ 8 6 8 10 13 15 17 19 22 24 26 29 31 34 36 38 41 
+ 9 7 10 12 15 17 20 23 26 28 31 34 37 39 42 45 48 
+ 10 8 11 14 17 20 23 26 29 33 36 39 42 45 48 52 55 
+ 11 9 13 16 19 23 26 30 33 37 40 44 47 51 55 58 62 
+ 12 11 14 18 22 26 29 33 37 41 45 49 53 57 61 65 69 
+ 13 12 16 20 24 28 33 37 41 45 50 54 59 63 67 72 76 
+ 14 13 17 22 26 31 36 40 45 50 55 59 64 67 74 78 83 
+ 15 14 19 24 29 34 39 44 49 54 59 64 70 75 80 85 90 
+ 16 15 21 26 31 37 42 47 53 59 64 70 75 81 86 92 98 
+ 17 17 22 28 34 39 45 51 57 63 67 75 81 87 93 99 105 
+ 18 18 24 30 36 42 48 55 61 67 74 80 86 93 99 106 112 
+ 19 19 25 32 38 45 52 58 65 72 78 85 92 99 106 113 119 
+ 20 20 27 34 41 48 55 62 69 76 83 90 98 105 112 119 127 
+ 
+Nb 
+  5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Na 
+p ≤ 0.005 (one-tailed), p ≤ 0.01 (two-tailed) 
+ 5 0 1 1 2 3 4 5 6 7 7 8 9 10 11 12 13 
+ 6 1 2 3 4 5 6 7 9 10 11 12 13 15 16 17 18 
+ 7 1 3 4 6 7 9 10 12 13 15 16 18 19 21 22 24 
+ 8 2 4 6 7 9 11 13 15 17 18 20 22 24 26 28 30 
+ 9 3 5 7 9 11 13 16 18 20 22 24 27 29 31 33 36 
+ 10 4 6 9 11 13 16 18 21 24 26 29 31 34 37 39 42 
+ 11 5 7 10 13 16 18 21 24 27 30 33 36 39 42 45 48 
+ 12 6 9 12 15 18 21 24 27 31 34 37 41 44 47 51 54 
+ 13 7 10 13 17 20 24 27 31 34 38 42 45 49 53 56 60 
+ 14 7 11 15 18 22 26 30 34 38 42 46 50 54 58 63 67 
+ 15 8 12 16 20 24 29 33 37 42 46 51 55 60 64 69 73 
+ 16 9 13 18 22 27 31 36 41 45 50 55 60 65 70 74 79 
+ 17 10 15 19 24 29 34 39 44 49 54 60 65 70 75 81 86 
+ 18 11 16 21 26 31 37 42 47 53 58 64 70 75 81 87 92 
+ 19 12 17 22 28 33 39 45 51 56 63 69 74 81 87 93 99 
+ 20 13 18 24 30 36 42 48 54 60 67 73 79 86 92 99 105 
+ 
+The calculated value must be equal to or less than the critical value in this table for 
+significance to be shown. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 69 
+Wilcoxon Signed Ranks test process 
+● Calculate the difference between two scores by taking one from the other 
+● Rank the differences giving the smallest difference Rank 1  
+Note: do not rank any differences of 0 and when adding the number of scores, 
+do not count those with a difference of 0, and ignore the signs when calculating 
+the difference 
+● Add up the ranks for positive differences  
+● Add up the ranks for negative differences 
+● T is the figure that is the smallest when the ranks are totalled (may be positive 
+or negative) 
+● N is the number of scores left, ignore those with 0 difference. 
+ 
+Critical values for the Wilcoxon Signed Ranks test 
+ 
+n 
+Level of significance for a one-tailed test 
+0.05 0.025 0.01 
+Level of significance for a two-tailed test 
+0.1 0.05 0.02 
+N=5 0 - - 
+6 2 0 - 
+7 3 2 0 
+8 5 3 1 
+9 8 5 3 
+10 11 8 5 
+11 13 10 7 
+12 17 13 9 
+ 
+The calculated value must be equal to or less than the critical value in this 
+table for significance to be shown. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 70 
+ 
+Appendix 5: Codes 
+ 
+Type of code Use of code Code number 
+Discount codes Every qualification eligible for 
+performance tables is assigned a 
+discount code indicating the subject 
+area to which it belongs. 
+Discount codes are published by DfE 
+in the RAISEonline library 
+(www.raiseonline.org) 
+For Key Stage 
+performance tables: 
+4850 
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes 
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a 
+Qualification Number (QN). This is the 
+code that features in the DfE 
+Section 96 and on the LARA as being 
+eligible for 16–18 and 19+ funding, 
+and is to be used for all qualification 
+funding purposes. The QN will appear 
+on students’ final certification 
+documentation. 
+The QN for the 
+qualification in this 
+publication is:  
+601/5573/5 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. 
+Centres will need to use the entry 
+codes only when claiming students’ 
+qualifications. 
+GCE – 9PS0 
+Paper code These codes are provided for 
+reference purposes. Students do not 
+need to be entered for individual 
+papers. 
+Paper 1: 9PS0/01 
+Paper 2: 9PS0/02 
+Paper 3: 9PS0/03 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 71 
+ 
+Appendix 6: Taxonomy (command words) 
+ 
+The following command words in this taxonomy will be used consistently by 
+Pearson in its assessments to ensure students are rewarded for demonstrating the 
+necessary skills. Careful consideration has been given to this taxonomy to ensure 
+that Assessment Objectives are targeted consistently across questions.  
+Please note: the list below will not necessarily be used in every paper/session and 
+is provided for guidance only. 
+One of the key changes is that a single command word will be used per item; dual 
+injunctions, for example describe and evaluate, will no longer be used. 
+ 
+Command word Definition/meaning 
+Analyse Break something down into its components/parts. Examine each 
+part methodically and in detail in order to discover the meaning 
+or essential features of a theme, topic or situation. Explore the 
+relationship between the features and how each one contributes 
+to the topic.
+ 
+Assess Give careful consideration to all the factors or events that apply 
+and identify which are the most important or relevant. Make a 
+judgement on the importance of something, and come to a 
+conclusion where needed.
+ 
+Calculate Obtain a numerical answer, showing relevant working. If the 
+answer has a unit, this must be included. 
+Compare Looking for the similarities and differences of two (or more) 
+things. This should not require the drawing of a conclusion. The 
+answer must relate to both (or all) things mentioned in the 
+question. The answer must include at least one similarity and 
+one difference.
+ 
+Complete To fill in/write all the details asked for. 
+Convert Express a quantity in alternative units. 
+Define Provide a definition of something.  
+Describe To give an account of something. Statements in the response 
+need to be developed as they are often linked but do not need to 
+include a justification or reason. 
+Determine The answer must have an element that is quantitative from the 
+stimulus provided, or must show how the answer can be reached 
+quantitatively. To gain maximum marks there must be a 
+quantitative element to the answer.  
+Discuss Explore the issue/situation/problem/argument that is being 
+presented within the question, articulating different or 
+contrasting viewpoints.
+ 
+Draw Produce an output, either by freehand or using a ruler (e.g. 
+graph). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Psychology 
+Specification – Issue 3 – July 2025 © Pearson Education Limited 2025 72 
+ 
+Command word Definition/meaning 
+Evaluate Review information then bring it together to form a conclusion, 
+drawing on evidence including strengths, weaknesses, 
+alternative actions, relevant data or information. Come to a 
+supported judgement of a subject’s qualities and relation to its 
+context.
+ 
+Explain An explanation that requires a justification/exemplification of a 
+point. The answer must contain some element of 
+reasoning/justification. This can include mathematical 
+explanations. 
+Give Generally involves the recall of one or more pieces of 
+information; when used in relation to a context, it is used to 
+determine a candidate’s grasp of the factual information 
+presented.
+ 
+Identify This requires some key information to be selected from a given 
+stimulus/resource. 
+Interpret Recognise a trend or pattern(s) within a given 
+stimulus/resource.
+ 
+Justify Rationalise a decision or action. 
+Name Synonymous with ‘Give’.  
+Plot Produce, or add detail to, a graph/chart by marking points 
+accurately (e.g. line of best fit). 
+Predict Articulate an expected result.  
+State Synonymous with ‘Give’.  
+Suggest Make a proposal/propose an idea in written form. 
+To what extent Review information then bring it together to form a judgement 
+conclusion, following the provision of a balanced and reasoned 
+argument.  
+ 
+ 
+ 
+ 
+Sb241116Z:\LT\PD\GCE 2015 NEW ISSUES9781446942086_GCE2015_AL_PSYCHO_ISS2.DOC.1–85/3 
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office: 80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121

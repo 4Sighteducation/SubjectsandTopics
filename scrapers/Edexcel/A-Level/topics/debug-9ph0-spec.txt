@@ -1,0 +1,4476 @@
+A Level 
+Physics
+Specification
+Pearson Edexcel Level 3 Advanced GCE in Physics (9PH0)
+First teaching from September 2015
+First certification from 2017 Issue 3
+
+ 
+ 
+Pearson Edexcel  
+Level 3 Advanced GCE  
+in Physics (9PH0) 
+Specification 
+First certification 2017 
+Issue 3 
+ 
+ 
+ 
+ 
+Edexcel, BTEC and LCCI qualifications 
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK’s largest 
+awarding body offering academic and vocational qualifications that are globally 
+recognised and benchmarked. For further information, please visit our qualifications 
+website at qualifications.pearson.com. Alternatively, you can get in touch with us 
+using the details on our contact us page at qualifications.pearson.com/contactus 
+About Pearson 
+Pearson is the world's leading learning company, with 35,000 employees in more 
+than 70 countries working to help people of all ages to make measurable progress 
+in their lives through learning. We put the learner at the centre of everything we 
+do, because wherever learning flourishes, so do people. Find out more about how 
+we can help you and your learners at qualifications.pearson.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party material made in this specification are made in good faith. 
+Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Material may include textbooks, journals, magazines and other publications and 
+websites.) 
+ 
+All information in this specification is correct at time of publication. 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 93602 3 
+All the material in this publication is copyright 
+© Pearson Education Limited 2018 
+ 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+May 2014 
+“The reform of the qualifications system in England is a profoundly important 
+change to the education system. Teachers need to know that the new qualifications 
+will assist them in helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an 
+‘Expert Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or 
+because of our experience in reforming qualifications in other systems around the 
+world as diverse as Singapore, Hong Kong, Australia and a number of countries 
+across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification 
+development process that has included: 
+• Extensive international comparability of subject content against the highest-
+performing jurisdictions in the world 
+• Benchmarking assessments against UK and overseas providers to ensure that 
+they are at the right level of demand 
+• Establishing External Subject Advisory Groups, drawing on independent subject-
+specific expertise to challenge and validate our qualifications 
+• Subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future 
+oriented. The design has been guided by what is called an ‘Efficacy Framework’, 
+meaning learner outcomes have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a 
+learner’s success in education. As a result of our work as a panel we are confident 
+that we have supported the development of qualifications that are outstanding for 
+their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.
+”     
+  
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong 
+Director, National Institute of 
+Education, Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+All titles correct as at May 2014 
+ 
+ 
+ 
+ 
+ 
+Summary of Pearson Edexcel Level 3 Advanced GCE 
+in Physics specification Issue 3 changes  
+ 
+Summary of changes made between previous issue and this 
+current issue  
+Page 
+number 
+Amendment to correct ‘chemistry’ to ‘physics’ 6 
+Amendment to correct the use of the negative sign for Activity 23 
+Amendment to correct the use of the negative sign for Activity 43 
+‘Subject to confirmation in spring 2015, following trialling’ has been 
+deleted. 
+49 
+Amendment to correct ‘fiduciary’ to ‘fiducial’ marker. 81 
+Amendment to correct the use of the negative sign for Activity 101 
+Amendment to replace Appendix 10 with revised version 105 
+ 
+Earlier issue(s) show(s) previous changes. 
+If you need further information on these changes or what they mean, contact us via 
+our website at: qualifications.pearson.com/en/support/contact-us.html.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+The Pearson Edexcel Level 3 Advanced GCE in Physics is designed for use in schools 
+and colleges. It is part of a suite of GCE qualifications offered by Pearson. 
+Purpose of the specification 
+This specification sets out: 
+● the objectives of the qualification 
+● any other qualifications that a student must have completed before taking the 
+qualification 
+● any prior knowledge and skills that the student is required to have before taking 
+the qualification 
+● any other requirements that a student must have satisfied before they will be 
+assessed or before the qualification will be awarded 
+● the knowledge and understanding that will be assessed as part of the 
+qualification 
+● the method of assessment and any associated requirements relating to it 
+● the criteria against which a student’s level of attainment will be measured (such 
+as assessment criteria). 
+ 
+ 
+Rationale 
+The Pearson Edexcel Level 3 Advanced GCE in Physics meets the following 
+purposes, which fulfil those defined by the Office of Qualifications and Examinations 
+Regulation (Ofqual) for GCE qualifications in their GCE Qualification Level 
+Conditions and Requirements document, published in April 2014. 
+The purposes of this qualification are to: 
+• define and assess achievement of the knowledge, skills and understanding that 
+will be needed by students planning to progress to undergraduate study at UK 
+higher education institutions, particularly (although not only) in the same 
+subject area 
+• set out a robust and internationally comparable post-16 academic course of 
+study to develop that knowledge, skills and understanding 
+• enable HE institutions to identify accurately the level of attainment of students 
+• provide a basis for school and college accountability measures at age 18 
+• provide a benchmark of academic ability for employers. 
+Qualification aims and objectives 
+The aims and objectives of the Pearson Edexcel Level 3 Advanced GCE in Physics 
+are to enable students to develop: 
+● essential knowledge and understanding of different areas of the subject and 
+how they relate to each other 
+● a deep appreciation of the skills, knowledge and understanding of scientific 
+methods 
+● competence and confidence in a variety of practical, mathematical and problem-
+solving skills 
+● their interest in and enthusiasm for the subject, including developing an interest 
+in further study and careers associated with the subject 
+● an understanding of how society makes decisions about scientific issues and 
+how the sciences contribute to the success of the economy and society. 
+ 
+ 
+The context for the development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+• reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+• consulting with key stakeholders on content and assessment, including subject 
+associations, higher education academics, teachers and employers to ensure 
+this qualification is suitable for a UK context 
+• reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their document GCE Qualification Level Conditions and Requirements and by the 
+Department for Education (DfE) in their GCE AS and A level regulatory 
+requirements for biology, chemistry, physics and psychology document, published 
+in April 2014. 
+ 
+ 
+ 
+                                          
+[1] Pearson’s World Class Qualification Principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep learning and 
+measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing reliable and valid 
+assessment tasks and processes, and generating confidence in end users of the knowledge, skills 
+and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that students develop at 
+different rates and have different learning needs, and focusing on progression 
+● empowering, through promoting the development of transferable skills, see Appendix 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+Qualification at a glance 1 
+Knowledge, skills and understanding 5 
+Concept-led approach 7 
+Salters Horners approach 26 
+Science Practical Endorsement 45 
+Marking and standardisation 49 
+Malpractice 50 
+Assessment 53 
+Assessment summary 53 
+Assessment Objectives and weightings 55 
+Breakdown of Assessment Objectives 55 
+Entry and assessment information 56 
+Student entry 56 
+Discount code and performance tables 56 
+Access arrangements, reasonable adjustments and special 
+consideration 57 
+Equality Act 2010 and Pearson’s equality policy 58 
+Synoptic assessment 58 
+Awarding and reporting 59 
+Language of assessment 59 
+Other information 61 
+Student recruitment 61 
+Prior learning and other requirements 61 
+Progression 61 
+Relationship between Advanced Subsidiary GCE  and Advanced 
+GCE 61 
+Progression from Advanced Subsidiary GCE to Advanced GCE 62 
+Relationship between GCSE and Advanced GCE 62 
+Progression from GCSE to Advanced GCE 62 
+Appendix 1: Transferable skills 65 
+Appendix 2: Level 3 Extended Project qualification 67 
+Appendix 3: Codes 71 
+ 
+ 
+Appendix 4: Practical competency authentication 
+sheet 73 
+Appendix 5: Working scientifically 75 
+Appendix 5a: Practical skills identified for indirect 
+assessment and developed through teaching and 
+learning 77 
+Appendix 5b: Practical skills identified for direct 
+assessment and developed through teaching and 
+learning 79 
+Appendix 5c: Use of apparatus and techniques 81 
+Appendix 5d: Mapping between  Appendix 5c and core 
+practicals 83 
+Appendix 6: Mathematical skills and exemplifications 87 
+Appendix 7: Command words used in examination 
+papers 93
+ 
+Appendix 8: Formulae sheet 95 
+Appendix 9: Data sheet 103 
+Appendix 10: Uncertainties and practical work 105 
+Appendix 11: Support from the University of York 113 
+ 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+1 
+Qualification at a glance 
+The Pearson Edexcel Level 3 Advanced GCE in Physics consists of three externally 
+examined papers and the Science Practical Endorsement. 
+Students must complete all assessments in May/June in any single year. 
+The content for this qualification is presented in two different ways to provide two 
+distinct, flexible, teaching and learning approaches to suit the needs of different 
+types of student: 
+● a concept-led approach. This approach begins with a study of the laws, theories 
+and models of physics and finishes with an exploration of their practical 
+applications 
+● the Salters Horners context-led approach. This approach begins with the 
+consideration of situations and applications that each draws on one or more 
+areas of physics, and then moves on to the underlying physics laws, theories 
+and models. This approach is based on the Salters Horners Advanced Physics 
+(SHAP) Project. 
+These teaching approaches can be mixed to allow variety in course delivery. 
+Teachers may select the approach that best meets the needs of their students. 
+These different approaches lead to the same common assessment papers for this 
+qualification. 
+Paper 1: Advanced Physics I *Paper code: 9PH0/01 
+● Externally assessed 
+● Availability: May/June 
+● First assessments: 2017 
+30% of the 
+total 
+qualification 
+Overview of content 
+This paper will examine the following topics. 
+Concept approach 
+• Working as a Physicist 
+● Mechanics 
+● Electric Circuits 
+● Further Mechanics 
+● Electric and Magnetic Fields 
+● Nuclear and Particle Physics 
+Salters Horners approach 
+• Working as a Physicist 
+● Higher, Faster, Stronger (HFS) 
+● Technology in Space (SPC) (except items 70 and  
+92–95) 
+● Digging up the Past (DIG) (except items 83–87) 
+● Transport on Track (TRA) 
+● The Medium is the Message (MDM) 
+● Probing the Heart of Matter (PRO) 
+Overview of assessment 
+● Assessment is 1 hour 45 minutes. 
+● The paper consists of 90 marks. 
+● The paper may include multiple-choice, short open, open-response, calculations and 
+extended writing questions. 
+● The paper will include questions that target mathematics at Level 2 or above (see 
+Appendix 6: Mathematical skills and exemplifications). Overall, a minimum of 40% of 
+the marks across the three papers will be awarded for mathematics at Level 2 or above. 
+● Students will be expected to apply their knowledge and understanding to familiar and 
+unfamiliar contexts. 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+2 
+Paper 2: Advanced Physics II *Paper code: 9PH0/02
+● Externally assessed
+● Availability: May/June
+● First assessments: 2017
+30% of the 
+total 
+qualification 
+Overview of content 
+This paper will examine the following topics. 
+Concept approach 
+• Working as a Physicist
+• Materials
+• Waves and Particle Nature of Light
+• Thermodynamics
+• Space
+• Nuclear Radiation
+• Gravitational Fields
+• Oscillations
+Salters Horners approach 
+• Working as a Physicist
+● The Sound of Music (MUS)
+● Good Enough to Eat (EAT)
+● Technology in Space (SPC) (only items 70
+an
+d 92–95)
+● Digging up the Past (DIG) (only items
+83–87)
+● Spare-Part Surgery (SUR)
+● Build or Bust? (BLD)
+● Reach for the Stars (STA)
+Overview of assessment 
+● Assessment is 1 hour 45 minutes. 
+● The paper consists of 90 marks.
+● The paper may include multiple-choice, short open, open-response, calculations and 
+extended writing questions.
+● The paper will include questions that target mathematics at Level 2 or above (see 
+Appendix 6: Mathematical skills and exemplifications). Overall, a minimum of 40% of 
+the marks across the three papers will be awarded for mathematics at Level 2 or above.
+● Students will be expected to apply their knowledge and understanding to familiar and 
+unfamiliar contexts.
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+3 
+ 
+Paper 3: General and Practical Principles in Physics *Paper code: 9PH0/03 
+● Externally assessed 
+● Availability: May/June 
+● First assessments: 2017 
+40% of the 
+total 
+qualification 
+Overview of content 
+● Questions in this paper may draw on any of the topics in this specification. 
+● The paper will include synoptic questions that may draw on two or more different 
+topics. 
+● The paper will include questions that assess conceptual and theoretical 
+understanding of experimental methods (indirect practical skills) that will draw on 
+students’ experiences of the core practicals. 
+Overview of assessment 
+● Assessment is 2 hours 30 minutes. 
+● The paper consists of 120 marks. 
+● The paper may include, short open, open-response, calculations and extended 
+writing questions. 
+● The paper will include questions that target mathematics at Level 2 or above (see 
+Appendix 6: Mathematical skills and exemplifications). Overall, a minimum of 40% 
+of the marks across the three papers will be awarded for mathematics at Level 2 or 
+above. 
+● Some questions will assess conceptual and theoretical understanding of 
+experimental methods (see Appendix 5: Working scientifically). 
+● Students will be expected to apply their knowledge and understanding to familiar 
+and unfamiliar contexts. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+4 
+ 
+Science Practical Endorsement** *Paper code: 9PH0/04 
+• Internally assessed and externally monitored by Pearson 
+• Availability: May/June 
+• First assessment: 2017 
+Overview of content 
+The assessment of practical skills is a compulsory requirement of the course of study for 
+A level physics. It will appear on all students’ certificates as a separately reported result, 
+alongside the overall grade for the qualification.  
+Students must carry out a minimum of 12 practical activities which, together, meet the 
+requirements of Appendices 5b (Practical skills identified for direct assessment and 
+developed through teaching and learning) and 5c (Use of apparatus and techniques) 
+from the prescribed subject content.  
+The practical activities prescribed in this specification (the "core practicals") provide 
+opportunities for demonstrating competence in all the skills identified, together with the 
+use of apparatus and techniques for each subject. However, students can also 
+demonstrate these competencies in any additional practical activity undertaken 
+throughout the course of study which covers the requirements of Appendix 5c.
+ 
+Overview of assessment 
+Students' practical work will be assessed by teachers, using common practical 
+assessment criteria (CPAC) that are consistent across exam boards. These criteria can 
+be found on pages 48-49. 
+Students who demonstrate the required standard across all the requirements of the 
+CPAC will receive a ‘pass’ grade. 
+Students may work in groups but teachers who award a pass to their students need to 
+be confident of individual students’ competence. 
+The correct application of CPAC to students' work will be monitored through a system of 
+visits to centres. These visits will be coordinated across the exam boards by JCQ, to 
+ensure that all centres are visited regularly, although not necessarily in each science 
+subject. 
+ 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+**Students will be assessed separately for the Science Practical Endorsement. The 
+Endorsement will not contribute to the overall grade for this qualification, but the 
+result will be recorded on the student’s certificate. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+5 
+Knowledge, skills and understanding 
+Overview 
+This qualification may be taught using either a concept approach or a context-led 
+Salters Horners (SHAP) approach. The concept approach begins with a study of the 
+laws, theories and models of physics and then explores their practical applications. 
+The SHAP context-led approach begins with the consideration of applications that 
+draw on one or more areas of physics, and moves on to the underlying laws, 
+theories and models of physics. 
+These different approaches lead to the same common assessment papers for this 
+qualification. 
+The content in this section has been arranged to match the concept approach. The 
+same content, reordered for the context-led (SHAP) approach starts on page 26. 
+Content overview 
+Students are expected to demonstrate and apply the knowledge, understanding and 
+skills described in the content. They are also expected to analyse, interpret and 
+evaluate a range of scientific information, ideas and evidence using their 
+knowledge, understanding and skills. 
+To demonstrate their knowledge, students should be able to undertake a range of 
+activities, including the ability to recall, describe and define, as appropriate. 
+To demonstrate their understanding, students should be able to explain ideas and 
+use their knowledge to apply, analyse, interpret and evaluate, as appropriate. 
+Students should consider ethical issues relating to the environment, evaluate risks 
+and benefits of applications of physics, and evaluate ways in which society uses 
+physics to inform decision making. 
+Students should develop their ability to apply mathematical skills to physics 
+throughout the course. These skills include the ability to change the subject of an 
+equation, substitute numerical values and solve algebraic equations using decimal 
+and standard form, ratios, fractions and percentages. Further details of the skills 
+that should be developed are given in Appendix 6: Mathematical skills and 
+exemplifications. Students should also be familiar with Système Internationale 
+d’Unités (SI) units and their prefixes, be able to estimate physical quantities and 
+know the limits of physical measurements. 
+Core practicals will be assessed in the examination. 
+Students should be encouraged to use ICT throughout the course. 
+Practical assessment 
+Practical work is central to any study of physics. For this reason, the specification 
+includes 16 core practical activities which form a thread linking theoretical 
+knowledge and understanding to practical scenarios. In following this thread, 
+students will build on practical skills learned at GCSE, becoming confident practical 
+physicists, handling apparatus competently and safely. Using a variety of apparatus 
+and techniques, they should be able to design and carry out both the core practical 
+activities and their own investigations, collecting data which can be analysed and 
+used to draw valid conclusions.  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+6 
+One important aspect of practical work is the ability to evaluate and manage 
+potential risks. The variety of different practical techniques and scenarios in the 
+core practical activities give students scope to consider risk management in 
+different contexts.  
+Students should also consider the ethical issues presented by their work in the 
+laboratory, which might include consideration for using minimum quantities of 
+resources; the safe disposal of waste materials; and appropriate consideration for 
+other people involved in their own work or who is working nearby. 
+Also central to the development of practical skills is the ability to communicate 
+information and ideas through the use of appropriate terminology and ICT. Being 
+able to communicate clearly the findings of practical work is arguably as important 
+as the collection of accurate data.  
+In carrying out practical activities, students will be expected to use their knowledge 
+and understanding to pose scientific questions which can be investigated through 
+experimental activities. Such activities will enable students to collect data, analyse 
+it for correlations and causal relationships, and to develop solutions to the 
+questions posed.  
+Questions within written examination papers will aim to assess the knowledge and 
+understanding that students gain while carrying out practical activities, within the 
+context of the 16 core practical activities, as well as in novel practical scenarios. 
+The written papers will test the skills of students in planning practical work – both 
+in familiar and unfamiliar applications – including risk management and the 
+selection of apparatus, with reasons. As part of data handling, students will be 
+expected to use significant figures appropriately, to process data and to plot 
+graphs. In analysing outcomes and drawing valid conclusions, students should 
+critically consider methods and data, including assessing measurement 
+uncertainties and errors.  
+Examination papers will also provide the opportunity for students to evaluate the 
+wider role of the scientific community in validating new knowledge and the ways in 
+which society as a whole uses science to inform decision making. Within this, they 
+could be asked to consider the implications and applications of physics in terms of 
+associated benefits and risks. Students may also be asked to evaluate 
+methodology, evidence and data and resolve conflicting evidence. 
+Success in questions that indirectly assess practical skills within written papers will 
+come more naturally to those candidates who have a solid foundation of laboratory 
+practice and who, having carried them out, have a thorough understanding of 
+practical techniques. Therefore, where possible, teachers should consider adding 
+additional experiments to the core practical activities. The 16 core practicals will 
+provide the basis from which some of the Paper 3 examination questions will be 
+drawn. 
+Teachers should note that the completion of the 16 core practical activities can also 
+provide evidence of competence for the Science Practical Endorsement (please see 
+page 45) and that evidence must be provided for the 12 practical techniques listed 
+in Appendix 5c through a minimum of 12 core practical activities. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+7 
+Concept-led approach 
+The following section shows how the course may be taught using the concept-led 
+approach. The subset of content required for the Advanced Subsidiary GCE 
+qualification is listed on pages 8–16, while the remainder of the content required 
+for this qualification is listed on pages 17–25. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+8 
+Topic 1: Working as a Physicist 
+Throughout their study of physics at this level, students should develop their 
+knowledge and understanding of what it means to work scientifically. They should 
+also develop their competence in manipulating quantities and their units, including 
+making estimates.  
+Students should gain experience of a wide variety of practical work that gives them 
+opportunities to develop their practical and investigative skills by planning, carrying 
+out and evaluating experiments. Through studying a range of examples, contexts 
+and applications of physics, students should become increasingly knowledgeable of 
+the ways in which the scientific community and society as a whole use scientific 
+ideas and methods, and how the professional scientific community functions.  
+Students should develop their ability to communicate their knowledge and 
+understanding of physics in ways that are appropriate to the content and to the 
+audience. 
+It is not intended that this part of the specification be taught as a discrete topic. 
+Rather, the knowledge and skills specified here should pervade the entire course 
+and should be taught using examples and applications from the rest of the 
+specification. 
+ 
+Students should: 
+1. know and understand the distinction between base and derived quantities and 
+their SI units 
+2. be able to demonstrate their knowledge of practical skills and techniques for both 
+familiar and unfamiliar experiments 
+3. be able to estimate values for physical quantities and use their estimate to solve 
+problems 
+4. understand the limitations of physical measurement and apply these limitations 
+to practical situations 
+5. be able to communicate information and ideas in appropriate ways using 
+appropriate terminology 
+6. understand applications and implications of science and evaluate their associated 
+benefits and risks 
+7. understand the role of the scientific community in validating new knowledge and 
+ensuring integrity 
+8. understand the ways in which society uses science to inform decision making 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+9 
+Topic 2: Mechanics 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+strobe photography or the use of a video camera to analyse projectile motion, 
+determine the centre of gravity of an irregular rod, investigate the conservation of 
+momentum using light gates and air track. 
+Mathematical skills that could be developed in this topic include plotting two 
+variables from experimental data, calculating rate of change from a graph showing 
+a linear relationship, drawing and using the slope of a tangent to a curve as a 
+measure of rate of change, distinguishing between instantaneous rate of change 
+and average rate of change and identifying uncertainties in measurements, using 
+simple techniques to determine uncertainty when data are combined, using angles 
+in regular 2D and 3D structures with force diagrams and using sin, cos and tan in 
+physical problems. 
+This topic may be studied using applications that relate to mechanics, for example, 
+sports. 
+ 
+Students should: 
+9. be able to use the equations for uniformly accelerated motion in one 
+dimension: 
+ 
+asuv
+atuts
+atuv
+tvus
+2
+2
+)(
+22
+2
+2
+1
++=
++=
++=
++=
+ 
+10. be able to draw and interpret displacement-time, velocity-time and 
+acceleration-time graphs 
+11. know the physical quantities derived from the slopes and areas of 
+displacement-time, velocity-time and acceleration-time graphs, including cases 
+of non-uniform acceleration and understand how to use the quantities 
+12. understand scalar and vector quantities and know examples of each type of 
+quantity and recognise vector notation 
+13. be able to resolve a vector into two components at right angles to each other 
+by drawing and by calculation 
+14. be able to find the resultant of two coplanar vectors at any angle to each other 
+by drawing, and at right angles to each other by calculation 
+15. understand how to make use of the independence of vertical and horizontal 
+motion of a projectile moving freely under gravity 
+16. be able to draw and interpret free-body force diagrams to represent forces on 
+a particle or on an extended but rigid body 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+10 
+ 
+Students should: 
+17. be able to use the equation ∑F = ma, and understand how to use this equation 
+in situations where m is constant (Newton’s second law of motion), including 
+Newton’s first law of motion where a = 0, objects at rest or travelling at 
+constant velocity 
+Use of the term terminal velocity is expected 
+18.  be able to use the equations for gravitational field strength 
+m
+Fg =  and weight 
+W = mg 
+19.  CORE PRACTICAL 1: Determine the acceleration of a freely-falling 
+object. 
+20. know and understand Newton’s third law of motion and know the properties of 
+pairs of forces in an interaction between two bodies 
+21. understand that momentum is defined as p = mv 
+22. know the principle of conservation of linear momentum, understand how to 
+relate this to Newton’s laws of motion and understand how to apply this to 
+problems in one dimension 
+23. be able to use the equation for the moment of a force, moment of force = Fx 
+where x is the perpendicular distance between the line of action of the force 
+and the axis of rotation  
+24.  be able to use the concept of centre of gravity of an extended body and apply 
+the principle of moments to an extended body in equilibrium 
+25. be able to use the equation for work ∆W = F∆s, including calculations when the 
+force is not along the line of motion 
+26. be able to use the equation 2
+2
+1 mvEk =  for the kinetic energy of a body 
+27. be able to use the equation ∆Egrav = mg∆h for the difference in gravitational 
+potential energy near the Earth’s surface 
+28.  know, and understand how to apply, the principle of conservation of energy 
+including use of work done, gravitational potential energy and kinetic energy 
+29.  be able to use the equations relating power, time and energy transferred or 
+work done 
+t
+EP =  and 
+t
+WP =  
+30.  be able to use the equations 
+ 
+inputenergy  total
+outputenergy  usefulefficiency =  
+and 
+ 
+inputpower  total
+outputpower  usefulefficiency =  
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+11 
+Topic 3: Electric Circuits 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+estimating power output of an electric motor, using a digital voltmeter to 
+investigate the output of a potential divider and investigating current/voltage 
+graphs for a filament bulb, thermistor and diode. 
+Mathematical skills that could be developed in this topic include substituting 
+numerical values into algebraic equations using appropriate units for physical 
+quantities and applying the equation y = mx + c to experimental data. 
+This topic may be studied using applications that relate to electricity, for example, 
+space technology. 
+ 
+Students should: 
+31. understand that electric current is the rate of flow of charged particles and be 
+able to use the equation 
+t
+QI ∆
+∆=   
+32. understand how to use the equation 
+Q
+WV =   
+33. understand that resistance is defined by 
+I
+VR =  and that Ohm’s law is a special 
+case when I ∝ V for constant temperature 
+34. understand how the distribution of current in a circuit is a consequence of 
+charge conservation 
+35. understand how the distribution of potential differences in a circuit is a 
+consequence of energy conservation 
+36. be able to derive the equations for combining resistances in series and parallel 
+using the principles of charge and energy conservation, and be able to use 
+these equations 
+37. be able to use the equations P = VI, W = VIt and be able to derive and use 
+related equations, e.g. P = I2R and 
+R
+VP
+2
+=  
+38. understand how to sketch, recognise and interpret current-potential difference 
+graphs for components, including ohmic conductors, filament bulbs, thermistors 
+and diodes 
+39. be able to use the equation 
+A
+ρlR =  
+40. CORE PRACTICAL 2: Determine the electrical resistivity of a material. 
+41.  be able to use I = nqvA to explain the large range of resistivities of different 
+materials 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+12 
+ 
+Students should: 
+42.  understand how the potential along a uniform current-carrying wire varies with 
+the distance along it 
+43. understand the principles of a potential divider circuit and understand how to 
+calculate potential differences and resistances in such a circuit 
+44. be able to analyse potential divider circuits where one resistance is variable 
+including thermistors and light dependent resistors (LDRs) 
+45. know the definition of electromotive force (e.m.f.) and understand what is 
+meant by internal resistance and know how to distinguish between e.m.f. and 
+terminal potential difference 
+46. CORE PRACTICAL 3: Determine the e.m.f. and internal resistance of an 
+electrical cell. 
+47. understand how changes of resistance with temperature may be modelled in 
+terms of lattice vibrations and number of conduction electrons and understand 
+how to apply this model to metallic conductors and negative temperature 
+coefficient thermistors 
+48. understand how changes of resistance with illumination may be modelled in 
+terms of the number of conduction electrons and understand how to apply this 
+model to LDRs. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+13 
+Topic 4: Materials 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. 
+Mathematical skills that could be developed in this topic include determining the 
+slope of a linear graph and calculating or estimating, by graphical methods as 
+appropriate, the area between a curve and the x-axis and realising the physical 
+significance of the area that has been determined. 
+This topic may be studied using applications that relate to materials, for example 
+spare-part surgery. 
+ 
+Students should: 
+49. be able to use the equation density 
+V
+m=ρ  
+50. understand how to use the relationship upthrust = weight of fluid displaced 
+51. a. be able to use the equation for viscous drag (Stokes’ Law), F = 6πηrv. 
+ b. understand that this equation applies only to small spherical objects 
+moving at low speeds with laminar flow (or in the absence of turbulent 
+flow) and that viscosity is temperature dependent 
+52. CORE PRACTICAL 4: Use a falling-ball method to determine the viscosity 
+of a liquid. 
+53. be able to use the Hooke’s law equation, ∆F = k∆x, where k is the stiffness of 
+the object 
+54. understand how to use the relationships 
+● (tensile or compressive) stress = force/cross-sectional area 
+● (tensile or compressive) strain= change in length/original length 
+● Young modulus = stress/strain 
+55. a. be able to draw and interpret force-extension and force-compression 
+graphs 
+ b. understand the terms limit of proportionality, elastic limit, yield point, 
+elastic deformation and plastic deformation and be able to apply them to 
+these graphs 
+56. be able to draw and interpret tensile or compressive stress-strain graphs, and 
+understand the term breaking stress 
+57. CORE PRACTICAL 5: Determine the Young modulus of a material 
+58. be able to calculate the elastic strain energy Eel in a deformed material sample, 
+using the equation xFEel ∆=∆ 2
+1 , and from the area under the force-extension 
+graph 
+  The estimation of area and hence energy change for both linear and non-linear 
+force-extension graphs is expected. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+14 
+Topic 5: Waves and Particle Nature of Light 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+determining the refractive index of solids and liquids, measuring the focal length of 
+a lens, and using models of structures to investigate stress concentrations. 
+Mathematical skills that could be developed in this topic include using calculators to 
+handle sin x, identifying uncertainties in measurements and using simple 
+techniques to determine uncertainty when data are combined. 
+This topic may be studied using applications that relate to waves and light, for 
+example medical physics. 
+ 
+Students should: 
+59. understand the terms amplitude, frequency, period, speed and wavelength 
+60. be able to use the wave equation v = fλ 
+61. be able to describe longitudinal waves in terms of pressure variation and the 
+displacement of molecules 
+62. be able to describe transverse waves 
+63. be able to draw and interpret graphs representing transverse and longitudinal 
+waves including standing/stationary waves 
+64. CORE PRACTICAL 6: Determine the speed of sound in air using a  
+2-beam oscilloscope, signal generator, speaker and microphone. 
+65. know and understand what is meant by wavefront, coherence, path difference, 
+superposition, interference and phase 
+66. be able to use the relationship between phase difference and path difference 
+67. know what is meant by a standing/stationary wave and understand how such a 
+wave is formed, know how to identify nodes and antinodes 
+68. be able to use the equation for the speed of a transverse wave on a string 
+µ
+Tv =  
+69. CORE PRACTICAL 7: Investigate the effects of length, tension and mass 
+per unit length on the frequency of a vibrating string or wire. 
+70. be able to use the equation intensity of radiation 
+A
+PI =  
+71. know and understand that at the interface between medium 1 and medium 2 
+  n1sin θ1= n2 sin θ2 where refractive index is 
+v
+cn =  
+72. be able to calculate critical angle using 
+nC 1sin =  
+73. be able to predict whether total internal reflection will occur at an interface 
+74. understand how to measure the refractive index of a solid material 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+15 
+ 
+Students should: 
+75. understand the term focal length of converging and diverging lenses 
+76. be able to use ray diagrams to trace the path of light through a lens and locate 
+the position of an image 
+77. be able to use the equation power of a lens 
+fP 1=  
+78. understand that for thin lenses in combination P = P1+P2+P3+… 
+79. know and understand the terms real image and virtual image 
+80. be able to use the equation 
+fvu
+111 =+  for a thin converging or diverging lens 
+with the real is positive convention 
+81. know and understand that magnification = image height/object height and 
+u
+vm =  
+82. understand what is meant by plane polarisation 
+83. understand what is meant by diffraction and use Huygens’ construction to 
+explain what happens to a wave when it meets a slit or an obstacle 
+84.  be able to use nλ = dsinθ for a diffraction grating 
+85. CORE PRACTICAL 8: Determine the wavelength of light from a laser or 
+other light source using a diffraction grating. 
+86. understand how diffraction experiments provide evidence for the wave nature of 
+electrons 
+87.  be able to use the de Broglie equation 
+p
+h=λ  
+88. understand that waves can be transmitted and reflected at an interface 
+between media 
+89. understand how a pulse-echo technique can provide information about the 
+position of an object and how the amount of information obtained may be 
+limited by the wavelength of the radiation or by the duration of pulses 
+90. understand how the behaviour of electromagnetic radiation can be described in 
+terms of a wave model and a photon model, and how these models developed 
+over time 
+91.  be able to use the equation E = hf, that relates the photon energy to the wave 
+frequency 
+92. understand that the absorption of a photon can result in the emission of a 
+photoelectron 
+93. understand the terms threshold frequency and work function and be able to use 
+the equation 2
+max2
+1 mvhf += φ  
+94. be able to use the electronvolt (eV) to express small energies 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+16 
+ 
+Students should: 
+95. understand how the photoelectric effect provides evidence for the particle 
+nature of electromagnetic radiation 
+96. understand atomic line spectra in terms of transitions between discrete energy 
+levels and understand how to calculate the frequency of radiation that could be 
+emitted or absorbed in a transition between energy levels. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+17 
+Topic 6: Further Mechanics 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+investigating the effect of mass, velocity and radius of orbit on centripetal force. 
+Mathematical skills that could be developed in this topic include translating between 
+degrees and radians and using trigonometric functions. 
+This topic may be studied using applications that relate to mechanics, for example, 
+transportation. 
+ 
+Students should: 
+97. understand how to use the equation impulse = F∆t =∆p (Newton’s second law of 
+motion) 
+98. CORE PRACTICAL 9: Investigate the relationship between the force 
+exerted on an object and its change of momentum. 
+99. understand how to apply conservation of linear momentum to problems in two 
+dimensions 
+100. CORE PRACTICAL 10: Use ICT to analyse collisions between small 
+spheres, e.g. ball bearings on a table top. 
+101. understand how to determine whether a collision is elastic or inelastic 
+102. be able to derive and use the equation 
+m
+pEk
+2
+2
+=  for the kinetic energy of a  
+non-relativistic particle 
+103. be able to express angular displacement in radians and in degrees, and convert 
+between these units 
+104. understand what is meant by angular velocity and be able to use the equations 
+rv ω= and 
+ω
+π2=T  
+105. be able to use vector diagrams to derive the equations for centripetal 
+acceleration 2
+2
+ωrr
+va ==  and understand how to use these equations 
+106. understand that a resultant force (centripetal force) is required to produce and 
+maintain circular motion 
+107. be able to use the equations for centripetal force 2
+2
+ωmrr
+mvmaF ===  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+18 
+Topic 7: Electric and Magnetic Fields 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+using a coulomb meter to measure charge stored and using an electronic balance to 
+measure the force between two charges. 
+Mathematical skills that could be developed in this topic include sketching 
+relationships which are modelled by y = k/x, and y = k/x2, using logarithmic plots to 
+test exponential and power law variations, interpreting logarithmic plots and 
+sketching relationships that are modelled by y = e-x. 
+This topic may be studied using applications that relate to fields, for example, 
+communications and display techniques. 
+ 
+Students should: 
+108. understand that an electric field (force field) is defined as a region where a 
+charged particle experiences a force 
+109. understand that electric field strength is defined as 
+Q
+FE =  and be able to use 
+this equation 
+110. be able to use the equation 2
+0
+21
+4 r
+QQF πε= , for the force between two charges 
+111. be able to use the equation 2
+04 r
+QE πε=  for the electric field due to a point 
+charge 
+112. know and understand the relation between electric field and electric potential 
+113. be able to use the equation 
+d
+VE =  for an electric field between parallel plates 
+114. be able to use 
+r
+QV
+04πε=  for a radial field 
+115. be able to draw and interpret diagrams using field lines and equipotentials to 
+describe radial and uniform electric fields 
+116. understand that capacitance is defined as 
+V
+QC =  and be able to use this 
+equation 
+117. be able to use the equation QVW 2
+1= for the energy stored by a capacitor, be 
+able to derive the equation from the area under a graph of potential difference 
+against charge stored and be able to derive and use the equations 
+2
+2
+1 CVW = and 
+C
+QW
+2
+2
+1
+=  
+118. be able to draw and interpret charge and discharge curves for resistor capacitor 
+circuits and understand the significance of the time constant RC 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+19 
+ 
+Students should: 
+119. CORE PRACTICAL 11: Use an oscilloscope or data logger to display and 
+analyse the potential difference (p.d.) across a capacitor as it charges 
+and discharges through a resistor. 
+120. be able to use the equation Q = Q0e-t/RC and derive and use related equations 
+for exponential discharge in a resistor-capacitor circuit, 
+I = I0 e-t/RC, and V = V0 e-t/RC and the corresponding log equations 
+RC
+tQQ −= 0lnln , 
+RC
+tII −= 0lnln  and 
+RC
+tVV −= 0lnln   
+121. understand and use the terms magnetic flux density B, flux φ and  
+flux linkage Nφ 
+122. be able to use the equation F = Bqv sinθ and apply Fleming’s left-hand rule to 
+charged particles moving in a magnetic field 
+123. be able to use the equation F = BIl sinθ and apply Fleming’s left-hand rule to 
+current carrying conductors in a magnetic field 
+124. understand the factors affecting the e.m.f. induced in a coil when there is 
+relative motion between the coil and a permanent magnet 
+125. understand the factors affecting the e.m.f. induced in a coil when there is a 
+change of current in another coil linked with this coil 
+126. understand how to use Lenz’s law to predict the direction of an induced e.m.f., 
+and how the prediction relates to energy conservation 
+127. understand how to use Faraday’s law to determine the magnitude of an induced 
+e.m.f. and be able to use the equation that combines Faraday’s and Lenz's laws 
+E 
+t
+N
+d
+)(d φ−=   
+128. understand what is meant by the terms frequency, period, peak value and root-
+mean-square value when applied to alternating currents and potential 
+differences 
+129. be able to use the equations 
+2
+0VVrms =  and 
+2
+0IIrms =  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+20 
+Topic 8: Nuclear and Particle Physics 
+Mathematical skills that could be developed in this topic include using appropriate 
+units in calculations. 
+ 
+Students should: 
+130. understand what is meant by nucleon number (mass number) and proton 
+number (atomic number) 
+131. understand how large-angle alpha particle scattering gives evidence for a 
+nuclear model of the atom and how our understanding of atomic structure has 
+changed over time 
+132. understand that electrons are released in the process of thermionic emission 
+and how they can be accelerated by electric and magnetic fields 
+133. understand the role of electric and magnetic fields in particle accelerators (linac 
+and cyclotron) and detectors (general principles of ionisation and deflection 
+only) 
+134. be able to derive and use the equation 
+BQ
+pr = for a charged particle in a 
+magnetic field 
+135. be able to apply conservation of charge, energy and momentum to interactions 
+between particles and interpret particle tracks 
+136. understand why high energies are required to investigate the structure of 
+nucleons 
+137. be able to use the equation ∆E = c2∆m in situations involving the creation and 
+annihilation of matter and antimatter particles 
+138. be able to use MeV and GeV (energy) and MeV/c2, GeV/c2 (mass) and convert 
+between these and SI units 
+139. understand situations in which the relativistic increase in particle lifetime is 
+significant (use of relativistic equations not required) 
+140. know that in the standard quark-lepton model particles can be classified as: 
+● baryons (e.g. neutrons and protons) which are made from three quarks 
+● mesons (e.g. pions) which are made from a quark and an antiquark 
+● leptons (e.g. electrons and neutrinos) which are fundamental particles 
+● photons 
+ and that the symmetry of the model predicted the top quark 
+141. know that every particle has a corresponding antiparticle and be able to use the 
+properties of a particle to deduce the properties of its antiparticle and vice versa 
+142. understand how to use laws of conservation of charge, baryon number and 
+lepton number to determine whether a particle interaction is possible 
+143. be able to write and interpret particle equations given the relevant particle 
+symbols. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+21 
+Topic 9: Thermodynamics 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+investigating the relationship between the volume and temperature of a fixed mass 
+of gas. 
+Mathematical skills that could be developed in this topic include substituting 
+numerical values into algebraic equations using appropriate units for physical 
+quantities. 
+This topic may be studied using applications that relate to thermodynamics, for 
+example space technology. 
+ 
+Students should: 
+144. be able to use the equations ΔE = mcΔθ and ΔE = LΔm 
+145. CORE PRACTICAL 12: Calibrate a thermistor in a potential divider circuit 
+as a thermostat. 
+146. CORE PRACTICAL 13: Determine the specific latent heat of a phase 
+change. 
+147. understand the concept of internal energy as the random distribution of 
+potential and kinetic energy amongst molecules 
+148. understand the concept of absolute zero and how the average kinetic energy of 
+molecules is related to the absolute temperature 
+149. be able to derive and use the equation ><= 2
+3
+1 cNmpV  using the kinetic theory 
+model  
+150. be able to use the equation pV = NkT for an ideal gas 
+151. CORE PRACTICAL 14: Investigate the relationship between pressure 
+and volume of a gas at fixed temperature. 
+152. be able to derive and use the equation kTcm 2
+32
+2
+1 =><  
+153. understand what is meant by a black body radiator and be able to interpret 
+radiation curves for such a radiator 
+154. be able to use the Stefan-Boltzmann law equation L = σAT4 for black body 
+radiators 
+155. be able to use Wien’s law equation λmaxT = 2.898 x 10-3 m K for black body 
+radiators. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+22 
+Topic 10: Space 
+Mathematical skills that could be developed in this topic include using 
+approximations and sketching relationships which are modelled by y = k/x2. 
+This topic may be studied using contexts such as the formation and evolution of 
+stars and the history and future of the universe. 
+ 
+Students should: 
+156. be able to use the equation, intensity 24 d
+LI π=  where L is luminosity  
+and d is distance from the source 
+157. understand how astronomical distances can be determined using trigonometric 
+parallax 
+158. understand how astronomical distances can be determined using measurements 
+of intensity received from standard candles (objects of known luminosity) 
+159. be able to sketch and interpret a simple Hertzsprung-Russell diagram that 
+relates stellar luminosity to surface temperature 
+160. understand how to relate the Hertzsprung-Russell diagram to the life cycle of 
+stars 
+161. understand how the movement of a source of waves relative to an 
+observer/detector gives rise to a shift in frequency (Doppler effect) 
+162. be able to use the equations for redshift 
+c
+v
+f
+fz ≈∆≈∆= λ
+λ  for a source of 
+electromagnetic radiation moving relative to an observer and v = H0d for 
+objects at cosmological distances 
+163. understand the controversy over the age and ultimate fate of the universe 
+associated with the value of the Hubble constant and the possible existence of 
+dark matter. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+23 
+Topic 11: Nuclear Radiation 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+measuring the half-life of a radioactive material. 
+Mathematical skills that could be developed in this topic include applying the 
+concepts underlying calculus (but without requiring the explicit use of derivatives or 
+integrals) by solving equations involving rates of change, for example. Δx /Δt = –λx 
+using a graphical method or spreadsheet modelling and understanding probability 
+in the context of radioactive decay. 
+This topic may be studied using applications that relate to nuclear radiation, for 
+example nuclear power stations and medical physics. 
+ 
+Students should: 
+164. understand the concept of nuclear binding energy and be able to use the 
+equation ΔE = c2Δm in calculations of nuclear mass (including mass deficit) and 
+energy 
+165. use the atomic mass unit (u) to express small masses and convert between this 
+and SI units 
+166. understand the processes of nuclear fusion and fission with reference to the 
+binding energy per nucleon curve 
+167. understand the mechanism of nuclear fusion and the need for very high 
+densities of matter and very high temperatures to bring about and maintain 
+nuclear fusion 
+168. understand that there is background radiation and how to take appropriate 
+account of it in calculations 
+169. understand the relationships between the nature, penetration, ionising ability 
+and range in different materials of nuclear radiations (alpha, beta and gamma) 
+170. be able to write and interpret nuclear equations given the relevant particle 
+symbols 
+171. CORE PRACTICAL 15: Investigate the absorption of gamma radiation by 
+lead. 
+172. understand the spontaneous and random nature of nuclear decay 
+173. be able to determine the half-lives of radioactive isotopes graphically and be 
+able to use the equations for radioactive decay: 
+activity NA λ= , Nt
+N λ−=d
+d , 
+21
+2ln
+t=λ , N = N0 e-λt and A = A0 e-λt and  
+derive and use the corresponding log equations. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+24 
+Topic 12: Gravitational Fields 
+Mathematical skills that could be developed in this topic include sketching 
+relationships that are modelled by y = k/x, y = k/x2. 
+ 
+Students should: 
+174. understand that a gravitational field (force field) is defined as a region where a 
+mass experiences a force 
+175. understand that gravitational field strength is defined as 
+m
+Fg =  and be able to 
+use this equation 
+176. be able to use the equation 2
+21
+r
+mGmF =  (Newton’s law of universal gravitation) 
+177. be able to derive and use the equation 2r
+Gmg =  for the gravitational field due to 
+a point mass 
+178. be able to use the equation 
+r
+GmVgrav
+−=  for a radial gravitational field 
+179. be able to compare electric fields with gravitational fields 
+180. be able to apply Newton’s laws of motion and universal gravitation to orbital 
+motion. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+25 
+Topic 13: Oscillations 
+In order to develop their practical skills, students should be encouraged to carry out 
+a range of practical experiments related to this topic. Possible experiments include 
+measuring gravitational field strength using a simple pendulum and measuring a 
+spring constant from simple harmonic motion. 
+Mathematical skills that could be developed in this topic include sketching 
+relationships that are modelled by y = sin x, y = cos x. 
+ 
+Students should: 
+181. understand that the condition for simple harmonic motion is F = − kx, and hence 
+understand how to identify situations in which simple harmonic motion will 
+occur 
+182. be able to use the equations a = − ω2x, x = Acos ωt, v = − Aω sin ωt, 
+a = − Aω2 cos ωt, and 
+ω
+π21 == fT  and ω = 2πf as applied to a simple  
+harmonic oscillator 
+183. be able to use equations for a simple harmonic oscillator 
+k
+mT π2= , and a simple pendulum  
+g
+lT π2=  
+184. be able to draw and interpret a displacement–time graph for an object 
+oscillating and know that the gradient at a point gives the velocity at that point 
+185. be able to draw and interpret a velocity–time graph for an oscillating object and 
+know that the gradient at a point gives the acceleration at that point 
+186. understand what is meant by resonance 
+187. CORE PRACTICAL 16: Determine the value of an unknown mass using 
+the resonant frequencies of the oscillation of known masses. 
+188. understand how to apply conservation of energy to damped and undamped 
+oscillating systems 
+189. understand the distinction between free and forced oscillations 
+190. understand how the amplitude of a forced oscillation changes at and around the 
+natural frequency of a system and know, qualitatively, how damping affects 
+resonance 
+191. understand how damping and the plastic deformation of ductile materials reduce 
+the amplitude of oscillation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+26 
+Salters Horners approach 
+ 
+The following section shows how the course may be taught using the Salters 
+Horners (SHAP) context-led approach. The subset of content required for the 
+Advanced Subsidiary GCE qualification is listed on pages 27–35, while the 
+remainder of the content required for this qualification is listed on pages 36–44. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+27 
+Working as a Physicist 
+Throughout their study of physics at this level, students should develop their 
+knowledge and understanding of what it means to work scientifically. They should 
+also develop their competence in manipulating quantities and their units, including 
+making estimates. They should experience a wide variety of practical work, giving 
+them opportunities to develop their practical and investigative skills by planning, 
+carrying out and evaluating experiments. Through studying a range of examples, 
+contexts and applications of physics, students should become increasingly 
+knowledgeable of the ways in which the scientific community, and society as a 
+whole, use scientific ideas and methods, and how the professional scientific 
+community functions. They should develop their abilities to communicate their 
+knowledge and understanding of physics in ways that are appropriate to the 
+content and to the audience. 
+It is not intended that this part of the specification is taught as a discrete topic. 
+Rather, the knowledge and skills specified here should pervade the entire course 
+and should be taught using examples and applications from throughout the rest of 
+the specification. 
+ 
+Students should: 
+1. know and understand the distinction between base and derived quantities and 
+their SI units 
+2. be able to demonstrate their knowledge of practical skills and techniques for both 
+familiar and unfamiliar experiments 
+3. be able to estimate values for physical quantities and use their estimate to solve 
+problems 
+4.  understand the limitations of physical measurement and apply these limitations 
+to practical situations 
+5. be able to communicate information and ideas in appropriate ways using 
+appropriate terminology 
+6. understand applications and implications of science and evaluate their associated 
+benefits and risks 
+7. understand the role of the scientific community in validating new knowledge and 
+ensuring integrity 
+8. understand the ways in which society uses science to inform decision making 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+28 
+Higher, Faster, Stronger (HFS) 
+An exploration of the physics behind a variety of sports, using use video clips, ICT 
+and laboratory practical activities: 
+● graphs and equations of motion in sprinting and jogging 
+● work and power in weightlifting 
+● forces and equilibrium in rock climbing 
+● moments and equilibrium in gymnastics 
+● forces and projectiles in tennis and ski-jumping 
+● force and energy in bungee jumping. 
+There are opportunities for students to collect and analyse data using a variety of 
+methods, and to communicate their knowledge and understanding using 
+appropriate terminology. 
+Students should: 
+9. be able to use the equations for uniformly accelerated motion in one dimension: 
+asuv
+atuts
+atuv
+tvus
+2
+2
+)(
+22
+2
+2
+1
++=
++=
++=
++=
+ 
+10. be able to draw and interpret displacement-time, velocity-time and 
+acceleration-time graphs 
+11. know the physical quantities derived from the slopes and areas of displacement-
+time, velocity-time and acceleration-time graphs, including cases of non-uniform 
+acceleration, and understand how to use the quantities 
+12. understand scalar and vector quantities, and know examples of each type of 
+quantity and recognise vector notation 
+13. be able to resolve a vector into two components at right angles to each other by 
+drawing and by calculation 
+14. be able to find the resultant of two coplanar vectors at any angle to each other by 
+drawing, and at right angles to each other by calculation 
+15. understand how to make use of the independence of vertical and horizontal 
+motion of a projectile moving freely under gravity 
+16. be able to draw and interpret free-body force diagrams to represent forces on a 
+particle or on an extended but rigid body 
+17. be able to use the equation ∑F = ma, and understand how to use this equation 
+in situations where m is constant (Newton’s second law of motion), including 
+Newton’s first law of motion where a = 0, objects at rest or travelling at 
+constant velocity 
+  Use of the term terminal velocity is expected 
+18. be able to use the equations for gravitational field strength 
+m
+Fg =  and  
+weight W = mg 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+29 
+ 
+Students should: 
+19. CORE PRACTICAL 1: Determine the acceleration of a freely-falling 
+object. 
+20. know and understand Newton’s third law of motion, and know the properties of 
+pairs of forces in an interaction between two bodies 
+21. understand that momentum is defined as p = mv 
+22. know the principle of conservation of linear momentum, understand how to 
+relate this to Newton’s laws of motion and understand how to apply this to 
+problems in one dimension 
+23. be able to use the equation for the moment of a force, moment of force = Fx 
+where x is the perpendicular distance between the line of action of the force and 
+the axis of rotation 
+24. be able to use the concept of centre of gravity of an extended body and apply 
+the principle of moments to an extended body in equilibrium 
+25. be able to use the equation for work ∆W = F∆s, including calculations when the 
+force is not along the line of motion 
+26. be able to use the equation 2
+2
+1 mvEk = for the kinetic energy of a body 
+27. be able to use the equation ∆Egrav = mg∆h for the difference in gravitational 
+potential energy near the Earth’s surface 
+28. know, and understand how to apply, the principle of conservation of energy, 
+including use of work done, gravitational potential energy and kinetic energy 
+29. be able to use the equations relating power, time and energy transferred or 
+work done 
+  
+t
+EP =  and 
+t
+WP =  
+30. be able to use the equations 
+ 
+inputenergy  total
+outputenergy  useful  efficiency =  
+and 
+ 
+inputpower   total
+outputpower  usefulefficiency =  
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+30 
+The Sound of Music (MUS) 
+A study of music and recorded sound, focusing on the production of sound by 
+musical instruments and the operation of a CD/DVD player: 
+● synthesised and 'natural' sounds 
+● travelling waves and standing/stationary waves in string and wind instruments 
+● reading a CD/DVD by laser. 
+Waves and photons are used to model the behaviour of light. 
+There are opportunities for students to develop ICT skills and other skills relating to 
+investigation and to communication. 
+ 
+Students should: 
+59.  understand the terms amplitude, frequency, period, speed and wavelength 
+60.  be able to use the wave equation v = f λ 
+61.  be able to describe longitudinal waves in terms of pressure variation and the 
+displacement of molecules 
+62.  be able to describe transverse waves 
+63.  be able to draw and interpret graphs representing transverse and longitudinal 
+waves including standing/stationary waves 
+64. CORE PRACTICAL 6: Determine the speed of sound in air using a 2-beam 
+oscilloscope, signal generator, speaker and microphone. 
+65.  know and understand what is meant by wavefront, coherence, path difference, 
+superposition, interference and phase 
+66.  be able to use the relationship between phase difference and path difference 
+67.  know what is meant by a standing/stationary wave and understand how such a 
+wave is formed, know how to identify nodes and antinodes 
+68.  be able to use the equation for the speed of a transverse wave on a string  
+µ
+Tv =  
+69.  CORE PRACTICAL 7: Investigate the effects of length, tension and mass 
+per unit length on the frequency of a vibrating string or wire. 
+90.  understand how the behaviour of electromagnetic radiation can be described in 
+terms of a wave model and a photon model, and how these models developed 
+over time 
+91. be able to use the equation E = hf, that relates the photon energy to the wave 
+frequency 
+96.  understand atomic line spectra in terms of transitions between discrete energy 
+levels and understand how to calculate the frequency of radiation that could be 
+emitted or absorbed in a transition between energy levels. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+31 
+Good Enough to Eat (EAT) 
+A case study of the production of sweets and biscuits: 
+● measuring and controlling the flow of a viscous liquid 
+● mechanical testing of products 
+● using refractometry and polarimetry to monitor sugar concentration. 
+There are opportunities for students to develop practical techniques and thus to 
+carry out experimental and investigative activities. 
+ 
+Students should: 
+49.  be able to use the equation density 
+V
+m=ρ  
+50.  understand how to use the relationship upthrust = weight of fluid displaced 
+51.  a. be able to use the equation for viscous drag (Stokes’ Law), F = 6πηrv.  
+b. understand that this equation applies only to small spherical objects 
+moving at low speeds with laminar flow (or in the absence of turbulent 
+flow) and that viscosity is temperature dependent 
+52.  CORE PRACTICAL 4: Use a falling-ball method to determine the viscosity 
+of a liquid. 
+53.  be able to use the Hooke’s law equation, ∆F = k∆x, where k is the stiffness of 
+the object 
+55.  a. be able to draw and interpret force-extension and force-compression 
+graphs 
+b. understand the terms limit of proportionality, elastic limit, yield point, 
+elastic deformation and plastic deformation and be able to apply them to 
+these graphs 
+71.  know and understand that at the interface between medium 1 and medium 2 
+n1sinθ1= n2sinθ2 where refractive index is 
+v
+cn =  
+72. be able to calculate critical angle using 
+nC 1sin =  
+73.  be able to predict whether total internal reflection will occur at an interface 
+74.  understand how to measure the refractive index of a solid material 
+82.  understand what is meant by plane polarisation. 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+32 
+Technology in Space (SPC) 
+The focus is on a satellite whose instruments are run from a solar power supply: 
+● illuminating solar cells 
+● operation of photocells 
+● design and operation of dc circuits 
+● combining sources of e.m.f. 
+Mathematical models are developed to describe ohmic behaviours and the variation 
+of resistance with temperature. Simple conceptual models are used for the flow of 
+charge in a circuit, for the operation of a photocell, and for the variation of 
+resistance with temperature. 
+Waves and photons are used to model the behaviour of light and there is some 
+discussion of the historical development of the photoelectric effect. 
+There are opportunities to develop ICT skills using the internet, spreadsheets and 
+software for data analysis and display. 
+ 
+Students should: 
+31.  understand that electric current is the rate of flow of charged particles and be 
+able to use the equation 
+t
+QI ∆
+∆=  
+32.  understand how to use the equation 
+Q
+WV =  
+33.  understand that resistance is defined by 
+I
+VR = and that Ohm’s law is a special 
+case when I ∝V for constant temperature 
+34.  understand how the distribution of current in a circuit is a consequence of 
+charge conservation 
+35.  understand how the distribution of potential differences in a circuit is a 
+consequence of energy conservation 
+36.  be able to derive the equations for combining resistances in series and parallel 
+using the principles of charge and energy conservation, and be able to use 
+these equations 
+37.  be able to use the equations P = VI, W = VIt and be able to derive and use 
+related equations, e.g. P = I2R and 
+R
+VP
+2
+=  
+38.  understand how to sketch, recognise and interpret current-potential difference 
+graphs for components, including ohmic conductors, filament bulbs, 
+thermistors and diodes 
+45.  know the definition of electromotive force (e.m.f.) and understand what is 
+meant by internal resistance and know how to distinguish between e.m.f. and 
+terminal potential difference 
+46.  CORE PRACTICAL 3: Determine the e.m.f. and internal resistance of an 
+electrical cell. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+33 
+ 
+Students should: 
+47.  understand how changes of resistance with temperature may be modelled in 
+terms of lattice vibrations and number of conduction electrons and understand 
+how to apply this model to metallic conductors and negative temperature 
+coefficient thermistors 
+48.  understand how changes of resistance with illumination may be modelled in 
+terms of the number of conduction electrons and understand how to apply this 
+model to LDRs 
+70.  be able to use the equation intensity of radiation 
+A
+PI =  
+92.  understand that the absorption of a photon can result in the emission of a 
+photoelectron 
+93.  understand the terms threshold frequency and work function and be able to use 
+the equation 2
+max2
+1 mvhf += φ  
+94.  be able to use the electronvolt (eV) to express small energies 
+95.  understand how the photoelectric effect provides evidence for the particle nature 
+of electromagnetic radiation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+34 
+Digging up the Past (DIG) 
+The excavation of an archaeological site, from geophysical surveying to artefact 
+analysis: 
+● resistivity surveying 
+● artefact analysis by X-ray imaging and diffraction 
+● artefact analysis by electron microscopy. 
+Waves are used to model the behaviour of electromagnetic radiation and electrons. 
+Through a variety of practical and ICT activities, there are opportunities to revisit, 
+review and build on work from previous topics. 
+ 
+Students should: 
+39.  be able to use the equation  
+A
+ρlR =  
+40.  CORE PRACTICAL 2: Determine the electrical resistivity of a material. 
+41.  be able to use I = nqvA to explain the large range of resistivities of different 
+materials 
+42.  understand how the potential along a uniform current-carrying wire varies with 
+the distance along it 
+43.  understand the principles of a potential divider circuit and understand how to 
+calculate potential differences and resistances in such a circuit 
+44. be able to analyse potential divider circuits where one resistance is variable 
+including thermistors and light dependent resistors (LDRs) 
+83. understand what is meant by diffraction and use Huygens’ construction to 
+explain what happens to a wave when it meets a slit or an obstacle 
+84.  be able to use nλ = dsinθ for a diffraction grating 
+85.  CORE PRACTICAL 8: Determine the wavelength of light from a laser or 
+other light source using a diffraction grating. 
+86.  understand how diffraction experiments provide evidence for the wave nature 
+of electrons 
+87. be able to use the de Broglie equation 
+p
+h=λ  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+35 
+Spare-Part Surgery (SUR) 
+A study of the physics associated with spare-part surgery for joint replacements 
+and lens implants: 
+● mechanical properties of bone and replacement materials 
+● lens implants and the optical system of the eye 
+● 'designer' materials for medical use 
+● ultrasound imaging. 
+Through a variety of practical and ICT activities, there are opportunities to revisit, 
+review and build on work from previous topics. 
+Students should: 
+54. understand how to use the relationships: 
+● (tensile or compressive) stress = force/cross-sectional area 
+● (tensile or compressive) strain = change in length/original length 
+● Young modulus = stress/strain 
+56.  be able to draw and interpret tensile or compressive stress-strain graphs, and 
+understand the term breaking stress 
+57.  CORE PRACTICAL 5: Determine the Young modulus of a material. 
+58.  be able to calculate the elastic strain energy Eel in a deformed material sample, 
+using the equation xFEel ∆=∆ 2
+1 , and from the area under the force-extension 
+graph 
+  The estimation of area and hence energy change for both linear and non-linear 
+force-extension graphs is expected 
+75.  understand the term focal length of converging and diverging lenses 
+76. be able to use ray diagrams to trace the path of light through a lens and locate 
+the position of an image 
+77.  be able to use the equation power of a lens 
+fP 1=  
+78. understand that for thin lenses in combination P = P1+P2+P3+… 
+79.  know and understand the terms real image and virtual image 
+80.  be able to use the equation 
+fvu
+111 =+  for a thin converging or diverging lens 
+with the real-is-positive convention 
+81.  know and understand that magnification = image height/object height and  
+u
+vm =  
+88.  understand that waves can be transmitted and reflected at an interface 
+between media 
+89.  understand how a pulse-echo technique can provide information about the 
+position of an object and how the amount of information obtained may be 
+limited by the wavelength of the radiation or by the duration of pulses. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+36 
+Transport on Track (TRA) 
+A study of a modern rail transport system with an emphasis on safety and control: 
+● track circuits and signalling 
+● sensing speed 
+● mechanical braking 
+● regenerative and eddy current braking 
+● crash-proofing. 
+Students use mathematical models to describe the behaviour of moving vehicles 
+and to model electromagnetic induction, capacitor discharge and AC circuits. 
+There are opportunities to develop ICT skills. 
+ 
+Students should: 
+97.  understand how to use the equation impulse = F∆t = ∆p (Newton’s second law 
+of motion) 
+98.  CORE PRACTICAL 9: Investigate the relationship between the force 
+exerted on an object and its change of momentum. 
+101. understand how to determine whether a collision is elastic or inelastic 
+116. understand that capacitance is defined as 
+V
+QC = and be able to use this 
+equation 
+118. be able to draw and interpret charge and discharge curves for resistor–capacitor 
+circuits and understand the significance of the time constant RC 
+119.  CORE PRACTICAL 11: Use an oscilloscope or data logger to display and 
+analyse the potential difference (p.d.) across a capacitor as it charges 
+and discharges through a resistor. 
+120.  be able to use the equation Q = Q0e-t/RC and derive and use related equations 
+for exponential discharge in a resistor-capacitor circuit, 
+I = I0 e-t/RC, and V = V0 e-t/RC and the corresponding log equations 
+RC
+tQQ −= 0lnln , 
+RC
+tII −= 0lnln  and 
+RC
+tVV −= 0lnln  
+121. understand and use the terms magnetic flux density B, flux φ and  
+flux linkage Nφ 
+123.  be able to use the equation F = BIl sinθ and apply Fleming’s left-hand rule to 
+current carrying conductors in a magnetic field 
+124. understand the factors affecting the e.m.f. induced in a coil when there is 
+relative motion between the coil and a permanent magnet 
+125. understand the factors affecting the e.m.f. induced in a coil when there is a 
+change of current in another coil linked with this coil 
+126.  understand how to use Lenz’s law to predict the direction of an induced e.m.f. 
+and how the prediction relates to energy conservation 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+37 
+ 
+Students should: 
+127. understand how to use Faraday’s law to determine the magnitude of an induced 
+e.m.f. and be able to use the equation that combines Faraday’s and Lenz’s laws 
+E 
+t
+N
+d
+)(d φ−=  
+128. understand what is meant by the terms frequency, period, peak value and root-
+mean-square value when applied to alternating currents and potential 
+differences 
+129. be able to use the equations 
+2
+0VVrms =  and 
+2
+0IIrms =  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+38 
+The Medium is the Message (MDM) 
+An exploration of the physics involved in a variety of modern communication and 
+display techniques: 
+● fibre optics and exponential attenuation 
+● CDD imaging 
+● cathode ray tube 
+● liquid crystal and LED displays. 
+There are opportunities to develop ICT skills and use computer simulations. 
+ 
+Students should: 
+108. understand that an electric field (force field) is defined as a region where a 
+charged particle experiences a force 
+109. understand that electric field strength is defined as 
+Q
+FE = and be able to use 
+this equation 
+112. know and understand the relation between electric field and electric potential 
+113. be able to use the equation 
+d
+VE = for an electric field between parallel plates 
+115. be able to draw and interpret diagrams using field lines and equipotentials to 
+describe radial and uniform electric fields 
+117. be able to use the equation QVW 2
+1= for the energy stored by a capacitor, be 
+able to derive the equation from the area under a graph of potential difference 
+against charge stored and be able to derive and use the equations 
+2
+2
+1 CVW = and 
+C
+QW
+2
+2
+1
+=  
+132. understand that electrons are released in the process of thermionic emission 
+and how they can be accelerated by electric and magnetic fields. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+39 
+Probing the Heart of Matter (PRO) 
+An area of fundamental physics that is the subject of current research, involving 
+the acceleration and detection of high-energy particles and the interpretation of 
+experiments: 
+● alpha scattering and the nuclear model of the atom 
+● accelerating particles to high energies 
+● detecting and interpreting the interactions between particles 
+● the quark-lepton model. 
+Students study the development of the nuclear model and the quark-lepton model 
+to describe matter on a subatomic scale. 
+There are opportunities to develop ICT skills. 
+ 
+Students should: 
+99. understand how to apply conservation of linear momentum to problems in 
+two dimensions 
+100. CORE PRACTICAL 10: Use ICT to analyse collisions between small 
+spheres, e.g. ball bearings on a table top. 
+102. be able to derive and use the equation 
+m
+pEk
+2
+2
+= for the kinetic energy of a 
+non-relativistic particle 
+103. be able to express angular displacement in radians and in degrees, and 
+convert between these units 
+104. understand what is meant by angular velocity and be able to use the 
+equations rv ω= and 
+ω
+π2=T  
+105. be able to use vector diagrams to derive the equations for centripetal 
+acceleration 2
+2
+ωrr
+va == and understand how to use these equations 
+106. understand that a resultant force (centripetal force) is required to produce 
+and maintain circular motion 
+107. be able to use the equations for centripetal force 
+2
+2
+ωmrr
+mvmaF ===  
+110. be able to use the equation 2
+0
+21
+4 r
+QQF πε= , for the force between two charges  
+111. be able to use the equation 2
+04 r
+QE πε=  for the electric field due to a point 
+charge 
+114. be able to use 
+r
+QV
+04πε=  for a radial field 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+40 
+ 
+Students should: 
+122. be able to use the equation F = Bqv sinθ and apply Fleming’s left-hand rule 
+to charged particles moving in a magnetic field 
+130. understand what is meant by nucleon number (mass number) and proton 
+number (atomic number) 
+131. understand how large-angle alpha particle scattering gives evidence for a 
+nuclear model of the atom and how our understanding of atomic structure 
+has changed over time 
+133. understand the role of electric and magnetic fields in particle accelerators 
+(linac and cyclotron) and detectors (general principles of ionisation and 
+deflection only) 
+134. be able to derive and use the equation 
+BQ
+pr = for a charged particle in a 
+magnetic field 
+135. be able to apply conservation of charge, energy and momentum to 
+interactions between particles and interpret particle tracks 
+136. understand why high energies are required to investigate the structure of 
+nucleons 
+137. be able to use the equation ∆E = c2∆m in situations involving the creation 
+and annihilation of matter and antimatter particles 
+138. be able to use MeV and GeV (energy) and MeV/c2, GeV/c2 (mass) and 
+convert between these and SI units 
+139. understand situations in which the relativistic increase in particle lifetime is 
+significant (use of relativistic equations not required) 
+140. know that in the standard quark-lepton model particles can be classified as: 
+● baryons (e.g. neutrons and protons) which are made from three quarks 
+● mesons (e.g. pions) which are made from a quark and an antiquark 
+● leptons (e.g. electrons and neutrinos) which are fundamental particles 
+● photons 
+   and that the symmetry of the model predicted the top quark 
+141.  know that every particle has a corresponding antiparticle and be able to use the 
+properties of a particle to deduce the properties of its antiparticle and vice 
+versa 
+142.  understand how to use laws of conservation of charge, baryon number and 
+lepton number to determine whether a particle interaction is possible 
+143. be able to write and interpret particle equations given the relevant particle 
+symbols. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+41 
+Build or Bust? (BLD) 
+A study of some aspects of building design, including withstanding earthquake 
+damage, vibration isolation and temperature control: 
+● earthquake detection 
+● vibration and resonance in structures 
+● damping vibration using ductile materials 
+● sensing temperature 
+● energy, temperature change and phase change. 
+The behaviour of oscillators is modelled using the mathematics of simple harmonic 
+motion, and physical models are used to explore the behaviour of structures. 
+Students should: 
+144. be able to use the equations ΔE = mcΔθ and ΔE = LΔm 
+145. CORE PRACTICAL 12: Calibrate a thermistor in a potential divider 
+circuit as a thermostat. 
+146. CORE PRACTICAL 13: Determine the specific latent heat of a phase 
+change. 
+181. understand that the condition for simple harmonic motion is F = − kx, and 
+hence understand how to identify situations in which simple harmonic motion 
+will occur 
+182. able to use the equations a = − ω2x, x = Acos ωt, v =  − Aω sin ωt, 
+a = − Aω2 cos ωt, and 
+ω
+π21 == fT  and ω = 2πf as applied to a simple harmonic 
+oscillator 
+183. be able to use equations for a simple harmonic oscillator 
+k
+mT π2= , and a simple pendulum  
+g
+lT π2=  
+184. be able to draw and interpret a displacement–time graph for an object 
+oscillating and know that the gradient at a point gives the velocity at that point 
+185. be able to draw and interpret a velocity–time graph for an oscillating object 
+and know that the gradient at a point gives the acceleration at that point 
+186. understand what is meant by resonance 
+187. CORE PRACTICAL 16: Determine the value of an unknown mass using 
+the resonant frequencies of the oscillation of known masses. 
+188. understand how to apply conservation of energy to damped and undamped 
+oscillating systems 
+189. understand the distinction between free and forced oscillations 
+190. understand how the amplitude of a forced oscillation changes at and around 
+the natural frequency of a system and know, qualitatively, how damping 
+affects resonance 
+191. understand how damping and the plastic deformation of ductile materials 
+reduce the amplitude of oscillation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+42 
+Reach for the Stars (STA) 
+The focus is on physical interpretation of astronomical observations, the formation 
+and evolution of stars, and the history and future of the universe: 
+● distances of stars 
+● masses of stars 
+● energy sources in stars 
+● star formation 
+● star death and the creation of chemical elements 
+● the history and future of the universe. 
+Students use the molecular kinetic theory of matter, and the Big Bang model of the 
+universe, and carry out mathematical modelling of gravitational force and 
+radioactive decay. 
+Students should: 
+147. understand the concept of internal energy as the random distribution of 
+potential and kinetic energy amongst molecules 
+148. understand the concept of absolute zero and how the average kinetic energy 
+of molecules is related to the absolute temperature 
+149. be able to derive and use the equation, ><= 2
+3
+1 cNmpV  using the kinetic 
+theory model 
+150. be able to use the equation pV = NkT for an ideal gas 
+151. CORE PRACTICAL 14: Investigate the relationship between pressure 
+and volume of a gas at fixed temperature. 
+152. be able to derive and use the equation kTcm 2
+32
+2
+1 =><  
+153. understand what is meant by a black body radiator and be able to interpret 
+radiation curves for such a radiator 
+154. be able to use the Stefan-Boltzmann law equation L = σAT4 for black body 
+radiators 
+155. be able to use Wien’s law equation λmaxT = 2.898 x 10-3 m K for black body 
+radiators 
+156. be able to use the equation 24 d
+LI π=  where L is luminosity and d is distance 
+from the source 
+157. understand how astronomical distances can be determined using trigonometric 
+parallax 
+158. understand how astronomical distances can be determined using 
+measurements of intensity received from standard candles (objects of known 
+luminosity) 
+159. be able to sketch and interpret a simple Hertzsprung-Russell diagram which 
+relates stellar luminosity to surface temperature 
+160. understand how to relate the Hertzsprung-Russell diagram to the life cycle of 
+stars 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+43 
+ 
+Students should: 
+161. understand how the movement of a source of waves relative to an 
+observer/detector gives rise to a shift in frequency (Doppler effect) 
+162. be able to use the equations for redshift 
+c
+v
+f
+fz ≈∆≈∆= λ
+λ  for a source of 
+electromagnetic radiation moving relative to an observer and v = H0d for 
+objects at cosmological distances 
+163. understand the controversy over the age and ultimate fate of the universe 
+associated with the value of the Hubble constant and the possible existence of 
+dark matter 
+164. understand the concept of nuclear binding energy, and be able to use the 
+equation ΔE = c2Δm in calculations of nuclear mass (including mass deficit) 
+and energy 
+165. use the atomic mass unit (u) to express small masses, and convert between 
+this and SI units 
+166. understand the processes of nuclear fusion and fission with reference to the 
+binding energy per nucleon curve 
+167. understand the mechanism of nuclear fusion and the need for very high 
+densities of matter and very high temperatures to bring about and maintain 
+nuclear fusion 
+168. understand that there is background radiation and how to take appropriate 
+account of it in calculations 
+169. understand the relationships between the nature, penetration, ionising ability 
+and range in different materials of nuclear radiations (alpha, beta and gamma) 
+170. be able to write and interpret nuclear equations given the relevant particle 
+symbols 
+171. CORE PRACTICAL 15: Investigate the absorption of gamma radiation 
+by lead. 
+172. understand the spontaneous and random nature of nuclear decay 
+173. be able to determine the half-lives of radioactive isotopes graphically and be 
+able to use the equations for radioactive decay: 
+activity NA λ= , Nt
+N λ−=d
+d , 
+21
+2ln
+t=λ , N = N0 e-λt and A = A0 e-λt  and  
+derive and use the corresponding log equations. 
+174. understand that a gravitational field (force field) is defined as a region where a 
+mass experiences a force 
+175. understand that gravitational field strength is defined as 
+m
+Fg =  and be able to 
+use this equation 
+176. be able to use the equation 2
+21
+r
+mGmF =  (Newton’s law of universal gravitation) 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+44 
+ 
+Students should: 
+177. be able to derive and use the equation 2r
+Gmg =  for the gravitational field due 
+to a point mass 
+178. be able to use the equation 
+rVgrav
+Gm−=  for a radial gravitational field 
+179. be able to compare electric fields with gravitational fields 
+180. be able to apply Newton’s laws of motion and universal gravitation to orbital 
+motion. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+45 
+Science Practical Endorsement 
+Overview 
+The assessment of practical skills is a compulsory 
+requirement of the course of study for A level qualifications 
+in biology, chemistry and physics. It will appear on all 
+students’ certificates as a separately reported result, 
+alongside the overall grade for the qualification. The 
+arrangements for the assessment of practical skills will be 
+common to all awarding organisations. These arrangements 
+include: 
+● A minimum of 12 practical activities to be carried out by 
+each student which, together, meet the requirements of 
+Appendices 5b (Practical skills identified for direct 
+assessment and developed through teaching and 
+learning) and 5c (Use of apparatus and techniques) 
+from the prescribed subject content, published by the 
+Department for Education. The required practical 
+activities will be defined by each awarding organisation. 
+● Teachers will assess students against Common Practical 
+Assessment Criteria (CPAC) issued by the awarding 
+organisations. The CPAC are based on the requirements 
+of Appendices 5b and 5c of the subject content 
+requirements published by the Department for 
+Education, and define the minimum standard required 
+for the achievement of a pass.  
+● Each student will keep an appropriate record of their 
+practical work, including their assessed practical 
+activities 
+● Students who demonstrate the required standard across 
+all the requirements of the CPAC will receive a ‘pass’ 
+grade 
+● There will be no separate assessment of practical skills 
+for AS qualifications. 
+● Students will answer questions in the AS and A level 
+examination papers that assess the requirements of 
+Appendix 5a (Practical skills identified for indirect 
+assessment and developed through teaching and 
+learning) from the prescribed subject content, published 
+by the Department for Education. These questions may 
+draw on, or range beyond, the practical activities 
+included in the specification. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+46 
+Setting practical work 
+Teaching and learning 
+Teachers should ensure that the core practicals listed in the 
+subject content are incorporated into teaching and learning 
+and that students carry them out. This is to support 
+development of competency for the practical endorsement 
+but also because students will be indirectly assessed on 
+their practical skills in the examinations. Teachers should 
+consider setting additional practical work to support 
+teaching and learning. 
+Teachers must devise and retain a teaching plan that shows 
+when practicals will be covered in teaching and learning. 
+Conditions for assessing practical work 
+Authenticity 
+Students and teachers must sign the Practical competency 
+authentication sheet (see Appendix 4). 
+Collaboration 
+Students may work in pairs on some practicals, where this 
+is appropriate, provided they are able to produce individual 
+evidence to meet the competency statements. 
+Feedback 
+Teachers may help students to understand instructions and 
+may provide feedback to support development of the 
+competencies. Teachers should be confident that students 
+have developed their skills and thus students should be able 
+to demonstrate the competencies independently by the end 
+of the course. 
+Resources 
+Students must have access to the equipment needed to 
+carry out the core practicals. Students must also have 
+access to IT and internet facilities. 
+Supervision 
+Teachers must ensure that students are supervised 
+appropriately. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+47 
+Evidence of practical work 
+Evidence should be collected of practical work that is 
+sufficient to show that the competencies have been 
+achieved. Evidence may take a variety of forms. 
+Students should attempt all 16 practicals given in the 
+qualification content. 
+Observations and notes by teachers 
+Teachers should observe sufficient student practicals to 
+ensure that competencies have been achieved. 
+Student records 
+Students should keep notes of their practical work sufficient 
+to show evidence of the practical competencies on making 
+and recording observations and researching, referencing 
+and reporting. 
+Assessing practical work 
+Teachers should make a judgement of student practical 
+competence using the Common Practical Assessment 
+Criteria on the following pages. Teachers should include any 
+comments on the Practical competency authentication sheet 
+(see Appendix 4) to justify the decision made. 
+The practical activities prescribed in the specification 
+provide opportunities for demonstrating competence in all 
+the skills identified, together with the use of apparatus and 
+techniques for each subject. However, students can also 
+demonstrate these competencies in any additional practical 
+activity undertaken throughout the course of study which 
+covers the requirements of Appendix 5c. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+48 
+Common Practical Assessment Criteria (CPAC) 
+Teachers must assess student practicals against the following competencies. 
+ 
+Criteria for the assessment of GCE Science practical competency for 
+Biology, Chemistry and Physics 
+Competency The criteria for a pass 
+In order to be awarded a Pass a learner must, by the end 
+of the practical science assessment, consistently and 
+routinely meet the criteria in respect of each competency 
+listed below. 
+A learner may demonstrate the competencies in any 
+practical activity undertaken as part of that assessment 
+throughout the course of study. 
+Learners may undertake practical activities in groups. 
+However, the evidence generated by each learner must 
+demonstrate that he or she independently meets the 
+criteria outlined below in respect of each competency. 
+Such evidence: 
+(a) will comprise of both the learner’s performance 
+during each practical activity and his or her 
+contemporaneous record of the work that he or she has 
+undertaken during that activity, and  
+(b) must include evidence of independent application of 
+investigative approaches and methods to practical work. 
+1. Follows written 
+procedures 
+a) Correctly follows written instructions to carry out the 
+experimental techniques or procedures. 
+2. Applies investigative 
+approaches and 
+methods when using 
+instruments and 
+equipment 
+a) Correctly uses appropriate instrumentation, 
+apparatus and materials (including ICT) to carry out 
+investigative activities, experimental techniques and 
+procedures with minimal assistance or prompting. 
+b) Carries out techniques or procedures methodically, in 
+sequence and in combination, identifying practical 
+issues and making adjustments when necessary. 
+c) Identifies and controls significant quantitative 
+variables where applicable, and plans approaches to 
+take account of variables that cannot readily be 
+controlled. 
+d) Selects appropriate equipment and measurement 
+strategies in order to ensure suitably accurate results. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+49 
+ 
+Criteria for the assessment of GCE Science practical competency for 
+Biology, Chemistry and Physics 
+3. Safely uses a range of 
+practical equipment 
+and materials 
+a)  Identifies hazards and assesses risks associated 
+with these hazards, making safety adjustments as 
+necessary, when carrying out experimental 
+techniques and procedures in the lab or field. 
+b)  Uses appropriate safety equipment and approaches 
+to minimise risks with minimal prompting. 
+ 
+4. Makes and records 
+observations 
+a)  Makes accurate observations relevant to the 
+experimental or investigative procedure. 
+b)  Obtains accurate, precise and sufficient data for 
+experimental and investigative procedures and 
+records this methodically using appropriate units 
+and conventions. 
+5. Researches, 
+references and reports 
+a)  Uses appropriate software and/or tools to process 
+data, carry out research and report findings. 
+b)  Cites sources of information demonstrating that 
+research has taken place, supporting planning and 
+conclusions. 
+ 
+ 
+Marking and standardisation 
+The practical work is assessed by teachers. Pearson will 
+support teachers in making judgements against the criteria 
+for assessment. 
+In coordination with other exam boards, Pearson will 
+monitor how schools provide students with opportunities to 
+develop and demonstrate the required practical skills and 
+how they mark the assessments. 
+Every school will be monitored at least once in a two-year 
+period in respect of at least one of the A level science 
+subjects. These monitoring visits will be coordinated by 
+JCQ, who will undertake communications with centres to 
+facilitate the allocation of exam board monitoring visits.  
+In common with other exam boards, Pearson will require 
+centres to provide a statement confirming they have taken 
+reasonable steps to secure that students: 
+● undertook the minimum number of practical activities, 
+and  
+● made a contemporaneous record of their work. 
+If a school fails to provide a statement, or provides a false 
+statement, this will be treated as malpractice and/or 
+maladministration. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+50 
+Students will only get a certificate for the practical 
+assessment if they achieve at least a grade E in the 
+examined part of the qualification. 
+Students who do not pass the practical assessment will 
+have a ‘Not Classified’ outcome included on their certificate 
+unless they were exempt from the assessment because of a 
+disability. 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that 
+compromises or seeks to compromise the process of 
+assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered 
+before the candidate has signed the declaration of 
+authentication form does not need to be reported to 
+Pearson. 
+Candidate malpractice found in controlled assessments after 
+the declaration of authenticity has been signed, and in 
+examinations must be reported to Pearson on a JCQ 
+Form M1 (available at www.jcq.org.uk/exams-
+office/malpractice
+). The completed form can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations 
+Team, Pearson, 190 High Holborn, London, WC1V 7BH. 
+Please provide as much information and supporting 
+documentation as possible. Note that the final decision 
+regarding appropriate sanctions lies with Pearson. 
+Failure to report candidate malpractice constitutes staff or 
+centre malpractice.  
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate 
+malpractice and maladministration of our qualifications. As 
+with candidate malpractice, staff and centre malpractice is 
+any act that compromises or seeks to compromise the 
+process of assessment or undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and 
+maladministration must be reported immediately, before 
+any investigation is undertaken by the centre, to Pearson 
+on a JCQ Form M2(a) (available at www.jcq.org.uk/exams-
+office/malpractice). The form, supporting documentation 
+and as much information as possible can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations 
+Team, Pearson, 190 High Holborn, London, WC1V 7BH. Note  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+51 
+that the final decision regarding appropriate sanctions lies 
+with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More detailed guidance on malpractice can be found in the 
+latest version of the document General and Vocational 
+Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at 
+www.jcq.org.uk/exams-office/malpractice. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+52 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+53 
+Assessment 
+Assessment summary 
+Summary of table of assessment 
+Students must complete all assessment in May/June in any single year. 
+Paper 1: Advanced Physics I  
+*Paper code: 9PH0/01 
+● Questions draw on content from the topics listed in the section 
+Qualification at a glance. 
+● Questions are broken down into a number of parts. 
+● Availability: May/June 
+● First assessment: 2017 
+● The assessment is 1 hour 45 minutes. 
+● The assessment consists of 90 marks. 
+30% of the 
+total 
+qualification 
+ 
+ 
+Paper 2: Advanced Physics II  
+*Paper code: 9PH0/02 
+● Questions draw on content from the topics listed in the section 
+Qualification at a glance. 
+● Questions are broken down into a number of parts. 
+● Availability: May/June 
+● First assessment: 2017 
+● The assessment is 1 hour 45 minutes. 
+● The assessment consists of 90 marks. 
+30% of the 
+total 
+qualification 
+ 
+ 
+Paper 3: General and Practical Principles in Physics  
+*Paper code: 9PH0/03 
+● Questions draw on content from any of the topics in the 
+specification. 
+● Questions are broken down into a number of parts. 
+● Questions may involve two or more topics. 
+● Availability: May/June 
+● First assessment: 2017 
+● The assessment is 2 hours 30 minutes. 
+● The assessment consists of 120 marks. 
+40% of the 
+total 
+qualification 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+54 
+ 
+Science Practical Endorsement**  
+*Paper code: 9PH0/04 
+• Internally assessed and externally moderated by Pearson. 
+• Availability: May/June 
+• First assessment: 2017 
+• The practical endorsement is teacher assessed against the Common Practical 
+Assessment Criteria (CPAC).  
+ 
+The sample assessment materials can be found in the Pearson Edexcel Level 3 
+Advanced GCE in Physics Sample Assessment Materials document. 
+*See Appendix 3: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+**Students will be assessed separately for the Science Practical Endorsement. 
+The Endorsement will not contribute to the overall grade for this qualification, but 
+the result will be recorded on the student’s certificate. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+55 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCE 
+AO1 Demonstrate knowledge and understanding of scientific ideas, 
+processes, techniques and procedures 31–33 
+AO2 Apply knowledge and understanding of scientific ideas, 
+processes, techniques and procedures: 
+● in a theoretical context 
+● in a practical context 
+● when handling qualitative data 
+● when handling quantitative data 
+41-43 
+AO3 Analyse, interpret and evaluate scientific information, ideas and 
+evidence, including in relation to issues, to: 
+● make judgements and reach conclusions 
+● develop and refine practical design and procedures 
+25-27 
+Total 100% 
+ 
+ 
+Breakdown of Assessment Objectives 
+ 
+Paper AO1 AO2 AO3 
+Total for all 
+Assessment 
+Objectives 
+Paper 1: Advanced Physics I 11–13% 12–14% 5–7% 30% 
+Paper 2: Advanced Physics II 11–13% 12–14% 5–7% 30% 
+Paper 3: General and 
+Practical Principles in Physics 
+8–10% 16–18% 13–15% 40% 
+Total for this qualification 31–33% 41–43% 25–27% 100% 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+56 
+Entry and assessment information 
+Student entry 
+Details of how to enter students for the examinations for 
+this qualification can be found in our UK Information 
+Manual. A copy is made available to all examinations 
+officers and is available on our website at: 
+www.edexcel.com/iwantto/Pages/uk-information-
+manual.aspx 
+Discount code and performance tables 
+Centres should be aware that students who enter for more 
+than one GCE qualification with the same discount code will 
+have only one of the grades they achieve counted for the 
+purpose of the school and college performance tables. This 
+will be the grade for the larger qualification (i.e. the A Level 
+grade rather than the AS grade). If the qualifications are 
+the same size, then the better grade will be counted (please 
+see Appendix 3: Codes). 
+Students should be advised that if they take two GCE 
+qualifications with the same discount code, colleges, 
+universities and employers they wish to progress to are 
+likely to take the view that this achievement is equivalent to 
+only one GCE. The same view may be taken if students take 
+two GCE qualifications that have different discount codes 
+but have significant overlap of content. Students or their 
+advisers who have any doubts about their subject 
+combinations should check with the institution they wish to 
+progress to before embarking on their programmes. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+57 
+Access arrangements, reasonable adjustments and 
+special consideration 
+Access arrangements are agreed before an assessment. 
+They allow students with special educational needs, 
+disabilities or temporary injuries to:  
+● access the assessment 
+● show what they know and can do without changing the 
+demands of the assessment. 
+The intention behind an access arrangement is to meet the 
+particular needs of an individual student with a disability 
+without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding 
+bodies comply with the duty under the Equality Act 2010 to 
+make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the 
+start of the course. Students will then know what is 
+available and have the access arrangement(s) in place for 
+assessment. 
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to 
+make reasonable adjustments where a person with a 
+disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is 
+required to take reasonable steps to overcome that 
+disadvantage. 
+A reasonable adjustment for a particular person may be 
+unique to that individual and therefore might not be in the 
+list of available access arrangements. 
+Whether an adjustment will be considered reasonable will 
+depend on a number of factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with 
+the disability and other students. 
+An adjustment will not be approved if it involves 
+unreasonable costs to the awarding organisation, 
+timeframes or affects the security or integrity of the 
+assessment. This is because the adjustment is not 
+‘reasonable’. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+58 
+Special consideration 
+Special consideration is a post-examination adjustment to a 
+student's mark or grade to reflect temporary injury, illness 
+or other indisposition at the time of the 
+examination/assessment, which has had, or is reasonably 
+likely to have had, a material effect on a candidate’s ability 
+to take an assessment or demonstrate their level of 
+attainment in an assessment. 
+Further information 
+Please see our website for further information about how to 
+apply for access arrangements and special consideration. 
+For further information about access arrangements, 
+reasonable adjustments and special consideration, please 
+refer to the JCQ website: www.jcq.org.uk. 
+Equality Act 2010 and Pearson’s equality policy 
+Equality and fairness are central to our work. Our equality 
+policy requires all students to have equal opportunity to 
+access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every 
+student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by 
+the Equality Act 2010) are not, when they are 
+undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that 
+characteristic 
+● all students achieve the recognition they deserve for 
+undertaking a qualification and that this achievement 
+can be compared fairly to the achievement of their 
+peers. 
+You can find details on how to make adjustments for 
+students with protected characteristics in the policy 
+document Access Arrangements, Reasonable Adjustments 
+and Special Considerations, which is on our website, 
+www.edexcel.com/Policies. 
+Synoptic assessment 
+Synoptic assessment requires students to work across 
+different parts of a qualification and to show their 
+accumulated knowledge and understanding of a topic or 
+subject area. 
+Synoptic assessment enables students to show their ability 
+to combine their skills, knowledge and understanding with 
+breadth and depth of the subject. 
+In this qualification, synoptic assessment can be found in  
+Paper 3: General and Practical Principles in Physics. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+59 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to 
+comply with the requirements of the current Code of 
+Practice published by the Office of Qualifications and 
+Examinations Regulation (Ofqual). 
+This qualification will be graded and certificated on a six-
+grade scale from A* to E using the total subject mark. 
+Individual papers are not graded. 
+The first certification opportunity for the Pearson Edexcel 
+Level 3 Advanced GCE in Physics will be 2017. 
+Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be 
+recorded on a certificate will receive an unclassified U 
+result. 
+Language of assessment 
+Assessment of this qualification will be available in English. 
+All student work must be in English. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+60 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+61 
+Other information 
+Student recruitment 
+Pearson follows the JCQ policy concerning recruitment to 
+our qualifications in that: 
+● they must be available to anyone who is capable of 
+reaching the required standard 
+● they must be free from barriers that restrict access and 
+progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this 
+qualification. 
+Students who would benefit most from studying this 
+qualification are likely to have a Level 2 qualification such 
+as a GCSE in Additional Science or Physics. 
+Progression 
+Students can progress from this qualification to: 
+● a range of different, relevant academic or vocational 
+higher education qualifications 
+● employment in a relevant sector 
+● further training. 
+Relationship between Advanced Subsidiary GCE  
+and Advanced GCE 
+The content for Advanced GCE in Physics includes all the 
+content studied at Advanced Subsidiary GCE. Advanced GCE 
+in Physics builds on the knowledge, skills, and 
+understanding achieved when studying the Advanced 
+Subsidiary GCE in Physics. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+62 
+Progression from Advanced Subsidiary GCE to 
+Advanced GCE 
+Students who have achieved the Advanced Subsidiary GCE 
+in Physics can progress to the Advanced GCE in Physics. 
+Students will have covered content common to both 
+qualifications but the Advanced GCE has additional content 
+that will need to be covered; all the assessment for the 
+Advanced GCE qualification must be taken at the end of the 
+course. 
+Relationship between GCSE and Advanced GCE 
+Students cover Key Stage 4 fundamental core concepts in 
+sciences at GCSE and continue to cover these concepts and 
+additional subject material in the Advanced GCE at 
+Key Stage 5. 
+Progression from GCSE to Advanced GCE 
+Students will draw on knowledge and understanding 
+achieved in GCSE Additional Science or GCSE Physics to 
+progress to an Advanced GCE in Physics qualification. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+63 
+ 
+Appendices 
+Appendix 1: Transferable skills 65 
+Appendix 2: Level 3 Extended Project qualification 67 
+Appendix 3: Codes 71 
+Appendix 4: Practical competency authentication sheet 73 
+Appendix 5: Working scientifically 75 
+Appendix 5a: Practical skills identified for indirect assessment 
+and developed through teaching and learning 77 
+Appendix 5b: Practical skills identified for direct assessment 
+and developed through teaching and learning 79 
+Appendix 5c: Use of apparatus and techniques 81 
+Appendix 5d: Mapping between Appendix 5c and core 
+practicals 83 
+Appendix 6: Mathematical skills and exemplifications 87 
+Appendix 7: Command words used in examination papers 93 
+Appendix 8: Formulae sheet 95 
+Appendix 9: Data sheet 103 
+Appendix 10: Uncertainties and practical work 105 
+Appendix 11: Support from the University of York 113 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+64 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+65 
+ 
+Appendix 1: Transferable skills 
+ 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines 
+skills, or competencies, as ‘the bundle of knowledge, attributes and capacities that 
+can be learned and that enable individuals to successfully and consistently perform 
+an activity or task and can be built upon and extended through learning.’ 
+[1] 
+To support the design of our qualifications, the Pearson Research Team selected 
+and evaluated seven global 21st-century skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the 
+most evidence-based and robust skills framework. We adapted the framework 
+slightly to include the Program for International Student Assessment (PISA) ICT 
+Literacy and Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: [2]  
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and  
+communicate. [3]  
+Interpersonal skills 
+● Communication – active listening, oral communication, written 
+communication, assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, 
+service orientation, self-presentation, social influence, conflict resolution and 
+negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+                                          
+[1]  OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+[2]  Koenig J A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop (National 
+Academies Press, 2011) 
+[3]  PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+66 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills are the skills that enable young people to face the demands of 
+further and higher education, as well as the demands of the workplace, and are 
+important in the teaching and learning of this qualification. We will provide teaching 
+and learning materials, developed with stakeholders, to support our qualifications. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+67 
+ 
+Appendix 2: Level 3 Extended Project 
+qualification 
+ 
+What is the Extended Project qualification? 
+The Extended Project is a standalone qualification that can be taken alongside 
+GCEs. It supports the development of independent learning skills and helps to 
+prepare students for their next step – whether that be university study or 
+employment. The qualification: 
+● is recognised by higher education for the skills it develops 
+● is worth half of an Advanced GCE qualification at grades to A*–E 
+● carries UCAS points for university entry. 
+The Extended Project encourages students to develop skills in the following areas: 
+research, critical thinking, extended writing and project management. Students 
+identify and agree a topic area of their choice (which may or may not be related to 
+a GCE subject they are already studying), guided by their teacher. 
+Students can choose from one of four approaches to produce: 
+● a dissertation (for example an investigation based on predominately secondary 
+research) 
+● an investigation/field study (for example a practical experiment) 
+● a performance (for example in music, drama or sport) 
+● an artefact (for example creating a sculpture in response to a client brief or 
+solving an engineering problem). 
+The qualification is non-examination assessment based and students are assessed 
+on the skills of managing, planning and evaluating their project. Students will 
+research their topic, develop skills to review and evaluate the information, and then 
+present the final outcome of their project. 
+Students: what they need to do 
+The Extended Project qualification requires students to: 
+● select a topic of interest for an in-depth study and negotiate the scope of the 
+project with their teacher 
+● identify and draft an objective for their project (for example in the form of a 
+question, hypothesis, challenge, outline of proposed performance, issue to be 
+investigated or commission for a client) and provide a rationale for their choice 
+● produce a plan for how they will deliver their intended objective 
+● conduct research as required by the project brief, using appropriate techniques 
+● carry out the project using tools and techniques safely 
+● share the outcome of the project using appropriate communication methods, 
+including a presentation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+68 
+Teachers: key information 
+● The Extended Project has 120 guided learning hours (GLH) consisting of: 
+o  a taught 40-GLH element that includes teaching the technical skills (for 
+example research skills) 
+o  a guided 80-GLH element that includes mentoring students through the 
+project work. 
+● Group work is acceptable, however it is important that each student provides 
+evidence of their own contribution and produces their own report. 
+● 100% externally moderated. 
+● Four Assessment Objectives: manage, use resources, develop and realise, 
+review. 
+● Can be run over 1, 1½ or 2 years. 
+● Can be submitted in January or June. 
+What is the Extended Project for physics? 
+The Extended Project creates the opportunity to develop transferable skills for 
+progression to higher education and to the workplace through the exploration of 
+either an area of personal interest, or a topic of interest, from within the physics 
+qualification content. 
+For example, physics students could choose to carry out an investigation that would 
+give them an opportunity to develop their skills in data collection, the development 
+and testing of hypotheses and the application of mathematical models in data 
+analysis. Alternatively, they could work on the design of an artefact or dissertation 
+as a way of exploring the use of physics in engineering contexts. 
+Skills developed 
+Through the Extended Project students will develop skills in the following areas: 
+● independent research skills, including skills in primary research and the 
+selection of appropriate methods for data collection 
+● extended reading and academic writing, including reading scientific literature 
+and writing about trends or patterns in data sets 
+● planning/project management, including the refining of hypotheses to be tested 
+in investigations 
+● data handling and evaluation, including the comparison of data from primary 
+research with published data and exploration of the significance of results 
+● evaluation of arguments and processes, including arguments in favour of 
+alternative interpretations of data and evaluation of experimental methodology 
+● critical thinking. 
+In the context of the Extended Project, critical thinking refers to the ability to 
+identify and develop arguments for a point of view or hypothesis and to consider 
+and respond to alternative arguments. 
+The Extended Project is an ideal vehicle to support the development of skills 
+identified in Appendix 1. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+69 
+Using the Extended Project to support breadth and depth 
+There is no specified material that students are expected to study and, in the 
+Extended Project, students are assessed on the quality of the work they produce 
+and the skills they develop and demonstrate through completing this work. 
+Students can use the Extended Project to demonstrate extension in one or more 
+dimensions: 
+● deepening understanding: where a student explores a topic in greater depth 
+than in the specification content 
+● broadening skills: the student learns a new skill. In a physics-based project, 
+this might involve learning to assemble and manipulate an unfamiliar piece of 
+apparatus or learning advanced data-handling techniques 
+● widening perspectives: the student’s project spans different subjects. This 
+might involve discussing historical, philosophical or ethical aspects of a physics-
+based topic or making links with other subject areas such as chemistry or 
+economics. 
+Choosing topics and narrowing down to a question 
+A dissertation, typically around 6000 words in length, involves addressing a 
+research question through a literature review and argumentative discussion while 
+an investigation/field study involves data collection and analysis, leading to a 
+written report of around 5000 words. 
+For example, consider a student with an interest in acoustics who decided to carry 
+out an investigation to explore the effect of different variables such as the volume, 
+density and stiffness of foam on sound absorption. The investigation involved 
+secondary research to establish the theoretical background to the project and to 
+find out how absorption is measured, what techniques can be used to gather data 
+and to explore the context in which such physics is used (for example in industry). 
+The student collected data using appropriately designed experiments. The student’s 
+own data were compared with published data, and the trends and patterns in data 
+analysed, with consideration of the significance of the results obtained, and an 
+attempt to interpret them in the light of the mathematical models that the student 
+had learned about through research. Finally, the student’s project ended with a 
+review of the effectiveness of the investigation and an oral presentation of the main 
+findings and arguments considered. 
+Physics-based dissertation projects can cover a wide variety of topics, as these 
+examples illustrate: 
+● Why did the Titanic sink? 
+● Are wind turbines a good solution to the energy crisis? 
+● Can we justify human space exploration? 
+● Is it possible to believe in God and the Big Bang? 
+● How did the Copernican paradigm shift affect subsequent developments in 
+cosmology? 
+● Is wi-fi safe? 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+70 
+Examples of possible investigation Extended Project titles include: 
+● How does solar activity affect weather? 
+● Do ‘sharkskin’ swimsuits give the wearer an unfair advantage? 
+● Over its working lifetime, does the energy output from a photovoltaic solar 
+panel exceed the energy required to make, install and operate it? 
+There is also scope for physics-based artefact Extended Projects. For example, a 
+student might set out to design, make and test an item of apparatus such as a 
+sundial or a spectrometer. Extended Projects involving a performance or event can 
+also be physics based. For example, an incident or issue could be explored through 
+drama (as Bertholt Brecht did with the `Trial of Galileo’). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+71 
+Appendix 3: Codes 
+ 
+Type of code Use of code Code number 
+Discount codes Every qualification eligible for performance 
+tables is assigned a discount code 
+indicating the subject area to which it 
+belongs. 
+Discount codes are published by DfE. 
+Please see the GOV.UK 
+website* 
+ 
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes 
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a Qualification 
+Number (QN). This is the code that 
+features in the DfE Section 96 and on the 
+LARA as being eligible for 16–18 and 19+ 
+funding, and is to be used for all 
+qualification funding purposes. The QN will 
+appear on students’ final certification 
+documentation. 
+The QN for the 
+qualification in this 
+publication is: 
+601/4848/2 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. Centres 
+will need to use the entry codes only when 
+claiming students’ qualifications. 
+Advanced GCE – 9PH0 
+Paper code These codes are provided for reference 
+purposes. Students do not need to be 
+entered for individual papers. 
+Paper 1: 9PH0/01 
+Paper 2: 9PH0/02 
+Paper 3: 9PH0/03 
+Science Practical 
+Endorsement: 9PH0/04 
+ 
+*www.gov.uk/government/publications/key-stage-4-qualifications-discount-codes-
+and-point-scores 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+72 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+73 
+ 
+Appendix 4: Practical competency 
+authentication sheet 
+ 
+For students to gain the Science Practical Endorsement, centres will need to: 
+● ensure that there is evidence that students have completed the necessary 
+practical activities, meeting the requirements of Appendix 5c 
+● ensure that there is evidence that students have met the requirements of each 
+of the CPAC statements, in accordance with the guidelines provided for 
+achieving the 'pass' standard 
+● complete an authentication sheet for their students. 
+Centres will also need to have had a satisfactory monitoring visit, according to the 
+guidelines for monitoring visits, as set down by the JCQ. 
+Evidence for meeting practical attendance and CPAC competency may be provided 
+in a variety of formats using student lab books or practical portfolios; and registers 
+or tracking spreadsheets.  
+A final version of the authentication statement will be made available to schools in 
+time for the first submission of entries in 2017. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+74 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+75 
+Appendix 5: Working scientifically 
+ 
+Appendices 5, 5a, 5b and 5c are taken from the document GCE AS and A level 
+regulatory requirements for biology, chemistry, physics and psychology published 
+by the DfE April 2014. Working scientifically is achieved through practical activities. 
+ 
+Specifications in biology, chemistry and physics must encourage the development 
+of the skills, knowledge and understanding in science through teaching and learning 
+opportunities for regular hands-on practical work. 
+ 
+In order to develop the necessary skills, knowledge and understanding, students 
+studying biology, chemistry and physics will be required to have carried out a 
+minimum of 12 practical activities, which will contribute towards the Practical 
+Endorsement. These skills, knowledge and understanding will also be assessed in 
+written examinations in the context of these, and other, practical activities. 
+The skills can be split into those which can be assessed through written 
+examinations (Appendix 5a); and those that will be assessed by teachers through 
+appropriate practical activities (Appendix 5b). 
+The practical activities highlighted as the minimum requirement within 
+specifications must cover the use of apparatus and practical techniques identified 
+for each science (Appendix 5c). 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+76 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+77 
+Appendix 5a: Practical skills identified for 
+indirect assessment and developed 
+through teaching and learning 
+ 
+Question papers will assess the following student’s abilities: 
+a) Independent thinking 
+• solve problems set in practical contexts 
+• apply scientific knowledge to practical contexts 
+b) Use and application of scientific methods and practices 
+• comment on experimental design and evaluate scientific methods 
+• present data in appropriate ways 
+• evaluate results and draw conclusions with reference to measurement 
+uncertainties and errors 
+• identify variables including those that must be controlled 
+c) Numeracy and the application of mathematical concepts in a practical 
+context 
+• plot and interpret graphs 
+• process and analyse data using appropriate mathematical skills as 
+exemplified in the mathematical appendix for each science 
+• consider margins of error, accuracy and precision of data 
+d) Instruments and equipment 
+• know and understand how to use a wide range of experimental and practical 
+instruments, equipment and techniques appropriate to the knowledge and 
+understanding included in the specification 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+78 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+79 
+ 
+Appendix 5b: Practical skills identified for 
+direct assessment and developed through 
+teaching and learning 
+ 
+Practical work carried out throughout the course will enable students to develop the 
+following skills. 
+a) Independent thinking 
+• apply investigative approaches and methods to practical work 
+b) Use and apply scientific methods and practices 
+• safely and correctly use a range of practical equipment and materials 
+• follow written instructions 
+• make and record observations 
+• keep appropriate records of experimental activities 
+• present information and data in a scientific way 
+• use appropriate software and tools to process data, carry out research and 
+report findings 
+c) Research and referencing 
+• use online and offline research skills including websites, textbooks and other 
+printed scientific sources of information 
+• correctly cite sources of information 
+d) Instruments and equipment 
+• use a wide range of experimental and practical instruments, equipment and 
+techniques appropriate to the knowledge and understanding included in the 
+specification 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+80 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+81 
+Appendix 5c: Use of apparatus and 
+techniques 
+ 
+Use of apparatus and techniques – physics 
+Specifications for physics must give students opportunities to use relevant 
+apparatus to develop and demonstrate these techniques. 
+All of the techniques listed below will be assessed through a minimum of 12 
+identified practical activities within each specification. These ‘core’ practicals must 
+allow students to demonstrate all of the practical skills given in Appendix 5b. 
+Practical techniques to be gained by candidates 
+1. Use appropriate analogue apparatus to record a range of measurements (to 
+include length/distance, temperature, pressure, force, angles, volume) and to 
+interpolate between scale markings. 
+2. Use appropriate digital instruments, including electrical multimeters, to obtain 
+a range of measurements (to include time, current, voltage, resistance, mass). 
+3. Use methods to increase accuracy of measurements, such as timing over 
+multiple oscillations, or use of fiducial marker, set square or plumb line. 
+4. Use stopwatch or light gates for timing. 
+5. Use calipers and micrometers for small distances, using digital or vernier 
+scales. 
+6. Correctly construct circuits from circuit diagrams using DC power supplies, 
+cells, and a range of circuit components, including those where polarity is 
+important. 
+7. Design, construct and check circuits using DC power supplies, cells, and a 
+range of circuit components. 
+8. Use signal generator and oscilloscope, including volts/div and time-base 
+9. Generate and measure waves, using microphone and loudspeaker, or ripple 
+tank, or vibration transducer, or microwave/radio wave source. 
+10. Use laser or light source to investigate characteristics of light, including 
+interference and diffraction. 
+11. Use ICT such as computer modelling, or data logger with a variety of sensors 
+to collect data, or use of software to process data. 
+12. Use ionising radiation, including detectors. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+82 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+83 
+ 
+Appendix 5d: Mapping between  
+Appendix 5c and core practicals 
+ 
+This qualification gives students opportunities to use relevant apparatus to develop 
+practical skills and demonstrate competency in a range of practical techniques. 
+All of the techniques listed in Appendix 5c will be assessed through a series of core 
+practical activities within this specification. 
+To achieve the Science Practical Endorsement, students need to show competence 
+in the 12 practical techniques listed in Appendix 5c: Use of apparatus and 
+techniques. 
+The following table shows how each core practical activity, listed in the content, 
+maps to the required practical techniques in Appendix 5c: Use of apparatus and 
+techniques. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+84 
+ 
+Physics Core Practical Practical technique in Appendix 5c 
+1 2 3 4 5 6 7 8 9 10 11 12 
+1: Determine the 
+acceleration of a freely-
+falling object 
+            
+2: Determine the electrical 
+resistivity of a material             
+3: Determine the e.m.f. and 
+internal resistance of an 
+electrical cell 
+            
+4: Use a falling-ball method 
+to determine the viscosity of 
+a liquid 
+            
+5: Determine the Young 
+modulus of a material             
+6: Determine the speed of 
+sound in air using a 2-beam 
+oscilloscope, signal 
+generator, speaker and 
+microphone 
+            
+7: Investigate the effects of 
+length, tension and mass per 
+unit length on the frequency 
+of a vibrating string or wire 
+            
+8: Determine the wavelength 
+of light from a laser or other 
+light source using a 
+diffraction grating 
+            
+9: Investigate the 
+relationship between the 
+force exerted on an object 
+and its change of momentum 
+            
+10: Use ICT to analyse 
+collisions between small 
+spheres, e.g. ball bearings 
+on a table top 
+            
+11: Use an oscilloscope or 
+data logger to display and 
+analyse the potential 
+difference (p.d.) across a 
+capacitor as it charges and 
+discharges through a resistor 
+            
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+85 
+ 
+Physics Core Practical Practical technique in Appendix 5c 
+1 2 3 4 5 6 7 8 9 10 11 12 
+12: Calibrate a thermistor in 
+a potential divider circuit as a 
+thermostat 
+            
+13: Determine the specific 
+latent heat of a phase 
+change 
+            
+14: Investigate the 
+relationship between 
+pressure and volume of a 
+gas at fixed temperature 
+            
+15: Investigate the 
+absorption of gamma 
+radiation by lead 
+            
+16: Determine the value of 
+an unknown mass using the 
+resonant frequencies of the 
+oscillation of known masses 
+            
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+86 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+87 
+ 
+Appendix 6: Mathematical skills and 
+exemplifications 
+ 
+The information in this appendix has been taken directly from the document GCE 
+AS and A level regulatory requirements for biology, chemistry, physics and 
+psychology published by the Department for Education (April 2014). 
+In order to be able to develop their skills, knowledge and understanding in science, 
+students need to have been taught, and to have acquired competence in, the 
+appropriate areas of mathematics relevant to the subject as indicated in the table 
+of coverage below. 
+The assessment of quantitative skills will include at least 10% level 2 or above 
+mathematical skills for biology and psychology, 20% for chemistry and 40% for 
+physics. These skills will be applied in the context of the relevant science A Level. 
+All mathematical content must be assessed within the lifetime of the specification. 
+The following tables illustrate where these mathematical skills may be developed 
+and could be assessed in each of the sciences. Those shown in bold type would only 
+be tested in the full A Level course. 
+This list of examples is not exhaustive. These skills could be developed in other 
+areas of specification content. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+88 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level Physics (assessment is 
+not limited to the examples given below) 
+(i)  C.0 – arithmetic and numerical computation 
+C.0.1 Recognise and make use of 
+appropriate units in calculations 
+Students may be tested on their ability to: 
+● identify the correct units for physical 
+properties such as m s
+-1, the unit for velocity 
+● convert between units with different prefixes, 
+e.g. cm
+3 to m3 
+C.0.2 Recognise and use expressions in 
+decimal and standard form 
+Students may be tested on their ability to: 
+● use physical constants expressed in standard 
+form such as c = 3.00 x 108 m s–1 
+C.0.3 Use ratios, fractions and 
+percentages 
+Students may be tested on their ability to: 
+● calculate efficiency of devices 
+● calculate percentage uncertainties in 
+measurements 
+C.0.4 Estimate results Students may be tested on their ability to: 
+● estimate the effect of changing experimental 
+parameters on measurable values 
+C.0.5 Use calculators to find and use 
+power, exponential and 
+logarithmic functions 
+Students may be tested on their ability to: 
+● solve for unknowns in decay problems 
+such as N = N0e-λt 
+C.0.6 Use calculators to handle sin x, 
+cos x, tan x when x is expressed 
+in degrees or radians 
+Students may be tested on their ability to: 
+● calculate the direction of resultant vectors 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+89 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level Physics (assessment is 
+not limited to the examples given below) 
+(ii)  C.1 – handling data 
+C.1.1 Use an appropriate number of 
+significant figures 
+Students may be tested on their ability to: 
+● report calculations to an appropriate number 
+of significant figures given raw data quoted to 
+varying numbers of significant figures 
+● understand that calculated results can only be 
+reported to the limits of the least accurate 
+measurement 
+C.1.2 Find arithmetic means Students may be tested on their ability to: 
+● calculate a mean value for repeated 
+experimental readings 
+C.1.3 Understand simple probability Students may be tested on their ability to: 
+● understand probability in the context of 
+radioactive decay 
+C.1.4 Make order of magnitude 
+calculations 
+Students may be tested on their ability to: 
+● evaluate equations with variables expressed 
+in different orders of magnitude 
+C.1.5 Identify uncertainties in 
+measurements and use simple 
+techniques to determine 
+uncertainty when data are 
+combined by addition, 
+subtraction, multiplication, 
+division and raising to powers 
+Students may be tested on their ability to: 
+● determine the uncertainty where two 
+readings for length need to be added together 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+90 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level Physics (assessment is 
+not limited to the examples given below) 
+(iii) C.2 – algebra 
+C.2.1 Understand and use the 
+symbols: =, <, <<, >>, >, ∝,  
+≈, ∆  
+Students may be tested on their ability to: 
+● recognise the significance of the symbols in 
+the expression F ∝ ∆p/∆t 
+C.2.2 Change the subject of an 
+equation, including non-linear 
+equations 
+Students may be tested on their ability to: 
+● rearrange E = mc2 to make m the subject 
+C.2.3 Substitute numerical values into 
+algebraic equations using 
+appropriate units for physical 
+quantities 
+Students may be tested on their ability to: 
+● calculate the momentum p of an object by 
+substituting the values for mass m and 
+velocity v into the equation p = mv 
+C.2.4 Solve algebraic equations, 
+including quadratic equations 
+Students may be tested on their ability to: 
+● solve kinematic equations for constant 
+acceleration such as v = u + at and  
+s = ut + ½ at2  
+C.2.5 Use logarithms in relation to 
+quantities that range over 
+several orders of magnitude 
+Students may be tested on their ability to: 
+● recognise and interpret real-world 
+examples of logarithmic scales 
+(iv) C.3 – graphs 
+C.3.1 Translate information between 
+graphical, numerical and 
+algebraic forms 
+Students may be tested on their ability to: 
+● calculate Young modulus for materials using 
+stress-strain graphs 
+C.3.2 Plot two variables from 
+experimental or other data 
+Students may be tested on their ability to: 
+● plot graphs of extension of a wire against 
+force applied 
+C.3.3 Understand that y = mx + c 
+represents a linear relationship 
+Students may be tested on their ability to: 
+● rearrange and compare v = u + at with  
+y = mx + c for velocity-time graph in 
+constant acceleration problems 
+C.3.4 Determine the slope and 
+intercept of a linear graph 
+Students may be tested on their ability to: 
+● read off and interpret intercept point from a 
+graph, e.g. the initial velocity in a  
+velocity-time graph 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+91 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level Physics (assessment is 
+not limited to the examples given below) 
+(iv)  C.3 – graphs 
+C.3.5 Calculate rate of change from a 
+graph showing a linear 
+relationship 
+Students may be tested on their ability to: 
+● calculate acceleration from a linear velocity-
+time graph 
+C.3.6 Draw and use the slope of a 
+tangent to a curve as a measure 
+of rate of change 
+Students may be tested on their ability to: 
+● draw a tangent to the curve of a 
+displacement–time graph and use the 
+gradient to approximate the velocity at a 
+specific time 
+C.3.7 Distinguish between 
+instantaneous rate of change and 
+average rate of change 
+Students may be tested on their ability to: 
+● understand that the gradient of the tangent 
+of a displacement–time graph gives the 
+velocity at a point in time which is a different 
+measure to the average velocity 
+C.3.8 Understand the possible physical 
+significance of the area between 
+a curve and the x axis and be 
+able to calculate it or estimate it 
+by graphical methods as 
+appropriate 
+Students may be tested on their ability to: 
+● recognise that for a capacitor the area under 
+a voltage-charge graph is equivalent to the 
+energy stored 
+C.3.9 Apply the concepts underlying 
+calculus (but without requiring 
+the explicit use of derivatives or 
+integrals) by solving equations 
+involving rates of change,  
+e.g. 
+Δx /Δt = –λx  
+using a graphical method or 
+spreadsheet modelling 
+Students may be tested on their ability to: 
+● determine g from distance-time plot, 
+projectile motion 
+ 
+C.3.10 Interpret logarithmic plots Students may be tested on their ability to: 
+● obtain time constant for capacitor 
+discharge by interpreting plot of log V 
+against time 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+92 
+ 
+ Mathematical skills Exemplification of mathematical skill in the 
+context of A Level Physics (assessment is 
+not limited to the examples given below) 
+(iv)  C.3 – graphs 
+C.3.11 Use logarithmic plots to test 
+exponential and power law 
+variations 
+Students may be tested on their ability to: 
+● use logarithmic plots with decay law of 
+radioactivity/charging and discharging 
+of a capacitor 
+C.3.12 Sketch relationships which are 
+modelled by y = k/x, y = kx2,  
+y = k/x2, y= kx, y = sin x,  
+y = cos x, y = e±x, and  
+y = sin2x, y = cos2x a as 
+applied to physical 
+relationships 
+Students may be tested on their ability to: 
+● sketch relationships between pressure 
+and volume for an ideal gas 
+(v)  C.4 – geometry and trigonometry 
+C.4.1 Use angles in regular 2D and 3D 
+structures 
+Students may be tested on their ability to: 
+● interpret force diagrams to solve problems 
+C.4.2 Visualise and represent 2D and 
+3D forms including two-
+dimensional representations of 
+3D objects 
+Students may be tested on their ability to: 
+● draw force diagrams to solve mechanics 
+problems 
+C.4.3 Calculate areas of triangles, 
+circumferences and areas of 
+circles, surface areas and 
+volumes of rectangular blocks, 
+cylinders and spheres 
+Students may be tested on their ability to: 
+● calculate the area of the cross section to work 
+out the resistance of a conductor given its 
+length and resistivity 
+C.4.4 Use Pythagoras’ theorem, and 
+the angle sum of a triangle 
+Students may be tested on their ability to: 
+● calculate the magnitude of a resultant vector, 
+resolving forces into components to solve 
+problems 
+C.4.5 Use sin, cos and tan in physical 
+problems 
+Students may be tested on their ability to: 
+● resolve forces into components 
+C.4.6 Use of small angle 
+approximations including  
+sin θ ≈ θ, tan θ ≈ θ, cos θ ≈ 1 
+for small θ where appropriate 
+Students may be tested on their ability to: 
+● calculate fringe separations in interference 
+patterns 
+C.4.7 Understand the relationship 
+between degrees and radians 
+and translate from one to the 
+other 
+Students may be tested on their ability to: 
+● convert angle in degrees to angle in radians 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+93 
+Appendix 7: Command words used in 
+examination papers 
+The following table lists the command words used in the external assessments. 
+Command word Definition 
+Add/Label Requires the addition or labelling to a stimulus material given 
+in the question, for example labelling a diagram or adding 
+units to a table. 
+Assess Give careful consideration to all the factors or events that 
+apply and identify which are the most important or relevant. 
+Make a judgement on the importance of something, and 
+come to a conclusion where needed. 
+Calculate Obtain a numerical answer, showing relevant working. If the 
+answer has a unit, this must be included. 
+Comment on Requires the synthesis of a number of variables from 
+data/information to form a judgement. 
+Compare and 
+contrast 
+Looking for the similarities and differences of two (or more) 
+things. Should not require the drawing of a conclusion. 
+Answer must relate to both (or all) things mentioned in the 
+question.  
+The answer must include at least one similarity and one 
+difference. 
+Complete Requires the completion of a table/diagram. 
+Criticise Inspect a set of data, an experimental plan or a scientific 
+statement and consider the elements. Look at the merits 
+and/or faults of the information presented and back 
+judgements made. 
+Deduce Draw/reach conclusion(s) from the information provided. 
+Derive Combine two or more equations or principles to develop a 
+new equation. 
+Describe To give an account of something. Statements in the response 
+need to be developed as they are often linked but do not 
+need to include a justification or reason. 
+Determine The answer must have an element which is quantitative from 
+the stimulus provided, or must show how the answer can be 
+reached quantitatively. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+94 
+ 
+Command word Definition 
+Devise Plan or invent a procedure from existing principles/ideas 
+Discuss ● Identify the issue/situation/problem/argument that is 
+being assessed within the question. 
+● Explore all aspects of an 
+issue/situation/problem/argument. 
+● Investigate the issue/situation etc by reasoning or 
+argument. 
+Draw Produce a diagram either using a ruler or using freehand. 
+Evaluate Review information then bring it together to form a 
+conclusion, drawing on evidence including strengths, 
+weaknesses, alternative actions, relevant data or information. 
+Come to a supported judgement of a subject’s qualities and 
+relation to its context. 
+Explain An explanation requires a justification/exemplification of a 
+point. The answer must contain some element 
+of reasoning/justification, this can include mathematical 
+explanations. 
+Give/state/name All of these command words are really synonyms. They 
+generally all require recall of one or more pieces of 
+information. 
+Give a reason/ 
+reasons 
+When a statement has been made and the requirement is 
+only to give the reasons why. 
+Identify Usually requires some key information to be selected from a 
+given stimulus/resource. 
+Justify Give evidence to support (either the statement given in the 
+question or an earlier answer). 
+Plot Produce a graph by marking points accurately on a grid from 
+data that is provided and then drawing a line of best fit 
+through these points. A suitable scale and appropriately 
+labelled axes must be included if these are not provided in 
+the question. 
+Predict Give an expected result. 
+Show that Prove that a numerical figure is as stated in the question. The 
+answer must be to at least 1 more significant figure than the 
+numerical figure in the question. 
+Sketch Produce a freehand drawing. For a graph, this would require 
+a line and labelled axis with important features indicated, the 
+axes are not scaled. 
+State what is 
+meant by 
+When the meaning of a term is expected but there are 
+different ways of how these can be described. 
+Write When the questions ask for an equation. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+95 
+ 
+Appendix 8: Formulae sheet 
+Students need not memorise formulae for this qualification. 
+The formulae below will be supplied in each examination. Any other formulae that 
+are required will be provided in the question. Symbols used comply with the 
+Association for Science Education (ASE) guidelines (which are based on 
+International Union of Pure and Applied Physics (IUPAP) recommendations). 
+Mechanics 
+ 
+  
+Kinematic equations of motion 
+asuv
+atuts
+atuv
+tvus
+2
+2
+)(
+22
+2
+2
+1
++=
++=
++=
++=
+ 
+  
+Forces ΣF = ma 
+m
+Fg =  
+W = mg 
+Moment of force = Fx 
+  
+Momentum p = mv 
+  
+Work, energy and power 
+ 
+ 
+∆W = F∆s 
+21
+2kE mv=      
+∆Egrav = mg∆h 
+t
+EP =  
+t
+WP =  
+inputenergy  total
+outputenergy  useful  efficiency =  
+ 
+inputpower  total
+outputpower  usefulefficiency =  
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+96 
+ 
+Electricity 
+ 
+  
+Potential difference 
+Q
+WV =  
+  
+Resistance 
+I
+VR =  
+  
+Electrical power, energy and 
+efficiency 
+P = VI 
+P = I2R  
+R
+VP
+2
+=  
+W = VIt 
+  
+Resistivity 
+A
+ρlR =  
+  
+Current 
+t
+QI ∆
+∆=  
+ I = nqvA 
+  
+Materials 
+ 
+  
+Density 
+V
+m=ρ  
+  
+Stokes’ law F = 6πηrv 
+  
+Hooke’s law F = k∆x 
+  
+Pressure 
+A
+Fp =  
+  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+97 
+ 
+Young modulus 
+Stress A
+F=σ  
+ 
+Strain x
+x∆=ε  
+ 
+ε
+σ=E  
+  
+Elastic strain energy 1
+2elE Fx∆= ∆      
+  
+Waves and particle nature of light 
+  
+Wave speed v = fλ 
+  
+Speed of a transverse wave on 
+a string µ
+Tv =  
+  
+Intensity of radiation 
+A
+PI =  
+  
+Power of a lens 
+fP 1=  
+  
+ P= P1+P2+P3+… 
+  
+Thin lens equation 
+fvu
+111 =+  
+  
+Magnification for a lens magnification = Image height/Object height 
+ 
+u
+vm =  
+  
+Diffraction grating nλ = dsinθ 
+  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+98 
+ 
+Refractive index n1 sin θ1= n2 sin θ2 
+ 
+v
+cn =  
+  
+Critical angle 
+nC 1sin =  
+  
+Photon model E = hf 
+  
+Einstein’s photoelectric equation 2
+max2
+1 mvhf += φ  
+  
+de Broglie wavelength 
+p
+h=λ  
+  
+Further mechanics 
+ 
+  
+Impulse F∆t = ∆p 
+  
+Kinetic energy of a non-
+relativistic particle m
+pEk
+2
+2
+=  
+  
+Motion in a circle rv ω=  
+ 
+ω
+π2=T  
+ 
+r
+mvmaF
+2
+==  
+ 
+r
+va
+2
+=  
+ 2ωra =  
+  
+Centripetal force 
+r
+mvF
+2
+=  
+ F = mrω2 
+  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+99 
+ 
+Fields 
+ 
+Coulomb’s law 
+2
+0
+21
+4 r
+QQF πε=  
+  
+Electric field 
+Q
+FE =  
+ 
+2
+04 r
+QE πε=  
+ 
+d
+VE =  
+  
+Electric potential 
+r
+QV
+04πε=  
+  
+Capacitance 
+V
+QC =  
+  
+Energy stored in capacitor QVW 2
+1=  
+ 2
+2
+1 CVW =  
+ 
+C
+QW
+2
+2
+1
+=  
+  
+Capacitor discharge Q = Q0 e-t/RC 
+  
+Resistor-capacitor discharge I = Io e-t/RC 
+ V = Vo e-t/RC 
+ 
+RC
+tQQ −= 0lnln  
+ 
+RC
+tII −= 0lnln  
+ 
+RC
+tVV −= 0lnln  
+  
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+100 
+ 
+In a magnetic field F = BIl sin θ 
+ F = Bqv sin θ 
+  
+Faraday’s and Lenz’s Laws 
+E  t
+N
+d
+)(d φ−=  
+  
+Root-mean-square values 
+2
+0VVrms =   
+ 
+2
+0IIrms =  
+Nuclear and particle physics 
+  
+In a magnetic field 
+BQ
+pr =  
+  
+Thermodynamics 
+ 
+  
+Heating ∆E = mc∆θ 
+ ΔE = LΔm 
+  
+Molecular kinetic theory kTcm 2
+32
+2
+1 =><  
+ ><= 2
+3
+1 cNmpV  
+  
+Ideal gas equation pV = NkT 
+  
+Stefan-Boltzmann law L = σT4A 
+ L = 4πr2σT4 
+  
+Wien’s law λmaxT = 2.898 x 10-3 m K 
+  
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+101 
+Space 
+Radiant energy flux 
+24 d
+LI π=
+Redshift of electromagnetic 
+radiation c
+v
+f
+fz ≈∆≈∆= λ
+λ
+Cosmological expansion v = Hod 
+Nuclear radiation 
+Mass-energy ∆E = c2∆m 
+Radioactive decay   A = λN
+Nt
+N λ− =d
+d
+21
+2ln
+t=λ
+N = N0 e-λt 
+A = A0 e-λt 
+Gravitational fields 
+Grav
+itational force 
+2
+2 1
+r
+mGmF =
+Gr
+avitational field 
+2r
+Gmg =
+Grav
+itational potential 
+rVgrav
+Gm−=
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+102 
+Oscillations 
+S
+imple harmonic motion F = − kx 
+a = − ω2x 
+x = Acos ωt 
+v = − Aω sin ω t 
+a = − Aω2 cos ωt 
+ω
+π2 1= =fT  
+ω = 2πf 
+Simple harmonic oscillator 
+k
+mT π2=
+g
+lT π2=
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+103 
+Appendix 9: Data sheet 
+ 
+The value of the following constants will be provided in each examination paper. 
+Acceleration of free fall g = 9.81 m s−2 (close to Earth’s surface) 
+ 
+Boltzmann constant 
+ 
+k = 1.38 × 10
+−23 J K−1 
+ 
+ 
+ 
+Coulomb law constant 
+ 
+k = 
+04
+1
+πε
+= 8.99 x 109 N m2 C-2 
+ 
+ 
+Electron charge 
+ 
+e = −1.60 × 10−19 C 
+ 
+ 
+Electron mass 
+ 
+me = 9.11 × 10−31 kg 
+ 
+ 
+Electronvolt 
+ 
+1 eV = 1.60 × 10−19 J 
+ 
+ 
+Gravitational constant 
+ 
+G = 6.67 × 10−11 N m2 kg−2 
+ 
+ 
+Gravitational field 
+strength 
+ 
+g = 9.81 N kg−1 
+ 
+(close to Earth’s surface) 
+ 
+Planck constant 
+ 
+h = 6.63 × 10−34 J s 
+ 
+ 
+Permittivity of free space 
+ 
+ε0 = 8.85 × 10−12 F m−1 
+ 
+ 
+Proton mass 
+ 
+mp = 1.67 × 10−27 kg 
+ 
+ 
+Speed of light in a 
+vacuum 
+ 
+c = 3.00 × 108 m s−1 
+ 
+ 
+Stefan-Boltzmann 
+constant 
+ 
+σ = 5.67 x 10-8 W m-2 K-4 
+ 
+ 
+Unified atomic mass unit 
+ 
+u = 1.66 x 10-27 kg 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+104 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+105 
+Appendix 10: Uncertainties and practical 
+work 
+ 
+The aim of physics in studying natural phenomena is to develop explanations based 
+on empirical evidence. Hence there is a central concern about the quality of 
+evidence and of the explanations that are based on it. This involves an appreciation 
+of the causes of uncertainties that can arise in practical work and how they should 
+be dealt with, both in planning an experiment to minimise these uncertainties and 
+in forming a valid conclusion.  
+There is no practical examination in this qualification and a set of practical skills has 
+been identified as appropriate for indirect assessment. Practical skills should be 
+developed by carrying out practical work throughout the course, for example by 
+carrying out the Core Practicals listed in the Specification. The assessment of these 
+skills will be through examination questions, in particular for Unit 3: Practical Skills 
+in Physics I and Unit 6: Practical Skills in Physics II. 
+It is clearly important that the words used within the practical context have a 
+precise and scientific meaning as distinct from their everyday usage. The terms 
+used for this assessment will be those described in the publication by the 
+Association for Science Education (ASE) entitled The Language of Measurement 
+(ISBN 9780863574245). In adopting this terminology, it should be noted that 
+certain terms will have a meaning different to that in the previous 
+specification. In accordance with common practice, this qualification will adopt the 
+Uncertainty Approach to measurement. Using this approach assumes that the 
+measurement activity produces an interval of reasonable values together with a 
+statement of the confidence that the true value lies within this interval. 
+The following Glossary is a selection of terms from the list in The Language of 
+Measurement published by ASE (ISBN 9780863574245). 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+106 
+Glossary 
+Term Meaning and notes 
+Validity A measurement is valid if it measures what it is supposed to be 
+measuring – this depends both on the method and the 
+instruments. 
+True value The value that would have been obtained in an ideal measurement 
+– with the exception of a fundamental constant the true value is 
+considered unknowable. 
+Accuracy A measurement result is considered accurate if it is judged to be 
+close to the true value. It is a quality denoting the closeness of 
+agreement between measurement and true value – it cannot be 
+quantified and is influenced by random and systematic errors. 
+Precision  A quality denoting the closeness of agreement (consistency) 
+between values obtained by repeated measurement – this is 
+influenced only by random effects and can be expressed 
+numerically by measures such as standard deviation. A 
+measurement is precise if the values ‘cluster’ closely together. 
+Repeatability The precision obtained when measurement results are obtained by 
+a single operator using a single method over a short timescale. A 
+measurement is repeatable when similar results are obtained by 
+students from the same group using the same method. Students 
+can use the precision of their measurement results to judge this. 
+Reproducibility The precision obtained when measurement results are obtained by 
+different operators using different pieces of apparatus. A 
+measurement is reproducible when similar results are obtained by 
+students from different groups using different methods or 
+apparatus. This is a harder test of the quality of data. 
+Uncertainty The interval within which the true value can be considered to lie 
+with a given level of confidence or probability – any measurement 
+will have some uncertainty about the result, this will come from 
+variation in the data obtained and be subject to systematic or 
+random effects. This can be estimated by considering the 
+instruments and the method and will usually be expressed as a 
+range such as 20
+ °C ± 2 °C. The confidence will be qualitative and 
+based on the goodness of fit of the line of best fit and the size of 
+the percentage uncertainty. 
+Error The difference between the measurement result and the true 
+value if a true value is thought to exist. This is not a mistake in 
+the measurement. The error can be due to both systematic and 
+random effects and an error of unknown size is a source of 
+uncertainty. 
+Resolution The smallest measuring interval and the source of uncertainty in a 
+single reading. 
+Significant 
+figures (SF) 
+The number of SF used in recording the measurements depends 
+on the resolution of the measuring instruments and should usually 
+be the same as given in the instrument with the fewest SF in its 
+reading. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+107 
+Uncertainties in practice 
+What are uncertainties and why are they important? 
+When you repeat a measurement you often get different results. There is an 
+uncertainty in the measurement that you have taken. It is important to be able to 
+determine the uncertainty in measurements so that its effect can be taken into 
+consideration when drawing conclusions about experimental results. The 
+uncertainty might be the resolution of the instrument or, if the readings were 
+repeated, the uncertainty might be half the range of the repeats. If the 
+uncertainty is predictable, i.e. it is systematic, then the uncertainty should be 
+subtracted from each reading, for example if there is a zero error on an instrument. 
+Recording data 
+Results should be recorded to the resolution of the measuring instrument which 
+means there will be a consistent number of decimal places for the readings for any 
+one variable.  
+If raw data goes over a power of ten we would not penalise a mixture of significant 
+figures. When data is processed, these values should be recorded to a consistent 
+number of significant figures which is usually 3 as this is what we can usually 
+confidently plot on a graph.  
+Calculating uncertainties 
+There are several techniques that will produce an estimate of the uncertainty in 
+the value of the mean. Since we are expecting students to produce an estimate of 
+the uncertainty any suitable value that indicates half the range is acceptable. 
+Example: A student measures the diameter of a metal canister using a ruler 
+graduated in mm and records these results: 
+ 
+Diameter/mm 
+Reading 1 Reading 2 Reading 3 Mean 
+66 65 61 64 
+ 
+The uncertainty in the mean value (64
+ mm) can be calculated as follows: 
+a) Using the half range 
+The range of readings is 61 mm – 66 mm so half the range is used to determine the 
+uncertainty. 
+Uncertainty in the mean diameter= (66 mm – 61 mm)/2 = 2.5 mm 
+Therefore, the diameter of the metal canister is 64 mm ± 2.5 mm. 
+Since a ruler graduated in mm could easily be read to ± 0.5 mm, it is acceptable to 
+quote the uncertainty as ± 2.5 mm for this experiment. 
+b) Using the reading furthest from the mean 
+In this case, the measurement of 61 mm is further from the average value than 66 
+mm therefore we can use this value to calculate the uncertainty in the mean. 
+Uncertainty in the mean diameter= 64 mm – 61 mm = 3 mm. 
+Therefore, the diameter of the metal canister is 64 mm ± 3 mm. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+108 
+c) Using the resolution of the instrument 
+This is used if a single reading is taken or if repeated readings have the same 
+value. This is because there is an uncertainty in the measurement because the 
+instrument used to take the measurement has its own limitations. If the three 
+readings obtained above were all 64 mm then the value of the diameter being 
+measured lies somewhere between 63.5 mm and 64.5 mm since a metre rule could 
+easily be read to half a millimetre. In this case, the uncertainty in the diameter is 
+0.5 mm. 
+Therefore, the diameter of the metal canister is 64 mm ± 0.5 mm. 
+This also applies to digital instruments. An ammeter records currents to 0.1 A.  
+A current of 0.36 A would be displayed as 0.4 A, and a current of 0.44 A would also 
+be displayed as 0.4 A. The resolution of the instrument is 0.1 A but the uncertainty 
+in a reading is 0.05 A. 
+Calculating percentage uncertainties 
+The percentage uncertainty in a measurement can be calculated using: 
+ Percentage uncertainty = (Uncertainty of measurement/Measurement) × 100% 
+In the above example the percentage uncertainty in the diameter of the metal 
+canister is: 
+Percentage uncertainty = (3/64) × 100% = 4.7% 
+Often the radius would be used in a calculation, for example in a calculation of 
+volume. In this case, the percentage uncertainty for the radius of the canister is the 
+same as its diameter, i.e. 4.7%, and not half of the percentage uncertainty. This is 
+one reason why the percentage uncertainty in a measurement is useful.  
+Additionally, the value is less than 5%, which shows that the measurement is 
+probably repeatable. Note that a percentage uncertainty would normally be quoted 
+to 1 or 2 sf. 
+Compounding uncertainties 
+Calculations often use more than one measurement. Each measurement will have 
+its own uncertainty, so it is necessary to combine the uncertainties for each 
+measurement to calculate the overall uncertainty in the calculation provided all the 
+measured quantities are independent of one another. 
+There are three methods of compounding uncertainties depending on whether the 
+measurements in a calculation are raised to a power, multiplied/divided, or 
+added/subtracted. 
+a) Raising a measurement to a power 
+If a measurement is raised to a power, for example squared or cubed, then the 
+percentage uncertainty is multiplied by that power to give the total percentage 
+uncertainty. 
+Example: A builder wants to calculate the area of a square tile. He uses a rule to 
+measure the two adjacent sides of a square tile and obtains the following results: 
+ Length of one side = 84
+ mm ± 0.5 mm 
+ Length of perpendicular side = 84 mm ± 0.5 mm 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+109 
+The percentage uncertainty in the length of each side of this square tile is given by:  
+ Percentage uncertainty = (0.5/84) × 100% = 0.59 % = 0.6 % 
+The area of the tile A is given by A = 84 × 84 = 7100 mm2 
+Note that this is to 2 sf since the measurements are to 2 sf. 
+The percentage uncertainty in the area of the square tile is calculated by 
+multiplying the percentage uncertainty in the length by 2. 
+ Percentage uncertainty in A = 2 × 0.6% = 1.2% 
+Therefore the uncertainty in A = 7100 × 1.2% = 85 mm2 
+So A = 7100 mm2 ± 1.2% or A = 7100 mm2 ± 85 mm2 
+b) Multiplying or dividing measurements 
+The total percentage uncertainty is calculated by adding together the percentage 
+uncertainties for each measurement. 
+Example: A metallurgist is determining the purity of a sample of an alloy that is in 
+the shape of a cube by determining the density of the material. 
+The following readings are taken: 
+ Length of each side of the cube= 24.0 mm ± 0.5 mm 
+ Mass of cube = 48.23 g ± 0.05 g 
+She calculates (i) the density of the material and (ii) the percentage uncertainty in 
+the density of the material. 
+(i) Density of alloy  = mass / volume = mass / length3 
+= (48.23 x 10−3 kg) / (24.0 x 10-3 m)3 = 3490 kg m−3 
+(ii) Percentage uncertainty in the length = 0.5 / 24.0 × 100% = 2.1% 
+ Percentage uncertainty in the mass = 0.05/48.23 × 100% = 0.1% 
+ Percentage uncertainty in density  = 3 × 2.1% +0.1% = 6.4% (or 6%) 
+Therefore, the density of the material = 3490 kg m−3 ± 6% or 3490 kg m−3 ± 210 
+kg m−3 
+Example: A student calculates the volume of a drinks can and the percentage 
+uncertainty for the final value. 
+The student determines that the radius of the metal can is 33 mm with an 
+uncertainty of 1% so the cross-sectional area A of the canister is: 
+ A = πr2 = π (33)2 = 3.4 × 103 mm2 ± 2% 
+Notice that the result has been expressed using scientific notation so that we can 
+write down just two significant figures. The calculator answer (3421.1...) gives the 
+impression of far more sf than is justified when the radius is only known to the 
+nearest mm. 
+The cross-sectional area was calculated by squaring the radius. Since two quantities 
+have in effect been multiplied together, the percentage uncertainty in the value of 
+the cross-sectional area is found by adding the percentage uncertainty of the radius 
+to the percentage uncertainty of the radius – doubling it. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+110 
+The student measures the length L of the can = 115 mm ± 2 mm 
+The volume V of the can is  
+V = 3.4 × 103 mm2 × 115 mm = 3.9 × 105 mm3 = 3.9 × 10−4 m3 
+The percentage uncertainty in this value is obtained by adding together an 
+appropriate combination of the uncertainties 
+Percentage uncertainty in L = (2/115) × 100% = 1.7 
+Therefore, percentage uncertainty in V= 2% + 1.7% = 3.7% 
+Volume V = 3.91 × 10−4 m3 ± 3.7% = 3.91 × 10-4 m3 ± 1.4 × 10-5 m3 
+Again, an overall percentage uncertainty of less than 5% suggests that this 
+determination of the volume of a can is repeatable. 
+c) Adding or subtracting measurements 
+When measurements are added or subtracted in a calculation then the uncertainty 
+for each measurement is added to calculate the total uncertainty. 
+Example: A student wants to determine the thickness of the walls of a plastic pipe. 
+He measures the internal and external diameters of the pipe using vernier calipers 
+and obtains the following readings: 
+ Internal diameter = 101.4 mm ± 0.1 mm 
+ External diameter = 102.8 mm ± 0.3 mm 
+The difference between these two measurements is 1.4 mm ± 0.4 mm 
+Since the difference in the radius is required then both the diameter and the 
+uncertainty must be divided by 2 (since the percentage uncertainty remains the 
+same), therefore the thickness of the walls is 0.7 mm ± 0.2 mm. 
+Using uncertainties in drawing conclusions 
+Often an experiment will require a comparison to a known value. This is when the 
+uncertainty can be used to assess whether the measured value is accurate or not. 
+This can be achieved in the following ways: 
+a) Calculating maximum and minimum values 
+The final uncertainty can be used to determine the range in which the measured 
+value may lie. If the known value lies within this range then we can say that the 
+measured value is accurate. 
+Example: A student used a simple pendulum to obtain a value of g = 10.1
+ m s−2. 
+The experimental percentage uncertainty was calculated as 4%.  
+Minimum value of g = 10.1 − (10.1 × 4%) = 9.7 m s−2 
+Since the accepted value of g = 9.81 m s−2 lies above the minimum value, then we 
+can conclude that the measured value of g is accurate. 
+This method should always be used when the percentage uncertainty in the value is 
+known. 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+111 
+b) Calculating a percentage difference 
+If the measured value has been determined from a graph and there is no 
+information about the percentage uncertainty of the measured value, then 
+percentage difference can be used to comment on accuracy. If the percentage 
+difference is less than 5%, then this is an indication that the result is accurate.  
+In the above example, the percentage difference is calculated as: 
+ Percentage difference = (10.1−9.81)/9.81 × 100% = 3%  
+As this is less than 5% we can conclude that the measured value of g is accurate. 
+c) Observations from graphs 
+There is no expectation that error bars should be added to graphs.  
+If a straight-line graph through the origin is expected but the line of best fit of the 
+plotted points does not pass through the origin, then this is an indication of a 
+systematic error. If there is a large scatter of points around the line of best fit this 
+is an indication of a large uncertainty possibly due to random errors. 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics 
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+112 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 3 Advanced GCE in Physics -  
+Specification – Issue 3 – November 2018 © Pearson Education Limited 2018 
+113 
+Appendix 11: Support from the University 
+of York 
+ 
+The Salters Horners Advanced Physics (SHAP) project team in the University of 
+York Science Education Group runs in-service courses for teachers and technicians 
+from centres that are following, or preparing to follow, this qualification. 
+The project team also runs an advice service to help with questions concerning the 
+teaching of the course, and produces newsletters that are distributed to centres 
+using this specification. 
+Centres following this qualification may be eligible for additional financial support 
+(for example book grants) from the Salters and Horners companies. 
+There are email support groups for SHAP teachers and technicians. 
+For further information about the SHAP approach to teaching for this qualification, 
+and about the support available to centres, please visit the SHAP website: 
+www.york.ac.uk/org/seg/salters/physics or contact the project administrator at: 
+Salters Horners Advanced Physics Project 
+Science Education Group 
+Alcuin College D Block 
+University of York 
+Heslington 
+York 
+YO10 5DD 
+Telephone:  01904 322601 
+Fax:  01904 322605 
+Email:  joanna.macdonald@york.ac.uk 
+Enquiries concerning assessment and administration should be addressed to the 
+Qualifications and Delivery and Awards Manager for Physics at Pearson. 
+ 
+ 
+ 
+Sb211118Z:\LT\PD\GCE 2015 NEW ISSUES\9781446936023_GCE2015_A_PHYSICS_ISSUE3.DOC.1–126/6 
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office:  80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121

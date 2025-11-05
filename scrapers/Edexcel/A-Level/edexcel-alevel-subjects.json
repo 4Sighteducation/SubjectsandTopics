@@ -1,0 +1,219 @@
+[
+  {
+    "code": "9AA0",
+    "name": "Arabic",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Arabic/2018/specification-and-sample-assessments/A-level-Arabic-Specification1.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/arabic-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9AD0",
+    "name": "Art and Design",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Art%20and%20Design/2015/specification-and-sample-assessment-materials/gce-a-level-art-and-design-specification-issue-4.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/art-and-design-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9BI0",
+    "name": "Biology B",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/biology-b/2015/specification-and-sample-assessment-materials/9781446930892-gce2015-a-biob-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/biology-b-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9BS0",
+    "name": "Business",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Business%20Studies/2015/specification-and-sample-assessment-materials/9781446914694-gce2015-a-bus-web.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/business-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9CH0",
+    "name": "Chemistry",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Chemistry/2015/Specification%20and%20sample%20assessments/a-level-chemistry-2015-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/chemistry-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9CN0",
+    "name": "Chinese",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Chinese/2017/specification-and-sample-assessments/Specification_GCE_A_level_L3_in_Chinese.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/chinese-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9DT0",
+    "name": "Design and Technology - Product Design",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Design%20and%20Technology%20-%20Product%20Design/2017/specification-and-sample-assessments/Pearson_Edexcel_Level_3_GCE_in_Design_and_Technology_Specification_issue2.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/design-and-technology-product-design-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9DR0",
+    "name": "Drama and Theatre",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Drama-and-Theatre/2016/Specification%20and%20sample%20assessments/a-level-drama-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/drama-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9EC0",
+    "name": "Economics A",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Economics/2015/specification-and-sample-assessment-materials/A_Level_Econ_A_Spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/economics-a-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9EB0",
+    "name": "Economics B",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Economics/2015/specification-and-sample-assessment-materials/9781446914410_GCE2015_A_ECOB_WEB%20spec.PDF",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/economics-b-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9EN0",
+    "name": "English Language",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/English%20Language/2015/Specification%20and%20sample%20assessment/AS-EnglishLanguage-Spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-language-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9EL0",
+    "name": "English Language and Literature",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/English%20Language%20and%20Literature/2015/Specification%20and%20sample%20assessments/a-level-englishlanglit-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-language-and-literature-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9ET0",
+    "name": "English Literature",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/English%20Literature/2015/Specification%20and%20sample%20assessments/gce2015-a-level-eng-lit-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-literature-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9FR0",
+    "name": "French",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/Specification%20and%20sample%20assessments/Specification_GCE_A_level_L3_in_French.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/french-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9GE0",
+    "name": "Geography",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Geography/2016/specification-and-sample-assessments/pearson-edexcel-a-level-geography-issue-6.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/geography-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9GN0",
+    "name": "German",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/German/2016/Specification%20and%20sample%20assessments/Specification_GCE_A_level_L3_in_German.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/german-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9GK0",
+    "name": "Greek",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Greek/2018/specification/A-level-Greek-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/greek-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9GU0",
+    "name": "Gujarati",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Gujarati/2018/specification-and-sample-assessments/A-level-Gujarati-Specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/gujarati-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9HT0",
+    "name": "History of Art",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/history-of-art/2017/specification-and-sample-assessments/specification-and-sample-assessments-GCE-HISOFART-SPEC.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/history-of-art-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9IN0",
+    "name": "Italian",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Italian/2017/specification-and-sample-assessments/Specification_GCE_A_level_L3_in_Italian_August_2016_Draft.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/italian-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9JA0",
+    "name": "Japanese",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Japanese/2018/specification-and-sample-assessments/a-level-japanese-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/japanese-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9MA0",
+    "name": "Mathematics",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Mathematics/2017/specification-and-sample-assesment/a-level-l3-mathematics-specification-issue4.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/mathematics-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9MU0",
+    "name": "Music",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Music/2016/Specification%20and%20sample%20assessments/Pearson_Edexcel_Level_3_Advanced_GCE_in_Music_9MU0_specification_issue7.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/music-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9MT0",
+    "name": "Music Technology",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Music-Technology/2017/specification-and-sample-assessments/Pearson_Edexcel_Level_3_Advanced_GCE_in_Music_Technology_Specification_issue3.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/music-technology-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9PE0",
+    "name": "Persian",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Persian/2018/specification-and-sample-assessments/A-level-Persian-Specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/persian-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9PE1",
+    "name": "Physical Education",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Physical%20Education/2016/Specification%20and%20sample%20assessments/a-level-pe-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/physical-education-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9PH0",
+    "name": "Physics",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Physics/2015/Specification%20and%20sample%20assessments/pearsonedexcel-alevel-physics-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/physics-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9PL0",
+    "name": "Politics",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Politics/2017/Specification%20and%20sample%20assessments/A-level-Politics-Specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/politics-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9PT0",
+    "name": "Portuguese",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Portuguese/2018/specification-and-sample-assessments/A-level-Portugese-Specification1.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/portuguese-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9PS0",
+    "name": "Psychology",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Psychology/2015/specification-and-sample-assessments/al-specification-psychology.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/psychology-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9RS0",
+    "name": "Religious Studies",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Religious%20Studies/2016/Specification%20and%20sample%20assessments/Specification_GCE_A_Level_in_Religious_Studies.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/religious-studies-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9RU0",
+    "name": "Russian",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Russian/2017/specification-sample-assessments/Specification_GCE_A_level_L3_in_Russian.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/russian-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9SP0",
+    "name": "Spanish",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Spanish/2016/Specification%20and%20sample%20assessments/Specification_GCE_A_level_L3_in_Spanish.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/spanish-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9ST0",
+    "name": "Statistics",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/statistics/2017/Specification%20and%20Sample%20assessment%20material/a-level-statistics-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/statistics-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9TU0",
+    "name": "Turkish",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Turkish/2018/specification-and-sample-assessments/A-level-Turkish-Specification11.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/turkish-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "9UR0",
+    "name": "Urdu",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018/specification-and-sample-assessments/A-level-Urdu-Specification11.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/urdu-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  }
+]
+
