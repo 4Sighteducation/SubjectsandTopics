@@ -749,13 +749,41 @@ https://qualifications.pearson.com/content/dam/pdf/A-Level/Drama/2023/Exam-mater
       
       resultsDiv.innerHTML = `<div style="color: #00f5ff;">Uploading ${papers.length} sets...</div>`;
       
-      await sb.from('staging_aqa_exam_papers').delete().eq('subject_id', currentSubjectId);
-      const { error } = await sb.from('staging_aqa_exam_papers').insert(papers.map(p => ({subject_id: currentSubjectId, ...p})));
+      // DON'T delete - append to existing papers
+      // Use upsert to avoid duplicates (based on year, series, paper_number)
+      const toInsert = papers.map(p => ({subject_id: currentSubjectId, ...p}));
+      
+      // Insert one by one to handle conflicts
+      let inserted = 0;
+      let updated = 0;
+      
+      for (const paper of toInsert) {
+        // Check if paper already exists
+        const { data: existing } = await sb.from('staging_aqa_exam_papers')
+          .select('id')
+          .eq('subject_id', currentSubjectId)
+          .eq('year', paper.year)
+          .eq('exam_series', paper.exam_series)
+          .eq('paper_number', paper.paper_number)
+          .maybeSingle();
+        
+        if (existing) {
+          // Update existing
+          await sb.from('staging_aqa_exam_papers').update(paper).eq('id', existing.id);
+          updated++;
+        } else {
+          // Insert new
+          await sb.from('staging_aqa_exam_papers').insert(paper);
+          inserted++;
+        }
+      }
+      
+      const error = null; // No error if we got here
       
       if (error) {
         resultsDiv.innerHTML = `<div style="color: #ff4444;">Failed: ${error.message}</div>`;
       } else {
-        resultsDiv.innerHTML = `<div style="color: #00ff88;">✅ Uploaded ${papers.length} papers!</div>`;
+        resultsDiv.innerHTML = `<div style="color: #00ff88;">✅ ${inserted} new, ${updated} updated!</div>`;
         setTimeout(() => refreshTopicList(), 1500);
       }
     }
