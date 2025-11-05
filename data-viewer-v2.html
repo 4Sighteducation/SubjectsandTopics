@@ -356,6 +356,7 @@
             ${p.question_paper_url ? `<a href="${p.question_paper_url}" target="_blank" class="paper-link">📄 Question</a>` : ''}
             ${p.mark_scheme_url ? `<a href="${p.mark_scheme_url}" target="_blank" class="paper-link">📝 Marks</a>` : ''}
             ${p.examiner_report_url ? `<a href="${p.examiner_report_url}" target="_blank" class="paper-link">📊 Report</a>` : ''}
+            ${p.source_material_url ? `<a href="${p.source_material_url}" target="_blank" class="paper-link">📚 Source</a>` : ''}
           </div>`;
         });
         detailsHtml += `</div>`;
@@ -686,25 +687,54 @@ https://qualifications.pearson.com/content/dam/pdf/A-Level/Drama/2023/Exam-mater
       for (const url of lines) {
         try {
           const filename = url.split('/').pop();
-          const match = filename.match(/(\d[a-z]{2,3}\d)[-_](\d+)[-_]([a-z]{3})[-_](\d{8})/i);
           
-          if (!match) continue;
+          // Try standard pattern first: 9dr0-03-que-20230605.pdf or 9DR0_03_msc_20201217.pdf
+          let match = filename.match(/(\d[a-z]{2,3}\d)[-_](\d+)[-_]([a-z]{3})[-_](\d{8})/i);
           
-          const paperNum = parseInt(match[2]);
-          const docType = match[3].toLowerCase();
-          const dateStr = match[4];
-          const year = parseInt(dateStr.substring(0, 4));
-          const month = parseInt(dateStr.substring(4, 6));
-          const series = month >= 10 ? 'October' : month >= 5 ? 'June' : 'January';
+          let paperNum, docType, year, month, series;
           
-          const docTypes = {'que': 'question_paper_url', 'rms': 'mark_scheme_url', 'pef': 'examiner_report_url'};
+          if (match) {
+            // Standard pattern
+            paperNum = parseInt(match[2]);
+            docType = match[3].toLowerCase();
+            const dateStr = match[4];
+            year = parseInt(dateStr.substring(0, 4));
+            month = parseInt(dateStr.substring(4, 6));
+            series = month >= 10 ? 'October' : month >= 5 ? 'June' : 'January';
+          } else {
+            // Try alternative pattern for source materials: A-Level-Booklet-Drama-9DR0-03-2020.pdf
+            match = filename.match(/(\d[a-z]{2,3}\d)[-_](\d+)[-_](\d{4})/i);
+            if (match) {
+              paperNum = parseInt(match[2]);
+              year = parseInt(match[3]);
+              // Assume June for source materials if no month specified
+              series = 'June';
+              docType = 'src'; // source material
+            } else {
+              errors.push(`Could not parse: ${filename}`);
+              continue;
+            }
+          }
+          
+          const docTypes = {
+            'que': 'question_paper_url',
+            'rms': 'mark_scheme_url',
+            'msc': 'mark_scheme_url',  // Alternative mark scheme code
+            'ms': 'mark_scheme_url',   // Another variant
+            'pef': 'examiner_report_url',
+            'er': 'examiner_report_url',
+            'src': 'source_material_url' // Source materials/booklets
+          };
           const urlField = docTypes[docType];
-          if (!urlField) continue;
+          if (!urlField) {
+            errors.push(`Unknown type: ${docType}`);
+            continue;
+          }
           
           let paperSet = papers.find(p => p.year === year && p.exam_series === series && p.paper_number === paperNum);
           
           if (!paperSet) {
-            paperSet = {year, exam_series: series, paper_number: paperNum, component_code: paperNum.toString().padStart(2, '0'), tier: null, question_paper_url: null, mark_scheme_url: null, examiner_report_url: null};
+            paperSet = {year, exam_series: series, paper_number: paperNum, component_code: paperNum.toString().padStart(2, '0'), tier: null, question_paper_url: null, mark_scheme_url: null, examiner_report_url: null, source_material_url: null};
             papers.push(paperSet);
           }
           
