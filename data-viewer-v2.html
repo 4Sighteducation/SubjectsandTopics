@@ -356,6 +356,7 @@
             ${p.question_paper_url ? `<a href="${p.question_paper_url}" target="_blank" class="paper-link">📄 Question</a>` : ''}
             ${p.mark_scheme_url ? `<a href="${p.mark_scheme_url}" target="_blank" class="paper-link">📝 Marks</a>` : ''}
             ${p.examiner_report_url ? `<a href="${p.examiner_report_url}" target="_blank" class="paper-link">📊 Report</a>` : ''}
+            ${p.source_material_url ? `<a href="${p.source_material_url}" target="_blank" class="paper-link">📚 Source</a>` : ''}
           </div>`;
         });
         detailsHtml += `</div>`;
@@ -721,12 +722,11 @@ https://qualifications.pearson.com/content/dam/pdf/A-Level/Drama/2023/Exam-mater
             'msc': 'mark_scheme_url',  // Alternative mark scheme code
             'ms': 'mark_scheme_url',   // Another variant
             'pef': 'examiner_report_url',
-            'er': 'examiner_report_url'
+            'er': 'examiner_report_url',
+            'src': 'source_material_url' // Source materials/booklets
           };
           const urlField = docTypes[docType];
           if (!urlField) {
-            // Skip source materials (src) - table doesn't have that column yet
-            if (docType === 'src') continue;
             errors.push(`Unknown type: ${docType}`);
             continue;
           }
@@ -734,7 +734,7 @@ https://qualifications.pearson.com/content/dam/pdf/A-Level/Drama/2023/Exam-mater
           let paperSet = papers.find(p => p.year === year && p.exam_series === series && p.paper_number === paperNum);
           
           if (!paperSet) {
-            paperSet = {year, exam_series: series, paper_number: paperNum, component_code: paperNum.toString().padStart(2, '0'), tier: null, question_paper_url: null, mark_scheme_url: null, examiner_report_url: null};
+            paperSet = {year, exam_series: series, paper_number: paperNum, component_code: paperNum.toString().padStart(2, '0'), tier: null, question_paper_url: null, mark_scheme_url: null, examiner_report_url: null, source_material_url: null};
             papers.push(paperSet);
           }
           
