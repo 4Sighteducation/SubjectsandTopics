@@ -361,6 +361,28 @@
         detailsHtml += `</div>`;
       }
       
+      // Manual Paper Entry
+      detailsHtml += `
+        <div style="margin-top: 20px;">
+          <button class="add-topic-btn" onclick="toggleManualPaperEntry()">📋 Manual Paper Entry (Paste URLs)</button>
+          <div id="manual-paper-form" style="display:none;" class="add-topic-form">
+            <h3 style="color: #00f5ff; margin-bottom: 15px;">Manual Paper Entry</h3>
+            <p style="color: #94a3b8; margin-bottom: 15px;">Paste paper URLs (one per line) when Selenium fails!</p>
+            
+            <label>Paper URLs (one per line)</label>
+            <textarea id="manual-paper-urls" rows="10" style="width: 100%; padding: 10px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.2); color: #e2e8f0; border-radius: 4px; font-family: monospace; font-size: 12px;" placeholder="https://qualifications.pearson.com/content/dam/pdf/A-Level/Drama/2023/Exam-materials/9dr0-03-que-20230605.pdf
+https://qualifications.pearson.com/content/dam/pdf/A-Level/Drama/2023/Exam-materials/9dr0-03-rms-20230817.pdf"></textarea>
+            
+            <div class="form-buttons" style="margin-top: 15px;">
+              <button onclick="parseAndUploadManualPapers()">🚀 Parse & Upload Papers</button>
+              <button class="cancel-btn" onclick="toggleManualPaperEntry()">✖ Cancel</button>
+            </div>
+            
+            <div id="manual-paper-results" style="margin-top: 15px; color: #94a3b8; font-size: 13px;"></div>
+          </div>
+        </div>
+      `;
+      
       // Topics with drag & drop
       detailsHtml += `<h3 style="margin-top: 20px; color: #00f5ff;">📚 Topics (${allTopics.length})</h3>`;
       detailsHtml += `<div class="topics-list">`;
@@ -637,6 +659,74 @@
       } else {
         hideAddTopicForm();
         refreshTopicList();
+      }
+    }
+
+    // MANUAL PAPER ENTRY
+    function toggleManualPaperEntry() {
+      const form = document.getElementById('manual-paper-form');
+      form.style.display = form.style.display === 'none' ? 'block' : 'none';
+      document.getElementById('manual-paper-results').innerHTML = '';
+    }
+
+    async function parseAndUploadManualPapers() {
+      const urls = document.getElementById('manual-paper-urls').value.trim();
+      const resultsDiv = document.getElementById('manual-paper-results');
+      
+      if (!urls) {
+        resultsDiv.innerHTML = '<div style="color: #ff4444;">Please paste URLs!</div>';
+        return;
+      }
+      
+      resultsDiv.innerHTML = '<div style="color: #00f5ff;">Parsing...</div>';
+      
+      const lines = urls.split('\n').map(l => l.trim()).filter(l => l);
+      const papers = [];
+      
+      for (const url of lines) {
+        try {
+          const filename = url.split('/').pop();
+          const match = filename.match(/(\d[a-z]{2,3}\d)[-_](\d+)[-_]([a-z]{3})[-_](\d{8})/i);
+          
+          if (!match) continue;
+          
+          const paperNum = parseInt(match[2]);
+          const docType = match[3].toLowerCase();
+          const dateStr = match[4];
+          const year = parseInt(dateStr.substring(0, 4));
+          const month = parseInt(dateStr.substring(4, 6));
+          const series = month >= 10 ? 'October' : month >= 5 ? 'June' : 'January';
+          
+          const docTypes = {'que': 'question_paper_url', 'rms': 'mark_scheme_url', 'pef': 'examiner_report_url'};
+          const urlField = docTypes[docType];
+          if (!urlField) continue;
+          
+          let paperSet = papers.find(p => p.year === year && p.exam_series === series && p.paper_number === paperNum);
+          
+          if (!paperSet) {
+            paperSet = {year, exam_series: series, paper_number: paperNum, component_code: paperNum.toString().padStart(2, '0'), tier: null, question_paper_url: null, mark_scheme_url: null, examiner_report_url: null};
+            papers.push(paperSet);
+          }
+          
+          paperSet[urlField] = url;
+        } catch (e) {}
+      }
+      
+      if (papers.length === 0) {
+        resultsDiv.innerHTML = '<div style="color: #ff4444;">No valid papers!</div>';
+        return;
+      }
+      
+      resultsDiv.innerHTML = `<div style="color: #00f5ff;">Uploading ${papers.length} sets...</div>`;
+      
+      await sb.from('staging_aqa_exam_papers').delete().eq('subject_id', currentSubjectId);
+      const { error } = await sb.from('staging_aqa_exam_papers').insert(papers.map(p => ({subject_id: currentSubjectId, ...p})));
+      
+      if (error) {
+        resultsDiv.innerHTML = `<div style="color: #ff4444;">Failed: ${error.message}</div>`;
+      } else {
+        resultsDiv.innerHTML = `<div style="color: #00ff88;">✅ Uploaded ${papers.length} papers!</div>`;
+        setTimeout(() => refreshTopicList(), 1500);
       }
     }
 
