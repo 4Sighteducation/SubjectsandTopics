@@ -80,16 +80,14 @@ def parse_pdf_filename(filename, href):
     if code != '1cp2':
         return None
     
-    # Only accept valid paper numbers (01, 02)
-    # Filter out grade boundaries, guidance docs, etc.
-    if paper_num not in ['01', '02']:
+    # Only accept valid paper numbers (01 only for Computer Science)
+    # Note: Paper 02 is onscreen practical - no traditional past papers
+    if paper_num not in ['01']:
         return None
     
     # Determine paper title
     if paper_num == '01':
         paper_title = 'Paper 1: Principles of Computer Science'
-    elif paper_num == '02':
-        paper_title = 'Paper 2: Application of Computational Thinking'
     else:
         paper_title = f'Paper {paper_num}'
     
@@ -100,11 +98,12 @@ def parse_pdf_filename(filename, href):
     elif 'ms' in doc_type_code or 'mark' in doc_type_code:
         doc_type = 'mark_scheme'
         doc_name = 'Mark Scheme'
-    elif 'er' in doc_type_code or 'report' in doc_type_code:
+    elif 'pef' in doc_type_code or 'er' in doc_type_code or 'report' in doc_type_code:
+        # PEF = Principal Examiner Feedback (Edexcel's term for Examiner Report)
         doc_type = 'examiner_report'
         doc_name = "Examiner's Report"
     else:
-        # Skip non-exam documents (PEF, guidance, etc.)
+        # Skip non-exam documents (guidance, etc.)
         return None
     
     # Parse date (YYYYMMDD)
