@@ -86,14 +86,14 @@ GCSE_SUBJECTS = {
     },
     'GCSE-ComputerScience': {
         'name': 'Computer Science',
-        'code': '1cp0',
+        'code': '1cp2',  # FIXED: 2020 spec uses 1cp2, not 1cp0
         'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/computer-science-2020.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
         'has_tiers': False
     },
     'GCSE-DesignTech': {
         'name': 'Design and Technology',
         'code': '1dt0',
-        'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/design-and-technology-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
+        'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/design-and-technology-9-1-from-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
         'has_tiers': False
     },
     'GCSE-Drama': {
@@ -150,9 +150,33 @@ GCSE_SUBJECTS = {
         'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/gujarati-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
         'has_tiers': True
     },
+    'GCSE-Biology': {
+        'name': 'Biology',
+        'code': '1bi0',
+        'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/sciences-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
+        'has_tiers': True  # Foundation/Higher
+    },
+    'GCSE-Chemistry': {
+        'name': 'Chemistry',
+        'code': '1ch0',
+        'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/sciences-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
+        'has_tiers': True  # Foundation/Higher
+    },
+    'GCSE-GeoA': {  # Database uses GCSE-GeoA
+        'name': 'Geography A',
+        'code': '1ga0',
+        'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/geography-a-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
+        'has_tiers': False
+    },
+    'GCSE-GeoB': {  # Database uses GCSE-GeoB
+        'name': 'Geography B',
+        'code': '1gb0',
+        'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/geography-b-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
+        'has_tiers': False
+    },
     'GCSE-History': {
         'name': 'History',
-        'code': '1hi0',
+        'code': '1hia',  # FIXED: Papers use 1hia, not 1hi0
         'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/history-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
         'has_tiers': False
     },
@@ -168,7 +192,7 @@ GCSE_SUBJECTS = {
         'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/japanese-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
         'has_tiers': True
     },
-    'GCSE-Mathematics': {
+    'GCSE-Maths': {  # Database uses GCSE-Maths
         'name': 'Mathematics',
         'code': '1ma1',
         'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/mathematics-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
@@ -192,6 +216,12 @@ GCSE_SUBJECTS = {
         'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/physical-education-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
         'has_tiers': False
     },
+    'GCSE-Physics': {
+        'name': 'Physics',
+        'code': '1ph0',
+        'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/sciences-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
+        'has_tiers': True  # Foundation/Higher
+    },
     'GCSE-Portuguese': {
         'name': 'Portuguese',
         'code': '1pg0',
@@ -204,13 +234,13 @@ GCSE_SUBJECTS = {
         'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/psychology-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
         'has_tiers': False
     },
-    'GCSE-ReligiousStudiesA': {
+    'GCSE-RSA': {  # Database uses GCSE-RSA (full course only)
         'name': 'Religious Studies A',
         'code': '1ra0',
         'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/religious-studies-a-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
         'has_tiers': False
     },
-    'GCSE-ReligiousStudiesB': {
+    'GCSE-RSB': {  # Database uses GCSE-RSB (full course only)
         'name': 'Religious Studies B',
         'code': '1rb0',
         'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/religious-studies-b-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
@@ -225,7 +255,7 @@ GCSE_SUBJECTS = {
     'GCSE-Science': {
         'name': 'Science (Double Award)',
         'code': '1sc0',
-        'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/science-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
+        'url': 'https://qualifications.pearson.com/en/qualifications/edexcel-gcses/sciences-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials',
         'has_tiers': True
     },
     'GCSE-Spanish': {
@@ -296,7 +326,26 @@ def parse_filename_smart(filename, subject_code, has_tiers):
         'er': 'Examiner Report'
     }
     
-    # Pattern 0: Combined Science special format - 1sc0-2bh-que-20220616.pdf
+    # Pattern 0a: History special format - 1hia-p5-que-20220622.pdf
+    # Format: {code}-p{paper_num}-{type}-{date}
+    # History papers use 'p' prefix for paper numbers
+    if subject_code == '1hia':
+        pattern = r'1hia-p(\d+)-([a-z]{2,3})-(\d{8})'
+        match = re.search(pattern, filename_lower)
+        if match:
+            paper_num = int(match.group(1))
+            doc_type_code = match.group(2)
+            date_str = match.group(3)
+            
+            return {
+                'paper_num': paper_num,
+                'tier': None,
+                'doc_type': doc_type_map.get(doc_type_code, 'Question Paper'),
+                'year': int(date_str[:4]),
+                'month': int(date_str[4:6])
+            }
+    
+    # Pattern 0b: Combined Science special format - 1sc0-2bh-que-20220616.pdf
     # Format: {code}-{paper}{subject}{tier}-{type}-{date}
     # subject: b=biology, c=chemistry, p=physics
     # tier: f=foundation, h=higher
@@ -325,6 +374,26 @@ def parse_filename_smart(filename, subject_code, has_tiers):
                 'month': int(date_str[4:6]),
                 'component_code': component_code,
                 'subject_name': subject_name
+            }
+    
+    # Pattern 0c: Religious Studies format with letter suffix - 3ra0-03-que-20220609.pdf or 1ra0-3c-que-20220609.pdf
+    # Short course uses 3ra0/3rb0, full course uses 1ra0/1rb0
+    # May have letter suffix for paper options (e.g., 3c)
+    if subject_code in ['1ra0', '3ra0', '1rb0', '3rb0']:
+        # Try with letter suffix first (e.g., 1ra0-3c-que-...)
+        pattern = rf'{subject_code}[-_](\d+)([a-z])[-_]([a-z]{{2,3}})[-_](\d{{8}})'
+        match = re.search(pattern, filename_lower)
+        if match:
+            paper_num = int(match.group(1))
+            paper_option = match.group(2).upper()  # A, B, C, etc.
+            component_code = f"{paper_num}{paper_option}"  # e.g., "3C"
+            return {
+                'paper_num': paper_num,
+                'tier': None,
+                'doc_type': doc_type_map.get(match.group(3), 'Question Paper'),
+                'year': int(match.group(4)[:4]),
+                'month': int(match.group(4)[4:6]),
+                'component_code': component_code
             }
     
     # Pattern 1: Standard with tier - 1aa0-1f-que-20230516.pdf
@@ -423,17 +492,17 @@ def scrape_subject_papers(subject_code, subject_info, driver):
         
         # Scroll to load all content (triggers lazy loading)
         print("[INFO] Scrolling to load all PDFs...")
-        for i in range(25):
+        for i in range(35):  # Increased scrolls for science pages
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(0.5)  # Increased wait between scrolls
+            time.sleep(0.7)  # Longer wait between scrolls
             
             # Every 5 scrolls, wait a bit longer for Angular to catch up
             if i % 5 == 0:
-                time.sleep(1)
+                time.sleep(2)  # Increased wait
         
         # Final wait for Angular to finish rendering
         print("[INFO] Waiting for Angular to finish rendering PDFs...")
-        time.sleep(5)
+        time.sleep(8)  # Increased wait for heavy pages
         
         # Save page source for debugging
         page_source = driver.page_source
@@ -518,8 +587,8 @@ def scrape_subject_papers(subject_code, subject_info, driver):
         if papers:
             sets = {}
             for paper in papers:
-                # Key includes tier if present
-                key = (paper['year'], paper['exam_series'], paper['paper_number'], paper['tier'])
+                # Key includes tier AND component_code (for Combined Science with multiple subjects)
+                key = (paper['year'], paper['exam_series'], paper['paper_number'], paper['tier'], paper['component_code'])
                 
                 if key not in sets:
                     sets[key] = {
@@ -562,7 +631,7 @@ def scrape_subject_papers(subject_code, subject_info, driver):
                 exam_board='Edexcel'
             )
             
-            print(f"\n✅ {subject_info['name']}: {uploaded} paper sets uploaded!")
+            print(f"\n[SUCCESS] {subject_info['name']}: {uploaded} paper sets uploaded!")
             return uploaded
         else:
             print(f"[WARN] No papers found for {subject_info['name']}")
@@ -644,21 +713,21 @@ def main():
     
     if results['success']:
         total_sets = sum(r['sets'] for r in results['success'])
-        print(f"\n✅ Successfully uploaded: {len(results['success'])}/{len(subjects_to_scrape)} subjects")
+        print(f"\n[SUCCESS] Successfully uploaded: {len(results['success'])}/{len(subjects_to_scrape)} subjects")
         print(f"   Total paper sets: {total_sets}")
         print(f"\n   Details:")
         for r in results['success']:
-            print(f"   • {r['name']}: {r['sets']} sets")
+            print(f"   * {r['name']}: {r['sets']} sets")
     
     if results['no_papers']:
-        print(f"\n⚠️  No papers found: {len(results['no_papers'])}")
+        print(f"\n[WARN] No papers found: {len(results['no_papers'])}")
         for name in results['no_papers']:
-            print(f"   • {name}")
+            print(f"   * {name}")
     
     if results['failed']:
-        print(f"\n❌ Failed: {len(results['failed'])}")
+        print(f"\n[ERROR] Failed: {len(results['failed'])}")
         for name in results['failed']:
-            print(f"   • {name}")
+            print(f"   * {name}")
     
     print("\n" + "=" * 80)
 
