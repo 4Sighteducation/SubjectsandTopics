@@ -7,7 +7,7 @@
 SELECT 
   'Exam Boards' as check_name,
   code,
-  name as full_name,
+  full_name,
   active,
   id
 FROM exam_boards
@@ -19,7 +19,7 @@ ORDER BY code;
 SELECT 
   'Qualification Types' as check_name,
   code,
-  name as full_name,
+  full_name,
   id
 FROM qualification_types
 ORDER BY code;

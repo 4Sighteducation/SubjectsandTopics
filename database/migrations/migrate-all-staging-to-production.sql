@@ -8,32 +8,32 @@ BEGIN;
 -- ========================================
 -- STEP 1: Ensure ALL exam boards exist
 -- ========================================
-INSERT INTO exam_boards (code, name, active)
+INSERT INTO exam_boards (code, full_name, active, country)
 VALUES 
-  ('AQA', 'Assessment and Qualifications Alliance', true),
-  ('Edexcel', 'Pearson Edexcel', true),
-  ('EDEXCEL', 'Pearson Edexcel', true),
-  ('OCR', 'Oxford, Cambridge and RSA', true),
-  ('WJEC', 'Welsh Joint Education Committee', true),
-  ('EDUQAS', 'WJEC Eduqas', true),
-  ('CCEA', 'Council for Curriculum, Examinations & Assessment', true),
-  ('CIE', 'Cambridge International Examinations', true),
-  ('SQA', 'Scottish Qualifications Authority', true)
+  ('AQA', 'Assessment and Qualifications Alliance', true, 'UK'),
+  ('Edexcel', 'Pearson Edexcel', true, 'UK'),
+  ('EDEXCEL', 'Pearson Edexcel', true, 'UK'),
+  ('OCR', 'Oxford, Cambridge and RSA', true, 'UK'),
+  ('WJEC', 'Welsh Joint Education Committee', true, 'UK'),
+  ('EDUQAS', 'WJEC Eduqas', true, 'UK'),
+  ('CCEA', 'Council for Curriculum, Examinations & Assessment', true, 'UK'),
+  ('CIE', 'Cambridge International Examinations', true, 'International'),
+  ('SQA', 'Scottish Qualifications Authority', true, 'UK')
 ON CONFLICT (code) DO UPDATE SET
-  name = EXCLUDED.name,
+  full_name = EXCLUDED.full_name,
   active = EXCLUDED.active;
 
 -- ========================================
 -- STEP 2: Ensure ALL qualification types exist
 -- ========================================
-INSERT INTO qualification_types (code, name)
+INSERT INTO qualification_types (code, full_name)
 VALUES 
   ('A_LEVEL', 'A-Level'),
   ('GCSE', 'GCSE'),
   ('INTERNATIONAL_GCSE', 'International GCSE'),
   ('INTERNATIONAL_A_LEVEL', 'International A-Level')
 ON CONFLICT (code) DO UPDATE SET
-  name = EXCLUDED.name;
+  full_name = EXCLUDED.full_name;
 
 -- ========================================
 -- STEP 3: Get list of exam boards in staging

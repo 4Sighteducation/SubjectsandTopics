@@ -7,23 +7,23 @@ BEGIN;
 -- ========================================
 -- STEP 1: Ensure Edexcel exam board exists
 -- ========================================
-INSERT INTO exam_boards (code, name, active)
-VALUES ('Edexcel', 'Pearson Edexcel', true)
+INSERT INTO exam_boards (code, full_name, active, country)
+VALUES ('Edexcel', 'Pearson Edexcel', true, 'UK')
 ON CONFLICT (code) DO UPDATE SET
-  name = EXCLUDED.name,
+  full_name = EXCLUDED.full_name,
   active = EXCLUDED.active;
 
 -- ========================================
 -- STEP 2: Ensure qualification types exist
 -- ========================================
-INSERT INTO qualification_types (code, name)
+INSERT INTO qualification_types (code, full_name)
 VALUES 
   ('A_LEVEL', 'A-Level'),
   ('GCSE', 'GCSE'),
   ('INTERNATIONAL_GCSE', 'International GCSE'),
   ('INTERNATIONAL_A_LEVEL', 'International A-Level')
 ON CONFLICT (code) DO UPDATE SET
-  name = EXCLUDED.name;
+  full_name = EXCLUDED.full_name;
 
 -- ========================================
 -- STEP 3: Migrate Subjects (staging → production)
