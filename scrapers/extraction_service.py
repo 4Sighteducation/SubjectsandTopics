@@ -17,12 +17,24 @@ from dotenv import load_dotenv
 # Load environment
 load_dotenv()
 
-# Initialize clients
-openai_client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-supabase = create_client(
-    os.getenv('SUPABASE_URL'),
-    os.getenv('SUPABASE_SERVICE_KEY')
-)
+# Initialize clients (lazy - only when needed)
+openai_client = None
+supabase = None
+
+def get_openai_client():
+    global openai_client
+    if openai_client is None:
+        openai_client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+    return openai_client
+
+def get_supabase_client():
+    global supabase
+    if supabase is None:
+        supabase = create_client(
+            os.getenv('SUPABASE_URL'),
+            os.getenv('SUPABASE_SERVICE_KEY')
+        )
+    return supabase
 
 def extract_pages_as_images(pdf_content: bytes, skip_pages=1) -> dict:
     """Convert PDF pages to images"""
@@ -101,7 +113,8 @@ Return as: {"questions": [...]}'''
         })
     
     # Call OpenAI
-    response = openai_client.chat.completions.create(
+    client = get_openai_client()
+    response = client.chat.completions.create(
         model='gpt-4o',
         messages=[{'role': 'user', 'content': content}],
         max_tokens=16000,
@@ -116,7 +129,8 @@ Return as: {"questions": [...]}'''
         q['paper_id'] = paper_id
         
     if questions:
-        supabase.table('exam_questions').insert(questions).execute()
+        sb = get_supabase_client()
+        sb.table('exam_questions').insert(questions).execute()
     
     return questions
 
@@ -155,7 +169,8 @@ Return as: {"mark_schemes": [...]}'''
         })
     
     # Call OpenAI
-    response = openai_client.chat.completions.create(
+    client = get_openai_client()
+    response = client.chat.completions.create(
         model='gpt-4o',
         messages=[{'role': 'user', 'content': content}],
         max_tokens=16000,
@@ -166,7 +181,8 @@ Return as: {"mark_schemes": [...]}'''
     mark_schemes = result.get('mark_schemes', [])
     
     # Link to questions and store
-    questions = supabase.table('exam_questions').select('*').eq('paper_id', paper_id).execute()
+    sb = get_supabase_client()
+    questions = sb.table('exam_questions').select('*').eq('paper_id', paper_id).execute()
     question_map = {q['full_question_number']: q['id'] for q in questions.data}
     
     for ms in mark_schemes:
@@ -174,7 +190,7 @@ Return as: {"mark_schemes": [...]}'''
         if q_num in question_map:
             ms['question_id'] = question_map[q_num]
             ms['marking_points'] = json.dumps(ms['marking_points'])
-            supabase.table('mark_schemes').insert(ms).execute()
+            sb.table('mark_schemes').insert(ms).execute()
     
     return mark_schemes
 
@@ -182,8 +198,9 @@ def mark_answer(question_id: str, user_answer: str, user_id: str) -> dict:
     """Mark a student's answer using AI + mark scheme"""
     
     # Get question and mark scheme
-    question = supabase.table('exam_questions').select('*').eq('id', question_id).single().execute()
-    mark_scheme = supabase.table('mark_schemes').select('*').eq('question_id', question_id).maybeSingle().execute()
+    sb = get_supabase_client()
+    question = sb.table('exam_questions').select('*').eq('id', question_id).single().execute()
+    mark_scheme = sb.table('mark_schemes').select('*').eq('question_id', question_id).maybeSingle().execute()
     
     if not question.data:
         raise Exception('Question not found')
@@ -211,7 +228,8 @@ Award marks and provide feedback as JSON:
   "matched_points": ["Which marking points achieved"]
 }}'''
     
-    response = openai_client.chat.completions.create(
+    client = get_openai_client()
+    response = client.chat.completions.create(
         model='gpt-4o',
         messages=[{'role': 'user', 'content': prompt}],
         max_tokens=2000,
@@ -221,7 +239,8 @@ Award marks and provide feedback as JSON:
     marking = json.loads(response.choices[0].message.content)
     
     # Store attempt
-    supabase.table('student_attempts').insert({
+    sb = get_supabase_client()
+    sb.table('student_attempts').insert({
         'user_id': user_id,
         'question_id': question_id,
         'user_answer': user_answer,
