@@ -88,7 +88,7 @@ def copy_paper_to_production(staging_paper_id: str) -> str:
     ss = staging_subject.data
     
     # Find production subject
-    prod_subject = sb.table('exam_board_subjects').select('id').eq('subject_code', ss['subject_code']).maybeSingle().execute()
+    prod_subject = sb.table('exam_board_subjects').select('id').eq('subject_code', ss['subject_code']).maybe_single().execute()
     
     if not prod_subject.data:
         raise Exception('Production subject not found')
@@ -241,7 +241,7 @@ def mark_answer(question_id: str, user_answer: str, user_id: str) -> dict:
     # Get question and mark scheme
     sb = get_supabase_client()
     question = sb.table('exam_questions').select('*').eq('id', question_id).single().execute()
-    mark_scheme = sb.table('mark_schemes').select('*').eq('question_id', question_id).maybeSingle().execute()
+    mark_scheme = sb.table('mark_schemes').select('*').eq('question_id', question_id).maybe_single().execute()
     
     if not question.data:
         raise Exception('Question not found')
