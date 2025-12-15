@@ -227,11 +227,18 @@ Return as: {"mark_schemes": [...]}'''
     question_map = {q['full_question_number']: q['id'] for q in questions.data}
     
     for ms in mark_schemes:
-        q_num = ms['question_number']
+        q_num = ms.pop('question_number')  # Remove from dict, get value
         if q_num in question_map:
-            ms['question_id'] = question_map[q_num]
-            ms['marking_points'] = json.dumps(ms['marking_points'])
-            sb.table('mark_schemes').insert(ms).execute()
+            # Build clean insert object matching schema
+            insert_data = {
+                'question_id': question_map[q_num],
+                'max_marks': ms.get('max_marks'),
+                'marking_points': ms.get('marking_points'),  # Already JSONB
+                'levels': ms.get('levels'),  # Already JSONB if present
+                'examiner_notes': ms.get('examiner_notes'),
+                'common_errors': ms.get('common_errors', []),
+            }
+            sb.table('mark_schemes').insert(insert_data).execute()
     
     return mark_schemes
 
