@@ -121,9 +121,10 @@ def mark_answer_endpoint():
         question_id = data.get('question_id')
         user_answer = data.get('user_answer')
         user_id = data.get('user_id')
+        time_taken_seconds = data.get('time_taken_seconds', 0)
         
         # Mark the answer
-        marking = mark_answer(question_id, user_answer, user_id)
+        marking = mark_answer(question_id, user_answer, user_id, time_taken_seconds)
         
         return jsonify({
             'success': True,

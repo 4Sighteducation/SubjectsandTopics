@@ -249,7 +249,7 @@ Return as: {"mark_schemes": [...]}'''
     
     return mark_schemes
 
-def mark_answer(question_id: str, user_answer: str, user_id: str) -> dict:
+def mark_answer(question_id: str, user_answer: str, user_id: str, time_taken_seconds: int = 0) -> dict:
     """Mark a student's answer using AI + mark scheme"""
     
     # Get question and mark scheme
@@ -304,6 +304,7 @@ Award marks and provide feedback as JSON:
         'ai_feedback': marking['feedback'],
         'strengths': marking.get('strengths', []),
         'improvements': marking.get('improvements', []),
+        'time_taken_seconds': time_taken_seconds,  # Save timer data!
     }).execute()
     
     return marking
