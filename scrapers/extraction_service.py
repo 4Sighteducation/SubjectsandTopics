@@ -165,13 +165,20 @@ Return as: {"questions": [...]}'''
     result = json.loads(response.choices[0].message.content)
     questions = result.get('questions', [])
     
-    # Store in Supabase
+    # Store in Supabase (upsert to avoid duplicates)
     for q in questions:
         q['paper_id'] = paper_id
         
     if questions:
         sb = get_supabase_client()
-        sb.table('exam_questions').insert(questions).execute()
+        # Check if questions already exist
+        existing = sb.table('exam_questions').select('id').eq('paper_id', paper_id).execute()
+        
+        if existing.data and len(existing.data) > 0:
+            print(f"[INFO] Questions already extracted for this paper, skipping insert")
+        else:
+            sb.table('exam_questions').insert(questions).execute()
+            print(f"[INFO] Inserted {len(questions)} questions")
     
     return questions
 
@@ -248,13 +255,13 @@ def mark_answer(question_id: str, user_answer: str, user_id: str) -> dict:
     # Get question and mark scheme
     sb = get_supabase_client()
     question = sb.table('exam_questions').select('*').eq('id', question_id).single().execute()
-    mark_scheme = sb.table('mark_schemes').select('*').eq('question_id', question_id).maybe_single().execute()
+    mark_scheme_result = sb.table('mark_schemes').select('*').eq('question_id', question_id).maybe_single().execute()
     
     if not question.data:
         raise Exception('Question not found')
     
     q_data = question.data
-    ms_data = mark_scheme.data if mark_scheme.data else None
+    ms_data = mark_scheme_result.data if mark_scheme_result and mark_scheme_result.data else None
     
     # Build marking prompt
     prompt = f'''You are an expert examiner marking a student's answer.
