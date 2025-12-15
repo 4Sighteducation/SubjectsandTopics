@@ -71,8 +71,49 @@ def extract_pages_as_images(pdf_content: bytes, skip_pages=1) -> dict:
     
     return {'page_images': page_images}
 
+def copy_paper_to_production(staging_paper_id: str) -> str:
+    """Copy paper from staging to production exam_papers table"""
+    sb = get_supabase_client()
+    
+    # Get staging paper
+    staging_paper = sb.table('staging_aqa_exam_papers').select('*').eq('id', staging_paper_id).single().execute()
+    
+    if not staging_paper.data:
+        raise Exception('Staging paper not found')
+    
+    sp = staging_paper.data
+    
+    # Get staging subject to find production equivalent
+    staging_subject = sb.table('staging_aqa_subjects').select('*').eq('id', sp['subject_id']).single().execute()
+    ss = staging_subject.data
+    
+    # Find production subject
+    prod_subject = sb.table('exam_board_subjects').select('id').eq('subject_code', ss['subject_code']).maybeSingle().execute()
+    
+    if not prod_subject.data:
+        raise Exception('Production subject not found')
+    
+    # Insert into production exam_papers (or update if exists)
+    paper_data = {
+        'exam_board_subject_id': prod_subject.data['id'],
+        'year': sp['year'],
+        'exam_series': sp['exam_series'],
+        'paper_number': sp['paper_number'],
+        'question_paper_url': sp['question_paper_url'],
+        'mark_scheme_url': sp['mark_scheme_url'],
+        'examiner_report_url': sp['examiner_report_url'],
+    }
+    
+    # Use staging paper ID as production ID to maintain link
+    result = sb.table('exam_papers').upsert({'id': staging_paper_id, **paper_data}).execute()
+    
+    return staging_paper_id
+
 def extract_questions(question_url: str, paper_id: str) -> list:
     """Extract questions from question paper PDF"""
+    
+    # First, ensure paper exists in production table
+    copy_paper_to_production(paper_id)
     
     # Download PDF
     response = requests.get(question_url)
