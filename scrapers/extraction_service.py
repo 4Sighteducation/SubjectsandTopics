@@ -6,6 +6,7 @@ Stores results in Supabase
 
 import os
 import json
+import re
 import requests
 import base64
 import io
@@ -195,6 +196,27 @@ Return as: {"questions": [...]}'''
     
     result = json.loads(response.choices[0].message.content)
     questions = result.get('questions', [])
+
+    def _sanitize_string(s: str) -> str:
+        # Postgres TEXT cannot contain null bytes; PDFs sometimes yield them.
+        s = s.replace('\x00', '')
+        # Also strip other invisible control chars (keep \n, \t, \r)
+        s = re.sub(r'[\x01-\x08\x0B\x0C\x0E-\x1F\x7F]', '', s)
+        return s
+
+    def sanitize(obj):
+        if obj is None:
+            return None
+        if isinstance(obj, str):
+            return _sanitize_string(obj)
+        if isinstance(obj, list):
+            return [sanitize(x) for x in obj]
+        if isinstance(obj, dict):
+            return {k: sanitize(v) for k, v in obj.items()}
+        return obj
+
+    # Sanitize all extracted content before inserting into Supabase
+    questions = sanitize(questions)
     
     # Store in Supabase (upsert to avoid duplicates)
     for q in questions:
@@ -208,7 +230,14 @@ Return as: {"questions": [...]}'''
         if existing.data and len(existing.data) > 0:
             print(f"[INFO] Questions already extracted for this paper, skipping insert")
         else:
-            sb.table('exam_questions').insert(questions).execute()
+            try:
+                sb.table('exam_questions').insert(questions).execute()
+            except Exception as e:
+                # Add a tiny bit of debugging to pinpoint problematic rows if sanitization ever misses something
+                bad = [q for q in questions if any(isinstance(v, str) and '\x00' in v for v in q.values())]
+                if bad:
+                    print(f"[WARN] Found {len(bad)} question rows still containing null bytes after sanitize")
+                raise
             print(f"[INFO] Inserted {len(questions)} questions")
     
     return questions
