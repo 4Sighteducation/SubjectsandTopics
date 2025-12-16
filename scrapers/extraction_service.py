@@ -349,6 +349,36 @@ def mark_answer(question_id: str, user_answer: str, user_id: str, time_taken_sec
     
     q_data = question.data
     ms_data = mark_scheme_result.data if mark_scheme_result and mark_scheme_result.data else None
+
+    # If we don't have a mark scheme and this looks like a tick-box/MCQ/diagram question,
+    # do NOT guess. Return an explicit self-mark instruction.
+    q_text = (q_data.get('question_text') or '')
+    is_mcq_like = bool(re.search(r"tick\s*\(?.*?\)?\s*one\s*box|tick\s+one\s+box|multiple\s+choice", q_text, re.IGNORECASE))
+    is_diagram_like = bool(q_data.get('has_image')) and not q_data.get('image_url')
+    if ms_data is None and (is_mcq_like or is_diagram_like):
+        max_marks = int(q_data.get('marks') or 0)
+        marking = {
+            'marks_awarded': 0,
+            'max_marks': max_marks,
+            'feedback': 'Unable to mark accurately for this tick-box/diagram question without an extracted mark scheme. Please self-mark using the PDF/mark scheme.',
+            'strengths': [],
+            'improvements': [],
+            'matched_points': [],
+            'needs_self_mark': True,
+        }
+        # Store attempt as 0 marks to ensure attempt exists; user can overwrite by self-mark in the app.
+        sb.table('student_attempts').insert({
+            'user_id': user_id,
+            'question_id': question_id,
+            'user_answer': user_answer,
+            'marks_awarded': marking['marks_awarded'],
+            'max_marks': marking['max_marks'],
+            'ai_feedback': marking['feedback'],
+            'strengths': [],
+            'improvements': [],
+            'time_taken_seconds': time_taken_seconds,
+        }).execute()
+        return marking
     
     # Build marking prompt
     prompt = f'''You are an expert examiner marking a student's answer.
