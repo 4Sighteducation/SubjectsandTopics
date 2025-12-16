@@ -22,6 +22,21 @@ load_dotenv()
 openai_client = None
 supabase = None
 
+def normalize_question_number(s: str) -> str:
+    """
+    Normalize question identifiers so GCSE formats like '01.1' match '1.1'.
+    Also removes whitespace and a leading 'Question' label.
+    """
+    if not s:
+        return ''
+    s = str(s).strip()
+    s = re.sub(r'^(question)\s*', '', s, flags=re.IGNORECASE)
+    s = re.sub(r'\s+', '', s)
+    # Remove leading zeros in numeric groups (e.g. 01.1 -> 1.1)
+    s = re.sub(r'^0+(\d)', r'\1', s)
+    s = re.sub(r'(?<=\D)0+(\d)', r'\1', s)
+    return s
+
 def get_openai_client():
     global openai_client
     if openai_client is None:
@@ -291,22 +306,11 @@ Return as: {"mark_schemes": [...]}'''
     # Link to questions and store
     sb = get_supabase_client()
     questions = sb.table('exam_questions').select('*').eq('paper_id', paper_id).execute()
-    def normalize_qnum(s: str) -> str:
-        if not s:
-            return ''
-        s = str(s).strip()
-        s = re.sub(r'^(question)\s*', '', s, flags=re.IGNORECASE)
-        s = re.sub(r'\s+', '', s)
-        # Remove leading zeros in numeric groups (e.g. 01.1 -> 1.1)
-        s = re.sub(r'^0+(\d)', r'\1', s)
-        s = re.sub(r'(?<=\D)0+(\d)', r'\1', s)
-        return s
-
     # Build maps with normalized keys to handle GCSE formats like 01.1 vs 1.1
     question_map = {q['full_question_number']: q['id'] for q in questions.data}
     question_map_norm = {}
     for q in questions.data:
-        key = normalize_qnum(q.get('full_question_number'))
+        key = normalize_question_number(q.get('full_question_number'))
         if key and key not in question_map_norm:
             question_map_norm[key] = q['id']
     
@@ -316,7 +320,7 @@ Return as: {"mark_schemes": [...]}'''
         if q_num in question_map:
             matched_id = question_map[q_num]
         else:
-            q_norm = normalize_qnum(q_num)
+            q_norm = normalize_question_number(q_num)
             matched_id = question_map_norm.get(q_norm)
 
         if matched_id:
@@ -335,6 +339,124 @@ Return as: {"mark_schemes": [...]}'''
             print(f"[WARN] Mark scheme question_number did not match any extracted question: {q_num}")
     
     return mark_schemes
+
+def extract_examiner_report(examiner_report_url: str, paper_id: str) -> dict:
+    """Extract examiner report insights and store them in examiner_insights."""
+    if not examiner_report_url:
+        return {'inserted': 0, 'skipped': True, 'reason': 'no_url'}
+
+    sb = get_supabase_client()
+
+    # Skip if insights already exist (avoid duplicate inserts)
+    existing = sb.table('examiner_insights').select('id').eq('paper_id', paper_id).limit(1).execute()
+    if existing.data and len(existing.data) > 0:
+        print("[INFO] Examiner insights already exist for this paper, skipping insert")
+        return {'inserted': 0, 'skipped': True, 'reason': 'already_exists'}
+
+    # Download PDF
+    response = requests.get(examiner_report_url)
+    response.raise_for_status()
+
+    # Convert pages to images (skip cover)
+    pdf_data = extract_pages_as_images(response.content, skip_pages=1)
+    page_images = pdf_data['page_images']
+
+    client = get_openai_client()
+    content = [
+        {
+            'type': 'text',
+            'text': """You are an expert at analyzing examiner reports.
+
+Extract insights from this examiner report.
+
+Examiner reports contain:
+- General commentary on how students performed
+- Question-by-question analysis
+- Common errors students made
+- Examples of good answers
+- Advice for future students
+
+For each question mentioned in the report, extract:
+1. question_number: "1(a)(i)", "2(b)", etc.
+2. average_performance: "poor", "satisfactory", "good", "excellent"
+3. common_errors: Array of mistakes students commonly made
+4. good_practice: Array of things strong students did well
+5. advice_for_students: Actionable advice for improving
+6. examiner_comments: Key quotes/summaries from the report
+
+Return JSON:
+{
+  "general_comments": "Overall students performed...",
+  "question_insights": [
+    {
+      "question_number": "1(a)(i)",
+      "average_performance": "good",
+      "common_errors": [],
+      "good_practice": [],
+      "advice_for_students": "",
+      "examiner_comments": ""
+    }
+  ]
+}
+
+I'm providing full-page images of the examiner report."""
+        }
+    ]
+
+    for page_img in page_images:
+        content.append({
+            'type': 'image_url',
+            'image_url': {'url': f"data:image/png;base64,{page_img['base64']}"}
+        })
+
+    response = client.chat.completions.create(
+        model='gpt-4o',
+        messages=[{'role': 'user', 'content': content}],
+        max_tokens=16000,
+        response_format={'type': 'json_object'},
+    )
+
+    insights = json.loads(response.choices[0].message.content)
+    question_insights = insights.get('question_insights', []) or []
+    general_comments = insights.get('general_comments')
+
+    # Build question map
+    questions = sb.table('exam_questions').select('id, full_question_number').eq('paper_id', paper_id).execute()
+    question_map_norm = {}
+    for q in questions.data or []:
+        key = normalize_question_number(q.get('full_question_number'))
+        if key and key not in question_map_norm:
+            question_map_norm[key] = q['id']
+
+    inserts = []
+    if general_comments:
+        inserts.append({
+            'paper_id': paper_id,
+            'question_id': None,
+            'examiner_comments': general_comments,
+        })
+
+    for qi in question_insights:
+        qnum = qi.get('question_number')
+        qid = question_map_norm.get(normalize_question_number(qnum))
+        if not qid:
+            print(f"[WARN] Examiner report insight question_number did not match any extracted question: {qnum}")
+            continue
+        perf = (qi.get('average_performance') or '').strip().lower()
+        inserts.append({
+            'paper_id': paper_id,
+            'question_id': qid,
+            'average_mark': None,
+            'common_errors': qi.get('common_errors') or [],
+            'good_practice_examples': qi.get('good_practice') or [],
+            'advice_for_students': qi.get('advice_for_students'),
+            'examiner_comments': (f"Performance: {perf}\n" if perf else "") + (qi.get('examiner_comments') or ''),
+        })
+
+    if inserts:
+        sb.table('examiner_insights').insert(inserts).execute()
+
+    return {'inserted': len(inserts), 'skipped': False}
 
 def mark_answer(question_id: str, user_answer: str, user_id: str, time_taken_seconds: int = 0) -> dict:
     """Mark a student's answer using AI + mark scheme"""

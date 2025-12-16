@@ -9,10 +9,12 @@ import os
 import sys
 import traceback
 from datetime import datetime, timezone
+import threading
+import time
 
 # Import extraction service
 sys.path.append(os.path.dirname(__file__))
-from extraction_service import extract_questions, extract_mark_scheme, mark_answer
+from extraction_service import extract_questions, extract_mark_scheme, extract_examiner_report, mark_answer
 
 app = Flask(__name__)
 CORS(app)  # Allow requests from React Native app
@@ -75,6 +77,35 @@ def extract_paper_endpoint():
                 return
             sb.table('paper_extraction_status').update(patch).eq('id', extraction_status_id).execute()
 
+        def start_progress_ramp(start: int, end: int, step_label: str, interval_seconds: float = 2.0):
+            """
+            Smooth UX: while a long-running step is executing, increment progress gradually
+            so the UI doesn't sit at a single percent for minutes and then jump.
+            """
+            if not extraction_status_id:
+                return None
+
+            stop_event = threading.Event()
+
+            def _runner():
+                current = start
+                while not stop_event.is_set():
+                    try:
+                        if current < end:
+                            current += 1
+                            update_status({
+                                'progress_percentage': current,
+                                'current_step': step_label,
+                            })
+                        time.sleep(interval_seconds)
+                    except Exception:
+                        # Never let the ramp thread crash the extraction
+                        break
+
+            t = threading.Thread(target=_runner, daemon=True)
+            t.start()
+            return stop_event
+
         # Mark as extracting
         update_status({
             'status': 'extracting',
@@ -97,7 +128,12 @@ def extract_paper_endpoint():
             'progress_percentage': 10,
             'current_step': 'Extracting questions...',
         })
-        questions = extract_questions(question_url, paper_id)
+        ramp = start_progress_ramp(10, 69, 'Extracting questions...')
+        try:
+            questions = extract_questions(question_url, paper_id)
+        finally:
+            if ramp:
+                ramp.set()
         result['extractions']['questions'] = {
             'count': len(questions),
             'status': 'success'
@@ -116,7 +152,12 @@ def extract_paper_endpoint():
                 'progress_percentage': 75,
                 'current_step': 'Extracting mark scheme...',
             })
-            mark_schemes = extract_mark_scheme(mark_scheme_url, paper_id)
+            ramp = start_progress_ramp(75, 89, 'Extracting mark scheme...')
+            try:
+                mark_schemes = extract_mark_scheme(mark_scheme_url, paper_id)
+            finally:
+                if ramp:
+                    ramp.set()
             result['extractions']['mark_schemes'] = {
                 'count': len(mark_schemes),
                 'status': 'success'
@@ -126,6 +167,29 @@ def extract_paper_endpoint():
                 'progress_percentage': 90,
                 'current_step': f'Mark scheme processed ({len(mark_schemes)})',
             })
+
+        # Extract examiner report insights if available
+        if examiner_report_url:
+            print(f"[INFO] Extracting examiner report from {examiner_report_url}")
+            update_status({
+                'status': 'extracting',
+                'progress_percentage': 92,
+                'current_step': 'Extracting examiner report...',
+            })
+            ramp = start_progress_ramp(92, 99, 'Extracting examiner report...')
+            try:
+                er = extract_examiner_report(examiner_report_url, paper_id)
+            finally:
+                if ramp:
+                    ramp.set()
+            result['extractions']['examiner_report'] = er
+            update_status({
+                'status': 'extracting',
+                'progress_percentage': 99,
+                'current_step': 'Examiner report processed',
+            })
+        else:
+            print("[INFO] No examiner report URL provided; skipping examiner report extraction")
         
         # Mark completed
         update_status({
