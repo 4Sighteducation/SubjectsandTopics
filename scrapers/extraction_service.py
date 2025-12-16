@@ -39,35 +39,66 @@ def get_supabase_client():
 def extract_pages_as_images(pdf_content: bytes, skip_pages=1) -> dict:
     """Convert PDF pages to images"""
     import pdfplumber
+    from pypdfium2._helpers.misc import PdfiumError
     
     page_images = []
     
-    with pdfplumber.open(io.BytesIO(pdf_content)) as pdf:
-        for page_num, page in enumerate(pdf.pages, 1):
-            page_text = page.extract_text() or ""
-            
-            # Detect end of questions
+    try:
+        with pdfplumber.open(io.BytesIO(pdf_content)) as pdf:
+            for page_num, page in enumerate(pdf.pages, 1):
+                page_text = page.extract_text() or ""
+                
+                # Detect end of questions
+                if any(phrase in page_text for phrase in [
+                    'END OF QUESTION PAPER',
+                    'END OF QUESTIONS',
+                    'EXTRA ANSWER SPACE',
+                ]):
+                    break
+                
+                # Skip cover pages
+                if page_num <= skip_pages:
+                    continue
+                
+                # Render page to image
+                page_img = page.to_image(resolution=150)
+                img_bytes = io.BytesIO()
+                page_img.save(img_bytes, format='PNG')
+                img_base64 = base64.b64encode(img_bytes.getvalue()).decode('utf-8')
+                
+                page_images.append({
+                    'page': page_num,
+                    'base64': img_base64,
+                })
+    except PdfiumError as e:
+        # Some PDFs (notably from certain CDNs) fail under PDFium with "Unsupported security scheme".
+        # Fallback to PyMuPDF rendering, which can handle more security/encryption schemes.
+        print(f"[WARN] pdfplumber/pdfium failed ({e}); falling back to PyMuPDF renderer")
+        import fitz  # PyMuPDF
+
+        doc = fitz.open(stream=pdf_content, filetype="pdf")
+        for idx in range(doc.page_count):
+            page_num = idx + 1
+
+            # Skip cover pages
+            if page_num <= skip_pages:
+                continue
+
+            page = doc.load_page(idx)
+            page_text = page.get_text("text") or ""
+
             if any(phrase in page_text for phrase in [
                 'END OF QUESTION PAPER',
                 'END OF QUESTIONS',
                 'EXTRA ANSWER SPACE',
             ]):
                 break
-            
-            # Skip cover pages
-            if page_num <= skip_pages:
-                continue
-            
-            # Render page to image
-            page_img = page.to_image(resolution=150)
-            img_bytes = io.BytesIO()
-            page_img.save(img_bytes, format='PNG')
-            img_base64 = base64.b64encode(img_bytes.getvalue()).decode('utf-8')
-            
-            page_images.append({
-                'page': page_num,
-                'base64': img_base64,
-            })
+
+            # Render at approx 150dpi (72 is default). 150/72 ≈ 2.08.
+            mat = fitz.Matrix(150/72, 150/72)
+            pix = page.get_pixmap(matrix=mat, alpha=False)
+            img_base64 = base64.b64encode(pix.tobytes("png")).decode("utf-8")
+            page_images.append({'page': page_num, 'base64': img_base64})
     
     return {'page_images': page_images}
 
