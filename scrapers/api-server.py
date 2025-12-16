@@ -8,6 +8,7 @@ from flask_cors import CORS
 import os
 import sys
 import traceback
+from datetime import datetime
 
 # Import extraction service
 sys.path.append(os.path.dirname(__file__))
@@ -40,6 +41,7 @@ def extract_paper_endpoint():
     Request body:
     {
       "paper_id": "uuid",
+      "extraction_status_id": "uuid",  (optional, but recommended)
       "question_url": "https://...",
       "mark_scheme_url": "https://...",  (optional)
       "examiner_report_url": "https://..."  (optional)
@@ -52,9 +54,35 @@ def extract_paper_endpoint():
             return jsonify({'error': 'question_url is required'}), 400
         
         paper_id = data.get('paper_id')
+        extraction_status_id = data.get('extraction_status_id')
         question_url = data.get('question_url')
         mark_scheme_url = data.get('mark_scheme_url')
         examiner_report_url = data.get('examiner_report_url')
+
+        if not paper_id:
+            return jsonify({'error': 'paper_id is required'}), 400
+
+        # Supabase client (service role)
+        from supabase import create_client
+        sb = create_client(os.getenv('SUPABASE_URL'), os.getenv('SUPABASE_SERVICE_KEY'))
+
+        def update_status(patch: dict):
+            """
+            Update the background job status row if provided.
+            We update by `id` to avoid legacy schema collisions and to support user-specific rows.
+            """
+            if not extraction_status_id:
+                return
+            sb.table('paper_extraction_status').update(patch).eq('id', extraction_status_id).execute()
+
+        # Mark as extracting
+        update_status({
+            'status': 'extracting',
+            'progress_percentage': 5,
+            'current_step': 'Starting extraction...',
+            'error_message': None,
+            'started_at': datetime.utcnow().isoformat() + 'Z',
+        })
         
         result = {
             'paper_id': paper_id,
@@ -64,36 +92,74 @@ def extract_paper_endpoint():
         
         # Extract questions
         print(f"[INFO] Extracting questions from {question_url}")
+        update_status({
+            'status': 'extracting',
+            'progress_percentage': 10,
+            'current_step': 'Extracting questions...',
+        })
         questions = extract_questions(question_url, paper_id)
         result['extractions']['questions'] = {
             'count': len(questions),
             'status': 'success'
         }
+        update_status({
+            'status': 'extracting',
+            'progress_percentage': 70,
+            'current_step': f'Questions extracted ({len(questions)})',
+            'questions_extracted': len(questions),
+        })
         
         # Extract mark scheme if available
         if mark_scheme_url:
             print(f"[INFO] Extracting mark scheme from {mark_scheme_url}")
+            update_status({
+                'status': 'extracting',
+                'progress_percentage': 75,
+                'current_step': 'Extracting mark scheme...',
+            })
             mark_schemes = extract_mark_scheme(mark_scheme_url, paper_id)
             result['extractions']['mark_schemes'] = {
                 'count': len(mark_schemes),
                 'status': 'success'
             }
+            update_status({
+                'status': 'extracting',
+                'progress_percentage': 90,
+                'current_step': f'Mark scheme processed ({len(mark_schemes)})',
+                'mark_schemes_extracted': len(mark_schemes),
+            })
         
-        # Update extraction status
-        from supabase import create_client
-        sb = create_client(os.getenv('SUPABASE_URL'), os.getenv('SUPABASE_SERVICE_KEY'))
-        sb.table('paper_extraction_status').upsert({
-            'paper_id': paper_id,
-            'questions_extracted': True,
-            'mark_scheme_extracted': bool(mark_scheme_url),
-            'questions_count': len(questions),
-        }).execute()
+        # Mark completed
+        update_status({
+            'status': 'completed',
+            'progress_percentage': 100,
+            'current_step': 'Completed',
+            'completed_at': datetime.utcnow().isoformat() + 'Z',
+        })
         
         return jsonify(result)
         
     except Exception as e:
         print(f"[ERROR] Extraction failed: {str(e)}")
         traceback.print_exc()
+
+        # Best-effort: if we have an extraction status id, mark it failed
+        try:
+            data = request.json or {}
+            extraction_status_id = data.get('extraction_status_id')
+            if extraction_status_id:
+                from supabase import create_client
+                sb = create_client(os.getenv('SUPABASE_URL'), os.getenv('SUPABASE_SERVICE_KEY'))
+                sb.table('paper_extraction_status').update({
+                    'status': 'failed',
+                    'progress_percentage': 0,
+                    'current_step': 'Failed',
+                    'error_message': str(e),
+                    'completed_at': datetime.utcnow().isoformat() + 'Z',
+                }).eq('id', extraction_status_id).execute()
+        except Exception as _inner:
+            print(f"[WARN] Failed to update extraction status row: {_inner}")
+
         return jsonify({
             'success': False,
             'error': str(e),
