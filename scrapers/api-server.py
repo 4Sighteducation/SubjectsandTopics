@@ -8,7 +8,7 @@ from flask_cors import CORS
 import os
 import sys
 import traceback
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Import extraction service
 sys.path.append(os.path.dirname(__file__))
@@ -81,7 +81,7 @@ def extract_paper_endpoint():
             'progress_percentage': 5,
             'current_step': 'Starting extraction...',
             'error_message': None,
-            'started_at': datetime.utcnow().isoformat() + 'Z',
+            'started_at': datetime.now(timezone.utc).isoformat(),
         })
         
         result = {
@@ -106,7 +106,6 @@ def extract_paper_endpoint():
             'status': 'extracting',
             'progress_percentage': 70,
             'current_step': f'Questions extracted ({len(questions)})',
-            'questions_extracted': len(questions),
         })
         
         # Extract mark scheme if available
@@ -126,7 +125,6 @@ def extract_paper_endpoint():
                 'status': 'extracting',
                 'progress_percentage': 90,
                 'current_step': f'Mark scheme processed ({len(mark_schemes)})',
-                'mark_schemes_extracted': len(mark_schemes),
             })
         
         # Mark completed
@@ -134,7 +132,7 @@ def extract_paper_endpoint():
             'status': 'completed',
             'progress_percentage': 100,
             'current_step': 'Completed',
-            'completed_at': datetime.utcnow().isoformat() + 'Z',
+            'completed_at': datetime.now(timezone.utc).isoformat(),
         })
         
         return jsonify(result)
@@ -155,7 +153,7 @@ def extract_paper_endpoint():
                     'progress_percentage': 0,
                     'current_step': 'Failed',
                     'error_message': str(e),
-                    'completed_at': datetime.utcnow().isoformat() + 'Z',
+                    'completed_at': datetime.now(timezone.utc).isoformat(),
                 }).eq('id', extraction_status_id).execute()
         except Exception as _inner:
             print(f"[WARN] Failed to update extraction status row: {_inner}")
