@@ -291,14 +291,38 @@ Return as: {"mark_schemes": [...]}'''
     # Link to questions and store
     sb = get_supabase_client()
     questions = sb.table('exam_questions').select('*').eq('paper_id', paper_id).execute()
+    def normalize_qnum(s: str) -> str:
+        if not s:
+            return ''
+        s = str(s).strip()
+        s = re.sub(r'^(question)\s*', '', s, flags=re.IGNORECASE)
+        s = re.sub(r'\s+', '', s)
+        # Remove leading zeros in numeric groups (e.g. 01.1 -> 1.1)
+        s = re.sub(r'^0+(\d)', r'\1', s)
+        s = re.sub(r'(?<=\D)0+(\d)', r'\1', s)
+        return s
+
+    # Build maps with normalized keys to handle GCSE formats like 01.1 vs 1.1
     question_map = {q['full_question_number']: q['id'] for q in questions.data}
+    question_map_norm = {}
+    for q in questions.data:
+        key = normalize_qnum(q.get('full_question_number'))
+        if key and key not in question_map_norm:
+            question_map_norm[key] = q['id']
     
     for ms in mark_schemes:
         q_num = ms.pop('question_number')  # Remove from dict, get value
+        matched_id = None
         if q_num in question_map:
+            matched_id = question_map[q_num]
+        else:
+            q_norm = normalize_qnum(q_num)
+            matched_id = question_map_norm.get(q_norm)
+
+        if matched_id:
             # Build clean insert object matching schema
             insert_data = {
-                'question_id': question_map[q_num],
+                'question_id': matched_id,
                 'max_marks': ms.get('max_marks'),
                 'marking_points': ms.get('marking_points'),  # Already JSONB
                 'levels': ms.get('levels'),  # Already JSONB if present
@@ -306,6 +330,9 @@ Return as: {"mark_schemes": [...]}'''
                 'common_errors': ms.get('common_errors', []),
             }
             sb.table('mark_schemes').insert(insert_data).execute()
+        else:
+            # Helpful debug for cases where numbering formats don't match
+            print(f"[WARN] Mark scheme question_number did not match any extracted question: {q_num}")
     
     return mark_schemes
 
