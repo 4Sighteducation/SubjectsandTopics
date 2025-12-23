@@ -11,13 +11,10 @@ BEGIN;
 INSERT INTO exam_boards (code, full_name, active, country)
 VALUES 
   ('AQA', 'Assessment and Qualifications Alliance', true, 'UK'),
-  ('Edexcel', 'Pearson Edexcel', true, 'UK'),
-  ('EDEXCEL', 'Pearson Edexcel', true, 'UK'),
   ('OCR', 'Oxford, Cambridge and RSA', true, 'UK'),
   ('WJEC', 'Welsh Joint Education Committee', true, 'UK'),
   ('EDUQAS', 'WJEC Eduqas', true, 'UK'),
   ('CCEA', 'Council for Curriculum, Examinations & Assessment', true, 'UK'),
-  ('CIE', 'Cambridge International Examinations', true, 'International'),
   ('SQA', 'Scottish Qualifications Authority', true, 'UK')
 ON CONFLICT (code) DO UPDATE SET
   full_name = EXCLUDED.full_name,
@@ -31,7 +28,13 @@ VALUES
   ('A_LEVEL', 'A-Level'),
   ('GCSE', 'GCSE'),
   ('INTERNATIONAL_GCSE', 'International GCSE'),
-  ('INTERNATIONAL_A_LEVEL', 'International A-Level')
+  ('INTERNATIONAL_A_LEVEL', 'International A-Level'),
+  ('CAMBRIDGE_TECHNICALS_L3', 'Cambridge Technicals (Level 3)'),
+  ('CAMBRIDGE_NATIONALS_L2', 'Cambridge Nationals (Level 2)'),
+  ('BTEC_NATIONALS_L3', 'BTEC Nationals (Level 3)'),
+  ('NATIONAL_5', 'National 5'),
+  ('HIGHER', 'Higher'),
+  ('ADVANCED_HIGHER', 'Advanced Higher')
 ON CONFLICT (code) DO UPDATE SET
   name = EXCLUDED.name;
 
@@ -43,7 +46,11 @@ DECLARE
   exam_board_name TEXT;
 BEGIN
   FOR exam_board_name IN 
-    SELECT DISTINCT exam_board 
+    SELECT DISTINCT
+      CASE
+        WHEN UPPER(TRIM(exam_board)) IN ('WJEC (EDUQAS)', 'WJEC EDUQAS', 'EDUQAS (WJEC)') THEN 'EDUQAS'
+        ELSE UPPER(TRIM(exam_board))
+      END AS exam_board
     FROM staging_aqa_subjects 
     WHERE exam_board IS NOT NULL
   LOOP
@@ -76,7 +83,11 @@ SELECT
   NOW(),
   NOW()
 FROM staging_aqa_subjects ss
-JOIN exam_boards eb ON eb.code = ss.exam_board
+JOIN exam_boards eb ON eb.code =
+  CASE
+    WHEN UPPER(TRIM(ss.exam_board)) IN ('WJEC (EDUQAS)', 'WJEC EDUQAS', 'EDUQAS (WJEC)') THEN 'EDUQAS'
+    ELSE UPPER(TRIM(ss.exam_board))
+  END
 JOIN qualification_types qt ON qt.code = 
   CASE 
     WHEN ss.qualification_type = 'A-Level' THEN 'A_LEVEL'
@@ -88,6 +99,12 @@ JOIN qualification_types qt ON qt.code =
     WHEN ss.qualification_type = 'A_LEVEL' THEN 'A_LEVEL'
     WHEN ss.qualification_type = 'INTERNATIONAL_GCSE' THEN 'INTERNATIONAL_GCSE'
     WHEN ss.qualification_type = 'INTERNATIONAL_A_LEVEL' THEN 'INTERNATIONAL_A_LEVEL'
+    WHEN ss.qualification_type = 'CAMBRIDGE_TECHNICALS_L3' THEN 'CAMBRIDGE_TECHNICALS_L3'
+    WHEN ss.qualification_type = 'CAMBRIDGE_NATIONALS_L2' THEN 'CAMBRIDGE_NATIONALS_L2'
+    WHEN ss.qualification_type = 'BTEC_NATIONALS_L3' THEN 'BTEC_NATIONALS_L3'
+    WHEN ss.qualification_type = 'National 5' THEN 'NATIONAL_5'
+    WHEN ss.qualification_type = 'Higher' THEN 'HIGHER'
+    WHEN ss.qualification_type = 'Advanced Higher' THEN 'ADVANCED_HIGHER'
     ELSE 'A_LEVEL'
   END
 WHERE ss.exam_board IS NOT NULL
@@ -109,7 +126,11 @@ SELECT
   ss.subject_code,
   ss.exam_board
 FROM staging_aqa_subjects ss
-JOIN exam_boards eb ON eb.code = ss.exam_board
+JOIN exam_boards eb ON eb.code =
+  CASE
+    WHEN UPPER(TRIM(ss.exam_board)) IN ('WJEC (EDUQAS)', 'WJEC EDUQAS', 'EDUQAS (WJEC)') THEN 'EDUQAS'
+    ELSE UPPER(TRIM(ss.exam_board))
+  END
 JOIN exam_board_subjects ebs ON 
   ebs.subject_code = ss.subject_code 
   AND ebs.exam_board_id = eb.id

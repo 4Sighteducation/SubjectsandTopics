@@ -26,14 +26,20 @@ ON CONFLICT (code) DO UPDATE SET
 -- ========================================
 -- STEP 2: Ensure ALL qualification types exist
 -- ========================================
-INSERT INTO qualification_types (code, full_name)
+INSERT INTO qualification_types (code, name)
 VALUES 
   ('A_LEVEL', 'A-Level'),
   ('GCSE', 'GCSE'),
   ('INTERNATIONAL_GCSE', 'International GCSE'),
-  ('INTERNATIONAL_A_LEVEL', 'International A-Level')
+  ('INTERNATIONAL_A_LEVEL', 'International A-Level'),
+  ('CAMBRIDGE_TECHNICALS_L3', 'Cambridge Technicals (Level 3)'),
+  ('CAMBRIDGE_NATIONALS_L2', 'Cambridge Nationals (Level 2)'),
+  ('BTEC_NATIONALS_L3', 'BTEC Nationals (Level 3)'),
+  ('NATIONAL_5', 'National 5'),
+  ('HIGHER', 'Higher'),
+  ('ADVANCED_HIGHER', 'Advanced Higher')
 ON CONFLICT (code) DO UPDATE SET
-  full_name = EXCLUDED.full_name;
+  name = EXCLUDED.name;
 
 -- ========================================
 -- STEP 3: Get list of exam boards in staging
@@ -94,6 +100,12 @@ JOIN qualification_types qt ON qt.code =
     WHEN ss.qualification_type = 'A_LEVEL' THEN 'A_LEVEL'
     WHEN ss.qualification_type = 'INTERNATIONAL_GCSE' THEN 'INTERNATIONAL_GCSE'
     WHEN ss.qualification_type = 'INTERNATIONAL_A_LEVEL' THEN 'INTERNATIONAL_A_LEVEL'
+    WHEN ss.qualification_type = 'CAMBRIDGE_TECHNICALS_L3' THEN 'CAMBRIDGE_TECHNICALS_L3'
+    WHEN ss.qualification_type = 'CAMBRIDGE_NATIONALS_L2' THEN 'CAMBRIDGE_NATIONALS_L2'
+    WHEN ss.qualification_type = 'BTEC_NATIONALS_L3' THEN 'BTEC_NATIONALS_L3'
+    WHEN ss.qualification_type = 'National 5' THEN 'NATIONAL_5'
+    WHEN ss.qualification_type = 'Higher' THEN 'HIGHER'
+    WHEN ss.qualification_type = 'Advanced Higher' THEN 'ADVANCED_HIGHER'
     ELSE 'A_LEVEL'
   END
 WHERE ss.exam_board IS NOT NULL
@@ -109,7 +121,7 @@ DO UPDATE SET
 
 DROP TABLE IF EXISTS temp_subject_id_mapping;
 
-CREATE TEMP TABLE temp_subject_id_mapping AS
+CREATE TABLE temp_subject_id_mapping AS
 SELECT 
   ss.id as staging_id,
   ebs.id as production_id,
@@ -144,8 +156,7 @@ INSERT INTO curriculum_topics (
   topic_level,
   parent_topic_id,
   sort_order,
-  created_at,
-  updated_at
+  created_at
 )
 SELECT 
   st.id,
@@ -155,7 +166,6 @@ SELECT
   st.topic_level,
   NULL, -- Will update in second pass
   st.sort_order,
-  NOW(),
   NOW()
 FROM staging_aqa_topics st
 JOIN temp_subject_id_mapping sim ON st.subject_id = sim.staging_id
@@ -164,13 +174,11 @@ ON CONFLICT (id) DO UPDATE SET
   topic_code = EXCLUDED.topic_code,
   topic_name = EXCLUDED.topic_name,
   topic_level = EXCLUDED.topic_level,
-  sort_order = EXCLUDED.sort_order,
-  updated_at = NOW();
+  sort_order = EXCLUDED.sort_order;
 
 -- Second pass: Update parent_topic_id relationships
 UPDATE curriculum_topics ct
-SET parent_topic_id = st.parent_topic_id,
-    updated_at = NOW()
+SET parent_topic_id = st.parent_topic_id
 FROM staging_aqa_topics st
 WHERE ct.id = st.id
   AND st.parent_topic_id IS NOT NULL;

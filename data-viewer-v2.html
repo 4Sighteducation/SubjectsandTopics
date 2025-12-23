@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AQA Data Viewer V2 - Fast & Powerful</title>
+  <title>Curriculum Data Viewer V2 - AQA | OCR | EDEXCEL | WJEC | EDUQAS | CCEA | SQA</title>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -67,14 +67,19 @@
 </head>
 <body>
   <div class="container">
-    <h1>🔍 Curriculum Data Viewer V2 - Fast & Powerful</h1>
+    <h1>🔍 Curriculum Data Viewer V2 - AQA | OCR | EDEXCEL | WJEC | EDUQAS | CCEA | SQA</h1>
     
     <div class="filters">
       <div>
         <label>Exam Board:</label>
         <select id="filter-board" onchange="applyFilters()">
           <option value="AQA" selected>AQA</option>
-          <option value="Edexcel">Edexcel</option>
+          <option value="OCR">OCR</option>
+          <option value="EDEXCEL">EDEXCEL</option>
+          <option value="WJEC">WJEC</option>
+          <option value="EDUQAS">EDUQAS</option>
+          <option value="CCEA">CCEA</option>
+          <option value="SQA">SQA</option>
         </select>
       </div>
       <div>
@@ -83,7 +88,19 @@
           <option value="all">All Qualifications</option>
           <option value="A-Level" selected>A-Level</option>
           <option value="GCSE">GCSE</option>
+          <option value="National 5">National 5 (SQA)</option>
+          <option value="Higher">Higher (SQA)</option>
+          <option value="Advanced Higher">Advanced Higher (SQA)</option>
+          <option value="International GCSE">International GCSE</option>
+          <option value="International A Level">International A Level</option>
+          <option value="BTEC_NATIONALS_L3">BTEC Nationals (Level 3)</option>
+          <option value="CAMBRIDGE_NATIONALS_L2">Cambridge Nationals (Level 2)</option>
+          <option value="CAMBRIDGE_TECHNICALS_L3">Cambridge Technicals (Level 3)</option>
         </select>
+      </div>
+      <div>
+        <label>Show expected:</label>
+        <input id="filter-expected" type="checkbox" onchange="applyFilters()" />
       </div>
     </div>
     
@@ -105,19 +122,255 @@
     let currentSubjectId = null;
     let currentSubjectName = null;
     let currentFilters = { board: 'AQA', qual: 'A-Level' };
+    let showExpectedMissing = false;
+
+    // ------------------------------------------------------------
+    // Expected subject lists (for progress tracking)
+    // ------------------------------------------------------------
+    const EDUQAS_LIST_MD = `Eduqas Qualifications - GCSE
+
+Art and Design - GCSE / A
+Business - GCSE / A
+Computer Science - GCSE / A
+Design and Technology - GCSE / A
+Drama (and Theatre) = GCSE / A
+Electronics - GCSE / A
+English Language - GCSE / A
+English Literature - GCSE / A
+Film Studies - GCSE / A
+Food Preparation and Nutrition - GCSE
+French - GCSE / A
+A Geography - GCSE
+B Geography - GCSE
+Geology - GCSE / A
+German - GCSE / A
+History - GCSE
+Latin - GCSE
+Mathematics - GCSE
+Media Studies - GCSE / A
+Music - GCSE / A
+Physical Education - GCSE / A
+Religious Studies - GCSE / A
+Sociology - GCSE / A
+Spanish - GCSE / A
+
+Eduqas Qualifications - ALEVEL
+
+Art and Design - GCSE / A
+Biology - A
+Business - GCSE / A
+Chemistry - A
+Computer Science - GCSE / A
+Design and Technology - GCSE / A
+Drama (and Theatre) = GCSE / A
+Economics - A
+Electronics - GCSE / A
+English Language - GCSE / A
+English Language and Literature - A
+English Literature - GCSE / A
+Extended Project - Level 3 Extended Project
+Film Studies - GCSE / A
+French - GCSE / A
+Geography - A
+Geology - GCSE / A
+German - GCSE / A
+Law - A
+Media Studies - GCSE / A
+Music - GCSE / A
+Physical Education - GCSE / A
+Physics - A
+Psychology - A
+Religious Studies - GCSE / A
+Sociology - GCSE / A
+Spanish - GCSE / A`;
+
+    const WJEC_LIST_MD = `WJEC Qualifications - GCSE
+Art and Design - GCSE / A 
+Built Environment - GCSE / A
+Business GCSE / A
+Computer Science - GCSE / A
+Dance - GCSE
+Design and Technology - GCSE / A
+Digital Media and Film - GCSE
+Digital Technology - GCSE / A
+Electronics - GCSE / A
+English Language - GCSE / A
+English Literature - GCSE / A
+English Language and Literature - English Language - GCSE / A
+Film Studies - GCSE / A
+Food and Nutrition - GCSE / A
+French - GCSE / A
+Geography - GCSE / A
+Geology -GCSE / A
+German - GCSE / A
+Health and Social Care and Children's Care, Play, Learning and Development - GCSE
+Health and Social Care, and Childcare - GCSE
+History - GCSE / A
+Iaith a Llenyddiaeth Gymraeg - GCSE
+Latin - GCSE
+Mathematics - GCSE / A
+Media Studies - GCSE / A
+Music -GCSE / A
+Physical Education - GCSE / A
+Religious Studies - GCSE / A
+Science
+Biology - GCSE / A
+Chemistry - GCSE / A
+Physics - GCSE / A
+Applied Science (Single Award) - GCSE
+Applied Science (Double Award) - GCSE
+Integrated Science (Single Award) - GCSE
+Integrated Science (Double Award) - GCSE
+
+Social Studies - GCSE
+Sociology - GCSE / A
+Spanish - GCSE / A
+Welsh Baccalaureate - Welsh Baccalaureate National / Foundation Skills Challenge Certificate
+Welsh Language - GCSE / A
+Welsh Literature - GCSE
+Welsh Second Language - GCSE / A
+
+WJEC Qualifications - ALevel
+Art and Design - GCSE / A 
+Built Environment - GCSE / A
+Business GCSE / A
+Computer Science - GCSE / A
+Design and Technology - GCSE / A
+Digital Media and Film - GCSE
+Digital Technology - GCSE / A
+Drama - GCSE / A
+Economics - A
+Electronics - GCSE / A
+English Language - GCSE / A
+English Literature - GCSE / A
+English Language and Literature - English Language - GCSE / A
+Extended Project - Level 3 Extended Project
+Film Studies - GCSE / A
+Food and Nutrition - GCSE / A
+French - GCSE / A
+Geography - GCSE / A
+Geology -GCSE / A
+German - GCSE / A
+Government and Politics - A
+History - GCSE / A
+Law - A
+Mathematics - GCSE / A
+Media Studies - GCSE / A
+Music -GCSE / A
+Physical Education - GCSE / A
+Psychology - A
+Religious Studies - GCSE / A
+Retail Business
+Science
+Biology - GCSE / A
+Chemistry - GCSE / A
+Physics - GCSE / A
+Sociology - GCSE / A
+Spanish - GCSE / A
+Welsh Baccalaureate - Welsh Baccalaureate National / Foundation Skills Challenge Certificate
+Welsh Language - GCSE / A
+Welsh Second Language - GCSE / A`;
+
+    function normalizeSubjectNameForCompare(name) {
+      return (name || '')
+        .replace(/\([^)]*\)/g, '')        // remove parentheses
+        .replace(/\s+/g, ' ')
+        .replace(/[=]/g, ' ')
+        .trim()
+        .toLowerCase();
+    }
+
+    function parseBoardList(md, boardCode) {
+      const expected = { GCSE: new Set(), 'A-Level': new Set() };
+      let currentQual = null;
+      const lines = (md || '').split('\n').map(l => l.trim()).filter(Boolean);
+      for (const line of lines) {
+        const upper = line.toUpperCase();
+        if (upper.includes('QUALIFICATIONS') && upper.includes('GCSE')) {
+          currentQual = 'GCSE';
+          continue;
+        }
+        if (upper.includes('QUALIFICATIONS') && (upper.includes('ALEVEL') || upper.includes('A LEVEL'))) {
+          currentQual = 'A-Level';
+          continue;
+        }
+        if (!currentQual) continue;
+
+        // Skip section headers inside lists
+        if (['SCIENCE', 'RETAIL BUSINESS', 'SOCIAL STUDIES'].includes(upper)) continue;
+
+        // Extract subject name from mixed formats
+        let subjectName = line;
+        // Prefer taking text before first " - " (most lines)
+        if (subjectName.includes(' - ')) {
+          subjectName = subjectName.split(' - ')[0].trim();
+        } else {
+          // Fallback: take text before "GCSE" token if present
+          subjectName = subjectName.replace(/\bGCSE\b[\s\S]*$/i, '').trim() || subjectName;
+        }
+        if (!subjectName) continue;
+
+        expected[currentQual].add(subjectName);
+      }
+      return expected;
+    }
+
+    const EXPECTED_SUBJECTS = {
+      EDUQAS: parseBoardList(EDUQAS_LIST_MD, 'EDUQAS'),
+      WJEC: parseBoardList(WJEC_LIST_MD, 'WJEC'),
+    };
+
+    function getExpectedSubjectsFor(board, qual) {
+      const data = EXPECTED_SUBJECTS[board];
+      if (!data) return [];
+      if (qual === 'all') {
+        return Array.from(new Set([...(data['GCSE'] || []), ...(data['A-Level'] || [])]));
+      }
+      if (qual === 'GCSE' || qual === 'A-Level') return Array.from(data[qual] || []);
+      return [];
+    }
+
+    function isAlsoOfferedInOtherBoard(subjectName, qual, currentBoard) {
+      const otherBoard = currentBoard === 'WJEC' ? 'EDUQAS' : currentBoard === 'EDUQAS' ? 'WJEC' : null;
+      if (!otherBoard) return { otherBoard: null, expected: false };
+      const list = EXPECTED_SUBJECTS[otherBoard];
+      if (!list) return { otherBoard, expected: false };
+      if (qual !== 'GCSE' && qual !== 'A-Level') return { otherBoard, expected: false };
+      const norm = normalizeSubjectNameForCompare(subjectName);
+      const exists = Array.from(list[qual] || []).some(s => normalizeSubjectNameForCompare(s) === norm);
+      return { otherBoard, expected: exists };
+    }
 
     function applyFilters() {
       currentFilters.board = document.getElementById('filter-board').value;
       currentFilters.qual = document.getElementById('filter-qual').value;
+      showExpectedMissing = !!document.getElementById('filter-expected')?.checked;
       loadStats();
       loadSubjects();
     }
 
+    function applyBoardFilter(query) {
+      const board = currentFilters.board;
+
+      // Backwards compatible board matching:
+      // - Older data may have 'Edexcel' (title case)
+      // - Older data may have case variants (e.g., 'Eduqas')
+      if (board === 'EDEXCEL') {
+        query = query.or('exam_board.eq.EDEXCEL,exam_board.eq.Edexcel');
+      } else if (board === 'EDUQAS') {
+        // IMPORTANT: Do NOT pull in WJEC-tagged rows by URL heuristic.
+        // We now keep WJEC and EDUQAS as separate entities in staging (even if specs are identical).
+        query = query.or('exam_board.eq.EDUQAS,exam_board.eq.Eduqas');
+      } else if (board) {
+        query = query.eq('exam_board', board);
+      }
+
+      return query;
+    }
+
     function getFilterQuery() {
       let query = sb.from('staging_aqa_subjects').select('*');
-      if (currentFilters.board) {
-        query = query.eq('exam_board', currentFilters.board);
-      }
+      query = applyBoardFilter(query);
       if (currentFilters.qual !== 'all') {
         query = query.eq('qualification_type', currentFilters.qual);
       }
@@ -125,16 +378,27 @@
     }
 
     async function loadStats() {
-      const { data: subjects } = await getFilterQuery();
+      // Get subjects based on filter
+      const { data } = await getFilterQuery();
+      const subjects = data || [];
       
       // LAZY: Get counts without loading all data
       let topicCount = 0, paperCount = 0;
       
+      // Determine which tables to use
+      const topicsTable = 'staging_aqa_topics';
+      const papersTable = 'staging_aqa_exam_papers';
+      
       if (currentFilters.qual === 'all') {
-        const { count: tc } = await sb.from('staging_aqa_topics').select('*', { count: 'exact', head: true });
-        const { count: pc } = await sb.from('staging_aqa_exam_papers').select('*', { count: 'exact', head: true });
-        topicCount = tc;
-        paperCount = pc;
+        const boardFilter = currentFilters.board;
+        // Backwards compatible counts for EDEXCEL only (legacy 'Edexcel' rows)
+        const boardFilterForCounts = boardFilter === 'EDEXCEL' ? ['EDEXCEL', 'Edexcel'] : [boardFilter];
+        const { count: tc } = await sb.from(topicsTable).select('*', { count: 'exact', head: true })
+          .in('exam_board', boardFilterForCounts);
+        const { count: pc } = await sb.from(papersTable).select('*', { count: 'exact', head: true })
+          .in('exam_board', boardFilterForCounts);
+        topicCount = tc || 0;
+        paperCount = pc || 0;
       } else {
         // Count for filtered subjects only
         for (const subj of subjects) {
@@ -171,7 +435,28 @@
       // LAZY LOAD: Only load subject metadata, not all topics!
       document.getElementById('subjects').innerHTML = '<div class="loading">⏳ Loading subjects...</div>';
       
-      const { data: subjects } = await getFilterQuery();
+      const { data } = await getFilterQuery();
+      const subjects = data || [];
+
+      // Expected subjects overlay for WJEC/EDUQAS progress tracking
+      const expectedSubjects = (currentFilters.board === 'WJEC' || currentFilters.board === 'EDUQAS')
+        ? getExpectedSubjectsFor(currentFilters.board, currentFilters.qual)
+        : [];
+      const expectedSet = new Set(expectedSubjects.map(normalizeSubjectNameForCompare));
+      const scrapedSet = new Set(subjects.map(s => normalizeSubjectNameForCompare(s.subject_name || s.subject || '')));
+
+      const expectedOnly = (showExpectedMissing ? expectedSubjects : [])
+        .filter(name => !scrapedSet.has(normalizeSubjectNameForCompare(name)))
+        .map(name => ({
+          id: `expected:${currentFilters.board}:${currentFilters.qual}:${name}`,
+          subject_name: name,
+          subject_code: null,
+          qualification_type: currentFilters.qual === 'all' ? null : currentFilters.qual,
+          exam_board: currentFilters.board,
+          isExpectedOnly: true,
+          topicCount: 0,
+          paperCount: 0,
+        }));
       
       let subjectsHtml = '';
       
@@ -182,24 +467,37 @@
         
         return {
           ...subject,
-          topicCount,
-          paperCount
+          topicCount: topicCount || 0,
+          paperCount: paperCount || 0
         };
       });
       
       const subjectsWithCounts = await Promise.all(subjectPromises);
+      const combined = [...subjectsWithCounts, ...expectedOnly];
       
       // Sort by name
-      subjectsWithCounts.sort((a, b) => a.subject_name.localeCompare(b.subject_name));
+      combined.sort((a, b) => (a.subject_name || a.subject).localeCompare(b.subject_name || b.subject));
       
-      for (const subject of subjectsWithCounts) {
+      for (const subject of combined) {
+        const subjectName = subject.subject_name || subject.subject;
+        const subjectId = subject.id || subjectName;
+
+        const isExpectedOnlyRow = !!subject.isExpectedOnly;
+        const also = isAlsoOfferedInOtherBoard(subjectName, currentFilters.qual, currentFilters.board);
+        const alsoOfferedText = also.expected && also.otherBoard
+          ? `<div class="metric">Also offered by <strong>${also.otherBoard}</strong></div>`
+          : '';
+        const expectedBadge = isExpectedOnlyRow ? `<div class="metric"><strong>Not scraped yet</strong></div>` : '';
+
         subjectsHtml += `
-          <div class="subject-card" onclick="showSubjectDetails('${subject.id}', '${subject.subject_name.replace(/'/g, "\\'")}')">
-            <h3>${subject.subject_name}</h3>
+          <div class="subject-card" ${isExpectedOnlyRow ? `onclick="alert('Not scraped yet for ${currentFilters.board}.')"` : `onclick="showSubjectDetails('${subjectId}', '${subjectName.replace(/'/g, "\\'")}')"`}>
+            <h3>${subjectName}</h3>
             <div class="metrics">
               <div class="metric"><strong>${subject.topicCount || 0}</strong> topics</div>
               <div class="metric"><strong>${subject.paperCount || 0}</strong> papers</div>
-              <div class="metric">${subject.qualification_type}</div>
+              <div class="metric">${subject.qualification_type || currentFilters.qual}</div>
+              ${alsoOfferedText}
+              ${expectedBadge}
             </div>
           </div>
         `;
@@ -238,7 +536,12 @@
         page++;
       }
       
-      const { data: papers } = await sb.from('staging_aqa_exam_papers').select('*').eq('subject_id', currentSubjectId).order('year', { ascending: false });
+      const { data: papers } =
+        await sb
+          .from('staging_aqa_exam_papers')
+          .select('*')
+          .eq('subject_id', currentSubjectId)
+          .order('year', { ascending: false });
       
       // Build hierarchical tree structure
       function buildTreeOrder(topics) {
@@ -399,7 +702,7 @@ https://qualifications.pearson.com/content/dam/pdf/A-Level/Drama/2023/Exam-mater
         const indent = '&nbsp;&nbsp;'.repeat(topic.topic_level * 3);
         const hasChildren = topicHasChildren.get(topic.id);
         const collapseIcon = hasChildren ? 
-          `<span class="collapse-icon" onclick="toggleCollapse('${topic.id}', event)" title="Click to collapse/expand">▼</span>` : 
+          `<span class="collapse-icon" draggable="false" onmousedown="event.stopPropagation(); event.preventDefault();" onclick="toggleCollapse('${topic.id}', event)" title="Click to collapse/expand">▼</span>` : 
           `<span class="collapse-icon" style="visibility:hidden;">▼</span>`;
         
         detailsHtml += `
@@ -477,6 +780,20 @@ https://qualifications.pearson.com/content/dam/pdf/A-Level/Drama/2023/Exam-mater
     let draggedTopicId = null;
 
     function dragStart(event, topicId) {
+      // If the drag started from a UI control (e.g., collapse icon), don't treat it as a reorder drag.
+      // This prevents the browser's drag gesture from swallowing the click event.
+      const t = event?.target;
+      if (t && (
+          t.classList?.contains('collapse-icon') ||
+          t.closest?.('.collapse-icon') ||
+          t.closest?.('button') ||
+          t.classList?.contains('code') ||
+          t.classList?.contains('level') ||
+          t.classList?.contains('name')
+      )) {
+        event.preventDefault();
+        return false;
+      }
       draggedTopicId = topicId;
       event.currentTarget.classList.add('dragging');
     }
@@ -646,13 +963,16 @@ https://qualifications.pearson.com/content/dam/pdf/A-Level/Drama/2023/Exam-mater
         return;
       }
       
-      const { error } = await sb.from('staging_aqa_topics').insert([{
+      const insertData = [{
         subject_id: currentSubjectId,
         topic_code: code,
         topic_name: name,
         topic_level: level,
-        parent_topic_id: parentId || null
-      }]);
+        parent_topic_id: parentId || null,
+        exam_board: currentFilters.board === 'WJEC' ? 'WJEC' : currentFilters.board
+      }];
+      
+      const { error } = await sb.from('staging_aqa_topics').insert(insertData);
       
       if (error) {
         alert('Failed: ' + error.message);
