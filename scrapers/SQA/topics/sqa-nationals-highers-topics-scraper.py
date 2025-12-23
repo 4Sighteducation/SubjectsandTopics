@@ -60,6 +60,32 @@ SQA_SUBJECT_INDEX = f"{SQA_BASE}/sqa/45625.html"
 EXAM_BOARD = "SQA"
 LEVEL_ORDER = ["National 5", "Higher", "Advanced Higher"]
 
+# Titles/sections we do NOT want as topics (they are meta/admin/context, not curriculum content)
+# These appear as accordion/section headings and are not curriculum topics.
+# We will drop them as *nodes*, but we must avoid overly-broad substring matches (e.g. the word "assessment"
+# can legitimately appear inside course-content text).
+_FORBIDDEN_TITLES_EXACT = {
+    "course overview",
+    "course content",
+    "skills, knowledge, and understanding",
+    "skills, knowledge and understanding",
+    "skills for learning, life, and work",
+    "skills for learning, life and work",
+    "skills for learning life and work",
+    "course assessment",
+    "course support",
+    "understanding standards",
+    "course reports",
+    "common questions",
+}
+
+_FORBIDDEN_TITLES_PREFIX = {
+    "skills for learning",
+    "skills, knowledge",
+    "skills, knowledge and understanding",
+    "skills, knowledge, and understanding",
+}
+
 
 @dataclass(frozen=True)
 class SQASubject:
@@ -93,12 +119,16 @@ def load_subjects_from_index() -> List[SQASubject]:
         href = (a.get("href") or "").strip()
         if not name or not href:
             continue
-        if not (
-            re.fullmatch(r"\d+\.html", href)
-            or re.search(r"/sqa/\d+\.html", href)
-            or re.search(r"/\d+\.html", href)
-        ):
+        # The actual subject list links are relative like "45723.html".
+        # Keep this strict to avoid pulling in nav links (which are mostly "/sqa/<id>.html").
+        if not re.fullmatch(r"\d+\.html", href):
             continue
+        # Filter obvious non-subject items that also appear in the page body.
+        if name.lower() in {"national qualifications"}:
+            continue
+        if name.lower().startswith("about "):
+            continue
+
         url = _norm_url(href, SQA_SUBJECT_INDEX)  # relative links are relative to /sqa/
         if url in seen:
             continue
@@ -204,6 +234,7 @@ You are extracting curriculum topics for the SQA {level_name} course specificati
 Return ONLY a numbered hierarchy (no preamble, no markdown).
 
 Rules:
+- Level 0 MUST be exactly the subject name: "{subject_name}".
 - Use strict numbering with dots:
   1. <Level 0 title>
   1.1 <Level 1 title>
@@ -213,6 +244,15 @@ Rules:
 - Prefer the spec's own structure (Units / Topics / Key Areas / Mandatory course content).
 - Capture learning outcome bullets / "skills, knowledge and understanding" bullets as Level 3/4.
 - Keep titles short and curriculum-focused (no page numbers, no admin).
+- Do NOT include these as topic titles anywhere (they are not curriculum topics):
+  - Course overview
+  - Course content
+  - Skills, knowledge and understanding
+  - Skills for learning, life and work
+  - Course assessment / assessment overview
+  - Course reports / Understanding Standards / Common Questions
+- Depth: Prefer MORE depth over fewer nodes. If a section has subpoints/bullets, include them as Level 3/4.
+- Do NOT over-summarize: keep individual bullet points as separate Level 3/4 items where possible.
 - IGNORE assessment admin, coursework admin, grade boundaries, general course assessment tables, appendices.
 
 Input text (extracted from PDF):
@@ -220,6 +260,68 @@ Input text (extracted from PDF):
 {text}
 ---
 """.strip()
+
+
+def _extract_course_content_window(full_text: str) -> str:
+    """
+    Extract a focused window that starts at 'Course content' and stops before meta sections.
+    This reduces the chance the model outputs headings like 'Course overview' or 'Skills for learning...'.
+    """
+    if not full_text:
+        return ""
+    # We use regex on *line headings* to avoid false-positive matches inside content.
+    # Normalize line endings for consistent indices.
+    text = full_text.replace("\r\n", "\n")
+
+    # Start: heading line containing "Course content" (or "Mandatory course content")
+    start = 0
+    m_start = re.search(r"(?im)^[ \t]*((mandatory[ \t]+)?course[ \t]+content)\b", text)
+    if m_start:
+        start = m_start.start()
+
+    # NOTE: We intentionally do NOT try to find an end marker here.
+    # PDF extraction often includes headers/contents that contain words like "Course assessment"
+    # which would truncate the window too early. Instead we take a large slice from the course-content start,
+    # and rely on the prompt + post-filtering to ignore irrelevant sections.
+    return text[start : start + 380_000]
+
+
+def _filter_and_reparent(parsed_topics):
+    """
+    Remove forbidden headings and reparent children to the nearest allowed ancestor.
+    """
+    # Build quick lookup
+    by_code = {t.code: t for t in parsed_topics}
+
+    def _is_forbidden(title: str) -> bool:
+        t = (title or "").strip().lower()
+        if not t:
+            return True
+        if t in _FORBIDDEN_TITLES_EXACT:
+            return True
+        return any(t.startswith(p) for p in _FORBIDDEN_TITLES_PREFIX)
+
+    removed = set()
+    for t in parsed_topics:
+        if _is_forbidden(t.title):
+            removed.add(t.code)
+
+    def _nearest_allowed_parent(code: Optional[str]) -> Optional[str]:
+        cur = code
+        while cur:
+            if cur not in removed:
+                return cur
+            parent = by_code.get(cur).parent_code if by_code.get(cur) else None
+            cur = parent
+        return None
+
+    out = []
+    for t in parsed_topics:
+        if t.code in removed:
+            continue
+        new_parent = _nearest_allowed_parent(t.parent_code)
+        out.append(type(t)(code=t.code, title=t.title, level=t.level, parent_code=new_parent))
+    return out
 
 
 def scrape_one(subject: SQASubject, *, level_name: str, level_url: str, driver, provider: str, client) -> int:
@@ -247,22 +349,12 @@ def scrape_one(subject: SQASubject, *, level_name: str, level_url: str, driver, 
         .replace("●", "• ")
         .replace("•", "\n- ")
     )
-    window = slice_relevant_text(
-        full_text,
-        keywords=[
-            "course content",
-            "mandatory course",
-            "course outline",
-            "key areas",
-            "skills, knowledge",
-            "knowledge and understanding",
-            "unit",
-            "topic",
-        ],
-        max_chars=240_000,
-    )
+    # Prefer a tight "course content" window, then apply a max-size cap.
+    window = _extract_course_content_window(full_text)
+    window = slice_relevant_text(window, keywords=["course content", "mandatory course content"], max_chars=360_000)
     hierarchy = call_ai(provider, client, prompt=_build_prompt(subject_name=subject.name, level_name=level_name, text=window), max_tokens=14000)
     parsed = parse_numbered_hierarchy(hierarchy, code_prefix=subject_code, base_parent_code=None, level_offset=0, level_cap=4)
+    parsed = _filter_and_reparent(parsed)
     count = replace_subject_topics(sb, subject_id=subject_id, exam_board=EXAM_BOARD, topics=parsed, batch_size=500)
     print(f"[OK] {subject.name} ({level_name}): topics={count}")
     return count
