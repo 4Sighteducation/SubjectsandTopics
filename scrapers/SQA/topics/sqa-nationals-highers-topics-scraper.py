@@ -146,39 +146,69 @@ def load_subjects_from_index() -> List[SQASubject]:
     soup = BeautifulSoup(r.text, "html.parser")
     main = soup.find("main") or soup
 
+    # Prefer the explicit "National Qualifications subjects" list section if present.
+    heading = None
+    for tag in main.find_all(["h1", "h2", "h3"]):
+        txt = " ".join(tag.get_text(" ", strip=True).split())
+        if txt.lower() == "national qualifications subjects":
+            heading = tag
+            break
+
+    candidates: List[tuple[str, str]] = []
+    if heading:
+        ul = heading.find_next("ul")
+        if ul:
+            for a in ul.find_all("a", href=True):
+                candidates.append((" ".join(a.get_text(" ", strip=True).split()), (a.get("href") or "").strip()))
+
+    # Fallback: scrape numeric relative links in main (kept strict), then filter by a few heuristics.
+    if not candidates:
+        for a in main.find_all("a", href=True):
+            name = " ".join(a.get_text(" ", strip=True).split())
+            href = (a.get("href") or "").strip()
+            if not name or not href:
+                continue
+            if not re.fullmatch(r"\d+\.html", href):
+                continue
+            candidates.append((name, href))
+
     out: List[SQASubject] = []
     seen: set[str] = set()
-    for a in main.find_all("a", href=True):
-        name = " ".join(a.get_text(" ", strip=True).split())
-        href = (a.get("href") or "").strip()
+    for name, href in candidates:
         if not name or not href:
             continue
-        # The actual subject list links are relative like "45723.html".
-        # Keep this strict to avoid pulling in nav links (which are mostly "/sqa/<id>.html").
-        if not re.fullmatch(r"\d+\.html", href):
+        low = name.lower()
+        # Filter obvious nav/help links that sometimes share the same numeric-link pattern.
+        if low in {"national qualifications", "about national qualifications", "about sqa"}:
             continue
-        # Filter obvious non-subject items that also appear in the page body.
-        if name.lower() in {"national qualifications"}:
-            continue
-        if name.lower().startswith("about "):
+        if "enquiries" in low or "opportunities" in low or "generative ai" in low:
             continue
 
-        url = _norm_url(href, SQA_SUBJECT_INDEX)  # relative links are relative to /sqa/
+        url = _norm_url(href, SQA_SUBJECT_INDEX)
         if url in seen:
             continue
         seen.add(url)
         out.append(SQASubject(name=name, subject_url=url))
 
-    # Optional: restrict to the giant "Select subject" dropdown, if present.
-    for sel in soup.find_all("select"):
-        options = {" ".join(o.get_text(" ", strip=True).split()) for o in sel.find_all("option")}
-        options = {o for o in options if o and o.lower() not in {"select subject", "select your subject"}}
-        if len(options) >= 30 and ("Accounting" in options or "Biology" in options):
-            out = [s for s in out if s.name in options]
-            break
-
     out.sort(key=lambda s: s.name.lower())
     return out
+
+
+def _get_level_links_with_fallback(session: requests.Session, driver: webdriver.Chrome, subject_url: str) -> Dict[str, str]:
+    """
+    Some SQA subject pages don't expose the level tab links reliably in static HTML.
+    Try requests first (fast), then fall back to Selenium if needed.
+    """
+    r = _get_with_retry(session, subject_url, timeout=30, retries=5)
+    links = _extract_level_links(r.text, subject_url)
+    if links:
+        return links
+
+    # Selenium fallback (loads any JS-rendered nav)
+    driver.get(subject_url)
+    time.sleep(1.2)
+    html = driver.page_source
+    return _extract_level_links(html, subject_url)
 
 
 def init_driver(*, headless: bool = True) -> webdriver.Chrome:
@@ -432,8 +462,7 @@ def main() -> int:
     try:
         for subj in subjects:
             try:
-                r = _get_with_retry(session, subj.subject_url, timeout=30, retries=5)
-                level_links = _extract_level_links(r.text, subj.subject_url)
+                level_links = _get_level_links_with_fallback(session, driver, subj.subject_url)
                 targets = choose_target_levels(level_links)
                 if not targets:
                     print(f"[SKIP] {subj.name}: no National 5 / Higher / Advanced Higher tabs found")
@@ -446,27 +475,31 @@ def main() -> int:
                     level_url = targets[level]
                     if args.resume_missing and not args.dry_run:
                         subject_code = f"SQA-{slugify_code(level)}-{slugify_code(subj.name)}"
-                        existing = (
-                            sb.table("staging_aqa_subjects")
-                            .select("id")
-                            .eq("exam_board", EXAM_BOARD)
-                            .eq("qualification_type", level)
-                            .eq("subject_code", subject_code)
-                            .maybe_single()
-                            .execute()
-                            .data
-                        )
-                        if existing and existing.get("id"):
-                            cnt = (
-                                sb.table("staging_aqa_topics")
-                                .select("id", count="exact")
-                                .eq("subject_id", existing["id"])
+                        try:
+                            resp = (
+                                sb.table("staging_aqa_subjects")
+                                .select("id")
+                                .eq("exam_board", EXAM_BOARD)
+                                .eq("qualification_type", level)
+                                .eq("subject_code", subject_code)
+                                .maybe_single()
                                 .execute()
-                                .count
-                                or 0
                             )
-                            if cnt > 0:
-                                continue
+                            existing = getattr(resp, "data", None) if resp is not None else None
+                            if existing and existing.get("id"):
+                                cnt_resp = (
+                                    sb.table("staging_aqa_topics")
+                                    .select("id", count="exact")
+                                    .eq("subject_id", existing["id"])
+                                    .execute()
+                                )
+                                cnt = getattr(cnt_resp, "count", None) if cnt_resp is not None else None
+                                cnt = cnt or 0
+                                if cnt > 0:
+                                    continue
+                        except Exception:
+                            # If the resume check fails for any reason, proceed to scrape rather than crashing.
+                            pass
                     if args.dry_run:
                         spec_url = scrape_spec_pdf_url(driver, level_url)
                         print(f"[DRY] {subj.name} ({level}): spec={'yes' if spec_url else 'no'}")
