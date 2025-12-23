@@ -106,9 +106,43 @@ def _norm_url(u: str, base: str) -> str:
     return urljoin(base, u)
 
 
+def _requests_session() -> requests.Session:
+    """
+    Basic requests session. We implement retries ourselves to avoid extra deps.
+    """
+    s = requests.Session()
+    s.headers.update({"User-Agent": "Mozilla/5.0"})
+    return s
+
+
+def _get_with_retry(session: requests.Session, url: str, *, timeout: int = 30, retries: int = 5) -> requests.Response:
+    last_err: Exception | None = None
+    for attempt in range(1, retries + 1):
+        try:
+            resp = session.get(url, timeout=timeout)
+            resp.raise_for_status()
+            return resp
+        except Exception as e:
+            last_err = e
+            # exponential backoff (caps at 20s)
+            time.sleep(min(2**attempt, 20))
+    raise RuntimeError(f"GET failed after retries: {url} ({last_err})") from last_err
+
+
+def _download_pdf_with_retry(url: str, *, retries: int = 5) -> bytes:
+    last_err: Exception | None = None
+    for attempt in range(1, retries + 1):
+        try:
+            return download_pdf(url)
+        except Exception as e:
+            last_err = e
+            time.sleep(min(2**attempt, 20))
+    raise RuntimeError(f"PDF download failed after retries: {url} ({last_err})") from last_err
+
+
 def load_subjects_from_index() -> List[SQASubject]:
-    r = requests.get(SQA_SUBJECT_INDEX, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
-    r.raise_for_status()
+    session = _requests_session()
+    r = _get_with_retry(session, SQA_SUBJECT_INDEX, timeout=30, retries=5)
     soup = BeautifulSoup(r.text, "html.parser")
     main = soup.find("main") or soup
 
@@ -341,7 +375,7 @@ def scrape_one(subject: SQASubject, *, level_name: str, level_url: str, driver, 
         specification_url=spec_url,
     )
 
-    pdf = download_pdf(spec_url)
+    pdf = _download_pdf_with_retry(spec_url, retries=5)
     full_text = extract_pdf_text(pdf)
     full_text = (
         (full_text or "")
@@ -365,6 +399,11 @@ def main() -> int:
     parser.add_argument("--subject", help="Filter subject by name (partial match)")
     parser.add_argument("--limit-subjects", type=int)
     parser.add_argument("--dry-run", action="store_true", help="Do not write to staging (just validate PDF discovery)")
+    parser.add_argument(
+        "--resume-missing",
+        action="store_true",
+        help="Only process subject/level pairs missing topics in staging (topics=0).",
+    )
     parser.add_argument("--headless", action="store_true", help="Run Chrome headless (default)")
     parser.add_argument("--no-headless", action="store_true", help="Run Chrome visible")
     args = parser.parse_args()
@@ -384,6 +423,8 @@ def main() -> int:
 
     provider, client = resolve_ai_provider()
     driver = init_driver(headless=headless)
+    sb = load_supabase()
+    session = _requests_session()
 
     ok = 0
     skipped = 0
@@ -391,8 +432,7 @@ def main() -> int:
     try:
         for subj in subjects:
             try:
-                r = requests.get(subj.subject_url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
-                r.raise_for_status()
+                r = _get_with_retry(session, subj.subject_url, timeout=30, retries=5)
                 level_links = _extract_level_links(r.text, subj.subject_url)
                 targets = choose_target_levels(level_links)
                 if not targets:
@@ -404,6 +444,29 @@ def main() -> int:
                     if level not in targets:
                         continue
                     level_url = targets[level]
+                    if args.resume_missing and not args.dry_run:
+                        subject_code = f"SQA-{slugify_code(level)}-{slugify_code(subj.name)}"
+                        existing = (
+                            sb.table("staging_aqa_subjects")
+                            .select("id")
+                            .eq("exam_board", EXAM_BOARD)
+                            .eq("qualification_type", level)
+                            .eq("subject_code", subject_code)
+                            .maybe_single()
+                            .execute()
+                            .data
+                        )
+                        if existing and existing.get("id"):
+                            cnt = (
+                                sb.table("staging_aqa_topics")
+                                .select("id", count="exact")
+                                .eq("subject_id", existing["id"])
+                                .execute()
+                                .count
+                                or 0
+                            )
+                            if cnt > 0:
+                                continue
                     if args.dry_run:
                         spec_url = scrape_spec_pdf_url(driver, level_url)
                         print(f"[DRY] {subj.name} ({level}): spec={'yes' if spec_url else 'no'}")
