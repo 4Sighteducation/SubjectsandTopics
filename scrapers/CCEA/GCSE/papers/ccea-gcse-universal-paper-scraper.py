@@ -200,6 +200,7 @@ def init_driver() -> webdriver.Chrome:
     chrome_options = Options()
     # Intentionally NOT headless (Cloudflare)
     is_windows = os.name == "nt"
+    preferred = (os.environ.get("CCEA_BROWSER") or ("edge" if is_windows else "chrome")).strip().lower()
     chrome_options.add_argument("--disable-gpu")
     if not is_windows:
         chrome_options.add_argument("--no-sandbox")
@@ -217,11 +218,16 @@ def init_driver() -> webdriver.Chrome:
     except Exception:
         pass
     try:
+        if preferred == "edge":
+            raise SessionNotCreatedException("Skipping Chrome (CCEA_BROWSER=edge)")
         driver = webdriver.Chrome(options=chrome_options)
         driver.implicitly_wait(10)
         return driver
     except (SessionNotCreatedException, WebDriverException) as e:
-        print(f"[WARN] Chrome WebDriver failed to start ({e}). Trying Edge WebDriver instead...")
+        if preferred != "chrome":
+            print(f"[INFO] Using Edge WebDriver (reason: {e})")
+        else:
+            print(f"[WARN] Chrome WebDriver failed to start ({e}). Trying Edge WebDriver instead...")
         from selenium.webdriver.edge.options import Options as EdgeOptions
 
         edge_options = EdgeOptions()

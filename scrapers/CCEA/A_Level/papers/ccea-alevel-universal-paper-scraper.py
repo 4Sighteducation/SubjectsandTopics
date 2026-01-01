@@ -199,6 +199,7 @@ def cache_ccae_pdfs_in_sets(sb, driver, *, subject_code: str, past_papers_url: s
 def init_driver() -> webdriver.Chrome:
     chrome_options = Options()
     is_windows = os.name == "nt"
+    preferred = (os.environ.get("CCEA_BROWSER") or ("edge" if is_windows else "chrome")).strip().lower()
     chrome_options.add_argument("--disable-gpu")
     # These are useful on Linux containers; on Windows they can occasionally cause startup issues.
     if not is_windows:
@@ -219,12 +220,18 @@ def init_driver() -> webdriver.Chrome:
     except Exception:
         pass
     try:
+        # On Windows, Edge tends to be more reliable than Chrome on some setups.
+        if preferred == "edge":
+            raise SessionNotCreatedException("Skipping Chrome (CCEA_BROWSER=edge)")
         driver = webdriver.Chrome(options=chrome_options)
         driver.implicitly_wait(10)
         return driver
     except (SessionNotCreatedException, WebDriverException) as e:
         # Common on Windows when Chrome/driver versions mismatch or Chrome exits immediately.
-        print(f"[WARN] Chrome WebDriver failed to start ({e}). Trying Edge WebDriver instead...")
+        if preferred != "chrome":
+            print(f"[INFO] Using Edge WebDriver (reason: {e})")
+        else:
+            print(f"[WARN] Chrome WebDriver failed to start ({e}). Trying Edge WebDriver instead...")
         from selenium.webdriver.edge.options import Options as EdgeOptions
 
         edge_options = EdgeOptions()
