@@ -208,9 +208,11 @@ def init_driver() -> webdriver.Chrome:
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
     chrome_options.add_experimental_option("useAutomationExtension", False)
     try:
-        profile_dir = (ROOT / "scrapers" / "output" / "chrome-profile-ccea").resolve()
+        base_dir = Path(os.environ.get("LOCALAPPDATA", str((ROOT / "scrapers" / "output").resolve())))
+        profile_dir = (base_dir / "FLASH" / "ccea-scraper" / "chrome-profile").resolve()
         profile_dir.mkdir(parents=True, exist_ok=True)
-        chrome_options.add_argument(f"--user-data-dir={profile_dir}")
+        chrome_options.add_argument(f'--user-data-dir="{str(profile_dir)}"')
+        chrome_options.add_argument('--profile-directory="Default"')
     except Exception:
         pass
     try:
@@ -227,9 +229,11 @@ def init_driver() -> webdriver.Chrome:
         edge_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
         edge_options.add_experimental_option("useAutomationExtension", False)
         try:
-            profile_dir = (ROOT / "scrapers" / "output" / "edge-profile-ccea").resolve()
+            base_dir = Path(os.environ.get("LOCALAPPDATA", str((ROOT / "scrapers" / "output").resolve())))
+            profile_dir = (base_dir / "FLASH" / "ccea-scraper" / "edge-profile").resolve()
             profile_dir.mkdir(parents=True, exist_ok=True)
-            edge_options.add_argument(f"--user-data-dir={profile_dir}")
+            edge_options.add_argument(f'--user-data-dir="{str(profile_dir)}"')
+            edge_options.add_argument('--profile-directory="Default"')
         except Exception:
             pass
         driver = webdriver.Edge(options=edge_options)
