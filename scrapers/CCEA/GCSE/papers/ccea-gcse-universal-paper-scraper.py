@@ -30,6 +30,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import StaleElementReferenceException
 
@@ -89,7 +90,44 @@ def _dismiss_cookie_banner(driver: webdriver.Chrome) -> bool:
         except Exception:
             continue
     try:
-        driver.execute_script("document.dispatchEvent(new KeyboardEvent('keydown', {key:'Escape'}));")
+        driver.find_element(By.TAG_NAME, "body").send_keys(Keys.ESCAPE)
+    except Exception:
+        pass
+
+    text_buttons = [
+        "Accept all",
+        "Accept All",
+        "Accept",
+        "Allow all",
+        "Allow All",
+        "I agree",
+        "Agree",
+        "OK",
+        "Got it",
+    ]
+    for t in text_buttons:
+        try:
+            els = driver.find_elements(
+                By.XPATH,
+                f"//button[contains(translate(normalize-space(.), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{t.lower()}')]",
+            )
+            if els:
+                driver.execute_script("arguments[0].click();", els[0])
+                time.sleep(0.4)
+                return True
+        except Exception:
+            continue
+
+    try:
+        driver.execute_script(
+            """
+            const ids = ['onetrust-banner-sdk','onetrust-consent-sdk','CybotCookiebotDialog','cookie-banner','cookieConsent'];
+            for (const id of ids) { const el = document.getElementById(id); if (el) el.style.display='none'; }
+            const classes = ['onetrust-pc-dark-filter','ot-sdk-container','ot-sdk-row','CookieConsent'];
+            for (const c of classes) { document.querySelectorAll('.'+c).forEach(el => el.style.display='none'); }
+            """
+        )
+        return True
     except Exception:
         pass
     return False
@@ -166,6 +204,12 @@ def init_driver() -> webdriver.Chrome:
     chrome_options.add_argument("--disable-blink-features=AutomationControlled")
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
     chrome_options.add_experimental_option("useAutomationExtension", False)
+    try:
+        profile_dir = (ROOT / "scrapers" / "output" / "chrome-profile-ccea").resolve()
+        profile_dir.mkdir(parents=True, exist_ok=True)
+        chrome_options.add_argument(f"--user-data-dir={profile_dir}")
+    except Exception:
+        pass
     driver = webdriver.Chrome(options=chrome_options)
     driver.implicitly_wait(10)
     return driver
