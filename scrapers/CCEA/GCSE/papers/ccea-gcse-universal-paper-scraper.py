@@ -51,6 +51,49 @@ QUAL_TYPE = "GCSE"
 
 STORAGE_BUCKET_PDFS = "exam-pdfs"
 
+def _dismiss_cookie_banner(driver: webdriver.Chrome) -> bool:
+    """
+    CCEA pages sometimes show a cookie/consent banner (OneTrust/Cookiebot/etc) that blocks clicks.
+    Best-effort: try common accept/close selectors. Safe to call repeatedly.
+    """
+    candidates = [
+        "#onetrust-accept-btn-handler",
+        "button#onetrust-accept-btn-handler",
+        "button[aria-label='Accept cookies']",
+        "button[title='Accept cookies']",
+        "button[title='Accept all cookies']",
+        "button[aria-label='Accept all cookies']",
+        "button.cookie-accept",
+        "button#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+        "button#CybotCookiebotDialogBodyButtonAccept",
+        ".onetrust-close-btn-handler",
+        "#onetrust-close-btn-container button",
+        "button[aria-label='Close']",
+        "button[title='Close']",
+        "button[aria-label='Dismiss']",
+    ]
+
+    for css in candidates:
+        try:
+            els = driver.find_elements(By.CSS_SELECTOR, css)
+            if not els:
+                continue
+            el = els[0]
+            if not el.is_displayed():
+                continue
+            driver.execute_script("arguments[0].scrollIntoView({block:'center'});", el)
+            time.sleep(0.1)
+            driver.execute_script("arguments[0].click();", el)
+            time.sleep(0.4)
+            return True
+        except Exception:
+            continue
+    try:
+        driver.execute_script("document.dispatchEvent(new KeyboardEvent('keydown', {key:'Escape'}));")
+    except Exception:
+        pass
+    return False
+
 
 def _should_cache_pdf(url: str | None) -> bool:
     if not url:
@@ -131,6 +174,7 @@ def init_driver() -> webdriver.Chrome:
 def _wait_cloudflare_clear(driver: webdriver.Chrome, *, timeout_s: int = 35) -> bool:
     for _ in range(timeout_s):
         if "Just a moment" not in (driver.title or ""):
+            _dismiss_cookie_banner(driver)
             return True
         time.sleep(1)
     return False
@@ -140,6 +184,7 @@ def _find_past_papers_url(driver: webdriver.Chrome, subject_page_url: str) -> st
     driver.get(subject_page_url)
     if not _wait_cloudflare_clear(driver):
         raise RuntimeError("Cloudflare challenge did not clear for subject page")
+    _dismiss_cookie_banner(driver)
 
     # Prefer an explicit link on the page
     soup = BeautifulSoup(driver.page_source, "html.parser")
@@ -240,6 +285,7 @@ def scrape_past_papers_page(driver: webdriver.Chrome, past_papers_url: str) -> L
     """
 
     def _apply_filters(*, year_value: str, series_value: str, type_value: str) -> None:
+        _dismiss_cookie_banner(driver)
         # Selects are typically:
         # - field_year_target_id_selective--*
         # - field_series_target_id_selective--*
@@ -266,6 +312,11 @@ def scrape_past_papers_page(driver: webdriver.Chrome, past_papers_url: str) -> L
                 type_sel.select_by_value(type_value)
                 break
             except StaleElementReferenceException:
+                time.sleep(0.6)
+                if attempt == 3:
+                    raise
+            except Exception:
+                _dismiss_cookie_banner(driver)
                 time.sleep(0.6)
                 if attempt == 3:
                     raise
@@ -360,6 +411,7 @@ def scrape_past_papers_page(driver: webdriver.Chrome, past_papers_url: str) -> L
     driver.get(past_papers_url)
     if not _wait_cloudflare_clear(driver):
         raise RuntimeError("Cloudflare challenge did not clear for past papers page")
+    _dismiss_cookie_banner(driver)
 
     # Read available year options
     def _read_option_values(selector: str) -> List[tuple]:
