@@ -19,6 +19,7 @@ Upload:
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import sys
 import time
@@ -28,11 +29,11 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from selenium.common.exceptions import SessionNotCreatedException, StaleElementReferenceException, WebDriverException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
-from selenium.common.exceptions import StaleElementReferenceException
 
 ROOT = Path(__file__).resolve().parents[4]
 sys.path.insert(0, str(ROOT))
@@ -197,9 +198,11 @@ def cache_ccae_pdfs_in_sets(sb, driver, *, subject_code: str, past_papers_url: s
 def init_driver() -> webdriver.Chrome:
     chrome_options = Options()
     # Intentionally NOT headless (Cloudflare)
+    is_windows = os.name == "nt"
     chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--disable-dev-shm-usage")
+    if not is_windows:
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--window-size=1400,900")
     chrome_options.add_argument("--disable-blink-features=AutomationControlled")
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
@@ -210,9 +213,28 @@ def init_driver() -> webdriver.Chrome:
         chrome_options.add_argument(f"--user-data-dir={profile_dir}")
     except Exception:
         pass
-    driver = webdriver.Chrome(options=chrome_options)
-    driver.implicitly_wait(10)
-    return driver
+    try:
+        driver = webdriver.Chrome(options=chrome_options)
+        driver.implicitly_wait(10)
+        return driver
+    except (SessionNotCreatedException, WebDriverException) as e:
+        print(f"[WARN] Chrome WebDriver failed to start ({e}). Trying Edge WebDriver instead...")
+        from selenium.webdriver.edge.options import Options as EdgeOptions
+
+        edge_options = EdgeOptions()
+        edge_options.add_argument("--window-size=1400,900")
+        edge_options.add_argument("--disable-blink-features=AutomationControlled")
+        edge_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
+        edge_options.add_experimental_option("useAutomationExtension", False)
+        try:
+            profile_dir = (ROOT / "scrapers" / "output" / "edge-profile-ccea").resolve()
+            profile_dir.mkdir(parents=True, exist_ok=True)
+            edge_options.add_argument(f"--user-data-dir={profile_dir}")
+        except Exception:
+            pass
+        driver = webdriver.Edge(options=edge_options)
+        driver.implicitly_wait(10)
+        return driver
 
 
 def _wait_cloudflare_clear(driver: webdriver.Chrome, *, timeout_s: int = 35) -> bool:
