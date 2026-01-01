@@ -17,6 +17,7 @@ import importlib.util
 import os
 import re
 import sys
+import tempfile
 import time
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
@@ -207,14 +208,14 @@ def init_driver() -> webdriver.Chrome:
     chrome_options.add_argument("--disable-blink-features=AutomationControlled")
     chrome_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
     chrome_options.add_experimental_option("useAutomationExtension", False)
-    # Persist cookies/consent across runs so we don't get stuck behind banners every time.
+    # IMPORTANT (Windows): use an ephemeral profile per run to avoid DevToolsActivePort/lock issues.
+    # We do cookie dismissal programmatically, so persistence isn't required for success.
     try:
-        # Avoid OneDrive paths for browser profiles (can cause Chrome/Edge to exit immediately).
         base_dir = Path(os.environ.get("LOCALAPPDATA", str((ROOT / "scrapers" / "output").resolve())))
-        profile_dir = (base_dir / "FLASH" / "ccea-scraper" / "chrome-profile").resolve()
-        profile_dir.mkdir(parents=True, exist_ok=True)
-        chrome_options.add_argument(f'--user-data-dir="{str(profile_dir)}"')
-        chrome_options.add_argument('--profile-directory="Default"')
+        root = (base_dir / "FLASH" / "ccea-scraper" / "tmp-profiles").resolve()
+        root.mkdir(parents=True, exist_ok=True)
+        tmp_profile = tempfile.mkdtemp(prefix="chrome-", dir=str(root))
+        chrome_options.add_argument(f"--user-data-dir={tmp_profile}")
     except Exception:
         pass
     try:
@@ -233,10 +234,10 @@ def init_driver() -> webdriver.Chrome:
         edge_options.add_experimental_option("useAutomationExtension", False)
         try:
             base_dir = Path(os.environ.get("LOCALAPPDATA", str((ROOT / "scrapers" / "output").resolve())))
-            profile_dir = (base_dir / "FLASH" / "ccea-scraper" / "edge-profile").resolve()
-            profile_dir.mkdir(parents=True, exist_ok=True)
-            edge_options.add_argument(f'--user-data-dir="{str(profile_dir)}"')
-            edge_options.add_argument('--profile-directory="Default"')
+            root = (base_dir / "FLASH" / "ccea-scraper" / "tmp-profiles").resolve()
+            root.mkdir(parents=True, exist_ok=True)
+            tmp_profile = tempfile.mkdtemp(prefix="edge-", dir=str(root))
+            edge_options.add_argument(f"--user-data-dir={tmp_profile}")
         except Exception:
             pass
         driver = webdriver.Edge(options=edge_options)

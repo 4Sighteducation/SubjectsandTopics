@@ -22,6 +22,7 @@ import argparse
 import os
 import re
 import sys
+import tempfile
 import time
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
@@ -209,10 +210,10 @@ def init_driver() -> webdriver.Chrome:
     chrome_options.add_experimental_option("useAutomationExtension", False)
     try:
         base_dir = Path(os.environ.get("LOCALAPPDATA", str((ROOT / "scrapers" / "output").resolve())))
-        profile_dir = (base_dir / "FLASH" / "ccea-scraper" / "chrome-profile").resolve()
-        profile_dir.mkdir(parents=True, exist_ok=True)
-        chrome_options.add_argument(f'--user-data-dir="{str(profile_dir)}"')
-        chrome_options.add_argument('--profile-directory="Default"')
+        root = (base_dir / "FLASH" / "ccea-scraper" / "tmp-profiles").resolve()
+        root.mkdir(parents=True, exist_ok=True)
+        tmp_profile = tempfile.mkdtemp(prefix="chrome-", dir=str(root))
+        chrome_options.add_argument(f"--user-data-dir={tmp_profile}")
     except Exception:
         pass
     try:
@@ -230,10 +231,10 @@ def init_driver() -> webdriver.Chrome:
         edge_options.add_experimental_option("useAutomationExtension", False)
         try:
             base_dir = Path(os.environ.get("LOCALAPPDATA", str((ROOT / "scrapers" / "output").resolve())))
-            profile_dir = (base_dir / "FLASH" / "ccea-scraper" / "edge-profile").resolve()
-            profile_dir.mkdir(parents=True, exist_ok=True)
-            edge_options.add_argument(f'--user-data-dir="{str(profile_dir)}"')
-            edge_options.add_argument('--profile-directory="Default"')
+            root = (base_dir / "FLASH" / "ccea-scraper" / "tmp-profiles").resolve()
+            root.mkdir(parents=True, exist_ok=True)
+            tmp_profile = tempfile.mkdtemp(prefix="edge-", dir=str(root))
+            edge_options.add_argument(f"--user-data-dir={tmp_profile}")
         except Exception:
             pass
         driver = webdriver.Edge(options=edge_options)
