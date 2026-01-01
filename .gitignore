@@ -65,3 +65,22 @@ htmlcov/
 *.crx
 chromedriver
 geckodriver
+
+# Node
+node_modules/
+package-lock.json
+
+# Temp / cache / outputs
+.tmp/
+tmp/
+temp/
+poppler/
+poppler.zip
+
+# Reports / debug artifacts
+data/reports/
+data/assessment_resources/
+debug*.txt
+debug*.md
+debug*.html
+diagnostic-output.txt
