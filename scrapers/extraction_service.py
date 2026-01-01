@@ -10,6 +10,7 @@ import re
 import requests
 import base64
 import io
+from urllib.parse import urlparse
 from pathlib import Path
 from openai import OpenAI
 from supabase import create_client
@@ -156,6 +157,54 @@ def copy_paper_to_production(staging_paper_id: str) -> str:
     
     return staging_paper_id
 
+
+def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> bytes:
+    """
+    Download PDFs in a way that survives common exam-board anti-bot rules.
+    CCEA in particular can return 403 unless we look like a normal browser.
+    """
+    last_err: Exception | None = None
+    parsed = urlparse(url)
+    base = f"{parsed.scheme}://{parsed.netloc}"
+
+    # Browser-like headers (keep minimal, but enough for most WAFs)
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,application/pdf;q=0.8,*/*;q=0.7",
+        "Accept-Language": "en-GB,en;q=0.9",
+        "Referer": base + "/",
+        "Connection": "keep-alive",
+    }
+
+    sess = requests.Session()
+    sess.headers.update(headers)
+
+    for attempt in range(1, retries + 1):
+        try:
+            resp = sess.get(url, timeout=timeout, allow_redirects=True)
+            # If blocked, surface a clearer error message for the app.
+            if resp.status_code == 403:
+                raise RuntimeError(f"403 Forbidden (source site blocked download): {url}")
+            resp.raise_for_status()
+            content = resp.content
+            if content[:4] != b"%PDF":
+                # Some hosts return HTML error pages with 200; make that explicit.
+                snippet = content[:200].decode("utf-8", errors="ignore")
+                raise RuntimeError(f"Downloaded content is not a PDF (got {resp.status_code}). Snippet: {snippet}")
+            return content
+        except Exception as e:
+            last_err = e
+            # exponential backoff (caps at 20s)
+            import time
+
+            time.sleep(min(2**attempt, 20))
+
+    raise RuntimeError(f"PDF download failed after retries: {url} ({last_err})") from last_err
+
 def extract_questions(question_url: str, paper_id: str) -> list:
     """Extract questions from question paper PDF"""
     
@@ -163,9 +212,7 @@ def extract_questions(question_url: str, paper_id: str) -> list:
     copy_paper_to_production(paper_id)
     
     # Download PDF
-    response = requests.get(question_url)
-    response.raise_for_status()
-    pdf_content = response.content
+    pdf_content = _download_pdf_bytes(question_url, timeout=90, retries=4)
     
     # Convert to images
     pdf_data = extract_pages_as_images(pdf_content, skip_pages=1)
@@ -261,11 +308,10 @@ def extract_mark_scheme(mark_scheme_url: str, paper_id: str) -> list:
     """Extract mark scheme from PDF"""
     
     # Download PDF
-    response = requests.get(mark_scheme_url)
-    response.raise_for_status()
+    pdf_content = _download_pdf_bytes(mark_scheme_url, timeout=90, retries=4)
     
     # Convert to images
-    pdf_data = extract_pages_as_images(response.content, skip_pages=1)
+    pdf_data = extract_pages_as_images(pdf_content, skip_pages=1)
     page_images = pdf_data['page_images']
     
     # Build request
@@ -354,11 +400,10 @@ def extract_examiner_report(examiner_report_url: str, paper_id: str) -> dict:
         return {'inserted': 0, 'skipped': True, 'reason': 'already_exists'}
 
     # Download PDF
-    response = requests.get(examiner_report_url)
-    response.raise_for_status()
+    pdf_content = _download_pdf_bytes(examiner_report_url, timeout=90, retries=4)
 
     # Convert pages to images (skip cover)
-    pdf_data = extract_pages_as_images(response.content, skip_pages=1)
+    pdf_data = extract_pages_as_images(pdf_content, skip_pages=1)
     page_images = pdf_data['page_images']
 
     client = get_openai_client()

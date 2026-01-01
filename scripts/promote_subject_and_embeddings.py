@@ -1,0 +1,325 @@
+"""
+Promote ONE subject from staging -> production, then (optionally) regenerate embeddings in topic_ai_metadata.
+
+Why:
+- Students report missing/weird topics for one subject
+- You fix/scrape into staging, validate, then promote just that subject
+- Regenerate just that subject's embeddings (no giant full rebuild)
+
+Requirements:
+- Python 3.10+
+- pip install -r requirements.txt
+
+Env vars:
+- SUPABASE_URL
+- SUPABASE_SERVICE_ROLE_KEY
+- OPENAI_API_KEY (required only if --generate-embeddings is enabled; summaries optional)
+
+Notes:
+- This assumes staging tables exist in the SAME Supabase project:
+  - staging_aqa_subjects
+  - staging_aqa_topics
+  (Yes, naming is legacy; they store multi-board data and include an exam_board field.)
+
+Usage examples:
+  python scripts/promote_subject_and_embeddings.py --exam-board Edexcel --qualification A_LEVEL --subject-code 9PE0 --generate-embeddings
+  python scripts/promote_subject_and_embeddings.py --exam-board Edexcel --qualification A_LEVEL --subject-name "Physical Education" --generate-embeddings --generate-summaries
+"""
+
+from __future__ import annotations
+
+import argparse
+import os
+import sys
+import time
+from typing import Any, Dict, List, Optional, Tuple
+
+from supabase import create_client
+
+
+def die(msg: str) -> None:
+    print(f"[FATAL] {msg}", file=sys.stderr)
+    raise SystemExit(2)
+
+
+def getenv_required(name: str) -> str:
+    v = os.getenv(name, "").strip()
+    if not v:
+        die(f"Missing env var {name}")
+    return v
+
+
+def pgvector_literal(vec: List[float]) -> str:
+    # pgvector input format: [0.1,0.2,...]
+    # Keep it compact; PostgREST will cast text -> vector.
+    return "[" + ",".join(f"{x:.8f}" for x in vec) + "]"
+
+
+def openai_embed(texts: List[str]) -> List[List[float]]:
+    """
+    Uses OpenAI embeddings (text-embedding-3-small) and returns vectors.
+    """
+    from openai import OpenAI  # type: ignore
+
+    api_key = getenv_required("OPENAI_API_KEY")
+    client = OpenAI(api_key=api_key)
+
+    # Batch call
+    res = client.embeddings.create(model="text-embedding-3-small", input=texts)
+    # Preserve ordering
+    return [d.embedding for d in res.data]
+
+
+def openai_summary(topic_name: str, full_path: List[str]) -> str:
+    """
+    Optional small plain-English summary for search results.
+    """
+    from openai import OpenAI  # type: ignore
+
+    api_key = getenv_required("OPENAI_API_KEY")
+    client = OpenAI(api_key=api_key)
+
+    path = " > ".join([p for p in full_path if p])
+    prompt = (
+        "Write a short plain-English summary (1 sentence, max 20 words) of the curriculum topic.\n"
+        f"Topic path: {path}\n"
+        f"Topic name: {topic_name}\n"
+        "Return only the sentence."
+    )
+
+    res = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": "You write crisp educational summaries."},
+            {"role": "user", "content": prompt},
+        ],
+        temperature=0.2,
+        max_tokens=80,
+    )
+    return (res.choices[0].message.content or "").strip() or topic_name
+
+
+def fetch_single(
+    sb, table: str, filters: List[Tuple[str, str, Any]], select: str
+) -> Optional[Dict[str, Any]]:
+    q = sb.table(table).select(select)
+    for col, op, val in filters:
+        if op == "eq":
+            q = q.eq(col, val)
+        elif op == "ilike":
+            q = q.ilike(col, val)
+        else:
+            die(f"Unsupported op: {op}")
+    res = q.maybe_single().execute()
+    return res.data
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--exam-board", required=True, help="e.g. Edexcel, AQA, OCR")
+    ap.add_argument("--qualification", required=True, help="e.g. A_LEVEL, GCSE, INTERNATIONAL_GCSE")
+    ap.add_argument("--subject-code", default="", help="preferred selector (exact match)")
+    ap.add_argument("--subject-name", default="", help="fallback selector (ilike)")
+    ap.add_argument("--generate-embeddings", action="store_true")
+    ap.add_argument("--generate-summaries", action="store_true", help="extra cost; optional")
+    ap.add_argument("--batch-size", type=int, default=25)
+    args = ap.parse_args()
+
+    if not args.subject_code and not args.subject_name:
+        die("Provide --subject-code or --subject-name")
+
+    supabase_url = getenv_required("SUPABASE_URL")
+    service_key = getenv_required("SUPABASE_SERVICE_ROLE_KEY")
+    sb = create_client(supabase_url, service_key)
+
+    exam_board = args.exam_board.strip()
+    qualification = args.qualification.strip()
+
+    # 1) Ensure exam board exists (upsert)
+    print(f"[1/5] Ensuring exam board exists: {exam_board}")
+    sb.table("exam_boards").upsert(
+        {"code": exam_board, "full_name": exam_board, "active": True}, on_conflict="code"
+    ).execute()
+
+    eb = fetch_single(sb, "exam_boards", [("code", "eq", exam_board)], "id,code")
+    if not eb:
+        die("Failed to resolve exam_boards.id")
+
+    qt = fetch_single(sb, "qualification_types", [("code", "eq", qualification)], "id,code")
+    if not qt:
+        die(f"qualification_types missing code={qualification}. Create it first.")
+
+    # 2) Resolve staging subject row
+    print("[2/5] Resolving staging subject row...")
+    filters: List[Tuple[str, str, Any]] = [("exam_board", "eq", exam_board)]
+    if args.subject_code:
+        filters.append(("subject_code", "eq", args.subject_code.strip()))
+    else:
+        # staging uses various labels; ilike for robustness
+        filters.append(("subject_name", "ilike", f"%{args.subject_name.strip()}%"))
+
+    stg = fetch_single(
+        sb,
+        "staging_aqa_subjects",
+        filters,
+        "id,subject_code,subject_name,exam_board,qualification_type",
+    )
+    if not stg:
+        die("No staging subject matched. Check staging_aqa_subjects filters.")
+
+    subject_code = stg["subject_code"]
+    subject_name = stg["subject_name"]
+    print(f"  - staging subject: {subject_code} — {subject_name}")
+
+    # 3) Upsert production subject row
+    print("[3/5] Upserting production exam_board_subjects row...")
+    sb.table("exam_board_subjects").upsert(
+        {
+            "subject_code": subject_code,
+            "subject_name": subject_name,
+            "exam_board_id": eb["id"],
+            "qualification_type_id": qt["id"],
+            "is_current": True,
+        },
+        on_conflict="subject_code,exam_board_id,qualification_type_id",
+    ).execute()
+
+    prod_subj = fetch_single(
+        sb,
+        "exam_board_subjects",
+        [
+            ("subject_code", "eq", subject_code),
+            ("exam_board_id", "eq", eb["id"]),
+            ("qualification_type_id", "eq", qt["id"]),
+        ],
+        "id,subject_code,subject_name",
+    )
+    if not prod_subj:
+        die("Failed to resolve production exam_board_subjects row after upsert.")
+
+    prod_subject_id = prod_subj["id"]
+    print(f"  - production subject id: {prod_subject_id}")
+
+    # 4) Replace curriculum_topics for this subject
+    print("[4/5] Replacing curriculum_topics for this subject...")
+    topics_res = (
+        sb.table("staging_aqa_topics")
+        .select("id,topic_code,topic_name,topic_level,parent_topic_id,sort_order,subject_id")
+        .eq("subject_id", stg["id"])
+        .order("topic_level")
+        .order("sort_order")
+        .execute()
+    )
+    stg_topics = topics_res.data or []
+    if not stg_topics:
+        die("No staging topics found for that staging subject id.")
+    print(f"  - staging topics: {len(stg_topics)}")
+
+    # Delete existing prod topics (cascades topic_ai_metadata via FK)
+    sb.table("curriculum_topics").delete().eq("exam_board_subject_id", prod_subject_id).execute()
+
+    # Insert pass 1: parent_topic_id NULL
+    insert_rows = []
+    for t in stg_topics:
+        insert_rows.append(
+            {
+                "id": t["id"],
+                "exam_board_subject_id": prod_subject_id,
+                "topic_code": t.get("topic_code"),
+                "topic_name": t.get("topic_name"),
+                "topic_level": t.get("topic_level"),
+                "parent_topic_id": None,
+                "sort_order": t.get("sort_order") or 0,
+            }
+        )
+
+    # Upsert in chunks
+    for i in range(0, len(insert_rows), 1000):
+        sb.table("curriculum_topics").upsert(insert_rows[i : i + 1000], on_conflict="id").execute()
+
+    # Insert pass 2: patch parent_topic_id by updating rows (needs stable UUIDs)
+    # PostgREST update is per-filter; we batch by building a small list of updates.
+    parent_updates = [t for t in stg_topics if t.get("parent_topic_id")]
+    for t in parent_updates:
+        sb.table("curriculum_topics").update({"parent_topic_id": t["parent_topic_id"]}).eq("id", t["id"]).execute()
+    print(f"  - parent links updated: {len(parent_updates)}")
+
+    # 5) Generate topic_ai_metadata embeddings for this subject (optional)
+    if not args.generate_embeddings:
+        print("[5/5] Skipping embeddings (pass --generate-embeddings to enable). Done.")
+        return
+
+    print("[5/5] Generating embeddings for this subject...")
+
+    # Query topics_with_context for this subject (filters match the view fields)
+    ctx_res = (
+        sb.table("topics_with_context")
+        .select("topic_id,topic_name,topic_code,topic_level,sort_order,subject_name,exam_board,qualification_level,full_path")
+        .eq("exam_board", exam_board)
+        .eq("qualification_level", qualification)
+        .eq("subject_code", subject_code)
+        .order("topic_level")
+        .order("sort_order")
+        .execute()
+    )
+    ctx_rows = ctx_res.data or []
+    if not ctx_rows:
+        die("topics_with_context returned 0 rows for this subject. Is production is_current=true and topics inserted?")
+
+    # Batch embed
+    batch_size = max(1, int(args.batch_size))
+    total = len(ctx_rows)
+    created = 0
+
+    # Pre-clear existing metadata for topics in this subject (defensive)
+    # If IDs changed, this ensures no stale rows remain. If IDs are stable, delete is a no-op because topics were deleted.
+    topic_ids = [r["topic_id"] for r in ctx_rows]
+    for i in range(0, len(topic_ids), 500):
+        sb.table("topic_ai_metadata").delete().in_("topic_id", topic_ids[i : i + 500]).execute()
+
+    for i in range(0, total, batch_size):
+        chunk = ctx_rows[i : i + batch_size]
+        texts = []
+        for r in chunk:
+            path = " > ".join([p for p in (r.get("full_path") or []) if p])
+            # Add code + path context to improve semantic search
+            text = f"{r.get('topic_name','')}\nPath: {path}\nCode: {r.get('topic_code','')}"
+            texts.append(text)
+
+        vectors = openai_embed(texts)
+        upserts = []
+        for r, vec in zip(chunk, vectors):
+            full_path = r.get("full_path") or []
+            summary = r.get("topic_name") or ""
+            if args.generate_summaries:
+                # slow + cost; do it per topic
+                summary = openai_summary(r.get("topic_name") or "", full_path)
+
+            upserts.append(
+                {
+                    "topic_id": r["topic_id"],
+                    "embedding": pgvector_literal(vec),
+                    "plain_english_summary": summary,
+                    "difficulty_band": "core",
+                    "exam_importance": 0.5,
+                    "subject_name": r.get("subject_name") or subject_name,
+                    "exam_board": r.get("exam_board") or exam_board,
+                    "qualification_level": r.get("qualification_level") or qualification,
+                    "topic_level": r.get("topic_level"),
+                    "full_path": full_path,
+                    "is_active": True,
+                    "spec_version": "v1",
+                }
+            )
+
+        sb.table("topic_ai_metadata").upsert(upserts, on_conflict="topic_id").execute()
+        created += len(upserts)
+        print(f"  - upserted embeddings: {created}/{total}")
+        time.sleep(0.2)
+
+    print("Done ✅")
+
+
+if __name__ == "__main__":
+    main()
+
