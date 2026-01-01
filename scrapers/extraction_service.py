@@ -23,6 +23,13 @@ load_dotenv()
 openai_client = None
 supabase = None
 
+# User-facing message shown in the app when the extraction service cannot fetch a PDF.
+CCEA_EXTRACTION_UNAVAILABLE_MESSAGE = (
+    "Unfortunately we are currently unable to extract papers from the CCEA Exam board. "
+    "If you have upgraded to a Pro account to use this feature and would like a refund please contact us at "
+    "admin@fl4shcards.com"
+)
+
 def normalize_question_number(s: str) -> str:
     """
     Normalize question identifiers so GCSE formats like '01.1' match '1.1'.
@@ -188,6 +195,9 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
 
     def _validate_pdf_bytes(content: bytes, status_code: int) -> bytes:
         if content[:4] != b"%PDF":
+            # For CCEA, avoid leaking technical details into the app UI.
+            if "ccea.org.uk" in host:
+                raise RuntimeError(CCEA_EXTRACTION_UNAVAILABLE_MESSAGE)
             snippet = content[:200].decode("utf-8", errors="ignore")
             raise RuntimeError(f"Downloaded content is not a PDF (got {status_code}). Snippet: {snippet}")
         return content
@@ -227,13 +237,12 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
             cf_ray = resp2.headers.get("cf-ray")
             server = resp2.headers.get("server")
             if "ccea.org.uk" in host:
-                raise RuntimeError(
-                    "403 Forbidden (CCEA is Cloudflare-protected; server-side downloads are blocked). "
-                    "Fix: cache the PDF into Supabase Storage during scraping (e.g. `exam-pdfs` bucket) "
-                    "and store the cached Storage URL in staging/production instead of the CCEA URL. "
-                    f"URL: {url}"
+                # Log details, but return a user-friendly message to the app.
+                print(
+                    f"[WARN] CCEA PDF blocked by Cloudflare via cloudscraper: {url}"
                     + (f" [server={server} cf-ray={cf_ray}]" if (server or cf_ray) else "")
                 )
+                raise RuntimeError(CCEA_EXTRACTION_UNAVAILABLE_MESSAGE)
             raise RuntimeError(
                 f"403 Forbidden (source site blocked download): {url}"
                 + (f" [server={server} cf-ray={cf_ray}]" if (server or cf_ray) else "")
@@ -252,12 +261,8 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
                     try:
                         return _download_with_cloudscraper()
                     except Exception as e:
-                        raise RuntimeError(
-                            "403 Forbidden (CCEA is Cloudflare-protected; server-side downloads are blocked). "
-                            "Fix: cache the PDF into Supabase Storage during scraping (e.g. `exam-pdfs` bucket) "
-                            "and store the cached Storage URL in staging/production instead of the CCEA URL. "
-                            f"URL: {url} ({e})"
-                        ) from e
+                        print(f"[WARN] CCEA download fallback failed: {e}")
+                        raise RuntimeError(CCEA_EXTRACTION_UNAVAILABLE_MESSAGE) from e
                 raise RuntimeError(f"403 Forbidden (source site blocked download): {url}")
             resp.raise_for_status()
             return _validate_pdf_bytes(resp.content, resp.status_code)
