@@ -226,6 +226,14 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
             # Include a tiny header sample for debugging in Railway logs
             cf_ray = resp2.headers.get("cf-ray")
             server = resp2.headers.get("server")
+            if "ccea.org.uk" in host:
+                raise RuntimeError(
+                    "403 Forbidden (CCEA is Cloudflare-protected; server-side downloads are blocked). "
+                    "Fix: cache the PDF into Supabase Storage during scraping (e.g. `exam-pdfs` bucket) "
+                    "and store the cached Storage URL in staging/production instead of the CCEA URL. "
+                    f"URL: {url}"
+                    + (f" [server={server} cf-ray={cf_ray}]" if (server or cf_ray) else "")
+                )
             raise RuntimeError(
                 f"403 Forbidden (source site blocked download): {url}"
                 + (f" [server={server} cf-ray={cf_ray}]" if (server or cf_ray) else "")
@@ -241,7 +249,15 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
                 # CCEA is frequently Cloudflare-protected; try a Cloudflare-aware client before failing.
                 if "ccea.org.uk" in host:
                     print(f"[WARN] 403 from CCEA, trying Cloudflare-aware downloader: {url}")
-                    return _download_with_cloudscraper()
+                    try:
+                        return _download_with_cloudscraper()
+                    except Exception as e:
+                        raise RuntimeError(
+                            "403 Forbidden (CCEA is Cloudflare-protected; server-side downloads are blocked). "
+                            "Fix: cache the PDF into Supabase Storage during scraping (e.g. `exam-pdfs` bucket) "
+                            "and store the cached Storage URL in staging/production instead of the CCEA URL. "
+                            f"URL: {url} ({e})"
+                        ) from e
                 raise RuntimeError(f"403 Forbidden (source site blocked download): {url}")
             resp.raise_for_status()
             return _validate_pdf_bytes(resp.content, resp.status_code)
