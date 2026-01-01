@@ -166,6 +166,7 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
     last_err: Exception | None = None
     parsed = urlparse(url)
     base = f"{parsed.scheme}://{parsed.netloc}"
+    host = (parsed.netloc or "").lower()
 
     # Browser-like headers (keep minimal, but enough for most WAFs)
     headers = {
@@ -178,24 +179,72 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
         "Accept-Language": "en-GB,en;q=0.9",
         "Referer": base + "/",
         "Connection": "keep-alive",
+        # Some WAFs behave better when the client advertises modern encoding support.
+        "Accept-Encoding": "gzip, deflate, br",
     }
 
     sess = requests.Session()
     sess.headers.update(headers)
+
+    def _validate_pdf_bytes(content: bytes, status_code: int) -> bytes:
+        if content[:4] != b"%PDF":
+            snippet = content[:200].decode("utf-8", errors="ignore")
+            raise RuntimeError(f"Downloaded content is not a PDF (got {status_code}). Snippet: {snippet}")
+        return content
+
+    def _download_with_cloudscraper() -> bytes:
+        """
+        CCEA commonly sits behind Cloudflare and blocks datacenter IPs / non-browser clients.
+        cloudscraper can sometimes solve the challenge and return the actual PDF.
+        """
+        try:
+            import cloudscraper  # type: ignore
+        except Exception as e:
+            raise RuntimeError(
+                "CCEA download blocked (403). cloudscraper is not installed on the server. "
+                "Add 'cloudscraper' to scrapers/requirements.txt and redeploy Railway."
+            ) from e
+
+        scraper = cloudscraper.create_scraper(
+            browser={
+                "browser": "chrome",
+                "platform": "windows",
+                "desktop": True,
+            }
+        )
+        scraper.headers.update(headers)
+
+        # Warm-up request: some CF setups issue cookies on the homepage.
+        try:
+            scraper.get(base + "/", timeout=timeout, allow_redirects=True)
+        except Exception:
+            # Non-fatal: proceed to direct PDF request
+            pass
+
+        resp2 = scraper.get(url, timeout=timeout, allow_redirects=True)
+        if resp2.status_code == 403:
+            # Include a tiny header sample for debugging in Railway logs
+            cf_ray = resp2.headers.get("cf-ray")
+            server = resp2.headers.get("server")
+            raise RuntimeError(
+                f"403 Forbidden (source site blocked download): {url}"
+                + (f" [server={server} cf-ray={cf_ray}]" if (server or cf_ray) else "")
+            )
+        resp2.raise_for_status()
+        return _validate_pdf_bytes(resp2.content, resp2.status_code)
 
     for attempt in range(1, retries + 1):
         try:
             resp = sess.get(url, timeout=timeout, allow_redirects=True)
             # If blocked, surface a clearer error message for the app.
             if resp.status_code == 403:
+                # CCEA is frequently Cloudflare-protected; try a Cloudflare-aware client before failing.
+                if "ccea.org.uk" in host:
+                    print(f"[WARN] 403 from CCEA, trying Cloudflare-aware downloader: {url}")
+                    return _download_with_cloudscraper()
                 raise RuntimeError(f"403 Forbidden (source site blocked download): {url}")
             resp.raise_for_status()
-            content = resp.content
-            if content[:4] != b"%PDF":
-                # Some hosts return HTML error pages with 200; make that explicit.
-                snippet = content[:200].decode("utf-8", errors="ignore")
-                raise RuntimeError(f"Downloaded content is not a PDF (got {resp.status_code}). Snippet: {snippet}")
-            return content
+            return _validate_pdf_bytes(resp.content, resp.status_code)
         except Exception as e:
             last_err = e
             # exponential backoff (caps at 20s)
