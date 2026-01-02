@@ -201,7 +201,7 @@ def main() -> None:
     print(f"  - production subject id: {prod_subject_id}")
 
     # 4) Replace curriculum_topics for this subject
-    print("[4/5] Replacing curriculum_topics for this subject...")
+    print("[4/5] Updating curriculum_topics for this subject (preserve IDs where possible)...")
     topics_res = (
         sb.table("staging_aqa_topics")
         .select("id,topic_code,topic_name,topic_level,parent_topic_id,sort_order,subject_id")
@@ -215,34 +215,97 @@ def main() -> None:
         die("No staging topics found for that staging subject id.")
     print(f"  - staging topics: {len(stg_topics)}")
 
-    # Delete existing prod topics (cascades topic_ai_metadata via FK)
-    sb.table("curriculum_topics").delete().eq("exam_board_subject_id", prod_subject_id).execute()
+    # SAFETY:
+    # Do NOT delete all production topics for a subject once users can have flashcards referencing topic_id.
+    # Instead:
+    # - Reuse existing production topic IDs where topic_code matches
+    # - Insert only new topic_codes
+    # - Optionally delete removed topic_codes (default: DO NOT delete; it can break existing flashcards)
 
-    # Insert pass 1: parent_topic_id NULL
-    insert_rows = []
+    # Fetch existing production topics for this subject (id + topic_code)
+    prod_rows = (
+        sb.table("curriculum_topics")
+        .select("id,topic_code")
+        .eq("exam_board_subject_id", prod_subject_id)
+        .execute()
+        .data
+        or []
+    )
+    prod_id_by_code = {r.get("topic_code"): r.get("id") for r in prod_rows if r.get("topic_code") and r.get("id")}
+
+    # Build a staging id -> production id mapping based on topic_code
+    stg_id_to_prod_id: Dict[str, str] = {}
     for t in stg_topics:
-        insert_rows.append(
-            {
-                "id": t["id"],
-                "exam_board_subject_id": prod_subject_id,
-                "topic_code": t.get("topic_code"),
-                "topic_name": t.get("topic_name"),
-                "topic_level": t.get("topic_level"),
-                "parent_topic_id": None,
-                "sort_order": t.get("sort_order") or 0,
-            }
-        )
+        code = t.get("topic_code")
+        stg_id = t.get("id")
+        if not code or not stg_id:
+            continue
+        existing_id = prod_id_by_code.get(code)
+        if existing_id:
+            stg_id_to_prod_id[stg_id] = existing_id
 
-    # Upsert in chunks
-    for i in range(0, len(insert_rows), 1000):
-        sb.table("curriculum_topics").upsert(insert_rows[i : i + 1000], on_conflict="id").execute()
+    # Upsert topics (pass 1): set parent_topic_id NULL until we patch relations
+    upserts: List[Dict[str, Any]] = []
+    for t in stg_topics:
+        code = t.get("topic_code")
+        if not code:
+            continue
+        prod_id = stg_id_to_prod_id.get(t.get("id"))  # reuse existing if available
+        row = {
+            # If we have an existing production row for this code, update it; else insert new without specifying id.
+            **({"id": prod_id} if prod_id else {}),
+            "exam_board_subject_id": prod_subject_id,
+            "topic_code": code,
+            "topic_name": t.get("topic_name"),
+            "topic_level": t.get("topic_level"),
+            "parent_topic_id": None,
+            "sort_order": t.get("sort_order") or 0,
+        }
+        upserts.append(row)
 
-    # Insert pass 2: patch parent_topic_id by updating rows (needs stable UUIDs)
-    # PostgREST update is per-filter; we batch by building a small list of updates.
-    parent_updates = [t for t in stg_topics if t.get("parent_topic_id")]
-    for t in parent_updates:
-        sb.table("curriculum_topics").update({"parent_topic_id": t["parent_topic_id"]}).eq("id", t["id"]).execute()
-    print(f"  - parent links updated: {len(parent_updates)}")
+    for i in range(0, len(upserts), 1000):
+        # Use natural uniqueness for topics: (exam_board_subject_id, topic_code)
+        sb.table("curriculum_topics").upsert(upserts[i : i + 1000], on_conflict="exam_board_subject_id,topic_code").execute()
+
+    # Refresh production lookup (need IDs for newly-inserted codes)
+    prod_rows2 = (
+        sb.table("curriculum_topics")
+        .select("id,topic_code")
+        .eq("exam_board_subject_id", prod_subject_id)
+        .execute()
+        .data
+        or []
+    )
+    prod_id_by_code2 = {r.get("topic_code"): r.get("id") for r in prod_rows2 if r.get("topic_code") and r.get("id")}
+
+    # Patch parent_topic_id using mapped IDs.
+    parent_updates = 0
+    for t in stg_topics:
+        code = t.get("topic_code")
+        if not code:
+            continue
+        parent_stg_id = t.get("parent_topic_id")
+        if not parent_stg_id:
+            continue
+        # Resolve parent code via staging id -> staging topic
+        # Build a quick staging id->code map once (lazy init)
+        # Note: small N; O(N^2) is fine but we keep it O(N).
+        parent_code = None
+        # We'll build this map the first time we need it
+        # (safe because Python will keep it in locals for the function)
+        if "stg_code_by_id" not in locals():
+            stg_code_by_id = {x.get("id"): x.get("topic_code") for x in stg_topics}
+        parent_code = stg_code_by_id.get(parent_stg_id)
+        if not parent_code:
+            continue
+        child_prod_id = prod_id_by_code2.get(code)
+        parent_prod_id = prod_id_by_code2.get(parent_code)
+        if not child_prod_id or not parent_prod_id:
+            continue
+        sb.table("curriculum_topics").update({"parent_topic_id": parent_prod_id}).eq("id", child_prod_id).execute()
+        parent_updates += 1
+
+    print(f"  - parent links updated: {parent_updates}")
 
     # 5) Generate topic_ai_metadata embeddings for this subject (optional)
     if not args.generate_embeddings:

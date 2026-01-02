@@ -5,11 +5,13 @@ selenium>=4.1.0
 pandas>=1.4.0
 python-dotenv>=0.20.0
 PyPDF2>=3.0.0
+pypdf>=5.1.0
 tqdm>=4.64.0  # For progress bars
 
 # Database - NEW
 supabase>=2.0.0  # Supabase Python client
 postgrest>=0.10.0  # PostgreSQL client
+websockets>=13.0.0  # required by supabase realtime client on Python 3.13 (websockets.asyncio)
 
 # For better retries - NEW
 tenacity>=8.0.0  # Retry logic with exponential backoff

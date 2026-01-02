@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Curriculum Data Viewer - PRODUCTION (Read-only)</title>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0a0f1e; color: #e2e8f0; padding: 20px; }
+    .container { max-width: 1700px; margin: 0 auto; }
+    h1 { color: #00f5ff; margin-bottom: 10px; }
+    .badge { display: inline-block; padding: 4px 10px; border-radius: 999px; font-size: 12px; font-weight: 700; letter-spacing: .4px; }
+    .badge.prod { background: rgba(255, 0, 110, 0.18); border: 1px solid rgba(255, 0, 110, 0.55); color: #ff006e; }
+    .subhead { color: #94a3b8; margin: 8px 0 18px; }
+    .row { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+    .filters { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; align-items: center; }
+    .filters label { color: #00f5ff; font-weight: bold; margin-right: 6px; }
+    .filters select { background: rgba(0,245,255,0.1); border: 1px solid #00f5ff; color: #e2e8f0; padding: 10px 15px; border-radius: 6px; font-size: 14px; cursor: pointer; }
+    .filters select:hover { background: rgba(0,245,255,0.2); }
+    .btn { font-size: 12px; padding: 10px 14px; background: rgba(0,245,255,0.2); color: #00f5ff; border: 1px solid #00f5ff; border-radius: 8px; cursor: pointer; white-space: nowrap; font-weight: 700; }
+    .btn:hover { background: rgba(0,245,255,0.3); }
+    .btn.secondary { background: rgba(255,255,255,0.06); border-color: rgba(255,255,255,0.18); color: #e2e8f0; }
+    .btn.danger { background: rgba(255,0,110,0.12); border-color: rgba(255,0,110,0.55); color: #ff006e; }
+    .panel { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 16px; }
+    .subjects-grid { display: grid; gap: 10px; }
+    .subject-card { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 10px; padding: 14px; cursor: pointer; transition: all 0.15s; }
+    .subject-card:hover { background: rgba(0,245,255,0.08); border-color: #00f5ff; transform: translateX(2px); }
+    .subject-title { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+    .subject-title h3 { color: #00f5ff; font-size: 16px; }
+    .subject-meta { color: #94a3b8; font-size: 12px; margin-top: 6px; display: flex; gap: 16px; flex-wrap: wrap; }
+    .loading { text-align: center; color: #00f5ff; padding: 30px; font-size: 16px; }
+    .topics { margin-top: 16px; }
+    .topics-header { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
+    .topics-header h2 { color: #00f5ff; font-size: 18px; }
+    .table { width: 100%; border-collapse: collapse; overflow: hidden; border-radius: 10px; }
+    .table th, .table td { padding: 10px 10px; border-bottom: 1px solid rgba(255,255,255,0.06); vertical-align: top; }
+    .table th { color: #94a3b8; font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; text-align: left; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+    .code { color: #00f5ff; }
+    .muted { color: #94a3b8; }
+    .indent { display: inline-block; width: 0; }
+    .name-strong { color: #e2e8f0; }
+    .compare { margin-top: 14px; }
+    .diff-box { margin-top: 10px; padding: 12px; border-radius: 10px; background: rgba(0,245,255,0.06); border: 1px solid rgba(0,245,255,0.18); }
+    .diff-box h4 { color: #00f5ff; margin-bottom: 8px; }
+    .diff-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 10px; }
+    .diff-item { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 10px; padding: 10px; }
+    .diff-item .k { color: #94a3b8; font-size: 12px; }
+    .diff-item .v { font-size: 22px; font-weight: 800; margin-top: 4px; }
+    .small { font-size: 12px; }
+    .list { margin-top: 8px; max-height: 260px; overflow: auto; padding-right: 6px; }
+    .list-item { padding: 6px 8px; border-radius: 8px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); margin-bottom: 6px; }
+    .split { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+    @media (max-width: 1100px) { .split { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="row" style="justify-content: space-between;">
+      <div>
+        <h1>Curriculum Data Viewer <span class="badge prod">PRODUCTION (Read-only)</span></h1>
+        <div class="subhead">Browse production subjects/topics and compare against staging for quick debugging.</div>
+      </div>
+      <div class="row">
+        <button class="btn secondary" onclick="resetUI()">Reset</button>
+      </div>
+    </div>
+
+    <div class="filters panel">
+      <div>
+        <label>Exam Board:</label>
+        <select id="filter-board" onchange="applyFilters()">
+          <option value="AQA">AQA</option>
+          <option value="OCR">OCR</option>
+          <option value="EDEXCEL" selected>EDEXCEL</option>
+          <option value="WJEC">WJEC</option>
+          <option value="EDUQAS">EDUQAS</option>
+          <option value="CCEA">CCEA</option>
+          <option value="SQA">SQA</option>
+        </select>
+      </div>
+      <div>
+        <label>Qualification:</label>
+        <select id="filter-qual" onchange="applyFilters()">
+          <option value="A_LEVEL" selected>A_LEVEL</option>
+          <option value="GCSE">GCSE</option>
+          <option value="INTERNATIONAL_GCSE">INTERNATIONAL_GCSE</option>
+          <option value="INTERNATIONAL_A_LEVEL">INTERNATIONAL_A_LEVEL</option>
+          <option value="BTEC_NATIONALS_L3">BTEC_NATIONALS_L3</option>
+          <option value="CAMBRIDGE_NATIONALS_L2">CAMBRIDGE_NATIONALS_L2</option>
+          <option value="CAMBRIDGE_TECHNICALS_L3">CAMBRIDGE_TECHNICALS_L3</option>
+          <option value="NATIONAL_5">NATIONAL_5</option>
+          <option value="HIGHER">HIGHER</option>
+          <option value="ADVANCED_HIGHER">ADVANCED_HIGHER</option>
+          <option value="LEVEL_3_EXTENDED_PROJECT">LEVEL_3_EXTENDED_PROJECT</option>
+        </select>
+      </div>
+      <button class="btn" onclick="loadSubjects()">Load subjects</button>
+      <span class="muted small">Tip: click a subject to view topics, then click “Compare with staging”.</span>
+    </div>
+
+    <div class="split" style="margin-top: 16px;">
+      <div class="panel">
+        <div style="display:flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+          <h2 style="color:#00f5ff; font-size: 18px;">Production Subjects</h2>
+          <div class="muted small" id="subjects-count"></div>
+        </div>
+        <div id="subjects" class="subjects-grid"></div>
+      </div>
+      <div class="panel">
+        <div id="details">
+          <div class="loading">Select a subject to view topics…</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // NOTE: This page is intended for read-only inspection. Do not add mutation endpoints here.
+    const SUPABASE_URL = 'https://qkapwhyxcpgzahuemucg.supabase.co';
+    const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFrYXB3aHl4Y3BnemFodWVtdWNnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk1NTgzNTUsImV4cCI6MjA2NTEzNDM1NX0.Labu2GwodnfEce4Nh5oBqTBTaD3weN63nKRMwAsyfbg';
+
+    const { createClient } = supabase;
+    const sb = createClient(SUPABASE_URL, SUPABASE_KEY);
+
+    let currentFilters = { board: 'EDEXCEL', qual: 'A_LEVEL' };
+    let currentProdSubject = null; // { id, subject_code, subject_name, boardCode, qualCode }
+
+    function resetUI() {
+      currentProdSubject = null;
+      document.getElementById('subjects').innerHTML = '';
+      document.getElementById('details').innerHTML = '<div class="loading">Select a subject to view topics…</div>';
+      document.getElementById('subjects-count').innerText = '';
+    }
+
+    function applyFilters() {
+      currentFilters.board = document.getElementById('filter-board').value;
+      currentFilters.qual = document.getElementById('filter-qual').value;
+      loadSubjects();
+    }
+
+    function escapeHtml(s) {
+      return String(s || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function stagingQualFromProd(qualCode) {
+      const map = {
+        A_LEVEL: 'A-Level',
+        GCSE: 'GCSE',
+        INTERNATIONAL_GCSE: 'International GCSE',
+        INTERNATIONAL_A_LEVEL: 'International A Level',
+        CAMBRIDGE_TECHNICALS_L3: 'CAMBRIDGE_TECHNICALS_L3',
+        CAMBRIDGE_NATIONALS_L2: 'CAMBRIDGE_NATIONALS_L2',
+        BTEC_NATIONALS_L3: 'BTEC_NATIONALS_L3',
+        NATIONAL_5: 'National 5',
+        HIGHER: 'Higher',
+        ADVANCED_HIGHER: 'Advanced Higher',
+        LEVEL_3_EXTENDED_PROJECT: 'Level 3 Extended Project',
+      };
+      return map[qualCode] || qualCode;
+    }
+
+    async function resolveProdIds(boardCode, qualCode) {
+      const { data: b, error: be } = await sb
+        .from('exam_boards')
+        .select('id,code,full_name')
+        .eq('code', boardCode)
+        .maybeSingle();
+      if (be) throw be;
+      if (!b?.id) throw new Error(`exam_boards not found for code=${boardCode}`);
+
+      const { data: q, error: qe } = await sb
+        .from('qualification_types')
+        .select('id,code,name')
+        .eq('code', qualCode)
+        .maybeSingle();
+      if (qe) throw qe;
+      if (!q?.id) throw new Error(`qualification_types not found for code=${qualCode}`);
+
+      return { board: b, qual: q };
+    }
+
+    async function loadSubjects() {
+      document.getElementById('subjects').innerHTML = '<div class="loading">⏳ Loading production subjects...</div>';
+      document.getElementById('details').innerHTML = '<div class="loading">Select a subject to view topics…</div>';
+      document.getElementById('subjects-count').innerText = '';
+
+      const boardCode = currentFilters.board;
+      const qualCode = currentFilters.qual;
+
+      // IMPORTANT:
+      // Filtering via embedded selects like `.eq('exam_boards.code', 'EDEXCEL')` is not reliably supported by PostgREST.
+      // Resolve IDs first, then filter on FK columns.
+      let resolved = null;
+      try {
+        resolved = await resolveProdIds(boardCode, qualCode);
+      } catch (e) {
+        document.getElementById('subjects').innerHTML = `<div class="loading">❌ Failed to resolve board/qualification: ${escapeHtml(e.message || e)}</div>`;
+        return;
+      }
+
+      const { board, qual } = resolved;
+
+      const { data, error } = await sb
+        .from('exam_board_subjects')
+        .select('id,subject_code,subject_name,is_current,exam_board_id,qualification_type_id')
+        .eq('is_current', true)
+        .eq('exam_board_id', board.id)
+        .eq('qualification_type_id', qual.id)
+        .order('subject_name');
+
+      if (error) {
+        document.getElementById('subjects').innerHTML = `<div class="loading">❌ Failed to load: ${escapeHtml(error.message)}</div>`;
+        return;
+      }
+
+      const subjects = data || [];
+      document.getElementById('subjects-count').innerText = `${subjects.length} subjects`;
+
+      if (!subjects.length) {
+        document.getElementById('subjects').innerHTML = `<div class="loading">No subjects found for ${boardCode} ${qualCode}.</div>`;
+        return;
+      }
+
+      let html = '';
+      for (const s of subjects) {
+        const boardName = board?.full_name || board?.code || boardCode;
+        const qualName = qual?.name || qual?.code || qualCode;
+        html += `
+          <div class="subject-card" onclick="showSubject('${s.id}', '${escapeHtml(s.subject_code)}', '${escapeHtml(s.subject_name)}', '${escapeHtml(boardCode)}', '${escapeHtml(qualCode)}')">
+            <div class="subject-title">
+              <h3>${escapeHtml(s.subject_name)}</h3>
+              <span class="mono code">${escapeHtml(s.subject_code)}</span>
+            </div>
+            <div class="subject-meta">
+              <div><span class="muted">Board:</span> <strong>${escapeHtml(boardName)}</strong></div>
+              <div><span class="muted">Qual:</span> <strong>${escapeHtml(qualName)}</strong></div>
+            </div>
+          </div>
+        `;
+      }
+      document.getElementById('subjects').innerHTML = html;
+    }
+
+    async function fetchAllTopicsForProdSubject(prodSubjectId) {
+      let all = [];
+      let page = 0;
+      const pageSize = 1000;
+      while (true) {
+        const { data, error } = await sb
+          .from('curriculum_topics')
+          .select('id,topic_code,topic_name,display_name,topic_level,parent_topic_id,sort_order')
+          .eq('exam_board_subject_id', prodSubjectId)
+          .range(page * pageSize, (page + 1) * pageSize - 1)
+          .order('topic_level')
+          .order('sort_order')
+          .order('topic_code');
+        if (error) throw error;
+        if (!data || !data.length) break;
+        all.push(...data);
+        if (data.length < pageSize) break;
+        page++;
+      }
+      return all;
+    }
+
+    async function showSubject(id, subjectCode, subjectName, boardCode, qualCode) {
+      currentProdSubject = { id, subject_code: subjectCode, subject_name: subjectName, boardCode, qualCode };
+      document.getElementById('details').innerHTML = '<div class="loading">⏳ Loading topics...</div>';
+
+      try {
+        const topics = await fetchAllTopicsForProdSubject(id);
+        const topicCount = topics.length;
+
+        // Build child map
+        const byId = new Map(topics.map(t => [t.id, { ...t, children: [] }]));
+        const roots = [];
+        for (const t of topics) {
+          const node = byId.get(t.id);
+          if (!t.parent_topic_id) {
+            roots.push(node);
+          } else {
+            const parent = byId.get(t.parent_topic_id);
+            if (parent) parent.children.push(node);
+            else roots.push(node); // orphan fallback
+          }
+        }
+
+        // Flatten in stable order: sort children by (topic_level, sort_order, topic_code)
+        const sortChildren = (nodes) => {
+          nodes.sort((a, b) => {
+            const la = a.topic_level ?? 0;
+            const lb = b.topic_level ?? 0;
+            if (la !== lb) return la - lb;
+            const sa = a.sort_order ?? 0;
+            const sb2 = b.sort_order ?? 0;
+            if (sa !== sb2) return sa - sb2;
+            return String(a.topic_code || '').localeCompare(String(b.topic_code || ''));
+          });
+          for (const n of nodes) {
+            if (n.children && n.children.length) sortChildren(n.children);
+          }
+        };
+        sortChildren(roots);
+
+        const flat = [];
+        const walk = (nodes, depth=0) => {
+          for (const n of nodes) {
+            flat.push({ ...n, _depth: depth });
+            if (n.children && n.children.length) walk(n.children, depth + 1);
+          }
+        };
+        walk(roots, 0);
+
+        let rows = '';
+        for (const t of flat) {
+          const depth = t._depth || 0;
+          const pad = '&nbsp;'.repeat(depth * 6);
+          const display = (t.display_name || '').trim();
+          const shown = display || (t.topic_name || '');
+          rows += `
+            <tr>
+              <td class="mono code">${escapeHtml(t.topic_code || '')}</td>
+              <td class="mono muted">L${escapeHtml(t.topic_level)}</td>
+              <td>
+                <span class="indent">${pad}</span>
+                <span class="name-strong">${escapeHtml(shown)}</span>
+                ${display ? `<div class="muted small">topic_name: ${escapeHtml(t.topic_name || '')}</div>` : ''}
+              </td>
+              <td class="muted small">${escapeHtml(display || '(null)')}</td>
+              <td class="muted small">${escapeHtml((t.topic_name || '').length)}</td>
+            </tr>
+          `;
+        }
+
+        document.getElementById('details').innerHTML = `
+          <div class="topics">
+            <div class="topics-header">
+              <h2>${escapeHtml(subjectName)} <span class="mono code">${escapeHtml(subjectCode)}</span></h2>
+              <div class="row">
+                <span class="muted small">Topics: <strong>${topicCount}</strong></span>
+                <button class="btn" onclick="compareWithStaging()">Compare with staging</button>
+              </div>
+            </div>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th style="width:120px;">topic_code</th>
+                  <th style="width:60px;">level</th>
+                  <th>display (prefers display_name)</th>
+                  <th style="width:220px;">display_name</th>
+                  <th style="width:90px;">len</th>
+                </tr>
+              </thead>
+              <tbody>${rows}</tbody>
+            </table>
+            <div class="compare" id="compare-box"></div>
+          </div>
+        `;
+      } catch (e) {
+        document.getElementById('details').innerHTML = `<div class="loading">❌ Failed to load topics: ${escapeHtml(e.message || e)}</div>`;
+      }
+    }
+
+    async function compareWithStaging() {
+      const box = document.getElementById('compare-box');
+      if (!box || !currentProdSubject) return;
+      box.innerHTML = `<div class="loading">⏳ Comparing with staging…</div>`;
+
+      const board = currentProdSubject.boardCode;
+      const qual = currentProdSubject.qualCode;
+      const stagingQual = stagingQualFromProd(qual);
+      const subjectCode = currentProdSubject.subject_code;
+
+      try {
+        // Resolve staging subject (best-effort)
+        const { data: stgSubs, error: stgErr } = await sb
+          .from('staging_aqa_subjects')
+          .select('id,subject_code,subject_name,exam_board,qualification_type')
+          .eq('subject_code', subjectCode)
+          .eq('exam_board', board)
+          .eq('qualification_type', stagingQual);
+        if (stgErr) throw stgErr;
+        const stg = (stgSubs || [])[0];
+        if (!stg) {
+          box.innerHTML = `<div class="diff-box">
+            <h4>Compare with staging</h4>
+            <div class="muted small">No staging subject found for code <span class="mono code">${escapeHtml(subjectCode)}</span>, board <strong>${escapeHtml(board)}</strong>, qualification <strong>${escapeHtml(stagingQual)}</strong>.</div>
+          </div>`;
+          return;
+        }
+
+        // Fetch topic codes from both
+        const prodTopics = await fetchAllTopicsForProdSubject(currentProdSubject.id);
+
+        let stgTopics = [];
+        let page = 0;
+        const pageSize = 1000;
+        while (true) {
+          const { data, error } = await sb
+            .from('staging_aqa_topics')
+            .select('id,topic_code,topic_name,topic_level,parent_topic_id')
+            .eq('subject_id', stg.id)
+            .range(page * pageSize, (page + 1) * pageSize - 1)
+            .order('topic_level')
+            .order('topic_code');
+          if (error) throw error;
+          if (!data || !data.length) break;
+          stgTopics.push(...data);
+          if (data.length < pageSize) break;
+          page++;
+        }
+
+        const prodByCode = new Map(prodTopics.map(t => [t.topic_code, t]));
+        const stgByCode = new Map(stgTopics.map(t => [t.topic_code, t]));
+        const prodCodes = new Set(prodTopics.map(t => t.topic_code));
+        const stgCodes = new Set(stgTopics.map(t => t.topic_code));
+
+        const missingInProd = [...stgCodes].filter(c => !prodCodes.has(c)).sort();
+        const missingInStg = [...prodCodes].filter(c => !stgCodes.has(c)).sort();
+
+        // Name differences (same code, different topic_name after normalization)
+        const normalize = (s) => (s || '').replace(/\s+/g, ' ').trim();
+        const nameDiffs = [];
+        for (const code of prodCodes) {
+          if (!stgByCode.has(code)) continue;
+          const p = prodByCode.get(code);
+          const s = stgByCode.get(code);
+          const pn = normalize(p?.topic_name);
+          const sn = normalize(s?.topic_name);
+          if (pn !== sn) {
+            nameDiffs.push({ code, prod: pn, stg: sn });
+          }
+        }
+
+        const countsByLevel = (arr) => {
+          const m = new Map();
+          for (const t of arr) {
+            const k = String(t.topic_level ?? 'null');
+            m.set(k, (m.get(k) || 0) + 1);
+          }
+          return m;
+        };
+        const prodCounts = countsByLevel(prodTopics);
+        const stgCounts = countsByLevel(stgTopics);
+        const allLevels = Array.from(new Set([...prodCounts.keys(), ...stgCounts.keys()])).sort((a,b)=>Number(a)-Number(b));
+
+        let levelLines = '';
+        for (const lvl of allLevels) {
+          levelLines += `<div class="muted small"><span class="mono">L${escapeHtml(lvl)}</span>: prod <strong>${prodCounts.get(lvl) || 0}</strong> vs stg <strong>${stgCounts.get(lvl) || 0}</strong></div>`;
+        }
+
+        const renderCodes = (arr) => arr.slice(0, 200).map(c => `<div class="list-item"><span class="mono code">${escapeHtml(c)}</span></div>`).join('') || `<div class="muted small">None 🎉</div>`;
+        const renderNameDiffs = (arr) => arr.slice(0, 80).map(d => `
+          <div class="list-item">
+            <div><span class="mono code">${escapeHtml(d.code)}</span></div>
+            <div class="muted small">prod: ${escapeHtml(d.prod)}</div>
+            <div class="muted small">stg: ${escapeHtml(d.stg)}</div>
+          </div>
+        `).join('') || `<div class="muted small">None 🎉</div>`;
+
+        box.innerHTML = `
+          <div class="diff-box">
+            <h4>Compare with staging</h4>
+            <div class="muted small">Matched staging subject: <strong>${escapeHtml(stg.subject_name)}</strong> (<span class="mono code">${escapeHtml(stg.subject_code)}</span>)</div>
+            <div class="diff-grid" style="margin-top:10px;">
+              <div class="diff-item"><div class="k">prod topics</div><div class="v">${prodTopics.length}</div></div>
+              <div class="diff-item"><div class="k">staging topics</div><div class="v">${stgTopics.length}</div></div>
+              <div class="diff-item"><div class="k">missing in prod</div><div class="v">${missingInProd.length}</div></div>
+              <div class="diff-item"><div class="k">missing in staging</div><div class="v">${missingInStg.length}</div></div>
+              <div class="diff-item"><div class="k">name diffs</div><div class="v">${nameDiffs.length}</div></div>
+            </div>
+            <div style="margin-top:10px;">${levelLines}</div>
+            <div class="split" style="margin-top:12px;">
+              <div>
+                <div class="muted small" style="margin-bottom:6px;">Missing in production (by topic_code)</div>
+                <div class="list">${renderCodes(missingInProd)}</div>
+              </div>
+              <div>
+                <div class="muted small" style="margin-bottom:6px;">Missing in staging (by topic_code)</div>
+                <div class="list">${renderCodes(missingInStg)}</div>
+              </div>
+            </div>
+            <div style="margin-top:12px;">
+              <div class="muted small" style="margin-bottom:6px;">Name diffs (same code, different topic_name)</div>
+              <div class="list">${renderNameDiffs(nameDiffs)}</div>
+            </div>
+          </div>
+        `;
+      } catch (e) {
+        box.innerHTML = `<div class="diff-box"><h4>Compare with staging</h4><div class="muted small">❌ Failed: ${escapeHtml(e.message || e)}</div></div>`;
+      }
+    }
+
+    window.onload = async () => {
+      await loadSubjects();
+    };
+  </script>
+</body>
+</html>
+

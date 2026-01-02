@@ -108,6 +108,10 @@ def parse_pe_topics(text):
     
     print("\n[INFO] Parsing Physical Education with deep hierarchy...")
     topics = []
+
+    # Bullet code generation must be stable across re-scrapes so diffs are meaningful.
+    # We assign bullet codes per subtopic (not globally), in the order encountered.
+    bullet_index_by_subtopic = {}
     
     # Level 0: Components (from Contents or headers)
     components = [
@@ -128,17 +132,40 @@ def parse_pe_topics(text):
     for i, line in enumerate(lines):
         line_stripped = line.strip()
         
-        # Level 1: Topics (1.1 Muscular, 1.2 Cardio-, 2.1 Diet, etc.)
-        topic_match = re.match(r'^([1-4])\.(\d{1,2})\s+([A-Z][a-zA-Z\s-]+?)$', line_stripped)
+        # Level 1: Topics (1.1 Muscular..., 1.5 Newton’s..., etc.)
+        # IMPORTANT:
+        # Do NOT over-restrict the title charset; PE headings include punctuation like apostrophes/colons.
+        # We only require: "X.Y<space><non-empty>", and we avoid matching subtopics (X.Y.Z) because those have a dot.
+        topic_match = re.match(r'^([1-4])\.(\d{1,2})\s+(.+?)$', line_stripped)
         if topic_match:
             comp_num = topic_match.group(1)
             topic_num = topic_match.group(2)
-            title = topic_match.group(3).strip()
+            raw_title = topic_match.group(3).strip()
+
+            # Some PDF-extracted lines incorrectly merge the next subtopic onto the same line, e.g.:
+            # "2.4 Linear motion 2.4.1 Knowledge and understanding..."
+            # Keep ONLY the "2.4 <title>" part on the Level-1 row, and emit the embedded "2.4.1 ..." as a Level-2 row.
+            embedded_subtopic = re.search(r'\b([1-4])\.(\d{1,2})\.(\d{1,2})\s+(.+)$', raw_title)
+            embedded_subtopic_obj = None
+            title = raw_title
+            if embedded_subtopic:
+                # Only split if the embedded subtopic matches this topic's comp/topic prefix
+                if embedded_subtopic.group(1) == comp_num and embedded_subtopic.group(2) == topic_num:
+                    split_at = embedded_subtopic.start()
+                    title = raw_title[:split_at].strip()
+                    sub_num = embedded_subtopic.group(3)
+                    sub_rest = embedded_subtopic.group(4).strip()
+                    if sub_rest:
+                        embedded_subtopic_obj = {
+                            'sub_num': sub_num,
+                            'title': sub_rest
+                        }
             
             # Clean title
             title = re.sub(r'\s+', ' ', title)
             
-            if len(title) > 2 and len(title) < 80:
+            # Allow longer headings (they're meaningful); continuation lines may add more.
+            if len(title) > 2 and len(title) < 200:
                 parent_comp = f'Comp{comp_num}'
                 topic_code = f'C{comp_num}T{topic_num}'
                 
@@ -157,6 +184,23 @@ def parse_pe_topics(text):
                 })
                 current_topic = topic_code
                 current_subtopic = None
+
+                # Emit embedded subtopic if present and not already created elsewhere.
+                if embedded_subtopic_obj:
+                    sub_num = embedded_subtopic_obj['sub_num']
+                    subtopic_code = f'C{comp_num}T{topic_num}S{sub_num}'
+                    subtopic_title = embedded_subtopic_obj['title']
+                    subtopic_title = re.sub(r'\s+', ' ', subtopic_title)
+                    if len(subtopic_title) > 500:
+                        subtopic_title = subtopic_title[:497] + '...'
+                    if not any(t.get('code') == subtopic_code for t in topics):
+                        topics.append({
+                            'code': subtopic_code,
+                            'title': f'{comp_num}.{topic_num}.{sub_num} {subtopic_title}',
+                            'level': 2,
+                            'parent': topic_code
+                        })
+                        current_subtopic = subtopic_code
         
         # Level 2: Subtopics (1.1.1, 1.1.2, 1.2.1, etc.)
         subtopic_match = re.match(r'^([1-4])\.(\d{1,2})\.(\d{1,2})\s+(.+?)$', line_stripped)
@@ -234,7 +278,8 @@ def parse_pe_topics(text):
                     if len(title) > 500:
                         title = title[:497] + '...'
                     
-                    bullet_code = f'{current_subtopic}_b{len(topics)}'
+                    bullet_index_by_subtopic[current_subtopic] = bullet_index_by_subtopic.get(current_subtopic, 0) + 1
+                    bullet_code = f'{current_subtopic}_b{bullet_index_by_subtopic[current_subtopic]}'
                     topics.append({
                         'code': bullet_code,
                         'title': f'• {title}',
