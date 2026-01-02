@@ -116,6 +116,15 @@ def fetch_single(
 
 
 def main() -> None:
+    # Force UTF-8 output (Windows consoles may default to cp1252; avoid crashes on unicode like ✓)
+    try:
+        if (getattr(sys.stdout, "encoding", "") or "").lower() != "utf-8":
+            import io
+
+            sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+            sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
+    except Exception:
+        pass
     ap = argparse.ArgumentParser()
     ap.add_argument("--exam-board", required=True, help="e.g. Edexcel, AQA, OCR")
     ap.add_argument("--qualification", required=True, help="e.g. A_LEVEL, GCSE, INTERNATIONAL_GCSE")
@@ -545,7 +554,7 @@ def main() -> None:
         print(f"  - upserted embeddings: {created}/{total}")
         time.sleep(0.2)
 
-    print("Done ✅")
+    print("Done")
 
 
 if __name__ == "__main__":
