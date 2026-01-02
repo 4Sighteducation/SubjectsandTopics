@@ -129,7 +129,10 @@ def main() -> None:
         die("Provide --subject-code or --subject-name")
 
     supabase_url = getenv_required("SUPABASE_URL")
-    service_key = getenv_required("SUPABASE_SERVICE_ROLE_KEY")
+    # Backward compatible: older scripts/use-cases store the service role key as SUPABASE_SERVICE_KEY.
+    service_key = (os.getenv("SUPABASE_SERVICE_ROLE_KEY") or os.getenv("SUPABASE_SERVICE_KEY") or "").strip()
+    if not service_key:
+        die("Missing env var SUPABASE_SERVICE_ROLE_KEY (or legacy SUPABASE_SERVICE_KEY)")
     sb = create_client(supabase_url, service_key)
 
     exam_board = args.exam_board.strip()
@@ -306,6 +309,35 @@ def main() -> None:
         parent_updates += 1
 
     print(f"  - parent links updated: {parent_updates}")
+
+    # OPTIONAL SAFE CLEANUP:
+    # Remove production topics that are no longer present in staging ONLY if they are not referenced by any flashcards.
+    # This avoids leaving stale "old bullet code" nodes visible in the app, while preventing user data breakage.
+    stg_codes = {t.get("topic_code") for t in stg_topics if t.get("topic_code")}
+    prod_codes = {r.get("topic_code") for r in prod_rows2 if r.get("topic_code")}
+    removed_codes = sorted([c for c in prod_codes if c not in stg_codes])
+    if removed_codes:
+        deleted = 0
+        kept = 0
+        for code in removed_codes:
+            tid = prod_id_by_code2.get(code)
+            if not tid:
+                continue
+            try:
+                # If any flashcards reference this topic_id, keep it.
+                # NOTE: production schema uses `flashcards.topic_id` (UUID FK) in FLASH.
+                fc = sb.table("flashcards").select("id", count="exact").eq("topic_id", tid).execute()
+                if int(fc.count or 0) > 0:
+                    kept += 1
+                    continue
+            except Exception:
+                # If we cannot verify, be conservative and keep.
+                kept += 1
+                continue
+            sb.table("curriculum_topics").delete().eq("id", tid).execute()
+            deleted += 1
+        if deleted or kept:
+            print(f"  - removed stale prod topics (unreferenced): deleted={deleted} kept(referenced/unknown)={kept}")
 
     # 5) Generate topic_ai_metadata embeddings for this subject (optional)
     if not args.generate_embeddings:
