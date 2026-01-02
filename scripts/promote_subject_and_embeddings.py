@@ -141,7 +141,10 @@ def main() -> None:
     # 1) Ensure exam board exists (upsert)
     print(f"[1/5] Ensuring exam board exists: {exam_board}")
     sb.table("exam_boards").upsert(
-        {"code": exam_board, "full_name": exam_board, "active": True}, on_conflict="code"
+        # NOTE: exam_boards.country is NOT NULL in production; default to UK for now.
+        # If/when we add non-UK boards, extend this mapping.
+        {"code": exam_board, "full_name": exam_board, "active": True, "country": "UK"},
+        on_conflict="code",
     ).execute()
 
     eb = fetch_single(sb, "exam_boards", [("code", "eq", exam_board)], "id,code")
