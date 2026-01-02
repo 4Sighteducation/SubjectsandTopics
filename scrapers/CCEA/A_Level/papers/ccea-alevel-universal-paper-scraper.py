@@ -233,12 +233,17 @@ def init_driver() -> webdriver.Chrome:
         else:
             print(f"[WARN] Chrome WebDriver failed to start ({e}). Trying Edge WebDriver instead...")
         from selenium.webdriver.edge.options import Options as EdgeOptions
+        from selenium.webdriver.edge.service import Service as EdgeService
 
         edge_options = EdgeOptions()
         edge_options.add_argument("--window-size=1400,900")
         edge_options.add_argument("--disable-blink-features=AutomationControlled")
         edge_options.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
         edge_options.add_experimental_option("useAutomationExtension", False)
+        # Extra stability flags (often help on managed Windows machines)
+        edge_options.add_argument("--disable-extensions")
+        edge_options.add_argument("--disable-popup-blocking")
+        edge_options.add_argument("--no-first-run")
         try:
             base_dir = Path(os.environ.get("LOCALAPPDATA", str((ROOT / "scrapers" / "output").resolve())))
             root = (base_dir / "FLASH" / "ccea-scraper" / "tmp-profiles").resolve()
@@ -247,7 +252,16 @@ def init_driver() -> webdriver.Chrome:
             edge_options.add_argument(f"--user-data-dir={tmp_profile}")
         except Exception:
             pass
-        driver = webdriver.Edge(options=edge_options)
+        # Persist driver logs for debugging flaky startup/crashes.
+        try:
+            log_dir = (ROOT / "scrapers" / "output" / "driver-logs").resolve()
+            log_dir.mkdir(parents=True, exist_ok=True)
+            log_path = log_dir / f"msedgedriver-{int(time.time())}.log"
+            service = EdgeService(log_output=str(log_path))
+            print(f"[INFO] EdgeDriver log: {log_path}")
+            driver = webdriver.Edge(service=service, options=edge_options)
+        except Exception:
+            driver = webdriver.Edge(options=edge_options)
         driver.implicitly_wait(10)
         return driver
 
