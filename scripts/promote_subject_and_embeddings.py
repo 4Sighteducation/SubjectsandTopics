@@ -317,6 +317,18 @@ def main() -> None:
         }
         upserts.append(row)
 
+    # Final safety: if production enforces uniqueness on (exam_board_subject_id, topic_name, topic_level),
+    # ensure we don't attempt to insert duplicates when topic_code has changed.
+    # Convert insert candidates into updates if a matching prod row exists.
+    for row in upserts:
+        if row.get("id"):
+            continue
+        lvl = int(row.get("topic_level") or 0)
+        nm = _norm_name(row.get("topic_name"))
+        existing_id = prod_id_by_level_name.get((lvl, nm)) if nm else None
+        if existing_id:
+            row["id"] = existing_id
+
     # Upsert strategy:
     # - Some production schemas do NOT have a unique constraint on (exam_board_subject_id, topic_code),
     #   so PostgREST cannot do ON CONFLICT on that pair.
