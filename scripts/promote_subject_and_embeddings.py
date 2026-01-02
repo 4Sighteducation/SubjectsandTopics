@@ -284,9 +284,20 @@ def main() -> None:
         }
         upserts.append(row)
 
-    for i in range(0, len(upserts), 1000):
-        # Use natural uniqueness for topics: (exam_board_subject_id, topic_code)
-        sb.table("curriculum_topics").upsert(upserts[i : i + 1000], on_conflict="exam_board_subject_id,topic_code").execute()
+    # Upsert strategy:
+    # - Some production schemas do NOT have a unique constraint on (exam_board_subject_id, topic_code),
+    #   so PostgREST cannot do ON CONFLICT on that pair.
+    # - We therefore:
+    #   1) Upsert existing rows by primary key (id)
+    #   2) Insert new rows (no id specified)
+    existing_rows = [r for r in upserts if r.get("id")]
+    new_rows = [r for r in upserts if not r.get("id")]
+
+    for i in range(0, len(existing_rows), 1000):
+        sb.table("curriculum_topics").upsert(existing_rows[i : i + 1000], on_conflict="id").execute()
+
+    for i in range(0, len(new_rows), 1000):
+        sb.table("curriculum_topics").insert(new_rows[i : i + 1000]).execute()
 
     # Refresh production lookup (need IDs for newly-inserted codes)
     prod_rows2 = (
