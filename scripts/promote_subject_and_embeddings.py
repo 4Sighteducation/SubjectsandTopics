@@ -246,15 +246,26 @@ def main() -> None:
     # Fetch existing production topics for this subject (id + topic_code)
     prod_rows = (
         sb.table("curriculum_topics")
-        .select("id,topic_code")
+        .select("id,topic_code,topic_name,topic_level")
         .eq("exam_board_subject_id", prod_subject_id)
         .execute()
         .data
         or []
     )
     prod_id_by_code = {r.get("topic_code"): r.get("id") for r in prod_rows if r.get("topic_code") and r.get("id")}
+    # Production may have older/unstable topic_code values (especially bullets).
+    # Since there is a unique constraint on (exam_board_subject_id, topic_name, topic_level) in production,
+    # we can safely match-and-reuse IDs by (topic_level, normalized topic_name) too.
+    def _norm_name(x: Any) -> str:
+        return " ".join(str(x or "").split()).strip()
 
-    # Build a staging id -> production id mapping based on topic_code
+    prod_id_by_level_name = {
+        (int(r.get("topic_level") or 0), _norm_name(r.get("topic_name"))): r.get("id")
+        for r in prod_rows
+        if r.get("id") and r.get("topic_name") is not None
+    }
+
+    # Build a staging id -> production id mapping based on topic_code, with fallback to (level, name).
     stg_id_to_prod_id: Dict[str, str] = {}
     for t in stg_topics:
         code = t.get("topic_code")
@@ -264,6 +275,14 @@ def main() -> None:
         existing_id = prod_id_by_code.get(code)
         if existing_id:
             stg_id_to_prod_id[stg_id] = existing_id
+            continue
+        # Fallback match by (topic_level, topic_name) so we can update older topic_code values in place.
+        lvl = int(t.get("topic_level") or 0)
+        nm = _norm_name(t.get("topic_name"))
+        if nm:
+            by_name_id = prod_id_by_level_name.get((lvl, nm))
+            if by_name_id:
+                stg_id_to_prod_id[stg_id] = by_name_id
 
     # Upsert topics (pass 1): set parent_topic_id NULL until we patch relations
     upserts: List[Dict[str, Any]] = []
