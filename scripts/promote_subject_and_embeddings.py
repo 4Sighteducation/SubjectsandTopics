@@ -208,18 +208,33 @@ def main() -> None:
 
     # 4) Replace curriculum_topics for this subject
     print("[4/5] Updating curriculum_topics for this subject (preserve IDs where possible)...")
+    # NOTE: staging_aqa_topics does NOT always include sort_order. We compute a deterministic order client-side.
     topics_res = (
         sb.table("staging_aqa_topics")
-        .select("id,topic_code,topic_name,topic_level,parent_topic_id,sort_order,subject_id")
+        .select("id,topic_code,topic_name,topic_level,parent_topic_id,subject_id")
         .eq("subject_id", stg["id"])
         .order("topic_level")
-        .order("sort_order")
+        .order("topic_code")
         .execute()
     )
     stg_topics = topics_res.data or []
     if not stg_topics:
         die("No staging topics found for that staging subject id.")
     print(f"  - staging topics: {len(stg_topics)}")
+
+    # Compute deterministic sort_order for production inserts/updates.
+    # This avoids relying on a staging sort_order column and keeps ordering stable across runs.
+    stg_topics_sorted = sorted(
+        stg_topics,
+        key=lambda t: (
+            int(t.get("topic_level") or 0),
+            str(t.get("topic_code") or ""),
+            str(t.get("id") or ""),
+        ),
+    )
+    stg_sort_order_by_id: Dict[str, int] = {
+        str(t.get("id")): i for i, t in enumerate(stg_topics_sorted) if t.get("id")
+    }
 
     # SAFETY:
     # Do NOT delete all production topics for a subject once users can have flashcards referencing topic_id.
@@ -265,7 +280,7 @@ def main() -> None:
             "topic_name": t.get("topic_name"),
             "topic_level": t.get("topic_level"),
             "parent_topic_id": None,
-            "sort_order": t.get("sort_order") or 0,
+            "sort_order": stg_sort_order_by_id.get(str(t.get("id")), 0),
         }
         upserts.append(row)
 
