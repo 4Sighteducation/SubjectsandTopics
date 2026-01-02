@@ -257,7 +257,20 @@ def main() -> None:
     # Since there is a unique constraint on (exam_board_subject_id, topic_name, topic_level) in production,
     # we can safely match-and-reuse IDs by (topic_level, normalized topic_name) too.
     def _norm_name(x: Any) -> str:
-        return " ".join(str(x or "").split()).strip()
+        """
+        Normalize topic names for matching purposes.
+        - Collapses whitespace
+        - Normalizes common bullet prefixes and replacement chars so staging/prod can match
+        """
+        s = str(x or "")
+        # Normalize the Unicode replacement character (often shows up when a bullet '•' is mis-decoded)
+        s = s.replace("\ufffd", "•")
+        # Normalize bullet variants
+        s = s.replace("●", "•")
+        s = " ".join(s.split()).strip()
+        # Strip leading bullet/marker tokens
+        s = re.sub(r"^(?:•|o|-)\s+", "", s, flags=re.IGNORECASE)
+        return s.strip()
 
     prod_id_by_level_name = {
         (int(r.get("topic_level") or 0), _norm_name(r.get("topic_name"))): r.get("id")
