@@ -348,14 +348,40 @@ def main() -> None:
     # an update to avoid unique constraint violations.
     truly_new: List[Dict[str, Any]] = []
     converted_updates: List[Dict[str, Any]] = []
+    def _candidate_names(name: Any) -> List[str]:
+        raw = str(name or "")
+        cands = {raw}
+        # Swap common bullet/replacement variants
+        cands.add(raw.replace("•", "\ufffd"))
+        cands.add(raw.replace("\ufffd", "•"))
+        cands.add(raw.replace("●", "•"))
+        cands.add(raw.replace("●", "\ufffd"))
+        # Also try without a leading bullet marker (some legacy rows may have been stored without it)
+        cands.add(re.sub(r"^(?:•|\ufffd|●|o|-)\s+", "", raw, flags=re.IGNORECASE))
+        # Normalize whitespace versions (defensive)
+        cands = {" ".join(s.split()).strip() for s in cands if s is not None}
+        return [s for s in cands if s]
+
+    # Avoid inserting duplicates within this batch as well (by the production unique key)
+    seen_new_keys = set()
+    filtered_new_rows: List[Dict[str, Any]] = []
     for r in new_rows:
+        k = (int(r.get("topic_level") or 0), " ".join(str(r.get("topic_name") or "").split()).strip())
+        if k in seen_new_keys:
+            continue
+        seen_new_keys.add(k)
+        filtered_new_rows.append(r)
+
+    for r in filtered_new_rows:
         try:
+            lvl = int(r.get("topic_level") or 0)
+            name_cands = _candidate_names(r.get("topic_name"))
             maybe = (
                 sb.table("curriculum_topics")
                 .select("id")
                 .eq("exam_board_subject_id", prod_subject_id)
-                .eq("topic_level", r.get("topic_level"))
-                .eq("topic_name", r.get("topic_name"))
+                .eq("topic_level", lvl)
+                .in_("topic_name", name_cands)
                 .maybe_single()
                 .execute()
                 .data
