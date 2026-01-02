@@ -341,8 +341,41 @@ def main() -> None:
     for i in range(0, len(existing_rows), 1000):
         sb.table("curriculum_topics").upsert(existing_rows[i : i + 1000], on_conflict="id").execute()
 
-    for i in range(0, len(new_rows), 1000):
-        sb.table("curriculum_topics").insert(new_rows[i : i + 1000]).execute()
+    # Insert new rows carefully:
+    # Production enforces uniqueness on (exam_board_subject_id, topic_name, topic_level).
+    # Even after normalization-based matching, there can be encoding differences (e.g., bullet chars) that
+    # prevent ID reuse. Before inserting, try an exact match on (topic_level, topic_name) and convert into
+    # an update to avoid unique constraint violations.
+    truly_new: List[Dict[str, Any]] = []
+    converted_updates: List[Dict[str, Any]] = []
+    for r in new_rows:
+        try:
+            maybe = (
+                sb.table("curriculum_topics")
+                .select("id")
+                .eq("exam_board_subject_id", prod_subject_id)
+                .eq("topic_level", r.get("topic_level"))
+                .eq("topic_name", r.get("topic_name"))
+                .maybe_single()
+                .execute()
+                .data
+            )
+            if maybe and maybe.get("id"):
+                r2 = dict(r)
+                r2["id"] = maybe["id"]
+                converted_updates.append(r2)
+            else:
+                truly_new.append(r)
+        except Exception:
+            # If we can't verify, be conservative and queue as new (may still fail; we'll surface error).
+            truly_new.append(r)
+
+    if converted_updates:
+        for i in range(0, len(converted_updates), 1000):
+            sb.table("curriculum_topics").upsert(converted_updates[i : i + 1000], on_conflict="id").execute()
+
+    for i in range(0, len(truly_new), 1000):
+        sb.table("curriculum_topics").insert(truly_new[i : i + 1000]).execute()
 
     # Refresh production lookup (need IDs for newly-inserted codes)
     prod_rows2 = (
