@@ -110,6 +110,35 @@ class GeographyScraper:
         self.debug_dir = Path(__file__).parent.parent / "debug-output"
         self.debug_dir.mkdir(exist_ok=True)
         self.pdf_text = None
+
+    def _clear_old_topics_batched(self, subject_id: str, batch_size: int = 1000) -> int:
+        """
+        Clear old topics for a subject in small batches to avoid statement timeouts
+        on large deletes.
+        """
+        total_deleted = 0
+        while True:
+            res = (
+                supabase.table('staging_aqa_topics')
+                .select('id')
+                .eq('subject_id', subject_id)
+                .limit(batch_size)
+                .execute()
+            )
+            ids = [row['id'] for row in (res.data or []) if 'id' in row]
+            if not ids:
+                break
+
+            supabase.table('staging_aqa_topics').delete().in_('id', ids).execute()
+            total_deleted += len(ids)
+            print(f"[INFO] Deleted {total_deleted} old topics so far...")
+            time.sleep(0.2)
+
+            # If we got fewer than the batch size, we likely cleared everything.
+            if len(ids) < batch_size:
+                break
+
+        return total_deleted
     
     def scrape_all(self):
         """Scrape all 3 components."""
@@ -139,8 +168,8 @@ class GeographyScraper:
             subject_result = supabase.table('staging_aqa_subjects').select('id').eq('subject_code', 'H481').eq('qualification_type', 'A-Level').eq('exam_board', 'OCR').execute()
             if subject_result.data:
                 subject_id = subject_result.data[0]['id']
-                supabase.table('staging_aqa_topics').delete().eq('subject_id', subject_id).execute()
-                print(f"[OK] Cleared old topics for H481")
+                deleted = self._clear_old_topics_batched(subject_id)
+                print(f"[OK] Cleared {deleted} old topics for H481")
         except Exception as e:
             print(f"[WARN] Could not clear old topics: {e}")
         
