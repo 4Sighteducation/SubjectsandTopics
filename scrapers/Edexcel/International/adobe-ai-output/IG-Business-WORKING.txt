@@ -1,0 +1,93 @@
+1. Business content
+   1.1 Business activity and influences on business
+       1.1.1 Business objectives
+           1.1.1.1 Financial aims and objectives: survival, profit, sales, market share, financial security
+           1.1.1.2 Non-financial aims and objectives: social objectives, personal satisfaction, challenge, independence, control
+           1.1.1.3 Reasons for changing business aims and objectives: market conditions, technology, performance, legislation, internal reasons
+       1.1.2 Types of organisations
+           1.1.2.1 Main types of business ownership: sole trader, partnerships, limited companies (private and public), public corporations
+           1.1.2.2 Characteristics relating to size: risk, ownership, limited liability, public corporations
+           1.1.2.3 Different forms of business organisation: franchises, social enterprises, multinationals
+       1.1.3 Classification of businesses
+           1.1.3.1 Primary, secondary, and tertiary activities
+       1.1.4 Decisions on location
+           1.1.4.1 Factors influencing location decisions: proximity to market, labour, materials, competitors, nature of business activity, internet impact, legal controls, trade blocs
+       1.1.5 Business and the international economy
+           1.1.5.1 Globalisation: concept, opportunities, threats
+           1.1.5.2 Importance and growth of multinationals: benefits, drawbacks
+           1.1.5.3 Exchange rate calculation and impact
+       1.1.6 Government objectives and policies
+           1.1.6.1 Government spending: public service, taxation, constraints
+           1.1.6.2 Government impact on business: infrastructure, legislation, trade policy
+           1.1.6.3 Effect of interest rates on businesses and consumer spending
+       1.1.7 External factors
+           1.1.7.1 Social, technological, environmental, political factors
+       1.1.8 What makes a business successful?
+           1.1.8.1 Measuring success: revenue, market share, customer satisfaction, profit, growth, owner/shareholder satisfaction, employee satisfaction
+           1.1.8.2 Reasons for business failure: cash flow problems, lack of finance, competitiveness, market adaptation
+
+   1.2 People in business
+       1.2.1 Internal and external communication
+           1.2.1.1 Importance and problems of communication: methods, barriers
+       1.2.2 Recruitment and selection process
+           1.2.2.1 Types of employment: full-time, part-time, job share, casual/seasonal/temporary
+           1.2.2.2 Recruitment documents: job description, person specification, application form, CV/résumé
+           1.2.2.3 Recruitment methods: internal, external, advertisement, shortlisting, interviewing
+           1.2.2.4 Legal controls: equal opportunities, minimum wage laws
+       1.2.3 Training
+           1.2.3.1 Importance and types of training: induction, on-the-job, off-the-job, health and safety compliance
+       1.2.4 Motivation and rewards
+           1.2.4.1 Importance of motivation: employee attraction, retention, productivity
+           1.2.4.2 Motivational theories: Herzberg, Maslow, Taylor
+           1.2.4.3 Methods of motivation: financial (remuneration, bonus, commission, promotion, fringe benefits), non-financial (job rotation, job enrichment, autonomy)
+       1.2.5 Organisation structure and employees
+           1.2.5.1 Organisational charts: hierarchical, flat, centralised, decentralised
+           1.2.5.2 Roles and responsibilities: span of control, chain of command, delegation
+           1.2.5.3 Functional areas: human resources, finance, marketing, production
+
+   1.3 Business finance
+       1.3.1 Business finance – sources
+           1.3.1.1 Need for finance: short-term, long-term, start-up, expansion
+           1.3.1.2 Internal sources: personal savings, retained profit, selling assets
+           1.3.1.3 External sources: overdraft, trade payables, loan capital, share capital, venture capital, crowdfunding
+       1.3.2 Cash flow forecasting
+           1.3.2.1 Importance of cash: paying suppliers, overheads, employees, preventing insolvency
+           1.3.2.2 Cash-flow forecasts: inflows, outflows, net cash flow, opening and closing balances
+       1.3.3 Costs and break-even analysis
+           1.3.3.1 Concepts and calculations: revenue, fixed and variable costs, total costs, profit and loss
+           1.3.3.2 Break-even: concept, calculation, interpretation, limitations
+       1.3.4 Financial documents
+           1.3.4.1 Statements of comprehensive income: features, decision making, profit nature
+           1.3.4.2 Statements of financial position: features, interpretation
+       1.3.5 Accounts analysis
+           1.3.5.1 Accounting ratios: gross profit margin, operating profit margin, markup, ROCE, current ratio, acid test ratio
+           1.3.5.2 Liquidity: concept, importance, comparisons
+           1.3.5.3 Use of financial documents: performance assessment, decision making
+
+   1.4 Marketing
+       1.4.1 Market research
+           1.4.1.1 Purpose: customer needs, market gaps, risk reduction, business decisions
+           1.4.1.2 Methods: primary (survey, questionnaire, focus group, observation, test marketing), secondary (internet, market reports, government reports)
+           1.4.1.3 Data use: qualitative, quantitative, social media, reliability
+       1.4.2 The market
+           1.4.2.1 Importance: customer needs, relationships, loyalty, orientation, share, analysis, niche, mass marketing
+           1.4.2.2 Market changes: customer needs, spending patterns, competition
+           1.4.2.3 Market segmentation: location, demographics, lifestyle, income, age
+       1.4.3 The marketing mix
+           1.4.3.1 Product: development, goods vs services, packaging, life cycle, portfolio management
+           1.4.3.2 Price: strategies (cost plus, penetration, competition, skimming, promotional)
+           1.4.3.3 Place: distribution channels (retailers, e-tailers)
+           1.4.3.4 Promotion: strategies, techniques, technology use, brand importance
+
+   1.5 Business operations
+       1.5.1 Economies and diseconomies of scale
+           1.5.1.1 Economies of scale: internal, external
+           1.5.1.2 Diseconomies of scale: growth limits
+       1.5.2 Production
+           1.5.2.1 Processes: types (job, batch, flow), labour vs capital intensive, productivity calculation
+           1.5.2.2 Lean production: JIT, Kaizen, resource use
+           1.5.2.3 Technology impact: robotics, cost, productivity, quality, flexibility
+       1.5.3 Factors of production
+           1.5.3.1 Relationships: enterprise, capital, land, labour
+       1.5.4 Quality
+           1.5.4.1 Concept and importance: production, services, quality control, TQM, competitive advantage

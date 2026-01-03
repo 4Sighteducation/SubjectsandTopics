@@ -1,0 +1,1290 @@
+GCSE (9-1)
+English Literature
+Specification
+Pearson Edexcel Level 1/Level 2 GCSE (9 - 1) in English Literature (1ET0)
+First teaching from September 2015
+First certification from June 2017 Issue 2
+Edexcel, BTEC and LCCI qualifications 
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK’s largest awarding 
+body offering academic and vocational qualifications that are globally recognised and 
+benchmarked. For further information, please visit our qualifications website at 
+qualifications.pearson.com. Alternatively, you can get in touch with us using the details 
+on our contact us page at qualifications.pearson.com/contactus 
+About Pearson 
+Pearson is the world's leading learning company, with 35,000 employees in more than  
+70 countries working to help people of all ages to make measurable progress in their 
+lives through learning. We put the learner at the centre of everything we do, because 
+wherever learning flourishes, so do people. Find out more about how we can help you 
+and your learners at qualifications.pearson.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party material made in this specification are made in good faith. 
+Pearson does not endorse, approve or accept responsibility for the content of materials, 
+which may be subject to change, or any opinions expressed therein. (Material may 
+include textbooks, journals, magazines and other publications and websites.) 
+ 
+All information in this specification is correct at time of publication. 
+ 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 91435 9 
+All the material in this publication is copyright 
+© Pearson Education Limited 2019 
+ 
+ 
+ 
+ 
+ 
+Summary of Pearson Edexcel Level 1/Level 2 GCSE 
+(9-1) in English Literature specification  
+Issue 2 changes 
+ 
+Summary of changes made between previous issue and this current 
+issue 
+Page 
+number 
+Component 1 
+We have added four new diverse texts to the prescribed texts list for post-
+1914 Literature: two British plays and two British novels. These are: 
+● play: The Empress, Tanika Gupta 
+● play: Refugee Boy, Benjamin Zephaniah (adapted for the stage by Lemn 
+Sissay) 
+● novel: Coram Boy, Jamila Gavin 
+● novel: Boys Don’t Cry, Malorie Blackman. 
+These texts are for first teaching from September 2019 and first assessment 
+is May 2021. 
+3, 8 
+Component 2 
+We have added a new poetry collection on ‘Belonging’ into the Poetry 
+Anthology. 
+This new collection is for first teaching from September 2019 and first 
+assessment is May 2021. 
+5, 10, 
+31 
+Breakdown of Assessment Objectives table 
+In line with the addition of new texts – this table has been updated to include 
+the new question numbers. 
+16 
+ 
+If you need further information on these changes or what they mean, contact us via 
+our website at: qualifications.pearson.com/en/support/contact-us.html. 
+ 
+ 
+ 
+ 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+ 
+“The reform of the qualifications system in England is a profoundly important 
+change to the education system. Teachers need to know that the new qualifications 
+will assist them in helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an 
+‘Expert Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or 
+because of our experience in reforming qualifications in other systems around the 
+world as diverse as Singapore, Hong Kong, Australia and a number of countries 
+across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification 
+development process that has included: 
+• Extensive international comparability of subject content against the highest-
+performing jurisdictions in the world 
+• Benchmarking assessments against UK and overseas providers to ensure that 
+they are at the right level of demand 
+• Establishing External Subject Advisory Groups, drawing on independent subject-
+specific expertise to challenge and validate our qualifications 
+• Subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future 
+oriented. The design has been guided by what is called an ‘Efficacy Framework’, 
+meaning learner outcomes have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a 
+learner’s success in education. As a result of our work as a panel we are confident 
+that we have supported the development of qualifications that are outstanding for 
+their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.
+” 
+  
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong 
+Director, National Institute of 
+Education, Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+All titles are correct as of May 2014. 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+Introduction 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature is designed 
+for use in schools and colleges. It is part of a suite of GCSE qualifications offered by 
+Pearson. 
+Purpose of the specification 
+This specification sets out: 
+● the objectives of the qualification 
+● any other qualification(s) that students must have completed before taking the 
+qualification 
+● any prior knowledge and skills that students are required to have before taking 
+the qualification 
+● any other requirements that students must have satisfied before they will be 
+assessed or before the qualification will be awarded 
+● the knowledge and understanding that will be assessed as part of the 
+qualification 
+● the method of assessment and any associated requirements relating to it 
+● the criteria against which students’ level of attainment will be measured (such 
+as assessment criteria). 
+ 
+ 
+Rationale 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature meets the 
+following purposes, which fulfil those defined by the Office of Qualifications and 
+Examinations Regulation (Ofqual) for GCSE qualifications in their GCSE (9–1) 
+Qualification Level Conditions and Requirements document, published in April 2014. 
+The purposes of this qualification are to: 
+● provide evidence of students’ achievements against demanding and fulfilling 
+content, giving students the confidence that the literacy skills, knowledge and 
+understanding that they will have acquired during the course of their study are 
+comparable to those of the highest performing jurisdictions in the world, 
+enriching their cultural awareness through the study of literary heritage texts  
+● provide a strong foundation for further academic and vocational study and for 
+employment, to help students progress to a full range of courses in further and 
+higher education. This includes Level 3 English courses, as well as Level 3 
+courses in other disciplines such as Drama and Theatre Studies 
+● provide (if required) a basis for schools and colleges to be held accountable for 
+the performance of all of their students. 
+Qualification aims and objectives 
+The aims and objectives of the Pearson Edexcel Level 1/Level 2 GCSE (9–1) in 
+English Literature are to enable students to: 
+● read a wide range of classic literature fluently and with good understanding, and 
+make connections across their reading 
+● read in depth, critically and evaluatively, so that they are able to discuss and 
+explain their understanding and ideas 
+● develop the habit of reading widely and often 
+● appreciate the depth and power of the English literary heritage 
+● write accurately, effectively and analytically about their reading, using Standard 
+English 
+● acquire and use a wide vocabulary, including grammatical terminology, and 
+other literary and linguistic terms they need to criticise and analyse what they 
+read. 
+ 
+ 
+ 
+ 
+The context for the development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+● reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+● consulting with key stakeholders on content and assessment, including learned 
+bodies, subject associations, higher-education academics, teachers and 
+employers to ensure this qualification is suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their documents GCSE (9–1) Qualification Level Conditions and Requirements and 
+GCSE Subject Level Conditions and Requirements for GCSE in English Literature, 
+published in April 2014. 
+ 
+[1] Pearson’s World Class Qualification principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep 
+learning and measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing 
+reliable and valid assessment tasks and processes, and generating confidence in 
+end users of the knowledge, skills and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that 
+students develop at different rates and have different learning needs, and 
+focusing on progression 
+● empowering, through promoting the development of transferable skills, see 
+Appendix 1. 
+
+ 
+ 
+ 
+Contents 
+Qualification at a glance 1 
+Set texts at a glance 3 
+Assessment Objectives and weightings 5 
+Knowledge, skills and understanding 7 
+Component 1: Shakespeare and Post-1914 Literature 7 
+Component 2: 19th-century Novel and Poetry since 1789 9 
+Assessment 13 
+Assessment summary tables 13 
+Assessment Objectives and weightings 15 
+Breakdown of Assessment Objectives by component 16 
+Entry and assessment information 17 
+Student entry 17 
+Forbidden combinations and discount code 17 
+Access arrangements, reasonable adjustments, special consideration 
+and malpractice 18 
+Equality Act 2010 and Pearson equality policy 20 
+Awarding and reporting 21 
+Language of assessment 21 
+Grade descriptions 21 
+Other information 22 
+Student recruitment 22 
+Prior learning and other requirements 22 
+Progression from GCSE 22 
+Appendix 1: Transferable skills 25 
+Appendix 2: Codes 27 
+Appendix 3: Poetry Anthology lists 29 
+ 
+ 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+1 
+Qualification at a glance 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature is a linear 
+course. It consists of two externally examined components. 
+Students must complete all assessment in May/June in any single year. 
+ 
+Component 1: Shakespeare and Post-1914 Literature  
+*Paper code: 1ET0/01 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+50% of the 
+total GCSE 
+Overview of content 
+● Study a Shakespeare play and a post-1914 British play or novel. 
+● Develop skills to analyse how the language, form, structure and context of 
+texts can create meanings and effects. 
+● Develop skills to maintain a critical style and informed personal response. 
+Overview of assessment 
+● Section A – Shakespeare: a two-part question, with the first task focused on 
+an extract of approximately 30 lines. The second task is focused on how a 
+theme reflected in the extract is explored elsewhere in the play. 
+● Section B – Post-1914 British play or novel: ONE essay question. 
+● The total number of marks available is 80. 
+● Assessment duration: 1 hour and 45 minutes. 
+● Closed book (texts are not allowed in the examination). 
+ 
+The sample assessment materials can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in English Literature Sample Assessment Materials 
+document. 
+*See Appendix 2: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+2 
+ 
+ 
+The sample assessment materials can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in English Literature Sample Assessment Materials 
+document. 
+*See Appendix 2: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+Component 2: 19th-century Novel and Poetry since 1789 * 
+Paper code: 1ET0/02 
+● Externally assessed 
+● Availability: May/June 
+● First assessment: 2017 
+50% of the 
+total GCSE 
+Overview of content 
+● Study a 19th-century novel and a poetry collection from the Pearson 
+Poetry Anthology. 
+● Develop skills to analyse how the language, form, structure and context of 
+texts can create meanings and effects. 
+● Develop skills to maintain a critical style and informed personal response. 
+● Develop comparison skills. 
+Overview of assessment 
+● Section A – 19th-century novel: a two part question, with the first part 
+focussed on an extract of approximately 400 words. The second part is an 
+essay question exploring the whole text.  
+● Section B – Part 1: ONE question comparing a named poem from the Pearson 
+Poetry Anthology collection to another poem from that collection. The named 
+poem will be shown in the question paper. Part 2: ONE question comparing two 
+unseen contemporary poems. 
+● The total number of marks available is 80. 
+● Assessment duration: 2 hours and 15 minutes. 
+● Closed book (texts are not allowed in the examination). 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+3 
+Set texts at a glance 
+Component 1 
+One text from: Shakespeare 
+Macbeth 
+The Tempest 
+Romeo and Juliet 
+Much Ado About Nothing 
+Twelfth Night 
+The Merchant of Venice 
+One text from: Post-1914 British play or novel 
+An Inspector Calls – J B Priestley 
+Hobson’s Choice – Harold Brighouse 
+Blood Brothers – Willy Russell 
+Journey’s End – R C Sherriff 
+Animal Farm – George Orwell 
+Lord of the Flies – William Golding 
+Anita and Me – Meera Syal 
+The Woman in Black – Susan Hill 
+The Empress - Tanika Gupta* 
+Refugee Boy - Benjamin Zephaniah (adapted for stage by Lemm Sissay)* 
+Coram Boy - Jamila Gavin* 
+Boys Don't Cry - Malorie Blackman* 
+ 
+Component 2 
+One text from: 19th-century novel 
+Jane Eyre – Charlotte Brontë 
+Great Expectations – Charles Dickens 
+Dr Jekyll and Mr Hyde – R L Stevenson 
+A Christmas Carol – Charles Dickens 
+Pride and Prejudice – Jane Austen 
+Silas Marner – George Eliot 
+Frankenstein – Mary Shelley 
+One collection from: Pearson Poetry Anthology Collections 
+Relationships 
+Conflict 
+Time and Place 
+Belonging* 
+ 
+ 
+*NB: these texts are for first teaching from September 2019 and first assessment is 
+May 2021. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+4 
+Please refer to our website for editions of texts used for extracts in the 
+examinations. 
+These texts will be set for the lifetime of the qualification. Examinations are closed 
+book, therefore there are no prescribed editions of the set texts. 
+The lists of poems in each collection are given in Appendix 3: Poetry Anthology 
+lists. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+5 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCSE 
+AO1 Read, understand and respond to texts 
+Students should be able to: 
+● maintain a critical style and develop an informed 
+personal response 
+● use textual references, including quotations, to 
+support and illustrate interpretations 
+37 
+AO2 Analyse the language, form and structure used by a 
+writer to create meanings and effects, using relevant 
+subject terminology where appropriate 
+42 
+AO3 Show understanding of the relationships between texts 
+and the contexts in which they were written 16 
+AO4 Use a range of vocabulary and sentence structures for 
+clarity, purpose and effect, with accurate spelling and 
+punctuation 
+5 
+Total 100% 
+ 
+Comparison requirement – there is a requirement that 20-25% of the marks for 
+this qualification are achieved through comparison questions across AO1, AO2 and 
+AO3. The table below illustrates how these marks have been allocated. 
+ 
+Allocation of marks for comparison 
+Raw 
+marks 
+% in 
+GCSE 
+AO2 Anthology poetry (Component 2, Section B, 
+Part 1) 
+15 9.5 
+AO3 Anthology poetry (Component 2, Section B, 
+Part 1) 
+5 3 
+AO1 Unseen poetry (Component 2, Section B,  
+Part 2) 
+8 5 
+AO2 Unseen poetry (Component 2, Section B,  
+Part 2) 
+12 7.5 
+Total 40 25% 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+6 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+7 
+Knowledge, skills and understanding 
+Component 1: Shakespeare and Post-1914 
+Literature 
+Overview 
+Students will study the following texts: 
+● Section A – a Shakespeare play 
+● Section B – a post-1914 British play or novel. 
+ 
+The learning outcomes below are drawn from the GCSE Subject Level Conditions 
+and Requirements for English Literature, published April 2014. 
+ 
+Learning outcomes Students will: 
+Literal and inferential 
+comprehension 
+1.1 understand a word, phrase, sentence or whole text in 
+context; explore aspects of plot, characterisation, 
+events and settings; distinguish between what is 
+stated explicitly and what is implied; explain 
+motivation, sequence of events, and the relationship 
+between actions or events 
+Critical reading 1.2 identify the theme and distinguish between themes; 
+support a point of view by referring to evidence in 
+the text; recognise the possibility of and evaluate 
+different responses to a text, use understanding of 
+writer’s social, historical and cultural contexts to 
+inform evaluation; make an informed personal 
+response that derives from analysis and evaluation of 
+the text 
+Evaluation of a 
+writer’s choice of 
+vocabulary, 
+grammatical and 
+structural features 
+1.3 analyse and evaluate how language (including 
+figurative language), structure, form and 
+presentation contribute to quality and impact; use 
+linguistic and literary terminology for such evaluation 
+(such as, but not restricted to, phrase, metaphor, 
+meter, irony and persona, synecdoche, pathetic 
+fallacy) 
+Writing – producing 
+clear and coherent 
+text 
+1.4 write effectively about literature for a range of 
+purposes such as: to describe, explain, summarise, 
+argue, analyse and evaluate; discuss and maintain a 
+point of view; select and emphasise key points; use 
+relevant quotation and detailed textual references 
+Writing – accurate 
+Standard English 
+1.5 use accurate spelling, punctuation and grammar. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+8 
+Content 
+Students will study two set texts for this component: one Shakespeare play and 
+EITHER one British play OR novel from the following lists. 
+Shakespeare 
+A choice of one text from the following: 
+Macbeth 
+The Tempest 
+Romeo and Juliet 
+Much Ado About Nothing 
+Twelfth Night 
+The Merchant of Venice 
+ 
+Post-1914 British play or novel 
+A choice of one text from the following: 
+An Inspector Calls – J B Priestley 
+Hobson’s Choice – Harold Brighouse 
+Blood Brothers – Willy Russell 
+Journey’s End – R C Sherriff 
+Animal Farm – George Orwell 
+Lord of the Flies – William Golding 
+Anita and Me – Meera Syal 
+The Woman in Black – Susan Hill 
+The Empress - Tanika Gupta 
+Refugee Boy - Benjamin Zephaniah  (adapted for stage by Lemm Sissay) 
+Coram Boy - Jamila Gavin 
+Boys Don't Cry - Malorie Blackman 
+ 
+Teaching should focus on the study of whole texts, developing students’ 
+comprehension, critical reading and analytical skills, and their ability to write with 
+clarity and coherence using accurate Standard English. Wider reading of literary 
+texts is also encouraged to help students develop their skills. 
+Understanding the relationship between a text and its context (AO3) 
+There are different kinds, or categories, of context which affect authors’ work and 
+the reader’s response to it. Teaching should include: 
+● the author's own life and individual situation, including the place and time of 
+writing, only where these relate to the text 
+● the historical setting, time and location of the text 
+● social and cultural contexts (e.g., attitudes in society; expectations of different 
+cultural groups) 
+● the literary context of the text, for example, literary movements or genres 
+● the way in which texts are received and engaged with by different audiences, at 
+different times (for example, how a text may be read differently in the twenty-
+first century from when it was written). 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+9 
+Component 2: 19th-century Novel and Poetry 
+since 1789 
+Overview 
+Students will study the following texts: 
+● Section A – a 19th-century novel 
+● Section B – one collection of 15 poems from the Pearson Poetry Anthology. 
+The learning outcomes below are drawn from the GCSE Subject Level Conditions 
+and Requirements for English Literature, published April 2014. 
+Learning outcomes Students will: 
+Literal and inferential 
+comprehension 
+2.1 understand a word, phrase, sentence or whole text 
+in context; explore aspects of plot, characterisation, 
+events and settings; distinguish between what is 
+stated explicitly and what is implied; explain 
+motivation, sequence of events, and the 
+relationship between actions or events 
+Critical reading 2.2 identify the theme and distinguish between themes; 
+support a point of view by referring to evidence in 
+the text; recognise the possibility of and evaluate 
+different responses to a text, use understanding of 
+writer’s social, historical and cultural contexts to 
+inform evaluation; make an informed personal 
+response that derives from analysis and evaluation 
+of the text 
+Evaluation of a writer’s 
+choice of vocabulary, 
+grammatical and 
+structural features 
+2.3 analyse and evaluate how language (including 
+figurative language), structure, form and 
+presentation contribute to quality and impact; use 
+linguistic and literary terminology for such 
+evaluation (such as, but not restricted to, phrase, 
+metaphor, meter, irony and persona, synecdoche, 
+pathetic fallacy) 
+Comparing texts 2.4 compare and contrast texts studied, refer where 
+relevant to theme, characterisation, context (where 
+known), style and literary quality; compare two 
+texts critically with respect to the above 
+Writing – producing 
+clear and coherent text 
+2.5 write effectively about literature for a range of 
+purposes such as: to describe, explain, summarise, 
+argue, analyse and evaluate; discuss and maintain 
+a point of view; select and emphasise key points; 
+use relevant quotation and detailed textual 
+references. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+10 
+Content 
+Teaching will cover two set texts: one 19th-century novel and one collection of 
+poems from the Pearson Poetry Anthology. The full list of set texts for this 
+component is as follows. 
+19th-century novel 
+A choice of one text from the following: 
+Jane Eyre – Charlotte Brontë 
+Great Expectations – Charles Dickens 
+Dr Jekyll and Mr Hyde – R L Stevenson 
+A Christmas Carol – Charles Dickens 
+Pride and Prejudice – Jane Austen 
+Silas Marner – George Eliot 
+Frankenstein – Mary Shelley 
+ 
+Pearson Poetry Anthology* 
+A choice of one collection from the following: 
+Relationships 
+Conflict 
+Time and Place 
+Belonging 
+ 
+Each collection contains 15 poems and includes Romantic, Literary Heritage and 
+Contemporary poetry. All 15 poems must be studied. 
+Using the Pearson Edexcel Level 1/Level 2 GCSE (9–1) Poetry Anthology, students 
+should be prepared to compare language, structure, form and contextual features 
+of two poems from the anthology. Teachers should ensure that students are aware 
+of the context in which the poems were written and the influence this context may 
+have had on the poems. Teachers are welcome to use the examples of 
+contemporary poetry from any collection to help prepare their students for the 
+unseen poetry task in Section B, Part 2. Students should also read poems beyond 
+the anthology. Students will need to be able to analyse the ideas, language, form 
+and structure of two unseen poems and compare them. It is possible that works 
+from anthology poets could be used as unseen poems, however these works will be 
+selected from outside of the anthology. Works by authors who are not in the 
+anthology could also be used as unseen poems. 
+Teaching should focus on the study of whole texts, developing students’ 
+comprehension, critical reading and comparison skills, as well as their ability to 
+produce clear and coherent writing using accurate Standard English. Wider reading 
+of literary texts is also encouraged to help students develop their skills. 
+ 
+ 
+*See Appendix 3: Poetry Anthology lists for the lists of poems in each collection. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+11 
+Understanding the relationship between a text and its context (AO3) 
+There are different kinds, or categories, of context which affect authors’ work and 
+the reader’s response to it. Teaching should include: 
+● the author's own life and individual situation, including the place and time of 
+writing, only where these relate to the text 
+● the historical setting, time and location of the text 
+● social and cultural contexts (e.g., attitudes in society; expectations of different 
+cultural groups) 
+● the literary context of the text, for example, literary movements or genres 
+● the way in which texts are received and engaged with by different audiences, at 
+different times (for example, how a text may be read differently in the twenty-
+first century from when it was written). 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+12 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+13 
+Assessment 
+Assessment summary tables 
+ 
+Students must complete all assessment in May/June in any single year. 
+ 
+Component 1: Shakespeare and Post-1914 Literature  
+*Paper code: 1ET0/01 
+● Availability: May/June 
+● First assessment: 2017 
+● Assessed through a 1 hour and 45 minute examination. 
+● Closed book (texts are not allowed in the examination). 
+● The total number of marks available is 80. 
+50% of the 
+total GCSE 
+ 
+● Section A – Shakespeare: students complete a two-part question. 
+● Part a) is focused on the close language analysis of an extract (AO2). The 
+extract will be approximately 30 lines in length.  
+● Part b) is focused on how a theme from the extract is explored elsewhere in 
+the play (AO1 and AO3). The focus will be on maintaining a critical style and 
+demonstrating an understanding of the relationship between the text and the 
+context in which it was written. 
+● Assessment Objectives covered are AO1, AO2 and AO3. 
+● Section B – Post-1914 British play or novel: students answer ONE essay 
+question from a choice of two on their studied text. 
+● Each question will be preceded by a short quotation from the text, to provide a 
+stimulus for the response. 
+● Questions will focus on one of more of the following areas: plot, setting(s), 
+character(s) and theme(s) and will require students to explore the question in 
+relation to the context. 
+● Marks will also be given for accurate use of spelling, punctuation and grammar. 
+● Assessment Objectives covered are AO1, AO3 and AO4. 
+ 
+The sample assessment materials can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in English Literature Sample Assessment Materials 
+document. 
+*See Appendix 2: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+14 
+ 
+Component 2: 19th-century Novel and Poetry since 1789  
+*Paper code: 1ET0/02 
+● Availability: May/June 
+● First assessment: 2017 
+● Assessed through a 2 hour and 15 minute examination. 
+● Closed book (texts are not allowed in the examination). 
+● The total number of marks available is 80. 
+50% of the 
+total GCSE 
+ 
+● Section A – 19th-century novel: students complete a two part question. 
+● Part 1 is focussed on a close language analysis of an extract of approximately 
+400 words. 
+● Part 2 questions may focus on different aspects of the text, requiring 
+exploration of one of more of the following areas: plot, setting(s), character(s), 
+theme(s). 
+● Assessment Objectives covered are AO1 and AO2. 
+● Section B – Poetry since 1789 
+● Part 1: students answer ONE question on one named poem from the poetry 
+anthology collection, reproduced in the question paper, and one poem of choice. 
+Students will compare the poems. Questions will focus on the language, form, 
+structure of the poem (AO2) and the contexts in which the poems were written 
+(AO3). 
+● Part 2: students answer ONE question comparing two unseen contemporary 
+poems that are linked by a theme. Students are required to compare the poets’ 
+portrayals of the theme through their use of language, form and structure (AO1 
+and AO2). 
+ 
+The sample assessment materials can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in English Literature Sample Assessment Materials 
+document. 
+*See Appendix 2: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+15 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCSE 
+AO1 Read, understand and respond to texts 
+Students should be able to: 
+● maintain a critical style and develop an informed 
+personal response 
+● use textual references, including quotations, to 
+support and illustrate interpretations 
+37 
+AO2 Analyse the language, form and structure used by a 
+writer to create meanings and effects, using relevant 
+subject terminology where appropriate 
+42 
+AO3 Show understanding of the relationships between texts 
+and the contexts in which they were written 16 
+AO4 Use a range of vocabulary and sentence structures for 
+clarity, purpose and effect, with accurate spelling and 
+punctuation 
+5 
+Total 100% 
+ 
+Comparison requirement – there is a requirement that 20-25% of the marks for 
+this qualification are achieved through comparison questions across AO1, AO2 and 
+AO3. The table below illustrates how these marks have been allocated. 
+ 
+Allocation of marks for comparison 
+Raw 
+marks 
+% in 
+GCSE 
+AO2 Anthology poetry (Component 2, Section B, 
+Part 1) 
+15 9.5 
+AO3 Anthology poetry (Component 2, Section B, 
+Part 1) 
+5 3 
+AO1 Unseen poetry (Component 2, Section B,  
+Part 2) 
+8 5 
+AO2 Unseen poetry (Component 2, Section B,  
+Part 2) 
+12 7.5 
+Total 40 25% 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+16 
+Breakdown of Assessment Objectives by component 
+Raw mark distribution 
+ Assessment Objectives Total  
+Component AO1 AO2 AO3 AO4 
+Component 1: Shakespeare and Post-1914 
+Literature      
+Questions 1a to 6a  20   20 
+Questions 1b to 6b 15  5  20 
+Questions 7 to 30 16  16 8 40 
+Component 2: 19th-century Novel and Poetry since 
+1789      
+Questions 1a to 7a  20   20 
+Questions 1b to 7b 20    20 
+Questions 8 to 11  15 5  20 
+Question 12 8 12   20 
+      
+Total for this qualification 59 67 26 8 160 marks 
+Total % Assessment Objectives for this 
+qualification 37 42 16 5 100 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+17 
+Entry and assessment information 
+Student entry 
+Details of how to enter students for the examinations for 
+this qualification can be found in our UK Information 
+Manual. A copy is made available to all examinations 
+officers and is available on our website at: 
+www.edexcel.com/iwantto/Pages/uk-information-
+manual.aspx 
+Forbidden combinations and discount code 
+Centres should be aware that students who enter for more 
+than one GCSE, or other Level 2 qualifications with the 
+same discount code, will have only the grade for their 'first 
+entry' counted for the purpose of the school and college 
+performance tables (please see Appendix 2: Codes).  
+For further information about what constitutes 'first entry' 
+and full details of how this policy is applied, please refer  
+to the DfE website: 
+www.gov.uk/government/organisations/department-for-
+education 
+ 
+Students should be advised that if they take two GCSEs 
+with the same discount code, schools and colleges they 
+wish to progress to are likely to take the view that this 
+achievement is equivalent to only one GCSE. The same 
+view may be taken if students take two GCSEs or other 
+Level 2 qualifications that have different discount codes but 
+have significant overlap of content. Students or their 
+advisers who have any doubts about their subject 
+combinations should check with the institution they wish to 
+progress to before embarking on their programmes. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+18 
+Access arrangements, reasonable adjustments, 
+special consideration and malpractice 
+Access arrangements 
+Access arrangements are agreed before an assessment. 
+They allow students with special educational needs, 
+disabilities or temporary injuries to: 
+● access the assessment 
+● show what they know and can do without changing the 
+demands of the assessment. 
+The intention behind an access arrangement is to meet the 
+particular needs of an individual student with a disability 
+without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding 
+bodies comply with the duty under the Equality Act 2010 to 
+make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the 
+start of the course. Students will then know what is 
+available and have the access arrangement(s) in place for 
+assessment. 
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to 
+make reasonable adjustments where a person with a 
+disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is 
+required to take reasonable steps to overcome that 
+disadvantage. 
+A reasonable adjustment for a particular person may be 
+unique to that individual and therefore might not be in the 
+list of available access arrangements. 
+Whether an adjustment will be considered reasonable will 
+depend on a number of factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with 
+the disability and other students. 
+An adjustment will not be approved if it involves 
+unreasonable costs to the awarding organisation, 
+timeframes or affects the security or integrity of the 
+assessment. This is because the adjustment is not 
+‘reasonable’. 
+In most cases it will not be reasonable for adjustments to 
+be made to assessment objectives within a qualification. To 
+do so would be likely to undermine the effectiveness of the 
+qualification in providing a reliable indication of the 
+knowledge, skills and understanding of the student. There is 
+no duty to make adjustments which the qualifications 
+regulators have specified should not be made. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+19 
+Special consideration 
+Special consideration is a post-examination adjustment to a 
+student's mark or grade to reflect temporary injury, illness 
+or other indisposition at the time of the examination/ 
+assessment, which has had, or is reasonably likely to have 
+had, a material effect on a candidate’s ability to take an 
+assessment or demonstrate his or her level of attainment in 
+an assessment. 
+Further information 
+Please see our website for further information about how to 
+apply for access arrangements and special consideration. 
+For further information about access arrangements, 
+reasonable adjustments and special consideration, please 
+refer to the JCQ website: www.jcq.org.uk. 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that 
+compromises or seeks to compromise the process of 
+assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in examinations must be reported to 
+Pearson using a JCQ Form M1 (available at 
+www.jcq.org.uk/exams-office/malpractice). The form should 
+be emailed to candidatemalpractice@pearson.com. Please 
+provide as much information and supporting documentation 
+as possible. Note that the final decision regarding 
+appropriate sanctions lies with Pearson. 
+Failure to report malpractice constitutes staff or centre 
+malpractice. 
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate 
+malpractice and maladministration of our qualifications. As 
+with candidate malpractice, staff and centre malpractice is 
+any act that compromises or seeks to compromise the 
+process of assessment or which undermines the integrity of 
+the qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and 
+maladministration must be reported immediately, before 
+any investigation is undertaken by the centre, to Pearson 
+on a JCQ Form M2(a) (available at www.jcq.org.uk/exams-
+office/malpractice).  
+The form, supporting documentation and as much 
+information as possible should be emailed to 
+pqsmalpractice@pearson.com. or posted to Investigations 
+Team, Pearson,  
+190 High Holborn, London, WC1V 7BH. Note that the final 
+decision regarding appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+20 
+More detailed guidance on malpractice can be found in the 
+latest version of the document General and Vocational 
+Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at 
+www.jcq.org.uk/exams-office/malpractice. 
+Equality Act 2010 and Pearson equality policy 
+Equality and fairness are central to our work. Our equality 
+policy requires all students to have equal opportunity to 
+access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every 
+student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by 
+the Equality Act 2010) are not, when they are 
+undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that 
+characteristic 
+● all students achieve the recognition they deserve for 
+undertaking a qualification and that this achievement 
+can be compared fairly to the achievement of their 
+peers. 
+You can find details on how to make adjustments for 
+students with protected characteristics in the policy 
+document Access Arrangements, Reasonable Adjustments 
+and Special Considerations, which is on our website, 
+www.edexcel.com/Policies. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+21 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to 
+comply with the requirements of the current Code of 
+Practice, published by the Office of Qualifications and 
+Examinations Regulation (Ofqual). 
+The GCSE (9–1) qualification will be graded and certificated 
+on a nine-grade scale from 9 to 1 using the total subject 
+mark where 9 is the highest grade. Individual components 
+are not graded. 
+The first certification opportunity for the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in English Literature will be 
+2017. 
+Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be 
+recorded on a certificate will receive an unclassified U 
+result. 
+Language of assessment 
+Assessment of this qualification will be available in English. 
+All student work must be in English. 
+Grade descriptions 
+The grade descriptions for this qualification are published by 
+Ofqual and will be available on its website. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+22 
+Other information 
+Student recruitment 
+Pearson follows the JCQ policy concerning recruitment to 
+our qualifications in that: 
+● they must be available to anyone who is capable of 
+reaching the required standard 
+● they must be free from barriers that restrict access and 
+progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this 
+qualification. 
+Progression from GCSE 
+This qualification prepares students for progression to 
+further study of English Literature at AS and A level and to 
+the study of AS and A level English Language and 
+Literature. These Level 3 qualifications will prepare students 
+for a variety of further progression routes. Students should 
+seek advice about which of these qualifications best 
+prepares them for their intended progression routes. 
+Students can progress from this qualification to Level 3 
+qualifications in similar disciplines, such as drama, theatre 
+studies, media studies and film studies, and to other 
+qualifications that require literacy skills, knowledge and 
+understanding. 
+This qualification also supports further training, and 
+employment where literacy skills are required. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+23 
+ 
+Appendices 
+Appendix 1: Transferable skills 25 
+Appendix 2: Codes 27 
+Appendix 3: Poetry Anthology lists 29 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+24 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+25 
+Appendix 1: Transferable skills 
+ 
+The need for transferable skills  
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines 
+skills, or competencies, as ‘the bundle of knowledge, attributes and capacities that 
+can be learned and that enable individuals to successfully and consistently perform 
+an activity or task and can be built upon and extended through learning.’ 1 
+To support the design of our qualifications, the Pearson Research Team selected 
+and evaluated seven global 21st-century skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the 
+most evidence-based and robust skills framework. We adapted the framework 
+slightly to include the Program for International Student Assessment (PISA) ICT 
+Literacy and Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: 2 
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy - access, manage, integrate, evaluate, construct and 
+communicate3. 
+Interpersonal skills 
+● Communication – active listening, oral communication, written 
+communication, assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, 
+service orientation, self-presentation, social influence, conflict resolution and 
+negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+                                           
+ 
+1 OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+2 Koenig J A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop 
+(National Academies Press, 2011) 
+ 
+3 PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+26 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher 
+education, as well as the demands of the workplace, and are important in the 
+teaching and learning of this qualification. We will provide teaching and learning 
+materials, developed with stakeholders, to support our qualifications. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+27 
+Appendix 2: Codes 
+ 
+Type of code Use of code Code number 
+ Every qualification is assigned to a 
+discount code indicating the subject 
+area to which it belongs. Discount 
+codes are published by DfE. 
+Please see the 
+GOV.UK website* 
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes 
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a 
+Qualification Number (QN). This is the 
+code that features in the DfE Section 
+96 and on the LARA as being eligible 
+for 16–18 and 19+ funding, and is to 
+be used for all qualification funding 
+purposes. The QN is the number that 
+will appear on the student’s final 
+certification documentation. 
+The QN for this 
+qualification is: 
+601/4789/1 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. 
+Centres will need to use the entry 
+codes only when claiming students’ 
+qualifications. 
+GCSE (9–1) – 1ET0 
+ 
+Paper/component 
+code 
+These codes are provided for 
+reference purposes. Students do not 
+need to be entered for individual 
+papers/components. 
+Paper 1: 1ET0/01 
+Paper 2: 1ET0/02 
+ 
+*www.gov.uk/government/publications/2018-performance-tables-discount-codes 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+28 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+29 
+ 
+Appendix 3: Poetry Anthology lists 
+ 
+Relationships Poet Poem 
+Romantic John Keats La Belle Dame Sans Merci:  
+A Ballad 
+Romantic Joanna Baillie A Child to his Sick Grandfather 
+Romantic Lord Byron She Walks in Beauty 
+Romantic William Wordsworth A Complaint 
+Lit Heritage Thomas Hardy Neutral Tones 
+Lit Heritage Robert Browning My Last Duchess 
+Lit Heritage Elizabeth Barrett 
+Browning 
+How do I love thee? (Sonnet 43) 
+Contemporary Wendy Cope 1st Date – She & 1st Date – He 
+Contemporary Carol Ann Duffy Valentine 
+Contemporary Elizabeth Jennings One Flesh 
+Contemporary John Cooper Clarke i wanna be yours 
+Contemporary Jen Hatfield Love’s Dog 
+Contemporary Vernon Scannell Nettles 
+Contemporary Simon Armitage The Manhunt (Laura’s Poem) 
+Contemporary Ingrid de Kok My Father Would Not Show Us 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+30 
+ 
+Conflict Poet Poem 
+Romantic William Blake A Poison Tree 
+Romantic Lord Byron The Destruction of Sennacherib 
+Romantic William Wordsworth Extract from The Prelude ‘Boating’ 
+Lit Heritage Thomas Hardy The Man He Killed 
+Lit Heritage Christina Rossetti Cousin Kate 
+Lit Heritage Wilfred Owen Exposure 
+Lit Heritage Alfred, Lord Tennyson The Charge of the Light Brigade 
+Contemporary John Agard Half-caste 
+Contemporary Gillian Clarke Catrin 
+Contemporary Carole Satyamurti War Photographer 
+Contemporary Ciaran Carson Belfast Confetti 
+Contemporary Mary Casey The Class Game 
+Contemporary Jane Weir Poppies 
+Contemporary Benjamin Zephaniah No Problem 
+Contemporary Denise Levertov What Were They Like? 
+ 
+Time and Place Poet Poem 
+Romantic John Keats To Autumn 
+Romantic William Wordsworth Composed upon Westminster 
+Bridge, September 3, 1802 
+Romantic William Blake London 
+Lit Heritage Emily Dickinson I started Early – Took my Dog 
+Lit Heritage Thomas Hardy Where the Picnic was 
+Lit Heritage Edward Thomas Adlestrop 
+Lit Heritage Robert Browning Home Thoughts from Abroad 
+Contemporary U A Fanthorpe First Flight 
+Contemporary Fleur Adcock Stewart Island 
+Contemporary Moniza Alvi Presents from my Aunts in Pakistan 
+Contemporary Grace Nichols Hurricane Hits England 
+Contemporary Tatamkhulu Afrika Nothing’s Changed 
+Contemporary Sophie Hannah Postcard from a Travel Snob 
+Contemporary John Davidson In Romney Marsh 
+Contemporary Elizabeth Jennings Absence 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Literature 
+Specification – Issue 2 – June 2019  © Pearson Education Limited 2019 
+31 
+ 
+Belonging Poet Poem 
+Romantic William Wordsworth To My Sister   
+Romantic John Clare The Sunday Dip 
+Romantic Emily Brontë Mild the Mist Upon the Hill  
+Romantic Letitia Elizabeth Landon Captain Cook (To My Brother)  
+Lit Heritage Robert Bridges Clear and Gentle Stream  
+Lit Heritage Thomas Hood I Remember, I Remember  
+Contemporary Grace Nicholls  Island Man 
+Contemporary Amy Blakemore  Peckham Rye Lane 
+Contemporary Benjamin Zephaniah We Refugees 
+Contemporary Zaffar Kunial  Us 
+Contemporary Imtiaz Dharker  In Wales, Wanting to be Italian 
+Contemporary Kayo Chingonyi  Kumukanda 
+Contemporary Raymond Antrobus Jamaican British  
+Contemporary Choman Hardi My Mother’s Kitchen 
+Contemporary Carol Rumens The Émigrée 
+ 
+Db240519 9781446914359_GCSE_2015_L12_ENGLIT_ISS2.DOC.1–42/0 
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office:  80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121

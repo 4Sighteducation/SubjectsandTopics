@@ -1,0 +1,43 @@
+1.1 B5.1 Inheritance
+1.1.1 B5.1a explain the following terms: gamete, chromosome, gene, allele/variant, dominant, recessive, homozygous, heterozygous, genotype and phenotype
+1.1.1.1 Use of alleles to work out the phenotype of progeny
+1.1.2 B5.1b describe the genome as the entire genetic material of an organism
+1.1.3 B5.1c describe that the genome, and its interaction with the environment, influence the development of the phenotype of an organism
+1.1.3.1 use of examples of discontinuous (e.g. eye colour) and continuous variation (e.g. weight and height)
+1.1.4 B5.1d Recall that all variants arise from mutations, and that most have no effect on the phenotype, some influence phenotype and a very few determine phenotype
+1.1.5 B5.1e describe how genetic variants may influence phenotype
+1.1.5.1 in coding DNA by altering the activity of a protein
+1.1.5.2 in non-coding DNA by altering how genes are expressed
+1.1.5.3 affecting protein structure, including active sites of enzymes
+1.1.5.4 stopping transcription of mRNA
+1.1.6 B5.1f explain some of the advantages and disadvantages of asexual and sexual reproduction in a range of organisms
+1.1.6.1 the number of live offspring per birth
+1.1.6.2 how quickly the organisms can reproduce
+1.1.6.3 the need for the introduction of variation in a population caused by environmental pressures
+1.1.7 B5.1g explain the terms haploid and diploid
+1.1.8 B5.1h explain the role of meiotic cell division in halving the chromosome number to form gametes
+1.1.8.1 that this maintains diploid cells when gametes combine
+1.1.8.2 is a source of genetic variation
+1.1.9 B5.1i explain single gene inheritance
+1.1.9.1 the context of homozygous and heterozygous crosses involving dominant and recessive genes
+1.1.10 B5.1j predict the results of single gene crosses
+1.1.10.1 the use of Punnett squares
+1.1.11 B5.1k describe sex determination in humans using a genetic cross
+1.1.11.1 the use of Punnett squares
+1.1.12 B5.1l recall that most phenotypic features are the result of multiple genes rather than single gene inheritance
+1.1.13 B5.1m describe the development of our understanding of genetics
+1.1.13.1 the work of Mendel
+
+2.1 B5.2 Natural selection and evolution
+2.1.1 B5.2a state that there is usually extensive genetic variation within a population of a species
+2.1.2 B5.2b describe the impact of developments in biology on classification systems
+2.1.2.1 natural and artificial classification systems
+2.1.2.2 use of molecular phylogenetics based on DNA sequencing
+2.1.3 B5.2c explain how evolution occurs through the natural selection of variants that have given rise to phenotypes best suited to their environment
+2.1.3.1 the concept of mutation
+2.1.4 B5.2d describe evolution as a change in the inherited characteristics of a population over time, through a process of natural selection, which may result in the formation of new species
+2.1.5 B5.2e describe the evidence for evolution
+2.1.5.1 fossils
+2.1.5.2 antibiotic resistance in bacteria
+2.1.6 B5.2f describe the work of Darwin and Wallace in the development of the theory of evolution by natural selection and explain the impact of these ideas on modern biology
+2.1.6.1 seedbanks being used as a store of biodiversity

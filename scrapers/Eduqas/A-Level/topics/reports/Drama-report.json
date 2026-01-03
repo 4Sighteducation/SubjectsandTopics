@@ -1,0 +1,245 @@
+{
+  "subject_name": "Drama",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/4fyb0ikx/eduqas-as-drama-spec-from-2016-e-270824.pdf",
+  "start_time": "2025-11-23T23:31:01.031912",
+  "success": true,
+  "topics_extracted": 118,
+  "levels": {
+    "0": 3,
+    "1": 2,
+    "2": 4,
+    "3": 10,
+    "4": 99
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "22-24"
+      },
+      {
+        "number": "2",
+        "name": "Text in"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop 8"
+      },
+      {
+        "number": "2",
+        "name": "Text in Context 14"
+      },
+      {
+        "number": "1",
+        "name": "23"
+      },
+      {
+        "number": "1",
+        "name": "performing assessment grids 28"
+      },
+      {
+        "number": "1",
+        "name": "38"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop"
+      },
+      {
+        "number": "2",
+        "name": "Text in Context"
+      },
+      {
+        "number": "1",
+        "name": "learners"
+      },
+      {
+        "number": "1",
+        "name": "is designed to encourage learners to make connections between"
+      },
+      {
+        "number": "1",
+        "name": "in the AS specification can be studied alongside Component 1 in the A"
+      },
+      {
+        "number": "2",
+        "name": "in the AS"
+      },
+      {
+        "number": "3",
+        "name": "in the A level"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop"
+      },
+      {
+        "number": "2",
+        "name": "Text in Context"
+      },
+      {
+        "number": "1",
+        "name": "• performing"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop"
+      },
+      {
+        "number": "1",
+        "name": "is internally assessed and externally moderated. It assesses:"
+      },
+      {
+        "number": "1",
+        "name": "(Appendix A)"
+      },
+      {
+        "number": "1",
+        "name": "(Appendix C)"
+      },
+      {
+        "number": "1",
+        "name": "(Appendix D)."
+      },
+      {
+        "number": "2",
+        "name": "Text in Context"
+      },
+      {
+        "number": "2",
+        "name": "assesses:"
+      },
+      {
+        "number": "1",
+        "name": "20% 30% - 10% 60%"
+      },
+      {
+        "number": "2",
+        "name": "- - 30% 10% 40%"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop"
+      },
+      {
+        "number": "1",
+        "name": "is internally assessed and externally moderated by WJEC."
+      },
+      {
+        "number": "1",
+        "name": "to the moderator with the lines taken from their selected extract"
+      },
+      {
+        "number": "1",
+        "name": "assesses AO1 and AO2 in their entirety and AO4 in relation to analysis"
+      },
+      {
+        "number": "1",
+        "name": "is 120."
+      },
+      {
+        "number": "1",
+        "name": "Learners must choose one text from the list for their reinterpreted performance. They may, if"
+      },
+      {
+        "number": "1",
+        "name": "Performing Assessment Grid"
+      },
+      {
+        "number": "1",
+        "name": "Design Assessment Grid"
+      },
+      {
+        "number": "1",
+        "name": "Assessment grid: AO4"
+      },
+      {
+        "number": "1",
+        "name": "AO1 is assessed by considering both the performances or designs and the creative logs"
+      },
+      {
+        "number": "1",
+        "name": "22-24"
+      },
+      {
+        "number": "2",
+        "name": "Text in"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop 8"
+      },
+      {
+        "number": "2",
+        "name": "Text in Context 14"
+      },
+      {
+        "number": "1",
+        "name": "performing assessment grids 28"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop"
+      },
+      {
+        "number": "2",
+        "name": "Text in Context"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop"
+      },
+      {
+        "number": "2",
+        "name": "Text in Context"
+      },
+      {
+        "number": "1",
+        "name": "• performing"
+      },
+      {
+        "number": "2",
+        "name": "- 30% 10% 40%"
+      },
+      {
+        "number": "1",
+        "name": "Performance Workshop"
+      },
+      {
+        "number": "1",
+        "name": "Performing Assessment Grid"
+      },
+      {
+        "number": "1",
+        "name": "Design Assessment Grid"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 24.9935941696167,
+  "end_time": "2025-11-23T23:31:26.025509"
+}

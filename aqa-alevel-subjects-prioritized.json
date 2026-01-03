@@ -1,0 +1,74 @@
+{
+  "tier1_simple_subjects": [
+    { "name": "Biology", "code": "7402", "slug": "biology", "status": "✅ DONE", "priority": "HIGH" },
+    { "name": "Chemistry", "code": "7405", "slug": "chemistry", "priority": "HIGH" },
+    { "name": "Physics", "code": "7408", "slug": "physics", "priority": "HIGH" },
+    { "name": "Mathematics", "code": "7357", "slug": "mathematics", "priority": "HIGH" },
+    { "name": "Further Mathematics", "code": "7367", "slug": "mathematics", "priority": "MEDIUM" },
+    { "name": "English Literature A", "code": "7711", "slug": "english", "priority": "HIGH" },
+    { "name": "English Literature B", "code": "7712", "slug": "english", "priority": "HIGH" },
+    { "name": "English Language", "code": "7701", "slug": "english", "priority": "MEDIUM" },
+    { "name": "Psychology", "code": "7182", "slug": "psychology", "priority": "HIGH" },
+    { "name": "Business", "code": "7132", "slug": "business", "priority": "HIGH" },
+    { "name": "Economics", "code": "7136", "slug": "economics", "priority": "HIGH" },
+    { "name": "Geography", "code": "7037", "slug": "geography", "priority": "HIGH" },
+    { "name": "Computer Science", "code": "7517", "slug": "computer-science", "priority": "HIGH" },
+    { "name": "Sociology", "code": "7192", "slug": "sociology", "priority": "MEDIUM" }
+  ],
+  
+  "tier2_pathway_subjects": [
+    { 
+      "name": "History", 
+      "code": "7042", 
+      "slug": "history", 
+      "priority": "HIGH",
+      "complexity": "COMPLEX - Has pathway options (1A-1W), era requirements, geographic constraints",
+      "note": "Needs components + constraints tables"
+    },
+    { 
+      "name": "Art and Design", 
+      "code": "7201-7207", 
+      "slug": "art-and-design", 
+      "priority": "LOW",
+      "complexity": "COMPLEX - 7 pathways (codes 7201-7207), shared content",
+      "note": "Treat as ONE subject with pathway metadata"
+    }
+  ],
+  
+  "tier3_standard_subjects": [
+    { "name": "Law", "code": "7162", "slug": "law", "priority": "MEDIUM" },
+    { "name": "Politics", "code": "7152", "slug": "politics", "priority": "MEDIUM" },
+    { "name": "Religious Studies", "code": "7062", "slug": "religious-studies", "priority": "MEDIUM" },
+    { "name": "French", "code": "7652", "slug": "french", "priority": "MEDIUM" },
+    { "name": "German", "code": "7662", "slug": "german", "priority": "MEDIUM" },
+    { "name": "Spanish", "code": "7692", "slug": "spanish", "priority": "MEDIUM" },
+    { "name": "Media Studies", "code": "7572", "slug": "media-studies", "priority": "MEDIUM" },
+    { "name": "Drama", "code": "7262", "slug": "drama", "priority": "LOW" },
+    { "name": "Physical Education", "code": "7582", "slug": "physical-education", "priority": "MEDIUM" },
+    { "name": "Dance", "code": "7237", "slug": "dance", "priority": "LOW" },
+    { "name": "Design and Technology", "code": "7552", "slug": "design-and-technology", "priority": "LOW" },
+    { "name": "Accounting", "code": "7127", "slug": "accounting", "priority": "LOW" },
+    { "name": "Environmental Science", "code": "7447", "slug": "environmental-science", "priority": "LOW" },
+    { "name": "Music", "code": "7272", "slug": "music", "priority": "LOW" },
+    { "name": "Philosophy", "code": "7172", "slug": "philosophy", "priority": "LOW" }
+  ],
+  
+  "tier4_languages_low_usage": [
+    { "name": "Bengali", "code": "7632", "slug": "bengali", "priority": "LOW" },
+    { "name": "Hebrew (Biblical)", "code": "7677", "slug": "hebrew", "priority": "LOW" },
+    { "name": "Hebrew (Modern)", "code": "7678", "slug": "hebrew", "priority": "LOW" },
+    { "name": "Panjabi", "code": "7688", "slug": "panjabi", "priority": "LOW" },
+    { "name": "Polish", "code": "7692", "slug": "polish", "priority": "LOW" },
+    { "name": "English Language and Literature", "code": "7707", "slug": "english", "priority": "LOW" }
+  ],
+  
+  "summary": {
+    "total_subjects": 42,
+    "tier1_simple": 14,
+    "tier2_complex": 2,
+    "tier3_standard": 15,
+    "tier4_low_usage": 11,
+    "recommended_launch_minimum": "Tier 1 (14 subjects = 90% of students)"
+  }
+}
+

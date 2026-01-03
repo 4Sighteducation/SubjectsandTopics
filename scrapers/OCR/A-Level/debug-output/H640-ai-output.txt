@@ -1,0 +1,422 @@
+1 Area 1: Pure mathematics
+1.1 Proof
+1.1.1 PROOF (1)
+1.1.1.1 Proof
+1.1.1.1.1 Mp1 Understand and be able to use the structure of mathematical proof. Use methods of proof, including proof by deduction and proof by exhaustion.
+1.1.1.1.2 p2 Be able to disprove a conjecture by the use of a counter example.
+1.1.2 PROOF (2)
+1.1.2.1 Proof
+1.1.2.1.1 p3 Understand and be able to use proof by contradiction. Including proof of the irrationality of √2 and the infinity of primes, and application to unfamiliar proofs.
+1.2 Algebra
+1.2.1 ALGEBRA (1)
+1.2.1.1 Algebraic language
+1.2.1.1.1 Ma1 Know and be able to use vocabulary and notation appropriate to the subject at this level.
+1.2.1.2 Solution of equations
+1.2.1.2.1 * Be able to solve linear equations in one unknown.
+1.2.1.2.2 * Be able to change the subject of a formula.
+1.2.1.2.3 Ma2 Be able to solve quadratic equations.
+1.2.1.2.4 a3 Be able to find the discriminant of a quadratic function and understand its significance.
+1.2.1.2.5 a4 Be able to solve linear simultaneous equations in two unknowns.
+1.2.1.2.6 a5 Be able to solve simultaneous equations in two unknowns with one equation linear and one quadratic.
+1.2.1.2.7 a6 Know the significance of points of intersection of two graphs with relation to the solution of equations.
+1.2.1.3 Inequalities
+1.2.1.3.1 Ma7 Be able to solve linear inequalities in one variable.
+1.2.1.3.2 a8 Be able to solve quadratic inequalities in one variable. Be able to represent and interpret quadratic inequalities graphically.
+1.2.1.3.3 a9 Be able to express solutions of inequalities through correct use of ‘and’ and ‘or’, or by using set notation.
+1.2.1.4 Surds
+1.2.1.4.1 a10 Be able to use and manipulate surds.
+1.2.1.5 Indices
+1.2.1.5.1 a11 Be able to rationalise the denominator of a surd.
+1.2.1.5.2 a12 Understand and be able to use the laws of indices for all rational exponents.
+1.2.1.5.3 a13 Understand and be able to use negative, fractional and zero indices.
+1.2.1.6 Proportion
+1.2.1.6.1 a14 Understand and use proportional relationships and their graphs.
+1.2.2 ALGEBRA (2)
+1.2.2.1 Partial fractions
+1.2.2.1.1 a15 Be able to express algebraic fractions as partial fractions.
+1.2.2.2 Rational expressions
+1.2.2.2.1 a16 Be able to simplify rational expressions.
+1.3 Functions
+1.3.1 FUNCTIONS (1)
+1.3.1.1 Polynomials
+1.3.1.1.1 Mf1 Be able to add, subtract, multiply and divide polynomials.
+1.3.1.1.2 f2 Understand the factor theorem and be able to use it to factorise a polynomial or to determine its zeros.
+1.3.2 FUNCTIONS (2)
+1.3.2.1 The language of functions
+1.3.2.1.1 f3 Understand the definition of a function, and be able to use the associated language.
+1.3.2.1.2 f4 Understand and use composite functions.
+1.3.2.1.3 f5 Understand and be able to use inverse functions and their graphs.
+1.3.2.2 The modulus function
+1.3.2.2.1 f6 Understand and be able to use the modulus function.
+1.3.2.2.2 f7 Be able to solve simple inequalities containing a modulus sign.
+1.3.2.3 Modelling
+1.3.2.3.1 f8 Be able to use functions in modelling.
+1.4 Graphs
+1.4.1 GRAPHS (1)
+1.4.1.1 Graphs
+1.4.1.1.1 MC1 Understand and use graphs of functions.
+1.4.1.1.2 C2 Understand how to find intersection points of a curve with coordinate axes.
+1.4.1.1.3 C3 Understand and be able to use the method of completing the square to find the line of symmetry and turning point of the graph of a quadratic function and to sketch a quadratic curve (parabola).
+1.4.1.1.4 C4 Be able to sketch and interpret the graphs of simple functions including polynomials.
+1.4.1.1.5 C5 Be able to use stationary points when curve sketching.
+1.4.1.1.6 C6 Be able to sketch and interpret the graphs of y = a/x and y = a/x².
+1.4.2 GRAPHS (2)
+1.4.2.1 Transformations
+1.4.2.1.1 MC7 Be able to sketch curves of the forms y = af(x), y = f(x) + a, y = f(x + a) and y = f(ax), given the curve of y = f(x) and describe the associated transformations.
+1.4.2.1.2 C8 Understand the effect of combined transformations on a graph and be able to form the equation of the new graph and to sketch it.
+1.4.2.2 Sketching curves
+1.4.2.2.1 C9 Be able to use stationary points of inflection when curve sketching.
+1.5 Coordinate geometry
+1.5.1 COORDINATE GEOMETRY (1)
+1.5.1.1 The coordinate geometry of straight lines
+1.5.1.1.1 * Understand and use the equation y = mx + c.
+1.5.1.1.2 Mg1 Know and be able to use the relationship between the gradients of parallel lines and perpendicular lines.
+1.5.1.1.3 g2 Be able to calculate the distance between two points.
+1.5.1.1.4 g3 Be able to find the coordinates of the midpoint of a line segment joining two points.
+1.5.1.1.5 g4 Be able to form the equation of a straight line.
+1.5.1.1.6 g5 Be able to draw a line given its equation.
+1.5.1.1.7 g6 Be able to find the point of intersection of two lines.
+1.5.1.1.8 g7 Be able to use straight line models.
+1.5.2 COORDINATE GEOMETRY (2)
+1.5.2.1 The coordinate geometry of curves
+1.5.2.1.1 Mg8 Be able to find the point(s) of intersection of a line and a curve or of two curves.
+1.5.2.1.2 g9 Be able to find the point(s) of intersection of a line and a circle.
+1.5.2.1.3 g10 Understand and use the equation of a circle in the form (x-a)² + (y-b)² = r².
+1.5.2.1.4 g11 Know and be able to use the following properties: the angle in a semicircle is a right angle; the perpendicular from the centre of a circle to a chord bisects the chord; the radius of a circle at a given point on its circumference is perpendicular to the tangent to the circle at that point.
+1.5.2.2 Parametric equations
+1.5.2.2.1 g12 Understand the meaning of the terms parameter and parametric equations.
+1.5.2.2.2 g13 Be able to convert between cartesian and parametric forms of equations.
+1.5.2.2.3 g14 Understand and use the equation of a circle written in parametric form.
+1.5.2.2.4 g15 Be able to find the gradient of a curve defined in terms of a parameter by differentiation.
+1.5.2.2.5 g16 Be able to use parametric equations in modelling.
+1.6 Sequences and series
+1.6.1 SEQUENCES AND SERIES (1)
+1.6.1.1 Binomial expansions
+1.6.1.1.1 Ms1 Understand and use the binomial expansion of (a + bx)ⁿ where n is a positive integer.
+1.6.1.1.2 s2 Know the notations n! and C and that C is the number of ways of selecting r distinct objects from n.
+1.6.2 SEQUENCES AND SERIES (2)
+1.6.2.1 Binomial expansions
+1.6.2.1.1 s3 Use the binomial expansion of (1 + x)ⁿ where n is any rational number.
+1.6.2.1.2 s4 Be able to write (a + bx)ⁿ in the form aⁿ(1 + bx/a)ⁿ and hence expand (a + bx)ⁿ.
+1.6.2.1.3 s5 Be able to use binomial expansions with n rational to find polynomials which approximate (a + bx)ⁿ.
+1.6.2.2 Sequences
+1.6.2.2.1 Ms6 Know what a sequence of numbers is and the meaning of finite and infinite with reference to sequences.
+1.6.2.2.2 s7 Be able to generate a sequence using a formula for the kth term, or a recurrence relation of the form aₖ₊₁ = f(aₖ).
+1.6.2.2.3 s8 Know that a series is the sum of consecutive terms of a sequence.
+1.6.2.2.4 s9 Understand and use sigma notation.
+1.6.2.2.5 s10 Be able to recognise increasing, decreasing and periodic sequences.
+1.6.2.2.6 s11 Know the difference between convergent and divergent sequences.
+1.6.2.3 Arithmetic series
+1.6.2.3.1 s12 Understand and use arithmetic sequences and series.
+1.6.2.3.2 s13 Be able to use the standard formulae associated with arithmetic sequences and series.
+1.6.2.4 Geometric series
+1.6.2.4.1 s14 Understand and use geometric sequences and series.
+1.6.2.4.2 s15 Be able to use the standard formulae associated with geometric sequences and series.
+1.6.2.4.3 s16 Know the condition for a geometric series to be convergent and be able to find its sum to infinity.
+1.6.2.5 Modelling
+1.6.2.5.1 s17 Be able to use sequences and series in modelling.
+1.7 Trigonometry
+1.7.1 TRIGONOMETRY (1)
+1.7.1.1 Basic trigonometry
+1.7.1.1.1 * Know how to solve right-angled triangles using trigonometry.
+1.7.1.2 Trigonometric functions
+1.7.1.2.1 Mt1 Be able to use the definitions of sin θ, cos θ and tan θ for any angle.
+1.7.1.2.2 t2 Know and use the graphs of sin θ, cos θ and tan θ for all values of θ, their symmetries and periodicities.
+1.7.1.2.3 * Know and be able to use the exact values of sin θ and cos θ for θ = 0°, 30°, 45°, 60° and 90° and the exact values of tan θ for θ = 0°, 30°, 45° and 60°.
+1.7.1.3 Area of triangle; sine and cosine rules
+1.7.1.3.1 t3 Know and be able to use the fact that the area of a triangle is given by ½absinC.
+1.7.1.3.2 t4 Know and be able to use the sine and cosine rules.
+1.7.1.4 Identities
+1.7.1.4.1 t5 Understand and be able to use tan θ = sin θ / cos θ.
+1.7.1.4.2 t6 Understand and be able to use the identity sin²θ + cos²θ = 1.
+1.7.1.5 Equations
+1.7.1.5.1 t7 Be able to solve simple trigonometric equations in given intervals and know the principal values from the inverse trigonometric functions.
+1.7.2 TRIGONOMETRY (2)
+1.7.2.1 Trigonometric functions
+1.7.2.1.1 Mt8 Know and be able to use exact values of sin θ, cos θ, tan θ for θ = 0, π/6, π/4, π/3, π/2 and multiples thereof and sin θ, cos θ for θ = π and multiples thereof.
+1.7.2.1.2 t9 Understand and use the definitions of the functions arcsin, arccos and arctan, their relationship to sin, cos and tan, their graphs and their ranges and domains.
+1.7.2.2 Radians
+1.7.2.2.1 t10 Understand and use the definition of a radian and be able to convert between radians and degrees.
+1.7.2.2.2 t11 Know and be able to find the arc length and area of a sector of a circle, when the angle is given in radians.
+1.7.2.2.3 t12 Understand and use the standard small angle approximations of sine, cosine and tangent.
+1.7.2.3 Secant, cosecant and cotangent
+1.7.2.3.1 t13 Understand and use the definitions of the sec, cosec and cot functions.
+1.7.2.3.2 t14 Understand relationships between the graphs of the sin, cos, tan, cosec, sec and cot functions.
+1.7.2.3.3 t15 Understand and use the relationships tan²θ + 1 = sec²θ and cot²θ + 1 = cosec²θ.
+1.7.2.4 Compound angle formulae
+1.7.2.4.1 t16 Understand and use the identities for sin(θ ± φ), cos(θ ± φ), tan(θ ± φ).
+1.7.2.4.2 t17 Know and use identities for sin2θ, cos2θ, tan2θ.
+1.7.2.4.3 t18 Understand and use expressions for acosθ + bsinθ in the equivalent forms Rsin(θ ± α) and Rcos(θ ± α).
+1.7.2.5 Equations
+1.7.2.5.1 t19 Use trigonometric identities, relationships and definitions in solving equations.
+1.7.2.6 Proofs and problems
+1.7.2.6.1 t20 Construct proofs involving trigonometric functions and identities.
+1.7.2.6.2 t21 Use trigonometric functions to solve problems in context, including problems involving vectors, kinematics and forces.
+1.8 Exponentials and logarithms
+1.8.1 EXPONENTIALS AND LOGARITHMS (1)
+1.8.1.1 Exponentials and Logarithms
+1.8.1.1.1 ME1 Know and use the function y = aˣ and its graph.
+1.8.1.1.2 E2 Be able to convert from an index to a logarithmic form and vice versa.
+1.8.1.1.3 E3 Understand a logarithm as the inverse of the appropriate exponential function and be able to sketch the graphs of exponential and logarithmic functions.
+1.8.1.1.4 E4 Understand the laws of logarithms and be able to apply them, including to taking logarithms of both sides of an equation.
+1.8.1.1.5 E5 Know and use the values of logₐa and logₐ1.
+1.8.1.1.6 E6 Be able to solve an equation of the form aˣ = b.
+1.8.1.1.7 E7 Know how to reduce the equations y = axⁿ and y = abˣ to linear form and, using experimental data, to use a graph to estimate values of the parameters.
+1.8.2 EXPONENTIALS AND LOGARITHMS (2)
+1.8.2.1 Exponentials and natural logarithms
+1.8.2.1.1 ME8 Know and be able to use the function y = eˣ and its graph.
+1.8.2.1.2 E9 Know that the gradient of eᵏˣ is keᵏˣ and hence understand why the exponential model is suitable in many applications.
+1.8.2.1.3 E10 Know and be able to use the function y = ln x and its graph. Know the relationship between ln x and eˣ.
+1.8.2.2 Exponential growth and decay
+1.8.2.2.1 E11 Be able to solve problems involving exponential growth and decay; be able to consider limitations and refinements of exponential growth and decay models.
+1.9 Calculus
+1.9.1 CALCULUS (1)
+1.9.1.1 Basic differentiation
+1.9.1.1.1 Mc1 Know and use that the gradient of a curve at a point is given by the gradient of the tangent at the point.
+1.9.1.1.2 c2 Know and use that the gradient of the tangent at a point A on a curve is given by the limit of the gradient of chord AP as P approaches A along the curve.
+1.9.1.1.3 c3 Understand and use the derivative of f(x) as the gradient of the tangent to the graph of y = f(x) at a general point (x, y). Know that the gradient function gives the gradient of the curve and measures the rate of change of y with respect to x.
+1.9.1.1.4 c4 Be able to sketch the gradient function for a given curve.
+1.9.1.2 Differentiation of functions
+1.9.1.2.1 c5 Be able to differentiate y = kxⁿ where k is a constant and n is rational, including related sums and differences.
+1.9.1.3 Applications of differentiation to functions and graphs
+1.9.1.3.1 c6 Understand and use the second derivative as the rate of change of gradient.
+1.9.1.3.2 c7 Be able to use differentiation to find stationary points on a curve: maxima and minima.
+1.9.1.3.3 c8 Understand the terms increasing function and decreasing function and be able to find where the function is increasing or decreasing.
+1.9.1.3.4 c9 Be able to find the equation of the tangent and normal at a point on a curve.
+1.9.2 CALCULUS (2)
+1.9.2.1 Differentiation of functions
+1.9.2.1.1 Mc10 Be able to differentiate eᵏˣ, aᵏˣ and ln x.
+1.9.2.1.2 c11 Be able to differentiate the trigonometrical functions: sin kx; cos kx; tan kx for x in radians.
+1.9.2.2 Product, quotient and chain rules
+1.9.2.2.1 c12 Be able to differentiate the product of two functions.
+1.9.2.2.2 c13 Be able to differentiate the quotient of two functions.
+1.9.2.2.3 c14 Be able to differentiate composite functions using the chain rule.
+1.9.2.2.4 c15 Be able to find rates of change using the chain rule, including connected rates of change and differentiation of inverse functions.
+1.9.2.3 Implicit differentiation
+1.9.2.3.1 c16 Be able to differentiate a function or relation defined implicitly.
+1.9.2.4 Applications of differentiation to functions and graphs
+1.9.2.4.1 c17 Understand that a section of curve which has increasing gradient (and so positive second derivative) is concave upwards. Understand that a section of curve which has decreasing gradient (and so negative second derivative) is concave downwards.
+1.9.2.4.2 c18 Understand that a point of inflection on a curve is where the curve changes from concave upwards to concave downwards (or vice versa) and hence that the second derivative at a point of inflection is zero. Be able to use differentiation to find stationary and non-stationary points of inflection.
+1.9.3 CALCULUS (3)
+1.9.3.1 Integration as reverse of differentiation
+1.9.3.1.1 Mc19 Know that integration is the reverse of differentiation.
+1.9.3.1.2 c20 Be able to integrate functions of the form kxⁿ where k is a constant and n ≠ -1.
+1.9.3.1.3 c21 Be able to find a constant of integration given relevant information.
+1.9.3.2 Integration to find area under a curve
+1.9.3.2.1 c22 Know what is meant by indefinite and definite integrals. Be able to evaluate definite integrals.
+1.9.3.2.2 c23 Be able to use integration to find the area between a graph and the x-axis.
+1.9.3.3 Integration as reverse of differentiation
+1.9.3.3.1 Mc24 Be able to integrate eᵏˣ, 1/x, sin kx, cos kx and related sums, differences and constant multiples.
+1.9.3.4 Integration to find area under a curve
+1.9.3.4.1 c25 Understand integration as the limit of a sum.
+1.9.3.4.2 c26 Be able to use integration to find the area between two curves.
+1.9.3.5 Integration by substitution
+1.9.3.5.1 c27 Be able to use integration by substitution in cases where the process is the reverse of the chain rule (including finding a suitable substitution).
+1.9.3.5.2 c28 Be able to use integration by substitution in other cases.
+1.9.3.6 Integration by parts
+1.9.3.6.1 c29 Be able to use the method of integration by parts in simple cases.
+1.9.3.7 Partial fractions
+1.9.3.7.1 c30 Be able to integrate using partial fractions that are linear in the denominator.
+1.9.3.8 Differential equations
+1.9.3.8.1 c31 Be able to formulate first order differential equations using information about rates of change.
+1.9.3.8.2 c32 Be able to find general or particular solutions of first order differential equations analytically by separating variables.
+1.9.3.8.3 c33 Be able to interpret the solution of a differential equation in the context of solving a problem, including identifying limitations of the solution.
+1.10 Numerical methods
+1.10.1 NUMERICAL METHODS (1)
+1.10.1.1 Solution of equations
+1.10.1.1.1 Me1 Be able to locate the roots of f(x) = 0 by considering changes of sign of f(x) in an interval of x in which f(x) is sufficiently well-behaved.
+1.10.1.1.2 e2 Be aware of circumstances under which change of sign methods may fail.
+1.10.1.1.3 e3 Be able to carry out a fixed point iteration after rearranging an equation into the form x = g(x) and be able to draw associated staircase and cobweb diagrams.
+1.10.1.1.4 e4 Be able to use the Newton-Raphson method to find a root of an equation and represent the process on a graph.
+1.10.1.1.5 e5 Understand that not all iterations converge to a particular root of an equation.
+1.10.2 NUMERICAL METHODS (2)
+1.10.2.1 Integration
+1.10.2.1.1 Mc34 Be able to find an approximate value of a definite integral using the trapezium rule, and decide whether it is an over- or an under-estimate.
+1.10.2.1.2 c35 Use the sum of a series of rectangles to find an upper and/or lower bound on the area under a curve.
+1.10.2.2 Problem solving
+1.10.2.2.1 Me6 Use numerical methods to solve problems in context.
+1.11 Vectors
+1.11.1 VECTORS (1)
+1.11.1.1 General vectors
+1.11.1.1.1 Mv1 Understand the language of vectors in two dimensions.
+1.11.1.1.2 v2 Be able to add and subtract vectors using a diagram or algebraically, multiply a vector by a scalar, and express a vector as a combination of others.
+1.11.1.1.3 v3 Be able to calculate the magnitude and direction of a vector and convert between component form and magnitude-direction form.
+1.11.1.2 Position vectors
+1.11.1.2.1 v4 Understand and use position vectors.
+1.11.1.2.2 v5 Be able to calculate the distance between two points represented by position vectors.
+1.11.1.3 Using vectors
+1.11.1.3.1 v6 Be able to use vectors to solve problems in pure mathematics and in context, including problems involving forces.
+1.11.2 VECTORS (2)
+1.11.2.1 General vectors
+1.11.2.1.1 Mv7 Understand the language of vectors in three dimensions.
+2 Area 2: Mechanics
+2.1 Models and quantities
+2.1.1 MODELS AND QUANTITIES (1)
+2.1.1.1 Standard models in mechanics
+2.1.1.1.1 Mp31 Know the language used to describe simplifying assumptions in mechanics.
+2.1.1.1.2 p32 Understand and use the particle model.
+2.1.1.2 Units and quantities
+2.1.1.2.1 p33 Understand and use fundamental quantities and units in the S.I. system: length, time, mass.
+2.1.1.2.2 p34 Understand and use derived quantities and units: velocity, acceleration, force, weight.
+2.1.2 MODELS AND QUANTITIES (2)
+2.1.2.1 Units and quantities
+2.1.2.1.1 p35 Understand and use derived quantities and units: moment.
+2.2 Kinematics in one dimension
+2.2.1 KINEMATICS IN 1 DIMENSION (1)
+2.2.1.1 Motion in 1 dimension
+2.2.1.1.1 Mk1 Understand and use the language of kinematics.
+2.2.1.1.2 k2 Know the difference between position, displacement, distance and distance travelled.
+2.2.1.1.3 k3 Know the difference between velocity and speed, and between acceleration and magnitude of acceleration.
+2.2.1.2 Kinematics graphs
+2.2.1.2.1 k4 Be able to draw and interpret kinematics graphs for motion in a straight line, knowing the significance (where appropriate) of their gradients and the areas underneath them.
+2.2.1.3 Calculus in kinematics
+2.2.1.3.1 k5 Be able to differentiate position and velocity with respect to time and know what measures result.
+2.2.1.3.2 k6 Be able to integrate acceleration and velocity with respect to time and know what measures result.
+2.2.1.4 Constant acceleration formulae
+2.2.1.4.1 k7 Be able to recognise when the use of constant acceleration formulae is appropriate.
+2.2.1.5 Problem solving
+2.2.1.5.1 k8 Be able to solve kinematics problems using constant acceleration formulae and calculus for motion in a straight line.
+2.3 Kinematics in two dimensions
+2.3.1 KINEMATICS IN 2 DIMENSIONS (2)
+2.3.1.1 Motion in 2 dimensions
+2.3.1.1.1 Mk9 Understand the language of kinematics appropriate to motion in 2 dimensions. Know the difference between, displacement, distance from and distance travelled; velocity and speed, and between acceleration and magnitude of acceleration.
+2.3.1.2 Calculus in kinematics
+2.3.1.2.1 k10 Be able to extend the scope of techniques from motion in 1 dimension to that in 2 dimensions by using vectors.
+2.3.1.2.2 k11 Be able to find the cartesian equation of the path of a particle when the components of its position vector are given in terms of time.
+2.3.1.3 Using vectors
+2.3.1.3.1 k12 Be able to use vectors to solve problems in kinematics.
+2.4 Projectiles
+2.4.1 PROJECTILES (2)
+2.4.1.1 Motion under gravity in 2 dimensions
+2.4.1.1.1 My1 Be able to model motion under gravity in a vertical plane using vectors. Be able to formulate the equations of motion of a projectile using vectors.
+2.4.1.1.2 y2 Know how to find the position and velocity at any time of a projectile and find range and maximum height.
+2.4.1.1.3 y3 Be able to find the initial velocity of a projectile given sufficient information.
+2.4.1.1.4 y4 Be able to eliminate time from the component equations that give the horizontal and vertical displacement in terms of time to obtain the equation of the trajectory.
+2.4.1.1.5 y5 Be able to solve simple problems involving projectiles.
+2.5 Forces
+2.5.1 FORCES (1)
+2.5.1.1 Identifying and representing forces
+2.5.1.1.1 MF1 Understand the language relating to forces.
+2.5.1.1.2 F2 Know that the acceleration due to gravity is not a universal constant but depends on location in the universe. Know that on earth, the acceleration due to gravity is often modelled to be a constant, g ms⁻².
+2.5.1.1.3 F3 Be able to identify the forces acting on a system and represent them in a force diagram. Understand the difference between external and internal forces and be able to identify the forces acting on part of the system.
+2.5.1.2 Vector treatment of forces
+2.5.1.2.1 F4 Be able to find the resultant of several concurrent forces when the forces are parallel or in two perpendicular directions or in simple cases of forces given as 2-D vectors in component form.
+2.5.1.2.2 F5 Understand the concept of equilibrium and know that a particle is in equilibrium if and only if the vector sum of the forces acting on it is zero in the cases where the forces are parallel or in two perpendicular directions or in simple cases of forces given as 2-D vectors in component form.
+2.5.2 FORCES (2)
+2.5.2.1 Vector treatment of forces
+2.5.2.1.1 MF6 Be able to resolve a force into components and be able to select suitable directions for resolution. Be able to find the resultant of several concurrent forces by resolving and adding components.
+2.5.2.1.2 F7 Know that a particle is in equilibrium if and only if the resultant of the forces acting on it is zero. Know that a body is in equilibrium under a set of concurrent forces if and only if their resultant is zero.
+2.5.2.1.3 F8 Know that vectors representing a set of forces in equilibrium sum to zero. Know that a closed figure may be drawn to represent the addition of the forces on an object in equilibrium.
+2.5.2.1.4 F9 Be able to formulate and solve equations for a particle in equilibrium: by resolving forces in suitable directions; by drawing and using a polygon of forces.
+2.5.2.2 Frictional force and normal contact force
+2.5.2.2.1 F10 Understand that the overall contact force between surfaces may be expressed in terms of a frictional force and a normal contact force and be able to draw an appropriate force diagram.
+2.5.2.2.2 F11 Understand that the frictional force may be modelled by F ≤ μR and that friction acts in the direction to oppose sliding. Model friction using F = μR when sliding occurs.
+2.5.2.2.3 F12 Be able to apply Newton’s Laws to problems involving friction.
+2.6 Newton's laws of motion
+2.6.1 NEWTON’S LAWS OF MOTION (1)
+2.6.1.1 Newton’s laws for a particle
+2.6.1.1.1 Mn1 Know and understand the meaning of Newton’s three laws.
+2.6.1.1.2 n2 Understand the term equation of motion.
+2.6.1.1.3 n3 Be able to formulate the equation of motion for a particle moving in a straight line when the forces acting are parallel or in two perpendicular directions or in simple cases of forces given as 2-D vectors in component form.
+2.6.1.2 Connected particles
+2.6.1.2.1 n4 Be able to model a system as a set of connected particles.
+2.6.1.2.2 n5 Be able to formulate the equations of motion for the individual particles within the system.
+2.6.1.2.3 n6 Know that a system in which none of its components have any relative motion may be modelled as a single particle with the mass of the system.
+2.6.2 NEWTON’S LAWS OF MOTION (2)
+2.6.2.1 Newton’s laws for a particle
+2.6.2.1.1 n7 Be able to formulate the equation of motion for a particle moving in a straight line or in a plane.
+2.7 Rigid bodies
+2.7.1 RIGID BODIES (2)
+2.7.1.1 Rigid bodies in equilibrium
+2.7.1.1.1 MF13 Be able to calculate the moment of a force about a point or axis.
+2.7.1.1.2 F14 Understand that a rigid body is in equilibrium when the resultant force is zero and the sum of the moments about any one point is zero.
+2.7.1.1.3 F15 Understand that a system of forces can have a turning effect on a rigid body.
+2.7.1.1.4 F16 Know that, for the purpose of calculating its moment, the weight of a body can be taken as acting through a point.
+3 Area 3: Statistics
+3.1 Statistical sampling
+3.1.1 SAMPLING (1)
+3.1.1.1 Population and sample
+3.1.1.1.1 Mp21 Understand and use the terms population and sample.
+3.1.1.1.2 p22 Be able to use samples to make informal inferences about a population, recognising that different samples might lead to different conclusions.
+3.1.1.2 Sampling techniques
+3.1.1.2.1 p23 Understand and be able to use the concept of random sampling.
+3.1.1.2.2 p24 Understand and be able to use a variety of sampling techniques.
+3.1.1.2.3 p25 Be able to select or evaluate sampling techniques in the context of solving a statistical problem.
+3.2 Data presentation and interpretation
+3.2.1 DATA PRESENTATION AND INTERPRETATION (1)
+3.2.1.1 Data presentation for single variable
+3.2.1.1.1 MD1 Be able to recognise and work with categorical, discrete, continuous and ranked data. Be able to interpret standard diagrams for grouped and ungrouped single-variable data.
+3.2.1.1.2 D2 Understand that the area of each bar in a histogram is proportional to frequency. Be able to calculate proportions from a histogram and understand them in terms of estimated probabilities.
+3.2.1.1.3 D3 Be able to interpret a cumulative frequency diagram.
+3.2.1.1.4 D4 Be able to describe frequency distributions.
+3.2.1.2 Data presentation
+3.2.1.2.1 MD5 Understand that diagrams representing unbiased samples become more representative of theoretical probability distributions with increasing sample size.
+3.2.1.2.2 D6 Be able to interpret a scatter diagram for bivariate data, interpret a regression line or other best fit model, including interpolation and extrapolation, understanding that extrapolation might not be justified.
+3.2.1.2.3 D7 Be able to recognise when a scatter diagram appears to show distinct sections in the population. Be able to recognise and comment on outliers in a scatter diagram.
+3.2.1.2.4 D8 Be able to recognise and describe correlation in a scatter diagram and understand that correlation does not imply causation.
+3.2.1.2.5 D9 Be able to select or critique data presentation techniques in the context of a statistical problem.
+3.2.2 DATA PRESENTATION AND INTERPRETATION (2)
+3.2.2.1 Summary measures
+3.2.2.1.1 MD10 Know the standard measures of central tendency and be able to calculate and interpret them and to decide when it is most appropriate to use one of them.
+3.2.2.1.2 D11 Know simple measures of spread and be able to use and interpret them appropriately.
+3.2.2.1.3 MD12 Know how to calculate and interpret variance and standard deviation for raw data, frequency distributions, grouped frequency distributions. Be able to use the statistical functions of a calculator to find mean and standard deviation.
+3.2.2.1.4 D13 Understand the term outlier and be able to identify outliers. Know that the term outlier can be applied to an item of data which is at least 2 standard deviations from the mean; OR at least 1.5 × IQR beyond the nearer quartile.
+3.2.2.1.5 D14 Be able to clean data including dealing with missing data, errors and outliers.
+3.3 Probability
+3.3.1 PROBABILITY (1)
+3.3.1.1 Probability of events in a finite sample space
+3.3.1.1.1 * Be able to calculate the probability of an event.
+3.3.1.1.2 * Understand the concept of a complementary event and know that the probability of an event may be found by means of finding that of its complementary event.
+3.3.1.2 Probability of two or more events
+3.3.1.2.1 * Be able to calculate the expected frequency of an event given its probability.
+3.3.1.2.2 * Be able to use appropriate diagrams to assist in the calculation of probabilities.
+3.3.1.2.3 Mu1 Understand and use mutually exclusive events and independent events.
+3.3.1.2.4 u2 Know to add probabilities for mutually exclusive events.
+3.3.1.2.5 u3 Know to multiply probabilities for independent events.
+3.3.2 PROBABILITY (2)
+3.3.2.1 Probability of two or more events
+3.3.2.1.1 u4 Understand and use mutually exclusive events and independent events and associated notation and definitions.
+3.3.2.1.2 u5 Be able to use Venn diagrams to assist in the calculations of probabilities. Know how to calculate probabilities for two events which are not mutually exclusive.
+3.3.2.2 Conditional probability
+3.3.2.2.1 u6 Be able to calculate conditional probabilities by formula, from tree diagrams, two-way tables, Venn diagrams or sample space diagrams.
+3.3.2.2.2 u7 Know that P(B|A) = P(B) + B and A are independent.
+3.4 Probability distributions
+3.4.1 PROBABILITY DISTRIBUTIONS (1)
+3.4.1.1 Situations leading to a binomial distribution
+3.4.1.1.1 MR1 Recognise situations which give rise to a binomial distribution.
+3.4.1.1.2 R2 Be able to identify the probability of success, p, for the binomial distribution.
+3.4.1.2 Calculations relating to binomial distribution
+3.4.1.2.1 R3 Be able to calculate probabilities using the binomial distribution.
+3.4.1.3 Mean and expected frequencies for binomial distribution
+3.4.1.3.1 R4 Understand and use mean = np.
+3.4.1.3.2 R5 Be able to calculate expected frequencies associated with the binomial distribution.
+3.4.1.4 Discrete probability distributions
+3.4.1.4.1 R6 Be able to use probability functions, given algebraically or in tables. Know the term discrete random variable.
+3.4.1.4.2 R7 Be able to calculate the numerical probabilities for a simple distribution. Understand the term discrete uniform distribution.
+3.4.2 PROBABILITY DISTRIBUTIONS (2)
+3.4.2.1 Normal distribution
+3.4.2.1.1 MR8 Be able to use the Normal distribution as a model.
+3.4.2.1.2 R9 Know the shape of the Normal curve and understand that histograms from increasingly large samples from a Normal distribution tend to the Normal curve.
+3.4.2.1.3 R10 Know that linear transformation of a Normal variable gives another Normal variable and know how the mean and standard deviation are affected. Be able to standardise a Normal variable.
+3.4.2.1.4 R11 Know that the line of symmetry of the Normal curve is located at the mean and the points of inflection are located one standard deviation away from the mean.
+3.4.2.1.5 R12 Be able to calculate and use probabilities from a Normal distribution.
+3.4.2.2 Modelling with probability
+3.4.2.2.1 R13 Be able to model with probability and probability distributions, including recognising when the binomial or Normal model may not be appropriate.
+3.5 Statistical hypothesis testing
+3.5.1 STATISTICAL HYPOTHESIS TESTING (1)
+3.5.1.1 Hypothesis testing
+3.5.1.1.1 MH1 Understand the process of hypothesis testing and the associated language.
+3.5.1.1.2 H2 Understand when to apply 1-tail and 2-tail tests.
+3.5.1.1.3 H3 Understand that a sample is being used to make an inference about the population and appreciate that the significance level is the probability of incorrectly rejecting the null hypothesis.
+3.5.1.2 Hypothesis testing for a binomial probability p
+3.5.1.2.1 H4 Be able to identify null and alternative hypotheses (H₀ and H₁) when setting up a hypothesis test based on a binomial probability model.
+3.5.1.2.2 H5 Be able to conduct a hypothesis test at a given level of significance. Be able to draw a correct conclusion from the results of a hypothesis test based on a binomial probability model and interpret the results in context.
+3.5.1.2.3 H6 Be able to identify the critical and acceptance regions.
+3.5.2 STATISTICAL HYPOTHESIS TESTING (2)
+3.5.2.1 Hypothesis testing for a mean using Normal distribution
+3.5.2.1.1 MH7 Know that random samples of size n from X ~ N(μ, σ²) have the sample mean Normally distributed with mean μ and variance σ²/n.
+3.5.2.1.2 H8 Be able to carry out a hypothesis test for a single mean using the Normal distribution and be able to interpret the results in context.
+3.5.2.1.3 H9 Be able to identify the critical and acceptance regions.
+3.5.2.2 Informal hypothesis testing for correlation/association
+3.5.2.2.1 MH10 Understand correlation as a measure of how close data points lie to a straight line.
+3.5.2.2.2 H11 Be able to use a given correlation coefficient for a sample to make an inference about correlation or association in the population for given p-value or critical value.

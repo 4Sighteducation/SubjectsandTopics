@@ -1,0 +1,256 @@
+1. Computer Science (J277)
+   1.1 Component 01: Computer systems
+      1.1.1 Systems architecture
+         1.1.1.1 Architecture of the CPU
+            1.1.1.1.1 The purpose of the CPU
+            1.1.1.1.2 The fetch-execute cycle
+            1.1.1.1.3 Common CPU components and their function
+               1.1.1.1.3.1 ALU (Arithmetic Logic Unit)
+               1.1.1.1.3.2 CU (Control Unit)
+               1.1.1.1.3.3 Cache
+               1.1.1.1.3.4 Registers
+            1.1.1.1.4 Von Neumann architecture
+               1.1.1.1.4.1 MAR (Memory Address Register)
+               1.1.1.1.4.2 MDR (Memory Data Register)
+               1.1.1.1.4.3 Program Counter
+               1.1.1.1.4.4 Accumulator
+         1.1.1.2 CPU performance
+            1.1.1.2.1 Clock speed
+            1.1.1.2.2 Cache size
+            1.1.1.2.3 Number of cores
+         1.1.1.3 Embedded systems
+            1.1.1.3.1 The purpose and characteristics of embedded systems
+            1.1.1.3.2 Examples of embedded systems
+      1.1.2 Memory and storage
+         1.1.2.1 Primary storage (memory)
+            1.1.2.1.1 The need for primary storage
+            1.1.2.1.2 The difference between RAM and ROM
+            1.1.2.1.3 The purpose of ROM in a computer system
+            1.1.2.1.4 The purpose of RAM in a computer system
+            1.1.2.1.5 Virtual memory
+            1.1.2.1.6 Cache
+         1.1.2.2 Secondary storage
+            1.1.2.2.1 The need for secondary storage
+            1.1.2.2.2 Common types of storage
+               1.1.2.2.2.1 Optical
+               1.1.2.2.2.2 Magnetic
+               1.1.2.2.2.3 Solid state
+            1.1.2.2.3 Suitable storage devices and storage media for a given application
+            1.1.2.2.4 The advantages and disadvantages of different storage devices and storage media
+               1.1.2.2.4.1 Capacity
+               1.1.2.2.4.2 Speed
+               1.1.2.2.4.3 Portability
+               1.1.2.2.4.4 Durability
+               1.1.2.2.4.5 Reliability
+               1.1.2.2.4.6 Cost
+         1.1.2.3 Units
+            1.1.2.3.1 The units of data storage
+               1.1.2.3.1.1 Bit
+               1.1.2.3.1.2 Nibble (4 bits)
+               1.1.2.3.1.3 Byte (8 bits)
+               1.1.2.3.1.4 Kilobyte (1,000 bytes or 1 KB)
+               1.1.2.3.1.5 Megabyte (1,000 KB)
+               1.1.2.3.1.6 Gigabyte (1,000 MB)
+               1.1.2.3.1.7 Terabyte (1,000 GB)
+               1.1.2.3.1.8 Petabyte (1,000 TB)
+            1.1.2.3.2 How data needs to be converted into a binary format to be processed by a computer
+            1.1.2.3.3 Data capacity and calculation of data capacity requirements
+         1.1.2.4 Data storage
+            1.1.2.4.1 Numbers
+               1.1.2.4.1.1 How to convert positive denary whole numbers to binary numbers (up to and including 8 bits) and vice versa
+               1.1.2.4.1.2 How to add two binary integers together (up to and including 8 bits) and explain overflow errors which may occur
+               1.1.2.4.1.3 How to convert positive denary whole numbers into 2-digit hexadecimal numbers and vice versa
+               1.1.2.4.1.4 How to convert binary integers to their hexadecimal equivalents and vice versa
+               1.1.2.4.1.5 Binary shifts
+            1.1.2.4.2 Characters
+               1.1.2.4.2.1 The use of binary codes to represent characters
+               1.1.2.4.2.2 The term ‘character set’
+               1.1.2.4.2.3 The relationship between the number of bits per character in a character set, and the number of characters which can be represented
+            1.1.2.4.3 Images
+               1.1.2.4.3.1 How an image is represented as a series of pixels, represented in binary
+               1.1.2.4.3.2 Metadata and resolution
+               1.1.2.4.3.3 The effect of colour depth and resolution on the quality of the image and the size of an image file
+            1.1.2.4.4 Sound
+               1.1.2.4.4.1 How sound can be sampled and stored in digital form
+               1.1.2.4.4.2 The effect of sample rate, duration and bit depth on the playback quality and the size of a sound file
+         1.1.2.5 Compression
+            1.1.2.5.1 The need for compression
+            1.1.2.5.2 Types of compression
+               1.1.2.5.2.1 Lossy
+               1.1.2.5.2.2 Lossless
+      1.1.3 Computer networks, connections and protocols
+         1.1.3.1 Networks and topologies
+            1.1.3.1.1 Types of network
+               1.1.3.1.1.1 LAN (Local Area Network)
+               1.1.3.1.1.2 WAN (Wide Area Network)
+            1.1.3.1.2 Factors that affect the performance of networks
+            1.1.3.1.3 The different roles of computers in a client-server and a peer-to-peer network
+            1.1.3.1.4 The hardware needed to connect stand-alone computers into a Local Area Network
+               1.1.3.1.4.1 Wireless access points
+               1.1.3.1.4.2 Routers
+               1.1.3.1.4.3 Switches
+               1.1.3.1.4.4 NIC (Network Interface Controller/Card)
+               1.1.3.1.4.5 Transmission media
+            1.1.3.1.5 The Internet as a worldwide collection of computer networks
+               1.1.3.1.5.1 DNS (Domain Name Server)
+               1.1.3.1.5.2 Hosting
+               1.1.3.1.5.3 The Cloud
+               1.1.3.1.5.4 Web servers and clients
+            1.1.3.1.6 Star and Mesh network topologies
+         1.1.3.2 Wired and wireless networks, protocols and layers
+            1.1.3.2.1 Modes of connection
+               1.1.3.2.1.1 Wired
+                  1.1.3.2.1.1.1 Ethernet
+               1.1.3.2.1.2 Wireless
+                  1.1.3.2.1.2.1 Wi-Fi
+                  1.1.3.2.1.2.2 Bluetooth
+            1.1.3.2.2 Encryption
+            1.1.3.2.3 IP addressing and MAC addressing
+            1.1.3.2.4 Standards
+            1.1.3.2.5 Common protocols
+               1.1.3.2.5.1 TCP/IP (Transmission Control Protocol/Internet Protocol)
+               1.1.3.2.5.2 HTTP (Hyper Text Transfer Protocol)
+               1.1.3.2.5.3 HTTPS (Hyper Text Transfer Protocol Secure)
+               1.1.3.2.5.4 FTP (File Transfer Protocol)
+               1.1.3.2.5.5 POP (Post Office Protocol)
+               1.1.3.2.5.6 IMAP (Internet Message Access Protocol)
+               1.1.3.2.5.7 SMTP (Simple Mail Transfer Protocol)
+            1.1.3.2.6 The concept of layers
+      1.1.4 Network security
+         1.1.4.1 Threats to computer systems and networks
+            1.1.4.1.1 Forms of attack
+               1.1.4.1.1.1 Malware
+               1.1.4.1.1.2 Social engineering, e.g. phishing, people as the ‘weak point’
+               1.1.4.1.1.3 Brute-force attacks
+               1.1.4.1.1.4 Denial of service attacks
+               1.1.4.1.1.5 Data interception and theft
+               1.1.4.1.1.6 The concept of SQL injection
+         1.1.4.2 Identifying and preventing vulnerabilities
+            1.1.4.2.1 Common prevention methods
+               1.1.4.2.1.1 Penetration testing
+               1.1.4.2.1.2 Anti-malware software
+               1.1.4.2.1.3 Firewalls
+               1.1.4.2.1.4 User access levels
+               1.1.4.2.1.5 Passwords
+               1.1.4.2.1.6 Encryption
+               1.1.4.2.1.7 Physical security
+      1.1.5 Systems software
+         1.1.5.1 Operating systems
+            1.1.5.1.1 The purpose and functionality of operating systems
+               1.1.5.1.1.1 User interface
+               1.1.5.1.1.2 Memory management and multitasking
+               1.1.5.1.1.3 Peripheral management and drivers
+               1.1.5.1.1.4 User management
+               1.1.5.1.1.5 File management
+         1.1.5.2 Utility software
+            1.1.5.2.1 The purpose and functionality of utility software
+            1.1.5.2.2 Utility system software
+               1.1.5.2.2.1 Encryption software
+               1.1.5.2.2.2 Defragmentation
+               1.1.5.2.2.3 Data compression software
+      1.1.6 Ethical, legal, cultural and environmental impacts of digital technology
+         1.1.6.1 Ethical, legal, cultural and environmental impact
+            1.1.6.1.1 Impacts of digital technology on wider society
+               1.1.6.1.1.1 Ethical issues
+               1.1.6.1.1.2 Legal issues
+               1.1.6.1.1.3 Cultural issues
+               1.1.6.1.1.4 Environmental issues
+               1.1.6.1.1.5 Privacy issues
+            1.1.6.1.2 Legislation relevant to Computer Science
+               1.1.6.1.2.1 The Data Protection Act 2018
+               1.1.6.1.2.2 Computer Misuse Act 1990
+               1.1.6.1.2.3 Copyright Designs and Patents Act 1988
+               1.1.6.1.2.4 Software licences (i.e. open source and proprietary)
+   1.2 Component 02: Computational thinking, algorithms and programming
+      1.2.1 Algorithms
+         1.2.1.1 Computational thinking
+            1.2.1.1.1 Principles of computational thinking
+               1.2.1.1.1.1 Abstraction
+               1.2.1.1.1.2 Decomposition
+               1.2.1.1.1.3 Algorithmic thinking
+         1.2.1.2 Designing, creating and refining algorithms
+            1.2.1.2.1 Identify the inputs, processes, and outputs for a problem
+            1.2.1.2.2 Structure diagrams
+            1.2.1.2.3 Create, interpret, correct, complete, and refine algorithms using
+               1.2.1.2.3.1 Pseudocode
+               1.2.1.2.3.2 Flowcharts
+               1.2.1.2.3.3 Reference language/high-level programming language
+            1.2.1.2.4 Identify common errors
+            1.2.1.2.5 Trace tables
+         1.2.1.3 Searching and sorting algorithms
+            1.2.1.3.1 Standard searching algorithms
+               1.2.1.3.1.1 Binary search
+               1.2.1.3.1.2 Linear search
+            1.2.1.3.2 Standard sorting algorithms
+               1.2.1.3.2.1 Bubble sort
+               1.2.1.3.2.2 Merge sort
+               1.2.1.3.2.3 Insertion sort
+      1.2.2 Programming fundamentals
+         1.2.2.1 Programming fundamentals
+            1.2.2.1.1 The use of variables, constants, operators, inputs, outputs and assignments
+            1.2.2.1.2 The use of the three basic programming constructs used to control the flow of a program
+               1.2.2.1.2.1 Sequence
+               1.2.2.1.2.2 Selection
+               1.2.2.1.2.3 Iteration (count- and condition-controlled loops)
+            1.2.2.1.3 The common arithmetic operators
+            1.2.2.1.4 The common Boolean operators AND, OR and NOT
+         1.2.2.2 Data types
+            1.2.2.2.1 The use of data types
+               1.2.2.2.1.1 Integer
+               1.2.2.2.1.2 Real
+               1.2.2.2.1.3 Boolean
+               1.2.2.2.1.4 Character and string
+               1.2.2.2.1.5 Casting
+         1.2.2.3 Additional programming techniques
+            1.2.2.3.1 The use of basic string manipulation
+            1.2.2.3.2 The use of basic file handling operations
+               1.2.2.3.2.1 Open
+               1.2.2.3.2.2 Read
+               1.2.2.3.2.3 Write
+               1.2.2.3.2.4 Close
+            1.2.2.3.3 The use of records to store data
+            1.2.2.3.4 The use of SQL to search for data
+            1.2.2.3.5 The use of arrays (or equivalent) when solving problems, including both one-dimensional (1D) and two-dimensional arrays (2D)
+            1.2.2.3.6 How to use sub programs (functions and procedures) to produce structured code
+            1.2.2.3.7 Random number generation
+      1.2.3 Producing robust programs
+         1.2.3.1 Defensive design
+            1.2.3.1.1 Defensive design considerations
+               1.2.3.1.1.1 Anticipating misuse
+               1.2.3.1.1.2 Authentication
+            1.2.3.1.2 Input validation
+            1.2.3.1.3 Maintainability
+               1.2.3.1.3.1 Use of sub programs
+               1.2.3.1.3.2 Naming conventions
+               1.2.3.1.3.3 Indentation
+               1.2.3.1.3.4 Commenting
+         1.2.3.2 Testing
+            1.2.3.2.1 The purpose of testing
+            1.2.3.2.2 Types of testing
+               1.2.3.2.2.1 Iterative
+               1.2.3.2.2.2 Final/terminal
+            1.2.3.2.3 Identify syntax and logic errors
+            1.2.3.2.4 Selecting and using suitable test data
+               1.2.3.2.4.1 Normal
+               1.2.3.2.4.2 Boundary
+               1.2.3.2.4.3 Invalid/Erroneous
+            1.2.3.2.5 Refining algorithms
+      1.2.4 Boolean logic
+         1.2.4.1 Boolean logic
+            1.2.4.1.1 Simple logic diagrams using the operators AND, OR and NOT
+            1.2.4.1.2 Truth tables
+            1.2.4.1.3 Combining Boolean operators using AND, OR and NOT
+            1.2.4.1.4 Applying logical operators in truth tables to solve problems
+      1.2.5 Programming languages and Integrated Development Environments
+         1.2.5.1 Languages
+            1.2.5.1.1 Characteristics and purpose of different levels of programming language
+               1.2.5.1.1.1 High-level languages
+               1.2.5.1.1.2 Low-level languages
+            1.2.5.1.2 The purpose of translators
+            1.2.5.1.3 The characteristics of a compiler and an interpreter
+         1.2.5.2 The Integrated Development Environment (IDE)
+            1.2.5.2.1 Common tools and facilities available in an Integrated Development Environment (IDE)
+               1.2.5.2.1.1 Editors
+               1.2.5.2.1.2 Error diagnostics
+               1.2.5.2.1.3 Run-time environment
+               1.2.5.2.1.4 Translators

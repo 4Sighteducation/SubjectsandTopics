@@ -1,0 +1,188 @@
+{
+  "subject_name": "French",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/0gqg4xeh/eduqas-gcse-french-spec-from-2016-e-01-08-23.pdf",
+  "start_time": "2025-11-23T19:00:56.962855",
+  "success": true,
+  "topics_extracted": 96,
+  "levels": {
+    "0": 2,
+    "1": 8,
+    "2": 21,
+    "3": 45,
+    "4": 20
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": true,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "4",
+        "name": "has been amended to 2"
+      },
+      {
+        "number": "4",
+        "name": "has been amended to 10"
+      },
+      {
+        "number": "4",
+        "name": "from 2024."
+      },
+      {
+        "number": "1",
+        "name": "8"
+      },
+      {
+        "number": "2",
+        "name": "9"
+      },
+      {
+        "number": "3",
+        "name": "9"
+      },
+      {
+        "number": "4",
+        "name": "10"
+      },
+      {
+        "number": "1",
+        "name": "Speaking"
+      },
+      {
+        "number": "2",
+        "name": "Listening"
+      },
+      {
+        "number": "3",
+        "name": "Reading"
+      },
+      {
+        "number": "4",
+        "name": "Writing"
+      },
+      {
+        "number": "1",
+        "name": "is a spoken non-"
+      },
+      {
+        "number": "2",
+        "name": "is a listening examination, Component 3 is a"
+      },
+      {
+        "number": "4",
+        "name": "is a written examination."
+      },
+      {
+        "number": "1",
+        "name": "Component 1: Speaking"
+      },
+      {
+        "number": "2",
+        "name": "Component 2: Listening"
+      },
+      {
+        "number": "3",
+        "name": "Component 3: Reading"
+      },
+      {
+        "number": "4",
+        "name": "Component 4: Writing"
+      },
+      {
+        "number": "1",
+        "name": "- 25% - - 25%"
+      },
+      {
+        "number": "2",
+        "name": "25% - - - 25%"
+      },
+      {
+        "number": "3",
+        "name": "- - 25% - 25%"
+      },
+      {
+        "number": "4",
+        "name": "- - - 25% 25%"
+      },
+      {
+        "number": "1",
+        "name": "Speaking. All non-exam assessments must"
+      },
+      {
+        "number": "4",
+        "name": "from 2024"
+      },
+      {
+        "number": "4",
+        "name": "Writing assessment. In Summer 2024 and beyond, Component 4 will include:"
+      },
+      {
+        "number": "1",
+        "name": "Speaking"
+      },
+      {
+        "number": "2",
+        "name": "Listening"
+      },
+      {
+        "number": "3",
+        "name": "Reading"
+      },
+      {
+        "number": "4",
+        "name": "Writing"
+      },
+      {
+        "number": "1",
+        "name": "Speaking"
+      },
+      {
+        "number": "2",
+        "name": "Listening"
+      },
+      {
+        "number": "3",
+        "name": "Reading"
+      },
+      {
+        "number": "4",
+        "name": "Writing"
+      },
+      {
+        "number": "1",
+        "name": "25% - - 25%"
+      },
+      {
+        "number": "3",
+        "name": "- 25% - 25%"
+      },
+      {
+        "number": "4",
+        "name": "- - 25% 25%"
+      },
+      {
+        "number": "1",
+        "name": "Speaking. All non-exam assessments must"
+      }
+    ],
+    "tiers": [
+      "Foundation Tier",
+      "higher\ntier"
+    ],
+    "options": [],
+    "appendices": [
+      "Appendix D"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 30.456040859222412,
+  "end_time": "2025-11-23T19:01:27.418895"
+}

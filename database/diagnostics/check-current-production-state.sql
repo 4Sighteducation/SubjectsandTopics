@@ -19,7 +19,7 @@ ORDER BY code;
 SELECT 
   'Qualification Types' as check_name,
   code,
-  full_name,
+  name as full_name,
   id
 FROM qualification_types
 ORDER BY code;

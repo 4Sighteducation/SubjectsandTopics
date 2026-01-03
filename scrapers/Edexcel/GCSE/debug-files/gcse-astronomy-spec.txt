@@ -1,0 +1,2602 @@
+GCSE (9-1)
+Astronomy
+Specification
+Pearson Edexcel Level 1/Level 2 GCSE (9 - 1) in Astronomy (1AS0)
+First teaching from September 2017
+First certification from June 2019 Issue 3
+
+ 
+ 
+About Pearson 
+We are the world’s leading learning company operating in countries all around the world. We 
+provide content, assessment and digital services to learners, educational institutions, employers, 
+governments and other partners globally. We are committed to helping equip learners with the 
+skills they need to enhance their employability prospects and to succeed in the changing world of 
+work. We believe that wherever learning flourishes so do people. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party materials made in this specification are made in good faith. Pearson does 
+not endorse, approve or accept responsibility for the content of materials, which may be subject to 
+change, or any opinions expressed therein. (Materials may include textbooks, journals, magazines 
+and other publications and websites.) 
+ 
+All information in this specification is correct at time of publication. 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 93341 1 
+All the material in this publication is copyright 
+© Pearson Education Limited 2024 
+ 
+ 
+ 
+ 
+Summary of Pearson Edexcel Level 1/Level 2 GCSE (9–1) 
+in Astronomy (1AS0) specification Issue 3 changes 
+ 
+Summary of changes made between previous issue and this current issue Page 
+number 
+Removed requirement and area for teacher signature for Observational Fieldwork 
+Declaration form.  
+61 
+ 
+If you need further information on these changes or what they mean, contact us via our website at: 
+qualifications.pearson.com/en/support/contact-us.html 
+ 
+
+ 
+ 
+ 
+Contents 
+1 Introduction 2 
+Why choose the Edexcel GCSE in Astronomy? 2 
+Supporting you in planning and implementing this qualification 3 
+Qualification at a glance 4 
+2 Subject content and assessment information 6 
+Paper 1: Naked-eye Astronomy 9 
+Paper 2: Telescopic Astronomy 23 
+Observational skills 42 
+Assessment Objectives 47 
+3 Administration and general information 48 
+Entries 48 
+Access arrangements, reasonable adjustments, special consideration and 
+malpractice 48 
+Student recruitment and progression 51 
+Appendix 1: Mathematical skills 55 
+Appendix 2: Formulae and data sheet 56 
+Appendix 3: Calculators 58 
+Appendix 4: Taxonomy 59 
+Appendix 5: Observation Statement 61 
+Appendix 6: The context for the development of this qualification 62 
+Appendix 7: Transferable skills 64 
+Appendix 8: Codes 65 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+2 
+1 Introduction 
+Why choose the Edexcel GCSE in Astronomy? 
+Supporting success in science 
+Most people are fascinated by the night sky and are interested in stories about our 
+continuing exploration of our Solar System and Universe. This course has been developed to 
+build on that interest and to give an introduction to the subject of astronomy. 
+The course will enable students to understand our position in the Universe, the movements 
+of planets and stars, the cycles in the night and daytime sky, and the way in which we use 
+technology to observe and interact with space. Students will follow an incredible story of how 
+scientists, from ancient civilisations to the modern day, have used their imagination and 
+carefully recorded visual measurement to explore the Universe in which we live. 
+As with our GCSE (9–1) Science specifications, our Astronomy specification is straightforward 
+to deliver. And we’ve selected a range of observational activities to suit schools that are well 
+equipped with telescopes and those that are more modestly resourced. Of course, when it 
+comes to our assessments, they are shaped to encourage all students to best show what 
+they know and can do. 
+Every student is different. But we hope that, across the astronomical content and the 
+suggested observational activities, you can build an inclusive course, to allow your students 
+to enjoy their first steps in astronomy – and maybe turn those steps into giant leaps…!  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+3 
+Supporting you in planning and implementing this 
+qualification 
+Planning 
+● Our Getting Started guide gives you an overview of the new GCSE qualification to help 
+you to get to grips with the changes to content and assessment and to help you 
+understand what these changes mean for you and your students. 
+● Our mapping documents highlight key differences between the new and 2009 
+qualifications.  
+Teaching and learning  
+There will also be some free teaching and learning support to help you deliver the new 
+qualifications, including: 
+● a course planner and schemes of work that you can adapt to suit your department 
+● support in delivering a range of observational activities which form part of the 
+specification content.  
+Preparing for exams 
+We will also provide a range of resources to help you prepare your students for the 
+assessments, including: 
+● access to past papers to allow you to develop homework and test resources, 
+● marked exemplars of student work with examiner commentaries.  
+ResultsPlus 
+ResultsPlus provides the most detailed analysis available of your students’ exam 
+performance. It can help you identify the topics and skills where further learning would 
+benefit your students.  
+Get help and support 
+Our subject advisor service, led by Stephen Nugus and Julius Edwards will ensure you 
+receive help and guidance from us and that you can share ideas and information with other 
+teachers.  
+Learn more at qualifications.pearson.com 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+4 
+Qualification at a glance 
+Content and assessment overview 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy consists of two  
+externally-examined papers. 
+Students must complete all assessment in May/June in any single year. 
+ 
+Paper 1: Naked-eye Astronomy (*Paper code: 1AS0/01)  
+Written examination: 1 hour and 45 minutes 
+50% of the qualification 
+100 marks 
+Content overview 
+● Topic 1 – Planet Earth 
+● Topic 2 – The lunar disc 
+● Topic 3 – The Earth-Moon-Sun system 
+● Topic 4 – Time and the Earth-Moon-Sun cycles 
+● Topic 5 – Solar System observation 
+● Topic 6 – Celestial observation  
+● Topic 7 – Early models of the Solar System 
+● Topic 8 – Planetary motion and gravity 
+Assessment overview 
+A mixture of different question styles, including multiple-choice questions, short-answer 
+questions, calculations, graphical and extended-open-response questions. 
+ 
+*See Appendix 8: Codes for a description of this code and all other codes relevant to this 
+qualification. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+5 
+ 
+Paper 2: Telescopic Astronomy (Paper code: 1AS0/02)  
+Written examination: 1 hour and 45 minutes 
+50% of the qualification 
+100 marks 
+Content overview 
+● Topic 9 – Exploring the Moon 
+● Topic 10 – Solar astronomy 
+● Topic 11 – Exploring the Solar System 
+● Topic 12 – Formation of planetary systems 
+● Topic 13 – Exploring starlight 
+● Topic 14 – Stellar evolution 
+● Topic 15 – Our place in the Galaxy 
+● Topic 16 – Cosmology 
+Assessment overview 
+A mixture of different question styles, including multiple-choice questions, short-answer 
+questions, calculations, graphical and extended- open-response questions. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+6 
+2 Subject content and assessment 
+information 
+The subject content sets out the knowledge, understanding and skills relevant to this 
+qualification. Together with the assessment information, it provides the framework within 
+which centres create their programmes of study. 
+Qualification aims and objectives 
+The aims and objectives of this qualification are to enable students to:  
+● understand the structures of the Earth, Moon and Sun; and how their interactions produce 
+many of the astronomical cycles and phenomena of our natural world 
+● understand the Earth’s place within the Solar System and the universe; and the forces, 
+which have shaped both our own, and other planetary systems 
+● understand the forces governing the life cycles of stars; and demonstrate a knowledge of 
+how stars appear in the night sky 
+● understand how astronomers discovered the Earth’s position within our galaxy and the 
+Universe; and understand current theories for the evolution of the Universe 
+● understand the challenges inherent in making observations in astronomy; and the ways in 
+which technology has aimed to overcome them 
+● apply observational, enquiry and problem-solving skills, through the use of information 
+from aided and unaided astronomical observations; and use these skills to evaluate 
+observations and methodologies 
+● develop an informed interest in current astronomical investigations, discoveries and space 
+exploration 
+● acquire knowledge and understanding of astronomy theory and practice, and the skills 
+needed to investigate a wide range of astronomical contexts 
+● understand that the study and practice of astronomy are interdependent and iterative 
+activities, and appreciate the links between astronomy and other branches of science 
+● develop an awareness that the study and practice of astronomy are subject to limitations 
+by e.g. economic, technical, ethical and cultural influences 
+● progress to further and higher education courses in the fields of astronomy or physics. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+7 
+Working scientifically 
+The GCSE in Astronomy requires students to develop the skills, knowledge and 
+understanding of working scientifically. Working scientifically will be assessed through the 
+examinations. 
+1 Development of scientific thinking 
+a understand how scientific methods and theories develop over time 
+b use a variety of models – such as representational, spatial, descriptive, computational 
+and mathematical – to solve problems, make predictions and develop scientific 
+explanations, and understand familiar and unfamiliar facts and observations 
+c appreciate the power and limitations of theories in astronomy 
+d explain how every day and technological applications of science are used in 
+astronomy; evaluate associated personal, social and economic implications; and make 
+decisions based on the evaluation of evidence and arguments 
+e recognise the importance of peer review of results and of communicating results to a 
+range of audiences. 
+2 Observational skills and strategies 
+a use scientific theories and explanations to develop hypotheses 
+b plan observations to test hypotheses, check data or explore phenomena 
+c apply knowledge of a range of techniques, instruments and apparatus to select those 
+appropriate to the observation 
+d understand how to carry out observations appropriately with due regard to the correct 
+manipulation of equipment, the accuracy of measurements, and health and safety 
+considerations 
+e understand how to make and record observations and measurements using a range of 
+apparatus and methods 
+f evaluate methods and suggest possible improvements and further iterations. 
+3 Analysis and evaluation 
+Apply the cycle of collecting, presenting and analysing data, including: 
+a presenting observations and other data using appropriate methods 
+b translating data from one form to another 
+c carrying out and representing mathematical and statistical analyses 
+d representing distributions of results and making estimations of uncertainty 
+e interpreting observations and other data (presented in verbal, diagrammatic, 
+graphical, symbolic or numerical form), including identifying patterns and trends, 
+making inferences and drawing conclusions 
+f presenting reasoned explanations including relating observations and data to 
+hypotheses 
+g being objective, evaluating data in terms of accuracy, precision, repeatability and 
+reproducibility, and identifying potential sources of random and systematic error 
+h communicating the scientific rationale for observations, methods used, findings, and 
+reasoned conclusions through paper-based and electronic reports, and presentations 
+using verbal, diagrammatic, graphical, numerical and symbolic forms. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+8 
+4 Scientific vocabulary, quantities, units, symbols and nomenclature 
+a use scientific vocabulary, terminology and definitions 
+b recognise the importance of scientific quantities and understand how they are 
+determined 
+c use SI units and related derived units (e.g. kg, km, l.y., pc, AU) 
+d use prefixes and powers of ten for orders of magnitude (e.g. tera, giga, mega, kilo, 
+centi, milli, micro and nano)  
+e interconvert units 
+f use an appropriate number of significant figures in calculation. 
+Mathematics 
+Maths skills will be assessed in the examinations. Those skills that can be assessed in 
+relation to a specification point are referenced in the maths column, next to the specification 
+point. Please see Appendix 1: Mathematical skills for full details of each maths skill.  
+At the end of most topics in this specification, there are details relating to the ‘Use of 
+mathematics’ which give the astronomy-specific mathematic skills that are found in each 
+topic of content in the document Astronomy GCSE subject content, published by the 
+Department for Education (DfE) in March 2016. The reference in brackets after each 
+statement refers to the mathematical skills from Appendix 1.  
+Please see Appendix 3: Calculators for information on the use of calculators in the 
+assessments of this qualification.  
+Equations 
+Students are not required to recall any equations. The equations that students are expected 
+to be able to use are listed in the specification points and in Appendix 2: Formulae and data 
+sheet. The formulae and data sheet for each examination are given in the examination 
+paper. 
+Content 
+The specification points all begin with either ‘know’, ‘understand’ or ‘be able to’. These 
+command words indicate the depth to which the content must be studied. 
+A ‘know’ statement is limited to recalling the facts in the specification content. An 
+‘understand’ statement includes all aspects of ‘know’ and additional depth to reach an 
+understanding of the content. A ‘be able to’ statement includes all aspects of ‘know’ and 
+‘understand’, as well as application of skills for the specification content. 
+For example specification statement 1.4 states ‘Be able to use the latitude and longitude  
+co-ordinate system’. This means that students can be expected to use the longitude and 
+latitude system in questions relating to positions on Earth. They could also be asked to 
+explain how longitude and latitude are different to each other and also to recall a definition 
+for longitude and latitude. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+9 
+Paper 1: Naked-eye Astronomy 
+Topic 1 – Planet Earth 
+Students will gain an understanding of the planet Earth and its internal structure. They will 
+learn about the major divisions on Earth’s surface and how its atmosphere affects 
+observations. 
+ 
+Students should:  Maths skills 
+1.1 Know that the shape of the Earth is an oblate spheroid  
+1.2 Be able to use information about the mean diameter of the 
+Earth (13 000 km) 
+2a, 2b 
+1.3 Understand the Earth’s major internal divisions and their 
+features: 
+a  crust 
+b  mantle 
+c  outer core 
+d  inner core 
+ 1.4 Be able to use the latitude and longitude co-ordinate system 5a, 5d 
+1.5 Be able to use the major divisions of the Earth’s surface as 
+astronomical reference points, including: 
+a  Equator 
+b  Tropic of Cancer 
+c  Tropic of Capricorn 
+d  Arctic Circle 
+e  Antarctic Circle 
+f  Prime Meridian 
+g  North Pole 
+h  South Pole 
+5a, 5d 
+1.6 Understand the effects of the Earth’s atmosphere on 
+astronomical observations, including sky colour, skyglow (light 
+pollution) and ‘twinkling’ (seeing) 
+ 
+Use of mathematics 
+● use angular measures in degrees (5a) 
+● use ideas of latitude and longitude (5d) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+10 
+Topic 2 – The lunar disc 
+Students will gain an understanding of the Moon and its surface formations, and be able to 
+identify some of the main features on its surface. Students will study the rotation and 
+revolution of the Moon and the effect of libration. 
+ 
+Students should:  Maths skills 
+2.1 Know the shape of the Moon  
+2.2 Be able to use information about the mean diameter of the 
+Moon (3500 km) 
+1a, 1b 
+2f 
+2.3 Be able to recognise the appearance of the principal  
+naked-eye lunar surface formations, including:  
+a  craters 
+b  maria 
+c  terrae 
+d  mountains 
+e  valleys 
+ 
+2.4 Understand the structure and origin of the principal naked-eye 
+lunar surface formations, including: 
+a  craters 
+b  maria 
+c  terrae 
+d  mountains 
+e  valleys 
+ 
+2.5 Be able to identify the following features on the lunar disc: 
+a  Sea of Tranquility 
+b  Ocean of Storms 
+c  Sea of Crises 
+d  Tycho 
+e  Copernicus 
+f  Kepler 
+g  Apennine mountain range 
+ 
+2.6 Be able to use the rotation and revolution (orbital) periods of 
+the Moon 
+1a 
+2.7 Understand the synchronous nature of the Moon’s orbit  
+2.8 Understand the causes of lunar libration and its effect on the 
+visibility of the lunar disc 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+11 
+Use of mathematics 
+● use ratios to determine the relative sizes of the Moon, Earth and Sun (1c) 
+● translate information between graphical and numerical forms, for example when working 
+with data on shadow lengths and directions from shadow sticks and sundials or on  
+tides (4a) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+12 
+Topic 3 – The Earth-Moon-Sun system 
+Students will gain an understanding of the relationship between the Earth, Moon and Sun 
+and how they affect each other. They will also study tides, precession and eclipses. 
+ 
+Students should:  Maths skills 
+3.1 Be able to use the relative sizes of the Earth, Moon and Sun 1c 
+2f 
+3.2 Be able to use the relative distances between the Earth, Moon 
+and Sun 
+1b, 1c 
+2f 
+3.3 Understand how Eratosthenes and Aristarchus used 
+observations of the Moon and Sun to determine successively: 
+a  diameter of the Earth 
+b  diameter of the Moon 
+c  distance to the Moon 
+d  distance to the Sun 
+e  diameter of the Sun 
+1b, 1c 
+3a 
+5a, 5b, 5c 
+3.4 Be able to use information about the mean diameter of the 
+Sun (1.4 × 10
+6 km) 
+1b, 1c 
+3.5 Understand the relative effects of the Sun and Moon in 
+producing high and low, spring and neap tides 
+ 
+3.6 Understand how the gradual precession of the Earth’s axis 
+affects the appearance of the Sun, Moon and stars, when 
+observed from Earth, and its use in archaeoastronomy 
+ 
+3.7 Be able to use data relating to the rate of precession of the 
+Earth’s axis 
+1a 
+5a, 5b, 5d 
+3.8 Understand the appearance of the Sun during partial, total and 
+annular solar eclipses, including the terms first, second, third 
+and fourth umbral contact 
+ 
+3.9 Understand the appearance of the Moon during partial and 
+total lunar eclipses, including the terms first, second, third and 
+fourth umbral contact 
+ 
+3.10 Understand the causes of solar and lunar eclipses  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+13 
+Use of mathematics 
+● substitute numerical values into algebraic equations using appropriate physical quantities, 
+for example in reproducing Eratosthenes’ calculations or when using the Equation of Time 
+(3c) 
+● use angular measures in degrees (5a) 
+● recognise and use expressions in standard form, for example when considering the actual 
+size and relative scale of the Earth-Moon-Sun system (1b) 
+● use ratios to determine the relative sizes of the Moon, Earth and Sun (1c) 
+● use specialist units such as the AU (2c) 
+● use degrees, minutes and seconds of arc (5b) 
+● substitute numerical values into algebraic equations using appropriate physical quantities, 
+for example in reproducing Eratosthenes’ calculations (3c) 
+● change the subject of an equation (3b) 
+● substitute numerical values into algebraic equations using appropriate physical  
+quantities (3c) 
+● solve simple algebraic equations (3d) 
+● use angular measure in degrees when using the declination system (5a) 
+● use degrees, minutes and seconds of arc when working with the celestial and horizon 
+coordinate systems (5b) 
+● translate information between graphical and numerical forms, e.g. when working with data 
+on shadow lengths and directions from shadow sticks and sundials or on tides (4a) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+14 
+Topic 4 – Time and the Earth-Moon-Sun cycles 
+Students will gain an understanding of astronomical definitions and measurements of time. 
+They will study synodic and sidereal time, solstices and equinoxes and the need for time 
+zones. 
+ 
+Students should:  Maths skills 
+4.1 Understand the difference between sidereal and synodic 
+(solar) days 
+ 
+4.2 Understand the role of the Sun in determining Apparent Solar 
+Time (AST) 
+ 
+4.3 Understand the role of the Mean Sun in determining Mean 
+Solar Time (MST) and Local Mean Time (LMT) 
+ 
+4.4 Be able to use: 
+ the Equation of Time = Apparent Solar Time (AST) − Mean 
+Solar Time (MST) 
+3b, 3c, 3d 
+4.5 Understand the annual variation of the Equation of Time 4a 
+4.6 Understand the causes of the annual variation of the 
+Equation of Time 
+4a 
+4.7 Understand how to determine the time of local noon using 
+shadows, including use of a shadow stick 
+1a 
+3b 
+4a, 4b 
+4.8 Understand the structure and use of sundials  
+4.9 Understand the lunar phase cycle  
+4.10 Understand the difference between sidereal and synodic 
+(solar) months 
+ 
+4.11 Understand the annual variation in times of sunrise and sunset 4a 
+4.12 Understand the astronomical significance of equinoxes and 
+solstices 
+ 
+4.13 Understand the variation in the Sun’s apparent motion during 
+the year, particularly at the equinoxes and solstices 
+ 
+4.14 Understand the relationship between sidereal and synodic 
+(solar) time 
+ 
+4.15 Understand the difference in local time for observers at 
+different longitudes 
+ 
+4.16 Understand the use of time zones  
+4.17 Be able to use data related to time zones 1a, 1c 
+5a, 5b 
+4.18 Know that mean time at any point along the Prime Meridian is 
+defined as Greenwich Mean Time (GMT), which is the same as 
+Universal Time (UT) 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+15 
+ 
+Students should:  Maths skills 
+4.19 Be able to use shadow-stick data and the Equation of Time to 
+determine longitude 
+1a 
+3b 
+4a 
+5a 
+4.20 Understand the principles of astronomical methods for the 
+determination of longitude, including the lunar distance 
+method 
+ 
+4.21 Understand the principle of the horological method for the 
+determination of longitude (Harrison’s marine chronometer)  
+ (knowledge of internal working of chronometers not required) 
+ 
+Use of mathematics 
+● substitute numerical values into algebraic equations using appropriate physical quantities, 
+for example in reproducing Eratosthenes’ calculations or when using the Equation of Time 
+(3c) 
+● use angular measures in degrees (5a) 
+● use ideas of latitude and longitude (5d) 
+● translate information between graphical and numerical forms, for example when working 
+with data on shadow lengths and directions from shadow sticks and sundials or on  
+tides (4a) 
+● change the subject of an equation, for example the Equation of Time (3b) 
+● solve simple algebraic equations (3d) 
+● convert between hours, minutes and seconds, and decimal fractions of hours (5b) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+16 
+Topic 5 – Solar System observation 
+Students will gain an understanding of how to observe the Sun and planets, including the 
+locations of the planets in relation to the Earth and the Sun and safely observing the Sun. 
+ 
+Students should:  Maths skills 
+5.1 Understand how to use pinhole projection to observe the Sun 
+safely 
+ 
+5.2 Understand the observed motion of the Sun follows an annual 
+path called the ecliptic 
+ 
+5.3 Understand the changing position of the planets in the night 
+sky 
+4a 
+5.4 Understand the observed motion of the planets takes place 
+within a narrow Zodiacal Band 
+4a 
+5.5 Understand the observed retrograde motion of planets 4a 
+5.6 Understand the terms First Point of Aries and First Point of 
+Libra 
+ 
+5.7 Understand the appearance and cause of meteors and meteor 
+showers, including determination of the radiant 
+ 
+5.8 Understand the terms: 
+a  conjunction (superior and inferior) 
+b  opposition 
+c  elongation 
+d  transit  
+e  occultation 
+2c 
+4a 
+5a 
+Use of mathematics 
+● use specialist units such as the AU (2c) 
+● translate information between graphical and numeric form (4a) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+17 
+Topic 6 – Celestial observation 
+Students will gain an understanding of how to observe a variety of naked-eye astronomical 
+phenomena. They will study how to plan their observations to be at the best time and 
+location, taking into account effects such as weather and light pollution. 
+ 
+Students should:  Maths skills 
+6.1 Be able to recognise the following astronomical phenomena 
+visible to the naked eye, including: 
+a  Sun 
+b  Moon 
+c  stars (including double stars, constellations and asterisms) 
+d  star clusters 
+e  galaxies and nebulae 
+f  planets 
+g  comets 
+h  meteors 
+i  aurorae 
+j  supernovae 
+and artificial objects, including: 
+k  artificial satellites 
+l  aircraft 
+ 
+6.2 Be able to recognise and draw the following constellations and 
+asterisms, including their most prominent stars: 
+a  Cassiopeia 
+b  Cygnus 
+c  Orion 
+d  Plough 
+e  Southern Cross 
+f  Summer Triangle 
+g Square of Pegasus 
+ 
+6.3 Understand the use of asterisms as pointers to locate specific 
+objects in the night sky, including: 
+a  Arcturus and Polaris from the Plough 
+b  Sirius, Aldebaran and the Pleiades from Orion’s Belt 
+c  Fomalhaut and the Andromeda galaxy from Square of 
+Pegasus 
+ 
+6.4 Understand why there is a range of constellation, asterism and 
+star names among different cultures 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+18 
+ 
+Students should:  Maths skills 
+6.5 Be able to use information from star charts, planispheres, 
+computer programs or ‘apps’ to identify objects in the night 
+sky 
+ 
+6.6 Understand the causes and effects of light pollution on 
+observations of the night sky 
+ 
+6.7 Understand the meaning of the terms: 
+a  celestial sphere 
+b  celestial poles 
+c  celestial equator 
+5a 
+6.8 Understand the use of the equatorial coordinate system 
+(right ascension and declination) 
+5a, 5b, 5c 
+6.9 Understand the use of the horizon coordinate system 
+(altitude and azimuth) 
+5a, 5b, 5c 
+6.10 Understand how the observer’s latitude can be used to link the 
+equatorial and horizon coordinates of an object for the 
+observer’s meridian 
+1a 
+4a 
+5a, 5b, 5c 
+6.11 Understand how the observer’s meridian defines local sidereal 
+time and an object’s hour angle 
+1a 
+4a 
+5a, 5b, 5c 
+6.12 Be able to use information on equatorial and horizon 
+coordinates to determine: 
+a  the best time to observe a particular celestial object 
+b the best object(s) to observe at a particular time 
+1a 
+4a 
+5a, 5b, 5c 
+6.13 Understand, in relation to astronomical observations, the 
+terms: 
+a  cardinal points 
+b  culmination 
+c  meridian 
+d  zenith 
+e  circumpolarity 
+ 
+6.14 Understand the diurnal motion of the sky due to the Earth’s 
+rotation 
+4a 
+5a 
+6.15 Be able to use a star’s declination to determine whether the 
+star will be circumpolar from an observer’s latitude 
+4a 
+5a, 5b 
+6.16 Understand the apparent motion of circumpolar stars, 
+including upper transit (culmination) and lower transit 
+4a 
+5a, 5b 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+19 
+ 
+Students should:  Maths skills 
+6.17 Be able to use information about rising and setting times of 
+stars to predict their approximate position in the sky 
+1c 
+4a 
+6.18 Be able to find the latitude of an observer using Polaris 5a, 5b, 5c 
+6.19 Understand naked eye techniques such as dark adaptation and 
+averted vision 
+ 
+6.20 Understand the factors affecting visibility, including: 
+a  rising and setting  
+b  seeing conditions 
+c  weather conditions 
+d  landscape 
+ 
+6.21 Understand the appearance of the Milky Way from Earth as 
+seen with the naked eye 
+ 
+Use of mathematics 
+● use angular measures in degrees (5a) 
+● use ideas of latitude and longitude (5d) 
+● change the subject of an equation (3b) 
+● substitute numerical values into algebraic equations using appropriate physical  
+quantities (3c) 
+● solve simple algebraic equations (3d) 
+● translate information between graphical and numeric form such as on the 
+Hertzsprung-Russell diagram (4a) 
+● use angular measure in degrees when using the declination system (5a) 
+● use degrees, minutes and seconds of arc when working with the celestial and horizon 
+coordinate systems (5b) 
+● use the concept of subtended angle when working with the celestial and horizon 
+coordinate systems (5c) 
+● use concepts of 3D motion, rotation and coordinates on a sphere when working with the 
+celestial and horizon coordinate systems (5d) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+20 
+Topic 7 – Early models of the Solar System 
+Students will gain an understanding of how ancient civilisations observed the Solar System. 
+They will also study how early astronomers modelled the Solar System. 
+ 
+Students should:  Maths skills 
+7.1 Understand the use of detailed observations of solar and lunar 
+cycles by ancient civilisations around the world for: 
+a  agricultural systems 
+b  religious systems 
+c  time and calendar systems 
+d  alignments of ancient monuments 
+ 
+7.2 Understand that the current celestial alignment of ancient 
+monuments differs from their original celestial alignment due 
+to the precession of the Earth’s axis 
+ 
+7.3 Understand early geocentric models of the Solar System   
+7.4 Understand the advantage of the addition of epicycles, as 
+described by Ptolemy 
+ 
+7.5 Be able to use information about the scale of the Solar System 2c, 2f 
+7.6 Be able to use the astronomical unit (1 AU = 1.5 × 108 km), 
+light year (l.y.) and parsec (pc) 
+2c 
+Use of mathematics 
+● use specialist units: AU, l.y. and pc when considering the size of Solar System and the 
+distances to other stars (2c) 
+● translate information between graphical and numeric form (4a) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+21 
+Topic 8 – Planetary motion and gravity 
+Students will gain an understanding of the motion of the planets around the Sun and the role 
+of gravity. They will study Kepler’s laws of planetary motion and Newton’s law of universal 
+gravitation. 
+ 
+Students should:  Maths skills 
+8.1 Understand the contribution of the observational work of 
+Brahe in the transition from a geocentric to a heliocentric 
+model of the Solar System 
+ 
+8.2 Understand the contribution of the mathematical modelling of 
+Copernicus and Kepler in the transition from a geocentric to a 
+heliocentric model of the Solar System 
+ 
+8.3 Understand the role of gravity in creating stable 
+elliptical orbits 
+ 
+8.4 Understand Kepler's laws of planetary motion 4a 
+5a 
+8.5 Understand the terms ‘aphelion’ and ‘perihelion’ (solar orbits), 
+‘apogee’ and ‘perigee’ (Earth orbits) for an elliptical orbit 
+4a 
+5a 
+8.6 Be able to use Kepler’s third law in the form: 
+  
+constanta3
+2
+=
+r
+T
+ 
+ where T is the orbital period of an orbiting body and r is the 
+mean radius of its orbit 
+1e 
+3b, 3c, 3d 
+4b 
+8.7 Understand that the constant in Kepler’s third law depends 
+inversely on the mass of the central body 
+1c, 1e 
+3b, 3c, 3d 
+8.8 Know that Newton was able to explain Kepler’s laws using his 
+law of universal gravitation 
+ 
+8.9 Understand that the gravitational force between two bodies is 
+proportional to the product of their masses and inversely 
+proportional to the square of their separation 
+ (a lgebraic expression of Newton’s law of universal gravitation 
+not required) 
+1c, 1e 
+Use of mathematics 
+● use specialist units: AU, l.y. and pc when considering the size of Solar System and the 
+distances to other stars (2c) 
+● use ratios and inverse square relationships when using Newton’s law of universal 
+gravitation (1c) 
+● solve algebraic equations such as Kepler’s third law of planetary motion (3d) 
+● translate information between graphical and numeric form (4a) 
+● plot two variables from experimental or other data (4b) 
+● use a calculator to determine squares, square roots and cubes of positive numbers when 
+using Kepler’s third law of planetary motion (1e) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+22 
+Assessment information 
+● First assessment: May/June 2019. 
+● The assessment is 1 hour and 45 minutes. 
+● The assessment consists of ten questions. 
+● The assessment is out of 100 marks. 
+● Students must answer all questions. 
+● The paper will include multiple-choice, short-answer questions, calculations, graphical and 
+extended-open-response questions. 
+● Calculators may be used in the examination. Information regarding the use of calculators 
+during the examinations for this qualification can be found in Appendix 3: Calculators. 
+Synoptic assessment 
+Synoptic assessment requires students to work across different parts of a qualification and to 
+show their accumulated knowledge and understanding of a topic or subject area. Synoptic 
+assessment enables students to show their ability to combine their skills, knowledge and 
+understanding with breadth and depth of the subject. 
+This paper assesses synopticity. 
+Sample assessment materials 
+A sample paper and mark scheme for this paper can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in Astronomy Sample Assessment Materials (SAMs) document. 
+Please see Appendix 4 for a description of what the command words used in the SAMs mean.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+23 
+Paper 2: Telescopic Astronomy 
+Topic 9 – Exploring the Moon 
+Students will gain an understanding of the Moon, its internal structure and features on the 
+far side. They will study how the constant drive to improve the accuracy, detail and range of 
+observations has provided a context for the exploration of the Moon. 
+ 
+Students should:  Maths skills 
+9.1 Understand the Moon’s major internal divisions in comparison 
+with those of the Earth 
+ 
+9.2 Understand the major differences between the appearance of 
+the Moon’s near and far sides 
+ 
+9.3 Understand how information has been gathered about the 
+Moon's far side 
+ 
+9.4 Understand that a spacecraft traveling to the Moon must reach 
+the Earth’s escape velocity, the energy requirements of which 
+can be met only by the use of rockets 
+ 
+9.5 Understand the Giant Impact Hypothesis and alternative 
+theories of the Moon’s origin, including Capture Theory and 
+Co-accretion Theory 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+24 
+Topic 10 – Solar astronomy 
+Students will gain an understanding of the structure of the Sun, its energy production 
+process and the solar wind. Students will also use sunspot data to determine information 
+about the Sun’s rotation period and the solar cycle. 
+ 
+Students should:  Maths skills 
+10.1 Understand methods of observing the Sun safely, including:  
+a telescopic projection 
+b H- alpha filter 
+ 
+10.2 Know the location and relative temperatures of the Sun’s 
+internal divisions, including:  
+a  core 
+b  radiative zone 
+c  convective zone  
+d  photosphere 
+ 10.3 Understand the role of the Sun’s internal divisions in terms of 
+energy production and transfer 
+ 
+10.4 Understand the principal nuclear fusion process in the Sun 
+(the proton-proton cycle) 
+ 
+10.5 Know the location, temperature and relative density of 
+components of the solar atmosphere, including: 
+a  chromosphere  
+b  corona 
+ 
+10.6 Understand the structure, origin and evolution of sunspots  
+10.7 Be able to use sunspot data to determine the mean solar 
+rotation period 
+1c 
+2b 
+4a 
+5a, 5b 
+10.8 Be able to use sunspot data relating to the solar cycle 4a 
+10.9 Understand the different appearance of the Sun when 
+observed using radiation from the different regions of the 
+electromagnetic spectrum 
+ 
+10.10 Understand the nature, composition and origin of the solar 
+wind 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+25 
+ 
+Students should:  Maths skills 
+10.11 Understand the principal effects of the solar wind, including: 
+a  aurorae 
+b  cometary tails 
+c  geomagnetic storms  
+d  the effects on satellites, aircraft travel and manned 
+missions 
+ 
+10.12 Know the shape and position of the Earth’s magnetosphere 
+including the Van Allen Belts 
+ 
+Use of mathematics 
+● use angular measures in degrees (5a) 
+● translate information between graphical and numerical forms, for example when working 
+with data on shadow lengths and directions from shadow sticks and sundials or on  
+tides (4a) 
+● solve simple algebraic equations (3d) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+26 
+Topic 11 – Exploring the Solar System 
+Students will investigate the main bodies in the Solar System and their characteristics. They 
+will gain understanding that the constant drive to improve the accuracy, detail and range of 
+observations has provided a context for the invention of the telescope, the development of 
+the space telescope and probes to the outer reaches of our Solar System and has provided a 
+context for the manned exploration of the Moon. 
+ 
+Students should:  Maths skills 
+11.1 Be able to use data about the names and relative locations of 
+bodies in the Solar System, including:  
+a planets 
+b  dwarf planets 
+c  Small Solar System Objects (SSSOs): asteroids, meteoroids 
+and comets 
+2a, 2c 
+4b 
+11.2 Understand the structure of comets (nucleus, coma and tails)  
+11.3 Understand the orbits of short-period comets and their likely 
+origin in the Kuiper Belt 
+ 
+11.4 Understand the orbits of long-period comets and their likely 
+origin in the Oort Cloud 
+ 
+11.5 Understand the location and nature of the Kuiper Belt, Oort 
+Cloud and the heliosphere 
+ 
+11.6 Understand the following principal characteristics of the 
+planets: 
+a relative size  
+b  relative mass 
+c  surface temperature 
+d  atmospheric composition 
+e  presence of satellites 
+f  presence of ring systems 
+ 
+11.7 Understand the main theories for the formation and current 
+position of the gas giant planets in our Solar System 
+ 
+11.8 Be able to use information about the size of the Solar System 2c 
+11.9 Be able to use the astronomical unit (1 AU = 1.5 × 108 km), 
+light year (l.y.) and parsec (pc) 
+2c 
+11.10 Understand the origin and structure of meteoroids and 
+meteorites 
+ 
+11.11 Know that most bodies in the Solar System orbit the Sun in, or 
+close to, a plane called the ecliptic 
+ 
+11.12 Understand the use of transits of Venus (as proposed by 
+Halley) to determine the size of the astronomical unit and thus 
+the absolute size of the Solar System 
+5a, 5b 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+27 
+ 
+Students should:  Maths skills 
+11.13 Understand the main theories for the origin of water on Earth  
+11.14 Know that the human eye is limited in astronomical 
+observations by its small aperture and limited sensitivity in 
+low light 
+ 
+11.15 Understand how the objective element of a telescope captures 
+and focuses light so that the image can be magnified by an 
+eyepiece 
+ 
+11.16 Know that convex (converging) lenses and concave 
+(converging) mirrors can be used to collect and focus light 
+from astronomical objects 
+ 
+11.17 Understand how simple telescopes can be made by combining 
+an objective (lens or mirror) with an eyepiece 
+ 
+11.18 Understand the basic design of the following in terms of their 
+key elements: 
+a  Galilean refracting telescope 
+b  Keplerian refracting telescope 
+c  Newtonian reflecting telescope  
+d  Cassegrain reflecting telescope 
+(detailed ray diagrams not required) 
+ 
+11.19 Understand that the ‘light grasp’ of a telescope is directly 
+proportional to the area of the objective element and thus the 
+square of the diameter of the objective element 
+1c, 1e 
+11.20 Know that the aperture of a telescope is related to the 
+diameter of the objective element  
+ 
+11.21 Know that the field of view is the circle of sky visible through 
+the eyepiece, measured in degrees or arcmin 
+5a, 5b 
+11.22 Understand the resolution of a telescope is: 
+a proportional to the diameter of the objective element 
+b reduced by observing at a longer wavelength 
+1c 
+5b, 5c 
+11.23 Be able to use the formula for the magnification of a 
+telescope: 
+ 
+f
+f
+e
+oionmagnificat =  
+ where fo is the focal length of the objective element and fe is 
+the focal length of the eyepiece 
+3a, 3b, 3c, 3d 
+11.24 Understand the importance of Galileo's early telescopic 
+observations in establishing a heliocentric (Sun-centred) 
+model of the Solar System 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+28 
+ 
+Students should:  Maths skills 
+11.25 Understand the advantages of reflecting telescopes compared 
+to refracting telescopes, in terms of: 
+a  chromatic aberration 
+b  very long focal lengths  
+c  using large aperture objectives  
+d  use of multiple mirrors 
+ 
+11.26 Understand the advantages and disadvantages of the major 
+types of space probe: 
+a  fly-by 
+b  orbiter 
+c  impactor 
+d  lander 
+ 
+11.27 Know an example of each type of space probe, including target 
+body and major discoveries, including:  
+a  fly-by – New Horizons (Outer Solar System) 
+b  orbiter – Juno (Jupiter) or Dawn (asteroids Vesta and 
+Ceres) 
+c  impactor – Deep Impact (comet Tempel 1) 
+d  lander – Philae (comet 67P/Churyumov–Gerasimenko) 
+ 
+11.28 Understand that a space probe must reach the Earth’s escape 
+velocity, the energy requirements of which can be met only by 
+the use of rockets 
+ 
+11.29 Understand the advantages and disadvantages of direct 
+observation via manned missions 
+ 
+11.30 Understand the main features of the Apollo programme to land 
+astronauts on the Moon 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+29 
+Use of mathematics 
+● use angular measures in degrees (5a) 
+● use specialist units: AU, l.y. and pc when considering the size of Solar System and the 
+distances to other stars (2c) 
+● plot two variables from experimental or other data (4b) 
+● determine the slope of a linear graph such as when determining Hubble’s constant (4c) 
+● change the subject of an equation such as when using the equation for telescopic 
+magnification (3b) 
+● substitute numerical values into algebraic equations using appropriate physical  
+quantities (3c) 
+● solve simple algebraic equations (3d) 
+● translate information between graphical and numeric form (4a) 
+● use ratios and inverse square relationships such as when calculating telescopic 
+magnification and light grasp (1c) 
+● use degrees, minutes and seconds of arc such as when considering telescopic resolution 
+(5b) 
+● use the concept of subtended angle (5c) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+30 
+Topic 12 – Formation of planetary systems 
+Students will gain an understanding of how the interaction of gravitational and tidal forces 
+led to the formation of our Solar System. They will use this information to study exoplanets 
+and also the possibility of life existing elsewhere. 
+ 
+Students should:  Maths skills 
+12.1 Be able to identify the operation of each of the following in our 
+Solar System: 
+a gravitational attraction producing regular motion, including 
+the orbits of planets and moons 
+b tidal gravitational forces producing effects, including ring 
+systems, asteroid belts and internal heating 
+c gravitational interactions of multiple bodies producing 
+effects such as gradual shifts in orbits, chaotic motion, 
+resonances and the significance of Lagrangian Points 
+(detailed mathematical descriptions not required) 
+d accidental collisions causing impact craters, changes to 
+orbital motions or planetary orientations 
+e solar wind affecting comets, planetary atmospheres and the 
+heliosphere 
+ 
+12.2 Be able to identify the operation of each of the following 
+interactions in the formation of planets and moons: 
+a  the interaction between tidal gravitational and elastic forces 
+to determine whether a body is broken apart (Roche Limit) 
+b  the interaction between attractive gravitational and elastic 
+forces in determining a body’s spherical or irregular shape 
+c  the interaction between gravitational and thermal factors in 
+determining the presence of an atmosphere 
+ 
+12.3 Understand the main theories for the formation of gas giant 
+planets in planetary systems 
+ 
+12.4 Understand the current methods for discovering systems of 
+exoplanets, including transit method, astrometry and radial 
+velocity measurements 
+ 
+12.5 Understand the requirements for life and the possibility of life-
+forms existing elsewhere, including: 
+a  on Titan 
+b  on Europa 
+c  on Enceladus 
+d  outside our Solar System 
+ 
+12.6 Understand the relevance of the Goldilocks (Habitable) Zones  
+12.7 Understand how factors in the Drake equation can be used to 
+allow us to estimate the number of civilisations in our Galaxy 
+2a, 2e 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+31 
+ 
+Students should:  Maths skills 
+12.8 Understand the search for extra-terrestrial intelligence, by 
+receiving radio waves (SETI), including the benefits and 
+dangers of discovering extra-terrestrial life 
+ 
+Use of mathematics 
+● solve simple problems using numerical probability (2e) 
+● understand the principles of calculations involving light years (2d) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+32 
+Topic 13 – Exploring starlight 
+Students will gain an understanding of how stars are observed and how we can obtain 
+information about them from just observing the light they emit. They will study the evolution 
+of stars and different types of stars. Students will also find out why we observe stars in 
+different parts of the electromagnetic spectrum and where telescopes are located to enable 
+better observations to be made. 
+ 
+Students should:  Maths skills 
+13.1 Understand the astronomical magnitude scale and how 
+apparent magnitude relates to the brightness of stars as 
+viewed from Earth 
+1a, 1c 
+13.2 Understand the term absolute magnitude 1c 
+13.3 Be able to use the distance modulus formula to determine the 
+absolute (M) or apparent magnitude (m) of a star, given the 
+distance to the star (d): 
+ dm M log 5 5− + =  
+ where d is the distance in parsec 
+1a, 1d 
+2c 
+3b, 3c, 3d 
+13.4 Understand what information can be obtained from a stellar 
+spectrum, including  
+a  chemical composition 
+b  temperature  
+c  radial velocity 
+ 
+13.5 Understand how stars can be classified according to spectral 
+type 
+ 
+13.6 Understand how a star’s colour and spectral type are related 
+to its surface temperature 
+ 
+13.7 Be able to sketch a simple Hertzsprung-Russell diagram, 
+including labelled axes and indicate the positions of the 
+following: 
+a  main sequence stars 
+b  the Sun 
+c  red and blue giant stars 
+d  white dwarf stars 
+e  supergiant stars 
+ 
+13.8 Understand how a star’s life cycle relates to its position on the 
+Hertzsprung-Russell diagram, for stars similar in mass to the 
+Sun and those with masses that are much greater 
+ 
+13.9 Understand the inverse square relationship between distance 
+and brightness/intensity 
+1c, 1e 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+33 
+ 
+Students should:  Maths skills 
+13.10 Understand that an angle of one degree (°)comprises 
+60 minutes of arc (arcmin) (60’) and that each arcminute is 
+comprised of 60 seconds of arc (arcsec) (60")  
+5b 
+13.11 Understand the term parsec (pc) 2c, 2d 
+13.12 Be able to determine astronomical distances using heliocentric 
+parallax 
+1a, 1c 
+2c 
+13.13 Understand how to use a Hertzsprung-Russell diagram to 
+determine distances to stars 
+4a 
+13.14 Understand the light curves of the following variable stars:  
+a  short/long period 
+b  eclipsing binary 
+c  Cepheid 
+d novae and supernovae 
+ 
+13.15 Understand the causes of variability in the light curve of 
+eclipsing binary stars 
+ 
+13.16 Understand how Cepheid variables can be used to determine 
+distances 
+4a 
+13.17 Understand the structure of gravitationally bound stellar 
+groupings such as binary stars and clusters 
+ 
+13.18 Understand how the period of an eclipsing binary star can be 
+deduced from its light curve 
+4a 
+13.19 Be able to use star trail photographs to determine the length 
+of the sidereal day  
+1c 
+5a, 5b, 5c 
+13.20 Know that most modern astronomical observations are 
+recorded using digital sensors that convert light into electrical 
+signals, which can then be processed and stored as data files 
+ 
+13.21 Understand how astronomers obtain and study the patterns of 
+spectral lines in the light from astronomical objects 
+ 
+13.22 Know that the Earth’s atmosphere blocks almost all of the 
+radiation of different wavelengths in the electromagnetic 
+spectrum, except visible light and radio waves 
+4a 
+13.23 Know that only optical and radio telescopes should be located 
+at sea level on the Earth’s surface 
+ 
+13.24 Understand how a simple radio telescope operates  
+13.25 Understand why radio telescopes need extremely large 
+apertures in order to maintain a useful resolution 
+1c 
+13.26 Understand how multiple radio telescopes can operate as an 
+aperture synthesis system (array) 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+34 
+ 
+Students should:  Maths skills 
+13.27 Know that radio astronomy has been important in the 
+discovery of quasars, jets from black holes, the structure of 
+the Milky Way and protoplanetary discs 
+ 
+13.28 Understand why some infrared telescopes can operate in 
+high-altitude locations, on the Earth's surface 
+ 
+13.29 Know that infrared astronomy has been important in the 
+discovery of protostars, dust and molecular clouds and 
+hotspots on moons 
+ 
+13.30 Understand the detrimental effect of the Earth's atmosphere 
+on the quality of images formed by telescopes on the Earth’s 
+surface 
+ 
+13.31 Understand why telescopes operating outside the optical and 
+radio ‘windows’ need to be sited above the Earth’s atmosphere 
+ 
+13.32 Understand the advantages and disadvantages of space 
+telescopes and detectors, including orbital observing platforms 
+ 
+13.33 Understand how gamma ray, x-ray and ultraviolet astronomy 
+have been important in the discovery of gamma ray bursts, 
+black hole accretion discs and the corona and chromosphere 
+structure of young stars 
+ 
+13.34 Understand how a telescope alters the appearance of: 
+a  stars 
+b  double stars 
+c  binary stars 
+d  open clusters 
+e  globular clusters 
+f  nebulae 
+g  galaxies 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+35 
+Use of mathematics 
+● change the subject of an equation (3b) 
+● substitute numerical values into algebraic equations using appropriate physical quantities 
+(3c) 
+● solve simple algebraic equations (3d) 
+● translate information between graphical and numeric form such as on the  
+Hertzsprung-Russell diagram (4a) 
+● plot two variables from experimental or other data such as when using the right ascension 
+(RA) and declination (dec) coordinate system or when plotting a stellar light curve or 
+Hertzsprung-Russell diagram (4b) 
+● use specialist units such as l.y, pc and kpc when considering the distances to stars (2c) 
+● understand the principles of calculations involving light years (2d)  
+● use ratios and inverse square relationships such as when considering the decreasing 
+apparent brightness of stars with increasing distance (1c) 
+● use degrees, minutes and seconds of arc when working with the celestial and horizon 
+coordinate systems (5b) 
+● understand and use logarithms (base 10) in equations and as scales and graphs such as 
+when using the distance modulus formula (1d) 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+36 
+Topic 14 – Stellar evolution 
+Students will gain an understanding of how and why stars evolve. They will study how stars 
+form and how they end their life, depending on their size.  
+ 
+Students should:  Maths skills 
+14.1 Be able to use the Messier and New General Catalogue (NGC) 
+in cataloguing nebulae, clusters and galaxies 
+ 
+14.2 Be able to use the Bayer system for naming the brightest stars 
+within a constellation 
+ 
+14.3 Understand the effects of the interaction between radiation 
+pressure and gravity in a main sequence star 
+ 
+14.4 Understand changes to the radiation pressure-gravity balance 
+at different stages in the life cycle of a star with a mass similar 
+to the Sun 
+3a 
+14.5 Understand the balance between electron pressure and gravity 
+in a white dwarf star 
+ 
+14.6 Understand changes to the radiation pressure-gravity balance 
+at different stages in the life cycle of a star with a mass much 
+greater than the Sun 
+3a 
+14.7 Understand the balance between neutron pressure and gravity 
+in a neutron star 
+ 
+14.8 Understand the effect the Chandrasekhar Limit has on the 
+outcome on the final stages of the life cycle of a star 
+ 
+14.9 Understand the principal stages and timescales of stellar 
+evolution for stars of similar mass to the Sun, including: 
+a  emission and absorption nebula 
+b  main sequence star 
+c  planetary nebula 
+d  red giant 
+e  white dwarf 
+f  black dwarf 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+37 
+ 
+Students should:  Maths skills 
+14.10 Understand the principal stages and timescales of stellar 
+evolution for stars of much larger mass than the Sun, 
+including: 
+a) emission and absorption nebula  
+b) main sequence star  
+c) red super giant  
+d) supernova  
+e) neutron star  
+f) black hole 
+ 
+14.11 Understand how astronomers study and gather evidence for 
+the existence of black holes 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+38 
+Topic 15 – Our place in the Galaxy 
+Students will gain an understanding of the Milky Way, our place in it and how it fits into the 
+Universe. They will study different types of galaxies and the main theories for their evolution. 
+ 
+Students should:  Maths skills 
+15.1 Understand the appearance of the Milky Way from Earth as 
+seen with binoculars or a small telescope 
+ 
+15.2 Know the size and shape of our Galaxy and the location of the 
+Sun, dust, sites of star formation and globular clusters 
+ 
+15.3 Understand how 21 cm radio waves, rather than visible light, 
+are used to determine the structure and rotation of our Galaxy 
+ 
+15.4 Know that the group of galaxies gravitationally linked to the 
+Milky Way is called the Local Group 
+ 
+15.5 Know the composition and scale of the Local Group, including 
+its principal components: 
+a  Andromeda Galaxy (M31) 
+b  Large and Small Magellanic Clouds (LMC and SMC) 
+c  Triangulum Galaxy (M33) 
+ 
+15.6 Be able to classify galaxies using the Hubble classification 
+system, including: 
+a  spiral 
+b  barred spiral 
+c  elliptical 
+d  irregular 
+ 15.7 Know how the different types of galaxies were placed by 
+Hubble on his ‘Tuning Fork’ diagram 
+ 
+15.8 Know that the Milky Way is a barred spiral (SBb) type galaxy  
+15.9 Know that some galaxies emit large quantities of radiation in 
+addition to visible light 
+ 
+15.10 Know that an Active Galactic Nucleus (AGN) is powered by 
+matter falling onto a super-massive black hole 
+ 
+15.11 Know types of active galaxies, including: 
+a  Seyfert galaxies 
+b  quasars 
+c  blazars 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+39 
+ 
+Students should:  Maths skills 
+15.12 Know that information about AGNs can be obtained from many 
+regions of the electromagnetic spectrum 
+ 
+15.13 Understand why galaxies are grouped in larger clusters and 
+superclusters 
+ 
+15.14 Understand the main theories for the formation and evolution 
+of galaxies 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+40 
+Topic 16 – Cosmology 
+Students will gain an understanding of redshift and Hubble’s law for distant galaxies. They 
+will also study the evidence and explanation for the expanding Universe. Students will 
+explore dark matter and dark energy and the possible fate of the Universe. 
+ 
+Students should:  Maths skills 
+16.1 Know that observations of galaxies outside the Local Group 
+show that light is shifted to longer wavelengths (redshift) 
+ 
+16.2 Understand that redshift is caused by galaxies receding 
+from us 
+ 
+16.3 Be able to use the formula: 
+  c
+v
+λ
+λ λ=−
+0
+0
+ 
+ where λ is the observed wavelength, λ0 is the emitted 
+wavelength, v is the radial velocity of the source, c is the 
+speed of light 
+1a, 1b 
+2a, 2c 
+3a, 3b, 3c, 3d 
+4a 
+16.4 Understand the evidence to confirm the discovery of the 
+expanding universe 
+ 
+16.5 Be able to use the relationship between distance and redshift 
+of distant galaxies (Hubble’s law) including the formula: 
+ 
+d H v0=  
+ where v is the radial velocity of the recession of the galaxy, Ho 
+is the Hubble constant and d is the distance of the galaxy 
+from Earth. 
+1a, 1b, 1c 
+2c 
+3a, 3b, 3c, 3d 
+4a, 4b, 4c 
+16.6 Understand the estimation of the age and size of the Universe 
+using the value of the Hubble constant 
+2c, 2f 
+3b, 3c, 3d 
+16.7 Understand how the expansion of the Universe supports both 
+the Big Bang theory and the Steady State theory 
+ 
+16.8 Understand the major observational evidence in favour of the 
+Big Bang theory: 
+a  quasars (QSOs) 
+b  cosmic microwave background (CMB) radiation 
+c  Hubble Deep Field image 
+ 
+16.9 Understand the significance of the fluctuations in the CMB 
+radiation for theories of the evolution of the Universe, 
+including discoveries by the Wilkinson Microwave Anisotropy 
+Probe (WMAP) and the Planck mission 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+41 
+ 
+Students should:  Maths skills 
+16.10 Understand the signiﬁcance and possible nature of dark matter 
+and dark energy 
+ 
+16.11 Understand the difficulties involved in the detection of dark 
+matter and dark energy 
+ 
+16.12 Understand that current models of the Universe predict 
+different future evolutionary paths 
+ 
+Use of mathematics 
+● change the subject of an equation such as Hubble’s law (3b) 
+● substitute numerical values into algebraic equations, such as Hubble’s law, using 
+appropriate physical quantities (3c) 
+● solve simple algebraic equations such as Hubble’s law (3d) 
+● translate information between graphical and numeric form such as when working with 
+data on the distances and recessional speeds of distant galaxies (4a) 
+● plot two variables from experimental or other data such as when working with data on the 
+distances and recessional speeds of distant galaxies (4b) 
+● determine the slope of a linear graph such as when determining Hubble’s constant (4c) 
+● use specialist units such as l.y., pc and kpc when working with distances to objects within 
+our Galaxy and (Mpc) when considering the distances to other galaxies (2c) 
+● understand the principles of calculations involving light years (2d) 
+● use ratios and inverse relationships such as when using Hubble’s law (1c) 
+Assessment information 
+● First assessment: May/June 2019. 
+● The assessment is 1 hour and 45 minutes. 
+● The assessment consists of ten questions. 
+● The assessment is out of 100 marks. 
+● Students must answer all questions. 
+● The paper will include multiple-choice, short-answer questions, calculations, graphical and 
+extended-open-response questions. 
+● Calculators may be used in the examination. Information regarding the use of calculators 
+during the examinations for this qualification can be found in Appendix 3: Calculators. 
+Synoptic assessment 
+Synoptic assessment requires students to work across different parts of a qualification and to 
+show their accumulated knowledge and understanding of a topic or subject area. Synoptic 
+assessment enables students to show their ability to combine their skills, knowledge and 
+understanding with breadth and depth of the subject.  
+This paper assesses synopticity. 
+Sample assessment materials 
+A sample paper and mark scheme for this paper can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in Astronomy Sample Assessment Materials (SAMs) document. 
+Please see Appendix 4 for a description of what the command words used in the SAMs mean. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+42 
+Observational skills 
+Requirements 
+Throughout their study of this qualification, students should develop their observational 
+skills. Students must undertake at least one unaided and one aided observation, from the 
+selection listed in this section. Students will need to use their knowledge and understanding 
+of observational techniques and procedures in the written assessments. 
+Students need to record the work that they have undertaken for these observations. The 
+observation record must include the knowledge, skills and understanding they have derived 
+from the observational activities. 
+Centres must confirm that each student has completed at least one unaided and one aided 
+observation by completing and submitting an Observation Statement (see Appendix 5). This 
+must be submitted to Pearson by 15th April in the year that the students will sit their 
+examinations. Any failure by centres to provide this Observation Statement will be treated as 
+malpractice and/or maladministration. 
+It is important to realise that these mandatory observations are the minimum number of 
+observations that should be taken during the course. 
+Safety is an overriding requirement for all observational work. Centres are responsible for 
+ensuring appropriate safety procedures are followed whenever their students complete 
+observational activities. 
+Pearson may review and amend these observational activities if necessary. Centres will be 
+told as soon as possible about any changes to them. 
+Skills 
+Astronomical observation is an iterative cycle of design, observation, analysis and evaluation. 
+Through the evolution of each set of observations, students suggest improvements that form 
+the foundation of the design of the next set of observations. 
+Astronomical observations require students to: 
+1 D esign observations 
+2 M ake observations 
+3 A nalyse observations 
+4 E valuate observations. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+43 
+1 Design observations 
+There are many uncontrollable variables in astronomical observations and reliability is 
+improved by iteratively refining the observation programme. All astronomical observations 
+require the informed selection of target object, observing site, time and date along with their 
+choice of observing equipment. Students should, therefore, be involved in selecting these 
+features of their observing programme, as well as refining them. 
+Students should: 
+a produce a list of feasible target objects, location, date, time and observing instrument, as 
+appropriate to their chosen task 
+b use astronomical data to select the most appropriate target object, location, date, time or 
+observing instrument 
+c generate an initial observing programme that will allow them to solve the problem posed 
+by the title of their chosen task, including health and safety considerations 
+d make refinements or improvements to their observing programme, following the results of 
+initial trials. 
+2 Make observations 
+There are many variables affecting astronomical observations which are outside the control 
+of the observer. Students will need to undertake a series of observations in order to generate 
+sufficient data to support valid conclusions. This is the observational programme. Students 
+should gain experience of undertaking an observational programme in both unaided (‘naked 
+eye’) and aided situations, as follows: 
+a conduct unaided observations, using techniques such as averted vision, dark adaptation 
+b conduct aided observations, using equipment such as binoculars, telescopes and cameras 
+c ensure that all observations are accompanied by the necessary observational details, 
+including: 
+i. date 
+ii. time 
+iii. location 
+iv. seeing conditions 
+v. optical instruments used 
+d ensure that sufficient observations are taken to produce accurate data for the specific 
+task. 
+3 Analyse observations 
+Students will need to analyse their observations to produce reliable and valid conclusions for 
+the specific observation. This will involve a wide range of skills, depending on the nature of 
+the original observations, as follows: 
+a identify patterns or trends from a series of drawings or photographs 
+b present numerical data in the form of graphs or charts 
+c perform calculations 
+d perform basic digital image processing, including the adjustment of image brightness, 
+dynamic range and the use of false colour. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+44 
+4 Evaluate observations 
+Students will need to compare the results of their observations with those obtained by 
+professional astronomers or with accepted values. This will enable them to evaluate the 
+reliability and accuracy of their resulting conclusions and suggest improvements for further 
+observations. This should include the following: 
+a compare the results of their observations with professional images or accepted values in 
+order to assess their accuracy 
+b where possible, calculate a quantitative assessment of their accuracy 
+c identify the effects of light pollution on naked-eye observations 
+d identify the effects of light pollution, exposure time and filtering on photographic 
+observations 
+e recognise some of the major artefacts that can affect astronomical images, such as 
+scattered light, diffraction spikes, cosmic rays and trails from satellites, aircraft or meteors 
+f identify the major causes of error in the conclusions 
+g suggest and implement improvements to the observing programme. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+45 
+Observational tasks 
+Each of the following observational tasks sets out a problem, which can be solved by a 
+programme of observations. Completion of these tasks will give students an understanding of 
+the cycle of astronomical observation and help them to develop the key observational skills. 
+Centres must ensure that each student completes at least one unaided and one aided 
+observation task from the following list. Students may not select both of their observational 
+tasks (unaided and aided) from the same row on the observational task table. For example, 
+not A1 and B1. 
+ 
+Unaided tasks Aided tasks 
+A1 Demonstrate the changing 
+appearance of lunar features 
+ Use a series of naked-eye drawings 
+of individual lunar features to 
+demonstrate their changing 
+appearance during the lunar 
+phase cycle 
+B1 Demonstrate the changing 
+appearance of lunar features 
+ Use a series of telescopic drawings 
+or photographs of individual lunar 
+features to demonstrate their 
+changing appearance during the 
+lunar phase cycle 
+A2 Finding the radiant point of a 
+meteor shower 
+ Use naked-eye drawings of the 
+paths of meteors to determine the 
+radiant point of a meteor shower 
+B2 Fi nding the radiant point of a 
+meteor shower 
+ Use photographs of the paths of 
+meteors to determine the radiant 
+point of a meteor shower 
+A3 Assess the accuracy of stellar 
+magnitude estimates 
+ Using reference stars, estimate the 
+magnitude of a range of stars from 
+naked-eye observations and thus 
+assess the accuracy of this 
+technique 
+B3 Assess the accuracy of stellar 
+magnitude measurements 
+ Using reference stars, estimate the 
+magnitude of a range of stars from 
+photographs and thus assess the 
+accuracy of this technique 
+A4 Estimate a celestial property 
+using drawings of a suitable 
+event 
+ Use naked-eye drawings or 
+measurements of a celestial event 
+such as a comet or eclipse to 
+determine a celestial property such 
+as the relative size of the Earth and 
+Moon 
+B4 Measure a celestial property 
+using telescopic drawings or 
+photographs of a suitable event 
+ Use telescopic drawings, 
+measurements or photographs of a 
+celestial event such as a comet, 
+transit, eclipse or occultation to 
+determine a celestial property such 
+as the Earth-Sun distance or the 
+orbital period of a Jovian satellite 
+A5 Estimating levels of light 
+pollution 
+ Use estimates of the magnitude of 
+the faintest stars visible with the 
+naked eye to conduct a survey of 
+the astronomical effects of light 
+pollution in an area 
+B5 Measuring levels of light 
+pollution 
+ Use estimates of the magnitude of 
+the faintest stars visible on 
+photographs to conduct a survey of 
+the astronomical effects of light 
+pollution in an area 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+46 
+ 
+Unaided tasks Aided tasks 
+A6 Estimate the solar rotation 
+period using drawings of 
+sunspots 
+ Use a series of drawings from 
+pinhole projections of sunspots to 
+estimate the length of the Sun’s 
+average rotation period 
+B6 Determine the solar rotation 
+period using photographs of 
+sunspots 
+ Use a series of photographs or 
+drawings from telescopic projections 
+of sunspots to estimate the length of 
+the Sun’s average rotation period 
+A7 Estimating the period of a 
+variable star 
+ Use estimates of stellar magnitude 
+from naked-eye observations to 
+produce a light curve for a variable 
+star and thus estimate its period 
+B7 Measuring the period of a 
+variable star 
+ Use estimates of stellar magnitude 
+from telescopic observations or 
+photographs to produce a light 
+curve for a variable star and thus 
+estimate its period 
+A8 Comparing stellar density 
+estimates 
+ Use naked-eye estimates of stellar 
+density taken in and outside the 
+plane of the Milky Way to estimate 
+their relative sizes 
+B8 Comparing stellar density 
+measurements 
+ Use telescopic measurements of 
+stellar density taken in and outside 
+the plane of the Milky Way to 
+estimate their relative sizes 
+A9 Finding longitude using a 
+shadow stick 
+ Use measurements of shadow 
+length around local noon to estimate 
+the observer’s longitude 
+N/A 
+A10 Assess the accuracy of a sundial 
+ Use a log of sundial and clock times 
+to assess the accuracy of a sundial 
+N/A 
+N/A B11 Demonstrate the range of 
+objects in the Messier Catalogue 
+ Use detailed drawings or 
+photographs of objects from the 
+Messier Catalogue to demonstrate 
+the range of different objects it 
+contains 
+N/A B12 Calculation of the length of the 
+sidereal day 
+ Use long-exposure photographs of 
+the area around the celestial pole to 
+produce an accurate measurement 
+of the length of the Earth’s sidereal 
+period 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+47 
+Assessment Objectives 
+ 
+Students must: % in GCSE 
+AO1 Demonstrate knowledge and understanding of: 
+● scientific ideas 
+● scientific techniques and procedures. 
+40 
+AO2 Apply knowledge and understanding of: 
+● scientific ideas 
+● scientific techniques and procedures. 
+40 
+AO3 Analyse information and ideas to: 
+● interpret and evaluate astronomical observations, data and 
+methods 
+● make judgements and draw conclusions  
+● develop and improve observational procedures 
+20 
+Total 100% 
+ 
+Breakdown of Assessment Objectives 
+Paper 
+Assessment Objectives Total for all 
+Assessment 
+Objectives AO1 % AO2 % AO3 % 
+Paper 1: Naked-eye Astronomy 20 20 10 50% 
+Paper 2: Telescopic Astronomy 20 20 10 50% 
+Total for GCSE 40% 40% 20% 100% 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+48 
+3 Administration and general information 
+Entries 
+Details of how to enter students for the examinations for this qualification can be found in 
+our UK Information Manual. A copy is made available to all examinations officers and is 
+available on our website: qualifications.pearson.com 
+Discount code and performance tables 
+Centres should be aware that students who enter for more than one GCSE, or other Level 2 
+qualifications with the same discount code, will have only the grade for their 'first entry' 
+counted for the purpose of the school and college performance tables (please see 
+Appendix 8: Codes). For further information about what constitutes 'first entry' and full 
+details of how this policy is applied, please refer to the DfE website: 
+www.gov.uk/government/organisations/department-for-education 
+Students should be advised that if they take two GCSEs with the same discount code, the 
+schools and colleges to which they wish to progress are likely to take the view that this 
+achievement is equivalent to only one GCSE. The same view may be taken if students take 
+two GCSEs or other Level 2 qualifications that have different discount codes but which have 
+significant overlap of content. Before embarking on their programmes, students or their 
+advisers who have any doubts about their subject combinations should check with the 
+institution to which they wish to progress.  
+Access arrangements, reasonable adjustments, 
+special consideration and malpractice 
+Equality and fairness are central to our work. Our equality policy requires all students to 
+have equal opportunity to access our qualifications and assessments, and our qualifications 
+to be awarded in a way that is fair to every student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by the Equality Act 2010) are not, 
+when they are undertaking one of our qualifications, disadvantaged in comparison to 
+students who do not share that characteristic 
+● all students achieve the recognition they deserve for undertaking a qualification and that 
+this achievement can be compared fairly to the achievement of their peers. 
+Language of assessment 
+Assessment of this qualification will be available in English. All student work must be 
+in English. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+49 
+Access arrangements 
+Access arrangements are agreed before an assessment. They allow students with special 
+educational needs, disabilities or temporary injuries to: 
+● access the assessment 
+● show what they know and can do without changing the demands of the assessment. 
+The intention behind an access arrangement is to meet the particular needs of an individual 
+student with a disability, without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding bodies comply with the duty under the 
+Equality Act 2010 to make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the start of the course. Students will 
+then know what is available and have the access arrangement(s) in place for assessment.  
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to make reasonable adjustments 
+where a person with a disability would be at a substantial disadvantage in undertaking an 
+assessment. The awarding organisation is required to take reasonable steps to overcome 
+that disadvantage. 
+A reasonable adjustment for a particular person may be unique to that individual and 
+therefore might not be in the list of available access arrangements. 
+Whether an adjustment will be considered reasonable will depend on a number of factors, 
+including: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with the disability and other students. 
+An adjustment will not be approved if it involves unreasonable costs to the awarding 
+organisation, or affects timeframes or the security or integrity of the assessment. This is 
+because the adjustment is not ‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a student's mark or grade to 
+reflect temporary injury, illness or other indisposition at the time of the examination/ 
+assessment, which has had, or is reasonably likely to have had, a material effect on a 
+candidate’s ability to take an assessment or demonstrate their level of attainment in  
+an assessment. 
+Further information 
+Please see our website for further information about how to apply for access arrangements 
+and special consideration. 
+For further information about access arrangements, reasonable adjustments and special 
+consideration, please refer to the JCQ website: www.jcq.org.uk. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+50 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that compromises or seeks to 
+compromise the process of assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in examinations must be reported to Pearson using a JCQ Form M1 
+(available at www.jcq.org.uk/exams-office/malpractice). The form can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations Team, Pearson, 190 High Holborn, 
+London, WC1V 7BH. Please provide as much information and supporting documentation as 
+possible. Note that the final decision regarding appropriate sanctions lies with Pearson. 
+Failure to report malpractice constitutes staff or centre malpractice. 
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate malpractice and maladministration of 
+our qualifications. As with candidate malpractice, staff and centre malpractice is any act that 
+compromises or seeks to compromise the process of assessment or which undermines the 
+integrity of the qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and maladministration must be reported 
+immediately, before any investigation is undertaken by the centre, to Pearson on a 
+JCQ Form M2(a) (available at www.jcq.org.uk/exams-office/malpractice). The form, 
+supporting documentation and as much information as possible can be emailed to 
+pqsmalpractice@pearson.com or posted to Investigations Team, Pearson, 
+190 High Holborn, London, WC1V 7BH. Note that the final decision regarding 
+appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More detailed guidance on malpractice can be found in the latest version of the document 
+General and Vocational Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at www.jcq.org.uk/exams-office/malpractice. 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to comply with the requirements of 
+Ofqual's General Conditions of Recognition. 
+This GCSE qualification will be graded and certificated on a nine-grade scale from 9 to 1 
+using the total subject mark where 9 is the highest grade. Individual papers are not graded. 
+Students whose level of achievement is below the minimum judged by Pearson to be of 
+sufficient standard to be recorded on a certificate will receive an unclassified U result. 
+The first certification opportunity for this qualification will be 2019. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+51 
+Student recruitment and progression 
+Pearson follows the JCQ policy concerning recruitment to our qualifications in that: 
+● they must be available to anyone who is capable of reaching the required standard 
+● they must be free from barriers that restrict access and progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+This qualification is based on the subject content, published by the DfE. The subject content 
+was designed to reflect or build on Key Stage 3. Consequently, students taking this 
+qualification will benefit from previously studying physics at Key Stage 3. 
+Progression 
+Students can progress from this qualification to: 
+● GCEs, for example in physics 
+● Level 3 vocational qualifications in science, for example BTEC Level 3 in Applied Science 
+● employment, for example in a science-based industry where an Apprenticeship may 
+be available. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+52 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+53 
+Appendices 
+Appendix 1: Mathematical skills 55 
+Appendix 2: Formulae and data sheet 56 
+Appendix 3: Calculators 58 
+Appendix 4: Taxonomy 59 
+Appendix 5: Observation Statement 61 
+Appendix 6: The context for the development of this qualification 62 
+Appendix 7: Transferable skills 64 
+Appendix 8: Codes 65 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+54 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+55 
+Appendix 1: Mathematical skills 
+This appendix is taken from the document Astronomy GCSE subject content published by the 
+Department for Education (DfE) in June 2014. 
+The mathematical skills listed will be assessed in the examinations. The minimum level of 
+mathematics in the examinations will be equivalent to Key Stage 3 mathematics.  
+Mathematical skills 
+1 Arithmetic and numerical computation 
+a Recognise and use expressions in decimal form 
+b Recognise and use expressions in standard form 
+c Use ratios, fractions, percentages and inverse square relationships 
+d Recognise and use logarithms (base 10) in equations and as scales and graphs 
+e Use a calculator to determine squares, square roots and cubes of positive numbers 
+2 Handling data 
+a Use an appropriate number of significant figures 
+b Find arithmetic means 
+c Use specialist units (AU, pc and Mpc with conversions to kilometres) 
+d Understand the principles of calculations involving light years (ly) 
+e Understand simple probability 
+f Make order of magnitude calculations 
+3 Algebra 
+a Understand and use the symbols: =, <, <<, >>, >, ∝, ~ 
+b Change the subject of an equation 
+c Substitute numerical values into algebraic equations using appropriate units for physical 
+quantities 
+d Solve simple algebraic equations 
+4 Graphs 
+a Translate information between graphical and numeric form 
+b Plot two variables from experimental or other data 
+c Determine the slope and intercept of a linear graph 
+5 Geometry and trigonometry 
+a Use angular measures in degrees 
+b Use degrees, minutes and seconds of arc 
+c Use concept of subtended angle 
+d Use concepts of 3D motion, rotation and coordinates on a sphere: RA and Dec (celestial 
+longitude and latitude) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+56 
+Appendix 2: Formulae and data sheet 
+This appendix lists all the equations and data that will be provided to students in the 
+examinations. 
+Formulae 
+Specification 
+reference 
+Equation 
+4.4 Equation of Time = Apparent Solar Time (AST) – Mean Solar Time (MST) 
+8.6 Kepler’s 3rd law:  
+constant a3
+2
+=
+r
+T  
+11.23 Magnification of telescope: 
+f
+f
+e
+oionmagnificat =  
+13.3 Distance modulus formula: dm M log 5 5− + =  
+16.3 Redshift formula: 
+c
+v
+λ
+λ λ=
+−
+0
+0  
+16.5 Hubble’s law: d H v0=  
+Data 
+Mass of Earth 6.0 × 1024 kg 
+Mean diameter of Earth 13 000 km 
+Mean diameter of Moon 3500 km 
+Mean diameter of Sun 1.4 × 106 km 
+One Astronomical Unit (AU) 1.5 × 108 km 
+Mean Earth to Moon distance 380 000 km 
+One light year (l.y.) 9.5 × 1012 km 
+One parsec (pc) 3.1 × 1013 km = 3.26 l.y. 
+Sidereal day 23 h 56 min 
+Synodic day 24 h 00 min 
+Temperature of solar photosphere 5800 K 
+Hubble constant 68 km/s/Mpc 
+Speed of light in vacuum 3.0 × 108 m/s 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+57 
+Name Type of 
+body 
+Mean distance 
+from Sun/AU 
+Sidereal 
+period/Earth 
+year 
+Mean 
+temperature 
+/°C 
+Diameter 
+/1000 km 
+Mass/Earth 
+mass 
+Ring 
+systems 
+Moons 
+Mercury planet 0.38 0.24 170 4.9 0.055 no none 
+Venus planet 0.72 0.62 470 12.1 0.82 no none 
+Earth planet 1.0 1.0 15 12.8 1.00 no 1: the Moon 
+Mars planet 1.5 1.9 −50 6.9 0.11 no 2 small moons: Deimos and 
+Phobos 
+Ceres dwarf planet 2.8 4.6 −105 0.95 1.5 × 10−4 no none 
+Jupiter planet 5.2 11.9 −150 143 318 yes 4 major moons: Ganymede, 
+Callisto, Europa, Io 
+>60 others 
+Saturn planet 9.5 29.5 −180 121 95 yes 5 major moons: including 
+Titan, Iapetus 
+>55 others 
+Uranus planet 19.1 84.0 −210 51 15 yes 5 major moons: including 
+Titania, Oberon 
+>20 others 
+Neptune planet 30.0 165 −220 50 17 yes 1 major: Triton 
+>12 others 
+Pluto dwarf planet 39.5 248 −230 2.4 2.2 × 10−3 no 1 major: Charon 
+>4 other moons 
+Haumea dwarf planet 43.1 283 −241 1.4 6.7 × 10−4 no 2 
+Eris dwarf planet 67.8 557 −230 2.3 2.8 × 10−3 no at least 1 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+58 
+Appendix 3: Calculators 
+Candidates may use a calculator in assessments for this qualification. Centres are 
+responsible for making sure that calculators used by their students meet the requirements 
+highlighted in the table below. 
+Candidates must be familiar with the requirements before their assessments for this 
+qualification. 
+ 
+Calculators must be: 
+● of a size suitable for use on a desk 
+● either battery or solar powered 
+● free of lids, cases and covers that 
+have printed instructions or 
+formulae. 
+Calculators must not: 
+● be designed or adapted to offer any of these 
+facilities: 
+o language translators 
+o symbolic algebraic manipulation 
+o symbolic differentiation or integration 
+o communication with other machines or 
+the internet 
+● be borrowed from another candidate during 
+an examination for any reason* 
+● have retrievable information stored in them, 
+and this includes: 
+o databanks 
+o dictionaries 
+o mathematical formulae 
+o text. 
+The candidate is responsible for 
+the following: 
+● the calculator’s power supply 
+● the calculator’s working condition 
+● clearing anything stored in the 
+calculator. 
+ 
+*An invigilator may give a candidate a replacement calculator 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+59 
+Appendix 4: Taxonomy 
+The following table lists the command words used in the external assessments. 
+ 
+Command word  Definition 
+Add/Label Requires the addition or labelling to a stimulus material given 
+in the question, for example labelling a diagram or adding 
+units to a table. 
+Calculate Obtain a numerical answer, showing relevant working. If the 
+answer has a unit, this must be included. This can include 
+using an equation to calculate a numerical answer. 
+Comment on Requires the synthesis of a number of variables from 
+data/information to form a judgement. 
+Compare  Find the similarities and differences of two elements given in a 
+question. Each point made must relate to both elements, and 
+must include a comparative statement of their 
+similarity/difference. 
+Complete Requires the completion of a table/diagram. 
+Describe To give an account of something. Statements in the response 
+need to be developed as they are often linked but do not need 
+to include a justification or reason. 
+Define To set forth the meaning of a word or a phrase. 
+Determine The answer must have an element which is quantitative from 
+the stimulus provided, or must show how the answer can be 
+reached quantitatively. To gain maximum marks there must 
+be a quantitative element to the answer. 
+Design Plan an observing programme from existing principles/ideas. 
+Draw Produce a neat freehand drawing, paying attention to shape 
+(and scale where appropriate). 
+Estimate Find an approximate value, number, or quantity from a 
+diagram/given data or through a calculation. 
+Evaluate Review information (e.g. data, methods) then bring it 
+together to form a conclusion, drawing on evidence including 
+strengths, weaknesses, alternative actions, relevant data or 
+information. Come to a supported judgement of a subject’s 
+qualities and relation to its context. 
+Explain An explanation requires a justification/exemplification of a 
+point. The answer must contain some element of 
+reasoning/justification, this can include mathematical 
+explanations. 
+Give/State/Name All of these command words are really synonyms. They 
+generally all require recall of one or more pieces of 
+information. 
+Give a reason/reasons When a statement has been made and the requirement is 
+only to give the reasons why. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+60 
+ 
+Command word  Definition 
+Identify Usually requires some key information to be selected from a 
+given stimulus/resource. 
+Justify Give evidence to support (either the statement given in the 
+question or an earlier answer). 
+Plot Produce a graph by marking points accurately on a grid from 
+data that is provided and then drawing a line of best fit 
+through these points. A suitable scale and appropriately 
+labelled axes must be included if these are not provided in the 
+question. 
+Predict Give an expected result. 
+Show that Verify the statement given in the question by showing each 
+step of the working for a calculation. 
+Sketch For a graph this would need a line and labelled axis with 
+important features indicated, the axis are not scaled. 
+State what is meant by When the meaning of a term is expected but there are 
+different ways of how these can be described. 
+Which of the following Select one of the four answer choices given in a 
+multiple-choice question.  
+ 
+Verbs preceding a command word 
+Analyse data to explain Examine the data in detail to provide an explanation.  
+Analyse data to comment Examine the data in detail to form a judgement. 
+Analyse data to 
+determine 
+Examine the data in detail to come to a conclusion. 
+Suggest a … Suggest an explanation or suggest a description. 
+ 
+Please refer to the Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy Sample 
+Assessment Materials (SAMs) for the application of some of these command words. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+61 
+ 
+ 
+Appendix 5: Observation Statement 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 1AS0 
+Centre name:  
+ 
+ 
+Centre number:  
+All candidates must carry out one unaided and one aided observation throughout the course 
+of this qualification. 
+Observation work Number of students 
+Unaided Observation  
+Aided Observation  
+ 
+Head Teacher declaration 
+I declare that: 
+i. all candidates have completed one unaided and one aided observation, and 
+ii. the work submitted for assessment has been carried out without assistance other than 
+that which is acceptable according to the rules of the specification.  
+I declare that the observation work recorded above has been carried out in accordance with 
+the Pearson Edexcel Level 1/Level 2 GCSE in Astronomy (9–1) observation work 
+requirements.  
+Each candidate has made a contemporaneous record of: 
+i. the work that they have undertaken during these observations, and 
+ii. the knowledge, skills and understanding which that candidate has derived from those 
+observations. 
+ 
+Head teacher name:  
+Head teacher signature:  Date:  
+
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+62 
+Appendix 6: The context for the 
+development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] and our 
+ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+● reviewing other curricula and qualifications to ensure that it is comparable with those 
+taken in high-performing jurisdictions overseas 
+● consulting with key stakeholders on content and assessment, including learned bodies, 
+subject associations, higher-education academics, teachers and employers to ensure this 
+qualification is suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in their 
+documents GCSE (9 to 1) Qualification Level Conditions and Requirements and GCSE Subject 
+Level Conditions and Requirements for Astronomy, published in March 2016.  
+ 
+ 
+[1] Pearson’s World Class Qualification Principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep learning and 
+measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing reliable and valid 
+assessment tasks and processes, and generating confidence in end users of the knowledge, skills 
+and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that students develop at 
+different rates and have different learning needs, and focusing on progression 
+● empowering, through promoting the development of transferable skills, see Appendix 7. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+ 
+“ The reform of the qualifications system in England is a profoundly important change to the 
+education system. Teachers need to know that the new qualifications will assist them in 
+helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an ‘Expert 
+Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or because of 
+our experience in reforming qualifications in other systems around the world as diverse as 
+Singapore, Hong Kong, Australia and a number of countries across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification development 
+process that has included: 
+● establishing External Subject Advisory Groups, drawing on independent subject-specific 
+expertise to challenge and validate our qualifications 
+● subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future oriented. The 
+design has been guided by what is called an ‘Efficacy Framework’, meaning learner outcomes 
+have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a learner’s 
+success in education. As a result of our work as a panel we are confident that we have 
+supported the development of qualifications that are outstanding for their coherence, 
+thoroughness and attention to detail and can be regarded as representing world-class best 
+practice. 
+”    
+  
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong 
+Director, National Institute of Education, 
+Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy  
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+64 
+Appendix 7: Transferable skills 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently flagged the 
+need for students to develop a range of transferable skills to enable them to respond with 
+confidence to the demands of undergraduate study and the world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines skills, or 
+competencies, as ‘the bundle of knowledge, attributes and capacities that can be learned and 
+that enable individuals to successfully and consistently perform an activity or task and can be 
+built upon and extended through learning.’ 
+[1] 
+To support the design of our qualifications, the Pearson Research Team selected and 
+evaluated seven global 21st-century skills frameworks. Following on from this process, we 
+identified the National Research Council’s (NRC) framework as the most evidence-based and 
+robust skills framework. We adapted the framework slightly to include the Program for 
+International Student Assessment (PISA) ICT Literacy and Collaborative Problem Solving 
+(CPS) Skills. 
+The adapted National Research Council’s framework of skills involves:[2]  
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve general 
+cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and communicate.[3]  
+Interpersonal skills 
+● Communication – active listening, oral communication, written communication, assertive 
+communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, service 
+orientation, self-presentation, social influence, conflict resolution and negotiation. 
+● Collaborative problem solving – establishing and maintaining shared understanding, 
+taking appropriate action, establishing and maintaining team organisation. 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work stress, 
+adapting to different personalities, communication styles and cultures, and physical 
+adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual teams, 
+work autonomously, be self-motivating and self-monitoring, willing and able to acquire 
+new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher education, 
+as well as the demands of the workplace, and are important in the teaching and learning of 
+this qualification. We will provide teaching and learning materials, developed with 
+stakeholders, to support our qualifications. 
+ 
+[1]  OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+[2]  Koenig J A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop (National 
+Academies Press, 2011) 
+[3]  PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Astronomy 
+Specification – Issue 3 – December 2024 © Pearson Education Limited 2024 
+65 
+Appendix 8: Codes 
+ 
+Type of code Use of code Code 
+Discount codes Every qualification eligible for 
+performance tables is assigned a 
+discount code indicating the subject area 
+to which it belongs. 
+Discount codes are published by DfE in 
+the RAISEonline library 
+(www.raiseonline.org) 
+RE1 
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes  
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a Qualification 
+Number (QN). This is the code that 
+features in the DfE Section 96 and on the 
+LARA as being eligible for 16–18 and 19+ 
+funding, and is to be used for all 
+qualification funding purposes. The QN 
+will appear on students’ final certification 
+documentation. 
+The QN for this 
+qualification is: 
+603/0244/6 
+ 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. Centres 
+will need to use the entry codes only 
+when claiming students’ qualifications. 
+GCSE – 1AS0 
+Paper codes These codes are provided for reference 
+purposes. Students do not need to be 
+entered for individual papers. 
+Paper 1: 1AS0/01 
+Paper 2: 1AS0/02 
+ 
+ 
+ 
+DB181124 9781446933411_GCSE2017_L12_ASTRONOMY_ISS3.DOC.1–72/0 
+For information about Edexcel, BTEC or LCCI qualifications  
+visit qualifications.pearson.com
+Edexcel is a registered trademark of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 
+872828 
+Registered Office: 80 Strand, London WC2R 0RL 
+VAT Reg No GB 278 537121

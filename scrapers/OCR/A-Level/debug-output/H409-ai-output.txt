@@ -1,0 +1,90 @@
+1 Contexts of Media
+1.1 Social, cultural, political, economic and historical contexts
+1.1.1 how the media products studied differ in institutional backgrounds and use of media language to create meaning and construct representations to reach different audiences, and can act as a means of:
+1.1.1.1 reflecting social, cultural and political attitudes towards wider issues and beliefs
+1.1.1.2 constructing social, cultural and political attitudes towards wider issues and beliefs
+1.1.2 how media products studied can act as a means of reflecting historical issues and events
+1.1.3 how media products studied can potentially be an agent in facilitating social, cultural and political developments through the use of media language to construct meaning through viewpoints, messages and values and representations of events and issues
+1.1.4 how media products studied are influenced by social, cultural, political and historical contexts through intertextual references
+1.1.5 how media products studied reflect their economic contexts through production, financial and technological opportunities and constraints
+
+2 Media Language
+2.1 How the media through their forms, codes, conventions and techniques communicate meanings
+2.1.1 how the different modes and language associated with different media forms communicate multiple meanings
+2.1.2 how the combination of elements of media language influence meaning
+2.1.3 how developing technologies affect media language
+2.1.4 the codes and conventions of media forms and products, including the processes through which media language develops as genre
+2.1.5 the dynamic and historically relative nature of genre
+2.1.6 the processes through which meanings are established through intertextuality
+2.1.7 how audiences respond to and interpret the above aspects of media language
+2.1.8 how genre conventions are socially and historically relative, dynamic and can be used in a hybrid way
+2.1.9 the significance of challenging and/or subverting genre conventions
+2.1.10 the significance of the varieties of ways in which intertextuality can be used in the media
+2.1.11 the way media language incorporates viewpoints and ideologies
+2.2 Theories of media language
+2.2.1 Semiotics, including Barthes
+2.2.2 Narratology, including Todorov
+2.2.3 Genre theory, including Neale
+2.2.4 Structuralism, including Lévi-Strauss
+2.2.5 Postmodernism, including Baudrillard
+
+3 Media Representations
+3.1 How the media portray events, issues, individuals and social groups
+3.1.1 the way events, issues, individuals (including self-representation) and social groups (including social identity) are represented through processes of selection and combination
+3.1.2 the way the media through re-presentation constructs versions of reality
+3.1.3 the processes which lead media producers to make choices about how to represent events, issues, individuals and social groups
+3.1.4 the effect of social and cultural context on representations
+3.1.5 how and why stereotypes can be used positively and negatively
+3.1.6 how and why particular social groups, in a national and global context, may be under-represented or misrepresented
+3.1.7 how media representations convey values, attitudes and beliefs about the world and how these may be systematically reinforced across a wide range of media representations
+3.1.8 how audiences respond to and interpret media representations
+3.1.9 the way in which representations make claims about realism
+3.1.10 the impact of industry contexts on the choices media producers make about how to represent events, issues, individuals and social groups
+3.1.11 the effect of historical context on representations
+3.1.12 how representations may invoke discourses and ideologies and position audiences
+3.1.13 how audience responses to and interpretations of media representations reflect social, cultural and historical circumstances
+3.2 Theories of media representation
+3.2.1 Theories of representation, including Hall
+3.2.2 Theories of identity, including Gauntlett
+3.2.3 Feminist theories, including Bell Hooks and Van Zoonen
+3.2.4 Theories of gender performativity, including Butler
+3.2.5 Theories around ethnicity and postcolonial theory, including Gilroy
+
+4 Media Industries
+4.1 How the media industries’ processes of production, distribution and circulation affect media forms and platforms
+4.1.1 processes of production, distribution and circulation by organisations, groups and individuals in a global context
+4.1.2 the specialised and institutionalised nature of media production, distribution and circulation
+4.1.3 the relationship of recent technological change and media production, distribution and circulation
+4.1.4 the significance of patterns of ownership and control, including conglomerate ownership, vertical integration and diversification
+4.1.5 the significance of economic factors, including commercial and not-for-profit public funding, to media industries and their products
+4.1.6 how media organisations maintain, including through marketing, varieties of audiences nationally and globally
+4.1.7 the regulatory framework of contemporary media in the UK
+4.1.8 the impact of ‘new’ digital technologies on media regulation, including the role of individual producers
+4.1.9 how processes of production, distribution and circulation shape media products
+4.1.10 the impact of digitally convergent media platforms on media production, distribution and circulation, including individual producers
+4.1.11 the role of regulation in global production, distribution and circulation
+4.1.12 the effect of individual producers on media industries
+4.2 Theories of media industries
+4.2.1 Power and media industries, including Curran and Seaton
+4.2.2 Theories of regulation, including those of Livingstone and Lunt
+4.2.3 Theories of cultural industries, including those of Hesmondhalgh
+
+5 Media Audiences
+5.1 How media forms target, reach and address audiences, how audiences interpret and respond to them and how members of audiences become producers themselves
+5.1.1 how audiences are grouped and categorised by media industries, including by age, gender and social class, as well as by lifestyle and taste
+5.1.2 how media producers target, attract, reach, address and potentially construct audiences
+5.1.3 how media industries target audiences through the content and appeal of media products and through the ways in which they are marketed, distributed and circulated
+5.1.4 the interrelationship between media technologies and patterns of consumption and response
+5.1.5 how audiences interpret the media, including how they may interpret the same media in different ways
+5.1.6 how audiences interact with the media and can be actively involved in media production
+5.1.7 how specialised audiences can be reached, both on a national and global scale, through different media technologies and platforms
+5.1.8 how media organisations reflect the different needs of mass and specialised audiences, including through targeting
+5.1.9 how audiences use media in different ways, reflecting demographic factors as well as aspects of identity and cultural capital
+5.1.10 the role and significance of specialised audiences, including niche and fan, to the media
+5.1.11 the way in which different audience interpretations reflect social, cultural and historical circumstances
+5.2 Theories of media audiences
+5.2.1 Media effects, including Bandura
+5.2.2 Cultivation theory, including Gerbner
+5.2.3 Reception theory, including Hall
+5.2.4 Theories of fandom, including Jenkins
+5.2.5 Theories of ‘end of audience’, including Shirky

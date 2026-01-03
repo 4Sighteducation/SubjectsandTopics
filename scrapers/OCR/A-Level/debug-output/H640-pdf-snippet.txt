@@ -1,0 +1,74 @@
+
+=== PAGE 23 ===
+a algebra A
+b B
+c calculus C Curves, Curve sketching
+d D Data presentation & interpretation
+e equations E Exponentials and logarithms
+f functions F Forces
+g geometry, graphs G
+h H Hypothesis testing
+i I
+2
+j J
+k kinematics K
+l L
+m M
+n Newton’s laws N
+o O
+p mathematical processes (modelling, P
+proof, etc)
+q Q
+r R Random variables
+s sequences and series S
+t trigonometry T
+u probability (uncertainty) U
+v vectors V
+w W
+x X
+y projectiles Y
+z Z
+Notes, notation and exclusions
+The notes, notation and exclusions columns in the • The notation column shows notation and
+specification are intended to assist teachers and terminology that learners are expected to
+learners. know, understand and be able to use
+• The notes column provides examples and • The exclusions column lists content which will
+further detail for some learning outcomes. All not be tested, for the avoidance of doubt when
+exemplars contained in the specification are for interpreting learning outcomes.
+illustration only and do not constitute an
+exhaustive list
+Version 3 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Mathematics B (MEI) 21
+=== PAGE 24 ===
+22
+Cambridge
+OCR
+Level
+3
+Advanced
+GCE
+in
+Mathematics
+B
+(MEI)
+Version
+3
+©
+Cambridge
+OCR
+2025
+2
+2f. Content of A Level Mathematics B (MEI)
+Specification Ref. Learning outcomes Notes Notation Exclusions
+PURE MATHEMATICS: PROOF (1)
+Proof Mp1 Understand and be able to use the structure of Proceeding from given assumptions
+mathematical proof. through a series of logical steps to a
+conclusion.
+Use methods of proof, including proof by
+deduction and proof by exhaustion.
+p2 Be able to disprove a conjecture by the use of a
+counter example.
+PURE MATHEMATICS: PROOF (2)
+Proof p3 Understand and be able to use proof by Including proof of the irrationality of
+contradiction. 2 and the infinity of primes, and
+application to unfamiliar proofs.

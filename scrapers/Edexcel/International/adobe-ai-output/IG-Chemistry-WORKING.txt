@@ -1,0 +1,215 @@
+1. Principles of Chemistry
+   1.1 States of Matter
+       1.1.1 Understand the three states of matter in terms of the arrangement, movement, and energy of the particles.
+       1.1.2 Understand the interconversions between the three states of matter.
+       1.1.3 Understand how the results of experiments involving the dilution of colored solutions and diffusion of gases can be explained.
+       1.1.4 Know what is meant by the terms: solvent, solute, solution, saturated solution.
+       1.1.5 Know what is meant by the term solubility in the units g per 100 g of solvent.
+       1.1.6 Understand how to plot and interpret solubility curves.
+       1.1.7 Practical: Investigate the solubility of a solid in water at a specific temperature.
+   1.2 Elements, Compounds, and Mixtures
+       1.2.1 Understand how to classify a substance as an element, compound, or mixture.
+       1.2.2 Understand that a pure substance has a fixed melting and boiling point, but that a mixture may melt or boil over a range of temperatures.
+       1.2.3 Describe experimental techniques for the separation of mixtures.
+       1.2.4 Understand how a chromatogram provides information about the composition of a mixture.
+       1.2.5 Understand how to use the calculation of Rf values to identify the components of a mixture.
+       1.2.6 Practical: Investigate paper chromatography using inks/food colorings.
+   1.3 Atomic Structure
+       1.3.1 Know what is meant by the terms atom and molecule.
+       1.3.2 Know the structure of an atom in terms of the positions, relative masses, and relative charges of sub-atomic particles.
+       1.3.3 Know what is meant by the terms atomic number, mass number, isotopes, and relative atomic mass (Ar).
+       1.3.4 Be able to calculate the relative atomic mass of an element (Ar) from isotopic abundances.
+   1.4 The Periodic Table
+       1.4.1 Understand how elements are arranged in the Periodic Table.
+       1.4.2 Understand how to deduce the electronic configurations of the first 20 elements from their positions in the Periodic Table.
+       1.4.3 Understand how to use electrical conductivity and the acid-base character of oxides to classify elements as metals or non-metals.
+       1.4.4 Identify an element as a metal or a non-metal according to its position in the Periodic Table.
+       1.4.5 Understand how the electronic configuration of a main group element is related to its position in the Periodic Table.
+       1.4.6 Understand why elements in the same group of the Periodic Table have similar chemical properties.
+       1.4.7 Understand why the noble gases (Group 0) do not readily react.
+   1.5 Chemical Formulae, Equations, and Calculations
+       1.5.1 Write word equations and balanced chemical equations (including state symbols).
+       1.5.2 Calculate relative formula masses (including relative molecular masses) (Mr) from relative atomic masses (Ar).
+       1.5.3 Know that the mole (mol) is the unit for the amount of a substance.
+       1.5.4 Understand how to carry out calculations involving amount of substance, relative atomic mass (Ar), and relative formula mass (Mr).
+       1.5.5 Calculate reacting masses using experimental data and chemical equations.
+       1.5.6 Calculate percentage yield.
+       1.5.7 Understand how the formulae of simple compounds can be obtained experimentally.
+       1.5.8 Know what is meant by the terms empirical formula and molecular formula.
+       1.5.9 Calculate empirical and molecular formulae from experimental data.
+       1.5.10 Understand how to carry out calculations involving amount of substance, volume, and concentration (in mol/dm3) of solution.
+       1.5.11 Understand how to carry out calculations involving gas volumes and the molar volume of a gas.
+       1.5.12 Practical: Determine the formula of a metal oxide by combustion or by reduction.
+   1.6 Ionic Bonding
+       1.6.1 Understand how ions are formed by electron loss or gain.
+       1.6.2 Know the charges of specific ions.
+       1.6.3 Write formulae for compounds formed between specific ions.
+       1.6.4 Draw dot-and-cross diagrams to show the formation of ionic compounds by electron transfer.
+       1.6.5 Understand ionic bonding in terms of electrostatic attractions.
+       1.6.6 Understand why compounds with giant ionic lattices have high melting and boiling points.
+       1.6.7 Know that ionic compounds do not conduct electricity when solid, but do conduct electricity when molten and in aqueous solution.
+   1.7 Covalent Bonding
+       1.7.1 Know that a covalent bond is formed between atoms by the sharing of a pair of electrons.
+       1.7.2 Understand covalent bonds in terms of electrostatic attractions.
+       1.7.3 Understand how to use dot-and-cross diagrams to represent covalent bonds in various molecules.
+       1.7.4 Explain why substances with simple molecular structures are gases or liquids, or solids with low melting and boiling points.
+       1.7.5 Explain why the melting and boiling points of substances with simple molecular structures increase with increasing relative molecular mass.
+       1.7.6 Explain why substances with giant covalent structures are solids with high melting and boiling points.
+       1.7.7 Explain how the structures of diamond, graphite, and C60 fullerene influence their physical properties.
+       1.7.8 Know that covalent compounds do not usually conduct electricity.
+   1.8 Metallic Bonding
+       1.8.1 Know how to represent a metallic lattice by a 2-D diagram.
+       1.8.2 Understand metallic bonding in terms of electrostatic attractions.
+       1.8.3 Explain typical physical properties of metals, including electrical conductivity and malleability.
+   1.9 Electrolysis
+       1.9.1 Understand why covalent compounds do not conduct electricity.
+       1.9.2 Understand why ionic compounds conduct electricity only when molten or in aqueous solution.
+       1.9.3 Know that anion and cation are terms used to refer to negative and positive ions respectively.
+       1.9.4 Describe experiments to investigate electrolysis, using inert electrodes.
+       1.9.5 Write ionic half-equations representing the reactions at the electrodes during electrolysis.
+       1.9.6 Practical: Investigate the electrolysis of aqueous solutions.
+
+2. Inorganic Chemistry
+   2.1 Group 1 (Alkali Metals) – Lithium, Sodium, and Potassium
+       2.1.1 Understand how the similarities in the reactions of these elements with water provide evidence for their recognition as a family of elements.
+       2.1.2 Understand how the differences between the reactions of these elements with air and water provide evidence for the trend in reactivity in Group 1.
+       2.1.3 Use knowledge of trends in Group 1 to predict the properties of other alkali metals.
+       2.1.4 Explain the trend in reactivity in Group 1 in terms of electronic configurations.
+   2.2 Group 7 (Halogens) – Chlorine, Bromine, and Iodine
+       2.2.1 Know the colors, physical states (at room temperature), and trends in physical properties of these elements.
+       2.2.2 Use knowledge of trends in Group 7 to predict the properties of other halogens.
+       2.2.3 Understand how displacement reactions involving halogens and halides provide evidence for the trend in reactivity in Group 7.
+       2.2.4 Explain the trend in reactivity in Group 7 in terms of electronic configurations.
+   2.3 Gases in the Atmosphere
+       2.3.1 Know the approximate percentages by volume of the four most abundant gases in dry air.
+       2.3.2 Understand how to determine the percentage by volume of oxygen in air using experiments.
+       2.3.3 Describe the combustion of elements in oxygen.
+       2.3.4 Describe the formation of carbon dioxide from the thermal decomposition of metal carbonates.
+       2.3.5 Know that carbon dioxide is a greenhouse gas and that increasing amounts in the atmosphere may contribute to climate change.
+       2.3.6 Practical: Determine the approximate percentage by volume of oxygen in air using a metal or a non-metal.
+   2.4 Reactivity Series
+       2.4.1 Understand how metals can be arranged in a reactivity series based on their reactions.
+       2.4.2 Know the order of reactivity of specific metals.
+       2.4.3 Know the conditions under which iron rusts.
+       2.4.4 Understand how the rusting of iron may be prevented.
+       2.4.5 Understand the terms: oxidation, reduction, redox, oxidizing agent, reducing agent.
+       2.4.6 Practical: Investigate reactions between dilute hydrochloric and sulfuric acids and metals.
+   2.5 Extraction and Uses of Metals
+       2.5.1 Know that most metals are extracted from ores found in the Earth’s crust.
+       2.5.2 Explain how the method of extraction of a metal is related to its position in the reactivity series.
+       2.5.3 Be able to comment on a metal extraction process, given appropriate information.
+       2.5.4 Explain the uses of aluminium, copper, iron, and steel in terms of their properties.
+       2.5.5 Know that an alloy is a mixture of a metal and one or more elements.
+       2.5.6 Explain why alloys are harder than pure metals.
+   2.6 Acids, Alkalis, and Titrations
+       2.6.1 Describe the use of litmus, phenolphthalein, and methyl orange to distinguish between acidic and alkaline solutions.
+       2.6.2 Understand how to use the pH scale to classify solutions.
+       2.6.3 Describe the use of universal indicator to measure the approximate pH value of an aqueous solution.
+       2.6.4 Know that acids in aqueous solution are a source of hydrogen ions and alkalis in aqueous solution are a source of hydroxide ions.
+       2.6.5 Know that alkalis can neutralize acids.
+       2.6.6 Describe how to carry out an acid-alkali titration.
+   2.7 Acids, Bases, and Salt Preparations
+       2.7.1 Know the general rules for predicting the solubility of ionic compounds in water.
+       2.7.2 Understand acids and bases in terms of proton transfer.
+       2.7.3 Describe the reactions of specific acids with metals, bases, and metal carbonates to form salts.
+       2.7.4 Know that metal oxides, metal hydroxides, and ammonia can act as bases.
+       2.7.5 Describe an experiment to prepare a pure, dry sample of a soluble salt, starting from an insoluble reactant.
+       2.7.6 Describe an experiment to prepare a pure, dry sample of a soluble salt, starting from an acid and alkali.
+       2.7.7 Describe an experiment to prepare a pure, dry sample of an insoluble salt, starting from two soluble reactants.
+       2.7.8 Practical: Prepare a sample of pure, dry hydrated copper(II) sulfate crystals starting from copper(II) oxide.
+       2.7.9 Practical: Prepare a sample of pure, dry lead(II) sulfate.
+   2.8 Chemical Tests
+       2.8.1 Describe tests for specific gases.
+       2.8.2 Describe how to carry out a flame test.
+       2.8.3 Know the colors formed in flame tests for specific cations.
+       2.8.4 Describe tests for specific cations.
+       2.8.5 Describe tests for specific anions.
+       2.8.6 Describe a test for the presence of water using anhydrous copper(II) sulfate.
+       2.8.7 Describe a physical test to show whether a sample of water is pure.
+
+3. Physical Chemistry
+   3.1 Energetics
+       3.1.1 Know that chemical reactions in which heat energy is given out are described as exothermic, and those in which heat energy is taken in are described as endothermic.
+       3.1.2 Describe simple calorimetry experiments for reactions.
+       3.1.3 Calculate the heat energy change from a measured temperature change using the expression Q = mcΔT.
+       3.1.4 Calculate the molar enthalpy change (ΔH) from the heat energy change, Q.
+       3.1.5 Draw and explain energy level diagrams to represent exothermic and endothermic reactions.
+       3.1.6 Know that bond-breaking is an endothermic process and that bond-making is an exothermic process.
+       3.1.7 Use bond energies to calculate the enthalpy change during a chemical reaction.
+       3.1.8 Practical: Investigate temperature changes accompanying some types of change.
+   3.2 Rates of Reaction
+       3.2.1 Describe experiments to investigate the effects of changes on the rate of a reaction.
+       3.2.2 Describe the effects of changes on the rate of a reaction.
+       3.2.3 Explain the effects of changes on the rate of a reaction in terms of particle collision theory.
+       3.2.4 Know that a catalyst is a substance that increases the rate of a reaction, but is chemically unchanged at the end of the reaction.
+       3.2.5 Know that a catalyst works by providing an alternative pathway with lower activation energy.
+       3.2.6 Draw and explain reaction profile diagrams showing ΔH and activation energy.
+       3.2.7 Practical: Investigate the effect of changing the surface area of marble chips and of changing the concentration of hydrochloric acid on the rate of reaction.
+       3.2.8 Practical: Investigate the effect of different solids on the catalytic decomposition of hydrogen peroxide solution.
+   3.3 Reversible Reactions and Equilibria
+       3.3.1 Know that some reactions are reversible and this is indicated by the symbol in equations.
+       3.3.2 Describe reversible reactions such as the dehydration of hydrated copper(II) sulfate and the effect of heat on ammonium chloride.
+       3.3.3 Know that a reversible reaction can reach dynamic equilibrium in a sealed container.
+       3.3.4 Know the characteristics of a reaction at dynamic equilibrium.
+       3.3.5 Understand why a catalyst does not affect the position of equilibrium in a reversible reaction.
+       3.3.6 Know the effect of changing either temperature or pressure on the position of equilibrium in a reversible reaction.
+
+4. Organic Chemistry
+   4.1 Introduction
+       4.1.1 Know that a hydrocarbon is a compound of hydrogen and carbon only.
+       4.1.2 Understand how to represent organic molecules using various formulae.
+       4.1.3 Know what is meant by the terms homologous series, functional group, and isomerism.
+       4.1.4 Understand how to name compounds relevant to this specification using IUPAC nomenclature.
+       4.1.5 Understand how to write the possible structural and displayed formulae of an organic molecule given its molecular formula.
+       4.1.6 Understand how to classify reactions of organic compounds as substitution, addition, and combustion.
+   4.2 Crude Oil
+       4.2.1 Know that crude oil is a mixture of hydrocarbons.
+       4.2.2 Describe how the industrial process of fractional distillation separates crude oil into fractions.
+       4.2.3 Know the names and uses of the main fractions obtained from crude oil.
+       4.2.4 Know the trend in color, boiling point, and viscosity of the main fractions.
+       4.2.5 Know that a fuel is a substance that, when burned, releases heat energy.
+       4.2.6 Know the possible products of complete and incomplete combustion of hydrocarbons with oxygen in the air.
+       4.2.7 Understand why carbon monoxide is poisonous.
+       4.2.8 Know that, in car engines, the temperature reached is high enough to allow nitrogen and oxygen from air to react, forming oxides of nitrogen.
+       4.2.9 Explain how the combustion of some impurities in hydrocarbon fuels results in the formation of sulfur dioxide.
+       4.2.10 Understand how sulfur dioxide and oxides of nitrogen contribute to acid rain.
+       4.2.11 Describe how long-chain alkanes are converted to alkenes and shorter-chain alkanes by catalytic cracking.
+       4.2.12 Explain why cracking is necessary.
+   4.3 Alkanes
+       4.3.1 Know the general formula for alkanes.
+       4.3.2 Explain why alkanes are classified as saturated hydrocarbons.
+       4.3.3 Understand how to draw the structural and displayed formulae for alkanes with up to five carbon atoms in the molecule, and to name the unbranched-chain isomers.
+       4.3.4 Describe the reactions of alkanes with halogens in the presence of ultraviolet radiation.
+   4.4 Alkenes
+       4.4.1 Know that alkenes contain the functional group >C=C<.
+       4.4.2 Know the general formula for alkenes.
+       4.4.3 Explain why alkenes are classified as unsaturated hydrocarbons.
+       4.4.4 Understand how to draw the structural and displayed formulae for alkenes with up to four carbon atoms in the molecule, and name the unbranched-chain isomers.
+       4.4.5 Describe the reactions of alkenes with bromine to produce dibromoalkanes.
+       4.4.6 Describe how bromine water can be used to distinguish between an alkane and an alkene.
+   4.5 Alcohols
+       4.5.1 Know that alcohols contain the functional group −OH.
+       4.5.2 Understand how to draw structural and displayed formulae for methanol, ethanol, propanol, and butanol, and name each compound.
+       4.5.3 Know that ethanol can be oxidized by various methods.
+       4.5.4 Know that ethanol can be manufactured by reacting ethene with steam or by fermentation of glucose.
+       4.5.5 Understand the reasons for fermentation, in the absence of air, and at an optimum temperature.
+   4.6 Carboxylic Acids
+       4.6.1 Know that carboxylic acids contain the functional group -COOH.
+       4.6.2 Understand how to draw structural and displayed formulae for unbranched-chain carboxylic acids with up to four carbon atoms in the molecule, and name each compound.
+       4.6.3 Describe the reactions of aqueous solutions of carboxylic acids with metals and metal carbonates.
+       4.6.4 Know that vinegar is an aqueous solution containing ethanoic acid.
+   4.7 Esters
+       4.7.1 Know that esters contain the functional group -COO-.
+       4.7.2 Know that ethyl ethanoate is the ester produced when ethanol and ethanoic acid react in the presence of an acid catalyst.
+       4.7.3 Understand how to write the structural and displayed formulae of ethyl ethanoate.
+       4.7.4 Understand how to write the structural and displayed formulae of an ester, given the name or formula of the alcohol and carboxylic acid from which it is formed and vice versa.
+       4.7.5 Know that esters are volatile compounds with distinctive smells and are used as food flavorings and in perfumes.
+       4.7.6 Practical: Prepare a sample of an ester such as ethyl ethanoate.
+   4.8 Synthetic Polymers
+       4.8.1 Know that an addition polymer is formed by joining up many small molecules called monomers.
+       4.8.2 Understand how to draw the repeat unit of an addition polymer.
+       4.8.3 Understand how to deduce the structure of a monomer from the repeat unit of an addition polymer and vice versa.
+       4.8.4 Explain problems in the disposal of addition polymers.
+       4.8.5 Know that condensation polymerization produces a polyester and water.
+       4.8.6 Understand how to write the structural and displayed formula of a polyester, showing the repeat unit.
+       4.8.7 Know that some polyesters, known as biopolyesters, are biodegradable.

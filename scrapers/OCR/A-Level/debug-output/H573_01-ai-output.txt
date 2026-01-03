@@ -1,0 +1,104 @@
+1 Component 01: Philosophy of religion
+1.1 1. Philosophical Language and Thought
+1.1.1 Ancient philosophical influences
+1.1.1.1 the philosophical views of Plato, in relation to:
+1.1.1.1.1 understanding of reality
+1.1.1.1.1.1 Plato’s reliance on reason as opposed to the senses
+1.1.1.1.2 the Forms
+1.1.1.1.2.1 the nature of the Forms; hierarchy of the Forms
+1.1.1.1.3 the analogy of the cave
+1.1.1.1.3.1 details of the analogy, its purpose and relation to the theory of the Forms
+1.1.1.2 the philosophical views of Aristotle, in relation to:
+1.1.1.2.1 understanding of reality
+1.1.1.2.1.1 Aristotle’s use of teleology
+1.1.1.2.2 the four causes
+1.1.1.2.2.1 material, formal, efficient and final causes
+1.1.1.2.3 the Prime Mover
+1.1.1.2.3.1 the nature of Aristotle’s Prime Mover and connections between this and the final cause
+1.1.2 Contextual references
+1.1.2.1 Plato, Republic Book 474c–480; 506b–509c; 509d–511e; 514a–517c
+1.1.2.2 Aristotle, Physics II.3 and Metaphysics V.2
+1.2 2. The Existence of God
+1.2.1 Arguments based on observation
+1.2.1.1 the teleological argument
+1.2.1.1.1 details of this argument including reference to: Aquinas’ Fifth Way
+1.2.1.1.2 Paley
+1.2.1.2 the cosmological argument
+1.2.1.2.1 details of this argument including reference to: Aquinas’ first three ways
+1.2.1.3 challenges to arguments from observation
+1.2.1.3.1 details of Hume’s criticisms of these arguments for the existence of God from natural religion
+1.2.1.3.2 the challenge of evolution
+1.2.2 Contextual references
+1.2.2.1 Aquinas, Summa Theologiae, I.2.3
+1.2.2.2 Paley, Natural Theology Chapters 1 and 2
+1.2.2.3 Hume, Dialogues Concerning Natural Religion Part II
+1.2.3 Arguments based on reason
+1.2.3.1 the ontological argument
+1.2.3.1.1 details of this argument including reference to: Anselm
+1.2.3.1.2 Gaunilo’s criticisms
+1.2.3.1.3 Kant’s criticisms
+1.2.4 Contextual references
+1.2.4.1 Anselm, Proslogion 2 and 3
+1.2.4.2 Gaunilo, In behalf of the fool
+1.2.4.3 Kant, A critique of pure reason, Second Division III.IV
+1.3 3. God and the World
+1.3.1 Religious experience
+1.3.1.1 the nature and influence of religious experience, including:
+1.3.1.1.1 mystical experience
+1.3.1.1.1.1 examples of mystical and conversion experiences and views about these, including: views and main conclusions of William James
+1.3.1.1.2 conversion experience
+1.3.1.2 different ways in which individual religious experiences can be understood
+1.3.1.2.1 as union with a greater power
+1.3.1.2.2 psychological effect such as illusion
+1.3.1.2.3 the product of a physiological effect
+1.3.2 Contextual references
+1.3.2.1 James, W. The Varieties of Religious Experience, lectures 9,10,16,17 and 20
+1.3.3 The problem of evil
+1.3.3.1 the problem of evil and suffering:
+1.3.3.1.1 different presentations
+1.3.3.1.1.1 including its logical (the inconsistency between divine attributes and the presence of evil) and evidential (the evidence of so much terrible evil in the world) aspects
+1.3.3.2 theodicies that propose some justification or reason for divine action or inaction in the face of evil
+1.3.3.2.1 Augustine’s use of original perfection and the Fall
+1.3.3.2.2 Hick’s reworking of the Irenaean theodicy which gives some purpose to natural evil in enabling human beings to reach divine likeness
+1.3.4 Contextual references
+1.3.4.1 Augustine, The City of God Part II
+1.3.4.2 Hick, J. Evil and the God of Love, Part IV
+1.4 4. Theological and Philosophical Developments
+1.4.1 The nature or attributes of God
+1.4.1.1 developments in the understanding of:
+1.4.1.1.1 omnipotence
+1.4.1.1.1.1 divine power and self-imposed limitation
+1.4.1.1.2 omniscience
+1.4.1.1.2.1 divine knowledge and its interaction with temporal existence and free will
+1.4.1.1.3 (omni)benevolence
+1.4.1.1.3.1 divine benevolence and just judgement of human actions, including Boethius’s argument relating this to divine foreknowledge, eternity and free will
+1.4.1.1.4 eternity
+1.4.1.1.4.1 divine eternity and divine action in time, including Anselm’s four-dimensionalist approach as an extension of Boethius’s view
+1.4.1.1.5 free will
+1.4.1.1.5.1 the extent to which human free will reasonably coexists with these attributes
+1.4.2 Contextual references
+1.4.2.1 Boethius, Consolation of Philosophy, Book V
+1.4.2.2 Anselm, De Concordia
+1.4.2.3 Swinburne, R. the Coherence of Theism, Part II
+1.5 5. Religious Language: Negative, Analogical or Symbolic
+1.5.1 Religious language
+1.5.1.1 the apophatic way – the via negativa
+1.5.1.1.1 the argument that theological language is best approached by negation
+1.5.1.2 cataphatic way – the via positiva
+1.5.1.2.1 the understanding of religious language in terms of analogy, with reference to: Aquinas’s analogy of attribution and analogy of proper proportion
+1.5.1.3 symbol
+1.5.1.3.1 understanding of the language of religious expression in terms of symbol, with reference to: Tillich’s view of theological language as almost entirely symbolic
+1.5.2 Contextual references
+1.5.2.1 Aquinas, Summa Theologiae I.13
+1.5.2.2 Tillich, Dynamics of Faith, Part 3
+1.6 6. Religious Language: Twentieth Century Perspectives
+1.6.1 Twentieth-century perspectives and philosophical comparisons
+1.6.1.1 logical positivism
+1.6.1.1.1 the impact of the verification principle on the use of religious language, with reference to: Ayer’s approach to verification
+1.6.1.2 Wittgenstein’s views on language games and forms of life
+1.6.1.2.1 how language games may permit religious language to be deemed meaningful yet not cognitive
+1.6.1.3 discussion about the factual quality of religious language in the falsification symposium
+1.6.1.3.1 the varying arguments, with their associated parables, put forward in relation to theological language by: Flew, Hare and Mitchell in their contributions to the symposium
+1.6.2 Contextual references
+1.6.2.1 Ayer, A. J. God Talk is Evidently Nonsense
+1.6.2.2 Wittgenstein, L. Philosophical Investigations

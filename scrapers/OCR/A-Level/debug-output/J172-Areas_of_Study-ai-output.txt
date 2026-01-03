@@ -1,0 +1,9 @@
+1 Advertising
+2 Communication graphics
+3 Design for print
+4 Illustration
+5 Interactive design (including web, app and game design)
+6 Multi-media
+7 Package design
+8 Signage
+9 Typography

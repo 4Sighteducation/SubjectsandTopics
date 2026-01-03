@@ -1,0 +1,141 @@
+Here is the extracted hierarchy from the OCR Economics specification section for Component 1: Microeconomics:
+
+1. Microeconomics
+   1.1 Introduction to microeconomics
+      1.1.1 1.1 The economic problem
+         1.1.1.1 Economic goods and free goods
+         1.1.1.2 The economic problem: scarcity, choice, needs, and wants
+         1.1.1.3 Normative and positive statements
+         1.1.1.4 The role of economic agents: government, firms, and households
+         1.1.1.5 The factors of production: land, labour, capital, and enterprise
+         1.1.1.6 The rewards of the factors of production: rent, wages, interest and profit
+      1.1.2 1.2 The allocation of resources
+         1.1.2.1 Incentives
+         1.1.2.2 Market, planned and mixed economic systems
+         1.1.2.3 Economic efficiency: productive and allocative efficiency
+      1.1.3 1.3 Opportunity cost
+         1.1.3.1 Opportunity cost and trade-off
+         1.1.3.2 Movements along a production possibility curve (PPC)
+         1.1.3.3 Shifts of a production possibility curve (PPC)
+   1.2 The role of markets
+      1.2.1 2.1 Specialisation and trade
+         1.2.1.1 Specialisation and the division of labour
+         1.2.1.2 Barter systems
+         1.2.1.3 Money as a medium of exchange
+      1.2.2 2.2 Demand
+         1.2.2.1 The relationship between price and quantity demanded
+         1.2.2.2 Individual and market demand
+         1.2.2.3 Joint, competitive and composite demand
+         1.2.2.4 Movements along the demand curve (extension/contraction)
+         1.2.2.5 Shifts of the demand curve (increase/decrease)
+      1.2.3 2.3 Supply
+         1.2.3.1 The relationship between price and quantity supplied
+         1.2.3.2 Individual and market supply
+         1.2.3.3 Joint and competitive supply
+         1.2.3.4 Movements along the supply curve (extension/contraction)
+         1.2.3.5 Shifts of the supply curve (increase/decrease)
+      1.2.4 2.4 Consumer and producer surplus
+         1.2.4.1 Consumer surplus and producer surplus
+         1.2.4.2 The effects of changes in price on consumer surplus
+         1.2.4.3 The effects of changes in price on producer surplus
+      1.2.5 2.5 The interaction of markets
+         1.2.5.1 Ceteris paribus
+         1.2.5.2 The interaction of demand and supply
+         1.2.5.3 Market equilibrium and disequilibrium
+      1.2.6 2.6 Elasticity
+         1.2.6.1 Elasticity
+         1.2.6.2 Price elasticity of demand (PED)
+         1.2.6.3 Income elasticity of demand (YED)
+         1.2.6.4 Cross elasticity of demand (XED)
+         1.2.6.5 Price elasticity of supply (PES)
+         1.2.6.6 Different values of PED, YED, XED and PES
+         1.2.6.7 The relationship between PED and a firm’s total revenue
+      1.2.7 2.7 The concept of the margin
+         1.2.7.1 Margin
+         1.2.7.2 Total and marginal utility, diminishing marginal utility and the demand curve
+         1.2.7.3 Marginal values
+      1.2.8 2.8 Market failure and externalities
+         1.2.8.1 Market failure
+         1.2.8.2 Marginal social cost, marginal external cost, marginal private cost, marginal social benefit, marginal external benefit and marginal private benefit
+         1.2.8.3 Positive and negative externalities (external benefits and external costs); consumption and production
+      1.2.9 2.9 Information failure
+         1.2.9.1 Information failure
+         1.2.9.2 Asymmetric information and moral hazard
+         1.2.9.3 Merit and demerit goods
+         1.2.9.4 Market failure caused by information failure
+      1.2.10 2.10 Public goods
+         1.2.10.1 Public goods, private goods and quasi-public goods
+         1.2.10.2 The characteristics of a public good; non-excludability, non-diminishability/non-rivalry, non-rejectability and zero marginal cost
+         1.2.10.3 The free rider problem
+      1.2.11 2.11 Government intervention
+         1.2.11.1 Government intervention in markets: Taxation, subsidies, government expenditure, price controls, buffer stock systems, public/private partnerships, legislation, regulation, tradable pollution permits, information provision, competition policy
+         1.2.11.2 Government failure
+   1.3 Business objectives
+      1.3.1 3.1 Business objectives
+         1.3.1.1 Maximisation objectives: profit, sales revenue, sales volume, growth and utility
+         1.3.1.2 Non-maximising objectives: profit satisficing, social welfare, corporate social responsibility (CSR)
+         1.3.1.3 The principal-agent problem
+      1.3.2 3.2 Costs and economies of scale
+         1.3.2.1 Fixed, variable, total, average, marginal costs
+         1.3.2.2 Short run and long run in terms of fixed and variable factors
+         1.3.2.3 The law of diminishing returns
+         1.3.2.4 Internal and external economies of scale
+         1.3.2.5 Diseconomies of scale
+         1.3.2.6 Minimum efficient scale
+      1.3.3 3.3 Revenue and profit
+         1.3.3.1 Total, average and marginal revenue
+         1.3.3.2 Profit/loss
+         1.3.3.3 Accounting, normal and supernormal profit
+   1.4 Market structures
+      1.4.1 4.1 Perfect competition
+         1.4.1.1 The characteristics of perfect competition
+         1.4.1.2 Short run perfect competition; supernormal profit/loss
+         1.4.1.3 Long run perfect competition: normal profits
+         1.4.1.4 Individual firm in perfect competition as a price taker
+         1.4.1.5 Equilibrium price and output for a firm in perfect competition
+         1.4.1.6 Allocative efficiency in short run and long run perfect competition
+         1.4.1.7 Productive efficiency in long run perfect competition
+      1.4.2 4.2 Monopoly
+         1.4.2.1 The characteristics of monopoly
+         1.4.2.2 Dynamic efficiency
+         1.4.2.3 X-inefficiency
+         1.4.2.4 Monopoly; supernormal profit in both short and long run
+         1.4.2.5 A monopolist as a price maker
+         1.4.2.6 Equilibrium price and output for a profit maximising monopolist
+         1.4.2.7 Productive and allocative efficiency with a profit maximising monopolist
+         1.4.2.8 Price discrimination by a firm with monopoly power
+         1.4.2.9 Natural monopoly
+      1.4.3 4.3 Monopolistic competition
+         1.4.3.1 The characteristics of monopolistic competition
+         1.4.3.2 Short run monopolistic competition; supernormal profit/loss
+         1.4.3.3 Long run monopolistic competition; normal profits
+         1.4.3.4 Equilibrium price and output for a firm in monopolistic competition
+      1.4.4 4.4 Oligopoly
+         1.4.4.1 The characteristics of oligopoly
+         1.4.4.2 Non-price competition
+         1.4.4.3 Interdependence: kinked demand curve
+         1.4.4.4 Types of collusion
+         1.4.4.5 Product differentiation
+         1.4.4.6 Concentration ratios
+      1.4.5 4.5 Contestable markets
+         1.4.5.1 The characteristics of a contestable market
+         1.4.5.2 Productive and allocative efficiency in a contestable market
+   1.5 The labour market
+      1.5.1 5.1 Demand for labour
+         1.5.1.1 Derived demand for labour
+         1.5.1.2 Factors affecting the demand for labour in an industry
+         1.5.1.3 Factors affecting wage elasticity of demand for labour
+         1.5.1.4 Productivity and unit labour costs
+         1.5.1.5 Marginal revenue product theory in relation to employment and wage determination
+      1.5.2 5.2 Supply of labour
+         1.5.2.1 Factors affecting the supply of labour to an industry
+         1.5.2.2 Factors affecting the wage elasticity of the supply of labour
+         1.5.2.3 Short run and long run supply of labour
+         1.5.2.4 Economic rent and transfer earnings
+      1.5.3 5.3 The interaction of labour markets
+         1.5.3.1 Wage differentials
+         1.5.3.2 Monopsony
+         1.5.3.3 Trade union
+         1.5.3.4 Bilateral monopoly
+         1.5.3.5 The determination of wages in a highly competitive labour market
+         1.5.3.6 Changes in demand for, and supply of, labour

@@ -1,0 +1,277 @@
+Topic C3: Chemical reactions
+C3.1 Introducing chemical reactions
+Summary Common misconceptions
+A chemical equation represents, in symbolic terms, the overall change in a Although learners may have met the conservation of mass they still tend to refer
+chemical reaction. New materials are formed through chemical reactions but to chemical reactions as losing mass. They understand that mass is conserved but
+mass will be conserved. This can be explained by a model involving the not the number or species of atoms. They may think that the original substance
+rearrangement of atoms. Avogadro gave us a system of measuring the amount vanishes ‘completely and forever’ in a chemical reaction.
+of a substance in moles.
+Tiering
+Underlying knowledge and understanding Statements shown in bold type will only be tested in the Higher Tier papers.
+Learners should be familiar with chemical symbols and formulae for elements and All other statements will be assessed in both Foundation and Higher Tier papers.
+compounds. They should also be familiar with representing chemical reactions
+using formulae and equations. Learners will have knowledge of conservation of
+mass, changes of state and chemical reactions.
+Reference Mathematical learning outcomes Mathematical skills
+CM3.1i arithmetic computation and ratio when determining empirical formulae, balancing equations M1a, M1c
+CM3.1ii calculations with numbers written in standard form when using the Avogadro constant M1b
+CM3.1iii provide answers to an appropriate number of significant figures M2a
+CM3.1iv convert units where appropriate particularly from mass to moles M1c
+24
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C3.1a use chemical symbols to write the formulae M1a, M1c WS1.4a
+of elements and simple covalent and ionic
+compounds
+C3.1b use the names and symbols of common M1a, M1c WS1.4c
+elements and compounds and the principle
+of conservation of mass to write formulae
+and balanced chemical equations and half
+equations
+C3.1c use the names and symbols of common the first 20 elements, Groups 1, 7, and 0
+elements from a supplied Periodic Table and other common elements included
+to write formulae and balanced chemical within the specification
+equations where appropriate
+C3.1d use the formula of common ions to deduce M1a, M1c
+the formula of a compound
+C3.1e construct balanced ionic equations M1a, M1c
+C3.1f describe the physical states of products and
+reactants using state symbols (s, l, g and aq)
+C3.1g recall and use the definitions of the the calculation of the mass of one M1b, M1c WS1.4b,
+Avogadro constant (in standard form) and atom/molecule WS1.4c,
+of the mole In recognition of IUPAC’s review, we will WS1.4d,
+accept both the classical (carbon-12 WS1.4f
+based) and revised (Avogadro constant
+based) definitions of the mole in
+examinations from June 2018 onwards
+(see https://iupac.org/
+new-definition-mole-arrived/)
+C3.1h explain how the mass of a given substance is M1c, M2a WS1.4b,
+related to the amount of that substance in WS1.4c
+moles and vice versa
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+25
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C3.1i recall and use the law of conservation of WS1.4c
+mass
+C3.1j explain any observed changes in mass in WS1.1b,
+non-enclosed systems during a chemical WS1.4c
+reaction and explain them using the
+particle model
+C3.1k deduce the stoichiometry of an equation M1c WS1.3c,
+from the masses of reactants and WS1.4c,
+products and explain the effect of a WS1.4d,
+limiting quantity of a reactant WS1.4f
+C3.1l use a balanced equation to calculate M1c WS1.3c,
+masses of reactants or products WS1.4c
+26
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+C3.2 Energetics
+Summary Common misconceptions
+Chemical reactions are accompanied by an energy change. A simple model Learners commonly have the idea that energy is lost or used up. They do not
+involving the breaking and making of chemical bonds can be used to interpret grasp the idea that energy is transferred. Learners also wrongly think that energy
+and calculate the energy change. is released when bonds break and do not link this release of energy with the
+formation of bonds. They also may think for example that a candle burning is
+Underlying knowledge and understanding endothermic because heat is needed to initiate the reaction.
+Learners should be familiar with exothermic and endothermic chemical
+reactions. Tiering
+Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+CM3.2i interpretation of charts and graphs when dealing with reaction profiles M4a
+CM3.2ii arithmetic computation when calculating energy changes M1a
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+27
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C3.2a distinguish between endothermic and WS1.4c Measuring the temperature
+exothermic reactions on the basis of the change in reactions. (PAG C8)
+temperature change of the surroundings
+C3.2b draw and label a reaction profile for an activation energy, energy change, M4a WS1.3b,
+exothermic and an endothermic reaction reactants and products WS1.3c,
+WS1.3d,
+WS1.3e,
+WS1.3g,
+WS1.3h,
+WS1.4c
+C3.2c explain activation energy as the energy WS1.4c
+needed for a reaction to occur
+C3.2d calculate energy changes in a chemical M1a WS1.3c,
+reaction by considering bond making and WS1.4c
+bond breaking energies
+28
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+C3.3 Types of chemical reactions
+Summary Common misconceptions
+Chemical reactions can be classified according to changes at the atomic and Learners commonly intuitively adhere to the idea that hydrogen ions in an acid
+molecular level. Examples of these include reduction, oxidation and neutralisation are still part of the molecule, not free in the solution. They tend to have little
+reactions. understanding of pH, for example, they tend to think that alkalis are less corrosive
+than acids. Learners also may think that the strength of acids and bases and
+Underlying knowledge and understanding concentration mean the same thing.
+Learners should be familiar with combustion, thermal decomposition, oxidation
+and displacement reactions. They will be familiar with defining acids and alkalis in Tiering
+terms of neutralisation reactions. Learners will have met reactions of acids with Statements shown in bold type will only be tested in the Higher Tier papers.
+alkalis to produce a salt and water and reactions of acids with metals to produce a All other statements will be assessed in both Foundation and Higher Tier papers.
+salt and hydrogen. They should have met the pH scale for measuring acidity and
+alkalinity, and some indicators.
+Reference Mathematical learning outcomes Mathematical skills
+CM3.3i arithmetic computation, ratio, percentage and multistep calculations permeates quantitative M1a, M1c, M1d
+chemistry
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+29
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C3.3a explain reduction and oxidation in terms of loss or the concept of oxidising agent WS1.4a
+gain of oxygen, identifying which species are and reducing agent
+oxidised and which are reduced
+C3.3b explain reduction and oxidation in terms of gain or WS1.4a
+loss of electrons, identifying which species are
+oxidised and which are reduced
+C3.3c recall that acids form hydrogen ions when they WS1.4a
+dissolve in water and solutions of alkalis contain
+hydroxide ions
+C3.3d describe neutralisation as acid reacting with alkali WS1.4a Production of pure dry sample of
+or a base to form a salt plus water salt. (PAG C7)
+C3.3e recognise that aqueous neutralisation reactions can WS1.4a
+be generalised to hydrogen ions reacting with
+hydroxide ions to form water
+C3.3f recall that carbonates and some metals react with WS1.4a
+acids and write balanced equations predicting
+products from given reactants
+C3.3g use and explain the terms dilute and concentrated ratio of amount of acid to M1a, M1c, WS1.4a
+(amount of substance) and weak and strong volume of solution M1d
+(degree of ionisation) in relation to acids
+C3.3h recall that relative acidity and alkalinity are WS1.4a
+measured by pH
+30
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C3.3i describe neutrality and relative acidity and pH of titration curves WS1.4a Neutralisation reactions. (PAG C6)
+alkalinity in terms of the effect of the
+concentration of hydrogen ions on the
+numerical value of pH (whole numbers only)
+C3.3j use the idea that as hydrogen ion M1a, M1c, WS1.4a
+concentration increases by a factor of ten, the M1d
+pH value of a solution decreases by one
+C3.3k describe techniques and apparatus used to the use of universal indicator Determining pH of unknown
+measure pH and pH meters solutions. (PAG C6)
+Use of pH probes. (PAG C6)
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+31
+Version
+3.6
+©
+OCR
+2024
+2
+C3.4 Electrolysis
+Summary Common misconceptions
+Decomposition of a liquid during the conduction of electricity is a chemical A common misconception is that ionic solutions conduct because of the
+reaction called electrolysis. This section explores the electrolysis of various movement of electrons. Another common misconception is that ionic solids do
+molten ionic liquids and aqueous ionic solutions. not conduct electricity because electrons cannot move.
+Underlying knowledge and understanding Tiering
+Learners should be familiar with ionic solutions and solids. Statements shown in bold t

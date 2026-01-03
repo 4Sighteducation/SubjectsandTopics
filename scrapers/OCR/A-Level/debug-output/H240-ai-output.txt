@@ -1,0 +1,317 @@
+1 Pure Mathematics
+1.1 1.01 Proof
+1.1.1 Proof
+1.1.1.1 1.01a Understand and be able to use the structure of mathematical proof, proceeding from given assumptions through a series of logical steps to a conclusion. In particular, learners should understand a proof of the irrationality of √2 and the infinity of primes. Learners should use methods of proof including proof by deduction and proof by exhaustion.
+1.1.1.2 1.01b Understand and be able to use the logical connectives ⇒, ⇔. Learners should be familiar with the language associated with the logical connectives: “congruence”, “if... then” and “if and only if” (or “iff”).
+1.1.1.3 1.01c Be able to show disproof by counter example. Learners should understand that this means that, given a statement of the form “if P(x) is true then Q(x) is true”, finding a single x for which P(x) is true but Q(x) is false is to offer a disproof by counter example.
+1.1.1.4 1.01d Understand and be able to use proof by contradiction. Questions requiring proof by contradiction will be set on content with which the learner is expected to be familiar e.g. through study of GCSE (9–1), AS or A Level Mathematics.
+
+1.2 1.02 Algebra and Functions
+1.2.1 Indices
+1.2.1.1 1.02a Understand and be able to use the laws of indices for all rational exponents. Includes negative and zero indices. Problems may involve the application of more than one of the following laws: x^a * x^b = x^(a+b), x^a / x^b = x^(a-b), (x^a)^b = x^(ab), x^(-a) = 1/x^a, x^(1/n) = n√x, x^0 = 1.
+1.2.2 Surds
+1.2.2.1 1.02b Be able to use and manipulate surds, including rationalising the denominator. Learners should understand and use the equivalence of surd and index notation.
+1.2.3 Simultaneous Equations
+1.2.3.1 1.02c Be able to solve simultaneous equations in two variables by elimination and by substitution, including one linear and one quadratic equation. The equations may contain brackets and/or fractions.
+1.2.4 Quadratic Functions
+1.2.4.1 1.02d Be able to work with quadratic functions and their graphs, and the discriminant (Δ or D) of a quadratic function, including the conditions for real and repeated roots. Use the conditions: b^2 - 4ac > 0 (real distinct roots), b^2 - 4ac = 0 (repeated roots), b^2 - 4ac < 0 (roots are not real) to determine the number and nature of the roots of a quadratic equation and relate the results to a graph of the quadratic function.
+1.2.4.2 1.02e Be able to complete the square of the quadratic polynomial ax^2 + bx + c. e.g. Writing y = ax^2 + bx + c in the form y = a(x + p)^2 + q in order to find the line of symmetry x = -p, the turning point (-p, q) and to determine the nature of the roots of the equation ax^2 + bx + c = 0.
+1.2.4.3 1.02f Be able to solve quadratic equations including quadratic equations in a function of the unknown.
+1.2.5 Inequalities
+1.2.5.1 1.02g Be able to solve linear and quadratic inequalities in a single variable and interpret such inequalities graphically, including inequalities with brackets and fractions.
+1.2.5.2 1.02h Be able to express solutions through correct use of 'and' and 'or', or through set notation. Familiarity is expected with the correct use of set notation for intervals, e.g. {x : x > 3}, {x : -2 ≤ x ≤ 4}, {x : x > 3} ∪ {x : -2 ≤ x ≤ 4}, ℚ. Familiarity is expected with interval notation, e.g. (2, 3), [2, 3) and [2, 3].
+1.2.5.3 1.02i Be able to represent linear and quadratic inequalities such as y > x + 1 and y > ax^2 + bx + c graphically.
+1.2.6 Polynomials
+1.2.6.1 1.02j Be able to manipulate polynomials algebraically. Includes expanding brackets, collecting like terms, factorising, simple algebraic division and use of the factor theorem. Learners should be familiar with the terms “quadratic”, “cubic” and “parabola”.
+1.2.6.2 1.02k Be able to simplify rational expressions. Includes factorising and cancelling, and algebraic division by linear expressions.
+1.2.7 The Modulus Function
+1.2.7.1 1.02l Understand and be able to use the modulus function, including the notation |x|, and use relations such as |a| = b ⇔ a^2 = b^2 and |x - a| < b ⇔ a - b < x < a + b in the course of solving equations and inequalities.
+1.2.8 Curve Sketching
+1.2.8.1 1.02m Understand and be able to use graphs of functions. The difference between plotting and sketching a curve should be known.
+1.2.8.2 1.02n Be able to sketch curves defined by simple equations including polynomials. Familiarity is expected with sketching a polynomial of degree ≤ 4 in factorised form, including repeated roots.
+1.2.8.3 1.02o Be able to sketch curves defined by y = a/x and y = a/x^2 (including their vertical and horizontal asymptotes).
+1.2.8.4 1.02p Be able to interpret the algebraic solution of equations graphically.
+1.2.8.5 1.02q Be able to use intersection points of graphs to solve equations. Intersection points may be between two curves one or more of which may be a polynomial, a trigonometric, an exponential or a reciprocal graph.
+1.2.8.6 1.02r Understand and be able to use proportional relationships and their graphs. Understand and use different proportional relationships and relate them to linear, reciprocal or other graphs of variation.
+1.2.9 Functions
+1.2.9.1 1.02u Understand and be able to use the definition of a function. The vocabulary and associated notation is expected i.e. the terms many-one, one-many, one-one, mapping, image, range, domain.
+1.2.9.2 1.02v Understand and be able to use inverse functions and their graphs, and composite functions. Know the condition for the inverse function to exist and be able to find the inverse of a function either graphically, by reflection in the line y = x, or algebraically.
+1.2.10 Graph Transformations
+1.2.10.1 1.02w Understand the effect of simple transformations on the graph of y = f(x) including sketching associated graphs, describing transformations and finding relevant equations: y = af(x), y = f(x) + a, y = f(x + a) and y = f(ax), for any real a. Only single transformations will be requested.
+1.2.10.2 1.02x Understand the effect of combinations of transformations on the graph of y = f(x) including sketching associated graphs, describing transformations and finding relevant equations. The transformations may be combinations of y = af(x), y = f(x) + a, y = f(x + a) and y = f(ax), for any real a, and f any function defined in the Stage 1 or Stage 2 content.
+1.2.11 Partial Fractions
+1.2.11.1 1.02y Be able to decompose rational functions into partial fractions (denominators not more complicated than squared linear terms and with no more than 3 terms, numerators constant or linear).
+1.2.12 Models in Context
+1.2.12.1 1.02z Be able to use functions in modelling. Includes consideration of modelling assumptions, limitations and refinements of models, and comparing models.
+
+1.3 1.03 Coordinate Geometry in the x-y Plane
+1.3.1 Straight Lines
+1.3.1.1 1.03a Understand and be able to use the equation of a straight line, including the forms y = mx + c, y - y1 = m(x - x1) and ax + by + c = 0. Learners should be able to draw a straight line given its equation and to form the equation given a graph of the line, the gradient and one point on the line, or at least two points on the line.
+1.3.1.2 1.03b Be able to use the gradient conditions for two straight lines to be parallel or perpendicular. For parallel lines m1 = m2 and for perpendicular lines m1 * m2 = -1.
+1.3.1.3 1.03c Be able to use straight line models in a variety of contexts. These problems may be presented within realistic contexts including average rates of change.
+1.3.2 Circles
+1.3.2.1 1.03d Understand and be able to use the coordinate geometry of a circle including using the equation of a circle in the form (x - a)^2 + (y - b)^2 = r^2. Learners should be able to draw a circle given its equation or to form the equation given its centre and radius.
+1.3.2.2 1.03e Be able to complete the square to find the centre and radius of a circle.
+1.3.2.3 1.03f Be able to use the following circle properties in the context of problems in coordinate geometry: the angle in a semicircle is a right angle, the perpendicular from the centre of a circle to a chord bisects the chord, the radius of a circle at a given point on its circumference is perpendicular to the tangent to the circle at that point. Learners should also be able to investigate whether or not a line and a circle or two circles intersect.
+1.3.3 Parametric Equations of Curves
+1.3.3.1 1.03g Understand and be able to use the parametric equations of curves and be able to convert between cartesian and parametric forms. Learners should understand the meaning of the terms parameter and parametric equation. Includes sketching simple parametric curves.
+1.3.3.2 1.03h Be able to use parametric equations in modelling in a variety of contexts. The contexts may be within pure mathematics or in realistic contexts, for example those involving related rates of change.
+
+1.4 1.04 Sequences and Series
+1.4.1 Binomial Expansion
+1.4.1.1 1.04a Understand and be able to use the binomial expansion of (a + bx)^n for positive integer n and the notations n!, nCr, nC0 = nCn = 1. Learners may be asked to find a particular term, but the general term will not be required.
+1.4.1.2 1.04b Understand and know the link to binomial probabilities.
+1.4.1.3 1.04c Be able to extend the binomial expansion of (a + bx)^n to any rational n, including its use for approximation.
+1.4.1.4 1.04d Know that the expansion is valid for |bx/a| < 1. [The proof is not required.]
+1.4.2 Sequences
+1.4.2.1 1.04e Be able to work with sequences including those given by a formula for the nth term and those generated by a simple relation of the form x_(n+1) = f(x_n). Learners may be asked to generate terms, find nth terms and comment on the mathematical behavior of the sequence.
+1.4.2.2 1.04f Understand the meaning of and work with increasing sequences, decreasing sequences and periodic sequences. Learners should know the difference between and be able to recognise: a sequence and a series, finite and infinite sequences.
+1.4.3 Sigma Notation
+1.4.3.1 1.04g Understand and be able to use sigma notation for sums of series.
+1.4.4 Arithmetic Sequences
+1.4.4.1 1.04h Understand and be able to work with arithmetic sequences and series, including the formulae for the nth term and the sum to n terms. The term arithmetic progression (AP) may also be used. The first term will usually be denoted by a, the last term by l and the common difference by d. The sum to n terms will usually be denoted by S_n.
+1.4.5 Geometric Sequences
+1.4.5.1 1.04i Understand and be able to work with geometric sequences and series including the formulae for the nth term and the sum of a finite geometric series. Learners should know the difference between convergent and divergent geometric sequences and series.
+1.4.5.2 1.04j Understand and be able to work with the sum to infinity of a convergent geometric series, including the use of |r| < 1 and the use of modulus notation in the condition for convergence. The term geometric progression (GP) may also be used. The first term will usually be denoted by a and the common ratio by r. The sum to n terms will usually be denoted by S_n and the sum to infinity by S_∞.
+1.4.6 Modelling
+1.4.6.1 1.04k Be able to use sequences and series in modelling. Contexts involving compound and simple interest on bank deposits, loans, mortgages, etc. and other contexts in which growth or decay can be modelled by an arithmetic or geometric sequence. Includes solving inequalities involving exponentials and logarithms.
+
+1.5 1.05 Trigonometry
+1.5.1 sin, cos and tan for all arguments
+1.5.1.1 1.05a Understand and be able to use the definitions of sine, cosine and tangent for all arguments.
+1.5.2 Sine and Cosine Rules
+1.5.2.1 1.05b Understand and be able to use the sine and cosine rules. Questions may include the use of bearings and require the use of the ambiguous case of the sine rule.
+1.5.3 Area of a Triangle
+1.5.3.1 1.05c Understand and be able to use the area of a triangle in the form 1/2 ab sinC.
+1.5.4 Radians
+1.5.4.1 1.05d Be able to work with radian measure, including use for arc length and area of sector. Learners should know the formulae s = rθ and A = 1/2 r^2θ. Learners should be able to use the relationship between degrees and radians.
+1.5.5 Small Angle Approximations
+1.5.5.1 1.05e Understand and be able to use the standard small angle approximations of sine, cosine and tangent: sinθ ≈ θ, cosθ ≈ 1 - 1/2 θ^2, tanθ ≈ θ, where θ is in radians.
+1.5.6 Graphs of the Basic Trigonometric Functions
+1.5.6.1 1.05f Understand and be able to use the sine, cosine and tangent functions, their graphs, symmetries and periodicities. Includes knowing and being able to use exact values of sinθ and cosθ for θ = 0, π/6, π/4, π/3, π/2, π and multiples thereof, and exact values of tanθ for θ = 0, π/6, π/4, π/3, π and multiples thereof.
+1.5.7 Inverse and Reciprocal Trigonometric Ratios
+1.5.7.1 1.05h Understand and be able to use the definitions of secant (secθ), cosecant (cosecθ) and cotangent (cotθ) and of arcsinθ, arccosθ and arctanθ and their relationships to sinθ, cosθ and tanθ respectively.
+1.5.7.2 1.05i Understand the graphs of the functions given in 1.05h, their ranges and domains. In particular, learners should know that the principal values of the inverse trigonometric relations may be denoted by arcsinθ or sin^(-1)θ, arccosθ or cos^(-1)θ, arctanθ or tan^(-1)θ and relate their graphs (for the appropriate domain) to the graphs of sinθ, cosθ and tanθ.
+1.5.8 Trigonometric Identities
+1.5.8.1 1.05j Understand and be able to use tanθ = sinθ/cosθ and sin^2θ + cos^2θ = 1.
+1.5.8.2 1.05k Understand and be able to use sec^2θ = 1 + tan^2θ and cosec^2θ = 1 + cot^2θ. In particular, the identities in 1.05j and 1.05k may be used in solving trigonometric equations, proving trigonometric identities or in evaluating integrals.
+1.5.9 Further Trigonometric Identities
+1.5.9.1 1.05l Understand and be able to use double angle formulae and the formulae for sin(A ± B), cos(A ± B) and tan(A ± B). Learners may be required to use the formulae to prove trigonometric identities, simplify expressions, evaluate expressions exactly, solve trigonometric equations or find derivatives and integrals.
+1.5.9.2 1.05m Understand the geometrical proofs of these formulae.
+1.5.9.3 1.05n Understand and be able to use expressions for a cosθ + b sinθ in the equivalent forms of R cos(θ ± α) or R sin(θ ± α). In particular, learners should be able to: sketch graphs of a cosθ + b sinθ, determine features of the graphs including minimum or maximum points and solve equations of the form a cosθ + b sinθ = c.
+1.5.10 Trigonometric Equations
+1.5.10.1 1.05o Be able to solve simple trigonometric equations in a given interval, including quadratic equations in sinθ, cosθ and tanθ and equations involving multiples of the unknown angle.
+1.5.10.2 1.05p Be able to construct proofs involving trigonometric functions and identities. Includes constructing a mathematical argument as described in Section 1.01.
+1.5.11 Trigonometric Functions in Context
+1.5.11.1 1.05q Be able to use trigonometric functions to solve problems in context, including problems involving vectors, kinematics and forces. Problems may include realistic contexts, e.g. movement of tides, sound waves, etc. as well as problems in vector form which involve resolving directions and quantities in mechanics.
+
+1.6 1.06 Exponentials and Logarithms
+1.6.1 Properties of the Exponential Function
+1.6.1.1 1.06a Know and use the function a^x and its graph, where a is positive. Know and use the function e^x and its graph. Examples may include the comparison of two population models or models in a biological or financial context. The link with geometric sequences may also be made.
+1.6.2 Gradient of e^(kx)
+1.6.2.1 1.06b Know that the gradient of e^(kx) is equal to ke^(kx) and hence understand why the exponential model is suitable in many applications.
+1.6.3 Properties of the Logarithm
+1.6.3.1 1.06c Know and use the definition of log_a(x) (for x > 0) as the inverse of a^x (for all x), where a is positive. Learners should be able to convert from index to logarithmic form and vice versa as a^b = c ⇔ b = log_a(c). The values log_a(a) = 1 and log_a(1) = 0 should be known.
+1.6.3.2 1.06d Know and use the function ln(x) and its graph.
+1.6.3.3 1.06e Know and use ln(x) as the inverse function of e^x. e.g. In solving equations involving logarithms or exponentials. The values ln(e) = 1 and ln(1) = 0 should be known.
+1.6.4 Laws of Logarithms
+1.6.4.1 1.06f Understand and be able to use the laws of logarithms: log_a(x) + log_a(y) = log_a(xy), log_a(x) - log_a(y) = log_a(x/y), k log_a(x) = log_a(x^k) (including, for example, k = -1 and k = -1/2). Learners should be able to use these laws in solving equations and simplifying expressions involving logarithms. [Change of base is excluded.]
+1.6.5 Equations Involving Exponentials
+1.6.5.1 1.06g Be able to solve equations of the form a^x = b for a > 0. Includes solving equations which can be reduced to this form such as 2^(x) = 3^(2x-1), either by reduction to the form a^x = b or by taking logarithms of both sides.
+1.6.6 Reduction to Linear Form
+1.6.6.1 1.06h Be able to use logarithmic graphs to estimate parameters in relationships of the form y = ax^n and y = kb^x, given data for x and y. Learners should be able to reduce equations of these forms to a linear form and hence estimate values of a and n, or k and b by drawing graphs using given experimental data and using appropriate calculator functions.
+1.6.7 Modelling Using Exponential Functions
+1.6.7.1 1.06i Understand and be able to use exponential growth and decay and use the exponential function in modelling. Examples may include the use of e in continuous compound interest, radioactive decay, drug concentration decay and exponential growth as a model for population growth. Includes consideration of limitations and refinements of exponential models.
+
+1.7 1.07 Differentiation
+1.7.1 Gradients
+1.7.1.1 1.07a Understand and be able to use the derivative of f(x) as the gradient of the tangent to the graph of y = f(x) at a general point (x, y).
+1.7.1.2 1.07b Understand and be able to use the gradient of the tangent at a point where x = a as: the limit of the gradient of a chord as x tends to a, a rate of change of y with respect to x. Learners should be able to use the notation dy/dx to denote the rate of change of y with respect to x. Learners should be able to use the notations f'(x) and dy/dx and recognise their equivalence.
+1.7.1.3 1.07c Understand and be able to sketch the gradient function for a given curve.
+1.7.1.4 1.07d Understand and be able to find second derivatives. Learners should be able to use the notations f''(x) and d^2y/dx^2 and recognise their equivalence.
+1.7.1.5 1.07e Understand and be able to use the second derivative as the rate of change of gradient. e.g. For distinguishing between maximum and minimum points.
+1.7.1.6 1.07f Understand and be able to use the second derivative in connection to convex and concave sections of curves and points of inflection. In particular, learners should know that: if f''(x) > 0 on an interval, the function is convex in that interval; if f''(x) < 0 on an interval the function is concave in that interval; if f''(x) = 0 and the curve changes from concave to convex or vice versa there is a point of inflection.
+1.7.2 Differentiation from First Principles
+1.7.2.1 1.07g Be able to show differentiation from first principles for small positive integer powers of x. In particular, learners should be able to use the definition f'(x) = lim(h→0) [f(x+h) - f(x)]/h including the notation. [Integer powers greater than 4 are excluded.]
+1.7.2.2 1.07h Be able to show differentiation from first principles for sin x and cos x.
+1.7.3 Differentiation of Standard Functions
+1.7.3.1 1.07i Be able to differentiate x^n, for rational values of n, and related constant multiples, sums and differences.
+1.7.3.2 1.07j Be able to differentiate e^(kx) and a^(kx), and related sums, differences and constant multiples.
+1.7.3.3 1.07k Be able to differentiate sin(kx), cos(kx), tan(kx) and related sums, differences and constant multiples.
+1.7.3.4 1.07l Understand and be able to use the derivative of ln x.
+1.7.4 Tangents, Normals, Stationary Points, Increasing and Decreasing Functions
+1.7.4.1 1.07m Be able to apply differentiation to find the gradient at a point on a curve and the equations of tangents and normals to a curve.
+1.7.4.2 1.07n Be able to apply differentiation to find and classify stationary points on a curve as either maxima or minima. Classification may involve use of the second derivative or first derivative or other methods.
+1.7.4.3 1.07o Be able to identify where functions are increasing or decreasing. i.e. To be able to use the sign of dy/dx to determine whether the function is increasing or decreasing.
+1.7.4.4 1.07p Be able to apply differentiation to find points of inflection on a curve. In particular, learners should know that if a curve has a point of inflection at x then f''(x) = 0 and there is a sign change in the second derivative on either side of x; if f'(x) = 0 at that point, then the point of inflection is a stationary point, but if f'(x) ≠ 0 at that point, then the point of inflection is not a stationary point.
+1.7.5 Techniques of Differentiation
+1.7.5.1 1.07q Be able to differentiate using the product rule and the quotient rule.
+1.7.5.2 1.07r Be able to differentiate using the chain rule, including problems involving connected rates of change and inverse functions. In particular, learners should be able to use the following relations: dy/dx = 1/(dx/dy) and dy/dx = (dy/du) * (du/dx).
+1.7.5.3 1.07s Be able to differentiate simple functions and relations defined implicitly or parametrically for the first derivative only. They should be able to find the gradient at a point on a curve and to use this to find the equations of tangents and normals, and to solve associated problems. Includes differentiation of functions defined in terms of a parameter using the chain rule.
+1.7.6 Constructing Differential Equations
+1.7.6.1 1.07t Be able to construct simple differential equations in pure mathematics and in context (contexts may include kinematics, population growth and modelling the relationship between price and demand).
+
+1.8 1.08 Integration
+1.8.1 Fundamental Theorem of Calculus
+1.8.1.1 1.08a Know and be able to use the fundamental theorem of calculus. i.e. Learners should know that integration may be defined as the reverse of differentiation and be able to apply the result that ∫ f(x) dx = F(x) + c ⇔ d/dx [F(x)] = f(x), for sufficiently well-behaved functions. Includes understanding and being able to use the terms indefinite and definite when applied to integrals.
+1.8.2 Indefinite Integrals
+1.8.2.1 1.08b Be able to integrate x^n where n ≠ -1 and related sums, differences and constant multiples.
+1.8.2.2 1.08c Be able to integrate e^(kx), sin(kx), cos(kx), 1/x and related sums, differences and constant multiples. Learners should also be able to solve problems involving the evaluation of a constant of integration e.g. to find the equation of the curve through (-1, 2) for which dy/dx = 2x + 1.
+1.8.3 Definite Integrals and Areas
+1.8.3.1 1.08d Be able to evaluate definite integrals.
+1.8.3.2 1.08e Be able to use a definite integral to find the area between a curve and the x-axis. This area is defined to be that enclosed by a curve, the x-axis and two ordinates. Areas may be included which are partly below and partly above the x-axis, or entirely below the x-axis. This includes curves defined parametrically.
+1.8.3.3 1.08f Be able to use a definite integral to find the area between two curves. This may include using integration to find the area of a region bounded by a curve and lines parallel to the coordinate axes, or between two curves or between a line and a curve.
+1.8.4 Integration as the Limit of a Sum
+1.8.4.1 1.08g Understand and be able to use integration as the limit of a sum. In particular, they should know that the area under a graph can be found as the limit of a sum of areas of rectangles.
+1.8.5 Integration by Substitution
+1.8.5.1 1.08h Be able to carry out simple cases of integration by substitution. Learners should understand the relationship between this method and the chain rule. Learners will be expected to integrate examples in the form f'(x)(f(x))^n, such as (2x + 3)^5 or x(x^2 + 3)^7, either by inspection or substitution. Integration by substitution is limited to cases where one substitution will lead to a function which can be integrated. Substitutions may or may not be given.
+1.8.6 Integration by Parts
+1.8.6.1 1.08i Be able to carry out simple cases of integration by parts. Learners should understand the relationship between this method and the product rule. Integration by parts may include more than one application of the method e.g. x^2 sin x. Learners will be expected to be able to apply integration by parts to the integral of ln x and related functions. [Reduction formulae are excluded.]
+1.8.7 Use of Partial Fractions in Integration
+1.8.7.1 1.08j Be able to integrate functions using partial fractions that have linear terms in the denominator. i.e. Functions with denominators no more complicated than the forms (ax + b)(cx + d)^2 or (ax + b)(cx + d)(ex + f).
+1.8.8 Differential Equations with Separable Variables
+1.8.8.1 1.08k Be able to evaluate the analytical solution of simple first order differential equations with separable variables, including finding particular solutions. Separation of variables may require factorisation involving a common factor. Includes: finding by integration the general solution of a differential equation involving separating variables or direct integration; using a given initial condition to find a particular solution.
+1.8.9 Interpreting the Solution of a Differential Equation
+1.8.9.1 1.08l Be able to interpret the solution of a differential equation in the context of solving a problem, including identifying limitations of the solution. Includes links to differential equations connected with kinematics. e.g. If the solution of a differential equation is v = 20 - 20e^(-t), where v is the velocity of a parachutist, describe the motion of the parachutist.
+
+1.9 1.09 Numerical Methods
+1.9.1 Sign Change Methods
+1.9.1.1 1.09a Be able to locate roots of f(x) = 0 by considering changes of sign of f(x) in an interval of x on which f(x) is sufficiently well-behaved. Includes verifying the level of accuracy of an approximation by considering upper and lower bounds.
+1.9.1.2 1.09b Understand how change of sign methods can fail. e.g. when the curve y = f(x) touches the x-axis or has a vertical asymptote.
+1.9.2 Formal Iterative Methods
+1.9.2.1 1.09c Be able to solve equations approximately using simple iterative methods, and be able to draw associated cobweb and staircase diagrams.
+1.9.2.2 1.09d Be able to solve equations using the Newton-Raphson method and other recurrence relations of the form x_(n+1) = g(x_n).
+1.9.2.3 1.09e Understand and be able to show how such methods can fail. In particular, learners should know that: the iteration x_(n+1) = g(x_n) converges to a root at x = a if |g'(a)| < 1, and if x_1 is sufficiently close to a; the Newton-Raphson method will fail if the initial value coincides with a stationary point.
+1.9.3 Numerical Integration
+1.9.3.1 1.09f Understand and be able to use numerical integration of functions, including the use of the trapezium rule, and estimating the approximate area under a curve and the limits that it must lie between. Learners will be expected to use the trapezium rule to estimate the area under a curve and to determine whether the trapezium rule gives an under- or over-estimate of the area under a curve. Learners will also be expected to use rectangles to estimate the area under a curve and to establish upper and lower bounds for a given integral. [Simpson’s rule is excluded.]
+1.9.4 Use Numerical Methods in Context
+1.9.4.1 1.09g Be able to use numerical methods to solve problems in context. i.e. for solving problems in context which lead to equations which learners cannot solve analytically.
+
+1.10 1.10 Vectors
+1.10.1 Vectors
+1.10.1.1 1.10a Be able to use vectors in two dimensions. i.e. Learners should be able to use vectors expressed as xi + yj or as a column vector, to use vector notation appropriately either as AB or a. Learners should know the difference between a scalar and a vector, and should distinguish between them carefully when writing by hand.
+1.10.1.2 1.10b Be able to use vectors in three dimensions. i.e. Learners should be able to use vectors expressed as xi + yj + zk or as a column vector. Includes extending 1.10c to 1.10g to include vectors in three dimensions, excluding the direction of a vector in three dimensions.
+1.10.2 Magnitude and Direction of Vectors
+1.10.2.1 1.10c Be able to calculate the magnitude and direction of a vector and convert between component form and magnitude/direction form. Learners should know that the modulus of a vector is its magnitude and the direction of a vector is given by the angle the vector makes with a horizontal line parallel to the positive x-axis. The direction of a vector will be taken to be in the interval [0°, 360°). Includes use of the notation |a| for the magnitude of a and |OA| for the magnitude of OA. Learners should be able to calculate the magnitude of a vector and its direction by using tan^(-1).
+1.10.3 Basic Operations on Vectors
+1.10.3.1 1.10d Be able to add vectors diagrammatically and perform the algebraic operations of vector addition and multiplication by scalars, and understand their geometrical interpretations. i.e. Either a scaling of a single vector or a displacement from one position to another by adding one or more vectors, often in the form of a triangle of vectors.
+1.10.4 Position Vectors
+1.10.4.1 1.10e Understand and be able to use position vectors. Learners should understand the meaning of displacement vector, component vector, resultant vector, parallel vector, equal vector and unit vector.
+1.10.5 Distance Between Points
+1.10.5.1 1.10f Be able to calculate the distance between two points represented by position vectors. i.e. The distance between the points ai + bj and ci + dj is √((c-a)^2 + (d-b)^2).
+1.10.6 Problem Solving Using Vectors
+1.10.6.1 1.10g Be able to use vectors to solve problems in pure mathematics and in context, including forces. e.g. The equations of uniform acceleration may be used in vector form to find an unknown.
+1.10.6.2 1.10h Be able to use vectors to solve problems in kinematics.
+
+2 Statistics
+2.1 2.01 Statistical Sampling
+2.1.1 Statistical Sampling
+2.1.1.1 2.01a Understand and be able to use the terms ‘population’ and ‘sample’.
+2.1.1.2 2.01b Be able to use samples to make informal inferences about the population.
+2.1.1.3 2.01c Understand and be able to use sampling techniques, including simple random sampling and opportunity sampling. When considering random samples, learners may assume that the population is large enough to sample without replacement unless told otherwise.
+2.1.1.4 2.01d Be able to select or critique sampling techniques in the context of solving a statistical problem, including understanding that different samples can lead to different conclusions about the population. Learners should be familiar with (and be able to critique in context) the following sampling methods, but will not be required to carry them out: systematic, stratified, cluster and quota sampling.
+
+2.2 2.02 Data Presentation and Interpretation
+2.2.1 Single Variable Data
+2.2.1.1 2.02a Be able to interpret tables and diagrams for single-variable data. e.g. vertical line charts, dot plots, bar charts, stem-and-leaf diagrams, box-and-whisker plots, cumulative frequency diagrams and histograms (with either equal or unequal class intervals). Includes non-standard representations.
+2.2.1.2 2.02b Understand that area in a histogram represents frequency. Includes the link between histograms and probability distributions. Includes understanding, in context, the advantages and disadvantages of different statistical diagrams.
+2.2.2 Bivariate Data
+2.2.2.1 2.02c Be able to interpret scatter diagrams and regression lines for bivariate data, including recognition of scatter diagrams which include distinct sections of the population. Learners may be asked to add to diagrams in order to interpret data, but not to draw complete scatter diagrams. [Calculation of equations of regression lines is excluded.]
+2.2.2.2 2.02d Be able to understand informal interpretation of correlation.
+2.2.2.3 2.02e Be able to understand that correlation does not imply causation.
+2.2.3 Measures of Average and Spread
+2.2.3.1 2.02f Be able to calculate and interpret measures of central tendency and variation, including mean, median, mode, percentile, quartile, inter-quartile range, standard deviation and variance. Includes understanding that standard deviation is the root mean square deviation from the mean. Includes using the mean and standard deviation to compare distributions.
+2.2.3.2 2.02g Be able to calculate mean and standard deviation from a list of data, from summary statistics or from a frequency distribution, using calculator statistical functions. Includes understanding that, in the case of a grouped frequency distribution, the calculated mean and standard deviation are estimates. Learners should understand and be able to use the following formulae for standard deviation: σ = √(Σ(x - x̄)^2/n) = √(Σx^2/n - x̄^2), σ = √(Σf(x - x̄)^2/Σf) = √(Σfx^2/Σf - x̄^2). [Formal estimation of population variance from a sample is excluded. Learners should be aware that there are different naming and symbol conventions for these measures and what the symbols on their calculator represent.]
+2.2.4 Outliers and Cleaning Data
+2.2.4.1 2.02h Recognise and be able to interpret possible outliers in data sets and statistical diagrams.
+2.2.4.2 2.02i Be able to select or critique data presentation techniques in the context of a statistical problem.
+2.2.4.3 2.02j Be able to clean data, including dealing with missing data, errors and outliers. Learners should be familiar with definitions of outliers: more than 1.5 × (interquartile range) from the nearer quartile, more than 2 × (standard deviation) away from the mean.
+
+2.3 2.03 Probability
+2.3.1 Mutually Exclusive and Independent Events
+2.3.1.1 2.03a Understand and be able to use mutually exclusive and independent events when calculating probabilities. Includes understanding and being able to use the notation: P(A), P(A'), P(X = 2), P(X = x). Includes linking their knowledge of probability to probability distributions.
+2.3.2 Probability
+2.3.2.1 2.03b Be able to use appropriate diagrams to assist in the calculation of probabilities. Includes tree diagrams, sample space diagrams, Venn diagrams.
+2.3.2.2 2.03c Understand and be able to use conditional probability, including the use of tree diagrams, Venn diagrams and two-way tables. Includes understanding and being able to use the notations: A ∪ B, A ∩ B, A|B. Includes understanding and being able to use the formulae: P(A ∪ B) = P(A) + P(B) - P(A ∩ B), P(A ∩ B) = P(A)P(B|A).
+2.3.2.3 2.03d Understand the concept of conditional probability, and calculate it from first principles in given contexts. Includes understanding and being able to use the conditional probability formula P(A|B) = P(A ∩ B)/P(B). [Use of this formula to find P(A|B) from P(B|A) is excluded.]
+2.3.3 Modelling with Probability
+2.3.3.1 2.03e Be able to model with probability, including critiquing assumptions made and the likely effect of more realistic assumptions.
+
+2.4 2.04 Statistical Distributions
+2.4.1 Discrete Probability Distributions
+2.4.1.1 2.04a Understand and be able to use simple, finite, discrete probability distributions, defined in the form of a table or a formula such as: P(X = x) = 0.05x(x + 1) for x = 1, 2, 3. [Calculation of mean and variance of discrete random variables is excluded.]
+2.4.2 The Binomial Distribution
+2.4.2.1 2.04b Understand and be able to use the binomial distribution as a model. Includes understanding and being able to use the formula P(X = x) = nCx p^x (1-p)^(n-x) and the notation X ~ B(n, p). Learners should understand the conditions for a random variable to have a binomial distribution, be able to identify which of the modelling conditions (assumptions) is/are relevant to a given scenario and be able to explain them in context. They should understand the distinction between conditions and assumptions.
+2.4.2.2 2.04c Be able to calculate probabilities using the binomial model.
+2.4.2.3 2.04d Know and be able to use the formulae μ = np and σ^2 = npq when choosing a particular normal model to use as an approximation to a binomial distribution, using appropriate calculator functions.
+2.4.3 The Normal Distribution
+2.4.3.1 2.04e Understand and be able to use the normal distribution as a model. Includes understanding and being able to use the notation X ~ N(μ, σ^2).
+2.4.3.2 2.04f Be able to find probabilities using the normal distribution, using appropriate calculator functions. This includes finding x, for a given normal variable, when P(X < x) is known. Learners should understand the standard normal distribution, Z, and the transformation Z = (X - μ)/σ.
+2.4.3.3 2.04g Understand links to histograms, mean and standard deviation. Learners should know and be able to use the facts that in a normal distribution, about two-thirds of values lie in the range μ ± σ, about 95% of values lie in the range μ ± 2σ, almost all values lie in the range μ ± 3σ and the points of inflection in a normal curve occur at x = μ ± σ. [The equation of the normal curve is excluded.]
+2.4.3.4 2.04h Be able to select an appropriate probability distribution for a context, with appropriate reasoning, including recognising when the binomial or normal model may not be appropriate. Includes understanding that a given binomial distribution with large n can be approximated by a normal distribution. [Questions explicitly requiring calculations using the normal approximation to the binomial distribution are excluded.]
+
+2.5 2.05 Statistical Hypothesis Testing
+2.5.1 The Language of Hypothesis Testing
+2.5.1.1 2.05a Understand and be able to use the language of statistical hypothesis testing, developed through a binomial model: null hypothesis, alternative hypothesis, significance level, test statistic, 1-tail test, 2-tail test, critical value, critical region, acceptance region, p-value. Hypotheses should be stated in terms of parameter values (where relevant) and the meanings of symbols should be stated. For example, “H0: p = 0.7, H1: p ≠ 0.7, where p is the population proportion in favour of the resolution”. Conclusions should be stated in such a way as to reflect the fact that they are not certain. For example, “There is evidence at the 5% level to reject H0. It is likely that the mean mass is less than 500 g.” “There is no evidence at the 2% level to reject H0. There is no reason to suppose that the mean journey time has changed.” Some examples of incorrect conclusion are as follows: “H0 is rejected. Waiting times have increased.” “Accept H0. Plants in this area have the same height as plants in other areas.”
+2.5.2 Hypothesis Test for the Proportion in a Binomial Distribution
+2.5.2.1 2.05b Be able to conduct a statistical hypothesis test for the proportion in the binomial distribution and interpret the results in context.
+2.5.2.2 2.05c Understand that a sample is being used to make an inference about the population and appreciate that the significance level is the probability of incorrectly rejecting the null hypothesis. Learners should be able to use a calculator to find critical values. Includes understanding that, where the significance level of a test is specified, the probability of the test statistic being in the rejection region will always be less than or equal to this level. [The use of normal approximation is excluded.]
+2.5.3 Hypothesis Test for the Mean of a Normal Distribution
+2.5.3.1 2.05d Recognise that a sample mean, X̄, can be regarded as a random variable. Learners should know and be able to use the result that if X ~ N(μ, σ^2) then X̄ ~ N(μ, σ^2/n). [The proof is excluded.]
+2.5.3.2 2.05e Be able to conduct a statistical hypothesis test for the mean of a normal distribution with known, given or assumed variance and interpret the results in context. Learners should be able to use a calculator to find critical values, but standard tables of the percentage points will be provided in the assessment. [Test for the mean of a non-normal distribution is excluded.] [Estimation of population parameters from a sample is excluded.]
+2.5.4 Hypothesis Test Using Pearson’s Correlation Coefficient
+2.5.4.1 2.05f Understand Pearson’s product-moment correlation coefficient as a measure of how close data points lie to a straight line.
+2.5.4.2 2.05g Use and be able to interpret Pearson’s product-moment correlation coefficient in hypothesis tests, using either a given critical value or a p-value and a table of critical values. When using Pearson’s coefficient in an hypothesis test, the data may be assumed to come from a bivariate normal distribution. A table of critical values of Pearson’s coefficient will be provided. [Calculation of correlation coefficients is excluded.]
+
+3 Mechanics
+3.1 3.01 Quantities and Units in Mechanics
+3.1.1 SI Units
+3.1.1.1 3.01a Understand and be able to use the fundamental quantities and units in the S.I. system: length (in metres), time (in seconds), mass (in kilograms). Learners should understand that these three base quantities are mutually independent.
+3.1.1.2 3.01b Understand and be able to use derived quantities and units: velocity (m/s or m s^(-1)), acceleration (m/s^2 or m s^(-2)), force (N), weight (N). Learners should be able to add the appropriate unit to a given quantity.
+3.1.1.3 3.01c Understand and be able to use the unit for moment (N m).
+
+3.2 3.02 Kinematics
+3.2.1 Language of Kinematics
+3.2.1.1 3.02a Understand and be able to use the language of kinematics: position, displacement, distance, distance travelled, velocity, speed, acceleration, equation of motion. Learners should understand the vector nature of displacement, velocity and acceleration and the scalar nature of distance travelled and speed.
+3.2.2 Graphical Representation
+3.2.2.1 3.02b Understand, use and interpret graphs in kinematics for motion in a straight line.
+3.2.2.2 3.02c Be able to interpret displacement-time and velocity-time graphs, and in particular understand and be able to use the facts that the gradient of a displacement-time graph represents the velocity, the gradient of a velocity-time graph represents the acceleration, and the area between the graph and the time axis for a velocity-time graph represents the displacement.
+3.2.3 Constant Acceleration
+3.2.3.1 3.02d Understand, use and derive the formulae for constant acceleration for motion in a straight line: v = u + at, s = ut + 1/2 at^2, s = 1/2 (u + v)t, v^2 = u^2 + 2as, s = vt - 1/2 at^2. Learners may be required to derive the constant acceleration formulae using a variety of techniques: by integration, by using and interpreting appropriate graphs, by substitution of one (given) formula into another (given) formula.
+3.2.3.2 3.02e Be able to extend the constant acceleration formulae to motion in two dimensions using vectors: v = u + at, s = ut + 1/2 at^2, s = 1/2 (u + v)t. Questions set involving vectors may involve either column vector notation or i, j notation. [The formula v·v = u·u + 2a·s is excluded.]
+3.2.4 Non-uniform Acceleration
+3.2.4.1 3.02f Be able to use differentiation and integration with respect to time in one dimension to solve simple problems concerning the displacement, velocity and acceleration of a particle: v = ds/dt, a = dv/dt, s = ∫v dt and v = ∫a dt.
+3.2.4.2 3.02g Be able to extend the application of differentiation and integration to two dimensions using vectors: x = f(t)i + g(t)j, v = dx/dt = f'(t)i + g'(t)j, a = dv/dt = d^2x/dt^2 = f''(t)i + g''(t)j, s = ∫v dt and v = ∫a dt. Questions set may involve either column vector or i, j notation.
+3.2.5 Gravity
+3.2.5.1 3.02h Be able to model motion under gravity in a vertical plane using vectors where a = -gj.
+3.2.5.2 3.02i Be able to model the motion of a projectile as a particle moving with constant acceleration and understand the limitation of this model. Includes being able to: use horizontal and vertical equations of motion to solve problems on the motion of projectiles, find the magnitude and direction of the velocity at a given time or position, find the range on a horizontal plane and the greatest height achieved, derive and use the cartesian equation of the trajectory of a projectile. [Projectiles on an inclined plane and problems with resistive forces are excluded.]
+
+3.3 3.03 Forces and Newton’s Laws
+3.3.1 Newton’s First Law
+3.3.1.1 3.03a Understand the concept and vector nature of a force. A force has both a magnitude and direction and can cause an object with a given mass to change its velocity. Includes using directed line segments to represent forces (acting in at most two dimensions). Learners should be able to identify the forces acting on a system and represent them in a force diagram.
+3.3.1.2 3.03b Understand and be able to use Newton’s first law. A particle that is at rest (or moving with constant velocity) will remain at rest (or moving with constant velocity) until acted upon by an external force. Learners should be able to complete a diagram with the force(s) required for a given body to remain in equilibrium.
+3.3.2 Newton’s Second Law
+3.3.2.1 3.03c Understand and be able to use Newton’s second law (F = ma) for motion in a straight line for bodies of constant mass moving under the action of constant forces. e.g. A car moving along a road, a passenger riding in a lift or a crane lifting a weight. For stage 1 learners, examples can be restricted to problems in which the forces acting on the body will be collinear, in two perpendicular directions or given as 2-D vectors.
+3.3.2.2 3.03d Understand and be able to use Newton’s second law (F = ma) in simple cases of forces given as two-dimensional vectors. e.g. Find in vector form the force acting on a body of mass 2 kg when it is accelerating at 4i - 3j m/s^2. Questions set involving vectors may involve either column vector notation or i, j notation.
+3.3.2.3 3.03e Be able to extend use of Newton’s second law to situations where forces need to be resolved (restricted to two dimensions). e.g. A force acting downwards on a body at a given angle to the horizontal or the motion of a body projected down a line of greatest slope of an inclined plane.
+3.3.3 Weight
+3.3.3.1 3.03f Understand and be able to use the weight (W = mg) of a body to model the motion in a straight line under gravity. e.g. A ball falling through the air.
+3.3.3.2 3.03g Understand the gravitational acceleration, g, and its value in S.I. units to varying degrees of accuracy. The value of g may be assumed to take a constant value of 9.8 m/s^2 but learners should be aware that g is not a universal constant but depends on location in the universe. [The inverse square law for gravitation is not required.]
+3.3.4 Newton’s Third Law
+3.3.4.1 3.03h Understand and be able to use Newton’s third law. Every action has an equal and opposite reaction. Learners should understand and be able to use the concept that a system in which none of its components have any relative motion may be modelled as a single particle.
+3.3.4.2 3.03i Understand and be able to use the concept of a normal reaction force. Learners should understand and use the result that when an object is resting on a horizontal surface the normal reaction force is equal and opposite to the weight of the object. This includes knowing that when R = 0 contact is lost.
+3.3.4.3 3.03j Be able to use the model of a ‘smooth’ contact and understand the limitations of the model.
+3.3.4.4 3.03k Be able to use the concept of equilibrium together with one-dimensional motion in a straight line to solve problems that involve connected particles and smooth pulleys. e.g. A train engine pulling a train carriage(s) along a straight horizontal track or the vertical motion of two particles, connected by a light inextensible string passing over a fixed smooth peg or light pulley.
+3.3.4.5 3.03l Be able to extend use of Newton’s third law to situations where forces need to be resolved (restricted to two dimensions).
+3.3.4.6 3.03m Be able to use the principle that a particle is in equilibrium if and only if the sum of the resolved parts in a given direction is zero. Problems may involve the resolving of forces, including cases where it is sensible to: resolve horizontally and vertically, resolve parallel and perpendicular to an inclined plane, resolve in directions to be chosen by the learner, or use a polygon of forces.
+3.3.5 Applications of Vectors in a Plane
+3.3.5.1 3.03n Be able to solve problems involving simple cases of equilibrium of forces on a particle in two dimensions using vectors, including connected particles and smooth pulleys. e.g. Finding the required force F for a particle to remain in equilibrium when under the action of forces F1, F2, ... For stage 1 learners, examples can be restricted to problems in which the forces acting on the body will be collinear, in two perpendicular directions or given as 2-D vectors.
+3.3.5.2 3.03o Be able to resolve forces for more advanced problems involving connected particles and smooth pulleys. e.g. The motion of two particles, connected by a light inextensible string passing over a light pulley placed at the top of an inclined plane.
+3.3.5.3 3.03p Understand the term ‘resultant’ as applied to two or more forces acting at a point and be able to use vector addition in solving problems involving resultants and components of forces. Includes understanding that the velocity vector gives the direction of motion and the acceleration vector gives the direction of resultant force. Includes being able to find and use perpendicular components of a force, for example to find the resultant of a system of forces or to calculate the magnitude and direction of a force. [Solutions will involve calculation, not scale drawing.]
+3.3.5.4 3.03q Be able to solve problems involving the dynamics of motion for a particle moving in a plane under the action of a force or forces. e.g. At time t s the force acting on a particle P of mass 4 kg is 4i + tj N. P is initially at rest at the point with position vector 3i - 5j. Find the position vector of P when t = 3 s.
+
+3.4 3.04 Moments
+3.4.1 Statics
+3.4.1.1 3.04a Be able to calculate the moment of a force about an axis through a point in the plane of the body. For coplanar forces, moments may be described as being about a point. [Understanding of the vector nature of moments is excluded.]
+3.4.1.2 3.04b Understand that when a rigid body is in equilibrium the resultant moment is zero and the resultant force is zero.
+3.4.1.3 3.04c Be able to use moments in simple static contexts. e.g. To determine the forces acting on a horizontal beam or to determine the forces acting on a ladder resting on horizontal ground against a vertical wall. Questions will be set in which the context of the problem can be modelled using rectangular laminas, uniform and non-uniform rods only. Learners may assume that: for a uniform rod the weight acts at the midpoint of the rod, for a non-uniform rod the weight acts at either a specified given point or is to be determined by moments, for a rectangular lamina the weight acts at its point of symmetry.

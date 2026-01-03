@@ -1,0 +1,528 @@
+1. Classical Civilisation (J199)
+   1.1 Component Group 1: Thematic Study
+       1.1.1 Myth and Religion (J199/11)
+           1.1.1.1 Greek and Roman gods
+               1.1.1.1.1 Greece
+                   1.1.1.1.1.1 Zeus
+                   1.1.1.1.1.2 Hera
+                   1.1.1.1.1.3 Demeter
+                   1.1.1.1.1.4 Poseidon
+                   1.1.1.1.1.5 Hephaistos
+                   1.1.1.1.1.6 Apollo
+                   1.1.1.1.1.7 Artemis
+                   1.1.1.1.1.8 Athena
+                   1.1.1.1.1.9 Aphrodite
+                   1.1.1.1.1.10 Ares
+                   1.1.1.1.1.11 Dionysos
+                   1.1.1.1.1.12 Hestia
+                   1.1.1.1.1.13 Hermes
+                   1.1.1.1.1.14 Hades
+               1.1.1.1.2 Rome
+                   1.1.1.1.2.1 Jupiter
+                   1.1.1.1.2.2 Neptune
+                   1.1.1.1.2.3 Vulcan
+                   1.1.1.1.2.4 Mercury
+                   1.1.1.1.2.5 Mars
+                   1.1.1.1.2.6 Pluto
+                   1.1.1.1.2.7 Apollo
+                   1.1.1.1.2.8 Juno
+                   1.1.1.1.2.9 Venus
+                   1.1.1.1.2.10 Minerva
+                   1.1.1.1.2.11 Diana
+                   1.1.1.1.2.12 Bacchus
+                   1.1.1.1.2.13 Vesta
+                   1.1.1.1.2.14 Ceres
+           1.1.1.2 The Universal Hero: Heracles/Hercules
+               1.1.1.2.1 Greece
+                   1.1.1.2.1.1 Heracles and Olympia
+                       1.1.1.2.1.1.1 Heracles as founder of the Olympic games
+                       1.1.1.2.1.1.2 The 12 Labours of Heracles as represented on The Temple of Zeus at Olympia
+                       1.1.1.2.1.1.3 Homeric Hymn to Heracles, the Lion Hearted
+               1.1.1.2.2 Rome
+                   1.1.1.2.2.1 Hercules in Ovid and Virgil
+                       1.1.1.2.2.1.1 The myth of Hercules and Cacus, and Hercules as protector of Rome
+                       1.1.1.2.2.1.2 Battles with Achelous and Nessus, and the death of Hercules
+           1.1.1.3 Religion and the City: Temples
+               1.1.1.3.1 Greece
+                   1.1.1.3.1.1 The Parthenon and Temple of Zeus at Olympia
+                   1.1.1.3.1.2 The hiereus and hiereia (priests and priestesses); the mantis (prophet)
+                   1.1.1.3.1.3 Animal sacrifice
+               1.1.1.3.2 Rome
+                   1.1.1.3.2.1 The Temple of Fortuna Virilis (Portunus) and the Pantheon
+                   1.1.1.3.2.2 The Pontiffs and Pontifex Maximus; the Augurs/Augures; the Vestal Virgins
+                   1.1.1.3.2.3 Animal sacrifice; the Haruspex
+           1.1.1.4 Myth and the City: Foundation Stories
+               1.1.1.4.1 Greece
+                   1.1.1.4.1.1 The naming of Athens: Poseidon and Athena
+                   1.1.1.4.1.2 The adventures of Theseus: as displayed on the Theseus Kylix
+               1.1.1.4.2 Rome
+                   1.1.1.4.2.1 The founding of the Roman Race: Aeneas’ leadership of the Trojans; arrival and settlement in Italy; the founding of Alba Longa and the line of kings
+                   1.1.1.4.2.2 The founding of Rome: Romulus and Remus
+               1.1.1.4.3 Both
+                   1.1.1.4.3.1 Comparison of Theseus and Romulus, with use of Plutarch’s Lives
+           1.1.1.5 Festivals
+               1.1.1.5.1 Greece
+                   1.1.1.5.1.1 The City Dionysia and The Great Panathenaia
+               1.1.1.5.2 Rome
+                   1.1.1.5.2.1 The Lupercalia and Saturnalia
+           1.1.1.6 Myth and Symbols of Power
+               1.1.1.6.1 Greece
+                   1.1.1.6.1.1 The Centauromachy: as depicted on the Parthenon
+                   1.1.1.6.1.2 The Amazonomachy: as depicted on the Bassae frieze
+               1.1.1.6.2 Rome
+                   1.1.1.6.2.1 The Prima Porta of Augustus
+                   1.1.1.6.2.2 The Ara Pacis of Augustus
+           1.1.1.7 Death and Burial
+               1.1.1.7.1 Greece
+                   1.1.1.7.1.1 The preparation of the body (including prothesis)
+                   1.1.1.7.1.2 Funerary procession (including ekphora)
+                   1.1.1.7.1.3 Burial of the body (including use of stelai)
+                   1.1.1.7.1.4 Festivals for the dead and the ancestors (including Genesia)
+               1.1.1.7.2 Rome
+                   1.1.1.7.2.1 The preparation of the body (including funeral clubs)
+                   1.1.1.7.2.2 Funerary procession
+                   1.1.1.7.2.3 Burial of the body
+                   1.1.1.7.2.4 Festivals for the dead and the ancestors (including Parentalia and Lemuria)
+           1.1.1.8 Journeying to the Underworld
+               1.1.1.8.1 Greece
+                   1.1.1.8.1.1 Persephone and Demeter as told in the Homeric Hymn to Demeter 1–104, 301–474
+               1.1.1.8.2 Rome
+                   1.1.1.8.2.1 Orpheus and Eurydice as told by Ovid, Metamorphoses, 10: 1–64
+           1.1.1.9 Prescribed Literary Sources
+               1.1.1.9.1 The Homeric Hymns
+                   1.1.1.9.1.1 Hymn to Demeter: Lines 1–104, 301–474
+                   1.1.1.9.1.2 Hymn to Heracles the Lion Hearted
+               1.1.1.9.2 Plutarch, The Parallel Lives: Comparison of Theseus and Romulus
+               1.1.1.9.3 Livy, The Early History of Rome, 1.0–1.1, 1.3.7–1.4, 1.6.3–1.7.3
+               1.1.1.9.4 Ovid, Metamorphoses
+                   1.1.1.9.4.1 9: 1–272: Achelous and Hercules; Hercules and Nessus; The death of Hercules
+                   1.1.1.9.4.2 10: 1–64: Orpheus and Eurydice
+               1.1.1.9.5 Virgil, Aeneid, 8.154–279
+               1.1.1.9.6 When studying literature learners will be required to:
+                   1.1.1.9.6.1 Know and understand aspects of plot, characterisation, events and settings
+                   1.1.1.9.6.2 Know and understand themes and how to distinguish between them
+                   1.1.1.9.6.3 Know and understand issues of form, purpose and genre
+                   1.1.1.9.6.4 Apply their knowledge of the cultural contexts in which the texts were produced, to inform their judgements about them
+                   1.1.1.9.6.5 Use the texts to develop an understanding of the social, historical and cultural context of the classical world
+                   1.1.1.9.6.6 Know and understand the possible responses of different audiences
+           1.1.1.10 Prescribed Visual/Material Sources
+               1.1.1.10.1 The Temple of Zeus at Olympia
+               1.1.1.10.2 The Parthenon
+               1.1.1.10.3 The Bassae frieze, in the British Museum
+               1.1.1.10.4 Theseus Kylix, British Museum (1850,0302.3)
+               1.1.1.10.5 The Pantheon, Rome
+               1.1.1.10.6 Temple of Fortuna Virilis (Portunus)
+               1.1.1.10.7 Augustus of Prima Porta statue, in the Vatican Museum
+               1.1.1.10.8 The Ara Pacis
+               1.1.1.10.9 When studying visual/material culture learners will be required to:
+                   1.1.1.10.9.1 Know about the appearance, style, content and original location of the examples of visual/material remains they study
+                   1.1.1.10.9.2 Know and understand the original use or purpose of the visual/material remains they study, and the impact this had on its creation
+                   1.1.1.10.9.3 Know and understand the key issues with working with different types of source material
+                   1.1.1.10.9.4 Apply their knowledge of the cultural contexts in which the material remains were produced, to inform their judgements about them
+                   1.1.1.10.9.5 Use the source materials to develop an understanding of the social, historical and cultural context of the classical world
+                   1.1.1.10.9.6 Know and understand the possible interpretations of different audiences
+       1.1.2 Women in the Ancient World (J199/12)
+           1.1.2.1 Women of Legend
+               1.1.2.1.1 Greece
+                   1.1.2.1.1.1 Pandora
+                   1.1.2.1.1.2 Helen of Troy
+               1.1.2.1.2 Rome
+                   1.1.2.1.2.1 The Sabine Women and Tarpeia
+                   1.1.2.1.2.2 Lucretia
+           1.1.2.2 Young Women
+               1.1.2.2.1 Greece
+                   1.1.2.2.1.1 Athens
+                       1.1.2.2.1.1.1 Education in the home in preparation for marriage
+                       1.1.2.2.1.1.2 Typical Athenian wedding rituals and arrangements
+                   1.1.2.2.1.2 Sparta
+                       1.1.2.2.1.2.1 Spartan system of education and marriage
+               1.1.2.2.2 Rome
+                   1.1.2.2.2.1 Education: in the home in preparation for marriage; evidence of academic education for some Roman girls
+                   1.1.2.2.2.2 Varieties of marriage
+                       1.1.2.2.2.2.1 Coemptio, confarreatio and by usus
+                       1.1.2.2.2.2.2 Difference between cum manu and sine manu marriages
+           1.1.2.3 Women in the home
+               1.1.2.3.1 Greece
+                   1.1.2.3.1.1 The kyria; Athenian ideas of wifely virtue
+                   1.1.2.3.1.2 Athenian domestic slaves
+                   1.1.2.3.1.3 The experience of a Spartan wife and mother
+               1.1.2.3.2 Rome
+                   1.1.2.3.2.1 The matrona; Roman ideas of wifely virtue
+                   1.1.2.3.2.2 Roman domestic slaves
+           1.1.2.4 ‘Improper’ Women
+               1.1.2.4.1 Greece
+                   1.1.2.4.1.1 The roles of, laws about, and typical portrayal of pornai and hetairai (including at a symposium)
+                   1.1.2.4.1.2 Neaira and Aspasia
+               1.1.2.4.2 Rome
+                   1.1.2.4.2.1 The roles, laws about and typical portrayal of the meretrix and lena
+                   1.1.2.4.2.2 Clodia (and her possible identification with ‘Lesbia’) and Cytheris/Lycoris
+           1.1.2.5 Women and religion
+               1.1.2.5.1 Greece
+                   1.1.2.5.1.1 Priestesses and prophetesses, including the Pythia
+                   1.1.2.5.1.2 The roles of women played in state cult, including the Panathenaia, Thesmophoria and worship of Dionysus
+                   1.1.2.5.1.3 The role of women in ritual mourning and preparation of the bodies of the deceased
+               1.1.2.5.2 Rome
+                   1.1.2.5.2.1 Priestesses; including the rights, responsibilities and punishment of the Vestal Virgins, and the Flaminica Dialis as the wife of the Flamen Dialis
+                   1.1.2.5.2.2 Prophetesses, including the Sibyl
+                   1.1.2.5.2.3 The roles of women played in state cult, including worship of the Bona Dea, Patricia Pudicitia and Plebeia Pudicitia
+           1.1.2.6 Women and power
+               1.1.2.6.1 Greece
+                   1.1.2.6.1.1 The Athenian Assembly; the exclusion of women
+                   1.1.2.6.1.2 The story of the Assemblywomen of Aristophanes; presentation of women involved in politics in the context of farce
+                   1.1.2.6.1.3 The trial of Agnodice
+               1.1.2.6.2 Rome
+                   1.1.2.6.2.1 The structure of the Roman Senate; the exclusion of women
+                   1.1.2.6.2.2 The story of the repeal of the Oppian Law
+                   1.1.2.6.2.3 Sempronia and her involvement in the Catilinarian Conspiracy
+           1.1.2.7 Warrior Women
+               1.1.2.7.1 Greece
+                   1.1.2.7.1.1 Penthesilea and the Amazons
+               1.1.2.7.2 Rome
+                   1.1.2.7.2.1 Camilla, as represented in Virgil’s Aeneid
+           1.1.2.8 Women to be Feared
+               1.1.2.8.1 Greece
+                   1.1.2.8.1.1 The story and presentation of Medea by the Athenians; from meeting Jason in Colchis to her escape to Athens
+               1.1.2.8.2 Rome
+                   1.1.2.8.2.1 The story and presentation of Cleopatra VII by the Romans, including her love affairs with Roman generals (Julius Caesar and Mark Antony), her role in the decisive Battle of Actium, and the political and military threat she was seen to be
+           1.1.2.9 Prescribed Literary Sources
+               1.1.2.9.1 Aristophanes, Assemblywomen, 1–240
+               1.1.2.9.2 Euripides, Helen, 1–67
+               1.1.2.9.3 Euripides, Medea, 1–38; 1293–1389
+               1.1.2.9.4 Hesiod, Works and Days, 54–105
+               1.1.2.9.5 Homer, Iliad, 3:121–180
+               1.1.2.9.6 Plutarch, Pericles, 24
+               1.1.2.9.7 Catullus, 7, 8, 83
+               1.1.2.9.8 Cicero, Pro Caelio, 49–51
+               1.1.2.9.9 Laudatio Turiae
+               1.1.2.9.10 Livy, History of Rome, 1.9–10; 1.12–13; 1.57–59; 34.1
+               1.1.2.9.11 Sallust, The Conspiracy of Catiline, 24.5–25
+               1.1.2.9.12 Virgil, Aeneid, 8.671–713; 11.532–835
+               1.1.2.9.13 When studying literature learners will be required to:
+                   1.1.2.9.13.1 Know and understand aspects of plot, characterisation, events and settings
+                   1.1.2.9.13.2 Know and understand themes and how to distinguish between them
+                   1.1.2.9.13.3 Know and understand issues of form, purpose and genre
+                   1.1.2.9.13.4 Apply their knowledge of the cultural contexts in which the texts were produced, to inform their judgements about them
+                   1.1.2.9.13.5 Use the texts to develop an understanding of the social, historical and cultural context of the classical world
+                   1.1.2.9.13.6 Know and understand the possible responses of different audiences
+           1.1.2.10 Prescribed Visual/Material Sources
+               1.1.2.10.1 Hegeso Stele, attributed to Callimachus, in National Archaeological Museum, Athens (3624)
+               1.1.2.10.2 Ampharete Stele, in Kerameikos Museum, Athens
+               1.1.2.10.3 Parthenon Frieze, in the British Museum
+               1.1.2.10.4 Maenad Cup, in the Staatliche Antikensammlungen, Munich
+               1.1.2.10.5 The Bassae frieze in the British Museum
+               1.1.2.10.6 The Flight of Medea krater, in the Cleveland Museum of Art
+               1.1.2.10.7 House of the Vestal Virgins
+               1.1.2.10.8 “Sappho” Fresco of an educated upper class Pompeiian woman
+               1.1.2.10.9 Pudicitia (Pudicizia) statue of a woman in the Vatican Museum (Braccio Nuovo 23)
+               1.1.2.10.10 When studying visual/material culture learners will be required to:
+                   1.1.2.10.10.1 Know about the appearance, style, content and original location of the examples of visual/material remains they study
+                   1.1.2.10.10.2 Know and understand the original use or purpose of the visual/material remains they study, and the impact this had on its creation
+                   1.1.2.10.10.3 Know and understand the key issues with working with different types of source material
+                   1.1.2.10.10.4 Apply their knowledge of the cultural contexts in which the material remains were produced, to inform their judgements about them
+                   1.1.2.10.10.5 Use the source materials to develop an understanding of the social, historical and cultural context of the classical world
+                   1.1.2.10.10.6 Know and understand the possible interpretations of different audiences
+   1.2 Component Group 2: Literature and Culture
+       1.2.1 The Homeric World (J199/21)
+           1.2.1.1 Culture
+               1.2.1.1.1 Key Sites
+                   1.2.1.1.1.1 The dating of the Mycenaean age
+                   1.2.1.1.1.2 The location, and importance of key sites, including Mycenae, Tiryns, and Troy
+                   1.2.1.1.1.3 The layout and structures of the site of Mycenae and Tiryns
+                   1.2.1.1.1.4 The evidence for and against Troy VI and Troy VIIa being the site of Homer’s Troy
+               1.2.1.1.2 Life in the Mycenaean age
+                   1.2.1.1.2.1 Palaces
+                       1.2.1.1.2.1.1 The typical palace complex and megaron (central hall)
+                       1.2.1.1.2.1.2 Their functions and use
+                   1.2.1.1.2.2 Everyday life; evidence for, and nature of:
+                       1.2.1.1.2.2.1 Hunting
+                       1.2.1.1.2.2.2 Armour and weapons
+                       1.2.1.1.2.2.3 Chariots
+                       1.2.1.1.2.2.4 Clothing
+                       1.2.1.1.2.2.5 Trade
+                   1.2.1.1.2.3 Linear B tablets
+                       1.2.1.1.2.3.1 How the tablets were preserved and what they record
+                       1.2.1.1.2.3.2 The significance of the tablets
+               1.2.1.1.3 Decorative arts
+                   1.2.1.1.3.1 Frescoes, including:
+                       1.2.1.1.3.1.1 Techniques, colours and typical designs
+                   1.2.1.1.3.2 Jewellery
+                       1.2.1.1.3.2.1 Techniques and use of materials including metalwork, amber and glass
+                   1.2.1.1.3.3 Decorative objects and their creation
+                       1.2.1.1.3.3.1 Types of storage vessels, drinking vessels, animal figures, human figures, (including phi, psi and tau figurines), votive offerings, ivory carving
+               1.2.1.1.4 Tombs, graves and burial
+                   1.2.1.1.4.1 Burial customs
+                   1.2.1.1.4.2 Structure and use of shaft graves
+                   1.2.1.1.4.3 Structure and use of cist graves
+                   1.2.1.1.4.4 Structure and use of tholos and chamber tombs
+                   1.2.1.1.4.5 The use of funerary objects
+                   1.2.1.1.4.6 The contents of Grave Circle A and Grave Circle B at Mycenae
+           1.2.1.2 Prescribed Visual/Material Sources
+               1.2.1.2.1 The site of Mycenae including:
+                   1.2.1.2.1.1 The palace; sally port; the passage to the underground cistern; the underground cistern; the Cyclopean walls; the Lion Gate; Grave Circle A; Grave Circle B; Tomb of Clytemnestra; Tomb of Aegisthus; Treasury of Atreus
+               1.2.1.2.2 The site of Tiryns including:
+                   1.2.1.2.2.1 The main entrance; the Cyclopean ramp; the galleries; the palace; defences; tholos tomb (outside the city walls)
+               1.2.1.2.3 Dagger blade showing hunting scene from Grave Circle A, Mycenae
+               1.2.1.2.4 Fresco of Mycenaean lady holding a necklace, House of the Chief Priest, Mycenae
+               1.2.1.2.5 Gold death mask of Agamemnon from Shaft Grave V, Mycenae
+               1.2.1.2.6 Gold pyxis from Grave Circle A, Shaft Grave V, Mycenae
+               1.2.1.2.7 Gold Rhyton from Grave Circle A, Mycenae
+               1.2.1.2.8 Mycenaean warrior vase, House of the Warrior, Mycenae
+               1.2.1.2.9 Linear B tablet showing the word “tripod” in syllabic and ideogram forms, Pylos
+               1.2.1.2.10 When studying visual/material culture learners will be required to:
+                   1.2.1.2.10.1 Know about the appearance, style, content and original location of the examples of visual/material remains they study
+                   1.2.1.2.10.2 Know and understand the original use or purpose of the visual/material remains they study, and the impact this had on its creation
+                   1.2.1.2.10.3 Know and understand the key issues with working with different types of source material
+                   1.2.1.2.10.4 Apply their knowledge of the cultural contexts in which the material remains were produced, to inform their judgements about them
+                   1.2.1.2.10.5 Use the source materials to develop an understanding of the social, historical and cultural context of the classical world
+                   1.2.1.2.10.6 Know and understand the possible interpretations of different audiences
+           1.2.1.3 Literature
+               1.2.1.3.1 Literary techniques and composition
+                   1.2.1.3.1.1 Homer as a story-teller and the idea of epic, including:
+                       1.2.1.3.1.1.1 How the Odyssey might have been composed and performed
+                       1.2.1.3.1.1.2 What makes the Odyssey an epic poem
+                   1.2.1.3.1.2 Narrative and descriptive techniques including the use and importance of:
+                       1.2.1.3.1.2.1 Similes
+                       1.2.1.3.1.2.2 Epithets
+                       1.2.1.3.1.2.3 Formulae
+               1.2.1.3.2 Themes
+                   1.2.1.3.2.1 The concept and importance of xenia (guest-friendship)
+                   1.2.1.3.2.2 Deceit and trickery
+                   1.2.1.3.2.3 The civilisation and barbarism of places and characters
+                   1.2.1.3.2.4 The role of revenge and justice
+                   1.2.1.3.2.5 The concept and importance of nostos (the desire to return home)
+                   1.2.1.3.2.6 The role of fate
+               1.2.1.3.3 The character of Odysseus
+                   1.2.1.3.3.1 The qualities of Odysseus as a leader, husband and father
+                   1.2.1.3.3.2 The presentation of him as a warrior and hero
+                   1.2.1.3.3.3 His intelligence and oratorical skills
+                   1.2.1.3.3.4 His relationship with his protector goddess Athena
+               1.2.1.3.4 The portrayal of key characters
+                   1.2.1.3.4.1 The role of the gods
+                   1.2.1.3.4.2 The portrayal of the suitors
+                   1.2.1.3.4.3 The portrayal of the crew of Odysseus
+                   1.2.1.3.4.4 The portrayal of Polyphemus as a monster and keeper of livestock
+                   1.2.1.3.4.5 The portrayal of Circe as a witch and host
+                   1.2.1.3.4.6 The portrayal of Penelope as a host, wife and queen
+                   1.2.1.3.4.7 The portrayal of Telemachus as a son and hero
+                   1.2.1.3.4.8 The loyalty or disloyalty of Odysseus’ slaves
+           1.2.1.4 Prescribed Literary Sources
+               1.2.1.4.1 Homer, Odyssey, Books 9, 10, 19, 21, 22
+               1.2.1.4.2 When studying literature learners will be required to:
+                   1.2.1.4.2.1 Know and understand aspects of plot, characterisation, events and settings
+                   1.2.1.4.2.2 Know and understand themes and how to distinguish between them
+                   1.2.1.4.2.3 Know and understand issues of form, purpose and genre
+                   1.2.1.4.2.4 Apply their knowledge of the cultural contexts in which the texts were produced, to inform their judgements about them
+                   1.2.1.4.2.5 Use the texts to develop an understanding of the social, historical and cultural context of the classical world
+                   1.2.1.4.2.6 Know and understand the possible responses of different audiences
+       1.2.2 Roman City Life (J199/22)
+           1.2.2.1 Culture
+               1.2.2.1.1 Roman Housing
+                   1.2.2.1.1.1 The design of apartments/blocks of flats (insula/insulae)
+                   1.2.2.1.1.2 The layout and decoration of typical Pompeian, atrium-style domus
+                   1.2.2.1.1.3 Evidence for living conditions of the rich and the poor
+                   1.2.2.1.1.4 Comparison of the different living conditions in each setting
+               1.2.2.1.2 The Roman Home and Family
+                   1.2.2.1.2.1 Paterfamilias, his rights and duties
+                   1.2.2.1.2.2 Patrons and clients
+                   1.2.2.1.2.3 The education of children, including:
+                       1.2.2.1.2.3.1 The role of the litterator, grammaticus and rhetor
+                       1.2.2.1.2.3.2 Subjects taught at each stage
+                       1.2.2.1.2.3.3 Preparation for participation in society
+                       1.2.2.1.2.3.4 School equipment (stilus, wax tablet, pen, ink, papyrus)
+                   1.2.2.1.2.4 The dinner party (cena), including organisation, guests, entertainment, purposes
+               1.2.2.1.3 Society
+                   1.2.2.1.3.1 Citizens and citizenship
+                   1.2.2.1.3.2 Senators and equites
+                       1.2.2.1.3.2.1 Property qualifications
+                       1.2.2.1.3.2.2 Privileges
+                       1.2.2.1.3.2.3 Duties and roles
+                   1.2.2.1.3.3 Slaves and freedmen
+                       1.2.2.1.3.3.1 Becoming a slave and the legal position
+                       1.2.2.1.3.3.2 Skilled and unskilled jobs performed by domestic and public slaves
+                       1.2.2.1.3.3.3 Ways of obtaining freedom and the limits placed on freedmen/women
+               1.2.2.1.4 Leisure and Entertainment
+                   1.2.2.1.4.1 The amphitheatre, including:
+                       1.2.2.1.4.1.1 Design of amphitheatre buildings, including the Colosseum
+                       1.2.2.1.4.1.2 Types of shows
+                       1.2.2.1.4.1.3 Sponsorship of games by the Emperor or politicians
+                       1.2.2.1.4.1.4 Gladiators; their status, training and types
+                       1.2.2.1.4.1.5 Audience involvement
+                   1.2.2.1.4.2 The chariot races, including:
+                       1.2.2.1.4.2.1 Design of the Circus Maximus
+                       1.2.2.1.4.2.2 Teams, colours, charioteers, horses and their status
+                       1.2.2.1.4.2.3 Public attitudes and audience involvement
+                   1.2.2.1.4.3 The theatre, including:
+                       1.2.2.1.4.3.1 The design of theatre buildings and use of sets, costumes, masks
+                       1.2.2.1.4.3.2 Roman comedy and its stock characters; mime and pantomime
+                       1.2.2.1.4.3.3 Actors and actresses; their reputation and social standing
+                   1.2.2.1.4.4 The baths, including:
+                       1.2.2.1.4.4.1 The reasons people used bath complexes
+                       1.2.2.1.4.4.2 Design of bath buildings, and the different types of bath
+                       1.2.2.1.4.4.3 Activities at the baths, including the use of the palaestra
+           1.2.2.2 Prescribed Visual/Material Sources
+               1.2.2.2.1 Pompeii
+                   1.2.2.2.1.1 House of Menander
+                   1.2.2.2.1.2 House of Octavius Quartio
+                   1.2.2.2.1.3 Tomb of Naevoleia Tyche including inscription
+               1.2.2.2.2 Herculaneum
+                   1.2.2.2.2.1 House of the Wooden Partition
+                   1.2.2.2.2.2 Central (Forum) Baths
+               1.2.2.2.3 Ostia
+                   1.2.2.2.3.1 Insula of Diana
+                   1.2.2.2.3.2 The large theatre
+               1.2.2.2.4 Rome
+                   1.2.2.2.4.1 The Colosseum
+                   1.2.2.2.4.2 The Circus Maximus
+               1.2.2.2.5 Inscription
+                   1.2.2.2.5.1 From Cooley and Cooley Pompeii: A Sourcebook:
+                       1.2.2.2.5.1.1 F14 (CIL1 IV 933)
+                       1.2.2.2.5.1.2 F15 (CIL IV 910)
+                       1.2.2.2.5.1.3 D80 (CIL IV 7698a–c)
+                       1.2.2.2.5.1.4 D51 (CIL X 833, 834)
+                       1.2.2.2.5.1.5 H45 (CIL IV 8562)
+                       1.2.2.2.5.1.6 D16 (CIL IV 1189)
+               1.2.2.2.6 When studying visual/material culture learners will be required to:
+                   1.2.2.2.6.1 Know about the appearance, style, content and original location of the examples of visual/material remains they study
+                   1.2.2.2.6.2 Know and understand the original use or purpose of the visual/material remains they study, and the impact this had on its creation
+                   1.2.2.2.6.3 Know and understand the key issues with working with different types of source material
+                   1.2.2.2.6.4 Apply their knowledge of the cultural contexts in which the material remains were produced, to inform their judgements about them
+                   1.2.2.2.6.5 Use the source materials to develop an understanding of the social, historical and cultural context of the classical world
+                   1.2.2.2.6.6 Know and understand the possible interpretations of different audiences
+           1.2.2.3 Literature
+               1.2.2.3.1 Satire and Fiction
+                   1.2.2.3.1.1 The origins and purposes of satire
+                   1.2.2.3.1.2 The style and characteristic approach of each of the authors
+                       1.2.2.3.1.2.1 Horace as the smiling satirist
+                       1.2.2.3.1.2.2 Juvenal as the angry satirist
+                       1.2.2.3.1.2.3 The nature and purpose of Petronius’ Satyricon
+                   1.2.2.3.1.3 Narrative and descriptive techniques
+                   1.2.2.3.1.4 Use of humour and exaggeration
+                   1.2.2.3.1.5 Choice of themes and examples
+               1.2.2.3.2 Pliny and his Letters
+                   1.2.2.3.2.1 Pliny’s letters as a personal commentary on Roman life
+                   1.2.2.3.2.2 Pliny’s use of language, and the purpose of his letters
+                   1.2.2.3.2.3 How Pliny reflects his position in Roman society and the image he projects
+               1.2.2.3.3 Experiencing Roman city life
+                   1.2.2.3.3.1 How the authors depict aspects of Roman city life and the attitudes of Romans regarding them, including:
+                       1.2.2.3.3.1.1 The dangers of city life
+                       1.2.2.3.3.1.2 Life in the city for rich and poor
+                       1.2.2.3.3.1.3 Leisure and entertainment
+                       1.2.2.3.3.1.4 Food and dinner parties
+               1.2.2.3.4 Relationships and Roman society
+                   1.2.2.3.4.1 How the authors depict relationships between members of Roman society, and the attitudes of Romans regarding them, including:
+                       1.2.2.3.4.1.1 Slaves and masters
+                       1.2.2.3.4.1.2 Patrons and clients
+                       1.2.2.3.4.1.3 Women and men
+           1.2.2.4 Prescribed Literary Sources
+               1.2.2.4.1 Horace, Satires 2.2, 2.6, 2.8
+               1.2.2.4.2 Juvenal, Satire 3.190–322
+               1.2.2.4.3 Petronius, Satyricon: Dinner with Trimalchio, 29–33; 37–38; 49–50
+               1.2.2.4.4 Pliny, Letters, 1.9, 2.6, 3.14, 4.19, 5.19, 9.6
+               1.2.2.4.5 When studying literature learners will be required to:
+                   1.2.2.4.5.1 Know and understand aspects of plot, characterisation, events and settings
+                   1.2.2.4.5.2 Know and understand themes and how to distinguish between them
+                   1.2.2.4.5.3 Know and understand issues of form, purpose and genre
+                   1.2.2.4.5.4 Apply their knowledge of the cultural contexts in which the texts were produced, to inform their judgements about them
+                   1.2.2.4.5.5 Use the texts to develop an understanding of the social, historical and cultural context of the classical world
+                   1.2.2.4.5.6 Know and understand the possible responses of different audiences
+       1.2.3 War and Warfare (J199/23)
+           1.2.3.1 Culture
+               1.2.3.1.1 Sparta at War in the 5th century
+                   1.2.3.1.1.1 The structure of Spartan society and how this influenced the military
+                   1.2.3.1.1.2 Training and recruitment of the Spartan army, including the agoge and the syssitia
+                   1.2.3.1.1.3 The equipment, tactics and formation used in battle
+                   1.2.3.1.1.4 The structure, organisation and command of the army, including the role of the perioeci and the helots
+                   1.2.3.1.1.5 The idealisation of war and warfare in Spartan society
+                   1.2.3.1.1.6 The battle of Thermopylae, including:
+                       1.2.3.1.1.6.1 Key events and individuals: Xerxes; Demaratus; Leonidas; Ephialtes; Dienekes
+                       1.2.3.1.1.6.2 The significance of the battle and how it was commemorated
+               1.2.3.1.2 Athens at War in the 5th century
+                   1.2.3.1.2.1 How the army and navy were paid for, recruited and trained
+                   1.2.3.1.2.2 The equipment, tactics and formations used in battle on land and sea
+                   1.2.3.1.2.3 The structure, organisation and command of the army and navy
+                   1.2.3.1.2.4 The impact of the Athenian military on Athenian politics and society
+                   1.2.3.1.2.5 The battle of Salamis, including:
+                       1.2.3.1.2.5.1 Key events and individuals: Themistocles; Xerxes; Artemisia
+                       1.2.3.1.2.5.2 The significance of the battle and how it was commemorated
+               1.2.3.1.3 The Roman Military in the Imperial Period
+                   1.2.3.1.3.1 How the Roman army and navy were paid for, recruited and trained in the Imperial period
+                   1.2.3.1.3.2 The structure, organisation and command of the army and navy, including:
+                       1.2.3.1.3.2.1 How a legion was organised and the layout of a legionary fortress
+                   1.2.3.1.3.3 The equipment of the army and navy and how it was used in battle
+                       1.2.3.1.3.3.1 The tactics and formation used by the army and navy
+               1.2.3.1.4 The Romans at War
+                   1.2.3.1.4.1 The battle of Actium, including:
+                       1.2.3.1.4.1.1 Key events and individuals: Octavian; Marcus Agrippa; Mark Antony; Cleopatra
+                       1.2.3.1.4.1.2 The significance of the battle and how the Romans commemorated it
+                   1.2.3.1.4.2 Trajan’s campaign against the Dacians, including:
+                       1.2.3.1.4.2.1 Reasons for the war
+                       1.2.3.1.4.2.2 Presentation of warfare in the material sources
+                       1.2.3.1.4.2.3 The image of Trajan as emperor
+                       1.2.3.1.4.2.4 The pursuit of military glory
+                       1.2.3.1.4.2.5 Victims of warfare
+           1.2.3.2 Prescribed Visual/Material Sources
+               1.2.3.2.1 Bronze Warrior figure, Spartan, British Museum (1929,1016.6)
+               1.2.3.2.2 Helmet of Corinthian type, dedicated to Zeus at Olympia, c.460 BC, British Museum (1824,0407.32)
+               1.2.3.2.3 Lenormant Trireme relief, Acropolis relief
+               1.2.3.2.4 Red figure kylix of a Persian and a Greek fighting, The Triptolemos Painter
+               1.2.3.2.5 South frieze (the Greeks fighting the Persians), Temple of Athena Nike, Acropolis Athens now in the British Museum
+               1.2.3.2.6 Relief commemorating the battle of Actium, Vatican Museum
+               1.2.3.2.7 Bronze statuette of a legionary, British Museum (1867,0510.4)
+               1.2.3.2.8 Roman fortress at Chester
+               1.2.3.2.9 Mark Antony Legionary denarius, Obv: galley with banners, Rev: eagle between two standards, likely minted in Patrae 32 BC (example BMC 197, RSC 33, Sear 356)
+               1.2.3.2.10 Trajan’s Column
+               1.2.3.2.11 Arch of Trajan, Benevento
+               1.2.3.2.12 When studying visual/material culture learners will be required to:
+                   1.2.3.2.12.1 Know about the appearance, style, content and original location of the examples of visual/material remains they study
+                   1.2.3.2.12.2 Know and understand the original use or purpose of the visual/material remains they study, and the impact this had on its creation
+                   1.2.3.2.12.3 Know and understand the key issues with working with different types of source material
+                   1.2.3.2.12.4 Apply their knowledge of the cultural contexts in which the material remains were produced, to inform their judgements about them
+                   1.2.3.2.12.5 Use the source materials to develop an understanding of the social, historical and cultural context of the classical world
+                   1.2.3.2.12.6 Know and understand the possible interpretations of different audiences
+           1.2.3.3 Literature
+               1.2.3.3.1 Literary Context
+                   1.2.3.3.1.1 The genres and authors of the set texts
+                   1.2.3.3.1.2 Their composition and aims
+                   1.2.3.3.1.3 Narrative and descriptive techniques, including:
+                       1.2.3.3.1.3.1 Speeches
+                       1.2.3.3.1.3.2 Similes and imagery
+                       1.2.3.3.1.3.3 Epithets
+                       1.2.3.3.1.3.4 Use of emotive language
+                       1.2.3.3.1.3.5 The role of the divine
+               1.2.3.3.2 Characterisation
+                   1.2.3.3.2.1 The actions of the characters in each text
+                   1.2.3.3.2.2 The traits of each of the main characters and how these are depicted
+                   1.2.3.3.2.3 Interactions and relationships between characters
+                   1.2.3.3.2.4 The depiction of:
+                       1.2.3.3.2.4.1 Leaders and soldiers
+                       1.2.3.3.2.4.2 Comrades and enemies
+                       1.2.3.3.2.4.3 Non-combatants
+                       1.2.3.3.2.4.4 Women
+               1.2.3.3.3 Themes
+                   1.2.3.3.3.1 Glory, honour and shame
+                   1.2.3.3.3.2 Comradeship
+                   1.2.3.3.3.3 Freedom
+                   1.2.3.3.3.4 Hubris and arrogance
+                   1.2.3.3.3.5 Love and patriotism
+                   1.2.3.3.3.6 The horror and glorification of warfare
+                   1.2.3.3.3.7 Fear and courage
+                   1.2.3.3.3.8 Family and ancestors
+                   1.2.3.3.3.9 Military and civilian victims of war
+               1.2.3.3.4 Heroes and Warfare
+                   1.2.3.3.4.1 How the content of the texts reflects their political or cultural context, including:
+                       1.2.3.3.4.1.1 Details of the historical context
+                       1.2.3.3.4.1.2 What constitutes a ‘hero’
+                       1.2.3.3.4.1.3 Attitudes towards war and warfare
+                   1.2.3.3.4.2 The possible responses to the texts from different audiences
+           1.2.3.4 Prescribed Literary Sources
+               1.2.3.4.1 Homer, Iliad, 5.84–469; 6.118–529; 22.21–409; 24.468–620
+               1.2.3.4.2 Tyrtaeus, Fragment 10 – The Fallen Warrior
+               1.2.3.4.3 Virgil Aeneid, Book 2.268–804
+               1.2.3.4.4 Horace Odes 3.2
+               1.2.3.4.5 When studying literature learners will be required to:
+                   1.2.3.4.5.1 Know and understand aspects of plot, characterisation, events and settings
+                   1.2.3.4.5.2 Know and understand themes and how to distinguish between them
+                   1.2.3.4.5.3 Know and understand issues of form, purpose and genre
+                   1.2.3.4.5.4 Apply their knowledge of the cultural contexts in which the texts were produced, to inform their judgements about them
+                   1.2.3.4.5.5 Use the texts to develop an understanding of the social, historical and cultural context of the classical world
+                   1.2.3.4.5.6 Know and understand the possible responses of different audiences

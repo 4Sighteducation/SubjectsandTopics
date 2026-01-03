@@ -1,0 +1,3831 @@
+Qualification
+Accredited
+Oxford Cambridge and RSA
+Specification
+A LEVEL
+PHYSICS A
+OCR Level 3 Advanced GCE in Physics A
+H556
+For first assessment in 2017
+Version 2.8 (June 2025) ocr.org.uk/alevelphysicsa
+Disclaimer Specifications are updated over time. Whilst every effort is made to check all
+documents, there may be contradictions between published resources and the
+specification, therefore please use the information on the latest specification at
+all times. Where changes are made to specifications these will be indicated within
+the document, there will be a new version number indicated, and a summary
+of the changes. If you do notice a discrepancy between the specification and a
+resource please contact us at: resources.feedback@ocr.org.uk
+We will inform centres about changes to specifications. We will also publish
+changes on our website. The latest version of our specifications will always be
+those on our website (ocr.org.uk) and these may differ from printed versions.
+Registered office:
+The Triangle Building
+© 2025 OCR. All rights reserved.
+Shaftesbury Road
+Cambridge
+Copyright
+CB2 8EA
+OCR retains the copyright on all its publications, including the specifications.
+However, registered centres for OCR are permitted to copy material from this
+OCR is an exempt charity.
+specification booklet for their own internal use.
+Oxford Cambridge and RSA is a Company Limited by Guarantee. Registered in
+England. Registered company number 3484466.
+Contents
+Introducing…A Level Physics A (from September 2015) ii
+Teaching and learning resources iii
+Professional development iv
+1 Why choose an OCR A Level in Physics A? 1
+1a. Why choose an OCR qualification? 1
+1b. Why choose an OCR A Level in Physics A? 2
+1c. What are the key features of this specification? 3
+1d. How do I find out more information? 4
+2 The specification overview 5
+2a. Overview of A Level in Physics A (H556) 5
+2b. Content of A Level in Physics A (H556) 6
+2c. Content of modules 1 to 6 8
+2d. Prior knowledge, learning and progression 51
+3 Assessment of OCR A Level in Physics A 52
+3a. Forms of assessment 52
+3b. Assessment objectives (AO) 53
+3c. Total qualification time 53
+3d. Qualification availability outside of England 54
+3e. Language 54
+3f. Assessment availability 54
+3g. Retaking the qualification 54
+3h. Assessment of extended responses 54
+3i. Synoptic assessment 55
+3j. Calculating qualification results 55
+4 Admin: what you need to know 56
+4a. Pre-assessment 56
+4b. Accessibility and special consideration 58
+4c. External assessment arrangements 58
+4d. Admin of non-exam assessment 59
+4e. Results and certificates 59
+4f. Post-results services 60
+4g. Malpractice 60
+5 Appendices 61
+5a. Overlap with other qualifications 61
+5b. Avoidance of bias 61
+5c. Physics A data sheet 62
+5d. How Science Works (HSW) 69
+5e. Mathematical requirements 70
+5f. Health and Safety 78
+5g. Practical Endorsement 79
+5h. Revision of the requirements for practical work 86
+Summary of updates 87
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A i
+Introducing…
+A Level Physics A (from September 2015)
+Our vision for Science is to create specifications covering different key concepts of physics. As learners
+with content that will be up to date, scientifically progress through the course, they’ll build on their
+accurate, developed by subject experts, and allow knowledge of the laws of physics, applying their
+clear progression pathways (from GCSE to AS/A Level understanding to areas from sub-atomic particles to
+through to higher education, or other post-16 courses the entire universe.
+and employment). Courses will provide a rewarding
+experience across the ability range, genuinely We’re striving for good science that’s straightforward
+challenging the most able learners. The assessment and engaging to teach, with fair, challenging and
+burden will be reduced as much as possible for centres relevant assessment that works well in centres and
+promotes practical activity.
+through:
+• Carefully designed assessments
+Contact the team
+(straightforward to use for all centre
+We have a dedicated team of Subject Advisors
+types, large to small)
+working on our A Level Physics qualifications.
+• Well-laid-out specifications and question
+papers If you need specialist advice, guidance or support, get
+in touch:
+• Friendly and prompt support from our
+team of Subject Advisors • 01223 553998
+• Quality resource materials that help • science@ocr.org.uk
+support a variety of good teaching
+• @OCR_Science
+approaches, drawing on expertise from
+across the subject community.
+Our A Level Physics A specification takes a content-
+led approach to the course. This is a flexible approach
+where the specification is divided into topics, each
+Vertical black lines indicate a significant change to the previous printed version.
+Version 2.8 © OCR 2025
+ii OCR Level 3 Advanced GCE in Physics A
+Teaching and learning resources
+We recognise that the introduction of a new Plenty of useful resources
+specification can bring challenges for implementation
+and teaching. Our aim is to help you at every stage and You’ll have four main types of subject-specific teaching
+we’re working hard to provide a practical package of and learning resources at your fingertips:
+support in close consultation with teachers and other
+• Delivery Guides
+experts, so we can help you to make the change.
+• Transition Guides
+Designed to support progression for all
+• Topic Exploration Packs
+Our resources are designed to provide you with a
+range of teaching activities and suggestions so you can • Lesson Elements.
+select the best approach for your particular students.
+Along with subject-specific resources, you’ll also have
+You are the experts on how your students learn and
+access to a selection of generic resources that focus
+our aim is to support you in the best way we can.
+on skills development and professional guidance for
+teachers.
+We want to…
+Skills Guides – we’ve produced a set of Skills Guides
+• Support you with a body of knowledge
+that are not specific to Physics, but each covers a topic
+that grows throughout the lifetime of the
+that could be relevant to a range of qualifications – for
+specification
+example, communication, legislation and research.
+• Provide you with a range of suggestions so Download the guides at ocr.org.uk/skillsguides
+you can select the best activity, approach
+or context for your particular students Active Results – a free online results analysis service
+to help you review the performance of individual
+• Make it easier for you to explore and students or your whole school. It provides access to
+interact with our resource materials, in detailed results data, enabling more comprehensive
+particular to develop your own schemes analysis of results in order to give you a more accurate
+of work measurement of the achievements of your centre and
+individual students. For more details refer to
+• Create an ongoing conversation so we can
+ocr.org.uk/activeresults
+develop materials that work for you.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A iii
+Professional development
+Take advantage of our improved Professional These events are designed to help prepare you for first
+Development Programme, designed with you in mind. teaching and to support your delivery at every stage.
+Whether you want to come to face-to-face events,
+look at our new digital training or search for training Watch out for details at cpdhub.ocr.org.uk.
+materials, you can find what you’re looking for all in
+To receive the latest information about the training
+one place at the CPD Hub.
+we’ll be offering please register for A Level email
+An introduction to the new specifications
+updates at ocr.org.uk/updates.
+We’ll be running events to help you get to grips with
+our A Level Physics A qualification.
+Version 2.8 © OCR 2025
+iv OCR Level 3 Advanced GCE in Physics A
+1 Why choose an OCR A Level in Physics A?
+1a. Why choose an OCR qualification?
+Choose OCR and you’ve got the reassurance that We provide a range of support services designed to
+you’re working with one of the UK’s leading exam help you at every stage, from preparation through to
+boards. Our new A Level in Physics A course has been the delivery of our specifications. This includes: 1
+developed in consultation with teachers, employers
+and Higher Education to provide students with a • A wide range of high-quality creative resources
+qualification that’s relevant to them and meets their including:
+needs.
+delivery guides
+o
+transition guides
+We’re part of the Cambridge Assessment Group, o
+topic exploration packs
+Europe’s largest assessment agency and a department o
+lesson elements
+of the University of Cambridge. Cambridge Assessment o
+…and much more.
+plays a leading role in developing and delivering o
+assessments throughout the world, operating in over • Access to Subject Advisors to support you
+150 countries. through the transition and throughout the
+lifetime of the specifications.
+We work with a range of education providers, including
+schools, colleges, workplaces and other institutions • CPD/Training for teachers to introduce the
+in both the public and private sectors. Over 13,000 qualifications and prepare you for first teaching.
+centres choose our A levels, GCSEs and vocational
+• Active Results – our free results analysis service
+qualifications including Cambridge Nationals and
+to help you review the performance of individual
+Cambridge Technicals.
+students or whole schools.
+Our Specifications
+• ExamBuilder – our free online past papers
+We believe in developing specifications that help you service that enables you to build your own test
+bring the subject to life and inspire your students to papers from past OCR exam questions.
+achieve more.
+All A level qualifications offered by OCR are accredited
+by Ofqual, the Regulator for qualifications offered in
+We’ve created teacher-friendly specifications based on
+England. The accreditation number for OCR’s A Level in
+extensive research and engagement with the teaching
+Physics A is QN: 601/4743/X.
+community. They’re designed to be straightforward
+and accessible so that you can tailor the delivery of
+the course to suit your needs. We aim to encourage
+learners to become responsible for their own learning,
+confident in discussing ideas, innovative and engaged.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 1
+1b. Why choose an OCR A Level in Physics A?
+We appreciate that one size doesn’t fit all so we offer up-to-date relevant content within a framework that is
+two suites of qualifications in each science: interesting to teach and administer within all centres
+1 (large and small).
+Physics A – a content-led approach. A flexible approach
+where the specification is divided into topics, each Our new A Level in Physics A qualification builds
+covering different key concepts of physics. As learners on our existing popular course. We’ve based the
+progress through the course they will build on their redevelopment of our A level sciences on an
+knowledge of the laws of Physics, applying their understanding of what works well in centres large
+understanding to solve problems on topics ranging and small and have updated areas of content and
+from sub-atomic particles to the entire universe. For A assessment where stakeholders have identified that
+level only, the Practical Endorsement will also support improvements could be made. We’ve undertaken a
+the development of practical skills. significant amount of consultation through our science
+forums (which include representatives from learned
+Physics B (Advancing Physics) – a context-led societies, HE, teaching and industry) and through focus
+approach. Learners study physics in a range of different groups with teachers. Our papers and specifications
+contexts, conveying the excitement of contemporary have been trialled in centres during development to
+physics. The course provides a distinctive structure make sure they work well for all centres and learners.
+within which candidates learn about fundamental
+physical concepts and about physics in everyday and The content changes are an evolution of our legacy
+technological settings. Practical skills are embedded offering and will be familiar to centres already
+within the specification and learners are expected to following our courses, but are also clear and logically
+carry out practical work in preparation for a written laid out for centres new to OCR, with assessment
+examination that will specifically test these skills. models that are straightforward to administer. We have
+worked closely with teachers and HE representatives
+All of our specifications have been developed with to provide high quality support materials to guide you
+subject and teaching experts. We have worked in through the new qualifications.
+close consultation with teachers and representatives
+from Higher Education (HE) with the aim of including
+Aims and learning outcomes
+OCR’s A Level in Physics A specification aims to • develop their interest in and enthusiasm for
+encourage learners to: the subject, including developing an interest in
+further study and careers associated with the
+• develop essential knowledge and understanding subject
+of different areas of the subject and how they
+relate to each other • understand how society makes decisions about
+scientific issues and how the sciences contribute
+• develop and demonstrate a deep appreciation to the success of the economy and society (as
+of the skills, knowledge and understanding of exemplified in ‘How Science Works’ (HSW)).
+scientific methods
+• develop competence and confidence in a variety
+of practical, mathematical and problem solving
+skills
+Version 2.8 © OCR 2025
+2 OCR Level 3 Advanced GCE in Physics A
+1c. What are the key features of this specification?
+Our Physics A specification is designed to inspire your • identifies Practical Endorsement requirements
+learners. The course will develop their interest in and and how these can be integrated into teaching
+enthusiasm for the subject, including developing an of content (see Section 5g) 1
+interest in further study and careers associated with
+• exemplifies the mathematical requirements of
+Physics. The specification:
+the course (see Section 5e)
+• uses a content-led approach, enabling a flexible
+• highlights opportunities for the introduction of
+approach to the teaching order
+key mathematical requirements (see Section 5e
+• retains and refreshes the popular topics from and the additional guidance column for each
+the legacy OCR Physics A qualification (H558) module) into your teaching
+• is laid out clearly in a series of teaching modules • identifies, within the additional guidance, how
+with additional guidance added where required the skills, knowledge and understanding of How
+to clarify assessment requirements Science Works (HSW) can be incorporated within
+teaching.
+• is co-teachable with the AS level
+• embeds practical requirements within the
+teaching modules
+Teacher support
+The extensive support offered alongside this • mock examinations service – a free service
+specification includes: offering a practice question paper and mark
+scheme (downloadable from a secure location).
+• delivery guides – providing information on
+assessed content, the associated conceptual Along with:
+development and contextual approaches to
+• Subject Advisors within the OCR science team to
+delivery
+help with course queries
+• transition guides – identifying the levels of
+• teacher training
+demand and progression for different key stages
+for a particular topic and going on to provide • Science Spotlight (our termly newsletter)
+links to high quality resources and ‘checkpoint
+tasks’ to assist teachers in identifying learners • OCR Science community
+‘ready for progression’
+• a consultancy service (to advise on Practical
+• lesson elements – written by experts, providing Endorsement requirements)
+all the materials necessary to deliver creative
+• Practical Skills Handbook
+classroom activities
+• Maths Skills Handbook.
+• Active Results (see Section 1a)
+• ExamBuilder (see Section 1a)
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 3
+1d. How do I find out more information?
+Whether new to our specifications, or continuing from Find out more?
+our legacy offerings, you can find more information on
+1 our webpages at: Contact the Subject Advisors:
+science@ocr.org.uk, 01223 553998.
+www.ocr.org.uk
+Visit our Online Support Centre at support.ocr.org.uk
+Visit our Subject pages to find out more about the
+Check what CPD events are available:
+assessment package and resources available to support
+your teaching. The science team also release a termly www.cpdhub.ocr.org.uk
+newsletter Science Spotlight (despatched to centres
+Follow us on Twitter: @ocr_science
+and available from our subject pages).
+Version 2.8 © OCR 2025
+4 OCR Level 3 Advanced GCE in Physics A
+2 The specification overview
+2a. Overview of A Level in Physics A (H556)
+Learners must complete all components (01, 02, 03 and 04) to be awarded the OCR A Level in Physics A.
+Content Overview Assessment Overview
+Modelling physics 2
+37%
+(01)
+Content is split into six teaching
+100 marks
+modules: of total
+2 hours 15 minutes
+• Module 1 – Development of A level
+practical skills in physics written paper
+• Module 2 – Foundations of
+Exploring physics
+physics
+37%
+(02)
+• Module 3 – Forces and motion
+100 marks
+of total
+• Module 4 – Electrons, waves 2 hours 15 minutes
+A level
+and photons
+written paper
+• Module 5 – Newtonian world
+and astrophysics Unified physics
+26%
+(03)
+• Module 6 – Particles and
+medical physics 70 marks
+of total
+1 hour 30 minutes
+Component 01 assesses content A level
+from modules 1, 2, 3 and 5. written paper
+Component 02 assesses content
+Reported
+from modules 1, 2, 4 and 6. Practical Endorsement
+in physics separately
+Component 03 assesses content
+from all modules (1 to 6). (04)
+(see Section 5g)
+(non exam assessment)
+All components include synoptic assessment.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 5
+2b. Content of A Level in Physics A (H556)
+The A Level in Physics A specification content is divided Module 2 – Foundations of physics
+into six teaching modules. Each module is introduced
+with a summary of the physics it contains and each 2.1 Physical quantities and units
+topic is also introduced with a short summary text. 2.2 Making measurements and analysing data
+The assessable content is divided into two columns: 2.3 Nature of quantities
+Learning outcomes and Additional guidance.
+Module 3 – Forces and motion
+2 The Learning outcomes may all be assessed in the
+examinations (with the exception of some of the skills 3.1 Motion
+in module 1.2 which will be assessed directly through 3.2 Forces in action
+the Practical Endorsement). The Additional guidance
+3.3 Work, energy and power
+column is included to provide further advice on
+3.4 Materials
+delivery and the expected skills required from learners.
+3.5 Newton’s laws of motion and momentum
+References to HSW (Section 5d) are included in the
+guidance to highlight opportunities to encourage a Module 4 – Electrons, waves and photons
+wider understanding of science.
+4.1 Charge and current
+The mathematical requirements in Section 5e are also 4.2 Energy, power and resistance
+referenced by the prefix M to link the mathematical
+4.3 Electrical circuits
+skills required for A Level Physics to examples of the
+4.4 Waves
+physics content where those mathematical skills could
+4.5 Quantum physics
+be linked to learning.
+The specification has been designed to be co-teachable Module 5 – Newtonian world and astrophysics
+with the standalone AS Level in Physics A qualification.
+5.1 Thermal physics
+The first four modules comprise the AS in Physics A
+5.2 Circular motion
+course and learners studying the A level continue with
+the content of modules 5 and 6 in year 13. 5.3 Oscillations
+5.4 Gravitational fields
+The Data, Formulae and Relationships booklet in
+5.5 Astrophysics and cosmology
+Section 5c will be available in examinations and
+learners are expected to become familiar with this
+Module 6 – Particles and medical physics
+booklet throughout the course.
+6.1 Capacitors
+A summary of the content for the A level course is as
+6.2 Electric fields
+follows:
+6.3 Electromagnetism
+Module 1 – Development of practical skills in physics
+6.4 Nuclear and particle physics
+6.5 Medical imaging
+1.1 Practical skills assessed in a written examination
+1.2 Practical skills assessed in the practical
+endorsement
+Version 2.8 © OCR 2025
+6 OCR Level 3 Advanced GCE in Physics A
+Assessment of practical skills and the Practical Endorsement
+Module 1 of the specification content relates to the (Section 5g) as well as enhancing learners’
+practical skills learners are expected to gain throughout understanding of physics theory and practical skills.
+the course, which are assessed throughout the
+written examinations and also through the Practical Opportunities for carrying out activities that could
+Endorsement (see Section 5g). count towards the Practical Endorsement (Section 5g)
+are indicated throughout the specification. These are
+Practical activities are embedded within the learning shown in the Additional guidance column as PAG1 to
+2
+outcomes of the course to encourage practical PAG10 (Practical Activity Group, see Section 5g). There
+activities in the classroom which contribute to the are a wide variety of opportunities to assess PAG 11
+achievement of the Practical Endorsement and PAG12 throughout the qualification.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 7
+2c. Content of modules 1 to 6
+Module 1: Development of practical skills in physics
+Physics is a practical subject. The development techniques for analysing empirical data. Skills in
+and acquisition of practical skills is fundamental. planning, implementing, analysing and evaluating, as
+The Physics A course provides learners with the outlined in 1.1, will be assessed in the written papers.
+opportunity to develop experimental methods and
+2
+1.1 Practical skills assessed in a written examination
+Practical skills are embedded throughout all the Learners will be required to develop a range of
+content of this specification. practical skills throughout their course in preparation
+for the written examinations.
+1.1.1 Planning
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) experimental design, including to solve problems Including selection of suitable apparatus, equipment
+set in a practical context and techniques for the proposed experiment.
+Learners should be able to apply scientific
+knowledge based on the content of the specification
+to the practical context.
+HSW3
+(b) identification of variables that must be
+controlled, where appropriate
+(c) evaluation that an experimental method is HSW6
+appropriate to meet the expected outcomes.
+1.1.2 Implementing
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) how to use a wide range of practical apparatus As outlined in the content of the specification and
+and techniques correctly the skills required for the practical endorsement.
+HSW4
+(b) appropriate units for measurements M0.1
+(c) presenting observations and data in an HSW8
+appropriate format.
+Version 2.8 © OCR 2025
+8 OCR Level 3 Advanced GCE in Physics A
+1.1.3 Analysis
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) processing, analysing and interpreting qualitative Including reaching valid conclusions, where
+and quantitative experimental results appropriate.
+HSW5
+2
+(b) use of appropriate mathematical skills for Refer to Section 5e for a list of mathematical skills
+analysis of quantitative data that learners should have acquired competence in as
+part of their course.
+HSW3
+(c) appropriate use of significant figures M1.1
+(d) plotting and interpreting suitable graphs from
+experimental results, including
+(i) selection and labelling of axes with M3.2
+appropriate scales, quantities and units
+(ii) measurement of gradients and intercepts. M3.3, M3.4, M3.5
+1.1.4 Evaluation
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) how to evaluate results and draw conclusions Learners should be able to evaluate how the
+scientific community use results to validate new
+knowledge and ensure integrity.
+HSW6, 11
+(b) the identification of anomalies in experimental
+measurements
+(c) the limitations in experimental procedures
+(d) precision and accuracy of measurements and M1.5
+data, including margins of error, percentage
+errors and uncertainties in apparatus
+(e) the refining of experimental design by suggestion HSW3
+of improvements to the procedures and
+apparatus.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 9
+1.2 Practical skills assessed in the practical endorsement
+A range of practical experiences is a vital part of a practise their practical skills, preparing learners for the
+learner’s development as part of this course. written examinations.
+Learners should develop and practise a wide range of Please refer to Section 5g (the Practical Endorsement)
+practical skills throughout the course as preparation for of this specification to see the list of practical
+the Practical Endorsement, as well as for the written experiences all learners should cover during the
+examinations. course. Further advice and guidance on the Practical
+2
+Endorsement can be found in the Practical Skills
+The experiments and skills required for the Practical Handbook support booklet.
+Endorsement will allow learners to develop and
+1.2.1 Practical skills
+Learning outcomes Additional guidance
+Practical work carried out throughout the course
+will enable learners to develop the following
+skills:
+Independent thinking
+(a) apply investigative approaches and methods to Including how to solve problems in a practical
+practical work context.
+HSW3
+Use and application of scientific methods and practices
+(b) safely and correctly use a range of practical See Section 5g.
+equipment and materials
+Including identification of potential hazards.
+Learners should understand how to minimise the
+risks involved.
+HSW4
+(c) follow written instructions HSW4
+(d) make and record observations/measurements HSW8
+(e) keep appropriate records of experimental See Section 5g.
+activities
+(f) present information and data in a scientific way HSW8
+(g) use appropriate software and tools to process M3.1
+data, carry out research and report findings HSW3
+Research and referencing
+(h) use online and offline research skills including
+websites, textbooks and other printed scientific
+sources of information
+(i) correctly cite sources of information The Practical Skills Handbook provides guidance on
+appropriate methods for citing information.
+Version 2.8 © OCR 2025
+10 OCR Level 3 Advanced GCE in Physics A
+Instruments and equipment
+(j) use a wide range of experimental and practical See Section 5g.
+instruments, equipment and techniques HSW4
+appropriate to the knowledge and understanding
+included in the specification.
+1.2.2 Use of apparatus and techniques
+Learning outcomes Additional guidance 2
+Through use of the apparatus and techniques
+listed below, and a minimum of 12 assessed
+practicals (see Section 5g), learners should be
+able to demonstrate all of the practical skills
+listed within 1.2.1 and CPAC (Section 5g, Table 2)
+as exemplified through:
+(a) use of appropriate analogue apparatus to record HSW4
+a range of measurements (to include length/
+distance, temperature, pressure, force, angles
+and volume) and to interpolate between scale
+markings
+(b) use of appropriate digital instruments, including HSW4
+electrical multimeters, to obtain a range of
+measurements (to include time, current, voltage,
+resistance and mass)
+(c) use of methods to increase accuracy of HSW4
+measurements, such as timing over multiple
+oscillations, or use of fiducial marker, set square
+or plumb line
+(d) use of a stopwatch or light gates for timing HSW4
+(e) use of calipers and micrometers for small HSW4
+distances, using digital or vernier scales
+(f) correctly constructing circuits from circuit HSW4
+diagrams using DC power supplies, cells, and
+a range of circuit components, including those
+where polarity is important
+(g) designing, constructing and checking circuits HSW4
+using DC power supplies, cells, and a range of
+circuit components
+(h) use of a signal generator and oscilloscope, HSW4
+including volts/division and time-base
+(i) generating and measuring waves, using HSW4
+microphone and loudspeaker, or ripple tank, or
+vibration transducer, or microwave/radio wave
+source
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 11
+(j) use of a laser or light source to investigate HSW4
+characteristics of light, including interference and
+diffraction
+(k) use of ICT such as computer modelling, or data HSW3, HSW4
+logger with a variety of sensors to collect data, or
+use of software to process data
+(l) use of ionising radiation, including detectors. HSW4
+2
+Version 2.8 © OCR 2025
+12 OCR Level 3 Advanced GCE in Physics A
+Module 2: Foundations of physics
+The aim of this module is to introduce important scalars and vectors helps physicists to effectively
+conventions and ideas that permeate the fabric of communicate their ideas within the scientific
+physics. Understanding of physical quantities, S.I. units, community (HSW8, 11).
+2.1 Physical quantities and units
+2
+This section provides knowledge and understanding of
+physical quantities and units.
+2.1.1 Physical quantities
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) physical quantities have a numerical value and a M0.1
+unit
+(b) making estimates of physical quantities listed in M0.4
+this specification.
+2.1.2 S.I. units
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) Système Internationale (S.I.) base quantities HSW8
+and their units – mass (kg), length (m), time
+(s), current (A), temperature (K), amount of
+substance (mol)
+(b) derived units of S.I. base units Examples: momentum kg m s–1 and
+density kg m–3
+(c) units listed in this specification
+(d) checking the homogeneity of physical equations
+using S.I. base units
+(e) prefixes and their symbols to indicate decimal As set out in the ASE publication Signs, Symbols and
+submultiples or multiples of units – pico (p), Systematics (The ASE Companion to 16–19 Science,
+nano (n), micro (μ), milli (m), centi (c), deci (d), 2000).
+kilo (k), mega (M), giga (G), tera (T)
+(f) the conventions used for labelling graph axes and As set out in above, e.g. speed / m s–1.
+table columns. HSW8
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 13
+2.2 Making measurements and analysing data
+This section provides knowledge and understanding of
+physical measurements and treatment of errors and
+uncertainties.
+2.2.1 Measurements and uncertainties
+Learning outcomes Additional guidance
+2
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) systematic errors (including zero errors) and
+random errors in measurements
+(b) precision and accuracy As discussed in The Language of Measurement
+(ASE 2010).
+(c) absolute and percentage uncertainties when As set out in the ASE publication Signs, Symbols and
+data are combined by addition, subtraction, Systematics (The ASE Companion to 16–19 Science,
+multiplication, division and raising to powers 2000).
+A rigorous statistical treatment is not expected.
+M1.5
+(d) graphical treatment of errors and uncertainties; An elementary knowledge of error bars is expected
+line of best fit; worst line; absolute and at A level.
+percentage uncertainties; percentage difference. HSW5
+M1.5
+2.3 Nature of quantities
+This section provides knowledge and understanding of it is important to know whether a quantity is a vector
+scalars and vectors quantities. Vector quantities add or a scalar.
+and subtract very differently to scalar quantities; hence
+2.3.1 Scalars and vectors
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) scalar and vector quantities Learners will also be expected to give examples of
+each.
+(b) vector addition and subtraction
+(c) vector triangle to determine the resultant of any To be done by calculation or by scale drawing
+two coplanar vectors M0.6, M4.2, M4.4
+(d) resolving a vector into two perpendicular M0.6, M4.5
+components; F = F cos i ; F = F sin i.
+x y
+Version 2.8 © OCR 2025
+14 OCR Level 3 Advanced GCE in Physics A
+Module 3: Forces and motion
+The term force is generally used to indicate a push or a also change the shape of an object. There are many
+pull. It is difficult to give a proper definition for a force, other things that forces can do.
+but in physics we can easily describe what a force can
+do. In this module, learners will learn how to model the
+motion of objects using mathematics, understand
+A resultant force acting on an object can accelerate the the effect forces have on objects, learn about the
+object in a specific direction. The subsequent motion important connection between force and energy,
+2
+of the object can be analysed using equations of appreciate how forces cause deformation and
+motion. Several forces acting on an object can prevent understand the importance of Newton’s laws of
+the object from either moving or rotating. Forces can motion.
+3.1 Motion
+This section provides knowledge and understanding of also have the opportunity to analyse and interpret
+key ideas used to describe and analyse the motion of experimental data by recognising relationships
+objects in both one-dimension and in two-dimensions. between physical quantities (HSW5). The analysis
+It also provides learners with opportunities to develop of motion gives many opportunities to link to How
+their analytical and experimental skills. Science Works. Examples relate to detecting the speed
+of moving vehicles, stopping distances and freefall
+The motion of a variety of objects can be analysed (HSW2, 9, 10, 11, 12).
+using ICT or data-logging techniques (HSW3). Learners
+3.1.1 Kinematics
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) displacement, instantaneous speed, average M0.1, M1.4, M3.7, M3.9
+speed, velocity and acceleration HSW10, 12
+(b) graphical representations of displacement, M3.6
+speed, velocity and acceleration HSW3 Using data-loggers to analyse motion.
+(c) Displacement–time graphs; velocity is gradient M3.4, M3.7
+(d) Velocity–time graphs; acceleration is gradient; Learners will also be expected to estimate the area
+displacement is area under graph. under non-linear graphs.
+M3.5, M4.3
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 15
+3.1.2 Linear motion
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) the equations of motion for constant M2.2, M2.4, M3.3
+acceleration in a straight line, including HSW9
+motion of bodies falling in a uniform
+2 gravitational field without air resistance
+1
+v =u+at s = (u+v)t
+2
+1 2 2 2
+s =ut+ at v =u +2as
+2
+(ii) techniques and procedures used to PAG1 Apparatus may include trolleys, air-track
+investigate the motion and collisions of gliders, ticker timers, light gates, data-loggers and
+objects video techniques.
+HSW4, 9, 10
+(b) (i) acceleration g of free fall
+(ii) techniques and procedures used to PAG1
+determine the acceleration of free fall, HSW4, 5, 7 Determining g in the laboratory.
+to include using trapdoor and
+electromagnet arrangement and light
+gates and timer arrangement
+(c) reaction time and thinking distance; braking HSW5, 9, 10, 11, 12
+distance and stopping distance for a vehicle.
+3.1.3 Projectile motion
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) independence of the vertical and horizontal
+motion of a projectile
+(b) two-dimensional motion of a projectile with M0.6, M4.5
+constant velocity in one direction and constant
+acceleration in a perpendicular direction.
+Version 2.8 © OCR 2025
+16 OCR Level 3 Advanced GCE in Physics A
+3.2 Forces in action
+This section provides knowledge and understanding of There are opportunities to consider contemporary
+the motion of an object when it experiences several applications of terminal velocity, moments, couples,
+forces and also the equilibrium of an object. Learners pressure, and Archimedes principle (HSW6, 7, 9,
+will also learn how pressure differences give rise to an 11, 12).
+upthrust on an object in a fluid.
+Experimental work must play a pivotal role in the
+acquisition of key concepts and skills (HSW4).
+2
+3.2.1 Dynamics
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) net force = mass × acceleration; F = ma Learners will also be expected to recall this
+equation.
+M1.1
+(b) the newton as the unit of force
+(c) weight of an object; W = mg Learners will also be expected to recall this
+equation.
+(d) the terms tension, normal contact force, upthrust
+and friction
+(e) free-body diagrams
+(f) one- and two-dimensional motion under
+constant force.
+3.2.2 Motion with non-uniform acceleration
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) drag as the frictional force experienced by an
+object travelling through a fluid
+(b) factors affecting drag for an object travelling HSW6
+through air
+(c) motion of objects falling in a uniform HSW9
+gravitational field in the presence of drag
+(d) (i) terminal velocity HSW1, 5
+(ii) techniques and procedures used to PAG1 e.g. ball-bearing in a viscous liquid or cones in
+determine terminal velocity in fluids. air.
+HSW4 Investigating factors affecting terminal
+velocity.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 17
+3.2.3 Equilibrium
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) moment of force; moment = Fx
+(b) couple; torque of a couple; torque = Fd
+2
+(c) the principle of moments
+(d) centre of mass; centre of gravity; experimental
+determination of centre of gravity
+(e) equilibrium of an object under the action of
+forces and torques
+(f) condition for equilibrium of three coplanar M4.1, M4.2, M4.4
+forces; triangle of forces.
+3.2.4 Density and pressure
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+m
+(a) density; t = M0.1, M4.3
+V
+F
+(b) pressure; p = for solids, liquids and gases
+A
+(c) p =htg; upthrust on an object in a fluid; M2.1
+Archimedes’ principle. HSW4, 7, 11
+Version 2.8 © OCR 2025
+18 OCR Level 3 Advanced GCE in Physics A
+3.3 Work, energy and power
+Words like energy, power and work have very precise analysis of energy transfers provides the opportunity
+meaning in physics. In this section the important link for calculations of efficiency and the subsequent
+between work done and energy is explored. Learners evaluation of issues relating to the individual and
+have the opportunity to apply the important principle society (HSW2, 5, 8, 9, 10, 11, 12).
+of conservation of energy to a range of situations. The
+3.3.1 Work and conservation of energy
+2
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) work done by a force; the unit joule
+(b) W = Fx cos i for work done by a force
+(c) the principle of conservation of energy HSW2
+(d) energy in different forms; transfer and
+conservation
+(e) transfer of energy is equal to work done.
+3.3.2 Kinetic and potential energies
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+1 2
+(a) kinetic energy of an object; E = mv Learners will also be expected to recall this equation
+k 2
+and derive it from first principles.
+M0.5
+(b) gravitational potential energy of an object in a Learners will also be expected to recall this equation
+uniform gravitational field; E = mgh and derive it from first principles.
+p
+(c) the exchange between gravitational potential HSW5, 6
+energy and kinetic energy.
+3.3.3 Power
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+W
+(a) power; the unit watt; P =
+t
+(b) P = Fv Learners will also be expected to derive this
+equation from first principles.
+(c) efficiency of a mechanical system; M0.3
+usefuloutputenergy HSW9, 10, 12
+efficiency = #100%
+totalinputenergy
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 19
+3.4 Materials
+This section examines the physical properties of management of risks and analysis of data to provide
+springs and materials. evidence for relationships between physical quantities.
+There are opportunities to consider the selection of
+Learners can carry out a range of experimental work appropriate materials for practical applications
+to enhance their knowledge and skills, including the (HSW5, 6, 8, 9, 12).
+2
+3.4.1 Springs
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) tensile and compressive deformation; extension
+and compression
+(b) Hooke’s law
+(c) force constant k of a spring or wire; F = kx
+(d) (i) f orce–extension (or compression) graphs M3.2
+for springs and wires
+(ii) t echniques and procedures used to PAG2
+investigate force–extension characteristics HSW5, 6
+for arrangements which may include
+springs, rubber bands, polythene strips.
+3.4.2 Mechanical properties of matter
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) force–extension (or compression) graph; work M3.1
+done is area under graph
+(b) elastic potential energy; E = 1 Fx ; E = 1 kx 2 M0.5, M3.12
+2 2
+(c) stress, strain and ultimate tensile strength
+tensilestress v M3.1
+(d) (i) Young modulus = , E =
+f
+tensilestrain
+(ii) techniques and procedures used to PAG2
+determine the Young modulus for a metal
+(e) stress–strain graphs for typical ductile, brittle and M3.2
+polymeric materials HSW8
+(f) elastic and plastic deformations of materials. HSW4, 5, 9, 12 Investigating the properties of
+materials
+PAG2
+Version 2.8 © OCR 2025
+20 OCR Level 3 Advanced GCE in Physics A
+3.5 Newton’s laws of motion and momentum
+This section provides knowledge and understanding of safety features in cars is a consequence of the scientific
+Newton’s laws – fundamental laws that can be used to community analysing the forces involved in collisions
+predict the motion of all colliding or interacting objects and investigating potential solutions to reduce the
+in applications such as sport (HSW1, 2). Newton’s law likelihood of personal injury (HSW10, 11, 12).
+can also be used to understand some of the safety
+features in cars, such as air bags, and to evaluate the There are many opportunities for learners to carry
+benefits and risks of such features (HSW9). Learners out experimental work and analyse data using ICT
+2
+should be aware that the introduction of mandatory techniques (HSW3).
+3.5.1 Newton’s laws of motion
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) Newton’s three laws of motion HSW7
+(b) linear momentum; p = mv; vector nature of
+momentum
+(c) net force = rate of change of momentum; Learners are expected to know that F = ma is a
+Tp special case of this equation.
+F =
+Tt HSW9, 10
+M2.1, M3.9
+(d) impulse of a force; impulse = FTt
+(e) impulse is equal to the area under a force–time Learners will also be expected to estimate the area
+graph. under non-linear graphs.
+HSW3 Using a spreadsheet to determine impulse
+from F–t graph.
+M3.8, M4.3
+3.5.2 Collisions
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the principle of conservation of momentum HSW7
+(b) collisions and interaction of bodies in one Two-dimensional problems will only be assessed at
+dimension and in two dimensions A level. HSW11, 12
+(c) perfectly elastic collision and inelastic collision. HSW1, 2, 6
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 21
+Module 4: Electrons, waves and photons
+The aim of this module is to ultimately introduce key In this module, learners will learn about electrons,
+ideas of quantum physics. Electromagnetic waves electric current, electrical circuits, wave properties,
+(e.g. light) have a dual nature. They exhibit both wave electromagnetic waves and, of course, quantum
+and particle-like behaviour. The wave–particle dual physics.
+nature is also found to be characteristic of all particles
+(e.g. electrons). Learners have the opportunity to appreciate how
+scientific ideas of quantum physics developed
+2
+Before any sophisticated work can be done on over time (HSW7) and their validity rested on the
+quantum physics, learners need to appreciate what foundations of experimental work (HSW1 and HSW2).
+electrons are and how they behave in electrical
+circuits. A basic understanding of wave properties is
+also required.
+4.1 Charge and current
+This short section introduces the ideas of charge and important ideas. The continuity equation (I = Anev)
+current. Understanding electric current is essential is developed using these key ideas. This section
+when dealing with electrical circuits. This section does concludes with categorising all materials in terms of
+not lend itself to practical work but to introducing their ability to conduct.
+4.1.1 Charge
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+TQ
+(a) electric current as rate of flow of charge; I=
+Tt
+(b) the coulomb as the unit of charge
+(c) the elementary charge e equals 1.6 × 10–19 C Learners will be expected to know that an electron
+has charge –e and a proton a charge +e.
+HSW7
+(d) net charge on a particle or an object is quantised
+and a multiple of e
+(e) current as the movement of electrons in metals HSW7
+and movement of ions in electrolytes
+(f) conventional current and electron flow HSW7
+(g) Kirchhoff’s first law; conservation of charge.
+Version 2.8 © OCR 2025
+22 OCR Level 3 Advanced GCE in Physics A
+4.1.2 Mean drift velocity
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) mean drift velocity of charge carriers
+(b) I = Anev, where n is the number density of M0.2
+charge carriers
+2
+(c) distinction between conductors, semiconductors HSW1, 2
+and insulators in terms of n.
+4.2 Energy, power and resistance
+This section provides knowledge and understanding energy saving devices in the home (HSW10) and how
+of electrical symbols, electromotive force, potential customers can make informed decisions when buying
+difference, resistivity and power. The scientific domestic appliances (HSW12).
+vocabulary developed here is a prerequisite for
+understanding electrical circuits in 4.3. There are many opportunities for learners to use
+spreadsheets in the analysis and presentation of data
+There is a desire to use energy saving devices, such as (HSW3), to carry out practical activities to understand
+LED lamps, in homes. Learners have the opportunity concepts (HSW4) and to analyse data to find
+to understand the link between environmental relationships between physical quantities (HSW5).
+damage from power stations and the impetus to use
+4.2.1 Circuit symbols
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) circuit symbols As set out in ASE publication Signs, Symbols and
+Systematics (The ASE Companion to 16–19 Science,
+2000).
+HSW8
+(b) circuit diagrams using these symbols.
+4.2.2 E.m.f. and p.d
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) potential difference (p.d.); the unit volt
+(b) electromotive force (e.m.f.) of a source such as a The ASE guide ‘Signs symbols and systematics’
+cell or a power supply details E as the symbol for e.m.f.
+(c) distinction between e.m.f. and p.d. in terms of This should not be confused with the symbols for
+energy transfer energy, electric field strength and for Young modulus
+which are also denoted as E.
+(d) energy transfer; W = VQ; W = EQ.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 23
+1 2
+(e) energy transfer eV = mv for electrons and
+2
+other charged particles.
+4.2.3 Resistance
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+2 V
+(a) resistance; R= ; the unit ohm Learners will also be expected to recall this
+I
+equation.
+(b) Ohm’s law
+(c) (i) I–V characteristics of resistor, filament M3.12
+lamp, thermistor, diode and light-emitting HSW5, 8, 9
+diode (LED)
+(ii) techniques and procedures used to PAG3
+investigate the electrical characteristics HSW3, 4, 5 Investigating components and analysing
+for a range of ohmic and non-ohmic data using spreadsheet.
+components.
+(d) light-dependent resistor (LDR); variation of
+resistance with light intensity.
+4.2.4 Resistivity
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) resistivity of a material; the equation
+tL
+R=
+A
+(ii) techniques and procedures used to PAG3
+determine the resistivity of a metal.
+(b) the variation of resistivity of metals and HSW2
+semiconductors with temperature
+(c) negative temperature coefficient (NTC) HSW5
+thermistor; variation of resistance with
+temperature.
+4.2.5 Power
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+2
+2 V
+(a) the equations P =VI,P =I R and P = M2.2
+R
+(b) energy transfer; W = VIt
+Version 2.8 © OCR 2025
+24 OCR Level 3 Advanced GCE in Physics A
+(c) the kilowatt-hour (kW h) as a unit of energy; Learners will be expected to link this with 3.3.3(c)
+calculating the cost of energy. HSW10,12
+4.3 Electrical circuits
+This section provides knowledge and understanding and managing risks when using power supplies
+of electrical circuits, internal resistance and potential (HSW4). Learners are encouraged to communicate
+dividers. LDRs and thermistors are used to show how scientific ideas using appropriate terminology (HSW8).
+changes in light intensity and temperature respectively This section provides ample opportunities for learners 2
+can be monitored using potential dividers. to design circuits and carry out appropriate testing for
+faults and there are opportunities to study the many
+Setting up electrical circuits, including potential applications of electrical circuits (HSW1, 2, 3, 5, 6,
+divider circuits, provides an ideal way of enhancing 9, 12).
+experimental skills, understanding electrical concepts
+4.3.1 Series and parallel circuits
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) Kirchhoff’s second law; the conservation of
+energy
+(b) Kirchhoff’s first and second laws applied to
+electrical circuits
+(c) total resistance of two or more resistors in
+series; R = R + R + ...
+1 2
+(d) total resistance of two or more resistors in
+1 1 1
+parallel; = + +....
+R R R
+1 2
+(e) analysis of circuits with components, including
+both series and parallel
+(f) analysis of circuits with more than one source of
+e.m.f.
+4.3.2 Internal resistance
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) source of e.m.f.; internal resistance HSW9, 12
+(b) terminal p.d.; 'lost volts'
+(c) (i) the equations E = I(R + r) and E = V + Ir HSW5, 6
+(ii) t echniques and procedures used to PAG3
+determine the internal resistance of a HSW4, HSW8 Investigating the internal resistance of
+chemical cell or other source of e.m.f. a power supply.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 25
+4.3.3 Potential dividers
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) potential divider circuit with components Learners will also be expected to know about a
+potentiometer as a potential divider.
+(b) potential divider circuits with variable
+2
+components e.g. LDR and thermistor
+(c) (i) potential divider equations e.g. M2.3
+R V R
+2 1 1
+V = #V and =
+out R +R in V R
+1 2 2 2
+(ii) techniques and procedures used to PAG4
+investigate potential divider circuits which HSW4 Designing temperature and light sensing
+may include a sensor such as a thermistor circuits.
+or an LDR.
+4.4 Waves
+This section provides knowledge and understanding of There are opportunities to discuss how the double-slit
+wave properties, electromagnetic waves, superposition experiment demonstrated the wave-like behaviour of
+and stationary waves. The wavelength of visible light light (HSW7).
+is too small to be measured directly using a ruler.
+The breadth of the topic covering sound waves and the
+However, superposition experiments can be done in
+electromagnetic spectrum provides scope for learners
+the laboratory to determine wavelength of visible light
+to appreciate the wide ranging applications of waves
+using a laser and a double slit.
+and their properties. (HSW1, 2, 5, 8, 9, 12)
+4.4.1 Wave motion
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) progressive waves; longitudinal and transverse HSW8
+waves
+(b) (i) d isplacement, amplitude, wavelength, HSW8
+period, phase difference, frequency and
+speed of a wave
+(ii) t echniques and procedures used to use an PAG5
+oscilloscope to determine frequency
+1
+(c) the equationf=
+T
+(d) the wave equation v=fm
+Version 2.8 © OCR 2025
+26 OCR Level 3 Advanced GCE in Physics A
+(e) graphical representations of transverse and HSW5
+longitudinal waves
+(f) (i) reflection, refraction, polarisation and Learners will be expected to know that diffraction
+diffraction of all waves effects become significant when the wavelength is
+comparable to the gap width.
+(ii) t echniques and procedures used to HSW1, 4
+demonstrate wave effects using a ripple
+tank 2
+(iii) t echniques and procedures used PAG5
+to observe polarising effects using
+microwaves and light
+P
+(g) intensity of a progressive wave; I= ;
+A
+intensity ∝ (amplitude)2.
+4.4.2 Electromagnetic waves
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) electromagnetic spectrum; properties of
+electromagnetic waves
+(b) orders of magnitude of wavelengths of the
+principal radiations from radio waves to gamma
+rays
+(c) plane polarised waves; polarisation of Learners will be expected to know about polarising
+electromagnetic waves filters for light and metal grilles for microwaves in
+demonstrating polarisation.
+HSW9
+c at the interface between medium 1 and medium 2,
+(d) (i) refraction of light; refractive index; n = ;
+v n sini = n sini
+nsini= constant at a boundary where 1 1 2 2
+i is the angle to the normal
+(ii) techniques and procedures used to PAG6
+investigate refraction and total internal
+reflection of light using ray boxes, including
+transparent rectangular and semi-circular
+blocks
+1
+(e) critical angle; sin C = ; total internal reflection
+n
+for light.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 27
+4.4.3 Superposition
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) the principle of superposition of waves
+(ii) techniques and procedures used for PAG5
+superposition experiments using sound,
+2
+light and microwaves
+(b) graphical methods to illustrate the principle of
+superposition
+(c) interference, coherence, path difference and
+phase difference
+(d) constructive interference and destructive
+interference in terms of path difference and
+phase difference
+(e) two-source interference with sound and
+microwaves
+(f) Young double-slit experiment using visible light Learners should understand that this experiment
+gave a classical confirmation of the wave-nature of
+light.
+HSW7 Internet research on the ideas of Newton and
+Huygens about the nature of light.
+ax
+(g) (i) m = for all waves where a D M4.6
+D
+(ii) techniques and procedures us≪ed to PAG5
+determine the wavelength of light using d sinθ = nλ and diffraction gratings will only be
+(1) a double-slit, and (2) a diffraction assessed at A level
+grating.
+4.4.4 Stationary waves
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) stationary (standing) waves using microwaves,
+stretched strings and air columns
+(b) graphical representations of a stationary wave
+(c) similarities and the differences between
+stationary and progressive waves
+(d) nodes and antinodes
+(e) (i) s tationary wave patterns for a stretched
+string and air columns in closed and open
+tubes
+Version 2.8 © OCR 2025
+28 OCR Level 3 Advanced GCE in Physics A
+(ii) techniques and procedures used to PAG5
+determine the speed of sound in air
+by formation of stationary waves in a
+resonance tube
+(f) the idea that the separation between adjacent
+nodes (or antinodes) is equal to m/2, where m is
+the wavelength of the progressive wave
+(g) fundamental mode of vibration (1st harmonic); 2
+harmonics.
+4.5 Quantum physics
+This section provides knowledge and understanding of of these waves with matter. This single experiment led
+photons, the photoelectric effect, de Broglie waves and to the development of the photon model and was the
+wave–particle duality. cornerstone of quantum physics. Learners have the
+opportunity to carry out internet research into how the
+In the photoelectric effect experiment, electromagnetic ideas of quantum physics developed (HSW1, 2, 7) and
+waves are used to eject surface electrons from metals. how scientific community validates the integrity of new
+The electrons are ejected instantaneously and their knowledge before its acceptance (HSW11).
+energy is independent of the intensity of the radiation.
+The wave model is unable to explain the interaction
+4.5.1 Photons
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the particulate nature (photon model) of
+electromagnetic radiation
+(b) photon as a quantum of energy of
+electromagnetic radiation
+hc
+(c) energy of a photon; E = hf and E =
+m
+(d) the electronvolt (eV) as a unit of energy
+hc
+(e) (i) using LEDs and the equation eV = to No knowledge of semiconductor theory is required.
+m
+HSW11
+estimate the value of Planck constant h
+(ii) D etermine the Planck constant using PAG6
+different coloured LEDs.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 29
+4.5.2 The photoelectric effect
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) photoelectric effect, including a simple Learners should understand that the photoelectric
+experiment to demonstrate this effect effect provides evidence for particulate nature of
+electromagnetic radiation.
+2 HSW1, 2, 3, 7, 11 Internet research on the
+development of quantum physics.
+(ii) d emonstration of the photoelectric effect
+using, e.g. gold-leaf electroscope and zinc
+plate
+(b) a one-to-one interaction between a photon and a
+surface electron
+(c) Einstein’s photoelectric equation hf=z+KE M2.3
+max
+(d) work function; threshold frequency
+(e) the idea that the maximum kinetic energy of the
+photoelectrons is independent of the intensity of
+the incident radiation
+(f) the idea that rate of emission of photoelectrons
+above the threshold frequency is directly
+proportional to the intensity of the incident
+radiation.
+4.5.3 Wave–particle duality
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) electron diffraction, including experimental Learners should understand that electron diffraction
+evidence of this effect provides evidence for wave-like behaviour of
+particles.
+(b) diffraction of electrons travelling through a thin
+slice of polycrystalline graphite by the atoms of
+graphite and the spacing between the atoms
+h
+(c) the de Broglie equation m = .
+p
+Version 2.8 © OCR 2025
+30 OCR Level 3 Advanced GCE in Physics A
+Module 5: Newtonian world and astrophysics
+The aim of this module is to show the impact electromagnetic radiation from space. As such, it lends
+Newtonian mechanics has on physics. The microscopic itself to the consideration of how the development of
+motion of atoms can be modelled using Newton’s the scientific model is improved based on the advances
+laws and hence provide us with an understanding in the means of observation (HSW1, 2, 5, 6, 7, 8, 9, 11).
+of macroscopic quantities such as pressure and
+temperature. Newton’s law of gravitation can be used In this module, learners will learn about thermal
+to predict the motion of planets and distant galaxies. physics, circular motion, oscillations, gravitational field,
+2
+In the final section we explore the intricacies of stars astrophysics and cosmology.
+and the expansion of the Universe by analysing the
+5.1 Thermal physics
+This section provides knowledge and understanding of It also provides an opportunity to discuss how
+temperature, matter, specific heat capacity and specific Newton’s laws can be used to model the behaviour
+latent heat with contexts involving heat transfer and of gases (HSW1) and significant opportunities for the
+change of phase (HSW1, 2, 5, 7). analysis and interpretation of data (HSW5).
+Experimental work can be carried out to safely
+investigate specific heat capacity of materials (HSW4).
+5.1.1 Temperature
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) thermal equilibrium
+(b) absolute scale of temperature (i.e. the HSW7
+thermodynamic scale) that does not depend on
+property of any particular substance
+(c) temperature measurements both in degrees HSW7
+Celsius (°C) and in kelvin (K)
+(d) T(K) . i(°C)+273.
+5.1.2 Solid, liquid and gas
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) solids, liquids and gases in terms of the spacing, HSW1
+ordering and motion of atoms or molecules
+(b) simple kinetic model for solids, liquids and gases HSW1
+(c) Brownian motion in terms of the kinetic model of HSW2
+matter and a simple demonstration using smoke
+particles suspended in air
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 31
+(d) internal energy as the sum of the random
+distribution of kinetic and potential energies
+associated with the molecules of a system
+(e) absolute zero (0 K) as the lowest limit for
+temperature; the temperature at which a
+substance has minimum internal energy
+(f) increase in the internal energy of a body as its
+2 temperature rises
+(g) changes in the internal energy of a substance
+during change of phase; constant temperature
+during change of phase.
+5.1.3 Thermal properties of materials
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) specific heat capacity of a substance; the HSW4 Estimating specific heat capacity, using
+equation E =mcTi method of mixture.
+(b) (i) a n electrical experiment to determine the HSW5
+specific heat capacity of a metal or a liquid
+(ii) techniques and procedures used for an
+electrical method to determine the specific
+heat capacity of a metal block and a liquid
+(c) specific latent heat of fusion and specific latent
+heat of vaporisation; E = ml
+(d) (i) a n electrical experiment to determine
+the specific latent heat of fusion and
+vaporisation
+(ii) t echniques and procedures used for an
+electrical method to determine the specific
+latent heat of a solid and a liquid.
+Version 2.8 © OCR 2025
+32 OCR Level 3 Advanced GCE in Physics A
+5.1.4 Ideal gases
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) amount of substance in moles; Avogadro
+constant N equals 6.02 × 1023 mol–1
+A
+(b) model of kinetic theory of gases assumptions for the model:
+2
+large number of molecules in random, rapid motion
+particles (atoms or molecules) occupy negligible
+volume compared to the volume of gas
+all collisions are perfectly elastic and the time of
+the collisions is negligible compared to the time
+between collisions
+negligible forces between particles except during
+collision
+HSW1
+(c) pressure in terms of this model HSW1, 2 Explanation of pressure in terms of
+Newtonian theory.
+(d) (i) the equation of state of an ideal gas
+pV = nRT, where n is the number of moles
+(ii) techniques and procedures used to investigate PAG8
+P
+PV = constant (Boyle’s law) and = constant
+T
+(iii) an estimation of absolute zero using PAG8
+variation of gas temperature with pressure
+1 2
+(e) the equation pV = Nmc , where Derivation of this equation is not required.
+3
+N is the number of particles (atoms or molecules) HSW2
+2
+and c is the mean square speed
+(f) root mean square (r.m.s.) speed; mean square Learners should know about the general
+speed characteristics of the Maxwell-Boltzmann
+distribution.
+R
+(g) the Boltzmann constant; k=
+N
+A
+1 2 3
+(h) pV =NkT; mc = kT Learners will also be expected to know the
+2 2
+1 2 3
+derivation of the equation mc = kT from
+2 2
+1 2
+pV = Nmc and pV =NkT.
+3
+HSW2
+(i) internal energy of an ideal gas.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 33
+5.2 Circular motion
+There are many examples of objects travelling at such as planetary motion in section 5.4.3 (HSW1, 2,
+constant speed in circles, e.g. planets, artificial 5, 9).
+satellites, charged particles in a magnetic field, etc.
+The physics in all these cases can be described and This section provides knowledge and understanding
+analysed using the ideas developed by Newton. The of circular motion and important concepts such as
+concepts in this section have applications in many centripetal force and acceleration.
+contexts present in other sections of this specification,
+2
+5.2.1 Kinematics of circular motion
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the radian as a measure of angle M4.7
+(b) period and frequency of an object in circular
+motion
+2r
+(c) angular velocity ~, ~= or ~=2rf
+T
+5.2.2 Centripetal force
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) a constant net force perpendicular to the velocity HSW1, 2, 5, 9
+of an object causes it to travel in a circular path
+(b) constant speed in a circle; v=~r
+2
+v 2
+(c) centripetal acceleration; a = ; a =~ r M2.4
+r
+2
+(d) (i) centripetal force; F =
+mv
+; F
+=m~2
+r
+r
+(ii) techniques and procedures used to
+investigate circular motion using a whirling
+bung.
+Version 2.8 © OCR 2025
+34 OCR Level 3 Advanced GCE in Physics A
+5.3 Oscillations
+Oscillatory motion is all around us, with examples This section provides knowledge and understanding
+including atoms vibrating in a solid, a bridge swaying of simple harmonic motion, forced oscillations and
+in the wind, the motion of pistons of a car and the resonance.
+motion of tides. (HSW1, 2, 3, 5, 6, 8, 9, 10, 12)
+5.3.1 Simple harmonic oscillations
+2
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) displacement, amplitude, period, frequency, M4.7
+angular frequency and phase difference HSW8
+2r
+(b) angular frequency ~; ~= or ~=2rf
+T
+(c) (i) simple harmonic motion; defining equation HSW5
+2
+a =-~ x
+(ii) techniques and procedures used to PAG10 e.g. mass on a spring, pendulum
+determine the period/frequency of simple
+harmonic oscillations
+2
+(d) solutions to the equation a =-~ x M3.9, M3.12
+e.g. x=Acos~tor x=Asin~t
+2 2
+(e) velocity v=!~ A -x hence v =~A M2.2
+max
+(f) the period of a simple harmonic oscillator is
+independent of its amplitude (isochronous
+oscillator)
+(g) graphical methods to relate the changes in HSW1
+displacement, velocity and acceleration during
+simple harmonic motion.
+5.3.2 Energy of a simple harmonic oscillator
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) interchange between kinetic and potential HSW2
+energy during simple harmonic motion
+(b) energy-displacement graphs for a simple HSW6
+harmonic oscillator
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 35
+5.3.3 Damping
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) free and forced oscillations
+(b) (i) the effects of damping on an oscillatory HSW9, 12
+system
+2
+(ii) observe forced and damped oscillations for
+a range of systems
+(c) resonance; natural frequency HSW9, 12
+(d) amplitude-driving frequency graphs for forced
+oscillators
+(e) practical examples of forced oscillations and HSW9, 12
+resonance.
+5.4 Gravitational fields
+This section provides knowledge and understanding Geostationary satellites have done much to improve
+of Newton’s law of gravitation, planetary motion and telecommunications around the world. They are
+gravitational potential and energy. expensive; governments and industry have to make
+Newton’s law of gravitation can be used to predict difficult decisions when building new ones. Learners
+the motion of orbiting satellites, planets and even have the opportunity to discuss the societal benefits
+why some objects in our Solar system have very little of satellites and the risks they pose when accidents do
+atmosphere with the opportunity to analyse evidence occur (HSW9, 10).
+and look at causal relationships (HSW1, 2, 5, 7).
+5.4.1 Point and spherical masses
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) gravitational fields are due to objects having
+mass
+(b) modelling the mass of a spherical object as a
+point mass at its centre
+(c) gravitational field lines to map gravitational fields HSW1
+F
+(d) gravitational field strength; g = .
+m
+(e) the concept of gravitational fields as being one of Learners will be expected to link this with
+a number of forms of field giving rise to a force. section 6.2
+Version 2.8 © OCR 2025
+36 OCR Level 3 Advanced GCE in Physics A
+5.4.2 Newton’s law of gravitation
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+GMm
+(a) Newton’s law of gravitation; F =- for the M2.3
+2
+force between two point masses r
+GM 2
+(b) gravitational field strength g =- for a point
+2
+mass r
+(c) gravitational field strength is uniform close to the
+surface of the Earth and numerically equal to the
+acceleration of free fall.
+5.4.3 Planetary motion
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) Kepler’s three laws of planetary motion HSW7
+(b) the centripetal force on a planet is provided by
+the gravitational force between it and the Sun
+(c) the equation T 2 =
+J
+K K
+4r2N
+O Or 3 Learners will also be expected to derive this
+GM equation from first principles. HSW1
+L P
+(d) the relationship for Kepler’s third law T2 ∝ r3
+applied to systems other than our solar system
+(e) geostationary orbit; uses of geostationary HSW1, 2, 9, 10 Predicting geostationary orbit using
+satellites. Newtonian laws.
+5.4.4 Gravitational potential and energy
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) gravitational potential at a point as the work
+done in bringing unit mass from infinity to the
+point; gravitational potential is zero at infinity
+GM
+(b) gravitational potential V =- at a distance
+g r
+r from a point mass M; changes in gravitational
+potential
+(c) force–distance graph for a point or spherical HSW5
+mass; work done is area under graph
+GMm
+(d) gravitational potential energy E =mV =-
+g r
+at a distance r from a point mass M
+(e) escape velocity. HSW1, HSW2 Predicting the escape velocity of
+atoms from the atmosphere of planets.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 37
+5.5 Astrophysics and cosmology
+This section provides knowledge and understanding of Learners have the opportunity to appreciate how
+stars, Wien’s displacement law, Stefan’s law, Hubble’s scientific ideas of the Big Bang developed over
+law and the Big Bang. time and how its validity is supported by research
+and experimental work carried out by the scientific
+community (HSW2, 7, 8, 11).
+5.5.1 Stars
+2
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the terms planets, planetary satellites, comets, HSW7
+solar systems, galaxies and the universe
+(b) formation of a star from interstellar dust and
+gas in terms of gravitational collapse, fusion of
+hydrogen into helium, radiation and gas pressure
+(c) evolution of a low-mass star like our Sun into a HSW8
+red giant and white dwarf; planetary nebula
+(d) characteristics of a white dwarf; electron HSW8
+degeneracy pressure; Chandrasekhar limit
+(e) evolution of a massive star into a red super giant HSW8
+and then either a neutron star or black hole;
+supernova
+(f) characteristics of a neutron star and a black hole HSW8
+(g) Hertzsprung–Russell (HR) diagram as luminosity- HSW8
+temperature plot; main sequence; red giants;
+super red giants; white dwarfs.
+5.5.2 Electromagnetic radiation from stars
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) energy levels of electrons in isolated gas atoms
+(b) the idea that energy levels have negative values
+(c) emission spectral lines from hot gases in terms of HSW2, 8
+emission of photons and transition of electrons
+between discrete energy levels
+hc
+(d) the equations hf=TEand =TE Learners will also require knowledge of section 4.5
+m
+(e) different atoms have different spectral lines
+which can be used to identify elements within
+stars
+Version 2.8 © OCR 2025
+38 OCR Level 3 Advanced GCE in Physics A
+(f) continuous spectrum, emission line spectrum
+and absorption line spectrum
+(g) transmission diffraction grating used to The structure and use of an optical spectrometer are
+determine the wavelength of light not required;
+PAG5
+(h) the condition for maxima dsini=nm, where d is Proof of this equation is not required.
+the grating spacing
+2
+1
+(i) use of Wien’s displacement law m \ to M0.4
+max T
+HSW5
+estimate the peak surface temperature (of a star)
+(j) luminosity L of a star; Stefan’s law L =4rr
+2vT 4
+Learners will also require knowledge of 4.4.1
+where v is the Stefan constant
+(k) use of Wien’s displacement law and Stefan’s law M0.4
+to estimate the radius of a star. HSW5
+5.5.3 Cosmology
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) distances measured in astronomical unit (AU), M4.6
+light-year (ly) and parsec (pc)
+(b) stellar parallax
+1
+(c) the equation p = , where p is the parallax in
+d
+seconds of arc and d is the distance in parsec
+(d) the Cosmological principle; universe is
+homogeneous, isotropic and the laws of physics
+are universal
+(e) Doppler effect; Doppler shift of electromagnetic
+radiation
+Tm Tf v
+(f) Doppler equation . . for a source of
+m f c
+electromagnetic radiation moving relative to an
+observer
+(g) Hubble’s law; v ≈ H d for receding galaxies, HSW7
+0
+where H is the Hubble constant
+0
+(h) model of an expanding universe supported by HSW2, 7, 8, 11
+galactic red shift
+(i) Hubble constant H
+0
+in both km s–1 Mpc–1 and s–1
+units
+(j) the Big Bang theory HSW7, 9, 10, 12
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 39
+(k) experimental evidence for the Big Bang theory HSW7, HSW11 The development and acceptance of
+from microwave background radiation at a Big Bang theory by the scientific community.
+temperature of 2.7 K
+(l) the idea that the Big Bang gave rise to the
+expansion of space-time
+(m) estimation for the age of the universe; t ≈ H –1 M1.4
+0
+HSW7
+2
+(n) evolution of the universe after the Big Bang to HSW1, 2, 5, 6, 7, 8, 9, 10, 11
+the present
+(o) current ideas; universe is made up of dark
+energy, dark matter, and a small percentage of
+ordinary matter.
+Version 2.8 © OCR 2025
+40 OCR Level 3 Advanced GCE in Physics A
+Module 6: Particles and medical physics
+In this module, learners will learn about capacitors,
+electric field, electromagnetism, nuclear physics,
+particle physics and medical imaging.
+6.1 Capacitors
+2
+This section introduces the basic properties of Experimental work provides an excellent way to
+capacitors and how they are used in electrical understand the behaviour of capacitors in electrical
+circuits. The use of capacitors as a source of electrical circuits and the management of safety and risks
+energy is then developed. This section introduces when using power supplies (HSW4). There are many
+the mathematics of exponential decay, which is also opportunities for learners to use spreadsheets in
+required for the decay of radioactive nuclei in 6.4. the analysis and presentation of data (HSW3). The
+varied uses of capacitors give the opportunity for
+This section provides knowledge and understanding of the consideration of their use in many practical
+capacitors and exponential decay. applications (HSW2, 5, 6, 9)
+6.1.1 Capacitors
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Q
+(a) capacitance; C = ; the unit farad
+V
+(b) charging and discharging of a capacitor or HSW2
+capacitor plates with reference to the flow of
+electrons
+(c) total capacitance of two or more capacitors in
+1 1 1
+series; = + +....
+C C C
+1 2
+(d) total capacitance of two or more capacitors in
+parallel; C = C + C + ...
+1 2
+(e) (i) a nalysis of circuits containing capacitors, HSW5
+including resistors
+(ii) techniques and procedures used to PAG9
+investigate capacitors in both series and
+parallel combinations using ammeters and
+voltmeters.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 41
+6.1.2 Energy
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) p.d.–charge graph for a capacitor; energy stored M3.8
+is area under graph HSW5
+(b) energy stored by capacitor; HSW6
+2
+2
+Q
+1 1 1 2
+W= QV, W= and W= V C
+2 2 C 2
+(c) uses of capacitors as storage of energy. HSW9
+6.1.3 Charging and discharging capacitors
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) c harging and discharging capacitor through
+a resistor
+(ii) techniques and procedures to investigate PAG9
+the charge and the discharge of a capacitor HSW4 Investigating the charge and discharge of
+using both meters and data-loggers capacitors in the laboratory.
+(b) time constant of a capacitor–resistor circuit; x=CR HSW9
+- t
+(c) equations of the form x=x e CR and Learners will be expected to know how lnx–t graphs
+- t 0 can be used to determine CR.
+x=x (1-e CR)for capacitor–resistor circuits
+0 M0.5, M2.5, M3.10, M3.12
+(d) graphical methods and spreadsheet modelling HSW3 Using spreadsheets to model the discharge of
+TQ Q
+a capacitor.
+of the equation =- for a discharging
+Tt CR M3.9
+capacitor
+(e) exponential decay graph; constant-ratio property M3.11
+of such a graph.
+Version 2.8 © OCR 2025
+42 OCR Level 3 Advanced GCE in Physics A
+6.2 Electric fields
+This section provides knowledge and understanding
+of Coulomb’s law, uniform electric fields, electric
+potential and energy.
+6.2.1 Point and spherical charges
+Learning outcomes Additional guidance 2
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) electric fields are due to charges
+(b) modelling a uniformly charged sphere as a point HSW1
+charge at its centre
+(c) electric field lines to map electric fields
+F
+(d) electric field strength; E = .
+q
+6.2.2 Coulomb’s law
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Qq
+(a) Coulomb’s law; F = for the force Learners will also require knowledge of section 3.2
+4rf r2
+0
+between two point charges
+Q
+(b) electric field strength E = for a
+4rf r2
+0
+point charge
+(c) similarities and differences between the Learners will also require knowledge of 5.4
+gravitational field of a point mass and the electric
+field of a point charge
+(d) the concept of electric fields as being one of a Learners will be expected to link this with 5.4
+number of forms of field giving rise to a force.
+6.2.3 Uniform electric field
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+V
+(a) uniform electric field strength; E =
+d
+(b) parallel plate capacitor; permittivity; Learners are not expected to know why the relative
+C = f 0 A ; C = fA ; f=f f permittivity f r H 1.
+d d r 0
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 43
+(c) motion of charged particles in a uniform electric Learners will also require knowledge of 3.1, 3.2 and
+field. 3.3
+HSW2
+6.2.4 Electric potential and energy
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+2
+(a) electric potential at a point as the work done in
+bringing unit positive charge from infinity to the
+point; electric potential is zero at infinity
+Q
+(b) electric potential V = at a distance r from
+4rf r
+0
+a point charge; changes in electric potential
+(c) capacitance C =4rf R for an isolated sphere Derivation expected from equation for electric
+0
+potential and Q = VC.
+(d) force–distance graph for a point or spherical HSW5
+charge; work done is area under graph
+Qq
+(e) electric potential energy = Vq =
+4rf r
+0
+a distance r from a point charge Q.
+6.3 Electromagnetism
+This section provides knowledge and understanding transformers. Transformers are used in the
+of magnetic fields, motion of charged particles transmission of electrical energy using the national
+in magnetic fields, Lenz’s law and Faraday’s law. grid and are an integral part of many electrical devices
+The application of Faraday’s law may be used to in our homes. The application of Lenz’s law allows
+demonstrate how science has benefited society discussion of the use of scientific knowledge to present
+with important devices such as generators and a scientific argument (HSW1, 2, 3, 5, 6, 7, 8, 9, 11, 12).
+6.3.1 Magnetic fields
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) magnetic fields are due to moving charges or
+permanent magnets
+(b) magnetic field lines to map magnetic fields
+(c) magnetic field patterns for a long straight current-
+carrying conductor, a flat coil and a long solenoid
+(d) Fleming’s left-hand rule HSW7
+(e) (i) force on a current-carrying conductor;
+F =BILsini
+Version 2.8 © OCR 2025
+44 OCR Level 3 Advanced GCE in Physics A
+(ii) techniques and procedures used to
+determine the uniform magnetic flux
+density between the poles of a magnet
+using a current-carrying wire and digital
+balance
+(f) magnetic flux density; the unit tesla.
+6.3.2 Motion of charged particles
+2
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) force on a charged particle travelling at right
+angles to a uniform magnetic field; F = BQv
+(b) charged particles moving in a uniform magnetic Learners will also require knowledge of 3.2, 3.3 and
+field; circular orbits of charged particles in a 5.2
+uniform magnetic field HSW1
+(c) charged particles moving in a region occupied HSW1, 2, 6
+by both electric and magnetic fields; velocity
+selector.
+6.3.3 Electromagnetism
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) magnetic flux z; the unit weber; z=BAcosi
+(b) magnetic flux linkage
+(c) Faraday’s law of electromagnetic induction and HSW2, 7
+Lenz’s law
+(d) (i) e.m.f. = − rate of change of magnetic flux M3.9
+T(Nz) HSW2, 8
+linkage; E =-
+Tt
+(ii) techniques and procedures used to
+investigate magnetic flux using search coils
+(e) simple a.c. generator HSW8
+(f) (i) simple laminated iron-cored transformer; M0.3
+N s V s I p HSW9
+= = for an ideal transformer
+N V I
+p p s
+(ii) techniques and procedures used to HSW3, 9
+investigate transformers.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 45
+6.4 Nuclear and particle physics
+This section provides knowledge and understanding of decisions when building new ones. The building
+the atom, nucleus, fundamental particles, radioactivity, of nuclear power stations can be used to evaluate
+fission and fusion. the benefits and risks to society (HSW9). Ethical,
+environmental and decision making issues may also
+Nuclear power stations provide a significant fraction be discussed (HSW10 and HSW12). The development
+of the energy needs of many countries. They are of the atomic model also addresses issues of scientific
+expensive; governments have to make difficult development and validation (HSW7, 11).
+2
+6.4.1 The nuclear atom
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and apply
+their knowledge and understanding of:
+(a) alpha-particle scattering experiment; evidence of a HSW7
+small charged nucleus
+(b) simple nuclear model of the atom; protons,
+neutrons and electrons
+(c) relative sizes of atom and nucleus M0.4, M1.4
+(d) proton number; nucleon number; isotopes;
+A
+notation X for the representation of nuclei
+Z
+(e) strong nuclear force; short-range nature of the 1 fm = 10–15 m
+force; attractive to about 3 fm and repulsive below
+about 0.5 fm
+1/3
+(f) radius of nuclei; R=r A where r is a constant
+0 0
+and A is the nucleon number
+(g) mean densities of atoms and nuclei. HSW7
+6.4.2 Fundamental particles
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and apply
+their knowledge and understanding of:
+(a) particles and antiparticles; electron–positron, HSW7, 9
+proton-antiproton, neutron-antineutron and
+neutrino-antineutrino
+(b) particle and its corresponding antiparticle have
+same mass; electron and positron have opposite
+charge; proton and antiproton have opposite charge
+(c) classification of hadrons; proton and neutron as
+examples of hadrons; all hadrons are subject to both
+the strong nuclear force and the weak nuclear force
+(d) classification of leptons; electron and neutrino as HSW7, 9
+examples of leptons; all leptons are subject to the
+weak nuclear force but not the strong nuclear force
+Version 2.8 © OCR 2025
+46 OCR Level 3 Advanced GCE in Physics A
+(e) simple quark model of hadrons in terms of up (u),
+down (d) and strange (s) quarks and their respective
+anti-quarks
+(f) quark model of the proton (uud) and the neutron
+(udd)
+(g) charges of the up (u), down (d), strange (s), anti-up
+(u), anti-down (d) and the anti-strange (s) quarks as
+fractions of the elementary charge e 2
+(h) beta-minus (β-) decay; beta-plus (β+) decay
+(i) β– decay in terms of a quark model;
+d "u+ 0 e+ o
+-1
+(j) β+ decay in terms of a quark model;
+u " d+ 0 e+o
++1
+(k) balancing of quark transformation equations in
+terms of charge
+(l) decay of particles in terms of the quark model.
+6.4.3 Radioactivity
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) radioactive decay; spontaneous and random M1.3
+nature of decay
+(b) (i) α-particles, β-particles and γ-rays; nature,
+penetration and range of these radiations
+(ii) techniques and procedures used to
+investigate the absorption of α-particles,
+β-particles and γ-rays by appropriate
+materials
+(c) nuclear decay equations for alpha, beta-
+minus and beta-plus decays; balancing nuclear
+transformation equations
+(d) activity of a source; decay constant m of an Learners will also require knowledge of 5.1.4(a)
+isotope; A = mN
+(e) (i) half-life of an isotope; mt = ln(2)
+1/2
+(ii) techniques and procedures used to PAG7
+determine the half-life of an isotope such
+as protactinium
+-mt -mt
+(f) (i) the equations A =A e and N=N e , M3.12
+0 0
+where A is the activity and N is the number
+of undecayed nuclei
+(ii) simulation of radioactive decay using dice M1.3
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 47
+(g) graphical methods and spreadsheet modelling of HSW3 Using spreadsheets to model the radioactive
+TN
+decay of nuclei.
+the equation =-mN for radioactive decay
+Tt M0.5, M2.5, M3.9
+(h) radioactive dating, e.g. carbon-dating.
+6.4.4 Nuclear fission and fusion
+Learning outcomes Additional guidance
+2 Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) Einstein’s mass–energy equation; TE =Tmc 2
+(b) energy released (or absorbed) in simple nuclear
+reactions
+(c) creation and annihilation of particle–antiparticle
+pairs
+(d) mass defect; binding energy; binding energy per
+nucleon
+(e) binding energy per nucleon against nucleon
+number curve; energy changes in reactions
+(f) binding energy of nuclei usingTE =Tmc 2 and
+masses of nuclei
+(g) induced nuclear fission; chain reaction
+(h) basic structure of a fission reactor; components –
+fuel rods, control rods and moderator
+(i) environmental impact of nuclear waste HSW9, HSW10, HSW12 Decision making process
+when building new nuclear power stations.
+(j) nuclear fusion; fusion reactions and temperature Learners will also require knowledge of 5.1.4
+(k) balancing nuclear transformation equations.
+6.5 Medical imaging
+This section provides knowledge and understanding Not all hospitals in this country are equipped with
+of X-rays, CAT scans, PET scans and ultrasound scans. complex scanners. Learners have the chance to discuss
+This section shows how the developments in medical the ethical issues in the treatment of humans and the
+imaging have led to a number of valuable non-invasive ways in which society uses science to inform decision
+techniques used in hospitals. making (HSW10 and 12).
+6.5.1 Using X-rays
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) basic structure of an X-ray tube;
+components – heater (cathode), anode, target
+metal and high voltage supply
+Version 2.8 © OCR 2025
+48 OCR Level 3 Advanced GCE in Physics A
+(b) production of X-ray photons from an X-ray tube
+(c) X-ray attenuation mechanisms; simple scatter,
+photoelectric effect, Compton effect and pair
+production
+-nx
+(d) attenuation of X-rays; I=I e , where n is the M0.5, M3.11
+0
+attenuation (absorption) coefficient
+(e) X-ray imaging with contrast media; barium and HSW9, 10, 12
+2
+iodine
+(f) computerised axial tomography (CAT) scanning;
+components – rotating X-tube producing a
+thin fan-shaped X-ray beam, ring of detectors,
+computer software and display
+(g) advantages of a CAT scan over an X-ray image. HSW9, 10, 12
+6.5.2 Diagnostic methods in medicine
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) medical tracers; technetium–99m and HSW9, 10
+fluorine–18
+(b) gamma camera; components – collimator,
+scintillator, photomultiplier tubes, computer and
+display; formation of image
+(c) diagnosis using gamma camera
+(d) positron emission tomography (PET) scanner; HSW9, 10, 12
+annihilation of positron–electron pairs; formation
+of image
+(e) diagnosis using PET scanning. HSW10, HSW12 Issues raised when equipping a
+hospital with an expensive scanner.
+6.5.3 Using ultrasound
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) ultrasound; longitudinal wave with frequency
+greater than 20 kHz
+(b) piezoelectric effect; ultrasound transducer as a
+device that emits and receives ultrasound
+(c) ultrasound A-scan and B-scan HSW9, 10, 12
+(d) acoustic impedance of a medium; Z =tc
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 49
+(e) reflection of ultrasound at a boundary; M0.3
+2
+I (Z -Z )
+r 2 1
+=
+I 2
+0 (Z +Z )
+2 1
+(f) impedance (acoustic) matching; special gel used
+in ultrasound scanning
+(g) Doppler effect in ultrasound; speed of blood in the
+2 Tf 2vcosi
+patient; = for determining the speed v
+f c
+of blood.
+Version 2.8 © OCR 2025
+50 OCR Level 3 Advanced GCE in Physics A
+2d. Prior knowledge, learning and progression
+This specification has been developed for learners their curriculum, and to develop their interest and
+who wish to continue with a study of physics at understanding of different areas of the subject.
+Level 3. The A level specification has been written Others may follow a co-teachable route, completing
+to provide progression from GCSE Science, GCSE the one–year AS course and/or then moving to the
+Additional Science, GCSE Further Additional Science, two–year A level developing a deeper knowledge and
+GCSE Physics or from AS Level Physics. Learners who understanding of physics and its applications.
+have successfully taken other Level 2 qualifications in 2
+Science or Applied Science with appropriate physics The A Level Physics course will prepare learners for
+content may also have acquired sufficient knowledge progression to undergraduate study, enabling them
+and understanding to begin the A Level Physics course. to enter a range of academic and vocational careers
+in mathematics-related courses, physical sciences,
+There is no formal requirement for prior knowledge of engineering, medicine, computing and related sectors.
+physics for entry onto this qualification. Other learners For learners wishing to follow an apprenticeship route
+without formal qualifications may have acquired or those seeking direct entry into physical science
+sufficient knowledge of physics to enable progression careers, this A level provides a strong background and
+onto the course. progression pathway.
+Some learners may wish to follow a physics course There are a number of Science specifications at OCR.
+for only one year as an AS, in order to broaden Find out more at www.ocr.org.uk.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 51
+3 Assessment of OCR A Level in Physics A
+3a. Forms of assessment
+All three externally assessed components (01–03) Stretch and challenge questions will support the
+contain some synoptic assessment, some extended awarding of A* grade at A level, addressing the need
+response questions and some stretch and challenge for greater differentiation between the most able
+questions. learners.
+Stretch and challenge questions are designed to allow
+the most able learners the opportunity to demonstrate
+the full extent of their knowledge and skills.
+Modelling physics (Component 01)
+3
+This component is worth 100 marks and is split into Section B includes short answer question styles
+two sections and assesses content from teaching (structured questions, problem solving, calculations,
+modules 1, 2, 3 and 5. Learners answer all questions. practical) and extended response questions. This
+section of the paper is worth 85 marks.
+Section A contains multiple choice questions. This
+section of the paper is worth 15 marks.
+Exploring physics (Component 02)
+This component is worth 100 marks and is split into Section B includes short answer question styles
+two sections and assesses content from teaching (structured questions, problem solving, calculations,
+modules 1, 2, 4 and 6. Learners answer all questions. practical) and extended response questions. This
+section of the paper is worth 85 marks.
+Section A contains multiple choice questions. This
+section of the paper is worth 15 marks.
+Unified physics (Component 03)
+This component assesses content from across all Question styles include short answer (structured
+teaching modules 1 to 6. Learners answer all questions. questions, problem solving, calculations, practical) and
+This component is worth 70 marks. extended response questions.
+Practical Endorsement in physics (Component 04)
+Performance in this component is reported separately Learners may work in groups but must demonstrate
+to the performance in the A level as measured and record independent evidence of their competency.
+through externally assessed components 01 to 03. Teachers who award a pass to their learners must be
+This non-exam assessment component rewards the confident that each learner consistently and routinely
+development of practical competency in physics and is exhibits the competencies listed in Section 5g and has
+teacher assessed. Learners demonstrate competence demonstrated competence in all the skills detailed in
+in the range of skills and techniques specified in section 1.2.1 and in all the apparatus and techniques
+Section 1.2 of the specification by carrying out a detailed in Section 1.2.2 before completion of the
+minimum of 12 assessed practical activities. The A level course. The practical activities provided by
+Practical Endorsement is teacher assessed against the OCR are all mapped against the specification and
+Common Practical Assessment Criteria as specified in assessment criteria.
+Section 5g.
+Version 2.8 © OCR 2025
+52 OCR Level 3 Advanced GCE in Physics A
+3b. Assessment objectives (AO)
+There are three assessment objectives in OCR’s A Level Learners are expected to demonstrate their ability to:
+in Physics A. These are detailed in the table below.
+Assessment Objective
+Demonstrate knowledge and understanding of scientific ideas, processes, techniques and
+AO1
+procedures.
+Apply knowledge and understanding of scientific ideas, processes, techniques and procedures:
+• in a theoretical context
+3
+AO2 • in a practical context
+• when handling qualitative data
+• when handling quantitative data.
+Analyse, interpret and evaluate scientific information, ideas and evidence, including in relation
+to issues, to:
+AO3
+• make judgements and reach conclusions
+• develop and refine practical design and procedures.
+AO weightings in A Level in Physics A
+The relationship between the assessment objectives
+and the components are shown in the following table:
+% of A level Physics A (H556)
+Component
+AO1 AO2 AO3
+Modelling physics (H556/01) 13–14 15–16 8–9
+Exploring physics (H556/02) 13–14 15–16 8–9
+Unified physics (H556/03) 5–6 10–11 9–10
+Practical endorsement in physics (H556/04)* N/A N/A N/A
+Total 31–34 40–43 25–28
+* The Practical endorsement is assessed and reported separately from the overall A level grade (see Section 5g).
+3c. Total qualification time
+Total qualification time (TQT) is the total amount of assessment. The total qualification time for A Level
+time, in hours, expected to be spent by a learner to Physics A is 360 hours. The total guided learning time is
+achieve a qualification. It includes both guided learning 360 hours.
+hours and hours spent in preparation, study, and
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 53
+3d. Qualification availability outside of England
+This qualification is available in England. For Wales Northern Ireland Entitlement Framework Qualifications
+and Northern Ireland please check the Qualifications Accreditation Number (NIEFQAN) list to see current
+in Wales Portal (QIW) or the Northern Ireland availability.
+Department of Education Performance Measures /
+3e. Language
+This qualification is available in English only. All
+assessment materials are available in English only and
+all candidate work must be in English.
+3
+3f. Assessment availability
+There will be one examination series available each This specification will be certificated from the June
+year in May/June for all learners. 2017 examination series onwards.
+All examined components must be taken in the same
+examination series at the end of the course.
+3g. Retaking the qualification
+Learners can retake the qualification as many times A candidate who is retaking A Level Physics A may
+as they wish. Learners must retake all examined
+components but they can choose to either retake the re-use a previous result for the Practical Endorsement,
+Practical Endorsement or carry forward their most even if it was awarded by another awarding
+recent result (see Section 4d). organisation or if it was awarded for an alternative
+suite [e.g. a Practical Endorsement pass result from
+Candidates can choose either to retake the Practical
+Endorsement or to carry forward their result for the A Level Physics A could be re-used for retaking A Level
+Practical Endorsement by using the carry forward entry Physics B (Advancing Physics)].
+option (see Section 4a). The result for the Practical
+Endorsement may be carried forward for the lifetime
+of the specification.
+3h. Assessment of extended responses
+The assessment materials for this qualification provide
+learners with the opportunity to demonstrate their
+ability to construct and develop a sustained and
+coherent line of reasoning and marks for extended
+responses are integrated into the marking criteria.
+Version 2.8 © OCR 2025
+54 OCR Level 3 Advanced GCE in Physics A
+3i. Synoptic assessment
+Synoptic assessment tests the learners’ understanding Synoptic assessment requires learners to make and
+of the connections between different elements of the use connections within and between different areas of
+subject. physics, for example, by:
+Synoptic assessment involves the explicit drawing • applying knowledge and understanding of more
+together of knowledge, understanding and skills than one area to a particular situation or context
+learned in different parts of the A level course. The
+• using knowledge and understanding of principles
+emphasis of synoptic assessment is to encourage the
+and concepts in planning experimental and
+development of the understanding of the subject as a
+investigative work and in the analysis and
+discipline. All components within Physics A contain an
+evaluation of data
+element of synoptic assessment.
+3
+• bringing together scientific knowledge and
+understanding from different areas of the
+subject and applying them.
+3j. Calculating qualification results
+A learner’s overall qualification grade for A Level in series to determine the learner’s overall qualification
+Physics A will be calculated by adding together their grade.
+marks from the three examined components taken to
+give their total weighted mark. A learner’s result for their Practical Endorsement in
+physics component will not contribute to their overall
+This mark will then be compared to the qualification qualification grade.
+level grade boundaries for the relevant exam
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 55
+4 Admin: what you need to know
+The information in this section is designed to give an More information about these processes and deadlines
+overview of the processes involved in administering involved at each stage of the assessment cycle can be
+this qualification so that you can speak to your exams found in the Administration area of the OCR website.
+officer. All of the following processes require you to
+submit something to OCR by a specific deadline. OCR’s Admin overview is available on the OCR website
+at http://www.ocr.org.uk/administration.
+4a. Pre-assessment
+Estimated entries
+Estimated entries are your best projection of the should be submitted to OCR by the specified deadline.
+number of learners who will be entered for a These do not incur a cost and do not commit your
+qualification in a particular series. Estimated entries centre in any way.
+4
+Updated arrangements for monitoring the Practical Endorsement
+Full details on the monitoring and the implementation that which was monitored in the previous monitoring
+of the practical endorsement are available on the cycle. Large centres will continue to be monitored for
+Positive about Practical pages at https://www.ocr.org. biology, chemistry and physics in each cycle. The first
+uk/subjects/science/positive-about-practical. Lead contact with a centre will be from the AO with which
+teachers are required to have undertaken the free the science to be monitored was entered in the prior
+online training for A level science teachers, available summer series. This first contact will be with the exams
+here: https://practicalendorsement.ocr.org.uk/login/ officer (or other nominated school contact).
+index.php. The lead teacher should also ensure that
+It is the responsibility of a centre that is new, or is
+all other teachers of that science within the centre are
+switching exam boards, or that only offers one or two
+familiar with the requirements so that standards are
+science A levels to let AOs know, so that appropriate
+applied consistently.
+monitoring can be scheduled.
+The awarding organisations (AOs) use information from
+centre entries for the A levels in biology, chemistry
+and physics from the previous summer examination
+series to jointly plan monitoring visits for the current
+two-year cycle and the subsequent cycles. Most
+centres will be monitored for a different science than
+Final entries
+Final entries provide OCR with detailed data for Final entries must be submitted to OCR by the
+each learner, showing each assessment to be taken. published deadlines or late entry fees will apply.
+It is essential that you use the correct entry code,
+considering the relevant entry rules. All learners taking A Level in Physics A must be entered
+for one of the entry options shown on the following
+table:
+Version 2.8 © OCR 2025
+56 OCR Level 3 Advanced GCE in Physics A
+Entry option Component
+Entry code Title Code Title Assessment type
+H556A Physics A 01 Modelling physics External assessment
+02 Exploring physics External assessment
+03 Unified physics External assessment
+04 Practical Endorsement in physics Non-exam assessment
+(Visiting monitoring)
+H556C Physics A 01 Modelling physics External assessment
+02 Exploring physics External assessment
+03 Unified physics External assessment
+80 Practical Endorsement in Non-exam assessment
+physics – Carried Forward* (Carried Forward) 4
+*The carry forward option will be available for the first time from June 2018.
+Private candidates
+Private candidates may enter for OCR assessments. The Practical Endorsement is an essential part of the
+course and will allow candidates to develop skills for
+A private candidate is someone who pursues a course further study or employment as well as imparting
+of study independently but takes an examination important knowledge that is part of the specification.
+or assessment at an approved examination centre.
+A private candidate may be a part-time student, Private candidates need to contact OCR approved
+someone taking a distance learning course, or centres to establish whether they are prepared to
+someone being tutored privately. They must be based host them as a private candidate. The centre may
+in the UK. charge for this facility and OCR recommends that the
+arrangement is made early in the course.
+The A Level Physics A qualification requires candidates
+to complete a Practical Endorsement incorporating Further guidance for private candidates may be found
+a minimum of 12 practical activities, allowing them on the OCR website: http://www.ocr.org.uk.
+to demonstrate a range of practical skills, use of
+apparatus and techniques to fulfil the Common
+Practical Assessment Criteria.
+Head of Centre Annual Declaration
+The practical science statement is contained within Please see the JCQ publication Instructions for
+the NEA Centre Declaration form which can be found conducting non-examination assessments for further
+on the OCR website at www.ocr.org.uk/formsfinder. information.
+By signing the form, the centre is confirming that
+they are meeting all the requirements detailed in Any failure by a centre to provide a practical science
+the specification, including that they have provided statement to OCR in a timely manner (by means of
+all candidates the opportunity to undertake the an NEA Centre Declaration form) will be treated as
+prescribed practical activities. malpractice and/or maladministration [under General
+Condition A8 (Malpractice and maladministration)].
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 57
+NEA Centre Declaration Form: Practical Science Statement
+Centres must provide a written practical science b) Whilst undertaking the practical activities, all
+statement confirming that reasonable opportunities candidates have written and retained a record of
+have been provided to all learners being submitted their work.
+for entry for assessment to undertake at least twelve
+Centres should have records confirming points (a) to
+appropriate practical activities.
+(b) above available as they may be requested as part of
+The practical science statement is contained within the the monitoring process.
+NEA Centre Declaration Form, this form can be found
+Any failure by a centre to provide a practical science
+on the OCR website at www.ocr.org.uk/formsfinder.
+statement to OCR in a timely manner (by means of
+By signing the form, the centre is confirming that: an NEA Centre Declaration Form) will be treated as
+malpractice and/or maladministration [under General
+a) At least twelve practical activities have been
+Condition A8 (Malpractice and maladministration)].
+completed by each candidate enabling them to
+demonstrate competence in all skills, apparatus
+and techniques as specified in OCR’s A Level
+science specifications.
+4
+Collecting evidence of student performance to ensure resilience in the qualifications system
+Regulators have published guidance on collecting For more detailed information on collecting evidence
+evidence of student performance as part of long-term of student performance please visit our website.
+contingency arrangements to improve the resilience of
+the qualifications system. You should review and
+consider this guidance when delivering this
+qualification to students at your centre.
+4b. Accessibility and special consideration
+Reasonable adjustments and access arrangements Special consideration is a post-assessment adjustment
+allow learners with special educational needs, to marks or grades to reflect temporary injury, illness
+disabilities or temporary injuries to access the or other indisposition at the time the assessment was
+assessment and show what they know and can do, taken. Detailed information about eligibility for special
+without changing the demands of the assessment. consideration can be found in the JCQ A guide to the
+special consideration process and JCQ Reasonable
+Applications for these should be made before the Adjustments for GCE A-level sciences – Endorsement of
+examination series. Detailed information about practical skills.
+eligibility for access arrangements can be found
+in the JCQ Access Arrangements and Reasonable
+Adjustments.
+4c. External assessment arrangements
+Regulations governing examination arrangements are Learners are permitted to use a scientific or graphical
+contained in the JCQ publication Instructions for calculator for components 01, 02 and 03. Calculators
+conducting examinations. are subject to the rules in the document Instructions
+for Conducting Examinations published annually by JCQ
+(www.jcq.org.uk).
+Version 2.8 © OCR 2025
+58 OCR Level 3 Advanced GCE in Physics A
+4d. Admin of non-exam assessment
+Regulations governing arrangements for internal OCR’s Admin overview is available on the OCR website
+assessments are contained in the JCQ Instructions for at http://www.ocr.org.uk/administration.
+conducting non-examination assessments. Appendix 1
+of this document gives specific details for the Practical
+Skills Endorsement for A Level sciences designed for
+use in England.
+Carrying forward the Practical Endorsement in Physics
+Learners who are retaking the qualification can choose Learners must decide at the point of entry whether
+to either retake the endorsement or carry forward they are going to carry forward the endorsement or
+their most recent result for that component (even if it not.
+was awarded by another awarding organisation or if it
+was awarded for an alternative suite). The result for the endorsement may be carried forward
+4
+for the lifetime of the specification and there is no
+To carry forward the result, you must use the carry restriction on the number of times the result may be
+forward entry option (see table in Section 4a). carried forward. However, only the most recent
+non-absent result may be carried forward.
+4e. Results and certificates
+Grade scale
+A level qualifications are graded on the scale: A*, A, B, Results for the A Level Sciences Practical Endorsements
+C, D, E, where A* is the highest. Learners who fail to will be shown independently of the qualification
+reach the minimum standard for E will be Unclassified grade on the certificate. Candidates who fulfil the
+(U). Only subjects in which grades A* to E are attained requirements and reach the minimum standard will be
+will be recorded on certificates. awarded a Pass grade. Candidates who fail to reach the
+minimum standard will be recorded as ‘Not Classified’
+and this will also be reported on the certificate.
+Results
+Results are released to centres and learners for The following supporting information will be available:
+information and to allow any queries to be resolved
+before certificates are issued. • raw mark grade boundaries for each component
+• weighted mark grade boundaries for each entry
+Centres will have access to the following results
+option.
+information for each learner:
+Until certificates are issued, results are deemed to
+• the grade for the qualification
+be provisional and may be subject to amendment.
+• the raw mark for each component A learner’s final results will be recorded on an OCR
+certificate.
+• the total weighted mark for the qualification.
+The qualification title will be shown on the certificate
+as ‘OCR Level 3 Advanced GCE in Physics A’.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 59
+4f. Post-results services
+A number of post-results services are available: • Access to scripts – Centres can request access to
+marked scripts.
+• Review of results – If you are not happy with
+the outcome of a learner’s results, centres may • Practical Endorsement – Since monitoring and
+request a review of marking. any potential request for further visits take place
+throughout the period of the qualification, there
+• Missing and incomplete results – This service is no post-results service provided.
+should be used if an individual subject result
+for a learner is missing, or the learner has been
+omitted entirely from the results supplied.
+4g. Malpractice
+Any breach of the regulations for the conduct Detailed information on malpractice can be found
+4 of examinations and coursework may constitute in the Suspected Malpractice in Examinations and
+malpractice (which includes maladministration) and Assessments: Policies and Procedures published
+must be reported to OCR as soon as it is detected. by JCQ.
+Version 2.8 © OCR 2025
+60 OCR Level 3 Advanced GCE in Physics A
+5 Appendices
+5a. Overlap with other qualifications
+There is a small degree of overlap between the content Chemistry
+of this specification and those for other AS level/A level
+Sciences. • Atomic structure.
+Science
+Examples of overlap include:
+• Atomic structure.
+Geology
+• Electromagnetic spectrum.
+• Half-life.
+5b. Avoidance of bias
+The A level qualification and subject criteria have characteristic as defined by the Equality Act 2010. All
+been reviewed in order to identify any feature which reasonable steps have been taken to minimise any
+could disadvantage learners who share a protected such disadvantage.
+5
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 61
+5c. Physics A data sheet
+Data, Formulae and Relationships
+The data, formulae and relationships in this data sheet will be printed for distribution with the examination
+papers.
+Data
+Values are given to three significant figures, except where more – or fewer – are useful.
+Physical constants
+acceleration of free fall g 9.81 m s−2
+elementary charge e 1.60 × 10−19 C
+speed of light in a vacuum c 3.00 × 108 m s−1
+Planck constant h 6.63 × 10−34 J s
+Avogadro constant N 6.02 × 1023 mol−1
+A
+5
+molar gas constant R 8.31 J mol−1 K−1
+Boltzmann constant k 1.38 × 10−23 J K−1
+gravitational constant G 6.67 × 10−11 N m2 kg−2
+permittivity of free space f 8.85 × 10−12 C2 N−1 m−2 (F m−1)
+0
+electron rest mass m 9.11 × 10−31 kg
+e
+proton rest mass m 1.673 × 10−27 kg
+p
+neutron rest mass m 1.675 × 10−27 kg
+n
+alpha particle rest mass m 6.646 × 10−27 kg
+α
+Stefan constant σ 5.67 × 10−8 W m−2 K−4
+Quarks
+2
+up quark charge = + e
+3
+1
+down quark charge = - e
+3
+1
+strange quark charge = - e
+3
+Version 2.8 © OCR 2025
+62 OCR Level 3 Advanced GCE in Physics A
+Conversion factors
+unified atomic mass unit 1 u = 1.661 × 10-27 kg
+electronvolt 1 eV = 1.60 × 10-19 J
+day 1 day = 8.64 × 104 s
+year 1 year ≈ 3.16 × 107 s
+light year 1 light year ≈ 9.5 × 1015 m
+parsec 1 parsec ≈ 3.1 × 1016 m
+Mathematical equations
+arc length = ri
+circumference of circle = 2rr
+5
+2
+area of circle = rr
+curved surface area of cylinder = 2rrh
+2
+surface area of sphere = 4rr
+1
+area of trapezium = a+b h
+2_ i
+2
+volume of cylinder = rr h
+4 3
+volume of sphere = rr
+3
+2 2 2
+Pythagoras’ theorem: a =b +c
+2 2 2
+cosine rule: a =b +c -2bccosA
+a b c
+sine rule: = =
+sinA sinB sinC
+sini. tani. i and cosi . 1 for small angles
+log AB =log A +log B (Note: lg =log and ln =log )
+_ i _ i _ i 10 e
+J N
+A
+logK K O O=log A -log B
+B _ i _ i
+L P
+n
+log x =nlog x
+_ i _ i
+kx
+ln e =kx
+_ i
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 63
+Formulae and relationships
+Module 2 – Foundations of physics
+vectors F =Fcosi
+x
+F =Fsini
+y
+Module 3 – Forces and motion
+uniformly accelerated motion v =u+at
+1
+s= u+v t
+2_ i
+1 2
+s =ut+ at
+2
+2 2
+v =u +2as
+force Tp
+F =
+Tt
+p =mv
+5
+turning effects moment =Fx
+torque =Fd
+m
+density p =
+V
+pressure F
+p =
+A
+p =htg
+work, energy and power W=Fxcosi
+usefulenergyoutput
+efficiency = #100%
+totalenergyinput
+W
+P =
+t
+P =Fv
+springs and materials F =kx
+1 1 2
+E = Fx; E = kx
+2 2
+F
+v=
+A
+x
+f =
+L
+v
+E =
+f
+Version 2.8 © OCR 2025
+64 OCR Level 3 Advanced GCE in Physics A
+Module 4 – Electrons, waves and photons
+charge TQ =ITt
+current I=Anev
+work done W=VQ; W=EQ; W=VIt
+resistance and resistors tL
+R=
+A
+R=R +R +f
+1 2
+1 1 1
+= + +f
+R R R
+1 2
+2
+2 V
+power P =VI, P=I R and P =
+R
+internal resistance E =I R+r ; E =V+Ir
+_ i
+potential divider R
+2
+V = #V
+out R +R in
+1 2
+5
+V R
+1 1
+=
+V R
+2 2
+waves v=fm
+1
+f=
+T
+P
+I=
+A
+ax
+m =
+D
+refraction c
+n =
+v
+nsini= constant
+n sini = n sini
+1 1 2 2
+1
+sinC =
+n
+quantum physics hc
+E =hf E =
+m
+hf=z+KE
+max
+h
+m =
+p
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 65
+Module 5 – Newtonian world and astrophysics
+thermal physics E =mcTi
+E = ml
+ideal gases pV = NkT; pV = nRT
+1 2
+pV = Nmc
+3
+1 2 3
+mc = kT
+2 2
+3
+E = kT
+2
+circular motion 2r
+~= ; ~=2rf
+T
+v=~r
+2
+v 2
+a= ; a =~ r
+r
+2
+mv 2
+F = ; F =m~ r
+r
+5 oscillations 2r
+~= ; ~= 2rf
+T
+2
+a =-~ x
+x=Acos~t; x=Asin~t
+2 2
+v=!~ A -x
+gravitational field
+F
+g =
+m
+GMm
+F =-
+2
+r
+GM
+g =-
+2
+r
+J 4r2N
+2 K O 3
+T =K Or
+GM
+L P
+GM
+V =-
+g r
+GMm
+energy=-
+r
+astrophysics hc
+hf=TE; =TE
+m
+dsini=nm
+1
+m \
+max T
+L =4rr 2vT 4
+Version 2.8 © OCR 2025
+66 OCR Level 3 Advanced GCE in Physics A
+cosmology
+Tm Tf v
+. .
+m f c
+1
+p =
+d
+v=H d
+0
+-1
+t =H
+0
+Module 6 - Particles and medical physics
+capacitance and capacitors
+Q
+C =
+V
+f A
+0
+C =
+d
+C =4rf R
+0
+C =C +C +f
+1 2
+1 1 1
+= + +....
+C C C 5
+1 2
+2
+Q
+1 1 1 2
+W= QV; W= ; W= V C
+2 2 C 2
+x=CR
+- t
+x=x e CR
+0
+- t
+x=x (1-e CR)
+0
+electric field
+F
+E =
+q
+Qq
+F =
+4rf r 2
+0
+Q
+E =
+4rf r 2
+0
+V
+E =
+d
+Q
+V =
+4rf r
+0
+Qq
+energy =
+4rf r
+0
+magnetic field F =BILsini
+F =BQv
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 67
+electromagnetism z=BAcosi
+T(Nz)
+E =-
+Tt
+N V I
+s s p
+= =
+N V I
+p p s
+radius of nucleus 1
+R=r A3
+0
+radioactivity TN
+A =mN; =-mN
+Tt
+mt =In(2)
+1/2
+-mt
+A =A e
+0
+-mt
+N=N e
+0
+Einstein’s mass-energy equation TE =Tmc 2
+attenuation of X-rays I=I e -nx
+0
+5 ultrasound Z =tc
+2
+I (Z -Z )
+r 2 1
+=
+I 2
+0 (Z +Z )
+2 1
+Tf 2vcosi
+=
+f c
+Version 2.8 © OCR 2025
+68 OCR Level 3 Advanced GCE in Physics A
+5d. How Science Works (HSW)
+How Science Works (HSW) was conceived as being • HSW3 Use appropriate methodology, including
+a wider view of science in context, rather than just information and communication technology
+straightforward scientific enquiry. It was intended to (ICT), to answer scientific questions and solve
+develop learners as critical and creative thinkers, able scientific problems
+to solve problems in a variety of contexts.
+• HSW4 Carry out experimental and investigative
+Developing ideas and theories to explain the operation activities, including appropriate risk
+of the entirety of our existence, from the sub-atomic management, in a range of contexts
+particles to the Universe, is the basis of Physics. How
+• HSW5 Analyse and interpret data to provide
+Science Works develops the critical analysis and linking
+evidence, recognising correlations and causal
+of evidence to support or refute ideas and theories.
+relationships
+Learners should be aware of the importance that peer
+review and repeatability have in giving confidence to • HSW6 Evaluate methodology, evidence and
+this evidence. data, and resolve conflicting evidence
+Learners are expected to understand the variety • HSW7 Know that scientific knowledge and
+of sources of data available for critical analysis to understanding develops over time
+provide evidence and the uncertainty involved in its
+• HSW8 Communicate information and ideas in
+measurement. They should also be able to link that
+appropriate ways using appropriate terminology
+evidence to contexts influenced by culture, politics and 5
+ethics. • HSW9 Consider applications and implications of
+science and evaluate their associated benefits
+Understanding How Science Works requires an
+and risks
+understanding of how scientific evidence can influence
+ideas and decisions for individuals and society, which • HSW10 Consider ethical issues in the
+is linked to the necessary skills of communication for treatment of humans, other organisms and the
+audience and for purpose with appropriate scientific environment
+terminology.
+• HSW11 Evaluate the role of the scientific
+The examples and guidance within the specification are community in validating new knowledge and
+not exhaustive but give a flavour of opportunities for ensuring integrity
+integrating HSW within the course. These references,
+• HSW12 Evaluate the ways in which society uses
+written in the form HSW1, link to the statements as
+science to inform decision making.
+detailed below:
+• HSW1 Use theories, models and ideas to
+develop scientific explanations
+• HSW2 Use knowledge and understanding
+to pose scientific questions, define scientific
+problems, present scientific arguments and
+scientific ideas
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 69
+5e. Mathematical requirements
+In order to be able to develop their skills, knowledge These skills will be applied in the context of the
+and understanding in A Level Physics, learners need to relevant physics.
+have been taught, and to have acquired competence
+in, the appropriate areas of mathematics relevant to All mathematical content will be assessed within the
+the subject as indicated in the table of coverage below. lifetime of the specification. Skills shown in bold type
+will only be tested in the full A level course, not the
+The assessment of quantitative skills will include standalone AS level course.
+at least 40% Level 2 (or above) mathematical skills
+for physics (see later for a definition of Level 2 This list of examples is not exhaustive and is not limited
+mathematics). to Level 2 examples. These skills could be developed
+in other areas of specification content from those
+indicated.
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Physics (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+5
+M0 – Arithmetic and numerical computation
+M0.1 Recognise and make use Learners may be tested on their 1.1.2(b), 2.1.1(a), 3.1.1(a),
+of appropriate units in ability to: 3.2.4(a)
+calculations • identify the correct units for
+physical properties such as
+m s–1, the unit for velocity;
+• convert between units with
+different prefixes e.g. cm3
+to m3.
+M0.2 Recognise and use Learners may be tested on their 1.1.3(c), 4.1.2(b)
+expressions in decimal and ability to:
+standard form • use physical constants
+expressed in standard
+form such as
+8 -1
+c=3.00#10 ms .
+M0.3 Use ratios, fractions and Learners may be tested on their 3.3.3(c), 6.3.3(f), 6.5.3(e)
+percentages ability to:
+• calculate efficiency of
+devices;
+• calculate percentage
+uncertainties in
+measurements.
+Version 2.8 © OCR 2025
+70 OCR Level 3 Advanced GCE in Physics A
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Physics (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M0.4 Estimate results Learners may be tested on their 2.1.1(b), 6.4.1(c)
+ability to:
+• estimate the effect of
+changing experimental
+parameters on measurable
+values.
+M0.5 Use calculators to find and Learners may be tested on their 3.3.2(a), 3.4.2(b), 6.1.3(c)
+use power, exponential and ability to: 6.4.3(g), 6.5.1(d)
+logarithmic functions • solve for unknowns in
+decay problems such as
+-mt
+N =N e .
+0
+M0.6 Use calculators to handle Learners may be tested on their 2.3.1(c)(d), 3.1.3(b)
+sin x, cos x and tan x when ability to:
+x is expressed in degrees or • calculate the direction of 5
+radians resultant vectors.
+M1 – Handling data
+M1.1 Use an appropriate number Learners may be tested on their 1.1.3(c), 3.2.1(a)
+of significant figures ability to:
+• report calculations to an
+appropriate number of
+significant figures given
+raw data quoted to varying
+numbers of significant figures
+• understand that calculated
+results can only be reported
+to the limits of the least
+accurate measurement.
+M1.2 Find arithmetic means Learners may be tested on their 1.1.3(a)
+ability to:
+• calculate a mean value for
+repeated experimental
+readings.
+M1.3 Understand simple Learners may be tested on their 1.1.4(d), 6.4.3(a)
+probability ability to:
+• understand probability in the
+context of radioactive decay.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 71
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Physics (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M1.4 Make order of magnitude Learners may be tested on their 3.1.1(a), 5.5.3(m), 6.4.1(c)
+calculations ability to:
+• evaluate equations with
+variables expressed
+in different orders of
+magnitude.
+M1.5 Identify uncertainties in Learners may be tested on their 1.1.4(d), 2.2.1(c)(d)
+measurements and use ability to:
+simple techniques to • determine the uncertainty
+determine uncertainty where two readings for
+when data are combined length need to be added
+by addition, subtraction, together.
+multiplication, division and
+raising to powers
+5
+M2 – Algebra
+M2.1 Understand and Learners may be tested on their 3.2.4(c), 3.5.1(c)
+use the symbols: ability to:
+=,1,%,&,2,\,.,T
+• recognise the significance of
+the symbols in the expression
+F \Tp/Tt.
+M2.2 Change the subject of an Learners may be tested on their 3.1.2(a), 4.2.5(a), 5.3.1(e)
+equation, including non- ability to:
+linear equations • rearrange E = mc2 to make m
+the subject.
+M2.3 Substitute numerical values Learners may be tested on their 4.3.3(c), 4.5.2(c), 5.4.2(a)
+into algebraic equations ability to:
+using appropriate units for • calculate the momentum p
+physical quantities of an object by substituting
+the values for mass m and
+velocity v into the equation
+p = mv.
+M2.4 Solve algebraic equations, Learners may be tested on their 3.1.2(a), 5.2.2(c)
+including quadratic ability to:
+equations
+solve kinematic equations for
+constant acceleration such as
+1 2
+v = u + at and s =ut+ at .
+2
+Version 2.8 © OCR 2025
+72 OCR Level 3 Advanced GCE in Physics A
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Physics (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M2.5 Use logarithms in relation Learners may be tested on their 6.1.3(c), 6.4.3(g)
+to quantities that range ability to:
+over several orders of • recognise and interpret
+magnitude real world examples of
+logarithmic scales.
+M3 – Graphs
+M3.1 Translate information Learners may be tested on their 1.1.3(d), 1.2.1(g), 3.4.2(a)(d)
+between graphical, ability to:
+numerical and algebraic • calculate Young modulus for
+forms materials using stress–strain
+graphs.
+M3.2 Plot two variables from Learners may be tested on their 1.1.3(d), 3.4.1(d)(i), 3.4.2(d)
+experimental or other data ability to:
+5
+• plot graphs of extension of a
+wire against force applied.
+M3.3 Understand that Learners may be tested on their 1.1.3(d), 3.1.2(a)
+y = mx + c represents a ability to:
+linear relationship • rearrange and compare
+v = u + at with y = mx + c
+for velocity–time graphs
+in constant acceleration
+problems.
+M3.4 Determine the slope and Learners may be tested on their 1.1.3(d), 3.1.1(c)
+intercept of a linear graph ability to:
+• read off and interpret
+intercept point from a graph
+e.g. the initial velocity in a
+velocity–time graph.
+M3.5 Calculate rate of change Learners may be tested on their 3.1.1(d)
+from a graph showing a ability to:
+linear relationship • calculate acceleration from a
+linear velocity–time graph.
+M3.6 Draw and use the slope of Learners may be tested on their 3.1.1(b)
+a tangent to a curve as a ability to:
+measure of rate of change • draw a tangent to the curve
+of a displacement–time
+graph and use the gradient to
+approximate the velocity at a
+specific time.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 73
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Physics (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M3.7 Distinguish between Learners may be tested on their 3.1.1(a)(c)
+instantaneous rate of ability to:
+change and average rate of • understand that the
+change gradient of the tangent of
+a displacement–time graph
+gives the velocity at a point
+in time which is a different
+measure to the average
+velocity.
+M3.8 Understand the possible Learners may be tested on their 3.5.1(e), 6.1.2(a)
+physical significance of the ability to:
+area between a curve and • recognise that for a capacitor
+the x axis and be able to the area under a voltage–
+calculate it or estimate it charge graph is equivalent to
+5 by graphical methods as the energy stored.
+appropriate
+M3.9 Apply the concepts Learners may be tested on their 3.1.1(a), 3.5.1(c), 5.3.1(d),
+underlying calculus (but ability to: 6.1.3(d), 6.3.3(d), 6.4.3(g)
+without requiring the • determine g from distance–
+explicit use of derivatives time plot, projectile motion.
+or integrals) by solving
+equations involving rates of
+Tx
+change, e.g. =-mx
+Tt
+using a graphical method or
+spreadsheet modelling
+M3.10 Interpret logarithmic plots Learners may be tested on their 6.1.3(c)
+ability to:
+• obtain time constant for
+capacitor discharge by
+interpreting plot of log V
+against time.
+M3.11 Use logarithmic plots to Learners may be tested on their 6.1.3(e), 6.5.1(d)
+test exponential and power ability to:
+law variations • use logarithmic plots with
+decay law of radioactivity /
+charging and discharging of a
+capacitor.
+Version 2.8 © OCR 2025
+74 OCR Level 3 Advanced GCE in Physics A
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Physics (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M3.12 Sketch relationships which Learners may be tested on their 3.4.2(b), 4.2.3(c), 5.3.1(d),
+are modelled by ability to:
+6.1.3(c), 6.4.3(f)
+y = k/x, y = kx2, y = k/x2,
+• sketch relationships between
+y = kx, y = sin x,
+pressure and volume for an
+y = cos x, y = e±x, and ideal gas.
+y = sin2x, y = cos2x
+as applied to physical
+relationships
+M4 – Geometry and trigonometry
+M4.1 Use angles in regular 2D and Learners may be tested on their 3.2.3(f)
+3D structures ability to:
+• interpret force diagrams to
+solve problems.
+M4.2 Visualise and represent 2D Learners may be tested on their 2.3.1(c), 3.2.3(f) 5
+and 3D forms including two- ability to:
+dimensional representations • draw force diagrams to solve
+of 3D objects mechanics problems.
+M4.3 Calculate areas of triangles, Learners may be tested on their 3.1.1(d), 3.2.4(a), 3.5.1(e)
+circumferences and areas ability to:
+of circles, surface areas • calculate the area of the
+and volumes of rectangular cross section to work out the
+blocks, cylinders and resistance of a conductor
+spheres given its length and
+resistivity.
+M4.4 Use Pythagoras’ theorem, Learners may be tested on their 2.3.1(c), 3.2.3(f)
+and the angle sum of a ability to:
+triangle • calculate the magnitude of
+a resultant vector, resolving
+forces into components to
+solve problems.
+M4.5 Use sin, cos and tan in Learners may be tested on their 2.3.1(d), 3.1.3(b)
+physical problems ability to:
+• resolve forces into
+components.
+M4.6 Use of small angle Learners may be tested on their 4.4.3(g), 5.5.3(a)
+approximations including ability to:
+sini. i, tani. i,
+• calculate fringe separations in
+cosi . 1 for small i interference patterns.
+where appropriate
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 75
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Physics (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M4.7 Understand the relationship Learners may be tested on their 5.2.1(a), 5.3.1(a)
+between degrees and ability to:
+radians and translate from • convert angle in degrees to
+one to the other angle in radians.
+5
+Version 2.8 © OCR 2025
+76 OCR Level 3 Advanced GCE in Physics A
+Definition of Level 2 mathematics
+Within A Level Physics, 40% of the marks available The following will not be counted as Level 2
+within written examinations will be for assessment of mathematics:
+mathematics (in the context of physics) at a Level 2
+standard, or higher. Lower level mathematical skills will • simple substitution with little choice of equation
+still be assessed within examination papers but will not or data
+count within the 40% weighting for physics.
+• structured question formats using GCSE
+mathematics (based on 2012 GCSE mathematics
+The following will be counted as Level 2 (or higher)
+content).
+mathematics:
+Additional guidance on the assessment of mathematics
+• application and understanding requiring choice
+within physics is available on the OCR website as a
+of data or equation to be used
+separate resource, the Maths Skills Handbook.
+• problem solving involving use of mathematics
+from different areas of maths and decisions
+about direction to proceed
+• questions involving use of A level mathematical
+content (as of 2012), e.g. use of logarithmic
+equations.
+5
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 77
+5f. Health and Safety
+In UK law, health and safety is primarily the or adapt them in some way to suit the particular
+responsibility of the employer. In a school or college conditions of the establishment.
+the employer could be a local education authority,
+the governing body or board of trustees. Employees Such adaptations might include a reduced scale of
+(teachers/lecturers, technicians etc), have a legal duty working, deciding that the fume cupboard provision
+to cooperate with their employer on health and safety was inadequate or the skills of the candidates were
+matters. Various regulations, but especially the COSHH insufficient to attempt particular activities safely. The
+Regulations 2002 (as amended) and the Management significant findings of such risk assessment should
+of Health and Safety at Work Regulations 1999, then be recorded in a “point of use text ”, for example
+require that before any activity involving a hazardous on schemes of work, published teachers guides, work
+procedure or harmful microorganisms is carried out, or sheets, etc. There is no specific legal requirement that
+hazardous chemicals are used or made, the employer detailed risk assessment forms should be completed
+must carry out a risk assessment. A useful summary for each practical activity, although a minority of
+of the requirements for risk assessment in school or employers may require this.
+college science can be found at https://www.ase.org.
+Where project work or investigations, sometimes
+uk/resources/topics-in-safety
+linked to work-related activities, are included in
+For members, the CLEAPSS® guide, PS90, Making and specifications this may well lead to the use of novel
+recording risk assessments in school science1 offers procedures, chemicals or microorganisms, which are
+5 appropriate advice. not covered by the employer’s model risk assessments.
+The employer should have given guidance on how
+Most education employers have adopted nationally to proceed in such cases. Often, for members, it will
+available publications as the basis for their Model Risk involve contacting CLEAPSS®.
+Assessments.
+Where an employer has adopted model risk
+assessments an individual school or college then has
+to review them, to see if there is a need to modify
+1 These, and other CLEAPSS® publications, are on the CLEAPSS® Science Publications website www.cleapss.org.uk. Note that
+CLEAPSS® publications are only available to members. For more information about CLEAPSS® go to www.cleapss.org.uk.
+Version 2.8 © OCR 2025
+78 OCR Level 3 Advanced GCE in Physics A
+5g. Practical Endorsement
+The Practical Endorsement is common across B (Advancing Physics). It requires a minimum of 12
+Chemistry A and Chemistry B (Salters)/Biology A and practical activities to be completed from the Practical
+Biology B (Advancing Biology) /Physics A and Physics Activity Groups (PAGs) defined below (Fig. 1).
+12
+Research skills
+Investigative
+and Unscaffolded
+10 11 Practical Activity
+Groups (PAG)
+1 to 12
+Investigating
+simple harmonic Investigation
+motion
+7 8 9
+5
+Investigating Investigating Investigating
+2nd year
+ionising radiation gases capacitors
+practicals
+1 2 3 4 5 6
+1st year
+practicals Investigating Investigating Investigating Investigating Investigating Investigating
+motion properties of electrical electrical waves quantum
+materials properties circuits effects
+Fig. 1 OCR’s Practical Activity Groups (PAGs), also see Table 1
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 79
+80
+OCR
+Level
+3 Advanced
+GCE
+in
+Physics
+A
+Version
+2.8
+©
+OCR
+2025
+5
+Table 1 Practical requirements for the OCR Physics Practical Endorsement
+Practical activity group Techniques/skills covered (minimum) Example of a suitable Specification
+(PAG) practical activity (a range of reference (examples)
+examples will be available
+from the OCR website and
+centres can devise their own
+activity)
+1 Investigating motion • Use of appropriate analogue apparatus to measure Acceleration of free fall 3.1.2(b)(ii)
+distance, angles1, mass2 and to interpolate between
+scale markings3
+• Use of a stopwatch or light gates for timing
+• Use of ICT such as computer modelling, or data logger
+with a variety of sensors to collect data, or use of
+software to process data4
+• Use of methods to increase accuracy of
+measurements, such as set square or plumb line
+2 Investigating properties • Use of calipers and micrometers for small distances, Determining Young’s Modulus for 3.4.2(d)(ii)
+of materials using digital or vernier scales5 a metal
+• Use of appropriate analogue apparatus to measure
+length6 and to interpolate between scale markings3
+• Use of appropriate digital instruments to measure
+mass2
+3 Investigating electrical • Use of appropriate digital instruments, including Determining the resistivity/ 4.2.4(a)(ii)
+properties multimeters7, to measure current8, voltage9, conductivity of a metal
+resistance10
+• Use calipers and micrometers for small distances,
+using digital or vernier scales5
+• Correctly constructing circuits from circuit diagrams
+using DC power supplies, cells, and a range of circuit
+components
+OCR
+Level
+3 Advanced
+GCE
+in
+Physics
+A
+81
+Version
+2.8
+©
+OCR
+2025
+5
+Practical activity group Example of a suitable Specification
+Techniques/skills covered (minimum)
+(PAG) practical activity Reference
+4 Investigating electrical • Use of appropriate digital instruments, including Investigation of potential divider 4.3.3(c)(i), 4.3.3(c)(ii)
+circuits multimeters7, to measure current8, voltage9, circuits
+resistance10
+• Correctly constructing circuits from circuit diagrams
+using DC power supplies, cells, and a range of circuit
+components, including those where polarity is
+important
+• Designing, constructing and checking circuits using
+DC power supplies, cells, and a range of circuit
+components
+5 Investigating waves • Use of appropriate analogue apparatus to measure Determination of the wavelength 4.4.3(a)(ii), 4.4.3(h)(ii)
+length6, angles1 and to interpolate between scale of light and sound by two source
+markings3 superposition with a double-slit
+and diffraction grating
+• Use of a signal generator and oscilloscope, including
+volts/division and time-base
+• Generating and measuring waves, using
+microphone and loudspeaker, or ripple tank, or
+vibration transducer, or microwave/radio wave source
+• Use of a laser or light source to investigate
+characteristics of light, including interference and
+diffraction
+• Use of ICT such as computer modelling
+82
+OCR
+Level
+3
+Advanced
+GCE
+in
+Physics
+A
+Version
+2.8
+©
+OCR
+2025
+5
+Practical activity group Example of a suitable Specification
+Techniques/skills covered (minimum)
+(PAG) practical activity Reference
+6 Investigating quantum • Use of appropriate digital instruments, including Determination of Planck's 4.5.1(e)(ii)
+effects multimeters7, to measure current8, voltage9 constant using LEDs
+• Correctly constructing circuits from circuit diagrams
+using DC power supplies, cells, and a range of circuit
+components, including those where polarity is
+important
+• Use of a laser or light source to investigate
+characteristics of light, including interference and
+diffraction
+• Use of methods to increase accuracy of measurements
+7 Investigating ionising • Safe use of ionising radiation, including detectors Absorption of α or β or γ 6.4.3(b)(ii)
+radiation radiation
+• Use of ICT such as computer modelling, or data logger
+with a variety of sensors to collect data, or use of
+software to process data4
+8 Investigating gases • Use of appropriate analogue apparatus to measure Determining an estimate of 5.1.4(d)(iii)
+pressure, volume, temperature and to interpolate absolute zero using variation of
+between scale markings3 gas temperature with pressure
+9 Investigating capacitors • Use of appropriate digital instruments, including Determining time constant using 6.1.3(a)(ii), 6.1.3(c)
+multimeters7, to measure current8, voltage9, the gradient of ln V or ln I–time
+resistance10 graph
+• Use of appropriate digital instruments to measure
+time
+• Designing, constructing and checking circuits using
+DC power supplies, cells, and a range of circuit
+components
+• Use of ICT such as computer modelling, or data logger
+with a variety of sensors to collect data, or use of
+software to process data4
+83
+OCR
+Level
+3
+Advanced
+GCE
+in Physics
+A
+Version
+2.8
+© OCR
+2025
+5
+Practical activity group Example of a suitable Specification
+Techniques/skills covered (minimum)
+(PAG) practical activity Reference
+• Use of appropriate digital instruments to measure Investigating the factors affecting 5.3.1(c)(ii)
+10 Investigating simple time the period of a simple harmonic
+harmonic motion • Use of appropriate analogue apparatus to measure oscillator
+distance and to interpolate between scale markings3
+• Use of methods to increase accuracy of
+measurements, such as timing over multiple
+oscillations, or use of fiducial marker, set square or
+plumb line
+• Use of ICT such as computer modelling, or data logger
+with a variety of sensors to collect data, or use of
+software to process data4
+11 Investigation • Apply investigative approaches and methods to Determination of the specific 5.1.3(b)(i)
+practical work heat capacity of a material
+12 Research skills • Use online and offline research skills The principles behind the Opportunities
+operation of the Global throughout
+• Correctly cite sources of information
+Positioning System specification
+The use of radioactive materials
+as tracers in medical imaging
+1,2,3,4,5,6,7,8,9,10 These techniques/skills may be covered in any of the groups indicated.
+It is expected that the following skills will be developed across all activities, regardless of the exact selection of activities. The ability to:
+• safely and correctly use a range of practical equipment and materials (1.2.1 b)
+• follow written instructions (1.2.1 c)
+• make and record observations/measurements (1.2.1 d)
+• keep appropriate records of experimental activities (1.2.1 e)
+• present information and data in a scientific way (1.2.1 f)
+• use a wide range of experimental and practical instruments, equipment and techniques (1.2.1 j)
+The practical activities can be completed at any point 1.2.2), will receive a ‘Pass’ grade (note that the
+during the two year A level course at the discretion of practical activity tracker available from OCR
+the centre. Candidates starting from a standalone AS allows confirmation that the activities selected
+can count A level practical activities carried out during cover all the requirements).
+the AS year towards the A level Practical Endorsement
+• There will be no direct assessment of practical
+provided that they are appropriately recorded. It is
+skills for AS qualifications
+recommended therefore that candidates starting AS
+maintain a record of practical activities carried out (e.g. • Students will answer questions in the AS
+this could be in the form of a ‘log book’ or ‘practical and A level examination papers that assess
+portfolio’) that could be counted towards the Practical the requirements of Appendix 5a (Practical
+Endorsement. For candidates who then decide to skills identified for indirect assessment and
+follow a full A level, having started from AS, they can developed through teaching and learning,
+carry this record with them into their A level study. covered in Section 1.1) from the prescribed
+subject content, published by the Department
+The assessment of practical skills is a compulsory
+for Education. These questions may draw on, or
+requirement of the course of study for A level
+range beyond, the practical activities included in
+qualifications in physics. It will appear on all
+the specification.
+students’ certificates as a separately reported result,
+alongside the overall grade for the qualification. The In order to achieve a pass, students will need to:
+arrangements for the assessment of practical skills
+are common to all awarding organisations. These • develop these competencies by carrying out
+arrangements include: a minimum of 12 practical activities (PAG1
+5
+to PAG12), which allow acquisition of all the
+• A minimum of 12 practical activities to be carried skills, apparatus and techniques outlined in the
+out by each student which, together, meet the requirements of the specification (Sections 1.2.1
+requirements of Appendices 5b (Practical skills and 1.2.2)
+identified for direct assessment and developed
+• consistently and routinely exhibit the
+through teaching and learning, covered in
+competencies listed in the CPAC (Table 2) before
+Section 1.2.1) and 5c (Use of apparatus and
+the completion of the A-level course
+techniques, covered in Section 1.2.2) from
+the prescribed subject content, published by
+• keep an appropriate record of their practical
+the Department for Education. The required
+work, including their assessed practical activities
+practical activities are defined by each awarding
+organisation (see Fig. 1 and Table 1) • be able to demonstrate and/or record
+independent evidence of their competency,
+• Teachers will assess students against Common
+including evidence of independent application
+Practical Assessment Criteria (CPAC) issued by
+of investigative approaches and methods to
+the awarding organisations. The CPAC (see
+practical work.
+Table 2) are based on the requirements of
+Appendices 5b and 5c of the subject content The practical activities prescribed in the subject
+requirements published by the Department for specification (PAG1 to PAG12) will provide
+Education, and define the minimum standard opportunities for demonstrating competence in all the
+required for the achievement of a pass. skills identified, together with the use of apparatus and
+techniques for each subject. However, students can
+• Each student will keep an appropriate record
+also demonstrate these competencies in any additional
+of their practical work, including their assessed
+practical activity undertaken throughout the course of
+practical activities
+study which covers the requirements of appendix 5b
+and 5c (covered in Sections 1.2.1 and 1.2.2).
+• Students who demonstrate the required
+standard across all the requirements of the
+Students may work in groups but teachers who award
+CPAC, incorporating all the skills, apparatus and
+a pass to their students need to be confident of
+techniques (as defined in Sections 1.2.1 and
+individual students’ competence.
+Version 2.8 © OCR 2025
+84 OCR Level 3 Advanced GCE in Physics A
+Table 2 Common Practical Assessment Criteria (CPAC) for the assessment of practical competency in A Level
+sciences
+Competency Practical Mastery
+In order to be awarded a Pass a Learner must, by the end of the practical science
+assessment, consistently and routinely meet the criteria in respect of each
+competency listed below. A Learner may demonstrate the competencies in any
+practical activity undertaken as part of that assessment throughout the course of
+study.
+Learners may undertake practical activities in groups. However, the evidence
+generated by each Learner must demonstrate that he or she independently meets
+the criteria outlined below in respect of each competency. Such evidence –
+a) will comprise both the Learner’s performance during each practical activity and
+his or her contemporaneous record of the work that he or she has undertaken
+during that activity, and
+b) must include evidence of independent application of investigative approaches
+and methods to practical work.
+(1) Follows written a) Correctly follows instructions to carry out experimental techniques or
+procedures procedures.
+5
+(2) Applies investigative a) Correctly uses appropriate instrumentation, apparatus and materials (including
+approaches and ICT) to carry out investigative activities, experimental techniques and procedures
+methods when using with minimal assistance or prompting.
+instruments and b) Carries out techniques or procedures methodically, in sequence and in
+equipment combination, identifying practical issues and making adjustments when necessary.
+c) Identifies and controls significant quantitative variables where applicable, and
+plans approaches to take account of variables that cannot readily be controlled.
+d) Selects appropriate equipment and measurement strategies in order to ensure
+suitably accurate results.
+(3) Safely uses a range of a) Identifies hazards and assesses risks associated with these hazards, making
+practical equipment and safety adjustments as necessary, when carrying out experimental techniques and
+materials procedures in the lab or field.
+b) Uses appropriate safety equipment and approaches to minimise risks with
+minimal prompting.
+(4) Makes and records a) Makes accurate observations relevant to the experimental or investigative
+observations procedure.
+b) Obtains accurate, precise and sufficient data for experimental and investigative
+procedures and records this methodically using appropriate units and conventions.
+(5) Researches, a) Uses appropriate software and/or tools to process data, carry out research and
+references and reports report findings.
+b) Cites sources of information, demonstrating that research has taken place,
+supporting planning and conclusions.
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 85
+Choice of activity (iii) using activities devised by the centre and
+mapped against Section 1.2 of the specification
+Centres can include additional skills, apparatus and and the CPAC
+techniques within an activity (PAG) beyond those listed
+as the minimum in Table 1 or in the published practical (iv) using activities from external sources such as the
+activities. They may also carry out more than the learned societies, mapped against Section 1.2 of
+minimum 12 practical activities required to meet the the specification and the CPAC
+Practical Endorsement.
+Centres can receive guidance on the suitability of
+their own practical activities or against any of the
+To achieve a Pass within the Practical Endorsement,
+options within (ii) to (iv) above through our free
+candidates must have demonstrated competence in
+practical assessment support service by emailing
+all the skills, apparatus and techniques detailed in
+science@ocr.org.uk.
+Sections 1.2.1 and 1.2.2 of the specification by carrying
+out a minimum of 12 assessed practical activities
+Where centres devise their own practical activity or
+(covering all of PAG1 to PAG12) and achieved the level
+use an alternative activity, that practical activity must
+of competence defined within the Common Practical
+be of a level of demand appropriate for A level.
+Assessment Criteria (Table 2).
+Practical Activity Groups 1 to 12 can be achieved
+The minimum of 12 activities can be met by:
+through more than one centre devised practical
+activity, and centres are not limited to 12 practical
+(i) using OCR suggested activities (provided
+activities such that a centre could, for instance, split
+as resources from Teach Cambridge, or by
+PAG3 into two activities of their own (rather than one)
+5 contacting science@ocr.org.uk should you be
+with the two activities fulfilling the requirements.
+unable to access Teach Cambridge)
+Alternatively it could be possible that an extended
+(ii) modifying OCR suggested activities to match activity may cover the requirements of more than one
+available equipment whilst fulfilling the same group, in which case the centre could then select an
+skills, apparatus and techniques and CPAC additional activity from another group to achieve the
+required minimum of 12 practical activities.
+5h. Revision of the requirements for practical work
+OCR will review the Practical Endorsement detailed in If any revision to the Practical Endorsement is made,
+Section 5g of this specification following any revision OCR will produce an amended specification which
+by the Secretary of State of the skills, apparatus or will be published on the OCR website. OCR will then
+techniques specified in respect of A Level Physics A. use the following methods to communicate the
+amendment to centres: subject information update
+OCR will revise the Practical Endorsement if emailed sent to all Examinations Officers, e-alerts to
+appropriate. centres that have registered to teach the qualification
+and social media.
+Version 2.8 © OCR 2025
+86 OCR Level 3 Advanced GCE in Physics A
+Summary of updates
+Date Version Section Title of section Change
+December 2 Multiple Changes to generic wording and OCR
+2017 website links throughout the
+specification. No changes have been
+made to any assessment requirements.
+April 2018 2.1 Front Cover Disclaimer Addition of Disclaimer
+May 2018 2.2 4a Head of Centre Update in line with new NEA Centre
+Annual Declaration Declaration form.
+August 2018 2.3 3d Retaking the Update the wording for carry forward
+qualification rules.
+4d Admin of non-exam
+assessment
+May 2020 2.4 1d How do I find out Insertion of Online support centre link
+more information?
+4f Post-results services Enquiries about results changed to
+Review of results
+Update to specification covers to meet
+digital accessibility standards.
+December 2.5 4a Pre-assessment Changes to practical endorsement
+2020 requirements and advice.
+Update to specification covers to meet
+digital accessibility standards
+September 2.6 and 2c Content of Modules Minor Clarifications
+2024 2.7 1 to 6
+3 Assessment of OCR A Insertion of new section 3c. Total
+Level in Physics A qualification time.
+Back cover Updated email addresses and website
+links for professional development, CPD
+Teaching and learning events, active results, skills guide and risk
+resources assessments.
+Professional
+development
+Introduction
+1d How do I find out
+more information?
+5f Health and safety
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 87
+Date Version Section Title of section Change
+2c Content of modules Font corrected in 6.3.1 Magnetic fields
+1 to 6 Font corrected in 6.3.3 Electromagnetism
+5c Physics A data sheet Font corrected in Module 5 – Newtonian
+world and astrophysics
+3d Qualification Inclusion of disclaimer regarding
+availability availability and language
+3e Language
+4a Pre-assessment Update to include resilience guidance
+Checklist Inclusion of Teach Cambridge
+June 2025 2.8 4a Pre-assessment Correction of qualification code
+Version 2.8 © OCR 2025
+88 OCR Level 3 Advanced GCE in Physics A
+Version 2.8 © OCR 2025
+OCR Level 3 Advanced GCE in Physics A 89
+YOUR
+CHECKLIST
+Our aim is to provide you with all o Bookmark OCR website for all the latest information and news on
+the information and support you AS and A Level Physics A
+need to deliver our specifications.
+o Sign up for Teach Cambridge: our personalised and secure website that
+provides teachers with access to all planning, teaching and assessment
+support materials
+o Be among the first to hear about support materials and resources
+as they become available – register for Physics updates
+o Find out about our professional development
+o View our range of skills guides for use across subjects
+and qualifications
+o Discover our online past paper service
+o Learn more about Active Results
+o Visit our Online Support Centre
+Download high-quality, exciting and
+innovative AS and A Level Physics
+resources from ocr.org.uk/alevelphysicsa
+Free resources and support for our A Level Physics
+qualification, developed through collaboration between
+our Physics Subject Advisors, teachers and other subject
+experts, are available from our website. You can also contact
+our Physics Subject Advisors for specialist advice, guidance
+and support, giving you individual service and assistance
+whenever you need it.
+Contact the team at:
+01223 553998
+science@ocr.org.uk
+@OCR_science
+To stay up to date with all the relevant news about our
+qualifications, register for email updates at ocr.org.uk/updates
+Visit our Online Support Centre at support.ocr.org.uk
+OCR is part of Cambridge University Press & Assessment, a department of the University of Cambridge.
+For staff training purposes and as part of our quality assurance programme your call may be recorded or monitored. ©OCR 2025 Oxford Cambridge and
+RSA Examinations is a Company Limited by Guarantee. Registered in England. Registered office The Triangle Building, Shaftesbury Road, Cambridge, CB2 8EA.
+Registered company number 3484466. OCR is an exempt charity.
+OCR operates academic and vocational qualifications regulated by Ofqual, Qualifications Wales and CCEA as listed in their qualifications registers including
+A Levels, GCSEs, Cambridge Technicals and Cambridge Nationals.
+Cambridge University Press & Assessment is committed to making our documents accessible in accordance with the WCAG 2.1 Standard. We’re always looking
+to improve the accessibility of our documents. If you find any problems or you think we’re not meeting accessibility requirements, please contact us.

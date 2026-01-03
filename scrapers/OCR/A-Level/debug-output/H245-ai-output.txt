@@ -1,0 +1,348 @@
+1 Mandatory papers
+1.1 Pure mathematics
+1.1.1 Proof
+1.1.1.1 4.01a Be able to construct proofs using mathematical induction.
+1.1.1.2 4.01b Be able to construct proofs of a more demanding nature, including conjecture followed by proof.
+1.1.2 Complex numbers
+1.1.2.1 4.02a Understand the language of complex numbers.
+1.1.2.2 4.02b Be able to express a complex number in cartesian form or modulus-argument form.
+1.1.2.3 4.02c Understand and be able to use the notation for complex numbers.
+1.1.2.4 4.02d Understand and be able to use the exponential form of a complex number.
+1.1.2.5 4.02e Be able to carry out basic arithmetic operations on complex numbers.
+1.1.2.6 4.02f Convert between cartesian and modulus-argument forms.
+1.1.2.7 4.02g Know that complex roots occur in conjugate pairs.
+1.1.2.8 4.02h Be able to find algebraically the two square roots of a complex number.
+1.1.2.9 4.02i Be able to solve quadratic equations with real coefficients and complex roots.
+1.1.2.10 4.02j Be able to use conjugate pairs to solve or factorise cubic or quartic equations.
+1.1.2.11 4.02k Be able to use and interpret Argand diagrams.
+1.1.2.12 4.02l Understand the geometrical effects of taking the conjugate of a complex number.
+1.1.2.13 4.02m Understand the geometrical effects of multiplying and dividing two complex numbers.
+1.1.2.14 4.02n Know and be able to use Euler’s formula.
+1.1.2.15 4.02o Be able to illustrate equations and inequalities involving complex numbers by means of loci in an Argand diagram.
+1.1.2.16 4.02p Understand and be able to use set notation in the context of loci.
+1.1.2.17 4.02q Understand de Moivre’s theorem and use it to find multiple-angle formulae.
+1.1.2.18 4.02r Be able to find the n distinct nth roots of a complex number.
+1.1.2.19 4.02s Be able to use complex roots of unity to solve geometric problems.
+1.1.3 Matrices
+1.1.3.1 4.03a Understand the language of matrices.
+1.1.3.2 4.03b Be able to add, subtract and multiply conformable matrices.
+1.1.3.3 4.03c Understand that matrix multiplication is associative but not commutative.
+1.1.3.4 4.03d Be able to find and use matrices to represent linear transformations in 2-D.
+1.1.3.5 4.03e Be able to find and use matrices to represent successive transformations.
+1.1.3.6 4.03f Be able to use matrices to represent single linear transformations in 3-D.
+1.1.3.7 4.03g Be able to find invariant points and lines for a linear transformation.
+1.1.3.8 4.03h Be able to find the determinant of a 2x2 matrix.
+1.1.3.9 4.03i Know that the determinant of a 2x2 matrix is the area scale factor of the transformation.
+1.1.3.10 4.03j Be able to calculate the determinant of a 3x3 matrix.
+1.1.3.11 4.03k Know that the determinant of a 3x3 matrix is the volume scale factor of the transformation.
+1.1.3.12 4.03l Understand and be able to use singular and non-singular matrices.
+1.1.3.13 4.03m Know and be able to use the result that det(AB) = det(A) * det(B).
+1.1.3.14 4.03n Be able to find and use the inverse of a non-singular 2x2 matrix.
+1.1.3.15 4.03o Be able to find and use the inverse of a non-singular 3x3 matrix.
+1.1.3.16 4.03p Understand and be able to use simple properties of inverse matrices.
+1.1.3.17 4.03q Understand and be able to use the connection between inverse matrices and inverse transformations.
+1.1.3.18 4.03r Be able to solve two or three linear simultaneous equations in two or three variables by the use of an inverse matrix.
+1.1.3.19 4.03s Be able to determine, for two or three linear simultaneous equations where no unique solution exists, whether the equations have an infinite set of solutions or no solutions.
+1.1.3.20 4.03t Be able to interpret the solution or failure of solution of three simultaneous linear equations in terms of the geometrical arrangement of three planes.
+1.1.4 Further Vectors
+1.1.4.1 4.04a Understand and be able to use the equation of a straight line, in 2-D and 3-D, in cartesian and vector form.
+1.1.4.2 4.04b Understand and be able to use the equation of a plane in cartesian and vector form.
+1.1.4.3 4.04c Be able to calculate the scalar product and use it both to calculate the angles between vectors and/or lines, and also as a test for perpendicularity.
+1.1.4.4 4.04d Be able to find the angle between two planes and the angle between a line and a plane.
+1.1.4.5 4.04e Be able to find, where it exists, the point of intersection between two lines.
+1.1.4.6 4.04f Be able to find the intersection of a line and a plane.
+1.1.4.7 4.04g Be able to use the vector product to find a vector perpendicular to two given vectors.
+1.1.4.8 4.04h Be able to find the distance between two parallel lines and the shortest distance between two skew lines.
+1.1.4.9 4.04i Be able to find the shortest distance between a point and a line.
+1.1.4.10 4.04j Be able to find the shortest distance between a point and a plane.
+1.1.5 Further Algebra
+1.1.5.1 4.05a Understand and be able to use the relationships between the symmetric functions of the roots of polynomial equations and the coefficients.
+1.1.5.2 4.05b Be able to use a substitution to obtain an equation whose roots are related to those of the original equation.
+1.1.5.3 4.05c Extend their knowledge of partial fractions up to rational functions in which the denominator may include quadratic factors of the form ax^2 + c for c > 0, and in which the degree of the numerator may be equal to, or exceed, the degree of the denominator.
+1.1.6 Series
+1.1.6.1 4.06a Understand and be able to use formulae for the sums of integers, squares and cubes and use these to sum related series.
+1.1.6.2 4.06b Understand and be able to use the method of differences to find the sum of a (finite or infinite) series.
+1.1.7 Hyperbolic Functions
+1.1.7.1 4.07a Understand and be able to use the definitions of the hyperbolic functions sinh, cosh, and tanh in terms of exponentials.
+1.1.7.2 4.07b Know and be able to sketch the graphs of the hyperbolic functions.
+1.1.7.3 4.07c Know and be able to use the identity cosh^2(x) - sinh^2(x) = 1.
+1.1.7.4 4.07d Be able to differentiate and integrate hyperbolic functions.
+1.1.7.5 4.07e Understand and be able to use the definitions of the inverse hyperbolic functions and their domains and ranges.
+1.1.7.6 4.07f Be able to derive and use expressions in terms of logarithms for the inverse hyperbolic functions.
+1.1.8 Further Calculus
+1.1.8.1 4.08a Be able to find the Maclaurin series of a function, including the general term.
+1.1.8.2 4.08b Recognise and be able to use the Maclaurin series for e^x, sin x, cos x, ln(1 + x) and (1 + x)^n, and functions based on these.
+1.1.8.3 4.08c Be able to evaluate improper integrals where either the integrand is undefined at a value in the range of integration or where the range of integration is infinite.
+1.1.8.4 4.08d Be able to derive formulae for and calculate volumes of solids of revolution.
+1.1.8.5 4.08e Understand and be able to evaluate the mean value of a function.
+1.1.8.6 4.08f Be able to integrate using partial fractions.
+1.1.8.7 4.08g Be able to derive and use the derivatives of inverse trigonometric and hyperbolic functions.
+1.1.8.8 4.08h Be able to integrate functions of the form 1/(a^2 - x^2), 1/(a^2 + x^2), 1/(x^2 - a^2), and 1/(x^2 + a^2) and use an appropriate inverse trigonometric or hyperbolic substitution for the evaluation of associated definite or indefinite integrals.
+1.1.9 Polar Coordinates
+1.1.9.1 4.09a Understand and be able to use polar coordinates and be able to convert between polar and cartesian coordinates.
+1.1.9.2 4.09b Be able to sketch polar curves, with r given as a function of θ.
+1.1.9.3 4.09c Be able to find the area enclosed by a polar curve.
+1.1.10 Differential Equations
+1.1.10.1 4.10a Understand the difference between, and be able to find, general and particular solutions to differential equations.
+1.1.10.2 4.10b Be able to use differential equations in modelling in kinematics and in other contexts.
+1.1.10.3 4.10c Be able to find and use an integrating factor to solve differential equations of the form dy/dx + P(x)y = Q(x).
+1.1.10.4 4.10d Be able to solve differential equations of the form y'' + ay' + by = 0, where a and b are constants, by using the auxiliary equation.
+1.1.10.5 4.10e Be able to solve differential equations of the form y'' + ay' + by = f(x), where a and b are constants, by solving the homogeneous case and adding a particular integral to the complementary function.
+1.1.10.6 4.10f Be able to solve the equation for simple harmonic motion and relate the solution to the motion.
+1.1.10.7 4.10g Be able to model damped oscillations using second order differential equations and interpret their solutions.
+1.1.10.8 4.10h Be able to analyse and interpret models of situations with one independent variable and two dependent variables as a pair of coupled, simultaneous, first order differential equations, and be able to solve them.
+
+2 Optional papers
+2.1 Statistics
+2.1.1 Probability
+2.1.1.1 5.01a Be able to evaluate probabilities by calculation using permutations and combinations.
+2.1.1.2 5.01b Be able to evaluate probabilities by calculation in contexts involving selections and arrangements.
+2.1.2 Discrete Random Variables
+2.1.2.1 5.02a Understand and be able to use discrete probability distributions for general discrete random variables.
+2.1.2.2 5.02b Understand and be able to calculate the expectation and variance of a discrete random variable.
+2.1.2.3 5.02c Know and be able to use the effects of linear coding on the mean and variance of a random variable.
+2.1.2.4 5.02d Know and be able to use the formulae for a binomial distribution.
+2.1.2.5 5.02e Know and be able to use the conditions under which a random variable will have a discrete uniform distribution.
+2.1.2.6 5.02f Know and be able to use the conditions under which a random variable will have a geometric distribution.
+2.1.2.7 5.02g Be able to calculate probabilities using the geometric distribution.
+2.1.2.8 5.02h Know and be able to use the formulae for a geometric distribution.
+2.1.2.9 5.02i Understand informally the relevance of the Poisson distribution to the distribution of random events, and be able to use the Poisson distribution as a model.
+2.1.2.10 5.02j Understand and be able to use the formula for the Poisson distribution.
+2.1.2.11 5.02k Be able to calculate probabilities using the Poisson distribution, using appropriate calculator functions.
+2.1.2.12 5.02l Know and be able to use the conditions under which a random variable will have a Poisson distribution.
+2.1.2.13 5.02m Be able to use the result that if X ~ Po(λ) then the mean and variance of X are each equal to λ.
+2.1.2.14 5.02n Know and be able to use the result that the sum of independent Poisson variables has a Poisson distribution.
+2.1.3 Continuous Random Variables
+2.1.3.1 5.03a Understand and be able to use the concept of a continuous random variable, a probability density function (p.d.f.) and a cumulative distribution function (c.d.f).
+2.1.3.2 5.03b Be able to use a probability density function to solve problems involving probabilities.
+2.1.3.3 5.03c Be able to calculate the mean and/or variance of a distribution using the formulae for continuous random variables.
+2.1.3.4 5.03d Be able to use the general result for expectations of functions of a continuous random variable.
+2.1.3.5 5.03e Be able to find and use a cumulative distribution function to solve problems involving probabilities.
+2.1.3.6 5.03f Know and be able to use the relationship between the probability density function and the cumulative distribution function.
+2.1.3.7 5.03g Be able to find and use the cumulative distribution functions of related variables.
+2.1.4 Linear Combinations of Random Variables
+2.1.4.1 5.04a Be able to use the results for linear combinations of any random variables.
+2.1.4.2 5.04b Be able to use the results for linear combinations of normal random variables.
+2.1.5 Hypothesis Tests and Confidence Intervals
+2.1.5.1 5.05a Know that for any randomly and independently selected sample, the sample mean is approximately normally distributed when the sample size is large.
+2.1.5.2 5.05b Know that unbiased estimates of the population mean and variance are given by the sample mean and sample variance.
+2.1.5.3 5.05c Be able to use a normal distribution to carry out a hypothesis test for a population mean.
+2.1.5.4 5.05d Be able to use a normal distribution to find a confidence interval for a population mean.
+2.1.6 Chi-squared Tests
+2.1.6.1 5.06a Be able to use a chi-squared test to test for independence in a contingency table and interpret the results.
+2.1.6.2 5.06b Be able to fit a theoretical distribution to given data.
+2.1.6.3 5.06c Extend their knowledge of fitting distributions to other known or given discrete and continuous distributions.
+2.1.6.4 5.06d Be able to use a chi-squared test to carry out the corresponding goodness of fit test.
+2.1.7 Non-parametric Tests
+2.1.7.1 5.07a Understand what is meant by a non-parametric hypothesis test and be able to select an appropriate test.
+2.1.7.2 5.07b Understand the basis of sign tests, the Wilcoxon signed-rank test and the Wilcoxon rank-sum test.
+2.1.7.3 5.07c Be able to test a hypothesis concerning a population median using a single-sample sign test and a single-sample Wilcoxon signed-rank test.
+2.1.7.4 5.07d Understand the difference between a paired-sample test and a two-sample test and be able to select the appropriate form when solving problems.
+2.1.7.5 5.07e Be able to test for medians or identity of population using a paired-sample sign test, a Wilcoxon matched-pairs signed-rank test and a Wilcoxon rank-sum test.
+2.1.7.6 5.07f Be able to carry out tests using the Wilcoxon signed-rank test and the Wilcoxon rank-sum test for large samples using normal approximations.
+2.1.8 Correlation
+2.1.8.1 5.08a Be able to calculate the product-moment correlation coefficient for a set of bivariate data.
+2.1.8.2 5.08b Understand that the value of a correlation coefficient is unaffected by linear coding of the variables.
+2.1.8.3 5.08c Understand Pearson’s product-moment correlation coefficient as a measure of how close data points lie to a straight line.
+2.1.8.4 5.08d Use and be able to interpret Pearson’s product-moment correlation coefficient in hypothesis tests.
+2.1.8.5 5.08e Be able to calculate Spearman’s rank correlation coefficient for a maximum of 10 pairs of data values or ranks.
+2.1.8.6 5.08f Be able to carry out a hypothesis test for association in a population using Spearman’s coefficient.
+2.1.8.7 5.08g Be able to choose between Pearson’s product-moment correlation coefficient and Spearman’s rank correlation coefficient for a given context.
+2.1.9 Linear Regression
+2.1.9.1 5.09a Understand the difference between an independent variable and a dependent variable.
+2.1.9.2 5.09b Understand the concepts of least squares and regression lines in the context of a scatter diagram.
+2.1.9.3 5.09c Be able to calculate the equation of the regression line of y on x.
+2.1.9.4 5.09d Understand the effect on a regression line of linear coding on one or both variables.
+2.1.9.5 5.09e Be able to use the regression line of y on x to estimate a value of y and interpret in context the uncertainties of such an estimate.
+
+2.2 Mechanics
+2.2.1 Dimensional Analysis
+2.2.1.1 6.01a Be able to find the dimensions of a quantity in terms of M, L and T, and understand that some quantities are dimensionless.
+2.2.1.2 6.01b Understand and be able to use the relationship between the units of a quantity and its dimensions.
+2.2.1.3 6.01c Be able to use dimensional analysis as an error check.
+2.2.1.4 6.01d Be able to use dimensional analysis to determine unknown indices in a proposed formulation.
+2.2.1.5 6.01e Be able to formulate models and derive equations of motion using a dimensional argument.
+2.2.2 Work, Energy and Power
+2.2.2.1 6.02a Understand the concept of work done by a force.
+2.2.2.2 6.02b Be able to calculate the work done by a constant force.
+2.2.2.3 6.02c Be able to calculate the work done by a constant force in two dimensions using vectors.
+2.2.2.4 6.02d Understand the concept of the mechanical energy of a body.
+2.2.2.5 6.02e Be able to calculate the gravitational potential energy and kinetic energy of a body.
+2.2.2.6 6.02f Be able to calculate the kinetic energy of a body using the scalar product.
+2.2.2.7 6.02g Understand and be able to use Hooke’s law for elastic strings and springs.
+2.2.2.8 6.02h Be able to calculate the elastic potential energy stored in a string or spring.
+2.2.2.9 6.02i Understand and be able to use the principle of the conservation of mechanical energy and the work-energy principle for dynamic systems.
+2.2.2.10 6.02j Extend their knowledge of the principle of the conservation of mechanical energy and the work-energy principle to systems which include elastic strings or springs.
+2.2.2.11 6.02k Understand and be able to use the definition of power.
+2.2.2.12 6.02l Be able to use the relationship between power, the tractive force and velocity to solve problems.
+2.2.2.13 6.02m Be able to calculate the power associated with a variable force in two dimensions using the scalar product.
+2.2.3 Impulse and Momentum
+2.2.3.1 6.03a Recall and be able to use the definition of linear momentum in one dimension.
+2.2.3.2 6.03b Understand and be able to apply the principle of conservation of linear momentum in one dimension applied to two particles.
+2.2.3.3 6.03c Recall and be able to use the definition of momentum in two dimensions including the vector form.
+2.2.3.4 6.03d Understand and be able to apply the principle of conservation of linear momentum in two dimensions applied to two particles.
+2.2.3.5 6.03e Understand and be able to use the concept of the impulse imparted by a force.
+2.2.3.6 6.03f Be able to use the relationship between the instantaneous impulse of a force and the change in momentum.
+2.2.3.7 6.03g Understand and be able to apply the impulse – momentum principle in two dimensions including the vector form.
+2.2.3.8 6.03h Understand and be able to apply the impulse – momentum principle for a constant force expressed as force * time or for a variable force in one dimension only.
+2.2.3.9 6.03i Recall and be able to use the definition of the coefficient of restitution.
+2.2.3.10 6.03j Understand and be able to use the terms “perfectly elastic” and “inelastic” for describing collisions.
+2.2.3.11 6.03k Recall and be able to use Newton’s experimental law in one dimension for problems of direct impact.
+2.2.3.12 6.03l Extend their knowledge to problems involving Newton’s experimental law in two dimensions.
+2.2.4 Centre of Mass
+2.2.4.1 6.04a Understand and be able to apply the principle that the effect of gravity is equivalent to a single force acting at the body’s centre of mass.
+2.2.4.2 6.04b Be able to find the position of the centre of mass of a uniform rigid body using symmetry.
+2.2.4.3 6.04c Be able to determine the centre of mass of a system of particles or the centre of mass of a composite rigid body.
+2.2.4.4 6.04d Be able to use integration to determine the position of the centre of mass of a uniform lamina or a uniform solid of revolution.
+2.2.4.5 6.04e Be able to solve problems involving the equilibrium of a single rigid body under the action of coplanar forces.
+2.2.5 Motion in a Circle
+2.2.5.1 6.05a Understand and be able to use the definitions of angular velocity, velocity, speed and acceleration in relation to a particle moving in a circular path, or a point rotating in a circle, with constant speed.
+2.2.5.2 6.05b Be able to use and apply the relationships for motion in a circle with constant speed.
+2.2.5.3 6.05c Be able to solve problems regarding motion in a horizontal circle.
+2.2.5.4 6.05d Understand the motion of a particle in a circle with variable speed.
+2.2.5.5 6.05e Extend their understanding of the motion of a particle in a circle with variable speed to include the radial and tangential components of the acceleration.
+2.2.5.6 6.05f Be able to solve problems involving motion round a vertical circle including motion which is not restricted to a circular path.
+2.2.6 Further Dynamics and Kinematics
+2.2.6.1 6.06a Be able to use a = dv/dt or a = v dv/dx to model the linear motion of a particle under the action of a variable force in one dimension only.
+
+2.3 Discrete mathematics
+2.3.1 Mathematical preliminaries
+2.3.1.1 7.01a Understand and be able to use the terms “existence”, “construction”, “enumeration” and “optimisation” in the context of problem solving.
+2.3.1.2 7.01b Understand and be able to use the basic language and notation of sets.
+2.3.1.3 7.01c Be able to use the pigeonhole principle in solving problems.
+2.3.1.4 7.01d Understand and use the multiplicative principle.
+2.3.1.5 7.01e Be able to enumerate the number of ways of obtaining an ordered subset (permutation) of r elements from a set of n distinct elements.
+2.3.1.6 7.01f Be able to enumerate the number of ways of obtaining an unordered subset (combination) of r elements from a set of n distinct elements.
+2.3.1.7 7.01g Be able to solve problems about enumerating the number of arrangements of objects in a line, including those involving repetition and restriction.
+2.3.1.8 7.01h Be able to solve problems about enumerating the number of arrangements of only some of a group of objects.
+2.3.1.9 7.01i Be able to solve problems about selections, including with constraints.
+2.3.1.10 7.01j Be able to solve problems with several constraints.
+2.3.1.11 7.01k Be able to use the inclusion-exclusion principle for two sets in solving problems.
+2.3.1.12 7.01l Be able to extend the inclusion-exclusion principle to more than two sets.
+2.3.1.13 7.01m Be able to find derangements.
+2.3.2 Graphs and networks
+2.3.2.1 7.02a Understand the meaning of the terms “vertex” and “arc”.
+2.3.2.2 7.02b Understand the meaning of the terms “tree”, “simple”, “connected” and “simply connected” as they refer to graphs.
+2.3.2.3 7.02c Understand the meaning of the terms “walk”, “trail”, “path”, “cycle” and “route”.
+2.3.2.4 7.02d Understand and be able to use the term “complete” and the notation K_n for a complete graph on n vertices.
+2.3.2.5 7.02e Understand and be able to use bipartite graphs and the notation K_m,n for a complete bipartite graph connecting m vertices to n vertices.
+2.3.2.6 7.02f Use a colouring argument to show that a given graph is, or is not, bipartite.
+2.3.2.7 7.02g Use the degrees of vertices to determine whether a given graph is Eulerian, semi-Eulerian or neither.
+2.3.2.8 7.02h Understand and be able to use the definition of a Hamiltonian path, a Hamiltonian cycle and a Hamiltonian graph.
+2.3.2.9 7.02i Know and use Ore’s theorem.
+2.3.2.10 7.02j Understand what it means to say that two graphs are isomorphic.
+2.3.2.11 7.02k Understand and be able to use digraphs.
+2.3.2.12 7.02l Understand and be able to apply the concepts of planarity, subdivision and contraction.
+2.3.2.13 7.02m Know, understand and use Euler’s formula.
+2.3.2.14 7.02n Know and use Kuratowski’s theorem.
+2.3.2.15 7.02o Understand and be able to use the concept of thickness.
+2.3.2.16 7.02p Understand that a network is a weighted graph.
+2.3.2.17 7.02q Use an adjacency matrix representation of a graph and a weighted matrix representation of a network.
+2.3.2.18 7.02r Be able to model problems using graphs or networks, and solve them.
+2.3.3 Algorithms
+2.3.3.1 7.03a Understand that an algorithm has an input and an output, is deterministic and finite.
+2.3.3.2 7.03b Appreciate why an algorithmic approach to problem-solving is generally preferable to ad hoc methods, and understand the limitations of algorithmic methods.
+2.3.3.3 7.03c Trace through an algorithm and interpret what the algorithm has achieved.
+2.3.3.4 7.03d Use the order of an algorithm to calculate an approximate run-time for a large problem by scaling up a given run-time.
+2.3.3.5 7.03e Compare the efficiency of two algorithms that achieve the same end result by considering a given aspect of the run-time in a specific case.
+2.3.3.6 7.03f Calculate worst case time complexity, the “maximum run-time” as a function of the size of a problem by considering the worst case for a specific problem.
+2.3.3.7 7.03g Be familiar with O(n^k), where n is a measure of the size of the problems and k = 0, 1, 2, 3 or 4.
+2.3.3.8 7.03h Calculate the run-time as a function of the size of a problem by considering the best case, the worst case or a typical case.
+2.3.3.9 7.03i Be familiar with O(a^n) for a > 0, O(log n) where n is a measure of the size of the problem.
+2.3.3.10 7.03j Be able to sort a list using bubble sort and using shuttle sort.
+2.3.3.11 7.03k Be able to sort a list using quick sort.
+2.3.3.12 7.03l Be familiar with the next-fit, first-fit, first-fit decreasing and full bin methods for one-dimensional packing problems.
+2.3.3.13 7.03m Extend their knowledge of packing methods.
+2.3.4 Network algorithms
+2.3.4.1 7.04a Be able to use examples to demonstrate understanding and use of Dijkstra’s algorithm to find the length and route of a least weight (shortest) path.
+2.3.4.2 7.04b Be able to use examples to demonstrate understanding and use of Prim’s algorithm and Kruskal’s algorithm to find a minimum connector (minimum spanning tree) for a network.
+2.3.4.3 7.04c Be able to use the nearest neighbour method on a network formed by weighting a complete graph to find an upper bound for the travelling salesperson problem.
+2.3.4.4 7.04d Be able to use a minimum spanning tree on a reduced network to calculate a lower bound for the travelling salesperson problem on a complete graph and understand why this method gives a lower bound.
+2.3.4.5 7.04e Be able to solve the route inspection problem by consideration of all possible pairings of up to six odd nodes.
+2.3.4.6 7.04f Be able to choose an appropriate algorithm to solve a practical problem.
+2.3.5 Decision making in project management
+2.3.5.1 7.05a Be able to construct and interpret activity networks using activity on arc.
+2.3.5.2 7.05b Be able to carry out a forward pass to determine earliest start times and find the minimum project completion time, and to carry out a backward pass to determine latest finish times and find the critical activities.
+2.3.5.3 7.05c Understand, and be able to calculate, (total) float.
+2.3.5.4 7.05d Be able to find latest start times and earliest finish times for activities.
+2.3.5.5 7.05e Be able to use an activity network to construct a cascade chart and use a cascade chart to determine the effect on the minimum project completion time of a delay to one or more activities, or other scheduling restrictions.
+2.3.6 Graphical linear programming
+2.3.6.1 7.06a Be able to set up a linear programming formulation in the form “maximise (or minimise) objective subject to inequality constraints, and trivial constraints of the form variable ≥ 0”.
+2.3.6.2 7.06b Be able to use slack variables to convert inequality constraints into equations.
+2.3.6.3 7.06c Be able to investigate constraints and objectives in numerical cases using algebra and ad hoc methods.
+2.3.6.4 7.06d Be able to carry out and interpret a graphical solution for problems where the objective is a function of two variables, including cases where integer solutions are required.
+2.3.6.5 7.06e Be able to discuss the effect of making a change to one or two of the coefficients and how this will change the solution.
+2.3.6.6 7.06f Be able to carry out integer programming, including using the branch-and-bound method.
+2.3.7 The simplex algorithm
+2.3.7.1 7.07a Be able to set up an initial simplex tableau in standard format.
+2.3.7.2 7.07b Be able to perform an iteration of a simplex tableau, including the choice of the pivot.
+2.3.7.3 7.07c Be able to interpret the values of the variables, slack variables and objective at any stage and know when the optimum has been achieved.
+2.3.7.4 7.07d Be able to use the terms “basic feasible solution”, “basic variable” and “non-basic variable” appropriately.
+2.3.7.5 7.07e Understand what an iteration of the simplex algorithm achieves, in terms of moving along edges of a multi-dimensional convex polygon.
+2.3.7.6 7.07f Be able to explain, algebraically, some of the calculations used in the simplex algorithm.
+2.3.8 Game theory
+2.3.8.1 7.08a Understand the idea of a zero-sum game and its representation by means of a pay-off matrix.
+2.3.8.2 7.08b Be able to reduce a matrix using a dominance argument.
+2.3.8.3 7.08c Be able to identify play-safe strategies and stable solutions and understand what they represent.
+2.3.8.4 7.08d Be able to identify a Nash Equilibrium solution and understand what it represents.
+2.3.8.5 7.08e Be able determine an optimal mixed strategy for a game with no stable solution by reducing to two variables and using simultaneous equations or a graphical method.
+2.3.8.6 7.08f Be able to determine an optimal mixed strategy for a game with no stable solution by reformulating the problem as a linear programming problem that could be solved using the simplex algorithm.
+
+2.4 Additional pure mathematics
+2.4.1 Sequences and series
+2.4.1.1 8.01a Be able to work with general sequences given either as recurrence relations or by position-to-term (closed form) formulae.
+2.4.1.2 8.01b Use induction to prove results relating to both sequences and series.
+2.4.1.3 8.01c Understand and be able to describe various possibilities for the behaviour of sequences.
+2.4.1.4 8.01d Identify and be able to use the limit of the nth term of a sequence as n approaches infinity, including steady-states.
+2.4.1.5 8.01e Be able to work with the Fibonacci numbers and understand their properties.
+2.4.1.6 8.01f Be able to solve a first-order linear recurrence relation with constant coefficients.
+2.4.1.7 8.01g Be able to solve a second-order linear recurrence relation with constant coefficients.
+2.4.1.8 8.01h Be able to apply their knowledge of recurrence relations to modelling.
+2.4.1.9 8.01i Be able to extend their knowledge of modelling to second order recurrence relations.
+2.4.2 Number theory
+2.4.2.1 8.02a Understand and be able to work with numbers written in base n.
+2.4.2.2 8.02b Be able to use the standard tests for divisibility by 2, 3, 4, 5, 8, 9 and 11.
+2.4.2.3 8.02c Be able to establish suitable tests for divisibility by other primes less than 50.
+2.4.2.4 8.02d Appreciate the division algorithm for any pair of positive integers.
+2.4.2.5 8.02e Understand and be able to use finite arithmetics.
+2.4.2.6 8.02f Be able to solve single linear congruences.
+2.4.2.7 8.02g Be able to calculate quadratic residues and solve, or prove insoluble, equations involving them.
+2.4.2.8 8.02h Be able to solve simultaneous linear congruences.
+2.4.2.9 8.02i Understand the concepts of prime numbers, composite numbers, highest common factors, and coprimality.
+2.4.2.10 8.02j Know and be able to apply the result that a|b and a|c implies a|(bx + cy) for any integers x and y.
+2.4.2.11 8.02k Know and be able to use Euclid’s lemma.
+2.4.2.12 8.02l Know and be able to use Fermat’s little theorem.
+2.4.2.13 8.02m Know and be able to use the fact that p-1 is not necessarily the least positive integer n for which a^n ≡ 1 (mod p).
+2.4.2.14 8.02n Know that the order of a modulo p is a factor of p-1 and be able to find it in specific cases.
+2.4.2.15 8.02o Be able to use the binomial theorem to show that (a + b)^p ≡ a^p + b^p (mod p) for prime p, and use this result.
+2.4.3 Groups
+2.4.3.1 8.03a Be able to work with binary operations and their properties when defined on given sets.
+2.4.3.2 8.03b Be able to construct Cayley tables for given finite sets under the action of a given binary operation.
+2.4.3.3 8.03c Recall and be able to use the definition of a group.
+2.4.3.4 8.03d Recognise and be able to use the Latin square property for group tables.
+2.4.3.5 8.03e Recall the meaning of the term “order”, as applied both to groups and to elements of a group, and be able to determine the orders of elements in a given group.
+2.4.3.6 8.03f Understand and be able to use the definition of a subgroup, find subgroups and show that given subsets are, or are not, proper subgroups.
+2.4.3.7 8.03g Recall the meaning of the term “cyclic” as applied to groups.
+2.4.3.8 8.03h Understand that a cyclic group is generated by “powers” of a single element.
+2.4.3.9 8.03i Be familiar with the structure of finite groups up to, and including, order seven.
+2.4.3.10 8.03j Be able to work with groups of higher finite order, or of infinite order.
+2.4.3.11 8.03k Recall and be able to apply Lagrange’s theorem concerning the order of a subgroup of a finite group.
+2.4.3.12 8.03l Be able to determine whether two given groups are, or are not, isomorphic using informal methods.
+2.4.3.13 8.03m Be able to work with groups defined by their algebraic properties.
+2.4.4 Further vectors
+2.4.4.1 8.04a Understand and be able to use the definition, in geometrical terms, of the vector product and be able to form the vector product in magnitude and direction, and in component form.
+2.4.4.2 8.04b Understand the anti-commutative and distributive properties of the vector product.
+2.4.4.3 8.04c Be able to use the vector product to calculate areas of triangles and parallelograms.
+2.4.4.4 8.04d Understand the significance of a vector product being zero.
+2.4.4.5 8.04e Understand and be able to use the definition of the scalar triple product, and be able to use it to calculate volumes of tetrahedra and parallelepipeds.
+2.4.5 Surfaces and partial differentiation
+2.4.5.1 8.05a Be able to work with functions of two variables, given either explicitly or implicitly, and understand and use the fact that this equation, and its partial derivatives, relate to a 3-D surface.
+2.4.5.2 8.05b Extend their knowledge of surfaces to those defined by functions of more than two variables.
+2.4.5.3 8.05c Be able to sketch sections and contours, and know how these are related to the surface.
+2.4.5.4 8.05d Be able to find first and second derivatives, including mixed derivatives.
+2.4.5.5 8.05e Understand and be able to apply the concept that stationary points of z arise when partial derivatives are zero.
+2.4.5.6 8.05f Be able to determine the nature of maxima, minima and saddle-points by means of the sign of the determinant of the Hessian Matrix.
+2.4.5.7 8.05g Be able to determine the equation of a tangent plane to the curve at a given point.
+2.4.6 Further calculus
+2.4.6.1 8.06a Be able to establish and use given reduction formulae, and employ them to evaluate integrals using recursive techniques.
+2.4.6.2 8.06b Be able to find arc lengths and areas of surface of revolution for curves defined in cartesian or parametric form.

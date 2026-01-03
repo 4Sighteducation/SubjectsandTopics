@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-21T08:36:10.454220",
+  "total_subjects": 1,
+  "success_count": 1,
+  "fail_count": 0,
+  "success_rate": 100.0,
+  "reports": [
+    {
+      "subject_code": "J204",
+      "subject_name": "Business",
+      "url": "https://www.ocr.org.uk/Images/304213-specification-accredited-gcse-business-j204.pdf",
+      "start_time": "2025-11-21T08:36:10.452680",
+      "success": true,
+      "topics_extracted": 39,
+      "levels": {
+        "0": 1,
+        "3": 7,
+        "4": 31
+      },
+      "issues": [
+        "Missing options extraction",
+        "Incorrect level distribution"
+      ],
+      "warnings": [
+        "Potential missing topics",
+        "Possible structure errors"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Business 1: business activity, marketing and people",
+            "Business 2: operations, finance and influences on business"
+          ],
+          "organization": "The content is organized into two main components, each focusing on different aspects of business studies.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Business 1: business activity, marketing and people (01)",
+            "Business 2: operations, finance and influences on business (02)"
+          ],
+          "content_mapping": {
+            "Business 1: business activity, marketing and people (01)": "Business activity, Marketing, People",
+            "Business 2: operations, finance and influences on business (02)": "Operations, Finance, Influences on business, The interdependent nature of business"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting content related to the two main components and their respective topics. Ensure to capture the detailed breakdown of each topic within the components.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-21T08:36:10.452691"
+    }
+  ]
+}

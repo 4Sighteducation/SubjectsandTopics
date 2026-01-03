@@ -48,3 +48,10 @@ FROM selection_constraints
 WHERE spec_metadata_id IN (
   SELECT id FROM specification_metadata WHERE exam_board = 'AQA'
 );
+
+
+
+
+
+
+

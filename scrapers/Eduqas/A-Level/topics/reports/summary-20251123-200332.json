@@ -1,0 +1,65 @@
+{
+  "timestamp": "20251123-200332",
+  "total_subjects": 1,
+  "success_count": 1,
+  "fail_count": 0,
+  "success_rate": 100.0,
+  "reports": [
+    {
+      "subject_name": "Biology",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/2ltc54x1/eduqas-a-level-biology-spec-from-2015-e-1410.pdf",
+      "start_time": "2025-11-23T20:03:16.345855",
+      "success": true,
+      "topics_extracted": 41,
+      "levels": {
+        "0": 3,
+        "1": 5,
+        "2": 8,
+        "3": 11,
+        "4": 14
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+        "Not all components extracted"
+      ],
+      "success_grade": 75,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": true,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "COMPONENT 2 COMPONENT 3"
+          },
+          {
+            "number": "1",
+            "name": "10% 15% 8.3%"
+          },
+          {
+            "number": "2",
+            "name": "10% 15% 8.3%"
+          },
+          {
+            "number": "3",
+            "name": "10% 15% 8.3%"
+          }
+        ],
+        "tiers": [],
+        "options": [
+          "Immunology and Disease; Human Musculoskeletal"
+        ],
+        "appendices": [
+          "Appendix C"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 16.458420991897583,
+      "end_time": "2025-11-23T20:03:32.804276"
+    }
+  ]
+}

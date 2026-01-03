@@ -1,0 +1,2867 @@
+Specification
+Pearson Edexcel Level 1/Level 2 GCSE (9 - 1) in Music (1MU0)
+First teaching from September 2016
+First certification from 2018 Issue 4
+GCSE (9-1)
+Music
+ 
+  
+ 
+ 
+Summary of Pearson Edexcel Level 1/Level 2 GCSE (9–1) 
+in Music specification Issue 4 changes  
+ 
+Summary of changes made between previous issue and this 
+current issue 
+Page 
+number 
+In Qualification at a glance, Component 3 section the following has 
+been updated: 
+‘A CD with the music extracts will be played to all students at the 
+same time and will repeat the extracts a set number of times’ to  
+‘Audio files with the music extracts will be played to all students at the 
+same time and will repeat the extracts a set number of times. 
+6 
+In Component 1: Performing the following has been updated: 
+‘Centres must submit a complete and unedited recording of the live 
+performance on an audio CD (finalised and playable on standard 
+domestic equipment) or USB stick. Centres are requested to put the 
+work of all students to be assessed onto a single CD or USB stick. The 
+work of each student should be a separate track, individually labelled 
+with their centre number, candidate number and title.’ to  
+‘Centres must submit a complete and unedited recording of the live 
+performance via the online submission platform Learner Work 
+Transfer (LWT). The work of each student should be a separate track, 
+individually labelled with their centre number, candidate number and 
+title.’ 
+15 
+In Component 2: Composing the following has been updated: 
+‘A complete recording of both pieces on an audio CD or USB stick 
+must be submitted. Each composition for each student should be a 
+separate track, individually labelled with their centre number, 
+candidate number and composition title. The recording can be made 
+live or be studio-produced. Centres are requested to use one 
+recording format for all their students’ submissions: audio CD or USB 
+stick.’ to 
+‘A complete recording of both pieces must be submitted via the 
+online submission platform LWT. Each composition for each student 
+should be a separate track, individually labelled with their centre 
+number, candidate number and composition title. The recording can 
+be made live or be studio-produced.’ 
+34 
+ 
+Summary of changes made between previous issue and this 
+current issue 
+Page 
+number 
+In Component 3: Appraising, Assessment information section the 
+following has been updated: 
+‘The extracts of the pieces of music will be played on CD to all 
+students taking the examination paper.’ to 
+‘The provided audio files with the music extracts will be played to all 
+students at the same time and will repeat the extracts a set number 
+of times.’ 
+52 
+In Component 3: Appraising, Assessment information section the 
+following has been updated: 
+‘Further details for Section A include: 
+eight questions requiring students to respond to extracts of music on 
+CD, of which:’ to 
+‘Further details for Section A include: 
+eight questions requiring students to respond to extracts of music, of 
+which:’ 
+52 
+In Component 3: Appraising, Assessment information section the 
+following has been updated: 
+‘the exact number of times the extracts will be heard is announced on 
+the CD and printed on the examination paper’ to 
+‘the exact number of times the extracts will be heard is announced on 
+the audio and printed on the examination paper’ 
+52 
+ 
+Earlier issues 1-3 show previous changes. 
+If you need further information on these changes or what they mean, contact us 
+via our website at: qualifications.pearson.com/en/support/contact-us.html. 
+ 
+ 
+ 
+Contents 
+1 Introduction 2 
+Why choose the Pearson Edexcel GCSE in Music? 2 
+Supporting you in planning and implementing this qualification 3 
+Qualification at a glance 4 
+2 Subject content and assessment information 8 
+Component 1: Performing 9 
+Component 2: Composing 27 
+Component 3: Appraising 43 
+Assessment Objectives 55 
+3 Administration and general information 56 
+Entries 56 
+Access arrangements, reasonable adjustments, special consideration 
+and malpractice 56 
+Student recruitment and progression 60 
+Appendix 1: Performance Authentication Sheet 63 
+Appendix 2: Composition Authentication Sheet 63 
+Appendix 3: Music vocabulary list 64 
+Appendix 4: Suggested wider listening 74 
+Appendix 5: Command word taxonomy 75 
+Appendix 6: The context for the development of this qualification 76 
+Appendix 7: Transferable skills 78 
+Appendix 8: Codes 80 
+Appendix 9: Mark penalty tables for submissions not meeting  
+the minimum assessment time 81 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 2 
+1 Introduction 
+Why choose the Pearson Edexcel GCSE in Music? 
+We have listened to feedback from all parts of the music subject community, including 
+teachers, subject associations and higher education. We have used this opportunity of 
+curriculum change to redesign a qualification that reflects the demands of a truly 
+modern and evolving music environment – a qualification that enables your students 
+to apply themselves and gives them the skills to succeed in their chosen pathway. 
+Clear and coherent structure – our qualification has a straightforward structure with 
+three engaging components, assessed through practical performances, compositions 
+and one externally examined paper. 
+Provides a real music focus – the key content of musical elements, musical contexts 
+and musical language are taught through the areas of study and set works to show 
+real examples of how these are used within different types of music. 
+Holistic understanding of music – students investigate, analyse and evaluate music 
+and its features. Building on this, and by using practical methods, students are 
+encouraged to take a more holistic view of their knowledge, performance and 
+compositional skills. 
+Breadth and depth – the set works enable students to conduct in-depth studies into 
+different musical styles and genres, and put them in a wider context. 
+Diverse musical heritage – students will learn to perform, compose and appreciate 
+different types of music, developing critical and creative thinking, cultural, aesthetic 
+and emotional awareness, and the ability to make music individually and as part of a 
+group. 
+Continuous progression – the content builds on the understanding developed at Key 
+Stage 3, avoiding unnecessary repetition while also ensuring that students new to the 
+subject are appropriately supported. 
+Progression to AS and A Level – the content allows students to develop their 
+knowledge and skills of music, enabling them to progress into the AS and A Level 
+qualifications in Music. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 3 
+Supporting you in planning and implementing this 
+qualification 
+Planning 
+● Our Getting Started guide gives you an overview of the new Pearson Edexcel 
+GCSE Music qualification to help you get to grips with the changes to content and 
+assessment and to help you understand what these changes mean for you and 
+your students. 
+● We will give you an editable course planner and a scheme of work that you can 
+adapt to suit your department. 
+● Our mapping documents highlight the key differences between your current 
+Pearson Edexcel GCSE Music specification and our new specification. 
+Teaching and learning 
+There will be lots of free teaching and learning support to help you deliver the new 
+qualifications, including: 
+● exemplars and commentaries 
+● a student guide 
+● materials for your options evenings. 
+Preparing for exams 
+We will also provide a range of resources to help you prepare your students for the 
+assessments, including marked exemplars of student work with examiner 
+commentaries. 
+ResultsPlus 
+ResutsPlus provides the most detailed analysis available of your students’ exam 
+performance. It can help you identify the topics and skills where further learning 
+would benefit your students. 
+Get help and support 
+Our subject support line and Ask the Expert will ensure you receive help and guidance 
+from us and that you can share ideas and information with other teachers.  
+The Music Team can be contacted by email: TeachingMusic@pearson.com and by 
+telephone: 0844 463 2935. 
+Learn more at qualifications.pearson.com 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 4 
+Qualification at a glance 
+Content and assessment overview 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music consists of one externally 
+examined paper and two non-examined assessments (NEA). 
+Students must submit their non-examined assessments and complete the exam in 
+May/June in any single year. The first assessments for this qualification will be in 2018. 
+ 
+Component 1: Performing (*Paper code: 1MU0/01) 
+Non-examined assessment: internally marked and externally moderated 
+30% of the qualification 
+60 marks 
+Content overview 
+● Solo performing 
+● Ensemble performing 
+● Approaches to performing 
+Assessment overview 
+● Students perform for at least four minutes’ combined duration 
+● Solo performance: this must be of at least one minute in duration, and may 
+comprise one or more pieces 
+● Ensemble performance: this must be of at least one minute in duration, and may 
+comprise one or more pieces 
+● Each performance will be out of 30 marks. 
+● Internally marked and externally moderated. 
+ 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 5 
+Component 2: Composing (*Paper code: 1MU0/02) 
+Non-examined assessment: internally marked and externally moderated 
+30% of the qualification 
+60 marks 
+Content overview 
+● Developing musical ideas  
+● Compositional techniques and strategies 
+● Ensuring technical control and coherence 
+● Methods of notating composition scores 
+Assessment overview 
+● Students compose two compositions, of at least three minutes’ combined 
+duration 
+● One composition to a brief set by Pearson, of at least one minute in duration. 
+● One free composition set by the student, of at least one minute in duration. 
+● Each composition will be out of 30 marks. 
+● Internally marked and externally moderated. 
+*See Appendix 8: Codes for a description of this code and all other codes relevant to  
+this qualification. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 6 
+Component 3: Appraising (*Paper code: 1MU0/03) 
+Written examination: 1 hour and 45 minutes 
+40% of the qualification 
+80 marks 
+Content overview 
+● Musical elements, musical contexts and musical language. 
+Areas of study: 
+● Instrumental Music 1700–1820 
+● Vocal Music 
+● Music for Stage and Screen 
+● Fusions. 
+Full details of the areas of study can be found on pages 48–49. 
+Assessment overview 
+The paper is made up of two sections and is out of a total of 80 marks. 
+Section A – Areas of study, dictation, and unfamiliar pieces (68 marks) 
+● Six questions related to six of the eight set works. 
+● One short melody/rhythm completion exercise. 
+● One question on an unfamiliar piece (skeleton score provided) with questions on 
+its musical elements, musical contexts and musical language. 
+Section B – Extended response comparison between a set work and one 
+unfamiliar piece (12 marks) 
+● One question that asks students to compare and/or evaluate the musical 
+elements, musical contexts and musical language of one set work with one 
+unfamiliar piece of music. 
+● Audio files with the music extracts will be played to all students at the same time 
+and will repeat the extracts a set number of times. 
+*See Appendix 8: Codes for a description of this code and all other codes relevant to 
+this qualification. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 7 
+Areas of study and set works 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music contains four areas of study, with 
+two set works in each. 
+ 
+Area of study Set works 
+Instrumental 
+Music 
+1700–1820 
+● J S Bach: 3rd Movement from Brandenburg Concerto no. 5 
+in D major 
+● L van Beethoven: 1st Movement from Piano Sonata no. 8 
+in C minor ‘Pathétique’ 
+Vocal Music ● H Purcell: Music for a While 
+● Queen: Killer Queen (from the album ‘Sheer Heart Attack’) 
+Music for Stage 
+and Screen 
+● S Schwartz: Defying Gravity (from the album of the cast 
+recording of Wicked) 
+● J Williams: Main title/rebel blockade runner (from the 
+soundtrack to Star Wars Episode IV: A New Hope) 
+Fusions 
+ 
+● Afro Celt Sound System: Release (from the album 
+‘Volume 2: Release’) 
+● Esperanza Spalding: Samba Em Preludio (from the album 
+‘Esperanza’) 
+ 
+Full details of the exact versions of the scores and recordings for each set work will be 
+made available on the Pearson website ahead of first teaching in September 2016. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 8 
+2 Subject content and assessment information 
+This qualification supports students in forming personal and meaningful relationships 
+with music through the development of musical knowledge, understanding and skills 
+including performing, composing and appraising. The qualification encourages 
+students to engage critically and creatively with a wide range of music and musical 
+contexts, develop an understanding of the place of music in different cultures and 
+contexts, and reflect on how music is used in the expression of personal and collective 
+identities. 
+This qualification also supports the development of musical fluency and provides 
+access to further study of music at AS and A Level. 
+Qualification aims and objectives 
+The aims and objectives of this qualification are to enable students to: 
+● engage actively in the process of music study 
+● develop performing skills individually and in groups to communicate musically with 
+fluency and control of the resources used 
+● develop composing skills to organise musical ideas and make use of appropriate 
+resources 
+● recognise links between the integrated activities of performing, composing and 
+appraising and how this informs the development of music 
+● broaden musical experience and interests, develop imagination and foster 
+creativity 
+● develop knowledge, understanding and skills needed to communicate effectively 
+as musicians 
+● develop awareness of a variety of instruments, styles and approaches to 
+performing and composing 
+● develop awareness of music technologies and their use in the creation and 
+presentation of music 
+● recognise contrasting genres, styles and traditions of music, and develop some 
+awareness of musical chronology 
+● develop as effective and independent learners with enquiring minds 
+● reflect on and evaluate their own and others’ music 
+● engage with and appreciate the diverse heritage of music, in order to promote 
+personal, social, intellectual and cultural development. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 9 
+Component 1: Performing 
+Overview 
+The purpose of this component is to assess students’ performing skills in both a solo 
+and ensemble context. Students should be given the opportunity to rehearse and 
+refine performances on their chosen instrument or voice, developing technical 
+control, expression and interpretative skills. 
+This component will encourage students to develop creative thinking, aesthetic 
+sensitivity, critical awareness, self-confidence, self-motivation and their own musical 
+interests and skills. This includes the ability to make music individually and in groups, 
+and perform with control, using phrasing and dynamics appropriate to their chosen 
+styles and moods of music. 
+The areas of content covered are: 
+● solo performing 
+● ensemble performing 
+● approaches to performing. 
+Students must perform: 
+● solo performance: this must be of at least one minute in duration, and may 
+comprise one or more pieces 
+● ensemble performance: this must be of at least one minute in duration, and may 
+comprise one or more pieces. 
+● total performance time across both performances must be a minimum of four 
+minutes of music.  
+Content 
+Students will have to perform a solo and an ensemble performance. These must be 
+different pieces of music for each performance. The following content explains what 
+must be learned for each type of performance. It explains the possible approaches 
+that can be applied to each student’s performance as is desired and appropriate.  
+The music vocabulary list in Appendix 3 details the musical elements, musical contexts 
+and musical language that students should know and use as appropriate depending 
+on the choice of instrument and piece in their performances. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 10 
+Students will be required to demonstrate the ability to: 
+● make use of musical elements, techniques and resources to interpret and 
+communicate musical ideas with technical control and expression. This must be 
+achieved by one or more of the following means: playing or singing music, 
+improvising, or realising music using music technology 
+● perform music with control, making expressive use of phrasing and dynamics 
+appropriate to the style and mood of the music 
+● students will be assessed on their skills demonstrated during a live, unedited,  
+uninterrupted performance. Recordings of performances (using any instruments 
+and/or technology) may not be edited afterwards 
+● for this component, students can use any instrument for their solo and/or 
+ensemble pieces, including those that make use of music technology (e.g. electric 
+guitar). 
+Solo performances 
+A solo performance is considered to be a piece in which the student’s part plays a 
+significant or leading role, its contribution to the music is distinctive and clearly 
+recognisable in its individuality. The performance may be on any instrument or voice 
+in any style or genre. 
+Music that was written with an accompaniment must be performed with that 
+accompaniment. The accompaniment should not be altered to double the solo line. 
+The usual accompaniment for a solo performance will be by one other performer on a 
+contrasting instrument. For instance, a singer, flautist or trombonist may be 
+accompanied by a pianist, a jazz saxophonist may be accompanied by a double bass 
+player. However, students are able to perform with a larger ensemble where there is a 
+clear solo part throughout and where the music was originally written for these 
+instrumental and/or vocal forces. 
+Performances accompanied by backing tracks are acceptable but the part to be 
+assessed must not be audible as part of the backing track. 
+Ensemble performances 
+An ensemble performance must consist of two or more performers, playing 
+undoubled and simultaneously sounding, independent parts (for at least one minute), 
+with or without additional backing or accompaniment as appropriate. 
+When performing their ensemble, students should, in addition to accuracy and other 
+essentials of effective performance described above, pay attention to balance and the 
+reaction and adjustment to other parts. These are specifically assessed in assessment  
+grids 2 and 3. 
+A solo with an accompanist is not acceptable as an ensemble unless the student being 
+assessed is the accompanist.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 11 
+Backing tracks may be used to accompany an ensemble performance but would not 
+count towards a live instrumental part. The part to be assessed must not be audible 
+as part of the backing track. 
+Approaches to performing 
+All students should listen to how established performers communicate. They should 
+appraise their use of articulation, phrasing and dynamics in the light of these 
+performances and reflect this when shaping their interpretation of their chosen 
+music. All students should know and understand the appropriate musical vocabulary 
+and terminology related to their performances. 
+For both their solo and ensemble performances, students will need to understand the 
+following as appropriate for their chosen performance. 
+● Performing from a score. A score can mean staff notation or written instructions 
+for the playing of a piece of music. Students should learn the importance of 
+attention to intonation, tuning, and accuracy of pitch and rhythm when performing 
+from a score. They should work on their instrumental tone and technique, and 
+ensure that they observe all performance directions for phrasing, articulation, 
+dynamics and tempo. They should also recognise the importance of fluency and 
+ensure that the overall outcome is effective in terms of communication, 
+interpretation and style. 
+● When performing from a score, students should understand the contextual 
+influences affecting the composition of the pieces they are performing, including 
+the composer’s intentions regarding the venue and nature of the performance, 
+and any important cultural influences relating to the composition of the piece. 
+● Students who choose to improvise should learn to play the music accurately and 
+go on to exploit and develop its potential. They should pay attention to intonation, 
+tuning, coherence and to structure generally. They should work on their 
+instrumental tone and technique and demonstrate their ability to shape the music 
+effectively. They should also recognise the importance of fluency and ensure that 
+the overall outcome is effective in terms of communication, interpretation and 
+style, for example with jazz music. 
+● Performance of a live part over a pre-recorded/sequenced backing track. If 
+choosing this approach, students must play the live part, and it is only this live part 
+that will be assessed during their performance. This final part must be performed 
+in real time. Students are not permitted to edit their sequenced recordings after 
+their live performances.  
+● For rapping (similar to vocal performances) students should demonstrate clarity of 
+diction, secure breath control, tonal contrast and some extended vocal techniques. 
+Students choosing to beatbox should create a variety of contrasting timbres and 
+demonstrate effective control of rhythm. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 12 
+● Students may choose to perform by the oral tradition that does not fall under solo 
+improvisation or traditional performances. In this context, oral tradition means 
+material and tradition transmitted orally from one generation to another, often 
+taking the form of folktales, ballads, songs, or chants. 
+● Students may perform their own compositions when supported by a score with 
+sufficient performance detail to assess the accuracy of pitch and rhythm. 
+Musical elements 
+Depending on the choice of instrument(s) and/or voice(s), and the piece of music 
+performed, students should use the appropriate musical elements in their 
+performance. 
+The musical elements are listed below: 
+● organisation of pitch 
+● tonality 
+● structure 
+● sonority 
+● texture 
+● tempo, metre and rhythm 
+● dynamics. 
+Musical contexts 
+Students should take into account the effect of the purpose and intention of their 
+piece of music, and the effect of audience, time and place when performing their 
+pieces. Students should perform their music with control, expressing the music as 
+appropriate to its style and mood. 
+Musical language 
+Depending on the choice of instrument(s) and/or voice(s), and the piece of music, 
+students should be able to read and play music using the appropriate musical 
+language. 
+Different types of musical language are listed below: 
+● reading and writing of staff notation 
+● major and minor chords and associated chord symbols 
+● recognising and accurately using appropriate musical vocabulary and terminology 
+related to the areas of study. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 13 
+Performing using music technology 
+Students may perform using music technology. Music technology may involve the use 
+of synthesisers, virtual instruments and amplified instruments, such as guitars using 
+pedals (including loop pedals), audio samples, and other processors.  
+Students will be assessed on their ability to perform a live solo line, which may (or 
+may not) include playing over a pre-recorded/sequenced backing track (which may or 
+may not have been created by the student themselves). This pre-recorded/sequenced 
+backing track is not assessed.  
+Examples of how to play the live solo line might include by electric guitar or 
+synthesiser, with live use of effects and processes.  
+Assessment information 
+● First assessment: 2018. 
+● This component consists of 60 marks. 
+● Students must perform as a soloist and as part of an ensemble. Each performance 
+must last a minimum of one minute, with a combined duration of at least four 
+minutes. Each performance can consist of one or more pieces.  
+● For performances that do not meet the total minimum time requirement, the total 
+performance mark will be reduced proportionally according to how many seconds 
+the combined performance is less than four minutes. This will be applied by 
+Pearson during the moderation process. Please see Appendix 9: Mark penalty tables 
+for submissions not meeting the minimum assessment time.  
+● The final performances will be carried out under controlled conditions. 
+● Performance recordings must be submitted at the end of the course by 15 May. 
+● Centres must ensure that the performances submitted are valid for the series in 
+which they are submitted. 
+Students will perform as a soloist and as part of an ensemble: 
+● Solo performance: students will perform a minimum of one solo piece (of at least 
+one minute) of their own choice in any style or genre, with or without 
+accompaniment as appropriate to the style of the music 
+● Ensemble performance: students will perform a minimum of one piece as part of 
+an ensemble (of at least one minute) in any style or genre. The student’s part must 
+not be doubled by any other member of the ensemble.  
+The same music may not be used for solo performance and ensemble performance. 
+The combined duration of the two performances must be at least four minutes.  
+More than one student may be assessed in the course of a single ensemble 
+performance. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 14 
+Performance task setting, taking and assessment 
+Task setting 
+Students should choose the performances they want to perform with the support of 
+their teacher. 
+Each performance should be of sufficient length and complexity to give the performer 
+adequate opportunity to demonstrate their abilities. The teacher should ensure that 
+the level of demand is appropriate to allow the student to present a personal and 
+meaningful response. 
+Teachers should ensure that the performances are relevant and appropriate to the 
+student’s course of learning. Students should have the opportunity to choose sources/ 
+interpretations/texts as appropriate. 
+If the student accompanies themselves, for example by singing and playing an 
+instrument, then the role to be assessed should be agreed beforehand between the 
+teacher and student. 
+Task taking 
+Students must perform a minimum of one solo piece (of at least one minute) and a 
+minimum of one ensemble piece (of at least one minute). The combined duration of 
+the two performances must be at least four minutes in length. 
+Performances can be worked on at any point but must be recorded and assessed in 
+the academic year in which the student expects to be awarded the qualification.  
+Guided maximum performance times 
+There is no maximum time limit to students’ combined performance. Excessively long 
+submissions may be self-penalising.  
+The guided maximum time for the combined performance (both solo and ensemble) 
+is six minutes. Performances exceeding the maximum time will still be marked. 
+Performance preparation 
+Students can undertake preparatory work outside the classroom, for example 
+research and performance practice. 
+Feedback 
+Teachers may help students to understand rubrics, assessment criteria and controls. 
+Teachers may also help students with their performance choices, styles and 
+techniques. Any additional feedback must be recorded on the Performance 
+Authentication Sheet, please see Appendix 1. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 15 
+Resources 
+Students must have equal access to IT resources. Students should have access to a 
+range of resources/texts to enable them to make choices as required for their tasks. 
+Performance assessment 
+Authenticity 
+Students’ performances must be recorded live, unedited, without interruptions and 
+without the teacher giving guidance. If students wish to re-record a performance, they 
+must re-record the whole performance (either solo or ensemble), and not just part of 
+it. The teacher must be present during the recordings. Recordings of performances 
+(using any instruments and/or technology) must not be edited afterwards. 
+If performing more than one piece of music as part of their solo and/or ensemble 
+performances, the pieces of music must be performed and recorded together. 
+Items for submission for moderation 
+1. Recording 
+Centres must submit a complete and unedited recording of the live performance via 
+the online submission platform Learner Work Transfer (LWT). The work of each 
+student should be a separate track, individually labelled with their centre number, 
+candidate number and title. 
+2. Score 
+Where a written score or lead sheet exists, this must be submitted with the recording 
+of the performance. If a piece has been learnt aurally, a professional reference 
+recording may be submitted in addition.  
+If a written score or lead sheet does not exist, appropriate reference material must be 
+submitted (a professional reference recording, written commentary, stimulus for 
+improvised performances, track sheets, tables or diagrams).  
+Notated music must be provided for all performances from a score. This music must 
+contain all the information necessary to assess the accuracy of the performance, for 
+example, a guitar tab score with no indication of rhythm is unacceptable: scores 
+should use conventional staff notation. Deviations from the score in jazz/rock and 
+musical theatre numbers will generally be accepted where they are considered to be 
+stylistically convincing. 
+For performances from a score/lead sheet, photocopies of the music must be 
+submitted with the recording. Only the part performed needs to be submitted, for 
+example just the clarinet part in a piece for clarinet with piano accompaniment. 
+Original copies should not be supplied. Photocopies will be destroyed by Pearson at 
+the end of the examination period.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 16 
+For realising music using music technology, a detailed commentary and/or a 
+professional reference recording must be submitted alongside a written score/lead 
+sheet (if one exists). For sequenced performances, only the recording of the live track 
+will be assessed. This track must be indicated when submitting.  
+These scores/lead sheets and/or reference materials should include as much detail as 
+possible to allow the teacher and moderator to make a fair and accurate judgement 
+on the quality and accuracy of the performance. The scores/lead sheets and/or 
+reference materials are not assessed and receive no marks.  
+Performances that are not accompanied by acceptable scores/lead sheets/reference 
+materials cannot be assessed. 
+3. Performance Authentication Sheet 
+The Performance Authentication Sheet (PAS) must be completed by the teacher, and 
+signed by the student and teacher, authenticating that the work is the student’s own. 
+Please see Appendix 1.  
+4. Submissions not meeting minimum time requirement 
+The combined performance time of both performances must be at least four minutes.  
+Students submitting combined performances of less than four minutes in length 
+should be marked against the assessment criteria on the following pages. 
+Centres will be required to notify us of any students who do not meet the minimum 
+time requirement of four minutes.  
+For performances that do not meet the minimum time requirement, the total 
+performance mark will be reduced proportionally according to how many seconds the 
+combined performance time is less than four minutes. This will be applied by Pearson 
+during the moderation process. Please see Appendix 9: Mark penalty tables for 
+assessments that do not meet the minimum assessment time. 
+If during the moderation process inaccuracies in the performance times are 
+discovered, the moderator may request the rest of the cohort to verify the correct 
+timings. 
+Failure to accurately record the performance times may result in staff/centre 
+malpractice. For further information about this, please see the Administration and 
+general information section in this specification. 
+Gaps between pieces and tuning do not count towards the performance time.  
+If students wish to re-record a performance before submission, they must re-record 
+the whole performance (either solo or ensemble), and not just part of it. The teacher 
+must be present during the recordings. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 17 
+Marking, standardisation and moderation 
+Teachers should mark the performances using the assessment criteria on the 
+following pages. Teachers may annotate students’ work but should also include any 
+comments on the Performance authentication sheet to justify the marks awarded. Only 
+the pieces performed are to be assessed. The score and/or written commentaries are 
+not assessed and receive no marks.  
+Additional marks will also be applied to each performance based on the difficulty of 
+the piece performed. Teachers should decide on the difficulty of the piece played and 
+follow the instructions on page 19 for applying the difficulty levels grid to each solo 
+and ensemble performance. 
+Where marking has been carried out by more than one teacher in a centre, there 
+must be a process of internal standardisation carried out to ensure that there is a 
+consistent application of the assessment criteria. 
+Marks awarded by the centre will be subject to external moderation by Pearson. 
+Moderation will ensure consistency with national standards. Pearson will notify 
+centres of the students whose work has been selected for moderation. This sample 
+will take cohort size into account. 
+If the moderation indicates that centre assessment does not reflect national 
+standards, an adjustment will be made to students’ final marks to compensate. 
+For up-to-date advice on teacher involvement and administration of non-examination 
+assessments, please refer to the Joint Council for Qualifications (JCQ) document 
+Instructions for conducting non-examination assessments (new GCE and GCSE 
+specifications) available on the JCQ website: www.jcq.org.uk
+ 
+Performance assessment criteria 
+Teachers must mark students’ performances using the three assessment criteria grids 
+on the following pages to give a mark out of 24, and there are also a further 6 marks 
+available for the difficulty of the piece (totalling 30 marks per piece). 
+For the performing component, students can use any instrument for their solo and 
+ensemble performances, including those that make use of music technology (e.g. 
+electric guitar). 
+Performance is assessed against AO1: Perform with technical control, expression and 
+interpretation.  
+Performance assessment grid 1: Technical control – Technique assesses the students’ 
+technical control of the instrument. 
+Performance assessment grid 2: Expression and interpretation assesses the students’ 
+ability to communicate a musically convincing performance. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 18 
+Performance assessment grid 3: Technical control (accuracy) and expression and 
+interpretation (fluency) assesses the students’ ability to use technical control to play 
+the piece accurately, and their ability to use expression and interpretation to play the 
+piece fluently. 
+These criteria have been developed to assess students’ skills in technical control, 
+expression, and interpretation. They are to be used to assess both their solo and 
+ensemble performances. All performances are able to be assessed using the criteria 
+on the following pages, including realising music using technology. For ensemble 
+performances, students are to be assessed on their role throughout the performance 
+and grids 2 and 3 have criteria in italics on which ensemble performances must be 
+assessed.  
+Where the word ‘instrument’ is mentioned this includes voice.  
+For the performance being assessed, teachers should use their professional 
+judgement to establish in which level of quality of the music performed is.  Where 
+instruments other than those listed in the Pearson Edexcel Level 1/Level 2 GCSE (9–1) in 
+Music Difficulty levels booklet are presented (such as non-GME instruments, e.g. sitar) 
+the performance assessment criteria should be applied at a comparable level of 
+demand with GME instruments. 
+The marks for each performance will be out a total of 30 marks and will carry equal 
+weighting as part of this component, even if they are of different lengths. 
+Teachers should decide on the difficulty of the pieces performed and follow the 
+instructions on pages 24–26 for applying the difficulty levels grid to each solo and 
+ensemble performance. 
+Teachers should mark the performances against each of the three grids and then 
+apply the difficulty levels grid in order to get a total mark out of 30 for each 
+performance (solo and ensemble). The totals from each (solo out of 30 and  
+ensemble out of 30) should be added together to give the total marks for this 
+component out of 60. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 19 
+Performance assessment grid 1: Technical control – Technique  
+In this grid, marks are awarded for the technical control of the instrument, for 
+example, coordination between the hands, or of the bow/fingers; breath control; 
+diction, pedalling; registration; intonation; tone quality; use of filters and effects and 
+control of musical sources. 
+This will include making use of musical elements as appropriate to the requirements 
+of the instrument(s) and piece performed. For ensemble performances, this grid 
+assesses only the student’s individual control of their instrument.  
+For performances up to difficulty level 2 please see the wording in italics in the grid 
+below.  
+ 
+Level Mark Technique 
+ 0 No rewardable material  
+Level 1 1–2 ● The performance overall demonstrates poor technical 
+control, as heard in poor coordination, breath control, diction, 
+and/or pedalling. 
+● The demands of the music are beyond the current ability of 
+the performer. 
+● The handling of sonority is poor, as heard in a dull, thin, 
+coarse tone quality across the range and/or poor intonation 
+throughout and/or poor use of filters and effects. 
+If the difficulty of the music performed is pre-difficulty level 1 the 
+mark awarded in this grid cannot exceed this level. 
+Level 2 3–4 ● The performance demonstrates limited technical control, as 
+heard in limited coordination, breath control, diction, and/or 
+pedalling. 
+● There are a few places where the demands of the music are 
+beyond the current ability of the performer. 
+● The handling of sonority is limited, as heard in a dull, thin, 
+coarse tone quality in places and/or limited intonation in 
+places and/or limited use of filters and effects. 
+If the difficulty of the music performed is at difficulty level 1 the 
+mark awarded in this grid cannot exceed this level. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 20 
+Level Mark Technique 
+Level 3 5–6 ● The performance demonstrates basic technical control, as 
+heard in basic coordination, breath control, diction, and/or 
+pedalling. 
+● There are one or two moments where the demands of the 
+piece are beyond the current ability of the performer. 
+● The handling of sonority is good, as heard in consistently 
+good tone quality except at the extremities of the pitch range 
+or at moments of technical difficulty and/or good intonation 
+and/or good use of filters and effects. 
+If the difficulty of the music performed is at difficulty level 2 the 
+mark awarded in this grid cannot exceed this level. 
+Level 4 7–8 ● The performance demonstrates convincing technical control, 
+as heard in convincing coordination, breath control, diction, 
+and/or pedalling. 
+● The demands of the music are within the ability of the 
+performer. 
+● The handling of sonority is convincing, as heard in very good 
+tone quality across the pitch range (satisfying, interesting and 
+even as the music demands), including, where appropriate, 
+very good and sensitive tonal contrast throughout and/or 
+very good intonation and/or very good use of filters and 
+effects. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 21 
+Performance assessment grid 2: Expression and interpretation 
+In this grid, marks are awarded for communicating a musically convincing 
+performance through the use of musical elements as appropriate to the piece 
+performed. The text in italics is to be applied to ensemble performances. 
+ 
+Level Mark Expression and interpretation 
+ 0 No rewardable material 
+Level 1 1–2 ● Inappropriate or inconsistent tempo throughout.  
+● Little or no appropriate dynamic contrast, and little or no 
+attention given to phrasing and articulation.  
+● The performance communicates poorly.  
+● In ensemble performances there is little awareness of 
+balance. 
+Level 2 3–4 ● An unsuitable or inconsistent tempo in places.  
+● Limited use of dynamics, phrasing and articulation to shape 
+the performance.  
+● The performance struggles to communicate and may sound 
+mechanical. 
+● In ensemble performances there is occasional awareness of 
+balance. 
+Level 3 5–6 ● The use of tempo is usually appropriate and consistent 
+● Some use of dynamics, phrasing and articulation to shape 
+the performance, but several opportunities, notated or 
+otherwise, are missed 
+● The performance demonstrates some involvement with the 
+music. 
+● In ensemble performances there is a good awareness of 
+balance throughout 
+Level 4 7–8 ● The use of tempo is appropriate and consistent throughout.  
+● Appropriate use of dynamics, phrasing and articulation to 
+shape the performance.  
+● The performance communicates very well, with no more 
+than one or two less successful moments.  
+● In ensemble performances there is excellent awareness of 
+balance throughout.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 22 
+Performance assessment grid 3: Technical control (accuracy) and 
+expression and interpretation (fluency) 
+In this grid, marks are awarded for the technical control (accuracy), and the 
+expression and interpretation (fluency) of the performance, as appropriate to the 
+chosen instrument(s) and piece, including making use of musical elements as 
+appropriate. The text in italics is to be applied to improvised and/or ensemble 
+performances as appropriate. 
+ 
+Level Mark Accuracy and fluency 
+ 0 No rewardable material. 
+Level 1 
+ 
+1–2 ● The performance has several noticeable/obtrusive errors in 
+pitch and/or rhythm that impact on its success overall.  
+● Coherence and fluency are frequently compromised by 
+breakdowns and/or omissions.  
+● Improvised performances demonstrate little accuracy when 
+performing the stimulus and little development of this 
+material. The improvisation will lack coherence and contrast. 
+● In ensemble performances there is evidence of difficulty in 
+reacting and adjusting to other parts. 
+Level 2 
+ 
+3–4 ● The performance has noticeable/obtrusive errors or 
+omissions in pitch and/or rhythm, that have little or no impact 
+on its success overall.  
+● There are moments where coherence is lost, with some 
+hesitation and/or omission, but the performance is still 
+reasonably fluent for the majority of piece.  
+● Improvised performances demonstrate some accuracy when 
+performing the stimulus, with limited development of the 
+stimulus. The improvisation sounds repetitive, predictable 
+and/or formulaic. 
+● In ensemble performances there is occasional difficulty in 
+reacting and adjusting to other parts. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 23 
+Level Mark Accuracy and fluency 
+Level 3 
+ 
+5–6 ● The performance has no more than one or two noticeable/ 
+obtrusive errors or omissions in pitch and/or rhythm, that 
+have minimal impact on its success overall.  
+● The performance is mostly coherent and fluent despite the 
+occasional hesitation and/or omission.  
+● Improvised performances demonstrate a mostly accurate 
+performance and show some development of the stimulus. 
+The improvisation attempts to create variety but may rely 
+heavily on repetition, and be predictable and/or formulaic in 
+places. 
+● In ensemble performances there is generally good reaction 
+and, where appropriate, adjustment to other parts. 
+Level 4 
+ 
+7–8 ● The performance is largely accurate with no more than one or 
+two minor errors in pitch and/or rhythm. These errors have 
+no impact on its success overall.  
+● The performance is coherent and fluent despite the 
+occasional slight hesitation and/or omission 
+● Improvised performances demonstrate an accurate 
+performance of the stimulus, and produce an interesting 
+realisation of the stimulus. The improvisation is coherent, well 
+balanced and effective throughout. 
+● In ensemble performances a consistently responsive reaction, 
+and where appropriate, adjustment to other parts is evident.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 24 
+Difficulty levels grid 
+Depending on how difficult the piece of music performed is, the marks for its difficulty 
+should be applied using this grid. The difficulty level of selected pieces of music can be 
+found in the Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music Difficulty levels booklet, 
+on the Pearson website. These can be used as indicators of the demand of pieces of 
+music and should inform the teacher’s judgement in assessing how difficult the pieces 
+performed by the students are. This booklet shows how levels of difficulty can be 
+applied to all instruments for all performances in an accurate and consistent way. 
+For this GCSE Music qualification, pieces identified as level 4 are identified as 
+‘standard’; above this (level 5 and above) pieces are ‘more difficult’ and below this 
+(levels 1-3) they are ‘less difficult’. Students selecting pieces of music up to difficulty 
+level 2, should be advised that to do so will mean that they are only able to access 
+specific levels and marks in assessment grid 1 (Technique). Pieces at pre-difficulty 
+level 1 are restricted to level 1 of the assessment grid. Pieces at difficulty level 1 are 
+restricted to level 2 of the assessment grid and pieces at difficulty level 2 are restricted 
+to level 3 of the assessment grid. Pieces at difficulty level 3 and above can access the 
+complete grid.  
+Specific examples of difficulty levels for ensemble performances are not provided in 
+the booklet. In all cases the difficulty level for ensemble performances must be 
+decided by directly comparing the student’s part with the examples for solo 
+performance provided and looking for an equivalent level. 
+Where instruments other than those listed in the Pearson Edexcel Level 1/Level 2 GCSE  
+(9–1) in Music Difficulty levels booklet are presented (such as non-GME instruments,  
+e.g. sitar), its difficulty level should be assessed at a comparable level of demand with 
+GME instruments. 
+Where there is no tradition of graded examinations for the instrument presented, the 
+difficulty level should be assessed at a comparable demand. For example: 
+Beatboxing will be less difficult if it involves a simple rhythmic idea maintained with 
+basic drum-kit sounds at a steady beat. To achieve standard level it would need two or 
+more of the following: 
+● Fills with alternative sounds 
+● Syncopated rhythmic ideas 
+● Dynamic contrasts 
+● A fast tempo 
+● A piece with contrasting sections. 
+More difficult pieces will be fast, include syncopation, make use of effects such as 
+echo or reverb, and include a wide range of imaginative sounds, including mimicry of 
+standard instruments and scratching effects. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 25 
+Rapping will be less difficult if it has a single simple rhythmic idea, a steady beat and 
+simple rhymes. To achieve standard level it would need two or more of the following: 
+● A sung hook 
+● Syncopated rhythms, including breaks 
+●  Dynamic contrasts 
+●  A fast tempo making greater demands of articulation 
+●  A piece with contrasting sections. 
+More difficult pieces will always be fast, requiring control of articulation, and make use 
+of syncopation. They will always have a sung hook. 
+When performing a live solo line over a pre-recorded/sequenced backing track, the 
+level of difficulty is assessed on the live part performed only.  
+When assessing students’ performances, teachers must take the raw mark (the total 
+from the three performance assessment grids out of 24 marks) and decide which level 
+of difficulty the piece performed was. The number in the corresponding difficulty level 
+column will provide the total mark (out of 30) for the performance.  
+This approach should be used to obtain the marks for both students’ solo and 
+ensemble performances. These marks will be combined to produce a final total mark 
+out of 60 for this component. 
+If a student has chosen to perform more than one piece of music for either their solo 
+or ensemble performance, the teacher assessing must apply a difficulty level to the 
+whole performance based on an average, although taking into consideration the 
+relative length of pieces where these lengths are unbalanced. 
+ 
+Raw mark Less difficult Standard More difficult 
+1 1 1 2 
+2 2 3 3 
+3 3 4 5 
+4 4 5 6 
+5 5 6 8 
+6 6 8 9 
+7 7 9 11 
+8 8 10 12 
+9 9 11 14 
+10 10 13 15 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 26 
+Raw mark Less difficult Standard More difficult 
+11 11 14 17 
+12 12 15 18 
+13 13 16 20 
+14 14 18 21 
+15 15 19 23 
+16 16 20 24 
+17 17 21 26 
+18 18 23 27 
+19 19 24 29 
+20 20 25 30 
+21 21 26 30 
+22 22 28 30 
+23 23 29 30 
+24 24 30 30 
+Security and backups 
+It is the centre’s responsibility to keep the work that students have submitted for 
+assessment secure. 
+Secure storage is defined as a securely-locked cabinet or cupboard. Where students 
+are producing work, secure storage is defined as a classroom studio or workshop that 
+is locked or supervised from the end of one session to the start of the next. 
+For materials stored electronically, centres are strongly advised to utilise firewall 
+protection and virus-checking software, and to employ an effective backup strategy, 
+so that an up-to-date archive of students’ evidence is maintained. 
+Further information 
+For up-to-date advice on teacher involvement and administration of non-examination 
+assessments, please refer to the Joint Council for Qualifications (JCQ) document 
+Instructions for conducting non-examination assessments (new GCE and GCSE 
+specifications) available on the JCQ website: www.jcq.org.uk
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 27 
+Component 2: Composing 
+Overview 
+The purpose of this component is to assess students’ skills in composing music and 
+enables them to appreciate the process of creating music. Students will be introduced 
+to the technical and creative skills required by a composer. 
+Composing is the creative process by which most of the music we experience came 
+into being. Students will be encouraged to explore a range of compositional starting 
+points and investigate a range of elements, techniques and resources for developing 
+and manipulating ideas – and turning them into completed pieces of music. 
+Students can also explore the skills needed to compose music for different 
+instrumental and/or vocal forces. 
+Students must submit two compositions, of a combined duration of at least three 
+minutes: 
+● one in response to a brief set by Pearson, of at least one minute in duration 
+● one free composition set by the student, of at least one minute in duration 
+● students do not have to perform the music that they have composed. 
+Content 
+Students should be given a wide range of opportunities to develop their composition 
+skills. Students should take into account the effect of the purpose and intention of 
+their pieces of music, and the effect of audience, time and place when composing 
+their pieces. 
+Students will be required to demonstrate the ability to: 
+● make use of musical elements, techniques and resources to create and develop 
+musical ideas with technical control and coherence; freely as the composer 
+chooses, and responding to a brief or commission supplied by others 
+● compose music that develops musical ideas, uses conventions, and explores the 
+potential of musical structures and resources.  
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 28 
+The composition skills to study include: 
+● Developing musical ideas: 
+o developing musical ideas in the form of compositions and/or arrangements. 
+● Compositional techniques and strategies: 
+o how to write for instrument(s) and/or voice(s) and/or technology: efficient, 
+sensitive and idiomatic handling of appropriate timbres and textures 
+o how to develop musical ideas within chosen forms and structures: 
+understanding the principles of rhythmic, melodic and harmonic construction 
+and the working of form(s) and structure(s) appropriate to the composition 
+undertaken. 
+● Ensuring technical control and coherence: 
+o working to a set brief: developing the necessary technical skills to meet the 
+requirements of the brief and relating it to its intended audience and occasion. 
+● Methods of notating composition scores, including: 
+o staff notation 
+o graphic notation 
+o written accounts. 
+In order to compose in a particular style or genre, it is essential to study examples of 
+music in some detail. This will enable students to recognise and use appropriate 
+musical vocabulary, chord symbols and rhythmic notation relevant to their 
+compositions. Much of the listening and appraising work will involve analysis of the 
+set works and these could be used as models for composing in those particular forms 
+and styles. 
+Composing using music technology 
+Students may compose their pieces of music using music technology. This may involve 
+the use of a Digital Audio Workstation (DAW) to compose, edit and process sequenced 
+compositions using live recordings, audio samples and MIDI materials. It may also 
+involve the use of synthesisers, virtual instruments and amplified instruments, such as 
+guitars using pedals (including loop pedals) and other processors. 
+Musical elements 
+Depending on the choice of instrument(s) and/or voice(s), and the composition, 
+students should use the appropriate musical elements in their composition. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 29 
+The musical elements are listed below: 
+● organisation of pitch 
+● tonality 
+● structure 
+● sonority 
+● texture 
+● tempo, metre and rhythm 
+● dynamics. 
+Musical contexts 
+Students should take into account the effect of the purpose and intention of their 
+composition, and the effect of audience, time and place when composing their pieces. 
+Students should compose their music with control, expressing the music as 
+appropriate to its style and mood. 
+Musical language 
+Depending on the choice of instrument(s) and/or voice(s), and the composition, 
+students should be able to compose music using the appropriate musical language. 
+The different types of musical language are listed below: 
+● reading and writing of staff notation 
+● major and minor chords and associated chord symbols 
+● recognising and accurately using appropriate musical vocabulary and terminology 
+related to the areas of study. 
+The composition briefs 
+Briefs will be released on the 1st of September for assessment in the following exam 
+series. The briefs will relate to each of the areas of study. The general themes of the 
+briefs are listed below. Each brief will relate to a specific audience and/or occasion. 
+Students must compose to their chosen brief based on one of the areas of study. 
+The composition may be for any instrument or voice, or combination of instruments 
+and/or voices, and in any style, subject to the requirements of the selected 
+composition brief.  
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 30 
+Brief 1 – Instrumental Music 1700-1820 
+Students should study instrumental forms which facilitate the development and 
+extension of an opening melody such as binary form, ternary, rondo, theme and 
+variations and fantasia. They should practise harmonising and developing given 
+melodies using the techniques of repetition, variation, extension and motivic working 
+to sustain a piece with a varied and creative musical outcome. 
+Students may work in any style, subject to the brief. 
+Students will be required to develop a given melodic phrase into a piece for one 
+instrument and accompaniment. 
+Brief 2 – Vocal Music 
+Students should investigate the relationship between the structure of vocal pieces 
+and the structure of texts by studying a variety of song forms (for example da capo, 
+strophic, verse/chorus) and word settings. They should investigate the handling of 
+instrumental accompaniments and/or backings. 
+Students may work in any style, subject to the brief. 
+Students will be required to set words to music for voice and accompaniment. 
+Brief 3 – Music for Stage and Screen 
+Students should study the techniques of underscoring moving images and composing 
+incidental music for the stage to produce a satisfying and flowing succession of 
+musical moods and atmospheres. They should learn how to enhance visual or 
+dramatic action in which the narrative and sequencing may not follow conventional 
+forms and structures. If they choose to compose a show song they should learn how 
+music, lyrics, and if appropriate, dance, combine to produce a theatrical result.  
+Students may work in any style, subject to the brief. 
+Students will be required to compose a musical soundtrack in response to a given 
+scenario. 
+Brief 4 – Fusions 
+Students should learn how harmony, melody, rhythm and instrumentation combine 
+to create a characteristic stylistic ‘feel’ in the music. They should gain practice in the 
+handling of these elements to create music in a range of styles and stylistic influences. 
+Students will be required to compose a piece based on two set musical styles or 
+traditions. 
+The composition briefs will make compositional demands in terms of the treatment of 
+ideas, techniques and structures but between them will be sufficiently open-ended to 
+allow students the freedom to work in any style or genre or for any instrument. 
+Students should be aware of the specific assessment criteria against which the 
+compositions will be marked. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 31 
+Free composition 
+Students will produce one composition that is free, i.e. not related to a set brief. They 
+should use their imagination and skills to compose a piece of music. They can draw 
+inspiration or starting points from the set works and suggested wider listening, as well 
+as their own interests and the world around them. They should consider the role of 
+the audience and/or occasion in their composition. 
+The piece composed by the students may be for any instrument or voice, or 
+combination of instruments and/or voices, and in any style. 
+Assessment information 
+● First assessment: 2018. 
+● This component consists of 60 marks. 
+● Students must submit two compositions, of a combined duration of at least three 
+minutes. One in response to a brief set by Pearson, of at least one minute in 
+duration, and one free composition set by the student, of at least one minute in 
+duration. 
+● For compositions that do not meet the total minimum time requirement, the total 
+composition mark will be reduced proportionally according to how many seconds 
+the combined composition is less than three minutes. This will be applied by 
+Pearson during the moderation process. Please see Appendix 9: Mark penalty tables 
+for submissions not meeting the minimum assessment time. 
+● Four briefs will be published on the Pearson website on the 1st September each 
+year, from September 2017.  
+● The composing may take place over multiple sessions. 
+● Compositions must be submitted at the end of the course by 15 May. 
+● Centres must ensure that compositions submitted are valid for the series in which 
+they are submitted. 
+● Students must complete a minimum of five hours of their composing, including the 
+final write-up and recording, in a classroom setting under teacher supervision 
+● Students do not have to perform the pieces of music that they have composed. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 32 
+Composition task setting, taking and assessment 
+Task setting 
+Students should choose the composition brief from those released by Pearson each 
+year, and decide their free composition with the support of their teacher. 
+Group compositions where the music is the work of more than one student are not 
+acceptable. 
+Each composition must be at least one minute in duration. The two compositions 
+combined should be a minimum of at least three minutes in duration. 
+Set brief compositions must be worked on and assessed in the academic year in 
+which the student expects to be awarded the qualification. Free compositions can be 
+worked on at any point, but must be recorded and assessed in the academic year in 
+which the student expects to be awarded the qualification. 
+Guided maximum composition times 
+There is no maximum time limit to students’ combined composition. Excessively long 
+submissions may be self-penalising.  
+The guided maximum time for the combined composition (both set brief and free 
+composition) is five minutes. Compositions exceeding the maximum time will still be 
+marked. 
+Task taking 
+Students must submit two compositions, of a combined duration of at least three 
+minutes: 
+● one in response to a brief set by Pearson, of at least one minute in duration 
+● one free composition set by the student, of at least one minute in duration. 
+Collaboration 
+Students may work together on their research but group compositions are not 
+allowed. 
+While research and development may be carried out by the student in or out of the 
+centre, the final composition and score or account must be completed in the centre 
+under teacher supervision. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 33 
+Controlled conditions 
+Students must work on their compositions under controlled conditions for at least five 
+hours. This must include the final write-up of their compositions, and can include any 
+research and development time. The final write-up is defined as the time when the 
+final recording and score or commentary of the piece is produced.  
+As composition is a creative process that cannot be confined to the classroom, 
+students will be allowed to research and generate initial ideas outside of the 
+classroom and teacher supervision. However to ensure the composition is the 
+student’s own unaided, personal and independent work, teachers must monitor and 
+authenticate preparatory work (development of composition ideas, for example this 
+may involve listening to other music, mulling over a brief, experimenting with suitable 
+melodies or rhythmic ideas on guitar or piano, working out rough drafts) prior to the 
+commencement of the composition recording period. Students will be allowed to 
+bring in stimulus and ideas but need to develop ideas within a classroom setting and 
+complete the final recording and write-up under controlled conditions.  
+Teachers should inspect the preparatory material, and be satisfied that they are the 
+student’s own work, checking them against the student’s previous work and 
+expectations of them. 
+Teacher guidance during this period must be restricted to: the availability and 
+suitability of sources and materials, the prevention of plagiarism and ensuring the 
+work is conducted in accordance with specification requirements and procedures. 
+Feedback 
+Teachers may help students to understand rubrics, assessment criteria and controls. 
+Teachers must not provide students with solutions. Any additional feedback must be 
+recorded on the Composition Authentication Sheet, please see Appendix 2. 
+Resources 
+Students must have equal access to IT resources. Students should have access to a 
+range of resources/interpretations/texts to enable them to make choices as required 
+for their tasks. 
+Composition recording 
+Recording the composition 
+Compositions and arrangements may be realised through conventional instruments 
+or music technology. The quality of the recording of the performance will not be 
+assessed. Only the actual composition itself will be assessed.  
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 34 
+Items for submission for moderation 
+1. Score 
+A detailed notated score appropriate to the style of music must be submitted for each 
+composition. This can be submitted on manuscript paper or as a printout. The score 
+may be handwritten or printed. This must be produced by the student. 
+‘Score’ refers to any of the following: a full score in conventional staff notation; a lead 
+sheet or chord chart; track sheets; written account, tables or diagrams. 
+The purpose of the score is to justify the intentions of the piece of music that has 
+been composed, so that it may be easily replicated by another performer. It should 
+include all necessary and appropriate musical vocabulary.  
+Students not enclosing a traditional notation score must submit a written account 
+instead (no more than 500 words). This piece of writing should give a detailed 
+description of the composition and its purpose and meaning. It should refer to the 
+musical content throughout. 
+Written accounts must contain similar information to that found in a score: details of 
+performance indications and the composer’s intentions, including the appropriate and 
+necessary musical vocabulary. A good account containing sufficient information for a 
+realisation of the composer’s intentions is acceptable for any style of music.  
+Whatever format or combination of formats is chosen, the presentation must be 
+sufficiently clear and detailed enough for the moderator to be able to assess the 
+composition or arrangement. 
+The recording and the score will be used together to assess the composition. The 
+presentation of the score will not carry marks, but students should ensure that it is of 
+sufficient clarity to be read and understood by a third party.  
+2. Recording 
+A complete recording of both pieces must be submitted via the online submission 
+platform LWT. Each composition for each student should be a separate track, 
+individually labelled with their centre number, candidate number and composition 
+title. The recording can be made live or be studio-produced. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 35 
+3. Composition Authentication Sheet 
+The Composition Authentication Sheet (CAS) must be completed by the teacher, and 
+signed by the student and teacher, authenticating that the work is the student’s own. 
+Please see Appendix 2.  
+4. Submissions not meeting minimum time requirement 
+The combined composition time of both compositions must be at least three minutes.  
+Students submitting combined compositions of less than three minutes in length 
+should be marked against the assessment criteria on the following pages. 
+Centres will be required to notify us of any students who do not meet the minimum 
+time requirement of three minutes.  
+For compositions that do not meet the minimum time requirement, the total 
+composition mark will be reduced proportionally according to how many seconds the 
+combined composition time is less than three minutes. This will be applied by Pearson 
+during the moderation process. Please see Appendix 9: Mark penalty tables for 
+submissions not meeting the minimum assessment time. 
+If, during the moderation process, inaccuracies in the composition times are 
+discovered, the moderator may request the rest of the cohort to verify the correct 
+timings. 
+Failure to accurately record the composition times may result in staff/centre 
+malpractice. For further information about this, please see the Administration and 
+general information section in this specification. 
+Gaps between pieces and tuning do not count towards the composition time. 
+Marking, standardisation and moderation 
+Teachers should mark the assignment using the assessment criteria on the following 
+pages. Teachers may annotate students’ work but should also include any comments 
+on the Composition Authentication Sheet to justify the marks awarded. 
+Where marking has been carried out by more than one teacher in a centre, there 
+must be a process of internal standardisation carried out to ensure that there is a 
+consistent application of the assessment criteria. 
+Marks awarded by the centre will be subject to external moderation by Pearson. 
+Moderation will ensure consistency with national standards. Pearson will notify 
+centres of the students whose work has been selected for moderation. This sample 
+will take cohort size into account. 
+If the moderation indicates that centre assessment does not reflect national 
+standards, an adjustment will be made to students’ final marks to compensate. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 36 
+For up-to-date advice on teacher involvement and administration of non-examination 
+assessments, please refer to the Joint Council for Qualifications (JCQ) document 
+Instructions for conducting non-examination assessments (new GCE and GCSE 
+specifications) available on the JCQ website: www.jcq.org.uk 
+Composition assessment criteria 
+Teachers must mark students’ compositions using the three assessment criteria grids 
+on the following pages to give a mark out of 30. 
+These criteria have been developed to assess students’ skills in developing musical 
+ideas, demonstrating technical control and composing with musical coherence. They 
+are to be used to assess both the Pearson set brief and free composition. 
+Where the word ‘instrument’ is mentioned this includes voice.  
+For the composition being assessed, teachers should use their professional 
+judgement to establish in which level of quality of the music composed is.  
+The compositions are equally weighted and will be marked equally, even if the two 
+compositions are of significantly different lengths. 
+Teachers should mark the compositions against each grid in order to get a total mark 
+out of 30 for each composition (Pearson set brief and free composition). The totals 
+from each composition piece should be added together to give the total marks for this 
+component out of 60. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 37 
+Composition assessment grid 1: Developing musical ideas 
+These marks are awarded for the development of musical ideas and use of musical 
+elements as appropriate, the management of stylistic characteristics and conventions, 
+and the response to the brief if appropriate, and the effectiveness with which the 
+piece meets its intended purpose and/or audience.  
+ 
+Level Mark Developing musical ideas 
+ 0 No rewardable material 
+Level 1 1–2 ● Musical ideas are limited, undeveloped and have little 
+relevance to the intended purpose and/or audience. 
+● Characteristics and conventions for the chosen genre/style 
+have not been observed or are seriously misjudged. 
+● For brief-set composition only: unimaginative and 
+inappropriate response to the brief. 
+Level 2 3–4 ● Musical ideas are somewhat developed, with some relevance 
+to the intended purpose and/or audience, but with some 
+obtrusive misjudgements that compromise the effectiveness 
+of the piece. 
+● There is an attempt to develop and manage appropriate 
+stylistic characteristics and conventions for the chosen 
+genre/style but these are unconvincing for the most part and 
+maintained inconsistently. 
+● For brief-set composition only: the piece meets the brief in 
+some respects but lacks sophistication and/or detail. 
+Level 3 5–6 ● Musical ideas are developed and extended, with relevance to 
+the intended purpose and/or audience but there are one or 
+two obvious misjudgements and/or inconsistencies. 
+● Stylistic characteristics and conventions for the chosen 
+genre/style have been selected appropriately and are 
+maintained inconsistently in parts but misjudgements do not 
+detract seriously from the overall impression. 
+● For brief-set composition only: the piece meets the brief and 
+its intended audience and occasion although the approach is 
+perhaps a little functional. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 38 
+Level Mark Developing musical ideas 
+Level 4 7–8 ● Musical ideas are developed and extended effectively, with 
+good relevance to the intended purpose and/or audience for 
+the most part. 
+● Stylistic characteristics and conventions for the chosen 
+genre/style have been selected appropriately and maintained 
+convincingly for some of the piece despite one or two minor 
+misjudgements. 
+● For brief-set composition only: creative response to the brief 
+with some sense of audience and occasion. 
+Level 5 9–10 ● Musical ideas are developed and extended successfully and 
+with assurance, meeting the intended purpose and/or 
+audience appropriately. 
+● Stylistic characteristics and conventions for the chosen 
+genre/style have been selected appropriately and handled 
+convincingly throughout. 
+● For brief-set composition only: imaginative response to the 
+brief with a well-developed sense of audience and occasion. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 39 
+Composition assessment grid 2: Demonstrating technical control 
+These marks are awarded for control of the appropriate musical elements, of devices 
+and conventions appropriate to the chosen style and/or genre, and of the control of 
+the chosen instrument(s). 
+ 
+Level Mark Demonstrating technical control 
+ 0 No rewardable material 
+Level 1 1–2 ● The control of appropriate musical elements is insecure, with 
+many obtrusive misjudgements that seriously compromise 
+the effectiveness of the piece. 
+● The instrumental and/or vocal forces are handled un-
+idiomatically, possibly with passages that cannot be 
+played/sung. 
+● Textures are narrow in scope and unvaried. 
+Level 2 3–4 ● The control of appropriate musical elements is insecure and 
+marred by obvious and/or frequent misjudgements. 
+● The handling of instrumental and/or vocal forces is functional 
+and basic although the parts are mainly playable/singable. 
+● The handling of textures may be misjudged and/or unvaried. 
+Level 3 5–6 ● The control of appropriate musical elements is mostly secure 
+although there may be some obvious inconsistencies and/or 
+misjudgements. 
+● There is some attempt to write idiomatically for the 
+instrumental and/or vocal forces but they may lack 
+exploitation in parts. 
+● There are no serious misjudgements in the handling of 
+textures but they may lack variety. 
+Level 4 7–8 ● The control of appropriate musical elements is secure, and 
+any misjudgements are not enough to have a serious impact 
+on the success of the piece. 
+● The instrumental and/or vocal forces show some contrast and 
+exploitation. 
+● Textures are varied and clear as appropriate to the style. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 40 
+Level Mark Demonstrating technical control 
+Level 5 9–10 ● The control of appropriate musical elements is secure 
+throughout, and any misjudgements are marginal and few, if 
+any. 
+● The instrumental and/or vocal forces are handled 
+idiomatically and exploited imaginatively. 
+● Textures are varied, complex, and/or clear as appropriate to 
+the style. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 41 
+Composition assessment grid 3: Composing with musical coherence 
+These marks are awarded for the use and combination of appropriate musical 
+elements to achieve musical coherence and fluency.  
+ 
+Level Mark Composing with musical coherence 
+ 0 No rewardable material 
+Level 1 1–2 ● Little sense of structure, design or balance between the 
+sections. 
+● Limited sense of fluency or contrast in the piece. 
+● The piece may be incomplete or missing significant 
+passages. 
+Level 2 3–4 ● An attempt at basic, balanced structures but perhaps 
+repetitive, predictable or showing too great a diversity of 
+ideas. 
+● Fluency and contrast will be attempted but unconvincing in 
+parts. 
+● There are attempts made at achieving a sense of direction in 
+the piece. 
+Level 3 5–6 ● The piece demonstrates a satisfactory use of basic 
+structures but these may be formulaic or standard forms. 
+● Fluency and contrast will be maintained for the most part. 
+● There is a sense of direction in the piece. 
+Level 4 7–8 ● The piece demonstrates some sense of wholeness and 
+balance between the sections. 
+● There is good sense of fluency and contrast. 
+● There is a good sense of direction overall. 
+Level 5 9–10 ● A sense of coherence and wholeness is achieved 
+throughout. 
+● There is a consistent sense of fluency and contrast 
+throughout. 
+● There is a convincing sense of direction overall. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 42 
+Security and backups 
+It is the centre’s responsibility to ensure that the composition briefs are kept secure 
+until released to students. 
+It is also the centre’s responsibility to keep the work that students have submitted for 
+assessment secure. Secure storage is defined as a securely-locked cabinet or 
+cupboard. 
+The rules on storage also apply to electronic data. For example, centres should collect 
+memory sticks for secure storage between sessions or restrict student access to 
+specific areas of the centre’s IT network. 
+For materials stored electronically, centres are strongly advised to utilise firewall 
+protection and virus-checking software, and to employ an effective backup strategy, 
+so that an up-to-date archive of students’ evidence is maintained. 
+Further information 
+For up-to-date advice on teacher involvement and administration of non-examination 
+assessments, please refer to the Joint Council for Qualifications (JCQ) document 
+Instructions for conducting non-examination assessments (new GCE and GCSE 
+specifications) available on the JCQ website: www.jcq.org.uk 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 43 
+Component 3: Appraising 
+Overview 
+The purpose of this component is to assess students’ listening and appraising skills 
+through the study of music across a variety of styles and genres. The content is 
+grouped into four areas of study, each of which contains two set works. 
+This component gives students the opportunity to reflect on, analyse and evaluate 
+music in aural and/or written form. To achieve these objectives students need to use 
+their knowledge and understanding of musical elements, musical contexts and 
+musical language to make critical judgements about the repertoire and context of 
+music within the areas of study. These critical judgements will require the use of 
+attentive listening, aural perception and specific music vocabulary associated with a 
+particular style or genre. These areas of study also provide opportunities for students 
+to demonstrate their contextual understanding of music when performing and 
+composing. 
+Students will learn the content of musical elements, musical contexts and musical 
+language through four compulsory areas of study. The areas of study and set works 
+are: 
+ 
+Area of study Set works 
+Instrumental 
+Music 
+1700–1820 
+● J S Bach: 3rd Movement from Brandenburg Concerto no. 5 
+in D major 
+● L van Beethoven: 1st Movement from Piano Sonata no. 8 in 
+C minor ‘Pathétique’ 
+Vocal Music 
+ 
+● H Purcell: Music for a While 
+● Queen: Killer Queen (from the album ‘Sheer Heart Attack’) 
+Music for Stage 
+and Screen 
+● S Schwartz: Defying Gravity (from the album of the cast 
+recording of Wicked) 
+● J Williams: Main title/rebel blockade runner (from the 
+soundtrack to Star Wars Episode IV: A New Hope) 
+Fusions 
+ 
+● Afro Celt Sound System: Release (from the album 
+‘Volume 2: Release’) 
+● Esperanza Spalding: Samba Em Preludio (from the album 
+‘Esperanza’) 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 44 
+There are two set works in each area of study, and these will allow students to 
+develop their knowledge and understanding of musical elements, musical contexts 
+and musical language through the context of these pieces. Students should also study 
+a range of pieces beyond these set works. The suggested wider listening pieces for 
+each area of study (see Appendix 4: Suggested wider listening) provide students with 
+breadth, enabling them to place their knowledge of musical elements, musical 
+contexts and musical language in a wider context, and apply their knowledge and 
+understanding to more pieces of music. The suggested wider listening will help 
+students to relate their learning to other pieces of music, but its study is not 
+compulsory. Teachers can identify and teach other pieces of music to support their 
+students’ learning. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 45 
+Content 
+Knowledge and understanding 
+Students need to learn about the following in order to critically appraise pieces of 
+music through the contexts of areas of study: 
+● form and structure of the music 
+● appropriate musical vocabulary for each work 
+● stylistic features of the music, for example the Baroque features to be found in the 
+music 
+● conventions used in different times and places 
+● how music relates to the context in which it was created 
+● how to express and justify their opinions and preferences. 
+Students need to demonstrate their knowledge and understanding of musical 
+elements, musical contexts and musical language in relation to music that they have 
+studied and to unfamiliar music for each of the areas of study. 
+Musical elements 
+This includes: 
+● organisation of pitch (melodically and harmonically), including simple chord 
+progressions, for example perfect and imperfect cadences, and basic melodic 
+devices 
+● tonality, including major, minor and basic modulations within the music, for 
+example tonic, dominant 
+● structure; organisation of musical material, including simple structure, for example 
+verse and chorus, call and response, binary and theme and variations 
+● sonority, including recognition of a range of instrumental and vocal timbres and 
+articulation, for example legato and staccato 
+● texture, how musical lines (parts) fit together, including simple textural 
+combinations, for example unison, chordal and solo 
+● tempo, metre and rhythm, including pulse, simple time, compound time, and basic 
+rhythmic devices, for example dotted rhythms  
+● dynamics; basic dynamic devices, for example crescendo and diminuendo. 
+These musical elements can be applied to many different types of music but may not 
+be applicable to every single area of study or set work to the same degree or extent.  
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 46 
+The use of the musical elements above should be used to understand how, as 
+appropriate to each area of study and set work: 
+● to identify how instrumentation is used in different combinations (identifying 
+instruments and groups of instruments) 
+● the instrumentation is used to good effect, including playing techniques etc 
+associated with a particular instrument or group 
+● to identify musical and melodic devices (ornamentation, ostinati, riffs, use of 
+imitation, pedal point and sequence) 
+● to identify rhythmic devices and features (syncopation, swung rhythms, dotted 
+rhythms and triplets) 
+● to identify and discriminate between major, minor, modal, pentatonic, and 
+chromatic tonalities 
+● texture is used, including how the music exploits textural contrasts with reference 
+to monophony, homophony, polyphony, heterophony etc 
+● musical devices are used, such as ostinato/riff, sequence, repetition, pedals and 
+drones 
+● harmony and chord patterns are used in the music 
+● the effects of music (e.g wah wah, flanger, continuo – see Appendix 3 for more 
+examples). 
+Musical contexts 
+This includes: 
+● the effect of purpose and intention (for example of the composer, performer, 
+commissioner) on how music is created, developed and performed in different 
+historical, social and cultural contexts 
+● the effect of audience, time and place (for example venue, occasion) on how music 
+is created, developed and performed in different historical, social and cultural 
+contexts. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 47 
+Musical language 
+This includes: 
+● reading and writing of staff notation, including treble-clef and bass-clef note 
+names, rhythmic notation in simple time, key signatures to four sharps and four 
+flats 
+● major and minor chords and associated chord symbols, including traditional and 
+contemporary notation as appropriate, for example IV or G7 
+● recognising and accurately using appropriate musical vocabulary and terminology 
+related to the areas of study, for example slide, repeats and stepwise 
+● recognising and accurately using appropriate terminology related to scores (e.g. 
+continuo) 
+Students should have an understanding of key stylistic features and be able to use 
+appropriate music language and terminology in their answers. For example, students 
+should be able to describe a repetitive melody in a classical piece as an ‘ostinato’ but 
+also to use the correct term of ‘riff’ when describing the same feature in a piece of 
+popular music. When describing musical textures, the description of ‘thick’ or ‘thin’ is 
+not appropriate in the description of a homophonic or polyphonic passage. Students 
+should understand the appropriate and correct musical vocabulary to use when 
+appraising each of the set works. 
+The Music vocabulary list in Appendix 3 lists vocabulary and terminology that supports 
+the learning of musical elements, musical contexts and musical language. The list 
+indicates the level and scope of technical language expected from students at this 
+level. The list is not exhaustive. The words listed may appear in the examination paper 
+and should be used in students’ answers where appropriate. 
+Some of the study of the set works will also involve identifying key musical themes, 
+chord patterns and rhythms. Examination questions every year will feature musical 
+dictation which could be completing some notes on staff notation/guitar tablature, or 
+identifying a particular rhythm or completing a chord sequence. It is, therefore, 
+important that students study the various types of notation used in the eight set 
+works. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 48 
+Areas of study 
+Students will learn the musical elements, musical contexts and musical language in 
+depth through four compulsory areas of study. 
+The areas of study are: 
+● Instrumental Music 1700–1820 
+● Vocal Music 
+● Music for Stage and Screen 
+● Fusions. 
+These areas of study enable students’ listening and appraising to understand music 
+across a variety of styles and genres. Each area of study includes two set works that 
+should be studied in detail.  
+These set works will enable students to develop their knowledge and understanding 
+of musical elements, musical contexts and musical language in depth, and within the 
+context of the area of study. Teachers should enable students to draw connections 
+and links between the set works within each area of study and also explore the 
+connections with the other areas of study. 
+For each area of study, students are expected to use appropriate terminology and 
+vocabulary associated with the genres, styles and features of the area of study. 
+Examples of the words expected to be known and understood by students for use in 
+the examination are found in Appendix 3: Music Vocabulary List on page 64. 
+Area of Study 1 – Instrumental Music 1700-1820 
+The pieces selected as set works provide a good representation of instrumental music 
+from the period 1700–1820. The Bach Brandenburg Concerto no. 5, 3rd movement 
+includes a study of fugue in a Gigue dance movement. General features of Baroque 
+music can be analysed in this piece. The Beethoven Piano Sonata no. 8 in C minor is 
+chosen as an example of solo instrumental music. It is a dramatic romantic work in 
+sonata form. 
+The suggested wider listening works provide a good background and context to the 
+set pieces. The Handel Concerto Grosso complements the Bach work and the Vivaldi 
+Winter from the Four Seasons provides further study of the solo concerto form. The 
+Classical piano sonata movements by Mozart and Haydn provide a good historical 
+introduction to the piano sonata as a genre and prepare for the extended Beethoven 
+sonata movement. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 49 
+Area of Study 2 – Vocal Music 
+This is a large topic area and the set works represent both ends of the time frame 
+from the Baroque setting by Purcell of ‘Music for a While’ to the twentieth-century 
+Queen song ‘Killer Queen’. However, the principle remains the same: they are both 
+settings of words for solo voice with an accompaniment. 
+This diversity of musical styles is present too in the selection of suggested wider 
+listening pieces. Some Handel and Bach solo arias are juxtaposed with Beach Boys 
+and ABBA songs. There are opportunities to widen the selection to include solo songs 
+from the Classical and Romantic eras too. 
+Area of Study 3 – Music for Stage and Screen 
+This is a varied topic and the two set works are representative works from the musical 
+and film music genres. The song ‘Defying Gravity’ from Wicked presents opportunities 
+to study this popular piece of West End musical theatre. The Star Wars films are well 
+known and the study of the main theme from Star Wars Episode IV: A New Hope will 
+give an understanding of how film music is composed as sound to picture. 
+The four pieces of suggested wider listening provide further examples of both the 
+musical and film music. These pieces provide more background to the topic and 
+enhance the study of the set works. 
+Area of Study 4 – Fusion 
+The emphasis here is on how two or more musical cultures are combined to create a 
+fusion. Some fusions have become genres in their own right such as Bhangra and 
+Salsa. The core understanding is for students to examine how the separate musical 
+elements are treated in a fusion work. The two set works provide contrast. The Afro 
+Celt Sound System: ‘Release’ and ‘Samba Em Preludio’ by Esperanza Spalding are 
+designed to explore how fusions create new, popular styles. 
+The suggested wider listening pieces cover African, Celtic, Afro-Cuban Jazz and Latin 
+American styles, showcasing the variety and uniqueness of different fusion styles. 
+Set works 
+It is recommended that students familiarise themselves with each set work as a 
+whole, before learning to identify important musical elements and aspects of 
+continuity and change between works. 
+Understanding of the musical elements, musical contexts and musical language will 
+help to identify the historical, social and cultural contexts, and illuminate elements of 
+continuity and change between the works. 
+Students need to learn how to write perceptively about music, in particular 
+comparing, contrasting, assessing, evaluating and commenting as appropriate. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 50 
+The eight set works have been chosen to be representative of typical pieces from their 
+areas of study. These pieces should be studied and analysed so that the students 
+have a good understanding of the stylistic features and conventions of each piece. 
+Students should be encouraged to express their ideas about the set works using 
+appropriate and correct musical vocabulary. 
+The areas of study and set works are: 
+ 
+Area of study Set works 
+Instrumental 
+Music 
+1700–1820 
+● J S Bach: 3rd Movement from Brandenburg Concerto no. 5 
+in D major  
+● L van Beethoven: 1st Movement from Piano Sonata no. 8 
+in C minor ‘Pathétique’ 
+Vocal Music 
+ 
+● H Purcell: Music for a While 
+● Queen: Killer Queen (from the album ‘Sheer Heart Attack’) 
+Music for Stage 
+and Screen 
+ 
+● S Schwartz: Defying Gravity (from the album of the cast 
+recording of Wicked) 
+● J Williams: Main title/rebel blockade runner (from the 
+soundtrack to Star Wars Episode IV: A New Hope) 
+Fusions 
+ 
+● Afro Celt Sound System: Release (from the album 
+‘Volume 2: Release’) 
+● Esperanza Spalding: Samba Em Preludio (from the album 
+‘Esperanza’) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 51 
+Suggested wider listening and unfamiliar pieces 
+Students should listen to and be able to appraise unfamiliar pieces of music as part of 
+this component. The examples of suggested wider listening in Appendix 4: Suggested 
+wider listening (and other pieces) are provided to support students’ preparation for 
+appraising unfamiliar pieces of music. 
+Unfamiliar pieces of music are neither set works nor suggested wider listening. 
+Unfamiliar music will have similar stylistic characteristics to the set works. Studying 
+other pieces of music (suggested wider listening and others) will provide breadth to 
+support learning these stylistic characteristics. 
+Students should apply their appraising skills and knowledge of musical elements, 
+musical contexts and musical language to these pieces of unfamiliar music in the 
+examination. They should learn how to listen perceptively to unfamiliar music, 
+developing their skills of aural analysis. In particular they should be able to place the 
+music in a wider context and chronology (which could include identifying the genre, 
+composer and date of composition), recognise chords and keys, and complete simple 
+aural dictation tasks. 
+The pieces given as suggested wider listening for each area of study are designed to 
+provide further examples of music from that period or musical tradition and provide 
+breadth as well as depth to each area of study. These works provide a useful 
+framework for a wider study of the set works. Their purpose is to show the common 
+features of the set works in other music, so that each set work is not just seen in 
+isolation. These pieces of suggested wider listening do not need to be examined in as 
+much depth as the set works. 
+The suggested wider listening is not compulsory to study. Teachers may use the 
+pieces listed in Appendix 4: Suggested wider listening or they may make their own 
+selection of pieces of music to supplement the areas of study. 
+Assessment information 
+● This is an externally set and assessed examination 
+● First assessment: May/June 2018. 
+● This component consists of 80 marks. 
+● The assessment is 1 hour and 45 minutes. 
+● The assessment consists of nine questions. 
+● Students must answer all questions. 
+● The paper will include multiple-choice, short open, and extended writing 
+questions. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 52 
+● There are two sections in the examination: 
+o Section A: 68 marks 
+o Section B: 12 marks 
+● The provided audio files with the music extracts will be played to all students at the 
+same time and will repeat the extracts a set number of times. 
+Section A 
+Students will be assessed on their ability to identify aurally the key musical features in 
+some of the set works from the areas of study. They should understand the context 
+within which the set works were composed and their place within the area of study as 
+a whole. 
+Students will also be expected to express and justify opinions on the set work extracts 
+and complete short musical dictation and staff notation questions. 
+Further details for Section A include: 
+● eight questions requiring students to respond to extracts of music, of which: 
+o six questions will be based on extracts of the set works 
+o one question will be on musical dictation. This will be worth 6–10 marks 
+o one question will be on an unfamiliar piece (closely related to a set work) with 
+an accompanying skeleton score. This will be worth 8 marks 
+● the exact number of times the extracts will be heard is announced on the audio 
+and printed on the examination paper 
+● students will be given reading time at the start of each question and time to 
+complete their answers at the end of each question 
+● a range of question types, including multiple choice, melody/rhythm completion, 
+grid completion, one-word response, short response and free response questions 
+will be used as appropriate to the extracts 
+● the 68-mark total for this section will be divided as appropriate between the eight 
+questions: the questions will not necessarily be of equal weighting. 
+● The question on an unfamiliar piece of music will relate to one of the set works 
+(but not a set work). Its purpose is for students to draw links from their study of 
+the set works to the music heard as an unfamiliar extract. For example, it might be 
+that following the study of the Star Wars music, another extract in a similar style 
+will be used, although not necessarily by the same composer or from the same 
+film track. A short skeleton score will be provided to help the student follow the 
+music and provide reference points. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 53 
+Section B 
+In Section B, students will be asked to compare in detail an extract of one of the set 
+works with an extract from an unfamiliar listening piece (related to one of the set 
+works). Students will hear the pieces and see the scores. This question will be worth 
+12 marks. 
+The question will be an extended response assessed for the quality of musical 
+knowledge and understanding demonstrated as well as the quality of the evaluation 
+and conclusion. This question will focus on the stylistic features of the music and will 
+draw on the students' knowledge from the study of the set works. Students should be 
+prepared to demonstrate that they are able to demonstrate their knowledge and 
+understanding of, and evaluate, musical elements, musical contexts and musical 
+language. Questions may include any of the following: 
+● how the musical elements (pitch, tonality, structure, sonority, texture, tempo, 
+metre, rhythm, and dynamics) have been used by the composer/performer 
+● how the instruments and groups of instruments are used 
+● how any other key musical elements have been used in the pieces 
+● how the two pieces compare together to meet a purpose, audience or other factor 
+● placing the music in its musical, historical, social and cultural context 
+● expressing and justifying opinions on the pieces in question. 
+The essay question will involve comparing one of the set works with an unfamiliar 
+piece. There will be scores accompanying this question for both extracts of music. The 
+question will be focused on an evaluation of certain stylistic aspects of the music. This 
+will be extended writing in which the student will show how they can apply their 
+knowledge in a comparison exercise. This may include making evaluative and critical 
+judgements on the pieces as well as making stylistic connections between the two 
+pieces. 
+Credit will be given if other music is referred to in students’ answers – this could be 
+from the suggested wider listening pieces or any other relevant works studied by the 
+student. 
+Students will need to know how the works fit within the context of other pieces 
+written in similar genres around the same time. 
+Students should be encouraged to express their ideas about music using accurate 
+musical vocabulary. 
+Students must not bring any materials into the examination. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 54 
+Sample Assessment Materials 
+A sample paper and mark scheme for this component can be found in the Pearson 
+Edexcel Level 1/Level 2 GCSE (9–1) in Music Sample Assessment Materials (SAMs) 
+document. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 55 
+Assessment Objectives 
+ 
+Students must: % in 
+GCSE 
+AO1 Perform with technical control, expression and 
+interpretation 
+30 
+AO2 Compose and develop musical ideas with technical control 
+and coherence 
+30 
+AO3 Demonstrate and apply musical knowledge 20 
+AO4 Use appraising skills to make evaluative and critical 
+judgements about music 
+20 
+Total 100% 
+ 
+Breakdown of Assessment Objectives 
+Component Assessment Objectives Total for all 
+Assessment 
+Objectives AO1 % AO2 % AO3 % AO4 % 
+Component 1: Performing 30 0 0 0 30 
+Component 2: Composing 0 30 0 0 30 
+Component 3: Appraising 0 0 20 20 40 
+Total for GCSE 30 30 20 20 100% 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 56 
+3 Administration and general information 
+Entries 
+Details of how to enter students for the examinations for this qualification can be 
+found in our UK Information Manual. A copy is made available to all examinations 
+officers and is available on our website: qualifications.pearson.com 
+Discount code and performance tables 
+Centres should be aware that students who enter for more than one GCSE, or other 
+Level 2 qualifications with the same discount code, will have only the grade for their 
+'first entry' counted for the purpose of the school and college performance tables 
+(please see Appendix 8: Codes). For further information about what constitutes 'first 
+entry' and full details of how this policy is applied, please refer to the DfE website: 
+www.gov.uk/government/organisations/department-for-education
+ 
+Students should be advised that if they take two GCSEs with the same discount code, 
+schools and colleges they wish to progress to are likely to take the view that this 
+achievement is equivalent to only one GCSE. The same view may be taken if students 
+take two GCSEs or other Level 2 qualifications that have different discount codes but 
+have significant overlap of content. Students or their advisers who have any doubts 
+about their subject combinations should check with the institution they wish to 
+progress to before embarking on their programmes. 
+Access arrangements, reasonable adjustments, special 
+consideration and malpractice 
+Equality and fairness are central to our work. Our equality policy requires all students 
+to have equal opportunity to access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by the Equality Act 2010) are 
+not, when they are undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that characteristic 
+● all students achieve the recognition they deserve for undertaking a qualification 
+and that this achievement can be compared fairly to the achievement of their 
+peers. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 57 
+Language of assessment 
+Assessment of this qualification will be available in English. All student work must be 
+in English. 
+Access arrangements 
+Access arrangements are agreed before an assessment. They allow students with 
+special educational needs, disabilities or temporary injuries to: 
+● access the assessment 
+● show what they know and can do without changing the demands of the 
+assessment. 
+The intention behind an access arrangement is to meet the particular needs of an 
+individual student with a disability, without affecting the integrity of the assessment. 
+Access arrangements are the principal way in which awarding bodies comply with the 
+duty under the Equality Act 2010 to make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the start of the course. Students 
+will then know what is available and have the access arrangement(s) in place for 
+assessment. 
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to make reasonable 
+adjustments where a person with a disability would be at a substantial disadvantage 
+in undertaking an assessment. The awarding organisation is required to take 
+reasonable steps to overcome that disadvantage. 
+A reasonable adjustment for a particular person may be unique to that individual and 
+therefore might not be in the list of available access arrangements. 
+Whether an adjustment will be considered reasonable will depend on a number of 
+factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with the disability and other 
+students. 
+An adjustment will not be approved if it involves unreasonable costs to the awarding 
+organisation, timeframes or affects the security or integrity of the assessment. This is 
+because the adjustment is not ‘reasonable’. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 58 
+Special consideration 
+Special consideration is a post-examination adjustment to a student's mark or grade 
+to reflect temporary injury, illness or other indisposition at the time of the 
+examination/assessment, which has had, or is reasonably likely to have had, a 
+material effect on a student’s ability to take an assessment or demonstrate their level 
+of attainment in an assessment. 
+Further information 
+Please see our website for further information about how to apply for access 
+arrangements and special consideration. 
+For further information about access arrangements, reasonable adjustments and 
+special consideration, please refer to the JCQ website: www.jcq.org.uk. 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that compromises or seeks to 
+compromise the process of assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered before the candidate has 
+signed the declaration of authentication form does not need to be reported to 
+Pearson. 
+Candidate malpractice found in controlled assessments after the declaration of 
+authenticity has been signed, and in examinations must be reported to Pearson on a 
+JCQ Form M1 (available at www.jcq.org.uk/exams-office/malpractice).  
+The form should be emailed to candidatemalpractice@pearson.com. Please provide 
+as much information and supporting documentation as possible. Note that the final 
+decision regarding appropriate sanctions lies with Pearson. 
+Failure to report candidate malpractice constitutes staff or centre malpractice. 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 59 
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate malpractice and 
+maladministration of our qualifications. As with candidate malpractice, staff and 
+centre malpractice is any act that compromises or seeks to compromise the process 
+of assessment or undermines the integrity of the qualifications or the validity of 
+results/certificates. 
+All cases of suspected staff malpractice and maladministration must be reported 
+immediately, before any investigation is undertaken by the centre, to Pearson on a 
+JCQ Form M2(a) (available at www.jcq.org.uk/exams-office/malpractice).  
+The form, supporting documentation and as much information as possible should be 
+emailed to pqsmalpractice@pearson.com. Note that the final decision regarding 
+appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More detailed guidance on malpractice can be found in the latest version of the 
+document General and Vocational Qualifications Suspected Malpractice in Examinations 
+and Assessments Policies and Procedures, available at www.jcq.org.uk/exams-
+office/malpractice. 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to comply with the 
+requirements of Ofqual's General Conditions of Recognition. 
+This GCSE qualification will be graded and certificated on a nine-grade scale from 9 to 
+1 using the total subject mark where 9 is the highest grade. Individual components 
+are not graded. 
+Students whose level of achievement is below the minimum judged by Pearson to be 
+of sufficient standard to be recorded on a certificate will receive an unclassified U 
+result. 
+The first certification opportunity for this qualification will be 2018. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 60 
+Student recruitment and progression 
+Pearson follows the JCQ policy concerning recruitment to our qualifications in that: 
+● they must be available to anyone who is capable of reaching the required standard 
+● they must be free from barriers that restrict access and progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this qualification. 
+Progression 
+Students can progress from this qualification to:  
+● further study of music at AS and A Level and to study of AS and A Level Music 
+Technology 
+● vocational courses such as the Pearson BTEC National in Music and Music 
+Technology 
+● apprenticeships or other training 
+● employment in a related sector.  
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 61 
+Appendices 
+Appendix 1: Performance Authentication Sheet 63 
+Appendix 2: Composition Authentication Sheet 63 
+Appendix 3: Music vocabulary list 64 
+Appendix 4: Suggested wider listening 74 
+Appendix 5: Command word taxonomy 75 
+Appendix 6: The context for the development of this qualification 76 
+Appendix 7: Transferable skills 78 
+Appendix 8: Codes 80 
+Appendix 9: Mark penalty tables for submissions not meeting the  
+minimum assessment time 81 
+ 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 62 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 63 
+Appendix 1: Performance Authentication Sheet  
+The Performance Authentication Sheet (PAS) must be completed by the teacher, and 
+signed by the student and teacher, authenticating that the work is the student’s own. 
+The form includes space to record the teacher/assessor’s marks, the duration of the 
+work and any comments on each of the performances.  
+Please download the form from our website. 
+ 
+Appendix 2: Composition Authentication Sheet 
+The Composition Authentication Sheet (CAS) must be completed by the teacher, and 
+signed by the student and teacher, authenticating that the work is the student’s own. 
+The form includes space to record the teacher/assessor’s marks, the duration of the 
+work and any comments on each of the compositions.  
+Please download the form from our website.   
+ 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 64 
+Appendix 3: Music vocabulary list 
+This music vocabulary list gives the vocabulary and terminology that support the 
+learning of musical elements, context and language. These words define the musical 
+elements, musical contexts and musical language that students will require to know 
+and understand when performing, composing and appraising pieces of music. 
+The list indicates the level and scope of technical language expected from students 
+at this level. The list is not exhaustive. The words listed may appear in the 
+examination paper and students should therefore know and understand them. The 
+musical elements are in bold. 
+Various words and expressions commonly used in performing, composing and 
+appraising music are not included. These include, for example, names of note values 
+(crotchet, minim, etc.) and common performance directions (allegro, crescendo, 
+rall/entando, etc). 
+For words and terms not defined below, and/or for further amplification, please 
+refer to The Harvard Dictionary of Music (4th edition, editor D. M. Randel, Harvard 
+University Press, 2003) and/or The Rhinegold Dictionary of Music in Sound by D. 
+Bowman (Rhinegold Education, 2002). 
+Students will be expected to recognise the sounds of all commonly-used orchestral, 
+keyboard and ‘popular’ instruments (such as electric guitar), and types of voice. Most 
+of these may be heard in the eight set works.  
+ 
+Word Definition 
+Musical elements 
+Organisation of 
+pitch (melodically 
+and harmonically) 
+‘Pitch’ refers to how high or low sounds are 
+Arpeggio An arpeggio has the notes of a chord played in succession 
+rather than together, strictly in continuously ascending or 
+descending order. The term ‘broken chord’ is sometimes 
+used as a synonym (the notes of the chord thus broken 
+often occurring in any order) 
+Cadence The chords that conclude a musical phrase. Cadences are of 
+four main types: perfect, with chords V‒I; imperfect, with I 
+(or other non-dominant chord) and V; plagal, with chords 
+IV‒I; interrupted, usually with V‒VI. (See ‘Roman numerals’ 
+below) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 65 
+Word Definition 
+Bass (line) The lowest part in the musical texture, which often 
+determines or generates the harmony. A Baroque ‘figured 
+bass’ has numerals underneath to indicate the chords to be 
+‘realised’ by the continuo keyboard player. A ‘murky’ bass 
+has a pattern of broken octaves (as in parts of Beethoven’s 
+Pathétique sonata) 
+Chord The simultaneous sounding together of two or more notes. 
+Often used to refer to the triads in major and minor keys 
+Conjunct Synonym for ‘stepwise’ (see below)  
+Disjunct Opposite of conjunct (or its synonym ‘stepwise’) 
+Dissonance In traditional harmony a dissonance is a note that does not 
+belong to a common chord or triad – strict rules usually 
+govern its approach and its resolution back to a non-
+dissonant note (i.e. a ‘consonance’)  
+Chord sequence A series of chords, usually repeated (e.g. in a 12-bar blues) 
+Drone Especially in non-classical genres, the extended sustaining 
+or repeating of a note or a harmonic interval (notably a 
+perfect 5th) 
+Fanfare A flourish for brass instruments (frequently with 
+percussion) for ceremonial or celebratory effect, or simply 
+any short passage for brass in an orchestral work 
+Ground bass A repeating phrase in the bass (a type of ‘ostinato’), 
+especially in some Baroque pieces, notably by Purcell 
+Harmony Successions of chords (or sometimes refers to single 
+chords) 
+Interval The distance between two neighbouring notes or two heard 
+simultaneously. Most intervals are stated as ordinal 
+numbers (2nds, 3rds, etc.) with an adjective expressing their 
+major, minor, diminished or augmented character 
+Leap A melodic movement to a note further than a tone or 
+semitone away from the previous note. Opposite of ‘step’ 
+Melody A melody (or ‘melodic line’) is a succession of single sounds 
+– most frequently an individual strand or part within a fuller 
+musical texture. A melody is usually ‘tuneful’ or otherwise 
+prominent or memorable 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 66 
+Word Definition 
+Melodic device A compositional method applying to a single melodic line 
+rather than to the complete texture (for example melodic 
+sequence)  
+Monotone Use of the same pitch repeatedly in a melodic part 
+Ornamentation The process of elaborating or decorating musical material 
+(particularly a melody). Includes conventional ornaments 
+such as trills and turns 
+Ostinato A short musical pattern repeated throughout a section or 
+complete piece 
+Pedal (or pedal 
+point) 
+A note (usually in the bass, and generally either the tonic or 
+dominant of the key) which is sustained or repeated while 
+chords change, often resulting in dissonance 
+Riff Similar to ostinato, but applied to popular styles of music  
+Roman numerals Roman numerals (from I to VII) are used to label chords in 
+traditional harmony according to which degree of the scale 
+is used as the root. Thus in C major, the chord D F A (with 
+root D) is II 
+Scale A succession of pitches in stepwise order usually extending 
+for an octave (e.g. C D E F G A B C is a (major) scale) 
+Sequence Repetition of a melody (or an harmonic progression) but at 
+different pitch level(s) rather than at the same pitch 
+Stepwise Where a melody moves by steps (by tones and/or 
+semitones) and not by leaps (of a 3rd or more) 
+Theme A melody (or occasionally some other form of musical 
+material) on which part or all of a piece is based 
+Tonality The relationship of notes within a scale or mode to a 
+principal note (the tonic or final). A wider term than key but 
+often used synonymously with it 
+Atonal Absence of tonality or key  
+Chromatic Chromatic notes are those progressing by semitones, 
+especially to a tone having the same letter name, e.g. C to C 
+sharp 
+Dominant (key) The key a perfect 5th higher than the tonic (‘home’) key of a 
+piece (e.g. D major in a G major piece)  
+Key A form of tonality based on major and minor scales 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 67 
+Word Definition 
+Major Based on major scales, with a major 3rd between scale 
+degrees 1 and 3.  
+Minor Based on minor scales, with a minor 3rd between scale 
+degrees 1 and 3  
+Modal Tonality based on modes (precursors of modern scales ‒ of 
+several types, each with a different series of tones and 
+semitones) 
+Modulation Change of key 
+Pentatonic Based on a five-note scale (often equivalent to scale 
+degrees 1, 2, 3, 5, 6 of a major scale, or 1, 3, 4, 5, (flat) 7 of a 
+minor scale) 
+Relative 
+minor/major 
+Major keys and their relative minors have the same key 
+signature (e.g. F major and D minor). Minor keys and their 
+relative majors have the same key signature (e.g. E minor 
+and G major) 
+Form, structure The overall shape of a composition (e.g. binary. ternary, 
+rondo). ‘Form’ and ‘structure’ are largely synonymous 
+Binary A form with two sections (often referred to as A and B), each 
+usually repeated. The A section usually modulates from the 
+tonic to dominant or relative major. The B section returns to 
+the tonic, usually via other keys 
+Introduction An opening passage or section which clearly prepares for 
+(or introduces) the first main idea (e.g. in a song where the 
+piano has an introduction before the singer begins) 
+Phrase A short passage of music to some extent comparable to a 
+phrase in speaking or writing. Many phrases are two or four 
+bars long  
+Rondo A form comprising several statements of a main section 
+interspersed with contrasting episodes. The simplest rondo 
+structure was ABACA, where A is the recurring section, and 
+B and C are the episodes 
+Sonata form A large-scale form which evolved in the Classical period. It 
+combines elements of binary form, and ternary form (in 
+having exposition, development and recapitulation) 
+Ternary A form with three sections (often referred to as A B A). The 
+opening section is repeated (exactly or varied), section B 
+providing pronounced contrast 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 68 
+Word Definition 
+Strophic A strophic song has the same (or similar) music for each 
+stanza of the poem being set. (A song in which some or all 
+stanzas are set differently is ‘through-composed’) 
+Sonority The nature and quality of musical sounds 
+Articulation The degree to which a note is separated from the note that 
+follows it (ranging from minimal (legato) to much greater 
+(staccato or staccatissimo) 
+Timbre The particular tone colour of an instrument or voice 
+Texture The number of parts in a piece of music and how they relate 
+to one another. Several types of texture are listed below 
+Accompaniment Musical background to a principal part or parts (e.g. piano 
+accompanying a solo singer) 
+Continuo (or Basso 
+continuo) 
+The bass line in many Baroque orchestral, choral and 
+chamber works. Most commonly played by low string 
+instruments (with or without bassoons) and with a chord-
+playing instrument (notably harpsichord, organ or lute) to 
+complete the harmony by realising the figured bass 
+Heterophony Where two or more parts play the same melodic line 
+simultaneously, but there are small variations between 
+them. The adjective is ‘heterophonic’ 
+Homophony A widely-used type of texture consisting of a melody part 
+and other subsidiary (accompanying) parts. The adjective is 
+‘homophonic’ 
+Monophony Music in which only one note is heard at a time – a single 
+melodic line. The adjective is ‘monophonic’ 
+Polyphony In one sense any texture with two or more parts, but 
+commonly used as a synonym for ‘counterpoint’ where 
+there are two or more simultaneous and largely 
+independent melody lines. The adjective is ‘polyphonic’ 
+Two-part Music for two ‘parts’ (i.e. for two melodic lines, and 
+therefore with two notes sounding simultaneously except 
+where one or both rest). ‘Three-part’ and ‘four-part’ music 
+have three and four parts respectively 
+Imitation Two or more parts share the same melodic idea (not 
+necessarily in full, exactly or at the same pitch). Each new 
+part enters separately, the preceding one continuing with 
+shared or new material 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 69 
+Word Definition 
+Tempo, metre and 
+rhythm 
+‘Tempo’ is the speed of the music, (which may be, for 
+example, slow, quick, or lively). ‘Metre’, often indicated by a 
+time signature, concerns the pattern and number of strong 
+and weak beats (e.g. 2/4 metre has two crotchets per bar, 
+the first ‘strong’, the second ‘weak’). ‘Rhythm’ refers more 
+broadly to the relationship between sounds and the 
+passage of time, and often concerns conventional 
+groupings (e.g. ‘dotted rhythms’, as defined below). 
+Beat Most music has a regular beat rather as most people have a 
+regular pulse. Small numbers of beats are generally 
+grouped into bars. Some beats, notably the first of a bar, 
+are ‘strong’ or ‘accented’, others, notably the last, are ‘weak’ 
+or ‘unaccented’. Some rhythms come ‘off the beat’: further, 
+see ‘syncopation’  
+Dotted rhythm The term ‘dotted rhythm’ is usually applied to a pair of 
+notes consisting of a dotted note and a shorter note (the 
+two making up a complete beat or number of beats), or to 
+several successive such pairs of notes 
+Duration In rhythmic terms, the length of a note 
+Shuffle A rhythm based on the shuffle dance step, characteristically 
+featuring alternately long and short notes (within triplet 
+groupings) 
+Swing A jazz style that incorporates swung rhythms 
+Swung rhythm Two notes of the same value (usually quavers) are played 
+with the first lengthened and the second correspondingly 
+shortened (as often in jazz) 
+Syncopation A ‘strong’ or stressed note occurs on a part of a bar or beat 
+that would normally be ‘weak’ or unstressed 
+Triplets Three notes of equal value taking the time normally 
+occupied by two notes of the same written value (or by one 
+undotted note of the next highest value) 
+Dynamics The volume of musical sound(s), and also the symbols used 
+in a score to indicate volume (e.g. f and p) 
+Accent Notes may be given special prominence by the addition of 
+accent marks (e.g. › )  
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 70 
+Word Definition 
+Performance matters 
+Solo A complete piece (or a section) for one player or singer with 
+no accompaniment, or for one player or singer with 
+accompaniment 
+Tone (quality) The quality of a performer’s sound (which may be termed 
+rich, rounded, thin, etc.) 
+Forces The instrument(s) and/or voice(s) that perform the music 
+Ensemble Defined, for purposes of GCSE performance, in the ‘Content’ 
+section of Component 1: Performing  
+Double (verb) Doubling occurs where one performer consistently plays or 
+sings the same notes as another – strictly speaking at the 
+same octave, but duplication at the octave may be involved 
+Double stopping Where two (or more) notes are played together on an 
+orchestral string instrument (two or more strings being 
+‘stopped’ simultaneously). 
+Glissando A slide between adjacent notes of a chromatic or diatonic 
+scale. The terms glissando and portamento are to some 
+extent interchangeable, but a portamento involves 
+movements smaller than a semitone (such as a singer can 
+achieve but a pianist cannot) 
+Hammer on A guitar technique used to facilitate fast playing by avoiding 
+the need to pick every note 
+Harmonics Each sound combines a fundamental and a series of much 
+less clearly heard higher pitches called harmonics. With 
+stringed instruments these can be sounded by lightly 
+touching a string at particular points (rather than by normal 
+‘stopping’)  
+Improvisation A piece composed as it is performed, although frequently 
+based on a pre-conceived ‘stimulus’ such as a melodic 
+theme or chord scheme 
+Melisma(tic) A melisma is a group of notes used to set just one syllable 
+of text. The adjective is ‘melismatic’. Where each syllable has 
+one note, the style is ‘syllabic’ 
+Pull off A guitar technique: a string is plucked by ‘pulling’ the string 
+off the fingerboard with a finger used to fret the note 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 71 
+Word Definition 
+Range The distance between the lowest and highest notes in a 
+single melodic part. (A soprano part working between 
+middle C and the C above has a range – or ‘compass’ – of an 
+octave) 
+Tessitura The most widely used part of a vocal or instrumental part’s 
+range 
+Wah wah The Wah wah (or Harmon) mute, as used with trumpets and 
+trombones. The name is onomatopoeic – the resulting 
+sound can be rather like ‘wah wah’. The same result can be 
+obtained via music technology as a studio effect 
+Phrasing The correct observance of divisions between whole phrases 
+and sometimes shorter groups of notes (often to accord 
+with a composer’s phrase markings)  
+Pizzicato Where the string(s) of a stringed instrument are plucked 
+rather than bowed. The direction ‘pizzicato’ in the score is 
+cancelled by ‘arco’, meaning ‘[with] the bow’ 
+Professional 
+reference recording 
+A recording of a piece submitted for Component 1 in lieu of 
+a score – with the performance and the recording of 
+professional standard  
+Realisation Defined in specification under Component 1, Content  
+Sequenced 
+compositions 
+Compositions produced mainly or entirely via electronic 
+sequencing software 
+Skeleton score  A kind of notational summary – a visual aid for students in 
+appraising examinations. It usually shows most or all of a 
+single leading part rather than the complete texture  
+Tablature Notation other than staff notation with letters, numbers or 
+other conventional signs – today used particularly by 
+guitarists 
+Tremolo 
+(tremolando) 
+Rapid repetition of a single note or of notes a 3rd or more 
+apart 
+Lyrics Words to which a song is set (applies to music in popular 
+styles) 
+‘Words’, ‘Text’ or 
+‘Poem’ 
+Words to which a song is set (applies to music in Western 
+Classical styles) 
+Word painting Word painting occurs when a composer deliberately 
+illustrates a word or phrase with a matching musical image 
+(e.g. by having rising notes for ‘ascending’) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 72 
+ 
+Word Definition 
+Historical periods, styles and genres 
+Baroque Music in the Western Classical Tradition from c1600‒c1750.  
+Cantata A work (sacred or secular, and particularly associated with 
+the Baroque period) in several movements for singer(s) and 
+instruments 
+classical (with  
+lower-case c) 
+Describes music from the Western Classical Tradition 
+generally (Baroque, Classical, Romantic, etc.). ‘Classical’ with 
+upper-case C can refer to Music in the Western Classical 
+Tradition from c1750‒c1820 
+(Solo) concerto A work for soloist and orchestra, usually in three 
+movements 
+Concerto grosso A type of concerto favoured in the Baroque period, 
+commonly with three soloists and orchestra 
+Fusion The blending of more than one musical style or culture to 
+create a new ‘fused’ sound (e.g. Afro-Cuban) 
+Genre A type of piece (e.g. opera, rock, concerto) 
+Gigue The term covers both a fast Baroque dance and pieces 
+suggestive of that dance (rather than necessarily intended 
+for use in the dance). A gigue is normally in compound 
+metre (such as 12/8) 
+Jazz Originally a fusion of African and North American styles. A 
+number of varieties of jazz have developed over time, 
+including New Orleans, swing, bebop 
+March Originally a march was for soldiers to march to – usually in 
+4/4 time, with regular and often repetitive rhythms. Now 
+used for any piece of similar character designed, for 
+example, for ceremonial or processional use   
+Musical theatre Musical theatre integrates songs, spoken dialogue, acting, 
+and dance, within a popular idiom. ‘Musicals’ are extended 
+pieces of musical theatre from which favourite songs are 
+often performed separately 
+Oral tradition Music learnt by listening and repeating, and passed on 
+orally 
+Prelude Especially in the Baroque period, an ‘introductory’ piece 
+preceding (an)other piece(s). Later preludes are often just 
+short stand-alone pieces 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 73 
+Word Definition 
+Rock Emerged in the 1950s as ‘rock and roll’, and subsequently 
+developed into a range of different popular styles 
+Samba A dance characteristic of Brazil, but with its roots in Africa. 
+Usually quick, with frequent use of the syncopated rhythm 
+semiquaver-quaver-semiquaver  
+Sonata A fairly extended composition, usually in three or four 
+movements, with one or more (particularly the first) in 
+sonata form. Many sonatas are for solo piano 
+Suite A group of pieces, all or some of which are usually in 
+Baroque or Classical dance styles 
+Terms for music technology 
+Chorus effect An effect used to simulate the small variations of pitch and 
+timing experienced when several performers play or sing 
+the same part 
+Flanger A flanger is an effects unit that creates ‘flanging’, an audio 
+effect which involves mixing together two identical signals, 
+one of them delayed by a small, gradually changing amount 
+Multi-track 
+recording 
+Recording different audio channels to separate ‘tracks’ (one 
+by one or simultaneously) for greater ease and 
+effectiveness of processing than when all information is 
+stored on a single track 
+Over-dubbing Adding more recorded sounds to a previously-made 
+recording, with the intention of enhancing it 
+Pitch shift Where the original pitch of a sound is raised or lowered, 
+often by means of an effects unit called a ‘pitch shifter’ 
+Re-take A new recording of a section or piece intended to replace a 
+previous unsatisfactory one  
+(Studio) effects Methods of artificially creating sounds, or of modifying or 
+enhancing recorded sounds, through use of music 
+technology  
+Track (1) An individual song, piece or movement on a recording 
+(e.g. on a CD). (2) A path on a magnetic recording tape (or a 
+computerised recording system) that receives or contains 
+information from a single audio channel 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 74 
+Appendix 4: Suggested wider listening 
+The following pieces of suggested wider listening music provide examples of music 
+from each area of study for component 3. They are not compulsory to study. 
+These pieces can support students in understanding the music from the areas of 
+study in a wider context and in appraising pieces of unfamiliar music. 
+Area of study Suggested wider listening 
+Instrumental Music 
+1700–1820 
+● G F Handel: Concerto Grosso op 6 no. 5, second 
+movement 
+● A Vivaldi: ‘Winter’ from the Four Seasons concerti 
+● W A Mozart: Piano Sonata in C major K.545, first 
+movement 
+● F J Haydn: Piano sonata in C major ‘English Sonata’ Hob 
+50, third movement 
+Vocal Music ● G F Handel: ‘The Trumpet Shall Sound’ (bass), ‘Rejoice 
+Greatly’ (soprano) and ‘Every Valley’ (tenor) from 
+Messiah  
+● J S Bach: ‘Weichet nur, betrubte Schatten’ and ‘Sehet in 
+Zufriedenheit’ from wedding Cantata 
+● Beach Boys: ‘God only Knows’ from Pet Sounds 
+● Alicia Keys: ‘If I ain’t got you’ and ‘Dragon Days’ from 
+The Diary of Alicia Keys 
+Music for Stage and 
+Screen 
+● Tim Minchin: ‘Naughty’ from Matilda 
+● Marc Shaiman: ‘Mama, I’m a Big Girl Now’ from 
+Hairspray 
+● Deborah Lurie: ‘The Pier’, ‘Walk on the Beach’ and ‘Dear 
+John Letter’, from Dear John 
+● Howard Shore: ‘The Prophecy’, ‘Concerning Hobbits’, 
+‘The Bridge of Khazad-dum’ and ‘The Breaking of the 
+Fellowship’ from The Lord of the Rings the Fellowship 
+of the Ring 
+Fusions ● Capercaillie: Beautiful Wasteland 
+● Demet Akalin: ‘Pirlanta’ and ‘Ders Olsun’ from Pirlanta 
+● Buena Vista Social Club: Buena Vista Social Club 
+● Dizzy Gillespie y Machito: Afro-Cuban Jazz Moods 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 75 
+Appendix 5: Command word taxonomy 
+The following words are the command words that will appear in examination papers, 
+and their definitions. 
+ 
+Command word Definition  
+State, give, name, 
+identify, list 
+Give one or more points. Recall or find factual information 
+Complete Dictation questions, for example, to fill in blanks on a score 
+Describe Give points which may or may not be linked 
+When linked there will be a correct order 
+Explain Give points that are linked to a justification or extension 
+Compare Make points about the similarities and differences 
+Make relative judgements 
+Analyse Examine, dissect musical elements in detail 
+Focus on individual musical elements and how they 
+combine to create an effect/achieve a purpose 
+Evaluate Make judgements against parameters 
+Draw conclusions 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 76 
+Appendix 6: The context for the development of 
+this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+● reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+● consulting with key stakeholders on content and assessment, including higher 
+education academics, teachers and employers to ensure this qualification is 
+suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their documents: GCSE (9 to 1)/GCE Qualification Level Conditions and Requirements,  
+GCSE Subject Level Conditions and Requirements for Music, published in March 2015, 
+and GCSE Subject Level Guidance for Music, published in March 2015. 
+ 
+ 
+[1] Pearson’s World Class Qualification Principles ensure that our qualifications are: 
+• demanding, through internationally benchmarked standards, encouraging deep learning and measuring higher-order 
+skills 
+• rigorous, through setting and maintaining standards over time, developing reliable and valid assessment tasks and 
+processes, and generating confidence in end users of the knowledge, skills and competencies of certified students 
+• inclusive, through conceptualising learning as continuous, recognising that students develop at different rates and have 
+different learning needs, and focusing on progression 
+• empowering, through promoting the development of transferable skills, see Appendix 7. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 77 
+  
+From Pearson’s Expert Panel for World Class Qualifications 
+May 2014   
+“ The reform of the qualifications system in England is a profoundly important change to the 
+education system. Teachers need to know that the new qualifications will assist them in helping 
+their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an ‘Expert 
+Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or because of our 
+experience in reforming qualifications in other systems around the world as diverse as 
+Singapore, Hong Kong, Australia and a number of countries across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification development 
+process that has included: 
+• Extensive international comparability of subject content against the highest-performing 
+jurisdictions in the world 
+• Benchmarking assessments against UK and overseas providers to ensure that they are at 
+the right level of demand 
+• Establishing External Subject Advisory Groups, drawing on independent subject-specific 
+expertise to challenge and validate our qualifications 
+• Subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future oriented. The 
+design has been guided by what is called an ‘Efficacy Framework’, meaning learner outcomes 
+have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a learner’s success 
+in education. As a result of our work as a panel we are confident that we have supported the 
+development of qualifications that are outstanding for their coherence, thoroughness and 
+attention to detail and can be regarded as representing world-class best practice. 
+”  
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong  
+Director, National Institute of Education, 
+Singapore 
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, Switzerland 
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+All titles correct as at May 2014 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 78 
+Appendix 7: Transferable skills 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines skills, 
+or competencies, as ‘the bundle of knowledge, attributes and capacities that can be 
+learned and that enable individuals to successfully and consistently perform an 
+activity or task and can be built upon and extended through learning.’ 
+[1] 
+To support the design of our qualifications, the Pearson Research Team selected and 
+evaluated seven global 21st-century skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the most 
+evidence-based and robust skills framework. We adapted the framework slightly to 
+include the Program for International Student Assessment (PISA) ICT Literacy and 
+Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: [2]  
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and communicate. [3]  
+Interpersonal skills 
+● Communication – active listening, oral communication, written communication, 
+assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, service 
+orientation, self-presentation, social influence, conflict resolution and negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+ 
+[1]  OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+[2]  Koenig J A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop (National Academies Press, 2011) 
+[3]  PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 79 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher 
+education, as well as the demands of the workplace, and are important in the 
+teaching and learning of this qualification. We will provide teaching and learning 
+materials, developed with stakeholders, to support our qualifications. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 80 
+Appendix 8: Codes 
+Type of code Use of code Code 
+Discount codes Every qualification eligible for 
+performance tables is assigned a 
+discount code indicating the subject area 
+to which it belongs. 
+Discount codes are published by DfE.  
+Please see the 
+GOV.UK website* 
+Regulated 
+Qualifications 
+Framework 
+(RQF) codes 
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a Qualification 
+Number (QN). This is the code that 
+features in the DfE Section 96 and on the 
+LARA as being eligible for 16–18 and 19+ 
+funding, and is to be used for all 
+qualification funding purposes. The QN 
+will appear on students’ final certification 
+documentation. 
+The QN for this 
+qualification is: 
+601/8204/0 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. 
+Centres will need to use the entry codes 
+only when claiming students’ 
+qualifications. 
+GCSE – 1MU0 
+ 
+Component 
+codes 
+These codes are provided for reference 
+purposes. Students do not need to be 
+entered for individual components. 
+Component 1: 
+1MU0/01 
+Component 2: 
+1MU0/02 
+Component 3: 
+1MU0/03 
+*www.gov.uk/government/publications/2018-performance-tables-discount-codes 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 81 
+Appendix 9: Mark penalty tables for submissions 
+not meeting the minimum assessment time  
+Component 1: Performance  
+The minimum assessment time is four minutes. The following table will be applied by 
+Pearson during the moderation period for any work that is below the minimum 
+assessment time. 
+For Pearson use only. 
+Total time of the performances 
+(minutes and seconds) 
+Percentage applied to final mark 
+3:45 to 3:59 93.75%  
+3:30 to 3:44 87.50%  
+3:15 to 3:29 81.25%  
+3:00 to 3:14 75.00%  
+2:45 to 2:59 68.75%  
+2:30 to 2:44 62.50%  
+2:15 to 2:29 56.25%  
+2:00 to 2:14 50.00%  
+1:45 to 1:59 43.75% 
+1:30 to 1:44 37.50%   
+1:15 to 1:29 31.25% 
+1:00 to 1:14 25.00% 
+0:45 to 0:59 18.75% 
+0:30 to 0:44 12.50% 
+0:15 to 0:29 6.25% 
+0:00 to 0:14 0.00% 
+ 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Music –  
+Specification – Issue 4 – December 2021 © Pearson Education Limited 2021 82 
+Component 2: Composition  
+The minimum assessment time is three minutes. The following table will be applied 
+by Pearson during the moderation period for any work that is below the minimum 
+assessment time. 
+For Pearson use only. 
+Total time of the compositions 
+(minutes and seconds) 
+Percentage applied to final mark 
+2:45 to 2:59 91.67%  
+2:30 to 2:44 83.33%  
+2:15 to 2:29 75.00%  
+2:00 to 2:14 66.67%  
+1:45 to 1:59 58.33%  
+1:30 to 1:44 50.00%  
+1:15 to 1:29 41.67% 
+1:00 to 1:14 33.33% 
+0:45 to 0:59 25.00% 
+0:30 to 0:44 16.67% 
+0:15 to 0:29 8.33% 
+0:00 to 0:14 0.00% 
+ 
+DB02/12/21 9781446926116_GCSE 2016_L12_MUSIC_ISS4.DOCX.1–88/0 
+ 
+ 
+Edexcel, BTEC and LCCI qualifications 
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK’s largest awarding body offering 
+academic and vocational qualifications that are globally recognised and benchmarked. For further 
+information, please visit our qualifications website at qualifications.pearson.com. Alternatively, you can 
+get in touch with us using the details on our contact us page at qualifications.pearson.com/contactus 
+ 
+About Pearson 
+Pearson is the world's leading learning company, with 22,500 employees in more than 70 countries 
+working to help people of all ages to make measurable progress in their lives through learning. We put 
+the learner at the centre of everything we do, because wherever learning flourishes, so do people. Find 
+out more about how we can help you and your learners at qualifications.pearson.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party material made in this specification are made in good faith. Pearson does not 
+endorse, approve or accept responsibility for the content of materials, which may be subject to change, or 
+any opinions expressed therein. (Material may include textbooks, journals, magazines and other publications 
+and websites.) 
+All information in this specification is correct at time of publication. 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 92611 6 
+All the material in this publication is copyright 
+© Pearson Education Limited 2021 
+ 
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office:  80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121

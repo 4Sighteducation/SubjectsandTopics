@@ -35,6 +35,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import Select
 
 
 ROOT = __import__("pathlib").Path(__file__).resolve().parents[3]
@@ -146,42 +147,18 @@ def load_subjects_from_index() -> List[SQASubject]:
     soup = BeautifulSoup(r.text, "html.parser")
     main = soup.find("main") or soup
 
-    # Prefer the explicit "National Qualifications subjects" list section if present.
-    heading = None
-    for tag in main.find_all(["h1", "h2", "h3"]):
-        txt = " ".join(tag.get_text(" ", strip=True).split())
-        if txt.lower() == "national qualifications subjects":
-            heading = tag
-            break
-
-    candidates: List[tuple[str, str]] = []
-    if heading:
-        ul = heading.find_next("ul")
-        if ul:
-            for a in ul.find_all("a", href=True):
-                candidates.append((" ".join(a.get_text(" ", strip=True).split()), (a.get("href") or "").strip()))
-
-    # Fallback: scrape numeric relative links in main (kept strict), then filter by a few heuristics.
-    if not candidates:
-        for a in main.find_all("a", href=True):
-            name = " ".join(a.get_text(" ", strip=True).split())
-            href = (a.get("href") or "").strip()
-            if not name or not href:
-                continue
-            if not re.fullmatch(r"\d+\.html", href):
-                continue
-            candidates.append((name, href))
-
+    # Most reliable source in static HTML: numeric relative links like "45723.html".
+    # This yields the full subject list plus one non-subject ("National Qualifications") which we exclude.
     out: List[SQASubject] = []
     seen: set[str] = set()
-    for name, href in candidates:
+    for a in main.find_all("a", href=True):
+        name = " ".join(a.get_text(" ", strip=True).split())
+        href = (a.get("href") or "").strip()
         if not name or not href:
             continue
-        low = name.lower()
-        # Filter obvious nav/help links that sometimes share the same numeric-link pattern.
-        if low in {"national qualifications", "about national qualifications", "about sqa"}:
+        if not re.fullmatch(r"\d+\.html", href):
             continue
-        if "enquiries" in low or "opportunities" in low or "generative ai" in low:
+        if name.strip().lower() == "national qualifications":
             continue
 
         url = _norm_url(href, SQA_SUBJECT_INDEX)
@@ -194,7 +171,34 @@ def load_subjects_from_index() -> List[SQASubject]:
     return out
 
 
-def _get_level_links_with_fallback(session: requests.Session, driver: webdriver.Chrome, subject_url: str) -> Dict[str, str]:
+def _maybe_select_subject_from_dropdown(driver: webdriver.Chrome, *, subject_name: str) -> bool:
+    """
+    Some pages (e.g. Modern Languages) redirect multiple subjects into one hub page
+    with a 'Select subject' dropdown. If the target subject exists as an option, select it.
+    Returns True if we selected something.
+    """
+    wanted = (subject_name or "").strip().lower()
+    if not wanted:
+        return False
+    selects = driver.find_elements(By.CSS_SELECTOR, "select")
+    for sel_el in selects:
+        try:
+            sel = Select(sel_el)
+            options = [(o.text or "").strip() for o in sel.options]
+            # If the subject appears as an option, select it.
+            match = next((t for t in options if t.strip().lower() == wanted), None)
+            if match:
+                sel.select_by_visible_text(match)
+                time.sleep(1.8)
+                return True
+        except Exception:
+            continue
+    return False
+
+
+def _get_level_links_with_fallback(
+    session: requests.Session, driver: webdriver.Chrome, *, subject_url: str, subject_name: str
+) -> Dict[str, str]:
     """
     Some SQA subject pages don't expose the level tab links reliably in static HTML.
     Try requests first (fast), then fall back to Selenium if needed.
@@ -204,9 +208,10 @@ def _get_level_links_with_fallback(session: requests.Session, driver: webdriver.
     if links:
         return links
 
-    # Selenium fallback (loads any JS-rendered nav)
+    # Selenium fallback (loads any JS-rendered nav and handles redirect hubs like Modern Languages)
     driver.get(subject_url)
     time.sleep(1.2)
+    _maybe_select_subject_from_dropdown(driver, subject_name=subject_name)
     html = driver.page_source
     return _extract_level_links(html, subject_url)
 
@@ -434,6 +439,11 @@ def main() -> int:
         action="store_true",
         help="Only process subject/level pairs missing topics in staging (topics=0).",
     )
+    parser.add_argument(
+        "--reprocess-bad",
+        action="store_true",
+        help="Reprocess subject/level pairs that contain forbidden boilerplate headings as topics (Course overview/skills/etc).",
+    )
     parser.add_argument("--headless", action="store_true", help="Run Chrome headless (default)")
     parser.add_argument("--no-headless", action="store_true", help="Run Chrome visible")
     args = parser.parse_args()
@@ -462,7 +472,12 @@ def main() -> int:
     try:
         for subj in subjects:
             try:
-                level_links = _get_level_links_with_fallback(session, driver, subj.subject_url)
+                level_links = _get_level_links_with_fallback(
+                    session,
+                    driver,
+                    subject_url=subj.subject_url,
+                    subject_name=subj.name,
+                )
                 targets = choose_target_levels(level_links)
                 if not targets:
                     print(f"[SKIP] {subj.name}: no National 5 / Higher / Advanced Higher tabs found")
@@ -473,7 +488,7 @@ def main() -> int:
                     if level not in targets:
                         continue
                     level_url = targets[level]
-                    if args.resume_missing and not args.dry_run:
+                    if (args.resume_missing or args.reprocess_bad) and not args.dry_run:
                         subject_code = f"SQA-{slugify_code(level)}-{slugify_code(subj.name)}"
                         try:
                             resp = (
@@ -495,8 +510,32 @@ def main() -> int:
                                 )
                                 cnt = getattr(cnt_resp, "count", None) if cnt_resp is not None else None
                                 cnt = cnt or 0
-                                if cnt > 0:
-                                    continue
+                                if args.resume_missing and cnt == 0:
+                                    pass  # proceed
+                                elif args.reprocess_bad:
+                                    # If any forbidden headings exist, proceed; otherwise skip.
+                                    rows = (
+                                        sb.table("staging_aqa_topics")
+                                        .select("topic_name")
+                                        .eq("subject_id", existing["id"])
+                                        .execute()
+                                        .data
+                                        or []
+                                    )
+                                    bad = False
+                                    for r in rows:
+                                        t = (r.get("topic_name") or "").strip().lower()
+                                        if not t:
+                                            continue
+                                        if t in _FORBIDDEN_TITLES_EXACT or any(t.startswith(p) for p in _FORBIDDEN_TITLES_PREFIX):
+                                            bad = True
+                                            break
+                                    if not bad:
+                                        continue
+                                else:
+                                    # resume-missing only: topics exist -> skip
+                                    if cnt > 0:
+                                        continue
                         except Exception:
                             # If the resume check fails for any reason, proceed to scrape rather than crashing.
                             pass

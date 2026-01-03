@@ -1,0 +1,117 @@
+1. Biology Paper 1
+
+1.1 The Nature and Variety of Living Organisms
+
+1.1.1 Characteristics of Living Organisms
+
+1.1.1.1 Nutrition
+1.1.1.2 Respiration
+1.1.1.3 Excretion
+1.1.1.4 Response to surroundings
+1.1.1.5 Movement
+1.1.1.6 Internal condition control
+1.1.1.7 Reproduction
+1.1.1.8 Growth and development
+
+1.1.2 Variety of Living Organisms
+
+1.1.2.1 Eukaryotic organisms
+1.1.2.1.1 Plants
+1.1.2.1.2 Animals
+1.1.2.1.3 Fungi
+1.1.2.1.4 Protoctists
+1.1.2.2 Prokaryotic organisms
+1.1.2.2.1 Bacteria
+1.1.2.3 Pathogens
+1.1.2.3.1 Fungi
+1.1.2.3.2 Bacteria
+1.1.2.3.3 Protoctists
+1.1.2.3.4 Viruses
+
+1.2 Structure and Functions in Living Organisms
+
+1.2.1 Level of Organisation
+
+1.2.1.1 Organelles
+1.2.1.2 Cells
+1.2.1.3 Tissues
+1.2.1.4 Organs
+1.2.1.5 Systems
+
+1.2.2 Cell Structure
+
+1.2.2.1 Structures: nucleus, cytoplasm, cell membrane, cell wall, mitochondria, chloroplasts, ribosomes, vacuole
+1.2.2.2 Functions of cell structures
+1.2.2.3 Similarities and differences between plant and animal cells
+1.2.2.4 Cell differentiation and specialised cells
+1.2.2.5 Stem cells in medicine
+
+1.2.3 Biological Molecules
+
+1.2.3.1 Chemical elements in carbohydrates, proteins, lipids
+1.2.3.2 Structure of carbohydrates, proteins, lipids
+1.2.3.3 Food tests for glucose, starch, protein, fat
+1.2.3.4 Enzymes
+1.2.3.4.1 Role in metabolic reactions
+1.2.3.4.2 Effect of temperature and pH on enzyme function
+1.2.3.4.3 Practical investigations on enzyme activity
+
+1.2.4 Movement of Substances
+
+1.2.4.1 Diffusion, osmosis, active transport
+1.2.4.2 Factors affecting movement of substances
+1.2.4.3 Practical investigations on diffusion and osmosis
+
+1.2.5 Nutrition
+
+1.2.5.1 Flowering Plants
+1.2.5.1.1 Photosynthesis process and importance
+1.2.5.1.2 Photosynthesis equations
+1.2.5.1.3 Factors affecting photosynthesis
+1.2.5.1.4 Leaf structure adaptations
+1.2.5.1.5 Mineral ions for plant growth
+1.2.5.1.6 Practical investigations on photosynthesis
+1.2.5.2 Humans
+1.2.5.2.1 Balanced diet components
+1.2.5.2.2 Sources and functions of nutrients
+1.2.5.2.3 Energy requirements variation
+1.2.5.2.4 Human alimentary canal structure and function
+1.2.5.2.5 Peristalsis
+1.2.5.2.6 Digestive enzymes
+1.2.5.2.7 Role of bile
+1.2.5.2.8 Small intestine adaptations for absorption
+1.2.5.2.9 Practical investigation: energy content in food
+
+1.2.6 Respiration
+
+1.2.6.1 ATP production
+1.2.6.2 Aerobic vs anaerobic respiration
+1.2.6.3 Respiration equations
+1.2.6.4 Practical investigation: carbon dioxide and heat evolution from respiration
+
+1.2.7 Gas Exchange
+
+1.2.7.1 Flowering Plants
+1.2.7.1.1 Diffusion in gas exchange
+1.2.7.1.2 Gas exchange in respiration and photosynthesis
+1.2.7.1.3 Leaf structure adaptations for gas exchange
+1.2.7.1.4 Role of stomata
+1.2.7.1.5 Net gas exchange and light intensity
+1.2.7.1.6 Practical investigation: effect of light on gas exchange
+1.2.7.2 Humans
+1.2.7.2.1 Thorax structure
+1.2.7.2.2 Role of intercostal muscles and diaphragm in ventilation
+1.2.7.2.3 Alveoli adaptations for gas exchange
+1.2.7.2.4 Biological consequences of smoking
+1.2.7.2.5 Practical investigation: breathing and exercise
+
+1.2.8 Transport
+
+1.2.8.1 Unicellular Organisms
+1.2.8.1.1 Diffusion for substance movement
+1.2.8.2 Flowering Plants
+1.2.8.2.1 Role of phloem and xylem
+1.2.8.2.2 Water absorption by root hair cells
+1.2.8.2.3 Transpiration process
+1.2.8.2.4 Factors affecting transpiration rate
+1.2.8.2.5 Practical investigation: environmental factors and transpiration

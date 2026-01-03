@@ -56,11 +56,10 @@ SELECT
   t.topic_code,
   t.topic_name,
   t.topic_level,
-  t.sort_order,
   CASE WHEN t.parent_topic_id IS NULL THEN 'Root' ELSE 'Child' END as hierarchy
 FROM staging_aqa_topics t
 JOIN staging_aqa_subjects s ON t.subject_id = s.id
-ORDER BY s.exam_board, s.subject_name, t.topic_level, t.sort_order
+ORDER BY s.exam_board, s.subject_name, t.topic_level, t.topic_code
 LIMIT 50;
 
 -- ========================================

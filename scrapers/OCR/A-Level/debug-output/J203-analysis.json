@@ -1,0 +1,47 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": false,
+        "compulsory": [],
+        "optional": []
+    },
+    "texts": {
+        "has_texts": false,
+        "text_locations": [],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": [
+            "Criminal Psychology",
+            "Development",
+            "Psychological Problems",
+            "Social Influence",
+            "Memory",
+            "Sleep and Dreaming",
+            "Research Methods"
+        ],
+        "organization": "Each component consists of three topics with research methods included in both.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "Studies and applications in psychology 1 (01)",
+            "Studies and applications in psychology 2 (02)"
+        ],
+        "content_mapping": {
+            "Studies and applications in psychology 1 (01)": "Criminal Psychology, Development, Psychological Problems, Research Methods",
+            "Studies and applications in psychology 2 (02)": "Social Influence, Memory, Sleep and Dreaming, Research Methods"
+        },
+        "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting content related to the main sections and their subtopics, ensuring to capture the research methods content that is embedded within each component."
+}
+```

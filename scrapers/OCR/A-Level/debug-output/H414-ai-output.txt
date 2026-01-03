@@ -1,0 +1,30 @@
+1 Module 2: Foundations in geology
+1.1 2.1 Minerals and rocks
+1.1.1 2.1.1 Minerals
+1.1.1.1 (a) minerals as naturally occurring elements and inorganic compounds whose composition can be expressed as a chemical formula
+1.1.1.2 (b) rock-forming silicate minerals as crystalline materials built up from silicon–oxygen tetrahedra to form frameworks, sheets or chains and which may have a range of compositions (qualitative only)
+1.1.1.3 (c) the diagnostic physical properties of rock-forming minerals in hand specimens
+1.1.1.3.1 (i) the diagnostic physical properties of rock-forming minerals in hand specimens
+1.1.1.3.2 (ii) the classification of samples, photographs and thin section diagrams
+1.1.2 2.1.2 Igneous rocks
+1.1.2.1 (a) the classification of igneous rocks on the basis of their composition
+2 Module 3: Global tectonics
+2.1 3.1 Earth structure
+2.1.1 3.1.1 The physical structure of the Earth
+2.1.1.1 (a) the layered structures of the Earth as defined by the rheological properties of the layers
+2.1.1.2 (b) how the variation in P and S wave velocities provides indirect evidence to identify layers within the Earth and how their paths through the Earth produces the P wave and S wave shadow zones
+2.1.1.3 (c) the lithosphere as a rigid, brittle layer made of the crust and part of the upper mantle, which is divided into plates
+2.1.1.4 (d) how evidence from gravity anomalies and isostasy provides indirect evidence to determine the behaviour of the lithosphere and asthenosphere
+2.1.1.5 (e) how indirect evidence from electromagnetic (EM) surveys may be used to identify the lithosphere and asthenosphere at mid-ocean ridges
+2.1.1.6 (f) the nature of the asthenosphere as a rheid, plastic layer with 1–5% partial melting
+2.1.1.7 (g) how the density of the whole Earth and the rocks at the surface provide indirect evidence to infer the density of the core and mantle rocks
+2.1.1.8 (h) the probable geodynamo origin of the Earth’s magnetic field which provides indirect evidence for the subdivision of the core
+2.1.2 3.1.2 The origin of the Earth’s structure
+2.1.2.1 (a) the bulk composition of the Earth and how it is inferred from the composition of meteorites (chondrites) and the Sun
+2.1.2.2 (b) a qualitative explanation of the nebular hypothesis for the formation of the solar system and the Earth
+2.1.2.3 (c) the transfer of geothermal energy from:
+2.1.2.3.1 (i) heat of formation by the Earth
+2.1.2.3.2 (ii) radioactive decay within the Earth
+2.1.2.4 (d) the Goldschmidt classification of elements into four groups and a qualitative understanding of the preferred formation of states of substances (oxides and sulfides)
+2.1.2.5 (e) the differentiation of the Earth into layers of distinct composition and density by the partitioning of each of the Goldschmidt groups between the crust, mantle, core, and atmosphere and hydrosphere
+2.1.2.6 (f) the geochemical layered structure of the Earth as defined by the mineral composition of the layers and how the composition of these layers is inferred from direct evidence

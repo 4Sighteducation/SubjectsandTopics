@@ -1,0 +1,134 @@
+{
+  "Business - GCSE": {
+    "subject": "Business",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/business-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/qiobeu0d/eduqas-gcse-business-spec-from-2017.pdf"
+  },
+  "Art and Design - GCSE": {
+    "subject": "Art and Design",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/art-and-design-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/ozvlit0g/eduqas-gcse-art-and-design-spec-from-2016-27-01-2020.pdf"
+  },
+  "Computer Science - GCSE": {
+    "subject": "Computer Science",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/computer-science-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/tf3bvmxe/eduqas-gcse-computer-science-specification-10-02-2020.pdf"
+  },
+  "Design and Technology - GCSE": {
+    "subject": "Design and Technology",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/design-and-technology-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/25tlhhbw/gcse-design-and-technology-specification.pdf"
+  },
+  "Drama - GCSE": {
+    "subject": "Drama",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/drama-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/hydhvd02/eduqas-gcse-drama-spec-from-2016-e-270824.pdf"
+  },
+  "Electronics - GCSE": {
+    "subject": "Electronics",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/electronics-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/0phdotb0/eduqas-gcse-electronics-spec-from-2017-e-181224.pdf"
+  },
+  "English Language - GCSE": {
+    "subject": "English Language",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/english-language-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/jiqhw5kd/gcse-english-language-spec-comparison.pdf"
+  },
+  "English Literature - GCSE": {
+    "subject": "English Literature",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/english-literature-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/x2zpzwgt/eduqas-gcse-english-lit-spec-from-2015-e.pdf"
+  },
+  "Film Studies - GCSE": {
+    "subject": "Film Studies",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/film-studies-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/oblk51zi/eduqas-gcse-film-studies-spec-from-2017-e-01.pdf"
+  },
+  "Food Preparation and Nutrition - GCSE": {
+    "subject": "Food Preparation and Nutrition",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/food-preparation-and-nutrition-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/4zjdq104/eduqas-gcse-food-preparation-nutrition-spec-from-2016.pdf"
+  },
+  "French - GCSE": {
+    "subject": "French",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/french-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/0gqg4xeh/eduqas-gcse-french-spec-from-2016-e-01-08-23.pdf"
+  },
+  "Geology - GCSE": {
+    "subject": "Geology",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/geology-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/zhun0mwl/eduqas-gcse-geology-spec.pdf"
+  },
+  "German - GCSE": {
+    "subject": "German",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/german-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/zefdynrq/eduqas-gcse-german-spec-from-2016-e-01-08-23.pdf"
+  },
+  "History - GCSE": {
+    "subject": "History",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/history-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/qhsb4fdj/eduqas-gcse-history-spec-from-2016-e-160725.pdf"
+  },
+  "Latin - GCSE": {
+    "subject": "Latin",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/latin-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/1onbd1yb/eduqas-gcse-latin-spec-from-2016-e-170925.pdf"
+  },
+  "Mathematics - GCSE": {
+    "subject": "Mathematics",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/mathematics-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/cosjcbs1/eduqas-gcse-maths-spec-from-2015-e.pdf"
+  },
+  "Media Studies - GCSE": {
+    "subject": "Media Studies",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/media-studies-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/x3wbjgp1/eduqas-gcse-media-studies-spec-from-2017-e.pdf"
+  },
+  "Music - GCSE": {
+    "subject": "Music",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/music-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/akxduier/eduqas-gcse-music-spec-from-2016-e-050225.pdf"
+  },
+  "Physical Education - GCSE": {
+    "subject": "Physical Education",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/physical-education-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/ukinjoyx/eduqas-gcse-physical-education-spec-from-2016-e-02-10-20.pdf"
+  },
+  "Religious Studies - GCSE": {
+    "subject": "Religious Studies",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/religious-studies-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/xqlaj4yq/eduqas-gcse-rs-spec-short-from-2016-e-1109.pdf"
+  },
+  "Sociology - GCSE": {
+    "subject": "Sociology",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/sociology-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/jk2duibm/eduqas-gcse-sociology-spec-from-2017-eng.pdf"
+  },
+  "Spanish - GCSE": {
+    "subject": "Spanish",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/spanish-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/2ryknb1s/eduqas-gcse-spanish-spec-from-2016-e-01-08-23.pdf"
+  }
+}

@@ -1,0 +1,35 @@
+1.1 P3.1 Static and charge
+1.1.1 P3.1a describe that charge is a property of all matter and that there are positive and negative charges
+1.1.1.1 the understanding that in most bodies there are an equal number of positive and negative charges resulting in the body having zero net charge
+1.1.2 P3.1b describe the production of static electricity, and sparking, by rubbing surfaces, and evidence that charged objects exert forces of attraction or repulsion on one another when not in contact
+1.1.2.1 the understanding that static charge only builds up on insulators
+1.1.3 P3.1c explain how transfer of electrons between objects can explain the phenomena of static electricity
+1.1.4 P3.1d explain the concept of an electric field and how it helps to explain the phenomena of static electricity
+1.1.4.1 how electric fields relate to the forces of attraction and repulsion
+1.1.5 P3.1e recall that current is a rate of flow of charge (electrons) and the conditions needed for charge to flow
+1.1.5.1 conditions for charge to flow: source of potential difference and a closed circuit
+1.1.6 P3.1f recall that current has the same value at any point in a single closed loop
+1.1.7 P3.1g recall and use the relationship between quantity of charge, current and time
+
+2.1 P3.2 Simple circuits
+2.1.1 P3.2a describe the differences between series and parallel circuits
+2.1.1.1 positioning of measuring instruments in circuits
+2.1.1.2 descriptions of the behaviour of energy, current and potential difference
+2.1.2 P3.2b represent d.c. circuits with the conventions of positive and negative terminals, and the symbols that represent common circuit elements
+2.1.2.1 cells, power supply, diodes
+2.1.2.2 LDRs, NTC thermistors, filament lamps, ammeter, voltmeter, fixed and variable resistors and switch
+2.1.3 P3.2c recall that current, I, depends on both resistance, R, and potential difference, V, and the units in which these are measured
+2.1.3.1 the definition of potential difference
+2.1.4 P3.2d recall and apply the relationship between I, R and V, and that for some resistors the value of R remains constant but that in others it can change as the current changes
+2.1.5 P3.2e explain that for some resistors the value of R remains constant but that in others it can change as the current changes
+2.1.6 P3.2f explain the design and use of circuits to explore such effects
+2.1.6.1 components such as wire of varying resistance, filament lamps, diodes, NTC thermistors and LDRs
+2.1.7 P3.2g use graphs to explore whether circuit elements are linear or non-linear
+2.1.8 P3.2h use graphs and relate the curves produced to the function and properties of circuit elements
+2.1.8.1 components such as wire of varying resistance, filament lamps, diodes, NTC thermistors and LDRs
+2.1.9 P3.2i explain why, if two resistors are in series the net resistance is increased, whereas with two in parallel the net resistance is decreased (qualitative explanation only)
+2.1.10 P3.2j calculate the currents, potential differences and resistances in d.c. series and parallel circuits
+2.1.10.1 components such as wire of varying resistance, filament lamps, diodes, NTC thermistors and LDRs
+2.1.11 P3.2k explain the design and use of d.c. circuits for measurement and testing purposes
+2.1.12 P3.2l explain how the power transfer in any circuit device is related to the potential difference across it and the current, and to the energy changes over a given time
+2.1.13 P3.2m apply the equations relating potential difference, current, quantity of charge, resistance, power, energy, and time, and solve problems for circuits which include resistors in series, using the concept of equivalent resistance

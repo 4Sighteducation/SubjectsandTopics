@@ -1,0 +1,164 @@
+2 Component 02: Religion and ethics
+2.1 1. Normative Ethical Theories: Religious Approaches
+2.1.1 Natural Law
+2.1.1.1 Aquinas’ natural law, including:
+2.1.1.1.1 telos
+2.1.1.1.1.1 origins of the significant concept of telos in Aristotle and its religious development in the writing of Aquinas
+2.1.1.1.2 the four tiers of law
+2.1.1.1.2.1 what they are and how they are related:
+2.1.1.1.2.1.1 Eternal Law: the principles by which God made and controls the universe and which are only fully known to God
+2.1.1.1.2.1.2 Divine Law: the law of God revealed in the Bible, particularly in the Ten Commandments and the Sermon on the Mount
+2.1.1.1.2.1.3 Natural Law: the moral law of God within human nature that is discoverable through the use of reason
+2.1.1.1.2.1.4 Human Law: the laws of nations
+2.1.1.1.3 the precepts
+2.1.1.1.3.1 what they are and how they are related
+2.1.1.1.3.2 the key precept (do good, avoid evil)
+2.1.1.1.3.3 five primary precepts (preservation of life, ordering of society, worship of God, education of children, reproduction)
+2.1.1.1.3.4 secondary precepts
+2.1.2 Contextual references
+2.1.2.1 Summa Theologica I-II (93–95)
+2.1.2.2 Aristotle Physics II 3
+2.1.2.3 Catechism of the Catholic Church 1954–1960
+2.1.2.4 Stanford Encycloedia of Philosophy (2005 rev.2011) Aquinas’ Moral, Political and Legal Philosophy, http://plato.stanford.edu/entries/aquinas-moral-political/
+2.1.3 Situation Ethics
+2.1.3.1 Fletcher’s situation ethics, including:
+2.1.3.1.1 agape
+2.1.3.1.1.1 origins of agape in the New Testament and its religious development in the writing of Fletcher
+2.1.3.1.2 the six propositions
+2.1.3.1.2.1 what they are and how they give rise to the theory of situation ethics and its approach to moral decision-making:
+2.1.3.1.2.1.1 Love is the only thing that is intrinsically good
+2.1.3.1.2.1.2 Love is the ruling norm in ethical decision-making and replaces all laws
+2.1.3.1.2.1.3 Love and justice are the same thing–justice is love that is distributed
+2.1.3.1.2.1.4 Love wills the neighbour’s good regardless of whether the neighbour is liked or not
+2.1.3.1.2.1.5 Love is the goal or end of the act and that justifies any means to achieve that goal
+2.1.3.1.2.1.6 Love decides on each situation as it arises without a set of laws to guide it
+2.1.3.1.3 the four working principles
+2.1.3.1.3.1 what they are and how they are intended to be applied:
+2.1.3.1.3.1.1 pragmatism: it is based on experience rather than on theory
+2.1.3.1.3.1.2 relativism: it is based on making the absolute laws of Christian ethics relative
+2.1.3.1.3.1.3 positivism: it begins with belief in the reality and importance of love
+2.1.3.1.3.1.4 personalism: persons, not laws or anything else, are at the centre of situation ethics
+2.1.3.1.4 conscience
+2.1.3.1.4.1 what conscience is and what it is not according to Fletcher, i.e. a verb not a noun; a term that describes attempts to make decisions creatively
+2.1.4 Contextual references
+2.1.4.1 Situation Ethics The New Morality
+2.1.4.2 Lewis, C.S. (1960 rev.2016) The Four Loves, William Collins, Chapter 6
+2.1.4.3 Messer, N. (2006) SCM Study guide: Christian Ethics, London: SCM, Chapter 1
+2.2 2. Normative Ethical Theories
+2.2.1 Kantian Ethics
+2.2.1.1 Kantian ethics, including:
+2.2.1.1.1 duty
+2.2.1.1.1.1 origins of the concept of duty (acting morally according to the good regardless of consequences) in deontological and absolutist approaches to ethics
+2.2.1.1.2 the hypothetical imperative
+2.2.1.1.2.1 what it is (a command to act to achieve a desired result) and why it is not the imperative of morality
+2.2.1.1.3 the categorical imperative and its three formulations
+2.2.1.1.3.1 what it is (a command to act that is good in itself regardless of consequences) and why it is the imperative of morality based on:
+2.2.1.1.3.1.1 Formula of the law of nature (whereby a maxim can be established as a universal law)
+2.2.1.1.3.1.2 Formula of the end in itself (whereby people are treated as ends in themselves and not means to an end)
+2.2.1.1.3.1.3 Formula of the kingdom of ends (whereby a society of rationality is established in which people treat each other as ends and not means)
+2.2.1.1.4 the three postulates
+2.2.1.1.4.1 what they are and why in obeying a moral command they are being accepted:
+2.2.1.1.4.1.1 Freedom
+2.2.1.1.4.1.2 Immortality
+2.2.1.1.4.1.3 God
+2.2.2 Contextual references
+2.2.2.1 Groundwork of the Metaphysic of Morals, Chapter 2
+2.2.2.2 Pojman, L. (2012) Discovering Right and Wrong, Stamford: Wadsworth, Chapter 8
+2.2.2.3 O’Neill, O. ‘Kantian Approaches to Some Famine Problems’ in ed. Shafer-Landau, R. (2013) Ethical Theory: An Anthology, Chichester: Wiley-Blackwell
+2.2.3 Utilitarianism
+2.2.3.1 Utilitarianism, including:
+2.2.3.1.1 utility
+2.2.3.1.1.1 the use of the significant concept of utility (seeking the greatest balance of good over evil, or pleasure over pain) in teleological and relativist approaches to ethics
+2.2.3.1.2 the hedonic calculus
+2.2.3.1.2.1 what it is (calculating the benefit or harm of an act through its consequences) and its use as a measure of individual pleasure
+2.2.3.1.3 act utilitarianism
+2.2.3.1.3.1 what it is (calculating the consequences of each situation on its own merits) and its use in promoting the greatest amount of good over evil, or pleasure over pain
+2.2.3.1.4 rule utilitarianism
+2.2.3.1.4.1 what it is (following accepted laws that lead to the greatest overall balance of good over evil, or pleasure over pain) and its use in promoting the common good
+2.2.4 Contextual references
+2.2.4.1 Bentham, J. (1789) An Introduction to the Principles of Morals and Legislation
+2.2.4.2 Mill, J.S. (1863) Utilitarianism
+2.2.4.3 Singer, P. (1993) Practical Ethics, Cambridge: Cambridge University Press
+2.2.4.4 Pojman, L. (2012) Discovering Right and Wrong, Stamford: Wadsworth, Chapter 7
+2.3 3. Applied Ethics
+2.3.1 Euthanasia
+2.3.1.1 Key ideas, including:
+2.3.1.1.1 sanctity of life
+2.3.1.1.1.1 the religious origins of this concept (that human life is made in God’s image and is therefore sacred in value)
+2.3.1.1.2 quality of life
+2.3.1.1.2.1 the secular origins of this significant concept (that human life has to possess certain attributes in order to have value)
+2.3.1.1.3 voluntary euthanasia
+2.3.1.1.3.1 what it is (that a person’s life is ended at their request or with their consent) and its use in the case of incurable or terminal illness
+2.3.1.1.4 non-voluntary euthanasia
+2.3.1.1.4.1 what it is (that a person’s life is ended without their consent but with the consent of someone representing their interests) and its use in the case of a patient who is in a persistent vegetative state
+2.3.2 Contextual references
+2.3.2.1 Glover, J. (1977) Causing Death and Saving Life, London: Penguin Books, Chapters 14 and 15
+2.3.2.2 Sacred Congregation for the Doctrine of the Faith (5th May 1980) Declaration on Euthanasia
+2.3.2.3 Singer, P. (1995) Rethinking Life and Death: The Collapse of our Traditional Ethics, Oxford: OUP, Chapter 7
+2.3.3 Business Ethics
+2.3.3.1 Key ideas, including:
+2.3.3.1.1 corporate social responsibility
+2.3.3.1.1.1 what it is (that a business has responsibility towards the community and environment) and its application to stakeholders, such as employees, customers, the local community, the country as whole and governments
+2.3.3.1.2 whistle-blowing
+2.3.3.1.2.1 what it is (that an employee discloses wrongdoing to the employer or the public) and its application to the contract between employee and employer
+2.3.3.1.3 good ethics is good business
+2.3.3.1.3.1 what it is (that good business decisions are good ethical decisions) and its application to shareholders and profit-making
+2.3.3.1.4 globalisation
+2.3.3.1.4.1 what it is (that around the world economies, industries, markets, cultures and policy-making is integrated) and its impact on stakeholders
+2.3.4 Contextual references
+2.3.4.1 Friedman, M. (September 13, 1970) ‘The Social Responsibility of Business is to Increase its Profits’, in The New York Times Magazine, The New York Times Company
+2.3.4.2 Crane, A. & Matten, D. (2003) Business Ethics, Oxford: OUP
+2.3.4.3 FTSE4Good [http://www.ftse.com/products/downloads/F4G-Index-Inclusion-Rules.pdf]
+2.4 4. Ethical Language: Meta-ethics
+2.4.1 Meta-ethical theories
+2.4.1.1 naturalism
+2.4.1.1.1 what it is (the belief that values can be defined in terms of some natural property in the world) and its application to absolutism
+2.4.1.2 intuitionism
+2.4.1.2.1 what it is (the belief that basic moral truths are indefinable but self-evident) and its application to the term good
+2.4.1.3 emotivism
+2.4.1.3.1 what it is (the belief that ethical terms evince approval or disapproval) and its application to relativism
+2.4.2 Contextual references
+2.4.2.1 Moore, G.E. (1903) Principia Ethica, Chapter II
+2.4.2.2 Ayer, A.J. (1936) Language, Truth and Logic, London: Victor Gollancz, Chapter 6
+2.4.2.3 Mackie, J.L. (1977) Ethics: Inventing Right and Wrong, London: Penguin Books, Part 1.3
+2.5 5. Significant Ideas
+2.5.1 Conscience
+2.5.1.1 Aquinas’ theological approach
+2.5.1.1.1 details of this approach, including:
+2.5.1.1.1.1 ratio (reason placed in every person as a result of being created in the image of God)
+2.5.1.1.1.2 synderesis (inner principle directing a person towards good and away from evil)
+2.5.1.1.1.3 conscientia (a person’s reason making moral judgements).
+2.5.1.1.1.4 vincible ignorance (lack of knowledge for which a person is responsible)
+2.5.1.1.1.5 invincible ignorance (lack of knowledge for which a person is not responsible)
+2.5.1.2 Freud’s psychological approach
+2.5.1.2.1 details of this approach, including:
+2.5.1.2.1.1 psychosexual development (early childhood awareness of libido)
+2.5.1.2.1.2 id (instinctive impulses that seek satisfaction in pleasure)
+2.5.1.2.1.3 ego (mediates between the id and the demands of social interaction)
+2.5.1.2.1.4 super-ego (contradicts the id and working on internalised ideals from parents and society tries to make the ego behave morally)
+2.5.2 Contextual references
+2.5.2.1 Aquinas, Summa Theologica I–I 79
+2.5.2.2 Freud, S. The Ego and the Id
+2.5.2.3 Fromm, E. (1947) Man for Himself: An Inquiry into the Psychology of Ethics London: Routledge, IV.2
+2.5.2.4 Internet Encyclopaedia of Philosophy, Sigmund Freud, http://www.iep.utm.edu/freud/
+2.5.2.5 Strohm, P. (2011) Conscience: A Very Short Introduction, Oxford University Press, Chapters 1 and 3
+2.6 6. Developments in Ethical Thought
+2.6.1 Sexual Ethics
+2.6.1.1 consideration of the following areas of sexual ethics:
+2.6.1.1.1 premarital and extramarital sex
+2.6.1.1.2 homosexuality
+2.6.1.2 the influence of developments in religious beliefs and practices on debates about the morality, legality and tolerability of these areas of sexual ethics
+2.6.1.2.1 traditional religious beliefs and practices (from any religious perspectives) regarding these areas of sexual ethics
+2.6.1.2.2 how these beliefs and practices have changed over time, including:
+2.6.1.2.2.1 key teachings influencing these beliefs and practices
+2.6.1.2.2.2 the ideas of religious figures and institutions
+2.6.1.3 the impact of secularism on these areas of sexual ethics
+2.6.1.4 application of the following theories to these areas of sexual ethics:
+2.6.1.4.1 natural law
+2.6.1.4.2 situation ethics
+2.6.1.4.3 Kantian ethics
+2.6.1.4.4 utilitarianism
+2.6.2 Contextual references
+2.6.2.1 Pope Paul VI (1968) Humanae Vitae
+2.6.2.2 Church of England House of Bishops (1991) Issues in Human Sexuality, London: Church House Publishing
+2.6.2.3 Mill, J.S. (1859) On Liberty, Chapter 1

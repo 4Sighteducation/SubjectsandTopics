@@ -1,0 +1,26 @@
+{
+  "completed": [
+    "IAL-Accounting",
+    "IAL-Arabic",
+    "IAL-Biology",
+    "IAL-Business",
+    "IAL-Chemistry",
+    "IAL-Economics",
+    "IAL-EnglishLanguage",
+    "IAL-EnglishLiterature",
+    "IAL-German",
+    "IAL-Greek",
+    "IAL-History",
+    "IAL-IT",
+    "IAL-Law",
+    "IAL-Mathematics",
+    "IAL-FurtherMaths",
+    "IAL-Physics",
+    "IAL-Psychology",
+    "IAL-Spanish"
+  ],
+  "failed": [
+    "IAL-French",
+    "IAL-Geography"
+  ]
+}

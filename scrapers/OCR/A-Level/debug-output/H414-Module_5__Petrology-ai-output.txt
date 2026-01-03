@@ -1,0 +1,54 @@
+5 Module 5: Petrology
+5.1 Applied sedimentology
+5.1.1 Sedimentary processes and resources
+5.1.1.1 (a) the sedimentary processes which are infrequent and/or difficult to observe but can be understood and explained using scientific principles
+5.1.1.1.1 (i) the sedimentary processes which are infrequent and/or difficult to observe but can be understood and explained using scientific principles
+5.1.1.1.2 (ii) practical investigations to model the processes of sedimentation
+5.1.1.2 (b) turbidity currents and how the Bouma turbidite model of deposition demonstrates the application of sedimentary principles
+5.1.1.3 (c) how simple (topset, foreset and bottom set) and more complex deltaic cyclothem models demonstrate the application of sedimentary principles
+5.1.1.4 (d) Walther’s law which relates vertical sequences in outcrop with the lateral facies changes seen in modern environments
+5.1.1.5 (e) the deposition of banded iron-formations (BIFs) under the different atmospheric and ocean chemistry in the Palaeoproterozoic, as an example of a geological resource produced by sedimentary processes
+5.2 Fluids and geological processes
+5.2.1 Fluids in rocks
+5.2.1.1 (a) how porosity controls the storage of fluids (water, oil and gas) in rocks
+5.2.1.1.1 (i) how porosity controls the storage of fluids (water, oil and gas) in rocks
+5.2.1.1.2 (ii) how permeability controls the movement of fluids through rocks
+5.2.1.2 (b) the application of Darcy’s law to model the flow of fluids in rocks
+5.2.1.3 (c) the controls on groundwater quality which result from geochemistry (carbonates and sulfates), aquifer filtration and residence time
+5.2.1.4 (d) the characteristics of subsurface geology which control the flow of groundwater (hydrogeology) including confined and unconfined aquifers, aquicludes, aquitards, the water table, piezometric surfaces and recharge zones
+5.3 Igneous petrology
+5.3.1 Igneous petrology
+5.3.1.1 (a) the substitution of elements for others in the crystal structure of minerals and as magma cools and crystallises
+5.3.1.1.1 (i) the substitution of elements for others in the crystal structure of minerals and as magma cools and crystallises
+5.3.1.1.2 (ii) the interpretation of continuous and discontinuous binary phase diagrams
+5.3.1.2 (b) the geological processes (assimilation, differentiation and fractionation) which cause magma composition to evolve and be modified
+5.3.1.3 (c) the formation of layered intrusions and metal ores by magmatic differentiation, as an example of a geological resource produced by igneous processes
+5.3.2 Mid-ocean ridges
+5.3.2.1 (a) the relationship between spreading rate and seabed morphology (water depth, fast and slow spreading mid-ocean ridges)
+5.3.2.1.1 (i) the relationship between spreading rate and seabed morphology (water depth, fast and slow spreading mid-ocean ridges)
+5.3.2.1.2 (ii) the calculation of numerical age using radioactive decay rates
+5.3.2.2 (b) the evidence for the internal structure and processes at mid-ocean ridges (ophiolite complexes and geophysical surveys: gravity, reflection seismic and geoelectrical)
+5.3.2.3 (c) the formation of oceanic crust, how mid-ocean ridges are formed, and the process of seafloor spreading at fast and slow spreading mid-ocean ridges
+5.3.2.4 (d) hydrothermal processes at mid-ocean ridges and the formation of massive sulfide metal ores as an example of a geological resource produced by hydrothermal processes
+5.4 Metamorphic petrology
+5.4.1 Metamorphic petrology
+5.4.1.1 (a) metamorphic grade and how the formation of different combinations of minerals can be used to reconstruct the conditions of metamorphism and infer the composition of the parent rock
+5.4.1.1.1 (i) metamorphic grade and how the formation of different combinations of minerals can be used to reconstruct the conditions of metamorphism and infer the composition of the parent rock
+5.4.1.1.2 (ii) the plotting and interpretation of isograds to reconstruct conditions of metamorphism
+5.4.1.2 (b) the formation of metamorphic fabrics as a result of directed stress and time during mountain building (orogeny) and the use of fabrics to reconstruct conditions of metamorphism
+5.4.1.2.1 (i) the formation of metamorphic fabrics as a result of directed stress and time during mountain building (orogeny) and the use of fabrics to reconstruct conditions of metamorphism
+5.4.1.2.2 (ii) the diagnostic properties of metamorphic fabrics in samples, photographs and thin section diagrams
+5.4.1.3 (c) how the composition of the parent rock and conditions (strain rate, temperature and pressure) at the time of rock deformation determine the nature of that rock deformation
+5.5 Mining geology
+5.5.1 Exploration for metals
+5.5.1.1 (a) the low crustal abundances of metals and the concentration factors that produce economic ore deposits
+5.5.1.2 (b) the concentration of copper ore minerals by the processes of secondary enrichment as a result of chemical weathering and chemical reactions above and below the water table
+5.5.1.3 (c) the concentration of ore in placer deposits in rivers and on beaches
+5.5.1.4 (d) geophysical exploration techniques used to find metals
+5.5.1.5 (e) geochemical exploration methods used to find metals
+5.5.1.6 (f) how existing data sets and follow-up surveys are integrated in geological prospecting, resource exploration and in defining the reserves
+5.5.2 Resource extraction and impacts
+5.5.2.1 (a) the principles, economics and sustainability of surface and underground mining operations
+5.5.2.2 (b) the principles, economics and sustainability of mineral processing operations
+5.5.2.3 (c) the causes and management of contaminated minewater, a source of pollution, from abandoned coal mines and metal ore mines
+5.5.2.4 (d) the geological controls on the use of former underground resource operations as repositories for the storage of waste products

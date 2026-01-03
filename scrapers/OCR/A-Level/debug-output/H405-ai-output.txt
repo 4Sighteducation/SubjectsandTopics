@@ -1,0 +1,281 @@
+Here is the extracted hierarchy from the provided OCR Design & Technology specification section for "Design and Technology: Fashion and Textiles (H405)":
+
+1. Identifying requirements
+   1.1 Considerations
+      1.1.1 What can be learnt by exploring contexts that design solutions are intended for?
+         1.1.1.1 Understand that all design practice is context dependent and that investigations are required to identify what makes a context distinct in relation to environment and surroundings
+         1.1.1.2 user requirements
+         1.1.1.3 economic and market considerations
+         1.1.1.4 product opportunities
+      1.1.2 What can be learnt by undertaking stakeholder analysis?
+         1.1.2.1 Demonstrate an understanding of methods used for investigating stakeholder requirements
+         1.1.2.2 user-centred design and stakeholder analysis
+         1.1.2.3 SWOT analysis
+         1.1.2.4 focus groups
+         1.1.2.5 qualitative observations
+         1.1.2.6 market research to identify gaps for new products or opportunities to update existing products
+      1.1.3 How can usability be considered when designing prototypes?
+         1.1.3.1 Analyse and evaluate factors that may need consideration in relation to the user interaction of a design solution
+         1.1.3.2 the impact of a solution on a user’s lifestyle
+         1.1.3.3 the ease of use and inclusivity of products
+         1.1.3.4 ergonomic considerations and anthropometric data to support ease of use
+         1.1.3.5 aesthetic considerations
+
+2. Learning from existing products and practice
+   2.1 Considerations
+      2.1.1 Why is it important to analyse and evaluate products as part of the design and manufacturing process?
+         2.1.1.1 Analyse and evaluate the features and methods used in existing products and design solutions to inform opportunities and constraints that may influence design decisions to offer product enhancement
+         2.1.1.2 the context of the existing product and the context of future design decisions
+         2.1.1.3 the multiple materials and components used
+         2.1.1.4 methods of construction and manufacture
+         2.1.1.5 how functionality is achieved
+         2.1.1.6 the ease of use, including ergonomic and anthropometric considerations
+         2.1.1.7 inclusivity of products and appropriate consideration of application to a wide variety of users
+         2.1.1.8 fitness for purpose
+         2.1.1.9 the impact on user lifestyles
+         2.1.1.10 the effect of trends, taste and/or style
+         2.1.1.11 the effect of marketing and branding
+         2.1.1.12 the considerations of how to get a product to market
+      2.1.2 Why is it important to understand technological developments in design engineering?
+         2.1.2.1 Critically evaluate how new and emerging technologies influence and inform the evolution and innovation of products and systems in both contemporary and potential future scenarios
+      2.1.3 Why is it important to understand both past and present developments in design engineering?
+         2.1.3.1 Recognise how past and present design engineers, technologies and design thinking have influenced the style and function of products from different perspectives
+         2.1.3.2 the impact on industry and enterprise
+         2.1.3.3 the impact on people in relation to lifestyle, culture and society
+         2.1.3.4 the impact on the environment
+         2.1.3.5 consideration of sustainability
+         2.1.3.6 Understand how key historical movements and figures and their methods have had an influence on future developments
+      2.1.4 What can be learnt by examining lifecycles of products?
+         2.1.4.1 Demonstrate an understanding of a product’s marketing lifecycle, from initial launch to decline in popularity
+         2.1.4.2 consideration of initial demand, growth in popularity and decline over time
+         2.1.4.3 methods used to create more demand and maintain a longer product popularity
+         2.1.4.4 new models of marketing and the influence of social media
+
+3. Implications of wider issues
+   3.1 Considerations
+      3.1.1 What factors need to be considered when designing and manufacturing products to overcome possible conflicts between moral and commercial factors?
+         3.1.1.1 Understand how social, ethical and environmental issues have influenced and been impacted by past and present developments in design practice and thinking
+         3.1.1.2 consideration of lifecycle assessment (LCA) at all stages of a product’s life from raw material to disposal
+         3.1.1.3 the source and origin of materials and the ecological and social footprint of materials
+         3.1.1.4 the depletion and effects of using natural sources of energy and raw materials
+         3.1.1.5 planned obsolescence
+         3.1.1.6 buying trends
+         3.1.1.7 environmental incentives and directives
+      3.1.2 What factors need to be considered when developing design solutions for manufacture?
+         3.1.2.1 Awareness of the responsibilities and principles of designing for manufacture (DFM)
+         3.1.2.2 planning for accuracy and efficiency through testing and prototyping
+         3.1.2.3 being aware of issues in relation to different scales of production
+         3.1.2.4 designing for repair and maintenance
+         3.1.2.5 designing with consideration of product life
+         3.1.2.6 Awareness of product lifecycle management and engineered lifespans considering system compatibility, the need for maintenance of machinery, product support and end of life (EOL)
+         3.1.2.7 Demonstrate an understanding of how environmental factors impact on sourcing and processing raw materials into a workable form
+         3.1.2.8 the disposal of waste, surplus materials and components, by-products of production including pollution related to energy
+         3.1.2.9 cost implications related to materials and process
+         3.1.2.10 Demonstrate an understanding of sustainability issues relating to industrial manufacture
+         3.1.2.11 fair trade and the Ethical Trade Initiative (ETI)
+         3.1.2.12 economic issues and globalisation
+         3.1.2.13 material sustainability and optimisation, availability, recycling and conservation schemes
+         3.1.2.14 exploring the impact and use of eco-materials
+         3.1.2.15 exploring how materials can be up-cycled
+
+4. Design thinking and communication
+   4.1 Considerations
+      4.1.1 How do designer engineers use annotated 2D and 3D sketching and digital tools to graphically communicate ideas?
+         4.1.1.1 Demonstrate an understanding of how to use annotated sketching and digital tools to graphically communicate ideas and sketch modelling to explore possible improvements
+         4.1.1.2 function, usability, construction, movement, stability, composition, strength
+         4.1.1.3 aesthetic qualities
+         4.1.1.4 manufacturing processes
+         4.1.1.5 suitability of materials and components
+      4.1.2 How do industry professionals use digital design tools to support and communicate the exploration, innovation and development of design ideas?
+         4.1.2.1 Demonstrate an understanding of how designers develop products using digital tools and online collaboration
+         4.1.2.2 discussing and exchanging ideas with specialists
+         4.1.2.3 developing designs concurrently with other designers
+         4.1.2.4 explaining and communicating their design decisions to stakeholders
+         4.1.2.5 Demonstrate an understanding of how digital design software, including CAD and CAE are used during product development
+         4.1.2.6 visual presentation, rendering and photo-quality imaging
+         4.1.2.7 product simulation and systems simulation
+         4.1.2.8 scientific analysis of real-world physical factors to determine whether a product will break or work the way it was intended
+      4.1.3 How do design engineers use different approaches to design thinking to support the development of design ideas?
+         4.1.3.1 Awareness of different strategies, techniques and approaches to explore, create and evaluate design ideas
+         4.1.3.2 iterative designing
+         4.1.3.3 user-centred design
+         4.1.3.4 circular economy
+         4.1.3.5 systems thinking
+         4.1.3.6 The importance of collaboration to gain specialist knowledge from across subject areas when delivering solutions in the design and manufacturing industries
+         4.1.3.7 Understand how design engineers use system design processes to define and develop systems that satisfy specified requirements of users using the three sub-tasks of user-interface design, data design, process design
+         4.1.3.8 Understand how design teams use different approaches to project management when faced with large projects, such as critical path analysis, scrum and six sigma
+
+5. Material and component considerations
+   5.1 Considerations
+      5.1.1 What factors influence the selection of materials that are used in products?
+         5.1.1.1 Understand that the selection of materials and components is influenced by a range of factors
+         5.1.1.2 functional performance
+         5.1.1.3 aesthetics
+         5.1.1.4 cost and availability
+         5.1.1.5 properties and characteristics
+         5.1.1.6 environmental considerations
+         5.1.1.7 social, cultural and ethical factors
+      5.1.2 What materials and components should be selected when designing and manufacturing products and prototypes in Design Engineering?
+         5.1.2.1 Understand that most products consist of multiple materials and that design engineers are required to discriminate between them appropriately for their use
+         5.1.2.2 ferrous, non-ferrous and alloy metals
+         5.1.2.3 thermo softening and thermosetting polymers
+         5.1.2.4 timbers and manufactured boards
+         5.1.2.5 textiles used for reinforcement and coverings
+         5.1.2.6 composite materials
+         5.1.2.7 smart materials
+         5.1.2.8 modern materials
+      5.1.3 Why is it important to consider the properties/characteristics of materials when designing and manufacturing products?
+         5.1.3.1 Understand the characteristics and properties of materials that are significant in Design Engineering
+         5.1.3.2 density, tensile strength, strength to weight ratio, hardness, durability, thermal and electrical conductivity, corrosion resistance, stiffness, elasticity, plasticity, impact resistance, malleability and ductility, machinability
+         5.1.3.3 Understand how the available forms, costs and properties of materials contribute to the decisions about suitability of materials when developing and manufacturing their own products
+
+6. Technical understanding
+   6.1 Considerations
+      6.1.1 What considerations need to be made about the structural integrity of a design solution?
+         6.1.1.1 Learners should understand how and why some materials and/or system components need to be reinforced or stiffened to withstand forces and stresses to fulfil the structural integrity of products
+         6.1.1.2 Learners should understand processes that can be used to ensure the structural integrity of a product
+         6.1.1.3 triangulation
+         6.1.1.4 reinforcing
+      6.1.2 How do mechanisms provide functionality to products and systems?
+         6.1.2.1 Demonstrate an understanding of the functions that mechanical devices offer to products, providing different types of motion
+         6.1.2.2 rotary
+         6.1.2.3 linear
+         6.1.2.4 reciprocating
+         6.1.2.5 oscillating
+         6.1.2.6 Demonstrate an understanding of devices and systems that are used to change the magnitude and direction of forces and torques
+         6.1.2.7 gears, cams, pulleys and belts, levers, linkages, screw threads, worm drives, sprockets, chain drives and belt drives
+         6.1.2.8 epicyclic gear systems
+         6.1.2.9 bearings and lubrication
+         6.1.2.10 efficiency in mechanical systems
+      6.1.3 What forces need consideration to ensure structural and mechanical efficiency?
+         6.1.3.1 Demonstrate an understanding of static and dynamic forces in structures and how to achieve rigidity
+         6.1.3.2 tension, compression, torsion and bending
+         6.1.3.3 stress, strain and elasticity
+         6.1.3.4 mass and weight
+         6.1.3.5 rigidity
+         6.1.3.6 modes of failure
+      6.1.4 How can electronic systems offer functionality to design solutions?
+         6.1.4.1 Demonstrate an understanding of how electronic systems provide input, control and output process functions
+         6.1.4.2 switches and sensors, to produce signals in response to a variety of inputs
+         6.1.4.3 programmable control devices
+         6.1.4.4 signal amplification
+         6.1.4.5 devices to produce a variety of outputs including light, sound, motion
+         6.1.4.6 Demonstrate an understanding of the function of an overall system, referring to aspects including passive components, inputs, process control, signal amplification, outputs, analogue and digital signals and conversion between them, open and closed loop systems including feedback in a system and how it affects the overall performance, sub-systems and systems thinking
+         6.1.4.7 Demonstrate an understanding of what can be gained from interfacing electronic circuits with mechanical and pneumatic systems and components
+         6.1.4.8 the ability to add electronic control as an input to mechanical or pneumatic output
+         6.1.4.9 the use of flow restrictors to control cylinder speed
+         6.1.4.10 the use of sensors to measure rotational speed, strain/force, distance
+         6.1.4.11 Demonstrate an understanding of networking and of communication protocols
+         6.1.4.12 wireless devices
+         6.1.4.13 embedded devices
+         6.1.4.14 smart objects
+         6.1.4.15 networking electronic products to exchange information
+         6.1.4.16 Demonstrate an understanding of the basic principles of electricity
+         6.1.4.17 voltage
+         6.1.4.18 current
+         6.1.4.19 Ohm’s law
+         6.1.4.20 power
+      6.1.5 How can programmable devices and smart technologies provide functionality in system design?
+         6.1.5.1 Demonstrate an understanding of how smart materials change the functionality of engineered products
+         6.1.5.2 colour changes, shape-shifting, motion control, self-cleaning and self-healing
+         6.1.5.3 Demonstrate an understanding of how programmable devices are used to add functionality to products, relating to coding of and specific applications of programmable components
+         6.1.5.4 how they incorporate enhanced features that can improve the user experience and solve problems in system design
+         6.1.5.5 how they use basic techniques for measuring, controlling, storing data and displaying information in practical situations
+         6.1.5.6 electronic prototyping platforms and integrated development environments (IDE) for simulation in virtual environments
+         6.1.5.7 the use of programmable components and microcontrollers found in products and systems, such as robotic arms or cars
+         6.1.5.8 creating flowcharts to describe processes and decisions within a process to control input and output components
+
+7. Manufacturing processes and techniques
+   7.1 Considerations
+      7.1.1 How can materials and processes be used to make iterative models?
+         7.1.1.1 Understand that 3D iterative models can be made from a range of materials and components to create block models and working prototypes to communicate and test ideas, moving parts and structural integrity
+         7.1.1.2 Demonstrate an understanding of simple processes that can be used to model ideas using hand tools and digital tools, such as rapid prototyping, or digital simulation packages
+      7.1.2 How can materials and processes be used to make final prototypes?
+         7.1.2.1 Understand how to select and safely use common workshop tools, equipment and machinery to manipulate materials by methods of wasting/subtraction processes such as cutting, drilling, turning, milling, addition processes such as soldering, brazing, welding, adhesives, fasteners, deforming and reforming processes such as bending, vacuum forming
+         7.1.2.2 Demonstrate an understanding of the role of computer-aided manufacture (CAM) and computer-aided engineering (CAE) to fabricate parts of a final prototype
+         7.1.2.3 additive manufacturing (3D printing) to fabricate a usable part
+         7.1.2.4 subtractive CNC manufacturing such as laser/plasma cutting, milling, turning and routing
+         7.1.2.5 Demonstrate an understanding of measuring instruments and techniques used to ensure that products are manufactured accurately or within tolerances as appropriate
+         7.1.2.6 Understand how the available forms, costs and working properties of materials contribute to the decisions about suitability of materials when developing and manufacturing their own products
+      7.1.3 How can materials and processes be used to make commercial products?
+         7.1.3.1 Demonstrate an understanding of the industrial processes and machinery used for manufacturing component parts in various materials
+         7.1.3.2 polymer moulding methods, such as injection moulding, blow moulding, compression moulding and thermoforming
+         7.1.3.3 metal casting methods such as sand casting and die casting
+         7.1.3.4 sheet metal forming methods using equipment such as punches, rollers, shears and stamping machines
+         7.1.3.5 Demonstrate an understanding of the industrial methods used for assembling electronic products
+         7.1.3.6 surface mount technology (SMT)
+         7.1.3.7 PCB assembly using solder stencils, pick-and-place machines and reflow soldering ovens
+         7.1.3.8 Demonstrate an understanding of the benefits and flexibility of using computer-controlled machinery during industrial production
+         7.1.3.9 automated material handling systems
+         7.1.3.10 robot arms to stack, assemble, join and paint parts
+         7.1.3.11 Understand the necessity for manufacturers to optimise the use of materials and production processes
+         7.1.3.12 economical cutting and costing, ensuring cost effective production for viability
+         7.1.3.13 working to a budget through efficient manufacture and making the best use of labour and capital throughout the design and manufacturing process
+      7.1.4 How is manufacturing organised and managed for different scales of production?
+         7.1.4.1 Understand how and why different production methods are used when manufacturing products, dependent on market demand
+         7.1.4.2 one-off and bespoke, batch and high volume production systems
+         7.1.4.3 modular/cell production systems
+         7.1.4.4 lean manufacturing
+         7.1.4.5 just-in-time manufacture
+         7.1.4.6 fully automated manufacture
+         7.1.4.7 Understand how ICT and digital technologies are changing modern manufacturing
+         7.1.4.8 customised manufacture systems
+         7.1.4.9 rapid prototyping
+         7.1.4.10 additive and digital manufacture methods
+         7.1.4.11 stock control, monitoring, purchasing logistics in industry
+      7.1.5 How is the quality of products controlled through manufacture?
+         7.1.5.1 Understand the processes that need to be undertaken to ensure products meet legal requirements and are high quality
+         7.1.5.2 quality control
+         7.1.5.3 quality assurance
+         7.1.5.4 ‘Total Quality Management’ (TQM)
+         7.1.5.5 European and British standards
+
+8. Viability of design solutions
+   8.1 Considerations
+      8.1.1 How can design engineers assess whether a design solution meets its stakeholder requirements?
+         8.1.1.1 Critically evaluating how a design solution has met its intended requirements
+         8.1.1.2 functionality
+         8.1.1.3 ease of use and inclusivity of the solution
+         8.1.1.4 user needs
+         8.1.1.5 Demonstrate an understanding of the needs and methods for testing design solutions with stakeholders throughout the design development, and when testing the success of a product or system
+         8.1.1.6 Demonstrate an understanding of the importance of testing the feasibility of getting a product to market including considerations of cost, packaging and appeal
+         8.1.1.7 Understanding the relevant standards that need to be meet and how to ensure these are delivered
+         8.1.1.8 those published by the British Standards Institute (BSI)
+         8.1.1.9 those published by the International Organisation for Standardisation (ISO) specific to the subject
+      8.1.2 How can design engineers assess whether a design solution meets the criteria of technical specifications?
+         8.1.2.1 Demonstrate an understanding of the methods and importance of undertaken physical testing on a product to ensure it meets the criteria it is meant to fulfil
+         8.1.2.2 functionality
+         8.1.2.3 accuracy
+         8.1.2.4 performance
+         8.1.2.5 Recognise how physical testing systems are integrated into the manufacturing process to test functionality
+         8.1.2.6 destructive and non-destructive methods
+         8.1.2.7 testing of materials for durability
+         8.1.2.8 testing models and prototypes for performance and fitness for purpose
+         8.1.2.9 testing products in use through different methods
+         8.1.2.10 consumer testing
+         8.1.2.11 virtual testing
+      8.1.3 How do design engineers and manufacturers determine whether design solutions are commercially viable?
+         8.1.3.1 Demonstrate an understanding of the value of feasibility studies to determine the likely factors that influence the commercial viability of a product to market
+         8.1.3.2 the design solution’s impact on user lifestyles
+         8.1.3.3 how well a product performs
+         8.1.3.4 technical difficulty of manufacture
+         8.1.3.5 stock availability of materials and components
+         8.1.3.6 costs and profit
+         8.1.3.7 timescales involved
+         8.1.3.8 promotion, brand awareness and advertising potential
+         8.1.3.9 balancing supply and demand
+         8.1.3.10 market analysis of similar products
+
+9. Health and safety
+   9.1 Considerations
+      9.1.1 How can safety be ensured when working with materials in a workshop environment?
+         9.1.1.1 Demonstrate an understanding of safe working practices in the workshop situation
+         9.1.1.2 understanding the need for risk assessments
+         9.1.1.3 identifying hazards and implementing control measures to minimise risks
+         9.1.1.4 Demonstrate an understanding of how to work safely with specialist tools, techniques, processes, equipment and machinery during the design and manufacture of products
+      9.1.2 What are the implications of health and safety legislation on product manufacture?
+         9.1.2.1 Demonstrate an understanding of how the regulatory and legislative framework in the Health and Safety at Work Act (HASAW) sets out duties of employers and employees in the product manufacturing industries
+         9.1.2.2 Control of Substances Hazardous to Health (COSHH)
+         9.1.2.3 Personal Protective Equipment at work regulations (PPE)
+         9.1.2.4 ensuring machinery is well maintained
+         9.1.2.5 The responsibility of manufacturers to appropriately label products and offer warranties to their consumers to deliver the correct levels of product assurance related to safety

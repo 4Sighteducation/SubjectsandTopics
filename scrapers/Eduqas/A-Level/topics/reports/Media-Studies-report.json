@@ -1,0 +1,251 @@
+{
+  "subject_name": "Media Studies",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/kprhs5jd/a-level-media-studies-specification.pdf",
+  "start_time": "2025-11-23T23:42:49.900679",
+  "success": true,
+  "topics_extracted": 114,
+  "levels": {
+    "0": 3,
+    "1": 5,
+    "2": 19,
+    "3": 87
+  },
+  "issues": [],
+  "warnings": [
+    "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+    "Not all components extracted"
+  ],
+  "success_grade": 70,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": true,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "examination, across Section A as a whole, there will always be"
+      },
+      {
+        "number": "1",
+        "name": "- the set products for assessment from 2024 have"
+      },
+      {
+        "number": "2",
+        "name": "- the set products for assessment from 2024 have"
+      },
+      {
+        "number": "1",
+        "name": "– mark allocations have been added to the"
+      },
+      {
+        "number": "1",
+        "name": "Media Products, Industries and Audiences 12"
+      },
+      {
+        "number": "2",
+        "name": "Media Forms and Products in Depth 25"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production 50"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production"
+      },
+      {
+        "number": "1",
+        "name": "Media Products, Industries and Audiences"
+      },
+      {
+        "number": "2",
+        "name": "Media Forms and Products in Depth"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production"
+      },
+      {
+        "number": "1",
+        "name": "– Media Products, Industries and Audiences"
+      },
+      {
+        "number": "2",
+        "name": "– Media Forms and Products in Depth"
+      },
+      {
+        "number": "3",
+        "name": "– Cross-Media Production"
+      },
+      {
+        "number": "3",
+        "name": "draws on the knowledge and understanding of the theoretical framework of media and the"
+      },
+      {
+        "number": "1",
+        "name": "Media Products, Industries and Audiences"
+      },
+      {
+        "number": "2",
+        "name": "genre"
+      },
+      {
+        "number": "2",
+        "name": "relative, dynamic and can be used in a hybrid way"
+      },
+      {
+        "number": "2",
+        "name": "genre conventions"
+      },
+      {
+        "number": "2",
+        "name": "(including Neale)"
+      },
+      {
+        "number": "2",
+        "name": "(including Todorov)"
+      },
+      {
+        "number": "2",
+        "name": "(including Baudrillard)"
+      },
+      {
+        "number": "2",
+        "name": "(including Butler)"
+      },
+      {
+        "number": "2",
+        "name": "Media Forms and Products in Depth"
+      },
+      {
+        "number": "1",
+        "name": "Component 1 Component 1"
+      },
+      {
+        "number": "1",
+        "name": "Component 1 Component 1"
+      },
+      {
+        "number": "1",
+        "name": "Component 1 Component 1"
+      },
+      {
+        "number": "1",
+        "name": "Component 1 Component 1"
+      },
+      {
+        "number": "1",
+        "name": "of reality"
+      },
+      {
+        "number": "1",
+        "name": "(including Bandura)"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production"
+      },
+      {
+        "number": "3",
+        "name": "is internally assessed and externally moderated. It assesses AO3: Create media"
+      },
+      {
+        "number": "3",
+        "name": "in order to apply media language appropriately (including the appropriate codes"
+      },
+      {
+        "number": "3",
+        "name": "may be carried forward. Should a learner choose"
+      },
+      {
+        "number": "1",
+        "name": "17.5% 17.5% - 35%"
+      },
+      {
+        "number": "2",
+        "name": "17.5% 17.5% - 35%"
+      },
+      {
+        "number": "3",
+        "name": "- - 30% 30%"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production"
+      },
+      {
+        "number": "3",
+        "name": "is internally assessed and externally moderated by WJEC."
+      },
+      {
+        "number": "3",
+        "name": "is 60."
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production"
+      },
+      {
+        "number": "1",
+        "name": "the set products for assessment from 2024 have"
+      },
+      {
+        "number": "2",
+        "name": "the set products for assessment from 2024 have"
+      },
+      {
+        "number": "1",
+        "name": "Media Products, Industries and Audiences 12"
+      },
+      {
+        "number": "2",
+        "name": "Media Forms and Products in Depth 25"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production 50"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production"
+      },
+      {
+        "number": "1",
+        "name": "Media Products, Industries and Audiences"
+      },
+      {
+        "number": "2",
+        "name": "Media Forms and Products in Depth"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production"
+      },
+      {
+        "number": "3",
+        "name": "- 30% 30%"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production"
+      },
+      {
+        "number": "3",
+        "name": "Cross-Media Production"
+      }
+    ],
+    "tiers": [],
+    "options": [
+      "1"
+    ],
+    "appendices": [
+      "Appendix B"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 30.79690957069397,
+  "end_time": "2025-11-23T23:43:20.697589"
+}

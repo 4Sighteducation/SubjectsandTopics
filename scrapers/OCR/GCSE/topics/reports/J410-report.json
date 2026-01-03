@@ -1,0 +1,74 @@
+{
+  "subject_code": "J410",
+  "subject_name": "History A (Explaining the Modern World)",
+  "url": "https://www.ocr.org.uk/Images/207163-specification-accredited-gcse-history-a-first-teaching-2019-with-first-assessment-2021-j410.pdf",
+  "start_time": "2025-11-20T13:49:32.776132",
+  "success": true,
+  "topics_extracted": 150,
+  "levels": {
+    "0": 1,
+    "1": 3,
+    "2": 12,
+    "3": 36,
+    "4": 96,
+    "5": 2
+  },
+  "issues": [
+    "Missing topics in level 0",
+    "Incorrect level assignment for some topics"
+  ],
+  "warnings": [
+    "Potential structure misalignment in level 5"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": true,
+      "compulsory": [],
+      "optional": [
+        "Component Group 1 (01–07): Period study and non-British depth study",
+        "Component Group 2 (08–10): British Thematic study",
+        "Component Group 3 (11–13): British depth study and a study of the historic environment"
+      ]
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Period study and non-British depth study",
+        "British Thematic study",
+        "British depth study and a study of the historic environment"
+      ],
+      "organization": "Component groups with linked studies",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "Period study and non-British depth study (01–07)",
+        "British Thematic study (08–10)",
+        "British depth study and a study of the historic environment (11–13)"
+      ],
+      "content_mapping": {
+        "Period study and non-British depth study (01–07)": "International Relations: the changing international order 1918–c.1975 and any one of the five non-British depth studies",
+        "British Thematic study (08–10)": "One of the three British thematic studies available",
+        "British depth study and a study of the historic environment (11–13)": "One of the three British depth studies and studies of the historic environment available"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting component groups and their linked studies, ensuring to capture the optional nature of the components.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:49:32.776141"
+}

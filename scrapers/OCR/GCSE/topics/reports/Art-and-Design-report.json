@@ -1,0 +1,174 @@
+{
+  "subject_name": "Art and Design",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/ozvlit0g/eduqas-gcse-art-and-design-spec-from-2016-27-01-2020.pdf",
+  "start_time": "2025-11-23T18:52:54.195390",
+  "success": true,
+  "topics_extracted": 29,
+  "levels": {
+    "0": 2,
+    "1": 4,
+    "2": 5,
+    "3": 7,
+    "4": 11
+  },
+  "issues": [],
+  "warnings": [
+    "Relatively few topics extracted",
+    "Not all components extracted"
+  ],
+  "success_grade": 75,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "13"
+      },
+      {
+        "number": "2",
+        "name": "14"
+      },
+      {
+        "number": "1",
+        "name": "Portfolio"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment"
+      },
+      {
+        "number": "1",
+        "name": "‘Portfolio’ encourages"
+      },
+      {
+        "number": "2",
+        "name": "‘Externally Set Assignment’ enables"
+      },
+      {
+        "number": "1",
+        "name": "by producing an appropriate outcome within a set time frame to demonstrate"
+      },
+      {
+        "number": "1",
+        "name": "and"
+      },
+      {
+        "number": "2",
+        "name": "and beyond."
+      },
+      {
+        "number": "1",
+        "name": "Portfolio"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment"
+      },
+      {
+        "number": "2",
+        "name": "work must be stored securely by the centre to"
+      },
+      {
+        "number": "1",
+        "name": "Portfolio"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment"
+      },
+      {
+        "number": "1",
+        "name": "Portfolio"
+      },
+      {
+        "number": "1",
+        "name": "is internally assessed and externally moderated. It will be marked out of"
+      },
+      {
+        "number": "1",
+        "name": "before the Externally Set Assignment is commenced in"
+      },
+      {
+        "number": "1",
+        "name": "to ensure that they"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment"
+      },
+      {
+        "number": "2",
+        "name": "is internally assessed and externally moderated. It will be marked out of 80:"
+      },
+      {
+        "number": "2",
+        "name": "It is essential that candidates’ responses are both personal and independent."
+      },
+      {
+        "number": "1",
+        "name": "and Component 2 internal marks must be submitted to WJEC by the"
+      },
+      {
+        "number": "1",
+        "name": "or component 2 and referring to the exemplar work available on the Eduqas"
+      },
+      {
+        "number": "1",
+        "name": "Portfolio (Total Marks = 120)"
+      },
+      {
+        "number": "1",
+        "name": "or component 2 and referring to the exemplar work available on the Eduqas"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment (Total Marks = 80)"
+      },
+      {
+        "number": "1",
+        "name": "Portfolio"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment"
+      },
+      {
+        "number": "1",
+        "name": "Portfolio"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment"
+      },
+      {
+        "number": "1",
+        "name": "Portfolio"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment"
+      },
+      {
+        "number": "1",
+        "name": "Portfolio (Total Marks = 120)"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment (Total Marks = 80)"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 21.87681746482849,
+  "end_time": "2025-11-23T18:53:16.072207"
+}

@@ -1,0 +1,205 @@
+{
+  "subject_name": "Geography",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/ln4locyz/eduqas-a-level-geography-spec-from-2016-e-24-01-2020.pdf",
+  "start_time": "2025-11-23T23:38:41.987649",
+  "success": true,
+  "topics_extracted": 121,
+  "levels": {
+    "0": 4,
+    "1": 14,
+    "2": 77,
+    "3": 26
+  },
+  "issues": [],
+  "warnings": [
+    "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+    "Not all components extracted"
+  ],
+  "success_grade": 70,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "11"
+      },
+      {
+        "number": "2",
+        "name": "19"
+      },
+      {
+        "number": "3",
+        "name": "26"
+      },
+      {
+        "number": "4",
+        "name": "37"
+      },
+      {
+        "number": "1",
+        "name": "Changing Landscapes and Changing Places"
+      },
+      {
+        "number": "2",
+        "name": "Global Systems and Global Governance"
+      },
+      {
+        "number": "3",
+        "name": "Contemporary Themes in Geography"
+      },
+      {
+        "number": "4",
+        "name": "Independent Investigation"
+      },
+      {
+        "number": "1",
+        "name": "learners will develop knowledge and understanding of core content"
+      },
+      {
+        "number": "2",
+        "name": "learners will develop knowledge and understanding of core content"
+      },
+      {
+        "number": "3",
+        "name": "learners will develop a critical understanding and in-depth"
+      },
+      {
+        "number": "4",
+        "name": "and consists of an independent investigation; it requires reflective, extended written"
+      },
+      {
+        "number": "1",
+        "name": "Changing Landscapes and Changing Places"
+      },
+      {
+        "number": "2",
+        "name": "Global Systems and Global Governance"
+      },
+      {
+        "number": "3",
+        "name": "Contemporary Themes in Geography"
+      },
+      {
+        "number": "4",
+        "name": "Independent Investigation"
+      },
+      {
+        "number": "1",
+        "name": "9% 6.5% 5% 20.5%"
+      },
+      {
+        "number": "2",
+        "name": "9.5% 10.5% 7.5% 27.5%"
+      },
+      {
+        "number": "3",
+        "name": "13.5% 15% 3.5% 32%"
+      },
+      {
+        "number": "4",
+        "name": "2.5% 5% 12.5% 20%"
+      },
+      {
+        "number": "1",
+        "name": "of either a"
+      },
+      {
+        "number": "3",
+        "name": "and also in the Independent Investigation in"
+      },
+      {
+        "number": "1",
+        "name": "Changing Landscapes (Coastal or Glaciated)"
+      },
+      {
+        "number": "1",
+        "name": "Changing Places"
+      },
+      {
+        "number": "2",
+        "name": "Water and Carbon Cycles"
+      },
+      {
+        "number": "2",
+        "name": "Global Governance: Change and Challenges"
+      },
+      {
+        "number": "4",
+        "name": "(non-exam assessment), the independent investigation."
+      },
+      {
+        "number": "1",
+        "name": "Changing Landscapes and Changing Places"
+      },
+      {
+        "number": "2",
+        "name": "Global Systems"
+      },
+      {
+        "number": "3",
+        "name": "Contemporary Themes in Geography"
+      },
+      {
+        "number": "4",
+        "name": "(non-exam assessment), the independent investigation."
+      },
+      {
+        "number": "1",
+        "name": "Changing Landscapes and Changing Places"
+      },
+      {
+        "number": "2",
+        "name": "Global Systems and Global Governance"
+      },
+      {
+        "number": "3",
+        "name": "Contemporary Themes in Geography"
+      },
+      {
+        "number": "4",
+        "name": "Independent Investigation"
+      },
+      {
+        "number": "1",
+        "name": "Changing Landscapes (Coastal or Glaciated)"
+      },
+      {
+        "number": "1",
+        "name": "Changing Places"
+      },
+      {
+        "number": "2",
+        "name": "Water and Carbon Cycles"
+      },
+      {
+        "number": "2",
+        "name": "Global Governance: Change and Challenges"
+      },
+      {
+        "number": "1",
+        "name": "Changing Landscapes and Changing Places"
+      },
+      {
+        "number": "2",
+        "name": "Global Systems"
+      },
+      {
+        "number": "3",
+        "name": "Contemporary Themes in Geography"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 34.23569178581238,
+  "end_time": "2025-11-23T23:39:16.223341"
+}

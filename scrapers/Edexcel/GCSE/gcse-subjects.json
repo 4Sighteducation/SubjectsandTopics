@@ -1,0 +1,213 @@
+[
+  {
+    "code": "GCSE-Arabic",
+    "name": "Arabic",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Arabic/2017/specification-and-sample-assessments/specification-gcse2017-l12-arabic-issue5.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/arabic-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Art",
+    "name": "Art and Design",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Art%20and%20Design/2016/specification-and-sample-assessments/specification-gcse-art-design-2016-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/art-and-design-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Astronomy",
+    "name": "Astronomy",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Astronomy/2017/Specification%20and%20sample%20assessments/gcse-astronomy-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/astronomy-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-BiblicalHebrew",
+    "name": "Biblical Hebrew",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/biblical-hebrew/2018/Specification%20and%20Sample%20Assessment%20Material/specification-gcse-l1-l2-in-biblical-hebrew1.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/biblical-hebrew-2018.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Business",
+    "name": "Business",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Business/2017/specification-and-sample-assessments/gcse-business-spec-2017.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/business-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Chinese",
+    "name": "Chinese",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Chinese/2017/specification-and-sample-assessments/specification-gcse2017-l12-chinese-issue5.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/chinese-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Citizenship",
+    "name": "Citizenship Studies",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Citizenship%20Studies/2016/Specification%20and%20sample%20assessments/specification-gcse-l1-l2-in-citizenship.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/citizenship-studies-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-CompSci",
+    "name": "Computer Science",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Computer%20Science/2020/specification-and-sample-assessments/GCSE_L1_L2_Computer_Science_2020_Specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/computer-science-2020.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-DT",
+    "name": "Design and Technology",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/design-and-technology/2017/specification-and-sample-assessments/Pearson_Edexcel_GCSE_9_to_1_in_Design_and_Technology_Specification_issue3.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/design-and-technology-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Drama",
+    "name": "Drama",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Drama/2016/Specification%20and%20sample%20assessments/gcse2016-l12-drama.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/drama-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-EnglishLang",
+    "name": "English Language",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/english-language-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-EnglishLit",
+    "name": "English Literature",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Literature/2015/specification-and-sample-assesment/9781446914359_GCSE_2015_L12_Englit.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/english-literature-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-French",
+    "name": "French",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/French/2024/specification-and-sample-assessments/gq000023-gcse-french-specification-2024-issue-2.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/french-2024.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-GeoA",
+    "name": "Geography A",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Geography-A/2016/specification-and-sample-assessments/gcse-2016-l12-geography-a-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/geography-a-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-GeoB",
+    "name": "Geography B",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Geography-B/2016/specification-and-sample-assessments/gcse-2016-l12-geography-b-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/geography-b-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-German",
+    "name": "German",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/German/2024/specification-and-sample-assessments/gq000025-gcse-german-specification-2024-issue-2.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/german-2024.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Greek",
+    "name": "Greek",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Greek/2017/specification-and-sample-assessments/specification-gcse2017-l12-greek-issue5.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/greek-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Gujarati",
+    "name": "Gujarati",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Gujarati/2018/specification-and-sample-assessment-material/specification-gcse2017-l12-gujarati-iss4.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/gujarati-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-History",
+    "name": "History",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/history-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Italian",
+    "name": "Italian",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Italian/2017/specification-and-sample-assessments/specification-gcse2017-l12-italian-issue5.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/italian-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Japanese",
+    "name": "Japanese",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Japanese/2017/specification-and-sample-assessments/specification-gcse2017-l12-japanese-issue5.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/japanese-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Maths",
+    "name": "Mathematics",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/mathematics-2015.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Music",
+    "name": "Music",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Music/2016/specification/Pearson_Edexcel_GCSE_9_to_1_in_Music_Specification_issue4.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/music-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Persian",
+    "name": "Persian",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Persian/2017/Specification%20and%20Sample%20Assessment%20Material/specification-gcse2017-l12-persian-iss4.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/persian-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-PE",
+    "name": "Physical Education",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Physical%20Education/2016/Specification%20and%20sample%20assessments/GCSE-physical-education-2016-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/physical-education-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Portuguese",
+    "name": "Portuguese",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Portuguese/2018/Specification-and-sample-assessments/specification-gcse2017-l12-portuguese-iss4.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/portuguese-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Psychology",
+    "name": "Psychology",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Psychology/2017/Specification%20and%20sample%20assessments/gcse-psychology-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/psychology-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-RSA",
+    "name": "Religious Studies A",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Religious%20Studies/2016/Specification%20and%20sample%20assessments/specification-gcse-l1-l2-religious-studies-a-june-2016-draft-4.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/religious-studies-a-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-RSB",
+    "name": "Religious Studies B",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Religious%20Studies/2016/Specification%20and%20sample%20assessments/specification-gcse-l1-l2-religious-studies-b-june-2016-draft-4.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/religious-studies-b-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Russian",
+    "name": "Russian",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Russian/2017/specification-and-sample-assessments/specification-gcse2017-l12-russian-issue5.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/russian-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Science",
+    "name": "Combined Science",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/combined-science-2016.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Spanish",
+    "name": "Spanish",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Spanish/2024/specification-and-sample-assessments/gq000027-gcse-spanish-specification-2024-issue-2.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/spanish-2024.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Statistics",
+    "name": "Statistics",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Statistics/2017/specification-and-sample-assessments/gcse-9-1-statistics-specification.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/statistics-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Turkish",
+    "name": "Turkish",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Turkish/2018/Specification-and-sample-assessments/specification-gcse2017-l12-turkish-iss4.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/turkish-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  },
+  {
+    "code": "GCSE-Urdu",
+    "name": "Urdu",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Urdu/2017/specification-and-sample-assessments/specification-gcse2017-l12-urdu-issue5.pdf",
+    "exam_materials_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/urdu-2017.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials"
+  }
+]
+

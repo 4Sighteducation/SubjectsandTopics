@@ -1,0 +1,98 @@
+1. The characteristics of contemporary processors, input, output and storage devices
+   1.1 Components of a computer and their uses
+      1.1.1 Structure and function of the processor
+         1.1.1.1 The Arithmetic and Logic Unit; ALU, Control Unit and Registers (Program Counter; PC, Accumulator; ACC, Memory Address Register; MAR, Memory Data Register; MDR, Current Instruction Register; CIR). Buses: data, address and control: how this relates to assembly language programs.
+         1.1.1.2 The Fetch-Decode-Execute Cycle; including its effects on registers.
+         1.1.1.3 The factors affecting the performance of the CPU: clock speed, number of cores, cache.
+         1.1.1.4 The use of pipelining in a processor to improve efficiency.
+         1.1.1.5 Von Neumann, Harvard and contemporary processor architecture.
+      1.1.2 Types of processor
+         1.1.2.1 The differences between and uses of CISC and RISC processors.
+         1.1.2.2 GPUs and their uses (including those not related to graphics).
+         1.1.2.3 Multicore and Parallel systems.
+      1.1.3 Input, output and storage
+         1.1.3.1 How different input, output and storage devices can be applied to the solution of different problems.
+         1.1.3.2 The uses of magnetic, flash and optical storage devices.
+         1.1.3.3 RAM and ROM.
+         1.1.3.4 Virtual storage.
+   1.2 Software and software development
+      1.2.1 Systems Software
+         1.2.1.1 The need for, function and purpose of operating systems.
+         1.2.1.2 Memory Management (paging, segmentation and virtual memory).
+         1.2.1.3 Interrupts, the role of interrupts and Interrupt Service Routines (ISR), role within the Fetch-Decode-Execute Cycle.
+         1.2.1.4 Scheduling: round robin, first come first served, multi-level feedback queues, shortest job first and shortest remaining time.
+         1.2.1.5 Distributed, embedded, multi-tasking, multi-user and Real Time operating systems.
+         1.2.1.6 BIOS.
+         1.2.1.7 Device drivers.
+         1.2.1.8 Virtual machines, any instance where software is used to take on the function of a machine, including executing intermediate code or running an operating system within another.
+      1.2.2 Applications Generation
+         1.2.2.1 The nature of applications, justifying suitable applications for a specific purpose.
+         1.2.2.2 Utilities.
+         1.2.2.3 Open source vs closed source.
+         1.2.2.4 Translators: Interpreters, compilers and assemblers.
+         1.2.2.5 Stages of compilation (lexical analysis, syntax analysis, code generation and optimisation).
+         1.2.2.6 Linkers and loaders and use of libraries.
+      1.2.3 Software Development
+         1.2.3.1 Understand the waterfall lifecycle, agile methodologies, extreme programming, the spiral model and rapid application development.
+         1.2.3.2 The relative merits and drawbacks of different methodologies and when they might be used.
+         1.2.3.3 Writing and following algorithms.
+      1.2.4 Types of Programming Language
+         1.2.4.1 Need for and characteristics of a variety of programming paradigms.
+         1.2.4.2 Procedural languages.
+         1.2.4.3 Assembly language (including following and writing simple programs with the Little Man Computer instruction set).
+         1.2.4.4 Modes of addressing memory (immediate, direct, indirect and indexed).
+         1.2.4.5 Object-oriented languages with an understanding of classes, objects, methods, attributes, inheritance, encapsulation and polymorphism.
+   1.3 Exchanging data
+      1.3.1 Compression, Encryption and Hashing
+         1.3.1.1 Lossy vs Lossless compression.
+         1.3.1.2 Run length encoding and dictionary coding for lossless compression.
+         1.3.1.3 Symmetric and asymmetric encryption.
+         1.3.1.4 Different uses of hashing.
+      1.3.2 Databases
+         1.3.2.1 Relational database, flat file, primary key, foreign key, secondary key, entity relationship modelling, normalisation and indexing.
+         1.3.2.2 Methods of capturing, selecting, managing and exchanging data.
+         1.3.2.3 Normalisation to 3NF.
+         1.3.2.4 SQL – Interpret and modify.
+         1.3.2.5 Referential integrity.
+         1.3.2.6 Transaction processing, ACID (Atomicity, Consistency, Isolation, Durability), record locking and redundancy.
+      1.3.3 Networks
+         1.3.3.1 Characteristics of networks and the importance of protocols and standards.
+         1.3.3.2 The internet structure: The TCP/IP Stack, DNS, Protocol layering, LANs and WANs, Packet and circuit switching.
+         1.3.3.3 Network security and threats, use of firewalls, proxies and encryption.
+         1.3.3.4 Network hardware.
+         1.3.3.5 Client-server and peer to peer.
+      1.3.4 Web Technologies
+         1.3.4.1 HTML, CSS and JavaScript.
+         1.3.4.2 Search engine indexing.
+         1.3.4.3 PageRank algorithm.
+         1.3.4.4 Server and client side processing.
+   1.4 Data types, data structures and algorithms
+      1.4.1 Data Types
+         1.4.1.1 Primitive data types, integer, real/floating point, character, string and Boolean.
+         1.4.1.2 Represent positive integers in binary.
+         1.4.1.3 Use of sign and magnitude and two’s complement to represent negative numbers in binary.
+         1.4.1.4 Addition and subtraction of binary integers.
+         1.4.1.5 Represent positive integers in hexadecimal.
+         1.4.1.6 Convert positive integers between binary hexadecimal and denary.
+         1.4.1.7 Representation and normalisation of floating point numbers in binary.
+         1.4.1.8 Floating point arithmetic, positive and negative numbers, addition and subtraction.
+         1.4.1.9 Bitwise manipulation and masks: shifts, combining with AND, OR, and XOR.
+         1.4.1.10 How character sets (ASCII and UNICODE) are used to represent text.
+      1.4.2 Data Structures
+         1.4.2.1 Arrays (of up to 3 dimensions), records, lists, tuples.
+         1.4.2.2 The following structures to store data: linked-list, graph (directed and undirected), stack, queue, tree, binary search tree, hash table.
+         1.4.2.3 How to create, traverse, add data to and remove data from the data structures mentioned above.
+      1.4.3 Boolean Algebra
+         1.4.3.1 Define problems using Boolean logic.
+         1.4.3.2 Manipulate Boolean expressions, including the use of Karnaugh maps to simplify Boolean expressions.
+         1.4.3.3 Use the following rules to derive or simplify statements in Boolean algebra: De Morgan’s Laws, distribution, association, commutation, double negation.
+         1.4.3.4 Using logic gate diagrams and truth tables.
+         1.4.3.5 The logic associated with D type flip flops, half and full adders.
+   1.5 Legal, moral, cultural and ethical issues
+      1.5.1 Computing related legislation
+         1.5.1.1 The Data Protection Act 1998.
+         1.5.1.2 The Computer Misuse Act 1990.
+         1.5.1.3 The Copyright Design and Patents Act 1988.
+         1.5.1.4 The Regulation of Investigatory Powers Act 2000.
+      1.5.2 Moral and ethical Issues
+         1.5.2.1 The individual moral, social, ethical and cultural opportunities and risks of digital technology: Computers in the workforce, Automated decision making, Artificial intelligence, Environmental effects, Censorship and the Internet, Monitor behaviour, Analyse personal information, Piracy and offensive communications, Layout, colour paradigms and character sets.

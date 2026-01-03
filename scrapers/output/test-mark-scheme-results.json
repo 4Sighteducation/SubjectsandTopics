@@ -1,0 +1,505 @@
+{
+  "mark_scheme": {
+    "name": "OCR Biology A - June 2024 - Paper 3 - Mark Scheme",
+    "url": "https://www.ocr.org.uk/Images/726819-mark-scheme-unified-biology.pdf",
+    "paper_url": "https://www.ocr.org.uk/Images/726692-question-paper-unified-biology.pdf",
+    "expected_questions": 29
+  },
+  "extraction": {
+    "mark_schemes": [
+      {
+        "question_number": "1(a)(i)",
+        "max_marks": 1,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "flagellum",
+            "marks": 1,
+            "keywords": [
+              "flagellum",
+              "flagella"
+            ],
+            "alternatives": [
+              "flagela",
+              "flaegella"
+            ],
+            "notes": "ALLOW flagella, phonetic spelling"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "DO NOT ALLOW undulipodia as found in eukaryotic cells only"
+      },
+      {
+        "question_number": "1(a)(ii)",
+        "max_marks": 1,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "0.1 – 10 (μm)",
+            "marks": 1,
+            "keywords": [
+              "0.1",
+              "10",
+              "μm"
+            ],
+            "alternatives": [],
+            "notes": "ALLOW any single value in the range"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "From knowledge of prokaryote size not working from a magnification"
+      },
+      {
+        "question_number": "1(b)(i)",
+        "max_marks": 2,
+        "marking_type": "points",
+        "marking_points": [
+          {
+            "point": "mix (each dilution)",
+            "marks": 1,
+            "keywords": [
+              "mix",
+              "stir",
+              "shake"
+            ],
+            "explanation": "ALLOW stir / shake (test tube before plating)"
+          },
+          {
+            "point": "replace (micro)pipette tips between each transfer",
+            "marks": 1,
+            "keywords": [
+              "replace",
+              "pipette",
+              "sterilise"
+            ],
+            "explanation": "ALLOW replace pipettes / sterilise pipette"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "IGNORE general ref to aseptic technique"
+      },
+      {
+        "question_number": "1(b)(ii)",
+        "max_marks": 3,
+        "marking_type": "points",
+        "marking_points": [
+          {
+            "point": "(22 x 10^5 =) 2,200,000",
+            "marks": 1,
+            "keywords": [
+              "2200000",
+              "22"
+            ],
+            "explanation": "ALTERNATIVE: 22 x 10^4"
+          },
+          {
+            "point": "x 5 (= 11,000,000)",
+            "marks": 1,
+            "keywords": [
+              "x5",
+              "11000000"
+            ],
+            "explanation": "ALTERNATIVE calculation"
+          },
+          {
+            "point": "(standard form =) 1.1 x 10^7",
+            "marks": 1,
+            "keywords": [
+              "standard",
+              "1.1"
+            ],
+            "explanation": "ALLOW alternative standard form"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "If answer = 1.1 x 10^7 award three marks. ECF for incorrect steps."
+      },
+      {
+        "question_number": "1(c)",
+        "max_marks": 2,
+        "marking_type": "points",
+        "marking_points": [
+          {
+            "point": "short life cycle / fast growth rate",
+            "marks": 1,
+            "keywords": [
+              "short",
+              "fast",
+              "growth"
+            ],
+            "explanation": "ALLOW reproduce quickly / fast"
+          },
+          {
+            "point": "simple nutrient requirements",
+            "marks": 1,
+            "keywords": [
+              "simple",
+              "nutrients"
+            ],
+            "explanation": "ALLOW ‘does not require many nutrients’"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "ALLOW qualified reasons why it is cost less"
+      },
+      {
+        "question_number": "2(a)",
+        "max_marks": 4,
+        "marking_type": "points",
+        "marking_points": [
+          {
+            "point": "large(r) sample size",
+            "marks": 1,
+            "keywords": [
+              "large",
+              "sample",
+              "size"
+            ],
+            "explanation": "ALLOW more representative / area"
+          },
+          {
+            "point": "stratified sampling / described",
+            "marks": 1,
+            "keywords": [
+              "stratified",
+              "sample"
+            ],
+            "explanation": "e.g. divide area into zones"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "Only award Explanation mark if linked to correct Improvement"
+      },
+      {
+        "question_number": "2(b)(i)",
+        "max_marks": 2,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "mammals greater, threat from human exploitation",
+            "marks": 1,
+            "keywords": [
+              "mammals",
+              "threat",
+              "human"
+            ],
+            "alternatives": [
+              "vulnerable",
+              "susceptible"
+            ],
+            "notes": "ALLOW refs to qualified data quote"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "e.g. human exploitation threat for mammals"
+      },
+      {
+        "question_number": "2(b)(ii)",
+        "max_marks": 4,
+        "marking_type": "points",
+        "marking_points": [
+          {
+            "point": "lowest (% threat) for reptiles and amphibians",
+            "marks": 1,
+            "keywords": [
+              "lowest",
+              "threat",
+              "reptiles"
+            ],
+            "explanation": "ALLOW all other categories have higher threat"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "IGNORE small sample size"
+      },
+      {
+        "question_number": "2(c)",
+        "max_marks": 1,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "rotate the trees that are harvested",
+            "marks": 1,
+            "keywords": [
+              "rotate",
+              "trees",
+              "harvest"
+            ],
+            "alternatives": [
+              "rotational felling",
+              "pollarding"
+            ],
+            "notes": "ALLOW selective felling"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "IGNORE clear felling, IGNORE afforestation"
+      },
+      {
+        "question_number": "3(a)",
+        "max_marks": 2,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "phloem",
+            "marks": 1,
+            "keywords": [
+              "phloem"
+            ],
+            "alternatives": [
+              "specialise"
+            ],
+            "notes": "DO NOT ALLOW ‘phloem sieve tubes’"
+          },
+          {
+            "answer": "differentiate",
+            "marks": 1,
+            "keywords": [
+              "differentiate"
+            ],
+            "alternatives": [],
+            "notes": "ALLOW specialise"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": null
+      },
+      {
+        "question_number": "3(b)(i)",
+        "max_marks": 2,
+        "marking_type": "points",
+        "marking_points": [
+          {
+            "point": "cut away from the body",
+            "marks": 1,
+            "keywords": [
+              "cut",
+              "away",
+              "safety"
+            ],
+            "explanation": "ALLOW wear eye protection"
+          },
+          {
+            "point": "to avoid cuts / AW",
+            "marks": 1,
+            "keywords": [
+              "avoid",
+              "cuts"
+            ],
+            "explanation": "ALTERNATIVE safety precaution explanation"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "Explanation mark can only be awarded if linked to relevant idea"
+      },
+      {
+        "question_number": "3(b)(ii)",
+        "max_marks": 2,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "0.17",
+            "marks": 2,
+            "keywords": [
+              "0.17",
+              "this"
+            ],
+            "alternatives": [],
+            "notes": "ALLOW ECF"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "ALLOW 1 mark if answer not given to 2 sig figs"
+      },
+      {
+        "question_number": "3(c)(i)",
+        "max_marks": 2,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "28 / 28.3",
+            "marks": 2,
+            "keywords": [
+              "28",
+              "28.3"
+            ],
+            "alternatives": [],
+            "notes": "ALLOW correct answer not rounded"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "ALLOW ECF if diameter used instead of radius"
+      },
+      {
+        "question_number": "3(c)(ii)",
+        "max_marks": 6,
+        "marking_type": "level",
+        "marking_points": [],
+        "levels": {
+          "Level 1": {
+            "marks": "1-2",
+            "description": "Description of data to be collected or description of control variables or appropriate statistical test."
+          },
+          "Level 2": {
+            "marks": "3-4",
+            "description": "Detailed description of data to be collected and description of control variables or appropriate statistical test."
+          },
+          "Level 3": {
+            "marks": "5-6",
+            "description": "Detailed description of data to be collected and description of control variables and appropriate choice of statistical test."
+          }
+        },
+        "examiner_notes": "Refer to guidelines for assessing levels."
+      },
+      {
+        "question_number": "3(d)",
+        "max_marks": 2,
+        "marking_type": "points",
+        "marking_points": [
+          {
+            "point": "stomata, in pits / sunken",
+            "marks": 1,
+            "keywords": [
+              "stomata",
+              "pits"
+            ],
+            "explanation": "ALLOW leaves reduced to spines"
+          },
+          {
+            "point": "reduces air movement / increases humidity",
+            "marks": 1,
+            "keywords": [
+              "reduces",
+              "air",
+              "humidity"
+            ],
+            "explanation": "ALLOW reduces water potential gradient"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "Award 1 mark for adaptation and 1 for explanation"
+      },
+      {
+        "question_number": "4(a)",
+        "max_marks": 2,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "Correct circles around functional groups on structure",
+            "marks": 2,
+            "keywords": [
+              "circle",
+              "OH",
+              "H"
+            ],
+            "alternatives": [
+              "clear, unambiguous mark"
+            ],
+            "notes": "ALLOW circles around OH or H alone"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "One mark per correct circle"
+      },
+      {
+        "question_number": "4(b)",
+        "max_marks": 1,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "produces ATP to provide chemical energy",
+            "marks": 1,
+            "keywords": [
+              "produces",
+              "ATP",
+              "energy"
+            ],
+            "alternatives": [
+              "requires ATP"
+            ],
+            "notes": "ALLOW because ATP is needed"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "DO NOT ALLOW ‘produces energy’"
+      },
+      {
+        "question_number": "4(c)(i)",
+        "max_marks": 2,
+        "marking_type": "points",
+        "marking_points": [
+          {
+            "point": "pH would increase / become less acidic",
+            "marks": 1,
+            "keywords": [
+              "pH",
+              "increase",
+              "alkaline"
+            ],
+            "explanation": "If pH decreases = 0 marks"
+          },
+          {
+            "point": "because protons move into chloroplasts",
+            "marks": 1,
+            "keywords": [
+              "protons",
+              "move",
+              "chloroplasts"
+            ],
+            "explanation": "ALLOW diffusion down a gradient"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "DO NOT ALLOW hydrogen for protons"
+      },
+      {
+        "question_number": "4(c)(ii)",
+        "max_marks": 2,
+        "marking_type": "specific",
+        "marking_points": [
+          {
+            "answer": "proton gradient between thylakoid and solution 3",
+            "marks": 1,
+            "keywords": [
+              "proton",
+              "gradient",
+              "thylakoid"
+            ],
+            "alternatives": [
+              "electrochemical gradient"
+            ],
+            "notes": "ALLOW no protons diffuse into solution 2"
+          }
+        ],
+        "levels": null,
+        "examiner_notes": "If ATP produced in 2 not 3 = 0 marks"
+      },
+      {
+        "question_number": "5(a)",
+        "max_marks": 6,
+        "marking_type": "level",
+        "marking_points": [],
+        "levels": {
+          "Level 1": {
+            "marks": "1-2",
+            "description": "An answer that includes an appropriate conclusion."
+          },
+          "Level 2": {
+            "marks": "3-4",
+            "description": "An answer that includes an appropriate conclusion and an accompanying explanation."
+          },
+          "Level 3": {
+            "marks": "5-6",
+            "description": "An answer that includes appropriate conclusions and an accompanying explanation."
+          }
+        },
+        "examiner_notes": "Refer to guidelines for levels and marking instructions on page 4."
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 33718,
+      "completion_tokens": 2972,
+      "total_tokens": 36690
+    }
+  }
+}

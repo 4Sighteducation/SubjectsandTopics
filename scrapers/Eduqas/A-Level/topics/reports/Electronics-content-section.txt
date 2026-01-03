@@ -1,0 +1,1652 @@
+
+1. Timing circuits
+2. Sequential logic systems
+3. Microcontrollers
+4. Digital communications
+5. Optical communication
+6. Mains power supply systems
+7. High power switching systems
+8. Audio systems
+The assessment will also include synoptic questions.
+These questions will require learners to draw upon knowledge from other parts of the
+specification.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 27
+1. TIMING CIRCUITS
+Overview
+This topic develops the use of RC circuits to create time delays and their use in the
+creation of mono and astable timing circuits.
+Electronic skills
+This topic gives learners the opportunities to explore the charging and discharging of
+a RC network and its application in debouncing switches. Learners also investigate
+the operation of a 555 timer IC in monostable and astable circuits through
+calculation, modelling and simulation. They will also study astable circuits based
+upon Schmitt triggers.
+Mathematical skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using expressions in decimal and standard
+form; using an appropriate number of significant figures; changing the subject of an
+equation; substituting numerical values into algebraic equations using appropriate
+units for physical quantities; using calculators to find and use power, exponential and
+logarithmic functions; solving simple algebraic equations; translating information
+between graphical, numeric and algebraic form; plotting two variables from
+experimental or other data; interpreting and plotting logarithmic plots; interpret data
+presented in graphical form; and changing the subject of an equation.
+Learners should be able to:
+(a) use the equation for the time constant (T) for an RC circuit: T = RC
+(b) select and apply the exponential charging and discharging equations:
+© WJEC CBAC Ltd.
+V
+C
+= V
+0
+
+1 − e
+-
+R
+t
+C
+
+for a charging capacitor
+V
+C
+= V
+0
+e
+−
+R
+tC
+for a discharging capacitor
+and use 0.69 RC as the half time and 5 RC as an approximation to estimate
+effective charging and discharging times
+(c) select and apply the equations
+t = − R C ln
+
+1 −
+V
+V
+C
+0
+
+charging capacitor
+V 
+t =−RCln C  discharging capacitor
+ V 
+0
+A LEVEL ELECTRONICS 28
+(d) calculate values of T, R and C for a charging / discharging capacitor by using
+a graph (including log graphs)
+(e) use a RC circuit in debouncing switches
+(f) recall the properties of monostable circuits
+(g) explain the use of a monostable circuit in conjunction with a RC network in a
+time-delay circuit
+(h) recall the properties of an astable circuit and its use as a pulse generator
+(i) explain the operation, draw and design the circuit of an astable circuit based
+upon a Schmitt trigger and select and apply the approximation
+© WJEC CBAC Ltd.
+f 
+R
+1
+C
+, where
+f is the operating frequency
+(j) draw and analyse circuits for monostable and astable circuits based upon a
+555 timer IC, and select and apply the following equations to calculate their
+characteristics including pulse duration, frequency, mark-space ratio
+f =
+1
+T
+frequency, period relationship
+T = 1 .1 R C 555 monostable
+t =0.7(R +R )C mark time of a 555 astable circuit
+H 1 2
+t
+L
+= 0 .7 R
+2
+C space time of a 555 astable circuit
+f =
+( R
+1
+1
++
+.4
+2
+4
+R
+2
+) C
+frequency of a 555 astable circuit
+T R +R mark/space ratio of an astable.
+ON = 1 2
+T R
+OFF 2
+A LEVEL ELECTRONICS 29
+2. SEQUENTIAL LOGIC SYSTEMS
+Overview
+This topic covers latches based on NAND gates and propagation delays in sequential
+systems. It involves the study of characteristics and uses for a range of systems
+based on D-type flip-flops, dedicated 4-bit counters, 2 digit decimal counter and
+synchronous counter systems.
+Electronic skills
+This topic expands on the logic systems topic, which gives learners further
+opportunities to design and analyse sequential logic systems. Learners will also
+explore a range of uses for D-type flip-flops.
+Mathematical skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using expressions in Boolean algebra;
+simplifying logic systems using Boolean algebra, Karnaugh maps and multiplexers;
+translating information between graphical, numerical and algebraic forms,
+constructing and using timing diagrams; and converting between binary, decimal,
+hexadecimal and binary-coded decimal (BCD) number systems.
+Learners should be able to:
+(a) design and describe the action of a Set-Reset (
+© WJEC CBAC Ltd.
+S R
+) latch based on NAND
+gates
+(b) describe the significance of propagation delays in sequential systems
+(c) construct and use timing diagrams to explain the operation of sequential logic
+circuits
+(d) recall the characteristics and uses of the inputs and outputs of D-type flip-
+flops for:
+• transition gates
+• frequency divider circuits
+• asynchronous counters
+• parallel-in-series-out (PISO) registers
+• series-in-parallel-out (SIPO) registers
+• synchronous counters
+(e) design systems that use a dedicated 4-bit counter and combinational logic to
+produce a sequence of events
+(f) design and analyse a 2 digit decimal counting system
+(g) convert between binary, decimal, hexadecimal and binary-coded decimal
+(BCD) number systems
+(h) design sequence generators based on D-type flip-flops configured as
+synchronous counters, use state diagrams and explain the significance of
+stuck and unused states, including Boolean manipulation to produce simpler
+solutions.
+A LEVEL ELECTRONICS 30
+3. MICROCONTROLLERS
+Overview
+This topic covers the microcontroller as a programable integrated circuit (PIC) and its
+internal structure. It also covers how microcontrollers are interfaced and programed
+through flowcharts and assembler language to perform tasks.
+Electronic skills
+Learners will have the opportunity in this topic to work with microcontrollers,
+interfacing them to inputs and outputs and programing them to perform set tasks.
+Learners will also use both flowcharts and assembler language to program the
+microcontrollers and look at the application of microcontrollers.
+Mathematical skills
+There are some opportunities for the development of mathematical skills in this topic.
+These include: converting between binary and decimal number systems; and drawing
+and interpreting flowcharts.
+Learners should be able to:
+(a) analyse and design flowchart programs to program microcontrollers
+(b) recall and describe the structure of a PIC microcontroller as programmable
+assemblies of memory, input ports, output ports, CPU, clock and reset
+(c) recall and explain the use of interrupts to allow an external device to be
+serviced on request
+(d) recall and describe the application of a PIC microcontroller
+(e) analyse, design and program PIC microcontroller-based circuits using
+assembler language.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 31
+4. DIGITAL COMMUNICATIONS
+Overview
+This topic develops the concepts of digital communication by examining different
+types of modulation and the regeneration of digital signals. Block diagrams of pulse
+code modulation (PCM) systems are used to explain their operation. Also Nyquist
+theorem and time division multiplexing (TDM) is introduced.
+Electronic skills
+This topic enables learners to explore the construction of systems required for digital
+communications. They will also have opportunity to explore parts of digital
+communication systems.
+Mathematical skills
+There are some opportunities for the development of mathematical skills in this topic.
+These include: translating information between graphical and numeric form; plotting
+two variables from data; and interpreting data presented in graphical form
+Learners should be able to:
+(a) analyse and design Schmitt trigger circuits to regenerate a digital signal
+(b) analyse and draw graphs to illustrate pulse modulation techniques (pulse
+width modulation (PWM), pulse amplitude modulation (PAM), pulse position
+modulation (PPM))
+(c) draw a block diagram for and describe the operation of a pulse code
+modulation (PCM) communication system consisting of:
+transmitter
+low pass filter, sampling gate, sampling clock, ADC, PISO shift register,
+PISO clock
+and receiver
+Schmitt trigger, SIPO shift register, SIPO clock, DAC, low pass filter
+(d) use the relationship between required sampling frequency to the highest
+frequency in the signal and Nyquist theorem
+(e) describe how time division multiplexing (TDM) can be used to improve the
+user capacity of a PCM communications link
+(f) state the limitation on the number of channels that can be incorporated into a
+PCM communications link, using TDM and use given data to calculate how
+many channels can be incorporated into a PCM communications link, using
+TDM.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 32
+5. OPTICAL COMMUNICATION
+Overview
+This topic introduces the principles of optical communication, its limitations and the
+principles for converting between electrical and optical signals.
+Electronic skills
+Learners will have the opportunity to study optical communications, with practical
+opportunities to explore basic circuits for converting between electrical and optical
+signals by modelling the systems.
+Learners should be able to:
+(a) describe how the refractive properties of glass allow signals to be transmitted
+over long distances in optical fibres
+(b) describe the effects of dispersion, attenuation and radiation losses in optical
+fibre communication and the relative advantages of single and multi-mode
+optical fibres in a communication network
+(c) describe the principles of operation of circuits for converting between
+electrical and optical signals
+(d) describe the use of LED and laser light sources in an optical fibre transmitter.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 33
+6. MAINS POWER SUPPLY SYSTEMS
+Overview
+This topic explores power supplies with half and full wave rectification, the use of
+capacitors and load and line regulation. The topic also involves the analysis and
+design of regulators based upon a zener diode, a transistor emitter follower and a
+non-inverting amplifier.
+Electronic skills
+This topic gives learners opportunities to model and simulate half and full wave
+rectification, by examining the effect of capacitors and loads on the output of simple
+power supplies. Learners have the opportunity to construct and test a range of
+voltage regulators consisting of a zener diode, a transistor emitter follower or non-
+inverting amplifier.
+Mathematical skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using expressions in decimal and standard
+form; using an appropriate number of significant figures; making order of magnitude
+calculations; changing the subject of an equation; translating information between
+graphical and numerical form; and interpreting data presented in graphical form.
+Learners should be able to:
+(a) recall the use of diodes for half-wave and full wave rectification
+(b) describe the effect of capacitors and loads on the output of a simple power
+supply
+(c) select and apply the ripple voltage equation
+© WJEC CBAC Ltd.
+V
+r
+=
+f
+I
+C
+r
+(d) design zener regulated power supplies and draw graphs to show the effect of
+loading
+(e) distinguish between load regulation and line regulation
+(f) analyse and design a voltage regulator based upon a zener diode, a transistor
+emitter follower and a non-inverting amplifier
+(g) select and apply the gain equation
+ R 
+V V 1+ F 
+L Z  R 
+1
+A LEVEL ELECTRONICS 34
+7. HIGH POWER SWITCHING SYSTEMS
+Overview
+This topic involves the study of high power switching for both DC/AC loads. It covers
+the use and application of thyristors, diacs and triacs for high power switching.
+Electronic skills
+This topic gives opportunities for learners to model and simulate switching circuits for
+both DC and AC systems.
+Mathematical skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using expressions in decimal and standard
+form; using calculators to find and use power, exponential and tan functions;
+estimating results; using an appropriate number of significant figures; making order of
+magnitude calculations; changing the subject of an equation; translating information
+between graphical and numerical form; and interpret data presented in graphical
+form.
+Learners should be able to:
+(a) describe the advantages of using thyristors and triacs to switch high power
+DC/AC loads respectively, compared to using a transistor or a relay
+(b) recall the general thyristor characteristics, the conditions under which a
+thyristor conducts and explain the significance of the following terms:
+holding current, minimum gate voltage, minimum gate current
+(c) design DC thyristor switching circuits and explain the process of capacitor
+commutation
+(d) draw the circuit diagram and analyse graphs for an AC phase control circuit,
+using a RC network, a triac and a diac
+(e) select and apply the equation
+ R 
+=tan−1
+ 
+X 
+C
+to calculate the phase shift between supply voltage and capacitor voltage.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 35
+8. AUDIO SYSTEMS
+Overview
+This topic develops the use of amplifier and filter sub-systems to construct audio
+systems.
+Electronic skills
+This topic develops ideas studied in earlier topics and involves the use of amplifiers
+and filters in practical situations for audio systems. Learners will have opportunity to
+investigate through calculations, modelling and simulation a range of amplifier circuits
+based on a multi-stage voltage preamplifier, summing amplifier, emitter and source
+follower power amplifiers, push-pull power amplifiers including active filters.
+Mathematical skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using expressions in decimal and standard
+form; understanding and using the symbols: =,≈; estimating results; using an
+appropriate number of significant figures; making order of magnitude calculations;
+changing the subject of an equation; translating information between graphical and
+numerical form; and interpreting data presented in graphical form.
+Learners should be able to:
+(a) recall the structure of a simple audio system based upon preamplifiers, a
+mixer, tone controls, a power amplifier and output loudspeaker
+(b) analyse and design a multi-stage voltage preamplifier to meet bandwidth and
+gain requirements
+(c) analyse and design a mixer circuit based upon a summing amplifier
+(d) describe and explain the operation of first order active filters (bass boost,
+treble boost, bass cut, treble cut) based upon an op-amp inverting amplifier
+and select and apply the equation to calculate the break frequency
+© WJEC CBAC Ltd.
+f
+b
+=
+2 π
+1
+R C
+(e) recall and apply the maximum power transfer theorem
+(f) draw circuits for and recall the properties of emitter and source follower power
+amplifiers (
+V
+O U T
+ V
+IN
+− 0 .7
+for an emitter follower and
+V
+O U T
+ V
+IN
+− 3
+for
+source follower)
+A LEVEL ELECTRONICS 36
+(g) draw circuits for and recall the properties of push-pull power amplifiers
+consisting of either emitter or source followers and select and apply the
+equation
+© WJEC CBAC Ltd.
+P
+M A X
+=
+V
+8 R
+S
+2
+L
+push-pull power amplifier
+(h) analyse and draw graphs of the waveforms for first order active filters, emitter
+and source follower power amplifiers and push-pull power amplifiers
+(i) describe cross over distortion in push-pull amplifiers and its removal using
+negative feedback.
+A LEVEL ELECTRONICS 37
+2.3 Component 3
+Extended system design and realisation tasks
+Non-exam assessment (NEA)
+20% of qualification
+70 marks
+The NEA is an integral part of the WJEC Eduqas A level in Electronics and
+contributes 20% to the final assessment. This component requires each learner to
+complete two tasks independently. The tasks build on the concepts studied
+throughout the specification and the requirements to relate practical circuit design
+and realisation to knowledge and understanding gained from the study of
+components 1 and 2.
+Task 1 (20 marks) – involves the development of a microcontroller system
+programed through assembler language.
+Task 2 (50 marks) – is a substantial system development including analogue and
+digital sub-systems in an integrated design.
+Each task enables learners to carry out a design and realisation task based on an
+individually identified problem, context or opportunity. This will be researched and
+analysed by the learner to develop their own specification to clearly guide their
+system development. Learners will develop their system from a series of sub-
+systems which will be tested individually before assembly and testing as a complete
+system. Learners must evaluate the performance of their developed system against
+their specification and suggest improvements that could be made.
+This component requires learners, in the context of the knowledge and
+understanding in Components 1 and 2, to demonstrate their ability to:
+(a) analyse a problem1 to enable solutions to be developed
+(b) develop a design specification to solve a problem
+(c) propose an electronic system, composed of sub-systems, to satisfy a design
+specification
+(d) make predictions about the way that electronic systems behave
+(e) design and build an electronic system, modelling its performance against the
+design specification, modifying as appropriate
+(f) plan tests to make measurements, to explore a problem, selecting appropriate
+techniques and instruments
+(g) evaluate practical risks in system development and application
+1 In the context of A level electronics skills, 'problem' is interpreted broadly, to embrace:
+• problem – difficulties in a situation e.g. a person with partial hearing cannot hear the doorbell
+• context – looking at situations for possible design openings e.g. a person crossing the road
+• opportunity – possibilities arising e.g. from a new improved component
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 38
+(h) carry out tests having due regard to the correct manipulation of apparatus,
+accuracy of measurement and Health and Safety considerations
+(i) make and record measurements on electrical circuits
+(j) report results using standard scientific conventions
+(k) evaluate the performance of the electronic system against the design
+specification
+(l) suggest improvements to the electronic system following evaluation
+(m) design a microcontroller system; programming the microcontroller using
+assembly language (Task 1 only)
+Learners should be encouraged and supported to select tasks in which they are
+interested and which are neither under nor over ambitious. The focus for each of the
+learner's tasks must be signed off by the teacher. The teacher should discuss the
+proposed focus of the task with the learner, considering the requirements of the
+assessment and the ability and interests of the individual learner. The teacher must
+be satisfied that the suggested focus has the potential for the individual learner to:
+• analyse the problem and derive a design specification;
+• develop and test a range of sub-systems;
+• develop, realise and test a final physical system;
+• evaluate the final system against the design specification and suggest
+improvements.
+This will help ensure the task is at a suitable level for the learner concerned and will
+provide that individual with a level of challenge that is appropriate to their abilities, in
+the context of the requirements of an A level Electronics qualification.
+Task 1
+Task 1 is intended to introduce learners to software control techniques using
+assembly language which is widely used to program microcontrollers for consumer
+products. It is not expected that learners will be familiar with every instruction in the
+instruction set, or use every programming technique available. Several
+manufacturers produce PIC development systems which can be used to deliver this
+part of the component. The work should not be limited to 'onscreen' design and
+emulation, but must involve the actual programing of a PIC chip, and its testing
+remotely on a physical circuit. Initial program testing can be carried out using a
+development board to prove the program works before final testing on a physical
+circuit.
+The report must include a listing of the program, a description of how the program
+works and testing of the program
+Task 2
+Once the learner has decided on a context for the task, they should undertake
+appropriate research so that a list of performance parameters (specification) can be
+given. It is expected that the design specification will contain realistic numerical
+values against which the final performance of the system can be judged.
+In each task the overall system should be developed as a number of sub-systems
+which should be individually tested and evaluated before being incorporated into the
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 39
+complete system. This will ensure that the complete system develops by a gradual
+and incremental process, having been assessed at each stage of its development.
+For microcontroller-based projects, a sub-routine can be considered as a sub-system
+provided its specification can be tested and evaluated in a similar fashion to a
+component-based sub-system. To meet the assessment requirements, a
+microcontroller-based project will also need to include, as a minimum, some
+component-based processing sub-systems for interfacing signals to and from the
+microcontroller (in addition to the microcontroller circuitry).
+In each task the system should be fully tested when the project is complete. The
+testing should be documented with results being displayed in tables and graphs,
+where appropriate. These tests will enable the learner to assess the system and
+identify any faults and limitations. The learner should attempt to modify the system to
+correct for any limitations and then produce a final set of performance figures for the
+completed system. The learner should then evaluate the final system against the
+design specification and suggest further developments.
+The learner should fully document the development of each task in a report. It is the
+evidence contained within this report and the system produced upon which the NEA
+should be marked and assessed. The report should contain evidence for each task of
+the following sections:
+• System planning – including analysis of the problem and a design specification
+• System development – including the development of the system in terms of sub-
+systems, annotated circuit diagrams and description of testing each sub-system
+and the recording of results
+• System realisation – including annotated block and circuit diagrams; evidence of
+layout planning; description of testing of complete systems and the recording of
+results and user guide
+• Evaluation – including a detailed evaluation of the system against the design
+specification and suggestions for improvement.
+The report should be presented in a logical order that is clearly presented and easy
+to understand. It should contain an acknowledgement of all sources of information
+and help. Photographs of the complete physical system must be included in the
+report.
+Physical circuit
+Construction of both systems may be on prototype board, strip board or printed
+circuit board. Whichever method of construction is chosen, the layout and mounting
+of components and wiring should be neat and logical, assist the design, allow testing
+of and fault finding of the system. Pre-constructed circuit boards such as PIC or
+Arduino development boards are not acceptable as the final circuit.
+Supervision
+The tasks must be appropriately supervised to ensure that teachers are able to
+confidently authenticate each learner’s work. Learners are allowed supervised
+access to resources that may include information gathered outside supervised time.
+Each learner must produce their NEA under immediate supervision.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 40
+Each learner must produce their system under 'immediate supervision'. This means
+the system has to be produced either:
+(i) with the simultaneous physical presence of the learner and the
+supervisor,
+or
+(ii) remotely by means of simultaneous electronic communication.
+In most cases supervision will be of the form described in (i), but in some
+circumstances, for example if the learner is carrying out a specialist process away
+from the centre, (ii) may be more appropriate.
+Appendix D gives guidance on the level of independence in NEA tasks.
+Time allocation
+The NEA is integral to WJEC Eduqas A level Electronics and contributes 20% to the
+final assessment. Time is not prescribed for this work because the process of the
+learner's independent design and realisation tasks are iterative. They include the
+design, prototyping, testing and evaluating of sub-systems and systems, alongside
+the writing of the task reports. Learners should seek guidance from their teachers
+and engage as necessary in learner-led discussions. Teachers should make time
+available for the following:
+• to explain the requirements of the independent design and construction task
+• to guide learners to an appropriate context
+• to direct learners to the assessment objectives relevant to the assessment of the
+component
+• to analyse Health and Safety considerations and the risk assessment of practical
+work.
+As a consequence, the overall time allocated to the independent design and
+realisation tasks both by teacher and learners should be commensurate with a 20%
+weighting of the whole qualification for this component.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 41
+3 ASSESSMENT
+3.1 Assessment objectives and weightings
+Below are the assessment objectives for this specification. Learners must be able to:
+AO1
+Demonstrate knowledge and understanding of the ideas, techniques and procedures
+of electronics
+AO2
+Apply knowledge and understanding of the ideas, techniques and procedures of
+electronics
+AO3
+Analyse problems and design, build, test and evaluate electronic systems to address
+identified needs
+The table below shows the weighting of each assessment objective for each
+component and for the qualification as a whole.
+AO1 AO2 AO3 Total
+Component 1 15% 20% 5% 40%
+Component 2 15% 20% 5% 40%
+Component 3 - - 20% 20%
+Overall weighting 30% 40% 30% 100%
+For each series, the weighting for the assessment of mathematical skills will be a
+minimum of 30% of the whole qualification.
+Where appropriate learners will be expected to provide extended responses which
+are of sufficient length to allow them to demonstrate their ability to construct and
+develop a sustained line of reasoning which is coherent, relevant, substantiated and
+logically structured.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 42
+3.2 Arrangements for non-exam assessment
+Marking of extended system design and realisation tasks
+Marks should be awarded for the criteria listed in the assessment grids for non-exam
+assessment (see Appendix E).
+Exemplification statements are given in the mark grid to indicate the features which
+should be present in a candidate’s work to be awarded full marks for that section and
+the level.
+A 'level of response' mark scheme is used. The relevant section(s) of the candidate's
+work should be read from start to finish before applying the mark scheme. Then the
+work should be matched to the level descriptors to decide which descriptor matches
+best with the candidate’s work, whilst remembering to consider the overall quality of
+the response. Next, which mark to award within the band needs to be determined. If
+there is a good match with the content (and, where relevant, the communication
+statements for QER) then the highest mark for the band should be awarded. Lower
+marks within the band should be awarded for proportionately weaker matches with
+the content for the band.
+It is the responsibility of the centre to ensure the authenticity of all work presented for
+assessment. All candidates are required to sign an authentication statement
+endorsing the originality of their work presented for assessment, and assessors must
+countersign that they have taken all reasonable steps to validate this. Authentication
+documentation must be completed by all candidates, not just those selected for
+moderation.
+Marks should only be awarded for work which is that of the candidate. Any
+assistance that goes beyond general guidance must be recorded on the Electronics
+task form and taken into account when marking the work.
+Marks should only be awarded when there is supporting evidence. Supervisors must
+annotate each candidate's Electronics task form and/or the relevant section of the
+work to identify the location of relevant evidence. Annotation should also be provided
+to indicate to what degree the final performance met the initial specification.
+For each task the candidate's report must contain clear photographic evidence of the
+completed circuit.
+The centre is responsible for carrying out internal standardisation where two or more
+teachers have been involved in the marking of the work submitted for a single unit.
+Moderation of NEA
+Once the centre has marked all candidates’ work, the marks must be entered into the
+online system for each individual and sent electronically to WJEC. The online system
+will then select and return the candidates identified for the moderation sample.
+For each candidate in the sample, the moderator must be sent a completed
+Electronics task form with the task reports and photographic evidence of the
+completed physical systems. The Electronics task form will be available on the WJEC
+website.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 43
+4 TECHNICAL INFORMATION
+4.1 Making entries
+This is a linear qualification in which all assessments must be taken at the end of the
+course. Assessment opportunities will be available in May/June each year, until the
+end of the life of this specification. Summer 2019 will be the first assessment
+opportunity.
+A qualification may be taken more than once. Candidates must resit all examination
+components in the same series.
+Marks for NEA may be carried forward for the life of the specification. If a candidate
+resits an NEA component (rather than carrying forward the previous NEA mark), it is
+the new mark that will count towards the overall grade, even if it is lower than a
+previous attempt.
+Where a candidate has certificated on two or more previous occasions, the most
+recent NEA mark is carried forward, regardless of whether that mark is higher or
+lower (unless that mark is absent)
+The entry code appears below.
+WJEC Eduqas A level Electronics: A490QS
+The current edition of our Entry Procedures and Coding Information gives up-to-date
+entry procedures.
+4.2 Grading, awarding and reporting
+A level qualifications are reported as a grade from A* to E. Results not attaining the
+minimum standard for the award will be reported as U (unclassified).
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 44
+APPENDIX A
+Equations in Electronics
+In solving quantitative problems, learners should be able to use correctly the following
+relationships, using standard SI units, without them being provided:
+© WJEC CBAC Ltd.
+V = I R definition of resistance
+P = V I = I 2 R =
+V
+R
+2
+power relationships
+R =R +R +... resistors in series
+1 2
+1 1 1
+= + +... resistors in parallel
+R R R
+1 2
+R =
+R
+R
+1
+1
++
+R
+R
+2
+2
+two resistors in parallel
+V
+O U T
+=
+R
+1
+R
++
+2
+R
+2
+V
+IN
+potential divider
+E = P t energy transfer
+A.1=A, A.0=0, A.A=A, A. A =0 Boolean identities
+A+1=1, A+0=A, A+ A = A, A+ A =1
+A + B = A . B de Morgan’s theorem
+A . B = A + B de Morgan’s theorem
+In addition, learners should be able to select correctly from a list and apply the following
+relationships:
+C =
+Q
+V
+capacitance
+1 1 1
+= + capacitors in series
+C C C
+1 2
+CC
+C= 1 2 two capacitors in series
+C +C
+1 2
+A LEVEL ELECTRONICS 45
+© WJEC CBAC Ltd.
+C = C
+1
++ C
+2
+capacitors in parallel
+A + A . B = A + B
+A . B + A = A . ( B + 1 ) = A Boolean identities
+G =
+V
+V
+O U
+IN
+T amplifier voltage gain
+G = 1 +
+R
+R
+F
+1
+non-inverting op-amp circuit voltage gain
+G = −
+R
+R
+F
+IN
+inverting op-amp circuit voltage gain
+V
+slew rate= OUT definition of slew rate
+t
+s l e w r a t e = 2 π f V
+P
+minimum slew rate for distortion of free
+sinusoidal signal
+V
+O U T
+= − R
+F
+ V
+R
+1
+1
++
+V
+R
+2
+2
++ ....
+
+summing amplifier output voltage
+V = V for V  V
+comparator output voltage
+OUT S + −
+V = −V for V  V
+OUT S + −
+V
+O U T
+= V
+IN
+voltage follower circuit
+T = RC time constant
+V
+C
+= V
+0
+
+1 − e
+-
+R
+t
+C
+
+charging capacitor
+ V 
+t =−RCln1− C  charging capacitor
+ V 
+0
+t
+−
+V = Ve RC discharging capacitor
+C 0
+t = − R C ln
+ V
+V
+C
+0
+
+discharging capacitor
+V I
+V = 0 ; I = 0 rms values
+rms 2 rms 2
+A LEVEL ELECTRONICS 46
+© WJEC CBAC Ltd.
+I
+C
+= h
+F E
+I
+B
+bipolar transistor
+I
+D
+= g
+M
+( V
+G S
+− 3 ) MOSFET
+P = I 2D r
+D S o n
+power dissipated in a MOSFET
+f =
+1
+T
+frequency, period relationship
+T = 1 .1 R C 555 monostable
+t
+H
+= 0 .7 ( R
+1
++ R
+2
+) C mark time of a 555 astable circuit
+t
+L
+= 0 .7 R
+2
+C space time of a 555 astable circuit
+f =
+( R
+1
+1
++
+.4
+2
+4
+R
+2
+) C
+frequency of a 555 astable circuit
+T
+T
+O
+O
+N
+F F
+=
+R
+1
++
+R
+R
+2
+2
+mark/space ratio of an astable
+f 
+R
+1
+C
+Schmitt astable circuit
+V
+r
+=
+f
+I
+C
+r
+ripple voltage
+X
+C
+=
+2 π
+1
+f C
+capacitive reactance
+X
+L
+= 2π f L inductive reactance
+Z = R 2 + X 2 impedance of a series circuit
+f
+b
+=
+2 π
+1
+R C
+break frequencies for RC filters
+V V −0.7
+for an emitter follower
+OUT IN
+V V −3
+for a source follower
+OUT IN
+V
+O U T
+= V
+D IF F
+ R
+R
+F
+1
+
+difference amplifier
+1
+f = resonant frequency for LC filters
+0 2π L C
+A LEVEL ELECTRONICS 47
+© WJEC CBAC Ltd.
+R
+D
+=
+r
+L
+L
+C
+dynamic resistance
+N
+C H
+=
+a v
+c h
+a i
+a
+l
+n
+a b
+n
+l e b
+e l b
+a n
+a n
+d
+d
+w
+w
+i d
+i d
+t h
+t h
+capacity of transmission media
+m a x i m u m d a t a r a t e = 2  a v a i l a b l e b a n d w i d t h data rate
+G
+d B
+= 1 0 l o g
+1 0
+P
+O
+P
+U
+IN
+T gain in decibels
+S N R
+d B
+= 1 0 l o g
+1 0
+P
+P
+S
+N
+= 2 0 l o g
+1 0
+V
+V
+S
+N
+signal to noise ratio
+Q= f 0 = 2π f 0 L Q-factor
+bandwidth r
+L
+m =
+(( V
+V
+m
+m
+ax
+ax
+−
++
+V
+V
+m
+m
+in
+in
+))
+ 1 0 0 % depth of modulation
+β =
+ f
+c
+f
+i
+modulation index
+B a n d w i d t h = 2 (  f
+0
++ f
+i
+) = 2 ( 1 + β ) f
+i
+transmitted FM bandwidth
+c f  = wave speed
+V
+L
+ V
+Z
+
+1 +
+R
+R
+F
+1
+
+stabilised power supply
+t a n 1
+R
+X
+C
+ = −
+ 
+triac phase control
+r e s o lu t i o n =
+i / p v o lt a
+2
+g
+n
+e r a n g e
+ADC/PCM resolution
+P
+M A X
+=
+V
+8 R
+S
+2
+L
+power amplifier
+A LEVEL ELECTRONICS 48
+APPENDIX B
+Mathematical requirements and exemplification
+In order to be able to develop their skills, knowledge and understanding in electronics,
+learners need to have been taught, and to have acquired competence in the following areas
+of mathematics indicated in the table below.
+The table illustrates where these mathematical skills may be developed and could be
+assessed. The list of examples is not exhaustive. These skills could be developed in other
+areas of the specification content.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 49
+Exemplification of mathematical skill
+Mathematical skill (assessment is not limited to the
+examples given below)
+E.0 – arithmetic and numerical computation
+Convert between units with different prefixes,
+Recognise and make use of e.g. A to mA
+E.0.1
+appropriate units in calculations Identify the correct units for physical
+properties such as Hz, the unit for frequency
+Recognise and use expressions in Use frequencies expressed in standard form
+E.0.2
+decimal and standard form such as 2.5  107Hz
+Calculate the fraction of the charge lost from
+E.0.3 Use fractions, ratios and percentages
+a capacitor in a given time
+Estimate the resistor values needed in a
+E.0.4 Estimate results potential divider so that the output voltage
+does not drop significantly
+Calculate the power rating required for a
+Use calculators to handle power
+resistor
+E.0.5 functions, exponential and logarithm
+Calculate the time constant from a decay
+functions
+curve
+Use calculators to handle tan and Calculate the phase angle for a triac phase-
+E.0.6
+tan−1 functions control circuit
+E.1 – handling data
+Report calculations to an appropriate number
+of significant figures
+Use an appropriate number of
+E.1.1 Understand that calculated results can only
+significant figures
+be reported to the limits of the least accurate
+measurement
+Calculate a mean value for repeated
+E.1.2 Find arithmetic means
+experimental findings
+Evaluate equations with variables expressed
+E.1.3 Make order of magnitude calculations in different orders of magnitude, e.g. 150k
+and 2.6mA
+E.1.4 Use Karnaugh maps Simplify a logic system
+Exemplification of mathematical skill
+Mathematical skill (assessment is not limited to the
+examples given below)
+E.2 – algebra
+Recognise the significance of the symbols in
+Understand and use the symbols: =,
+E.2.1 V
+<, <<, >, >>, , ,  the expression: slew rate= OUT
+t
+Change the subject of an equation, V2
+E.2.2 Rearrange P= to make R the subject
+including non-linear equations R
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 50
+Calculate the frequency of a 555 astable by
+Substitute numerical values into
+algebraic equations using substituting the values for
+E.2.3
+appropriate units for physical
+quantities
+© WJEC CBAC Ltd.
+R
+1
+, R
+2
+and C into
+the equation:
+f =
+( R
+1
+1
++
+.4
+2
+4
+R
+2
+) C
+Find a capacitor value for a given time delay
+E.2.4 Solve algebraic equations
+and resistance in a 555 monostable
+E.2.5 Use Boolean algebra Simplify a logic system
+E.3 – graphs
+Translate information between
+Measure the ripple voltage from output
+E.3.1 graphical, numerical and algebraic
+graphs for rectified power supplies
+forms
+Plot two variables from experimental
+E.3.2 Plot I-V characteristics of a diode
+or other data
+E.3.3 Determine the slope of a graph Calculate a resistance value from a V-I graph
+Calculate the rate of change from a
+E.3.4 Calculate the slew rate from a V-t graph
+graph showing a linear relationship
+Draw and use the slope of a tangent
+Calculate the gain of an amplifier from the
+E.3.5 to a curve as a measure of rate of
+transfer characteristic
+change
+Sketch relationships which are
+E.3.6
+modelled by y = s i n x and y = s i n 2 x
+Sketch a graph of power against time for an
+alternating current in a resistor
+E.3.7 Use log-log and semi-log graph grids Sketch and interpret gain curves for filters
+A LEVEL ELECTRONICS 51
+APPENDIX C
+Electronic symbols
+Learners should recognise and be able to use the following electronic symbols:
+Switch (latching) Switch (non-latching) Light dependent resistor Thermistor
+Photodiode Microphone Variable resistor Potentiometer
+Resistor Capacitor Electrolytic capacitor Inductor
+NPN transistor PNP transistor N channel MOSFET Thyristor
+Diode Zener diode Diac Triac
+AND gate OR gate XOR gate NOT gate
+NAND gate NOR gate XNOR symbol Schmitt inverter
+Op-amp Ammeter Voltmeter Buzzer
+Light emitting diode Signal lamp Filament lamp Speaker
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 52
+Heater Motor Relay Earth
+Cell Battery AC supply Transformer
+Binary counter Decoder driver 7 segment display 555 timer
+A B C D
+a b c d e f g
+D type flip flop Decade counter Microcontroller Multiplexer
+Circles can be put on S and R inputs for D types, and on CK and R inputs for counters (or
+bars over the letters) when inverted.
+Terminator Input/output Process Decision
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 53
+APPENDIX D
+Independence in non-exam assessment tasks
+The table below gives guidance on the level of independence that a learner must follow at
+each stage of the non-exam assessment (NEA) tasks.
+Task stage Level of What does this level of What are the What are the controls
+independence independence mean at this potential in place to mitigate
+stage? (The following are risks? these risks?
+examples.)
+Context for Independent Centres may give learners a The The guidance that
+task work free choice of focus for their parameters teachers provide
+tasks or provide learners with that the centre needs to ensure that
+a theme or range of themes. provides may the scope is sufficient
+However, it is not acceptable not allow for learners to arrive at
+for learners to choose from a sufficient the focus for their task
+list of specific focuses scope for independently.
+provided by the centre. learners to
+The viability of a
+independently
+Learners may discuss learner's potential
+derive their
+together and with their teacher focus can be
+own focus.
+ideas for an appropriate focus discussed with the
+for their tasks. The focus a teacher.
+learner
+chooses may
+Teacher to 'sign off'
+not provide
+focus for project to
+sufficient
+ensure the proposed
+scope to allow
+focus provides suitable
+them to access
+scope for the learner.
+the full range
+of marks
+available for Any guidance that
+the NEA. goes beyond general
+guidance must be
+recorded by the
+teacher on the
+Electronics task form
+and taken into account
+when the work is
+marked. For example,
+supplying learners with
+a focus for their task
+would be beyond
+general guidance.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 54
+Task stage Level of What does this level of What are the What are the controls
+independence independence mean at this potential in place to mitigate
+stage? (The following are risks? these risks?
+examples.)
+System Independent Learners independently carry Learners Teacher assessment of
+planning work out research and derive a plagiarise their learner’s work.
+specification for their task. work from
+Teacher and learner
+others.
+declarations state that
+the work is the learner's
+own.
+Any guidance that is
+beyond general
+guidance must be
+recorded on the
+Electronics task form
+and taken into account
+when the work is
+marked. For example,
+giving learners
+research material on a
+specific need for their
+task would be beyond
+general guidance.
+Moderators will be
+instructed to report any
+suspected instance of
+plagiarism or learners
+not working
+independently for
+further investigation.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 55
+Task stage Level of What does this level of What are the What are the controls in
+independence independence mean at this potential risks? place to mitigate these
+stage? (The following are risks?
+examples.)
+System Independent Learners independently plan Learners There will be evidence
+Development work and carry out testing of each plagiarise their of learners constructing
+sub-system for their system work from and carrying out tests
+to meet their specification. others. on sub-systems.
+Learners do Teacher's immediate
+not model their supervision and
+own sub- assessment of learner’s
+systems and work.
+test them.
+Teacher and learner
+declarations state that
+the work is the learner's
+own.
+Any guidance that is
+beyond general
+guidance must be
+recorded on the
+Electronics task form
+and taken into account
+when the work is
+marked. For example,
+showing learners how
+to interface two sub-
+systems for their task
+would be beyond
+general guidance.
+Moderators will be
+instructed to report any
+suspected instance of
+plagiarism or learners
+not working
+independently for
+further investigation.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 56
+Task stage Level of What does this level of What are the What are the controls in
+independence independence mean at this potential risks? place to mitigate these
+stage? (The following are risks?
+examples.)
+System Independent Learners independently plan Learners There will be evidence
+Realisation work and carry out the construction plagiarise their of learners constructing
+and testing of their complete work from and carrying out tests
+system to meet their others. on complete systems.
+specification.
+Learners do Teacher's immediate
+not construct supervision and
+their own assessment of learner’s
+physical work.
+system and
+Teacher and learner
+test it.
+declarations state that
+the work is the learner's
+own.
+Any guidance that is
+beyond general
+guidance must be
+recorded on the
+Electronics task form
+and taken into account
+when the work is
+marked. For example,
+showing learners how
+to test a system for
+their task would be
+beyond general
+guidance.
+Moderators will be
+instructed to report any
+suspected instance of
+plagiarism or learners
+not working
+independently for
+further investigation.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 57
+Task stage Level of What does this level of What are the What are the controls
+independence independence mean at this potential in place to mitigate
+stage? (The following are risks? these risks?
+examples.)
+Evaluation Independent Learners independently Learners Teacher assessment of
+work evaluate the performance of plagiarise their learner’s work.
+their complete system and work from
+Teacher and learner
+suggest improvements. others.
+declarations state that
+the work is the learner's
+own.
+Any guidance that is
+beyond general
+guidance must be
+recorded on the
+Electronics task form
+and taken into account
+when the work is
+marked. For example,
+supplying learners with
+points to discuss in the
+evaluation for their task
+would be beyond
+general guidance.
+Moderators will be
+instructed to report any
+suspected instance of
+plagiarism or learners
+not working
+independently for
+further investigation.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 58
+APPENDIX E
+Assessment grids for non-exam assessment
+Extended system design and realisation tasks
+Task 1: Microcontroller system (Assembler language program)
+1. System planning Band
+3 marks The candidate has provided: 3
+• a clear analysis of a problem and a design specification in both
+qualitative and quantitative terms (typically at least 3 of each), and
+including 2 or more detailed realistic measurable parameters with
+tolerances where applicable
+2 marks The candidate has provided: 2
+• an analysis of a problem and a design specification in both
+qualitative and quantitative terms (typically at least 2 of each), and
+including 1 or more realistic measurable parameters
+1 mark The candidate has provided: 1
+• an analysis of a problem and a partial design specification in either
+qualitative or quantitative terms (typically at least 4 in total)
+0 marks Response not credit worthy or not attempted.
+2. System Development Band
+6 - 8 marks The candidate has: 3
+• produced a clearly annotated, logical flowchart to show the structure
+of the program and make predictions regarding its behaviour
+• devised an assembly language program that reacted to and used
+information from inputs to control outputs and utilised 5 or more port
+bits
+• used 10 or more different commands in the program including both
+conditional and unconditional branching commands
+• given a full account of assembling the program, fully recording the
+results of the testing for and removal of syntax error
+3 - 5 marks The candidate has: 2
+• produced an annotated flowchart to show the structure of the
+program
+• devised an assembly language program that reacted to and used
+information from at least 1 input to control at least 1 output and
+utilised 4 or more port bits
+• used 7 or more different commands in the program including both
+conditional and unconditional branching commands
+• given an account of assembling the program, recording the results of
+the testing for and removal of syntax error
+1 - 2 marks The candidate has: 1
+• produced a flowchart to show the structure of the program which
+was either incompletely annotated or lacked clarity
+• devised an assembly language program that utilised 3 or more port
+bits
+• used 4 or more different commands in the program including 1 or
+more branching commands
+• given a limited account of assembling the program, partially
+recording the results of the testing for and removal of syntax error
+0 marks Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 59
+3. System Realisation Band
+5 - 6 marks The candidate has: 3
+• produced an accurate circuit diagram and physical circuit layout which
+were very well organised and made wire connections to a very good
+standard with all wires arranged vertically/horizontally
+• downloaded the program to the microcontroller circuit and
+comprehensively tested the complete physical system prototype
+• provided a detailed analysis of the results for a system that worked
+consistently and reliably
+3 - 4 marks The candidate has: 2
+• produced an accurate circuit diagram and physical circuit layout which
+were fairly well organised and made wire connections to an
+acceptable standard with most wires arranged vertically/horizontally
+• downloaded the program to the microcontroller circuit and tested the
+complete physical system prototype
+• provided some relevant analysis of the results for a system that mainly
+worked
+1 - 2 marks The candidate has: 1
+• produced a circuit diagram and physical circuit layout which tended to
+be not very well organised or incomplete
+• downloaded the assembly language program to the microcontroller
+circuit and partially tested the complete physical system prototype
+• provided some superficial analysis of the results for a system that
+worked at some time
+0 marks Response not credit worthy or not attempted.
+4. Evaluation Band
+3 marks The candidate has: 3
+• undertaken a critical and objective evaluation of the performance of
+the complete system which was valid, made comprehensive
+comparisons with the design specification and made at least 2
+suggestions for improvement with explanations of how they improve
+the system
+2 marks The candidate has: 2
+• undertaken an objective evaluation of the performance of the
+complete system which was valid, made some comparisons with the
+design specification and made at least 2 suggestions for
+improvement
+1 mark The candidate has: 1
+• undertaken a simple evaluation of the performance of the complete
+system which was valid in few respects, made minimal comparison
+with the design specification and made at least 1 superficial
+suggestion for improvement
+0 marks Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 60
+Task 2: Electronic system
+1. System planning Band
+5 - 6 marks The candidate has: 3
+• identified a problem to be solved and provided detailed relevant
+research and analysis of the problem
+• produced a design specification in both qualitative and quantitative
+terms (typically at least 4 of each), and including 3 or more detailed
+realistic electronic parameters with tolerances where applicable
+3 - 4 marks The candidate has: 2
+• identified a problem to be solved and provided some relevant
+research and analysis of the problem
+• produced a design specification in both qualitative and quantitative
+terms (typically at least 3 of each), and including 2 or more realistic
+electronic parameters
+1 -2 marks The candidate has: 1
+• identified a problem to be solved and provided superficial research
+and analysis of the problem
+• produced a limited design specification in both qualitative and
+quantitative terms (typically at least 5 in total), and including 1 or
+more realistic electronic parameters
+0 marks Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 61
+2. System Development Band
+13 - 18 marks The candidate has developed the system as a series of sub- 3
+systems and has:
+• given a complete design specification and devised circuit details for 6
+or more sub-systems including both analogue and digital sub-systems
+• considered alternative sub-system designs for 3 or more different
+sub-systems, made predictions regarding their behaviour and gave
+thorough reasons for final sub-system choice
+• presented accurate, high-quality fully labelled sub-system circuit
+diagrams
+• described test procedures and identified all of the test equipment for 6
+or more different sub-systems
+• made and recorded all relevant numerical measurements for 6 or
+more different sub-systems
+• analysed the results for 6 or more different sub-systems and made
+comprehensive comparisons with the sub-system specifications
+7 - 12 marks The candidate has developed the system as a series of sub- 2
+systems and has:
+• given a design specification that was appropriate in most respects
+and devised circuit details for 4 or more different sub-systems
+including both analogue and digital sub-systems
+• considered alternative sub-system designs for 2 or more different
+sub-systems systems and given some valid reasons for final sub-
+system choice
+• presented accurate, good quality, labelled sub-system circuit
+diagrams
+• described test procedures and identified most of the test equipment
+for 4 or more different sub-systems
+• made and recorded most numerical measurements for 4 or more
+different sub-systems
+• analysed the results for 4 or more different sub-systems and made
+comparisons with the sub-system specifications in most cases
+1 - 6 marks The candidate has developed the system as a series of sub- 1
+systems and has:
+• given a design specification that was appropriate in some respects
+and devised circuit details for 2 or more sub-systems
+• considered alternative sub-system designs for 1 or more different
+sub-systems and given some mainly superficial reasons for final sub-
+system choice
+• presented sub-system circuit diagrams which were partially labelled
+or lacked clarity
+• described test procedures and identified some test equipment for 2 or
+more different sub-systems
+• made and recorded some of the measurements for 2 or more
+different sub-systems
+• analysed the results for 2 or more different sub-systems and made
+some comparisons with sub-system specifications
+0 marks Response not credit worthy or not attempted
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 62
+3. System Realisation Band
+14 - 20 marks The candidate has: 3
+• produced accurate high-quality labelled block and circuit diagrams for
+the complete system and provided a complete component list
+• planned and produced a very well organised physical circuit layout
+with all wires arranged vertically/horizontally and showed a good
+awareness of risk assessment
+• arranged wires with no unnecessary crossing of components which
+were mounted to a high standard and showed a good awareness of
+safe working procedures
+• provided comprehensive evidence of planning test procedures for the
+complete physical system prototype and has identified appropriate
+equipment
+• made and clearly recorded all the relevant numerical measurements
+on the system parameters using standard scientific convention
+including a detailed analysis of the results
+• explained clearly how 2 or more sub-systems were interfaced
+together and explained how an interfacing issue was solved
+• produced an electronic system that worked consistently and reliably
+and included a comprehensive user guide
+7 - 13 marks The candidate has: 2
+• produced accurate, good quality labelled block and circuit diagrams
+for the system and provided a partially completed component list
+• planned and produced a well organised physical circuit layout with
+most wires arranged vertically/horizontally and showed some
+awareness of risk assessment
+• arranged most wires with no unnecessary crossing of components
+which were mounted to a good standard and showed some
+awareness of safe working procedures
+• provided evidence of planning test procedures for the complete
+physical system prototype and has identified appropriate equipment
+in most cases
+• made and recorded the most relevant numerical measurements on
+the system parameters using standard scientific convention including
+some analysis of the results
+• explained how 2 or more sub-systems were interfaced together
+• produced an electronic system in which at least 5 different sub-
+system worked correctly most of the time and included a basic user
+guide for the system
+1 - 6 marks The candidate has: 1
+• produced block and circuit diagrams for the system which were not
+completely labelled or lacked clarity
+• planned and produced a physical circuit layout, with little evidence of
+organisation or wires being arranged vertically/horizontally and
+showed superficial awareness of risk assessment/safe working
+procedures
+• wire connections made with some wires covering components or
+components not always mounted securely to the circuit board
+• provided some evidence of planning test procedures for the complete
+physical system prototype and has identified some appropriate
+equipment
+• made and recorded some relevant numerical measurements on the
+system parameters, with minimal analysis of the results
+• produced an electronic system in which at least 3 different sub-
+systems worked correctly at some time
+0 marks Response not credit worthy or not attempted
+© WJEC CBAC Ltd.
+A LEVEL ELECTRONICS 63
+4. Evaluation (QER) Band
+5 - 6 marks The candidate has: 3
+• provided a coherent, succinct evaluation, using correct terminology of
+how the system works in terms of the function of each block and the
+signal transfer between blocks
+• undertaken a critical and objective evaluation of the performance of
+the complete system which was valid, made comprehensive
+comparisons with the design specification and made at least 3
+suggestions for improvement with explanations of how they improve
+the system
+There is a sustained line of reasoning which is coherent, substantiated
+and logically structured. The information included in the response is
+relevant to the argument.
+3 - 4 marks The candidate has: 2
+• provided an evaluation, using some correct terminology of how the
+system works in terms of the function of each block, which was quite
+well structured and made some reference to the signal transfer
+between blocks
+• undertaken an objective evaluation of the performance of the
+complete system which was valid, made some comparisons with the
+design specification and made at least 3 suggestions for
+improvement
+There is a line of reasoning which is partially coherent, supported by some
+evidence and with some structure. Mainly relevant information is included
+in the response but there may be some minor errors or the inclusion of
+some information not relevant to the argument.
+1 - 2 marks The candidate has: 1
+• provided an evaluation of how the system works in terms of the
+function of each block, in which some of the content may be
+ambiguous or disorganised
+• undertaken a simple evaluation of the performance of the complete
+system which was valid in few respects, made minimal comparisons
+with the design specification and made at least 2 superficial
+suggestions for improvement
+There is a basic line of reasoning which is not coherent, supported by
+limited evidence and with very little structure. There may be significant
+errors or the inclusion of information not relevant to the argument.
+0 marks Response not credit worthy or not attempted
+WJEC Eduqas A level Electronics specification from 2017/ED
+25/11/16
+© WJEC CBAC Ltd.

@@ -1,0 +1,122 @@
+1. Paper 1: Physical Geography
+   1.1 River Environments
+       1.1.1 The world’s water supply is contained in a closed system – the hydrological cycle
+           1.1.1.1 Characteristics, stores, and transfers of the hydrological cycle
+           1.1.1.2 Features of a drainage basin: source, watershed, channel network, mouth
+           1.1.1.3 Factors affecting river regimes: precipitation, temperature, vegetation, land use, water abstraction, dams
+       1.1.2 Physical processes give rise to characteristic river landforms
+           1.1.2.1 Fluvial processes: erosion, weathering, mass movement, transportation, deposition
+           1.1.2.2 Changes in channel shape, valley profile, gradient, velocity, discharge, sediment size and shape
+           1.1.2.3 River landscapes: valleys, interlocking spurs, waterfalls, meanders, oxbow lakes, flood plains, levees
+       1.1.3 River environments are of great importance to people and need to be sustainably managed
+           1.1.3.1 Uses of water: agriculture, industry, human hygiene, leisure
+           1.1.3.2 Variations in water quality: pollution, storage, and supply of clean water
+           1.1.3.3 Causes of river flooding: rainfall intensity, seasonal variations, relief, urbanisation, prediction, and prevention
+   1.2 Coastal Environments
+       1.2.1 Physical processes and human intervention give rise to characteristic coastal landforms
+           1.2.1.1 Marine processes: wave action, erosion, deposition, transportation, longshore drift
+           1.2.1.2 Influence of geology, vegetation, people, sea-level changes
+           1.2.1.3 Erosional and depositional landforms: headlands, bays, cliffs, wave-cut platforms, caves, arches, stacks, stumps, beaches, spits, bars
+       1.2.2 Distinctive ecosystems develop along particular stretches of coastline
+           1.2.2.1 Distributions and features of coastal ecosystems: coral reefs, mangroves, sand dunes, salt marshes
+           1.2.2.2 Abiotic and biotic characteristics of a named coastal ecosystem
+           1.2.2.3 Threats to coastal ecosystems: industrialisation, agriculture, tourism, deforestation
+       1.2.3 Coastal environments are of great importance to people and need to be sustainably managed
+           1.2.3.1 Conflicts between different users of the coast
+           1.2.3.2 Causes of coastal flooding: storm surges, tsunamis, climate change
+           1.2.3.3 Coastal management strategies: soft engineering, hard engineering, shoreline management plans
+   1.3 Hazardous Environments
+       1.3.1 Some places are more hazardous than others
+           1.3.1.1 Characteristics, distribution, and measurement of natural hazards: tropical cyclones, earthquakes, volcanoes
+           1.3.1.2 Causes of tropical cyclone hazards
+           1.3.1.3 Causes of volcanic and earthquake hazards
+       1.3.2 Hazards have an impact on people and the environment
+           1.3.2.1 Reasons for living in hazard-prone areas
+           1.3.2.2 Vulnerability of countries to natural hazards
+           1.3.2.3 Impacts of one earthquake, one volcano, and one tropical cyclone hazard
+       1.3.3 Earthquakes present a hazard to many people and need to be managed carefully
+           1.3.3.1 Preparation for earthquakes: warning, evacuation, building design, remote sensing, GIS
+           1.3.3.2 Short-term responses and relief: emergency aid, shelter, supplies
+           1.3.3.3 Longer-term planning: risk assessment, hazard mapping, rebuilding programs
+
+2. Paper 2: Human Geography
+   2.1 Economic Activity and Energy
+       2.1.1 The relative importance of different economic sectors and the location of economic activity varies spatially, and changes over time
+           2.1.1.1 Classification of employment by economic sector
+           2.1.1.2 Factors affecting the location of economic activity
+           2.1.1.3 Reasons for changes in employment numbers in each economic sector
+       2.1.2 The growth and decline of different economic sectors has resulted in a range of impacts and possible resource issues
+           2.1.2.1 Impacts of economic sector shifts in a developed and a developing or emerging country
+           2.1.2.2 Informal employment: causes and characteristics in a named megacity
+           2.1.2.3 Theories explaining the relationship between population and resources
+       2.1.3 Countries increasingly experience an energy gap and therefore seek energy security by developing a balanced energy mix and sustainable energy use
+           2.1.3.1 Global variations in energy demand and production
+           2.1.3.2 Non-renewable and renewable energy sources: advantages and disadvantages
+           2.1.3.3 Sustainable energy management: education, efficiency, conservation
+   2.2 Rural Environments
+       2.2.1 Rural environments are natural ecosystems that are exploited by human activities
+           2.2.1.1 Distributions and characteristics of the world’s biomes
+           2.2.1.2 Goods and services provided by natural ecosystems
+           2.2.1.3 Human use, modification, and change of ecosystems and rural environments
+       2.2.2 Rural environments have contrasting physical, social, and economic characteristics and are experiencing significant changes
+           2.2.2.1 Characteristics of a rural environment
+           2.2.2.2 Factors leading to rural changes in a developed country
+           2.2.2.3 Factors leading to rural changes in a developing or emerging country
+       2.2.3 Rural environments need to adapt to be socially, economically, and environmentally sustainable
+           2.2.3.1 Diversification of farming to generate new income streams
+           2.2.3.2 Strategies for sustainable rural living
+           2.2.3.3 Role of different groups in managing rural challenges
+   2.3 Urban Environments
+       2.3.1 A growing percentage of the world’s population lives in urban areas
+           2.3.1.1 Trends in urbanisation and processes of suburbanisation and counter-urbanisation
+           2.3.1.2 Factors affecting urbanisation rates and emergence of megacities
+           2.3.1.3 Problems associated with rapid urbanisation
+       2.3.2 Cities face a range of social and environmental challenges resulting from rapid growth and resource demands
+           2.3.2.1 Factors affecting urban land use patterns
+           2.3.2.2 Urban challenges in a developed country
+           2.3.2.3 Urban challenges in a developing or emerging country
+       2.3.3 Different strategies can be used to manage social, economic, and environmental challenges in a sustainable manner
+           2.3.3.1 Development of the rural-urban fringe
+           2.3.3.2 Strategies for sustainable urban living
+           2.3.3.3 Role of different groups in managing urban challenges
+
+3. Global Issues
+   3.1 Fragile Environments and Climate Change
+       3.1.1 Fragile environments are under threat from desertification, deforestation, and global climate change
+           3.1.1.1 Distributions and characteristics of fragile environments
+           3.1.1.2 Causes of desertification and deforestation
+           3.1.1.3 Causes of natural and human-induced climate change
+       3.1.2 There are various impacts of desertification, deforestation, and climate change on fragile environments
+           3.1.2.1 Social, economic, and environmental impacts of desertification
+           3.1.2.2 Social, economic, and environmental impacts of deforestation
+           3.1.2.3 Negative effects of climate change on fragile environments and people
+       3.1.3 The responses to desertification, deforestation, and climate change vary depending on a country’s level of development
+           3.1.3.1 Technological solutions to water-resource shortages
+           3.1.3.2 Sustainable management of rainforests
+           3.1.3.3 Responses to global warming and climate change
+   3.2 Globalisation and Migration
+       3.2.1 Globalisation is creating a more connected world, with increased movements of goods and people worldwide
+           3.2.1.1 Rise of the global economy and factors encouraging it
+           3.2.1.2 Role of global institutions in creating a globalised economy
+           3.2.1.3 Push and pull factors influencing migration rates
+       3.2.2 The impacts of globalisation vary on a global scale
+           3.2.2.1 Impacts of globalisation on different groups of people
+           3.2.2.2 Impacts of migration on different groups of people
+           3.2.2.3 Positive and negative impacts of global tourism
+       3.2.3 The responses to increased migration and tourism vary depending on a country’s level of development
+           3.2.3.1 Importance of geopolitical relationships in managing trade, migration, and tourism
+           3.2.3.2 Approaches to managing long-term migration
+           3.2.3.3 Approaches to sustainable tourism
+   3.3 Development and Human Welfare
+       3.3.1 Definitions of development and human welfare vary, as do attempts to measure it
+           3.3.1.1 Different ways of defining development
+           3.3.1.2 Factors contributing to development and human welfare
+           3.3.1.3 Measures of development: GDP, HDI, inequality, political corruption
+       3.3.2 The level of development and human welfare varies globally and has had a range of consequences
+           3.3.2.1 Global pattern of uneven development and factors leading to spatial variations
+           3.3.2.2 Impact of uneven development on welfare and quality of life
+           3.3.2.3 Differences in demographic data between countries at different development levels
+       3.3.3 A range of sustainable strategies is required to address uneven levels of development and human welfare
+           3.3.3.1 International strategies to reduce uneven development
+           3.3.3.2 Different views on tackling the development gap
+           3.3.3.3 Advantages and disadvantages of development projects in different countries

@@ -1,0 +1,3034 @@
+Qualification
+Accredited
+Oxford Cambridge and RSA
+Specification
+A LEVEL
+GEOGRAPHY
+OCR Level 3 Advanced GCE in Geography
+H481
+For first assessment in 2018
+Version 1.6 (March 2025) ocr.org.uk/alevelgeography
+Disclaimer Specifications are updated over time. Whilst every effort is made to check all
+documents, there may be contradictions between published resources and the
+specification, therefore please use the information on the latest specification at
+all times. Where changes are made to specifications these will be indicated within
+the document, there will be a new version number indicated, and a summary
+of the changes. If you do notice a discrepancy between the specification and a
+resource please contact us at: resources.feedback@ocr.org.uk
+We will inform centres about changes to specifications. We will also publish
+changes on our website. The latest version of our specifications will always be
+those on our website (ocr.org.uk) and these may differ from printed versions.
+Registered office:
+The Triangle Building
+© 2025 OCR. All rights reserved.
+Shaftesbury Road
+Cambridge
+Copyright
+CB2 8EA
+OCR retains the copyright on all its publications, including the specifications.
+However, registered centres for OCR are permitted to copy material from this
+OCR is an exempt charity.
+specification booklet for their own internal use.
+Oxford Cambridge and RSA is a Company Limited by Guarantee. Registered in
+England. Registered company number 3484466.
+Contents
+Support and Guidance ii
+Assessment Preparation and Analysis Service iii
+1 Why choose an OCR A Level in Geography? 1
+1a. Why choose an OCR qualification? 1
+1b. Why choose an OCR A Level in Geography? 2
+1c. What are the key features of this specification? 3
+1d. How do I find out more information? 3
+2 The specification overview 4
+2a. OCR’s A Level in Geography (H481) 4
+2b. Content of A Level in Geography (H481) 5
+2c. Content of Physical systems (H481/01) 6
+2c. Content of Human interactions (H481/02) 18
+2c. Content of Geographical debates (H481/03) 30
+2d. Content of Investigative geography (H481/04, 05) 46
+2e. Geographical and fieldwork skills 47
+2f. Prior knowledge, learning and progression 50
+3 Assessment of A Level in Geography 51
+3a. Forms of assessment 51
+3b. Assessment objectives (AO) 52
+3c. Total qualification time 53
+3d. Qualification availability outside of England 53
+3e. Language 53
+3f. Assessment availability 53
+3g. Retaking the qualification 53
+3h. Assessment of extended response 53
+3i. Non-exam assessment – Investigative geography (H481/04, 05) 54
+3j. Synoptic assessment 67
+3k. Calculating qualification results 67
+4 Admin: what you need to know 68
+4a. Pre-assessment 68
+4b. Special consideration 69
+4c. External assessment arrangements 69
+4d. Admin of non-exam assessment 70
+4e. Results and certificates 71
+4f. Post-results services 72
+4g. Malpractice 72
+5 Appendices 73
+5a. Overlap with other qualifications 73
+5b. Accessibility 73
+5c. Glossary of terms from the specification content 74
+5d. Teacher Guidance for Investigative geography (04, 05) Rationale 75
+5e. Examples of specific guidance and general guidance 77
+Summary of updates 81
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography i
+Support and Guidance
+Introducing a new specification brings challenges for will grow throughout the lifetime of the specification,
+implementation and teaching, but it also opens up new they include:
+opportunities. Our aim is to help you at every stage.
+• Delivery Guides
+We are working hard with teachers and other experts
+• Transition Guides
+to bring you a package of practical support, resources
+• Topic Exploration Packs
+and training.
+• Lesson Elements.
+Subject Advisors We also work with a number of leading publishers who
+publish textbooks and resources for our specifications.
+OCR Subject Advisors provide information and support
+For more information on our publishing partners
+to centres including specification and non-
+and their resources visit: ocr.org.uk/qualifications/
+exam assessment advice, updates on resource
+resource-finder/publishing-partner
+developments and a range of training opportunities.
+Our Subject Advisors work with subject communities Professional development
+through a range of networks to ensure the sharing of
+Our improved Professional Development
+ideas and expertise supporting teachers and students
+Programme fulfils a range of needs through
+alike. They work with developers to help produce our
+course selection, preparation for teaching, delivery
+specifications and the resources needed to support
+and assessment. Whether you want to look at
+these qualifications during their development.
+our new digital training or search for training
+You can contact our Geography Subject materials, you can find what you’re looking
+Advisors for specialist advice, guidance and support: for all in one place at the CPD Hub:
+cpdhub.ocr.org.uk
+01223 553998
+Geography@OCR.org.uk
+An introduction to new specifications
+@OCR_Geography
+We run training events throughout the academic year
+that are designed to help prepare you for first teaching
+Teaching and learning resources
+and support every stage of your delivery of the new
+qualifications.
+Our resources are designed to provide you with a
+range of teaching activities and suggestions that enable
+you to select the best activity, approach or context To receive the latest information about the training
+to support your teaching style and your particular we offer on GCSE and A Level, please register for email
+students. The resources are a body of knowledge that updates at: ocr.org.uk/updates
+Version 1.6 © OCR 2025
+ii OCR Level 3 Advanced GCE in Geography
+Assessment Preparation and Analysis Service
+Along with subject-specific resources and tools, you’ll focus on skills development, professional guidance for
+also have access to a selection of generic resources that teachers and results data analysis.
+Subject Advisor Support Practice Papers
+Our Subject Advisors provide Assess students’ progress under
+you with access to specifications, formal examination conditions
+high-quality teaching resources with question papers downloaded
+and assessment materials. from a secure location, well-presented,
+easy-to-interpret mark schemes
+and commentary on marking and
+sample answers.
+Skills Guides Active Results
+These guides cover topics that Our free online results analysis
+could be relevant to a range service helps you review the
+of qualifications, for example performance of individual students
+communication, legislation or your whole cohort. For more
+and research. details, please refer to
+Download the guides at ocr.org.uk/activeresults
+ocr.org.uk/skillsguides
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography iii
+Version 1.6 © OCR 2025
+iv OCR Level 3 Advanced GCE in Geography
+1 Why choose an OCR A Level in Geography?
+1a. Why choose an OCR qualification?
+Choose OCR and you’ve got the reassurance that to encourage learners to become responsible for their
+you’re working with one of the UK’s leading exam own learning, confident in discussing ideas,
+1
+boards. Our new A Level in Geography course has innovative and engaged.
+been developed in consultation with teachers,
+employers and Higher Education to provide learners We provide a range of support services designed to
+with a qualification that’s relevant to them and meets help you at every stage, from preparation through
+their needs. to the delivery of our specifications. This includes:
+We’re part of the Cambridge Assessment • A wide range of high-quality creative resources
+Group, Europe’s largest assessment agency including:
+and a department of the University of Cambridge. •• Delivery Guides
+Cambridge Assessment plays a leading role in •• Transition Guides
+developing and delivering assessments throughout •• Topic Exploration Packs
+the world, operating in over 150 countries. •• Lesson Elements
+•• . . . and much more.
+We work with a range of education providers,
+including schools, colleges, workplaces and other • Access to Subject Advisors to support you
+institutions in both the public and private sectors. through the transition and throughout the
+Over 13,000 centres choose our A Levels, GCSEs lifetime of the specifications.
+and vocational qualifications including Cambridge
+Nationals and Cambridge Technicals. • CPD/Training for teachers to introduce the
+qualifications and prepare you for first
+Our Specifications teaching.
+We believe in developing specifications that help you • Active Results – our free results analysis
+bring the subject to life and inspire your students to service to help you review the performance
+achieve more. of individual learners or whole schools.
+We’ve created teacher-friendly specifications All A Level qualifications offered by OCR are
+based on extensive research and engagement with accredited by Ofqual, the Regulator for qualifications
+the teaching community. They’re designed to be offered in England. The accreditation number for
+straightforward and accessible so that you can tailor OCR’s A Level in Geography is QN 601/8576/4.
+the delivery of the course to suit your needs. We aim
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 1
+1b. Why choose an OCR A Level in Geography?
+OCR’s A Level in Geography aims to encourage OCR will have a comprehensive support package in
+learners to develop a range of essential skills for place for the delivery of A Level Geography, including
+1
+Higher Education and the world of work through a range of free resources available on the website,
+content which is relevant to any citizen of the CPD opportunities and Geography Subject Advisors
+planet in the 21st century. Through exciting topics who are available to support teachers. This support
+learners will understand the nature of physical will continuously evolve to suit the requirements
+and human geography whilst unpicking the debates of teaching and learning throughout the lifetime of
+surrounding contemporary challenges facing the the specification, based on continued feedback
+world today. from teachers.
+Aims and learning outcomes
+OCR’s A Level in Geography will enable learners to: • improve their understanding of the ways in
+which values, attitudes and circumstances
+• develop their knowledge of locations, have an impact on the relationships between
+places, processes and environments, at all people, place and environment, and develop
+geographical scales from local to global across the knowledge and ability to engage, as
+the specification as a whole citizens, with the questions and issues arising
+• develop an in-depth understanding of the • become confident and competent in selecting,
+selected core and non-core processes in using and evaluating a range of quantitative
+physical and human geography at a range and qualitative skills and approaches, (including
+of temporal and spatial scales, and of the observing, collecting and analysing geo-located
+concepts which illuminate their significance data) and applying them as an integral part of
+in a range of locational contexts their studies
+• recognise and be able to analyse the complexity • understand the fundamental role of fieldwork
+of people-environment interactions at all as a tool to understand and generate new
+geographical scales, and appreciate how these knowledge about the real world, and become
+underpin understanding of some of the key skilled at planning, undertaking and evaluating
+issues facing the world today fieldwork in appropriate situations
+• develop their understanding of, and ability to • apply geographical knowledge, understanding,
+apply, the concepts of place, space, scale and skills and approaches in a rigorous way to a
+environment, that underpin both the national range of geographical questions and issues,
+curriculum and GCSE, including developing a including those identified in fieldwork,
+more nuanced understanding of these concepts recognising both the contributions and
+limitations of geography
+• gain understanding of specialised concepts
+relevant to the core and non-core content. • develop as critical and reflective learners, able
+These must include the concepts of causality, to articulate opinions, suggest relevant new
+systems, equilibrium, feedback, inequality, ideas and provide evidenced argument in a
+representation, identity, globalisation, range of situations.
+interdependence, mitigation and adaptation,
+sustainability, risk, resilience and thresholds
+Version 1.6 © OCR 2025
+2 OCR Level 3 Advanced GCE in Geography
+1c. What are the key features of this specification?
+The key features of OCR’s A Level in Geography for • an independent investigation giving learners
+you and your learners are: resilience in self-sufficient study
+1
+• exciting content studied through a choice of • a simple assessment structure with clear and
+topics giving rich learning opportunities progressive study pathways
+• choice of geographical debates to study giving • co-teachability with OCR’s AS Level in
+learners a deep understanding of the Geography to give flexibility in teaching and
+contemporary challenges of the 21st century learning
+• opportunities for learners to gain vital • a glossary to explain key terms and clarify
+geographical, fieldwork and life skills definitions (see Section 5c).
+1d. How do I find out more information?
+If you are already using OCR specifications you can Want to find out more?
+contact us at: www.ocr.org.uk
+Ask our Subject Advisors:
+If you are not already a registered OCR centre then
+you can find out more information on the benefits of Email: Geography@ocr.org.uk
+becoming one at: www.ocr.org.uk
+Teacher support: www.ocr.org.uk/qualifications/
+If you are not yet an approved centre and would like by-subject/geography/
+to become one go to: www.ocr.org.uk
+Telephone: 01223 553998
+Twitter: @OCR_Geography
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 3
+2 The specification overview
+2a. OCR’s A Level in Geography (H481)
+Learners take all components: 01, 02, 03 and 04 OR 01, 02, 03 and 05 to be awarded the OCR A Level in
+Geography.
+Content Overview Assessment Overview
+2
+Physical systems
+22%
+• Landscape Systems (01)
+• Earth’s Life Support Systems 66 marks of total
+• Geographical Skills 1 hour 30 minute A Level
+written paper
+Human interactions (02) 22%
+• Changing Spaces; Making Places
+66 marks
+• Global Connections of total
+1 hour 30 minute
+• Geographical Skills
+A Level
+written paper
+Optionality – study 2 of 5
+• Climate Change Geographical debates (03)* 36%
+• Disease Dilemmas
+108 marks
+of total
+• Exploring Oceans
+• Future of Food 2 hours 30 minute
+A Level
+• Hazardous Earth written paper
+• Geographical Skills
+Investigative geography
+20%
+(04/05)*
+of total
+• Independent Investigation 60 marks
+Non-examination A Level
+assessment (NEA)
+*Indicates inclusion of synoptic assessment.
+Version 1.6 © OCR 2025
+4 OCR Level 3 Advanced GCE in Geography
+2b. Content of A Level in Geography (H481)
+“Where we come from, what we do, what we eat, Geographical debates (03) allows teachers and
+how we move about and how we shape our future are learners to explore in depth two from a choice of
+all directly the province of the geographer. More than five of the most challenging, dynamic and fascinating
+ever we need the geographer’s skills and foresight to issues of the 21st century. With choices between such
+help us learn about the planet — how we use it and wide-ranging topic areas as climate change, disease,
+how we abuse it.” – Michael Palin food security, oceans and tectonic hazards, there
+2
+are debates to appeal to all with the implications on
+The OCR A Level in Geography has been designed people and the environment being at the heart of
+to give learners the knowledge, understanding and this component.
+skills necessary to become engaged global citizens.
+Through the study of dynamic and contemporary The Investigative geography (04/05) component
+content, learners can understand and interact allows learners to undertake an independent
+with issues which affect people and places at a investigation linked to any aspect of the specification
+range of scales from local to global – and all that is to satisfy their intellectual curiosity. This component
+in-between. is designed to encourage learners to deepen their
+knowledge and understanding of their chosen topic
+Components within the OCR A Level in Geography will whilst developing a number of geographical and
+consist of: study skills relevant to Higher Education or within
+the world of work.
+• Physical systems (01)
+The content has a simple structure with enquiry
+• Human interactions (02) questions broken down into key ideas and content
+columns. The content column indicates what will be
+• Geographical debates (03) assessed. The content is studied, as appropriate, at a
+variety of scales from local to global. Where there are
+• Investigative geography (04/05). skills specific to a topic, they are listed at the end of
+that topic. Skills which can be applied across multiple
+Through the study of Physical systems (01) learners areas of content are stated within Section 2(e)
+will develop an understanding and appreciation of Geographical and Fieldwork Skills.
+Landscape Systems, contextualised through either
+coastal landscapes, dryland landscapes or glaciated The content should be contextualised through case
+landscapes, and Earth’s Life Support Systems, which studies and exemplars where appropriate. Learners
+encompasses the water and carbon cycles vital to should have contextual knowledge of any countries
+our planet. from which case studies and exemplars are chosen.
+Case studies should be chosen from the 21st century.
+Learners will explore Human interactions (02)
+through the study of Global Connections, with a Geography education should encourage learners
+choice between focusing on the systems of trade or to develop a sense of wonder about the world.
+migration and the governance of human rights or Geography is potentially the most relevant subject
+sovereignty on a global scale, and Changing Spaces; for any learner in the 21st century and the OCR
+Making Places, which gives learners an insight into A Level in Geography aims to drive a passion and
+the nature of places and the fluidity of their meanings love of this dynamic subject through its exciting
+and representations. and engaging content.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 5
+2c. Content of Physical systems (H481/01)
+The Physical systems (01) component is built around landscapes and cycles, which shape them over time
+two main topics, Landscape Systems and Earth’s Life and create a number of issues when attempting to
+Support Systems. Learners will explore one chosen manage them.
+landscape from three options, coastal landscapes,
+glaciated landscapes and dryland landscapes, as Learners will investigate examples and case studies
+well as the carbon and water cycles in a systems at a range of scales to understand the dynamic
+2
+framework. nature of landscapes and the water and carbon
+cycles. Quantitative and qualitative fieldwork
+The inter-relationships between the land, oceans opportunities present themselves within this
+and atmosphere help learners to understand the component, within helping learners to generate new
+processes, characteristics and impacts on these knowledge and understanding about the real world.
+Version 1.6 © OCR 2025
+6 OCR Level 3 Advanced GCE in Geography
+Topic 1.1 – Landscape Systems
+“Life is like a landscape. You live in the midst of it Choosing one of either Option A coastal, Option B
+but can describe it only from the vantage point of glaciated or Option C dryland landscapes, learners
+distance.” – Charles Lindbergh will explore how the landscape can be viewed as
+system, how landforms developed within their
+This topic introduces learners to the integrated study chosen landscape and the influences of both
+of Earth surface processes, landforms and resultant climate and human activity on this.
+2
+landscapes within the conceptual framework of a
+systems approach. For all options within this topic, study must
+include at least two case studies from landscapes
+An understanding of Earth surface processes, beyond the UK and at least one landscape from
+together with their associated transfers of energy the UK.
+and movements of materials underpins the
+landscape systems topic.
+1.1.1 Option A – Coastal Landscapes
+1. How can coastal landscapes be viewed as systems?
+Key Ideas Content
+1.a. Coastal • A conceptual overview of:
+landscapes can be •• the components of coastal landscape systems, including inputs, processes
+viewed as systems. and outputs
+•• the flows of energy and material through coastal systems
+•• sediment cells.
+1.b. Coastal • Potential influences on coastal landscape systems of:
+landscape systems •• winds, including speed, direction and frequency
+are influenced by a •• waves, including wave formation, development and breaking
+range of physical •• tides, including tidal cycles and range
+factors. •• geology, including lithology and structure
+•• global pattern of ocean currents.
+1.c. Coastal • The various sources of coastal sediment:
+sediment is •• terrestrial, including fluvial deposition, weathering and mass movement,
+supplied from a marine erosion, aeolian deposition and longshore drift
+variety of sources. •• offshore, including marine deposition
+•• human, including beach nourishment.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 7
+2. How are coastal landforms developed?
+Key Ideas Content
+2.a. Coastal • The influence of flows of energy and materials on geomorphic processes,
+landforms develop including weathering, mass movement, wave, fluvial and aeolian erosion,
+due to a variety of transportation and deposition.
+interconnected • The formation of distinctive landforms, predominantly influenced by erosion,
+climatic and including bays, headlands, cliffs, shore platforms, geos, blow holes, caves, arches,
+2
+geomorphic stacks and stumps.
+processes. • The formation of distinctive landforms, predominantly influenced by deposition,
+including beaches, spits, on-shore bars, tombolos and salt marshes.
+2.b. Coastal • Case studies of one high energy coastline (such as rocky) and one low energy
+landforms are coastline, such as estuarine, to illustrate:
+inter-related and •• the physical factors which influence the formation of landforms within the
+together make up landscape system
+characteristic •• the inter-relationship of a range of landforms within the characteristic
+landscapes. landscape system
+•• how and why the landscape system changes over time from millennia to
+seconds, such as cliff collapse in seconds, seasonal changes in beach profile
+and spit growth over millennia.
+At least one of the case studies must be from beyond the UK.
+3. How do coastal landforms evolve over time as climate changes?
+Key Ideas Content
+3.a. Emergent • How landforms in emergent landscapes are influenced by falling sea levels due
+coastal landscapes to a cooling climate, including:
+form as sea level •• climate changes that occurred during a previous time period and the
+falls. resultant sea level fall
+•• the influence of sea level fall and geomorphic processes in shaping
+landforms, including raised beaches, marine terraces and abandoned cliffs
+•• the modification of these landforms by processes associated with present
+and future climate and sea level changes.
+3.b. Submergent • How landforms in submergent landscapes are influenced by rising sea level due
+coastal landscapes to a warming climate, including:
+form as sea level •• climate changes that occurred during a previous time period and the
+rises. resultant sea level rise
+•• the influence of sea level rise and geomorphic processes in shaping
+landforms, including rias, fjords and shingle beaches
+•• the modification of these landforms by processes associated with present
+and future climate and sea level changes.
+Version 1.6 © OCR 2025
+8 OCR Level 3 Advanced GCE in Geography
+4. How does human activity cause change within coastal landscape systems?
+Key Ideas Content
+4.a. Human • Case study of one coastal landscape that is being managed, including:
+activity •• the management strategy being implemented and the reason for its
+intentionally implementation, such as groyne construction or off-shore dredging
+causes change •• their intentional impacts on processes and flows of material, processes and/
+within coastal or energy through the coastal system, such as their effect on the sediment
+2
+landscape systems. budget
+•• the effect of these impacts in changing coastal landforms, such as changes
+in beach profile
+•• the consequence of these changes on the landscape, such as extension of
+the coastal landscape seawards.
+4.b. Economic • Case study of one coastal landscape that is being used by people to illustrate:
+development •• the economic development taking place and the reasons for it taking place,
+unintentionally such as trade routes, port or tourist resort development
+causes change •• their unintentional impacts on processes and flows of material, processes
+within coastal and/or energy through the coastal system, such as disturbance to the
+landscape systems. sediment cell balance
+•• the effect of these impacts in changing coastal landforms, such as beach
+profiles
+•• the consequence of these changes on the landscape, such as coastal retreat
+or protection.
+5. Topic-specific skills:
+• observation skills
+• measurement and geo-spatial mapping skills
+• data manipulation and statistical skills applied to field measurements
+• sediment budget calculations
+• mass balance calculations.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 9
+1.1.2 Option B – Glaciated Landscapes
+1. How can glaciated landscapes be viewed as systems?
+Key Ideas Content
+1.a. Glaciated • A conceptual overview of:
+landscapes can be •• the components of glaciated landscape systems, including inputs, processes
+2 viewed as systems. and outputs
+•• the flows of energy and material through glaciated systems
+•• glacier mass balance.
+1.b. Glaciated • Potential influences on glaciated landscape systems of:
+landscapes are •• climate, including precipitation totals and patterns
+influenced by a •• geology, including lithology and structure
+range of physical •• latitude and altitude
+factors. •• relief and aspect on microclimate and glacier movement.
+1.c. There are • The characteristics of different types of glacier and their movement, including:
+different types of •• the formation of glacier ice
+glacier and glacier •• valley glaciers and ice sheets
+movement. •• warm-based and cold-based glaciers
+•• basal sliding and internal deformation.
+2. How are glacial landforms developed?
+Key Ideas Content
+2.a. Glacial • The influence of flows of energy and materials on geomorphic processes,
+landforms develop including weathering, mass movement, glacial erosion, nivation, transportation
+due to a variety of and deposition.
+interconnected • The formation of distinctive landforms, predominantly influenced by erosion,
+climatic and including corries, arêtes, pyramidal peaks, troughs, roche moutonnée and
+geomorphic striations.
+processes. • The formation of distinctive landforms, predominantly influenced by deposition,
+including terminal, lateral and recessional moraines, erratics, drumlins and till
+sheets.
+2.b. Glacial • Case studies of one landscape associated with the action of valley glaciers and
+landforms are one associated with the action of ice sheets to illustrate:
+inter-related and •• the physical factors which influence the formation of landforms within the
+together make up landscape system
+characteristic •• the inter-relationship of a range of landforms within the characteristic
+landscapes. landscape system
+•• how and why the landscape system changes over time from millennia to
+seconds, such as rock fall in seconds, seasonal changes in deposition rates
+and erosion of basins over millennia.
+At least one of the case studies must be from beyond the UK.
+Version 1.6 © OCR 2025
+10 OCR Level 3 Advanced GCE in Geography
+3. How do glacial landforms evolve over time as climate changes?
+Key Ideas Content
+3.a. Glacio-fluvial • How landforms in glaciated landscapes are influenced in post-glacial periods,
+landforms exist as including:
+a result of climate •• climate changes that occurred during a post-glacial period and the effect on
+change at the end resultant geomorphic processes
+of glacial periods. •• the influence of these processes in forming landforms, including kames,
+2
+eskers and outwash plains
+•• the modification of these landforms by processes associated with present
+and future climate changes.
+3.b. Periglacial • How landforms in periglacial landscapes are influenced by climate change, including:
+landforms exist as •• climate changes that occurred during a previous time period and the effect
+a result of climate on resultant geomorphic processes
+change before •• the influence of these processes in forming landforms, including patterned
+and/or after glacial ground and pingos
+periods. •• the modification of these landforms by processes associated with present
+and future climate changes.
+4. How does human activity cause change within glaciated and periglacial landscape systems?
+Key Ideas Content
+4.a. Human • Case study of one periglacial landscape that is being used by people, to illustrate:
+activity causes •• the human activity taking place and the reasons for it taking place, such as
+change within resource extraction
+periglacial •• the impacts on processes and flows of material, processes and/or energy
+landscape systems. through the periglacial system, such as increased heat produced by
+buildings
+•• the effect of these impacts in changing periglacial landforms, such as
+thawing of permafrost
+•• the consequence of these changes on the landscape, such as development
+of thermokarst.
+4.b. Human • Case study of one glaciated landscape that is being used by people, to illustrate:
+activity causes •• the human activity taking place and the reasons for it taking place, such as
+change within dam construction
+glaciated •• the impacts on processes and flows of material, processes and/or energy
+landscape systems. through the glacial system, such as trapping of sediment
+•• the effect of these impacts in changing glacial landforms, such as increased
+channel scour below dams
+•• the consequence of these changes on the landscape, such as changes to
+valley floor.
+5. Topic-specific skills:
+• observation skills
+• measurement and geo-spatial mapping skills
+• data manipulation and statistical skills applied to field measurements
+• sediment budget calculations
+• mass balance calculations.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 11
+1.1.3 Option C – Dryland Landscapes
+1. How can dryland landscapes be viewed as systems?
+Key Ideas Content
+1.a. Dryland • A conceptual overview of:
+landscapes can be •• the components of dryland landscape systems, including inputs, processes
+2 viewed as systems. and outputs
+•• the flows of energy and material through dryland systems
+•• aridity index, including UNEP.
+1.b. Dryland • Potential influence on dryland systems of:
+landscapes are •• climate, including precipitation totals and patterns
+influenced by a •• geology, including lithology and structure
+range of physical •• latitude and altitude
+factors. •• relief and aspect on microclimate
+•• the availbility of sediment.
+1.c. There are • The characteristics of different types of dryland landscapes:
+different types of •• polar drylands
+dryland. •• mid- and low-latitude deserts
+•• semi-arid environments.
+2. How are landforms of mid and low latitude deserts developed?
+Key Ideas Content
+2.a. Dryland • The influence of flows of energy and materials on geomorphic processes,
+landscapes including weathering, mass movement, fluvial and aeolian erosion,
+develop due to a transportation and deposition.
+variety of • The formation of distinctive landforms, predominantly influenced by erosion,
+interconnected including wadis, canyons, pedestal rocks, ventifacts and desert pavements.
+climatic and • The formation of distinctive landforms, predominantly influenced by deposition,
+geomorphic including barchans, linear dunes, star dunes, alluvial fans and bajadas.
+processes.
+2.b. Dryland • Case studies of one mid-latitude desert and one low-latitude desert to illustrate:
+landforms are •• the physical factors which influence the formation of landforms within the
+inter-related and landscape system
+together make up •• the inter-relationship of a range of landforms within the characteristic
+characteristic landscape system
+landscapes. •• how and why the landscape system changes over time from millennia to
+seconds, such as the impact of flash floods on alluvial fans in seconds,
+seasonal and ephemeral streams on canyons and pediment development
+over the millennia.
+Version 1.6 © OCR 2025
+12 OCR Level 3 Advanced GCE in Geography
+3. How do dryland landforms evolve over time as climate changes?
+Key Ideas Content
+3.a. Fluvial • How dryland landforms have been influenced by previous pluvial conditions,
+landforms can including:
+exist in dryland •• climate changes that occurred during a previous time period and the
+landscapes as a resultant pluvial conditions
+result of earlier •• the influence of pluvial conditions and geomorphic processes in shaping
+2
+pluvial periods. landforms, including inselbergs and pediments
+•• the modification of these landforms by processes associated with present
+and future climate changes.
+3.b. Periglacial • How dryland landscapes have been influenced by colder climatic conditions,
+landforms can including:
+exist as a result of •• climate changes that occurred during a previous time period and the
+earlier colder resultant colder conditions
+periods. •• the influence of colder climatic conditions and geomorphic processes in
+shaping landforms, including frost shattered debris, nivation hollows and
+solifluction deposits
+•• the modification of these landforms by processes associated with present
+and future climate changes.
+4. How does human activity cause change within dryland landscape systems?
+Key Ideas Content
+4.a. Water supply • Case study of one dryland landscape that is being used by people, to illustrate:
+issues can cause •• the water supply issue taking place and the reasons for it taking place, such
+change within as water shortage due to drought
+dryland landscape •• its impacts on processes and flows of material, processes and/or energy
+systems. through the dryland landscape system, such as high rates of sediment
+trapping behind dams or modifying rivers to distribute and store water
+•• the effect of these impacts in changing dryland landforms, such as
+decreased growth of wadis
+•• the consequence of these changes on the landscape, such as reducing
+depositional landforms such as alluvial fans or slowing pediment
+development.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 13
+4. How does human activity cause change within dryland landscape systems?
+Key Ideas Content
+4.b. Economic • Case study of one dryland landscape that is being used by people, to illustrate:
+activity can cause •• the economic activity taking place and the reasons for it taking place, such
+change within as tourism
+dryland landscape •• its impacts on processes and flows of material and/or energy through the
+systems. dryland landscape system, such as vegetation and cryptobiotic crust
+2
+damage by dune buggy use
+•• the effect of these impacts in changing dryland landforms, such as higher
+erosion rates on dunes
+•• the consequence of these changes on the landscape, such as increased
+loess accumulation in marginal areas.
+5. Topic-specific skills:
+• observation skills
+• measurement and geo-spatial mapping skills
+• data manipulation and statistical skills applied to field measurements
+• sediment budget calculations
+• mass balance calculations.
+Version 1.6 © OCR 2025
+14 OCR Level 3 Advanced GCE in Geography
+Topic 1.2 – Earth’s Life Support Systems
+“Just as human activity is upsetting the Earth’s Forests, soils, oceans and the atmosphere all store
+carbon cycle, our actions are altering the water carbon and yet they are threatened and altered by
+cycle.” – David Suzuki human activity, this will be examined in detail through
+the Tropical Rainforest and the Arctic tundra case
+Water and carbon support life on Earth, utilised by studies as well as at a global scale.
+flora, fauna and humans. 71% of the Earth’s surface is
+2
+covered in water however 68% of the freshwater is Physical changes in these cycles occur over time,
+locked in ice and glaciers. Water is moved and stored from seconds to millions of years, and these changes
+beneath our feet and this 30% is critically important can be seen at a range of scales, from individual
+to life on Earth. plants or trees to vast ecosystems. With research and
+monitoring it is clear there is an increased need for
+Water and carbon are cycled between the land, global and national solutions to protect ‘Earth’s life
+oceans and atmosphere in open and closed systems, support systems’.
+the processes within these cycles are inter-related.
+1. How important are water and carbon to life on Earth?
+Key Ideas Content
+1.a. Water and carbon • The importance of water in supporting life on the planet, the uses of water
+support life on Earth for humans, flora and fauna.
+and move between the • Carbon is the building block of life on Earth. It is available for use in the
+land, oceans and natural world and by humans.
+atmosphere. • Water and carbon cycling between the land, oceans and atmosphere
+through open and closed systems.
+1.b. The carbon and • The distribution and size of the major stores in the carbon and water
+water cycles are systems, including the atmosphere, oceans, water bodies, ice (cryosphere),
+systems with inputs, soil, vegetation and groundwater.
+outputs and stores. • The characteristics of the main inputs and outputs of the water cycle,
+including precipitation and snowmelt (ablation) and evapotranspiration.
+• The characteristics of the main inputs and outputs of the carbon cycle,
+including precipitation, photosynthesis, decomposition, weathering
+(including main forms of chemical weathering) respiration and combustion.
+1.c. The carbon and • The processes of the water cycle, including evaporation, transpiration,
+water cycles have condensation (including formation of clouds), precipitation (including causes
+distinctive processes of precipitation), interception, ablation, runoff (including overland flow and
+and pathways that saturated overland flow), catchment hydrology (including infiltration,
+operate within them. percolation, throughflow, groundwater flow and cryospheric processes).
+• The processes of the carbon cycle, including photosynthesis, respiration,
+decomposition, combustion (including natural and fossil fuel use), natural
+sequestration in oceans, vegetation, sediments and weathering.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 15
+2. How do the water and carbon cycles operate in contrasting locations?
+Key Ideas Content
+2.a. It is possible to • Case study of a tropical rainforest, including:
+identify the physical •• water and carbon cycles specific to tropical rainforests, including the
+and human factors that rates of flow and distinct stores. How an individual tree through to the
+affect the water and rainforest as a whole can influence these cycles
+2
+carbon cycles in a •• physical factors affecting the flows and stores in the water cycle,
+tropical rainforest. including temperature, rock permeability and porosity and relief
+•• physical factors affecting the flows and stores in the carbon cycle,
+including temperature, vegetation, organic matter in soil and the
+mineral composition of rocks
+•• for one drainage basin in the tropical rainforest, explore the changes to
+the flows and stores within the water cycle caused by natural and
+human factors such as deforestation and farming factors
+•• the impact of human activity, such as deforestation and farming, on
+carbon flows, soil and nutrient stores
+•• strategies to manage the tropical rainforest such as afforestation and
+improved agriculture techniques that have positive effects on the
+water and carbon cycles.
+2.b. It is possible to • Case study of the Arctic tundra, including:
+identify the physical •• water and carbon cycles specific to Arctic tundra, including the rates of
+and human factors that flow and distinct stores
+affect the water and •• physical factors affecting the flows and stores in the cycles, including
+carbon cycles in an temperature, rock permeability and porosity and relief
+Arctic tundra area. •• physical factors affecting the flows and stores in the carbon cycle,
+including temperature, vegetation, organic matter in soil and the
+mineral composition of rocks
+•• seasonal changes in the water and carbon cycles in the Arctic tundra
+•• the impact of the developing oil and gas industry on the water and
+carbon cycles
+•• management strategies used to moderate the impacts of the oil and
+gas industry.
+Version 1.6 © OCR 2025
+16 OCR Level 3 Advanced GCE in Geography
+3. How much change occurs over time in the water and carbon cycles?
+Key Ideas Content
+3.a. Human factors can • Dynamic equilibrium in the cycles and the balance between the stores and
+disturb and enhance the flows.
+the natural processes • Land use changes, such as growth in urban areas, farming and forestry, as a
+and stores in the water catalyst for altering the flows and stores in these cycles.
+and carbon cycles. • How water extraction, including surface extraction and sub-surface 2
+groundwater extraction (including aquifers and artesian basins) impact the
+flows and stores in these cycles.
+• The impact of fossil fuel combustion and carbon sequestration on flows and
+stores of carbon.
+• Positive and negative feedback loops within and between the water and
+carbon cycles.
+3.b. The pathways and • Short term changes to the cycles and the significance of these changes,
+processes which including diurnal and seasonal changes of climate, temperature, sunlight and
+control the cycling of foliage.
+water and carbon vary • Long term (millions of years) changes in the water and carbon cycles,
+over time. including changes to stores and flows.
+• The importance of research and monitoring techniques to identify and
+record changes to the global water and carbon cycles; reasons why this data
+is gathered.
+4. To what extent are the water and carbon cycles linked?
+Key Ideas Content
+4.a. The two cycles • The ways in which the two cycles link and are interdependent via oceans,
+are linked and atmosphere, cryosphere and vegetation.
+interdependent. • How human activities cause changes in the availability of water and carbon
+(including fossil and terrestrial) stores, such as the use of these as resources.
+• The impact of long-term climate change on the water and carbon cycles.
+4.b. The global • Global management strategies to protect the carbon cycle as regulator of the
+implications of water Earth’s climate, including afforestation, wetland restoration, improving
+and carbon agricultural practices and reducing emissions (including carbon trading and
+management. international agreements).
+• Global management strategies to protect the water cycle including improving
+forestry techniques, water allocations for domestic, industrial and agricultural
+use and drainage basin planning (including run-off, surface stores and
+groundwater).
+5. Topic-specific skills:
+• climate graphs
+• simple mass balance
+• rates of flow
+• unit conversions
+• analysis and presentation of field data.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 17
+2c. Content of Human interactions (H481/02)
+The Human interactions (02) component is built Through examples and case studies learners will
+around two main topics, Global Connections and explore a variety of contrasting places, unpicking the
+Changing Spaces; Making Places. It investigates the flows and connections that have made them what
+actions, interactions and spatial patterns of people in they are and the way in which global systems and
+places. Learners will build a picture of how the world governance have local consequences. The concepts of
+around them is shaped by humans, starting from the inequality, interdependence, representation, identity
+2
+local and moving out to regional, national and and globalisation are particularly relevant to this
+international scales. component and qualitative research and fieldwork
+opportunities complement it well.
+Version 1.6 © OCR 2025
+18 OCR Level 3 Advanced GCE in Geography
+Topic 2.1 – Changing Spaces; Making Places
+“Our lack of thinking about place and space risks Starting from the local place in which learners
+turning challenges into crises.” – Royal Town live and moving outwards to the regional, national
+Planning Institute, UK and global scale in order to understand the
+interconnections and dynamics of place. Investigating
+People are at the heart of places, living their lives, how shifting flows of people, money and resources
+forming attachments and making connections. Places are shaping places, whilst economic changes are
+2
+are dynamic, multi-layered and the history and contributing to a landscape of haves and have nots.
+culture of a nation can be found in its buildings,
+public spaces and towns and cities. Our environment Exploration of the relationships and connections
+includes a wide variety of places, from rural to urban, between people, the economy, and society and how
+small streets to megacities and diversity exists not these contribute to creating places. Placemaking
+only between but also within all of these places. projects are explored, considering the meanings and
+representations created and attached to places.
+Places are connected to other places and there are Placemaking projects can happen at a variety of levels
+few left untouched by the forces of globalisation. from individual project, street level, cultural quarter
+Changing Spaces; Making Places allows learners to or whole city level.
+look through a local lens to understand global issues.
+1. What’s in a place?
+Key Ideas Content
+1.a. Places are • Case studies of two contrasting place profiles at a local scale, including:
+multi-faceted, •• their demographic, socio-economic, cultural, political, built and natural
+shaped by shifting characteristics that shape their place identity.
+flows and •• their past and present connections that shape the place identity and embed
+connections which them in regional, national, international and global scales
+change over time. •• how shifting flows of people (such as commuter, migration), resources (such
+as natural, technology), money and investment (such as EU funding, TNCs)
+and ideas (such as knowledge economy) have helped shape the
+demographic, socio-economic and cultural profile of these places over time.
+2. How do we understand place?
+Key Ideas Content
+2.a. People see, • The complexities that exist when trying to define place, including the concept of
+experience and space versus place.
+understand place • How and why people perceive places in different ways based on their identity,
+in different ways, including age, gender, sexuality, religion and role.
+this can also • How level of emotional attachment to place can influence people’s behaviour
+change over time. and activities in a place.
+• How the processes of globalisation and time-space compression can influence
+our sense of place.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 19
+2. How do we understand place?
+Key Ideas Content
+2.b. Places are • How informal representations of a place differ through contrasting media such as
+represented TV, film, music, art, photography, literature, graffiti and blogs.
+through a variety • Identify how formal and statistical representations of a place, such as census and
+of contrasting geospatial data, contrasts with informal representations.
+formal and
+2
+informal agencies.
+3. How does economic change influence patterns of social inequality in places?
+Key Ideas Content
+3.a. The • The concept of social inequality and how this can be measured through indices
+distribution of such as housing, healthcare, education, employment and access to services.
+resources, wealth • How and why spatial patterns of social inequalities vary both within and
+and opportunities between places.
+are not evenly
+spread within and
+between places.
+3.b. Processes • The influence of global connections and globalisation in driving structural
+of economic economic change in places, such as de-industrialisation and the rise of the
+change can create service industry.
+opportunities • How structural economic change impacts patterns of social opportunities and
+for some while inequality for people and places.
+creating and • How cyclical economic change (booms and recessions) has varied impacts on
+exacerbating social opportunities and inequality.
+social inequality • The role of government in reducing, reinforcing and creating patterns of social
+for others. inequality in places through spending or cuts in key services such as availability
+and accessibility of education, healthcare, infrastructure and community
+services.
+3.c. Social • Case studies of two contrasting places to illustrate:
+inequality impacts •• the types of evidence of social inequality that can be found there such as
+people and places housing, environmental quality, crime rates, digital divide
+in different ways. •• the range of factors that influence people’s social inequality such as income,
+gender, age, health, personal mobility, ethnicity and education
+•• how social inequality impacts upon people’s daily lives in different ways.
+Version 1.6 © OCR 2025
+20 OCR Level 3 Advanced GCE in Geography
+4. Who are the players that influence economic change in places?
+Key Ideas Content
+4.a. Places are • The role of players in driving economic change, including at least one of local and
+influenced by a national government, MNCs or international institutions.
+range of players • Case study of one country or region that has been impacted by structural
+operating at economic change, including:
+different scales. •• socio-economic, demographic, cultural and environmental characteristics of 2
+the place before the economic change
+•• the economic change/changes that took place and the role of players
+involved in driving the change
+•• socio-economic, demographic, cultural and environmental impacts on
+people and place.
+5. How are places created through placemaking processes?
+Key Ideas Content
+5.a. Place is • The concept of placemaking and how governments and organisations attempt to
+produced in a present places to the wider world to attract inward investment and regeneration.
+variety of ways at • How architects and planners attempt to create meaningful and authentic places
+different scales. through design, such as places that encourage mixed community use or the
+24 hour city.
+• How local community groups shape the place they live, such as residents
+associations, heritage associations and social media.
+5.b. The • Why places rebrand through reimaging and regeneration to construct a different
+placemaking place meaning.
+process of • How a range of strategies can be used to rebrand places, such as sport, art,
+rebranding heritage, retail, architecture and food. These can be used singularly or in
+constructs a conjunction to change a place meaning.
+different place • A range of players and their role in placemaking, including government/EU
+meaning through funding, corporate bodies, not for profit organisations and community groups.
+reimaging and • How and why some groups of people contest efforts to rebrand a place.
+regeneration.
+5.c. Making a • Case study of one place that has undergone rebranding, including:
+successful place •• why the place needed to rebrand
+requires planning •• strategy/strategies involved in the rebranding of the place
+and design. •• the role and influence of a range of players involved in the placemaking
+•• how the rebranding has altered people’s perception of that place
+•• the relative success of the rebranding.
+6. Topic-specific skills:
+• appreciate how qualitative approaches actively create particular place representations
+• analysing the impacts of different media on place meanings and perceptions
+• the use of geospatial data to present place characteristics
+• how quantitative data is used to present place characteristics.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 21
+Topic 2.2 – Global Connections
+“As the world becomes more interdependent, global but which can also be the cause of inequalities,
+governance, including global economic governance conflicts and injustice.
+and the governance of the global commons, is
+increasingly relevant for achieving sustainable Through case studies learners will build up a picture
+development.” – United Nations System Task Team of how the world around them is shaped, the
+complexities associated with this and the resulting
+2
+This topic allows learners to explore the processes issues for people. Study will include the use of both
+and flows that occur at the global level, and the quantitative and qualitative approaches across the
+ways in which these influence people, places and global systems and global governance themes as a
+institutions. Through two overarching themes of whole.
+global systems and global governance learners
+will investigate how these shape relationships Study must enable learners to gain an understanding
+between citizens, states and organisations around of the way in which global systems and global
+the world. governance underlie their own and other people’s
+lives across the globe. This understanding will vary
+Global systems, including those that regulate and depending on the situation and circumstance of the
+order trade, financial transactions and migration, learner; fieldwork and research is encouraged where
+create interdependencies, which produce uneven possible in support of this.
+geographies of winners and losers. States and
+non-state organisations respond to these flows Learners must choose one of Option A or B within
+and global systems, which can sometimes act their study of Global Systems and one of Options C
+to promote stability, growth and development, or D for their study of Global Governance.
+2.2.1 Global Systems: Option A – Trade in the Contemporary World
+1. What are the contemporary patterns of international trade?
+Key Ideas Content
+1.a. International trade • An understanding of the terms merchandise, services and capital as
+involves flows of components of international trade.
+merchandise, services • Current spatial patterns in the direction and components of international
+and capital which vary trade, including examples of both inter-regional and intra-regional.
+spatially.
+1.b. Current patterns of • The relationship between patterns of international trade and socio-
+international trade are economic development using national indices, such as ‘value of exports’ and
+related to global ‘Human Development Index’.
+patterns of socio- • How international trade can promote stability, growth and development
+economic within and between countries, through flows of people, money, ideas and
+development. technology.
+• How international trade causes inequalities, conflicts and injustices for
+people and places, through flows of people, money, ideas and technology.
+Version 1.6 © OCR 2025
+22 OCR Level 3 Advanced GCE in Geography
+2. Why has trade become increasingly complex?
+Key Ideas Content
+2.a. Access to markets • International trade has increased connectivity due to changes in the
+are influenced by a 21st century, including:
+multitude of inter- •• technology, transport and communications have increased connectivity
+related factors. of global supply chains
+•• increasing influence of MNCs in EDCs, including outsourcing
+2
+•• role of regional trading blocs, such as the EU
+•• growth of ‘south-south’ trade, between developing countries
+•• growth of services in the global economy
+•• increasing labour mobility and new international division of labour.
+2.b. There is • Case study of one EDC to illustrate:
+interdependence •• direction and components of its current international trade patterns
+between countries and •• changes in its international trade patterns over time
+their trading partners. •• economic, political, social and environmental interdependence with
+trading partners
+•• impacts of trade on the EDC, including economic development,
+political stability and social equality.
+3. What are the issues associated with unequal flows of international trade?
+Key Ideas Content
+3.a. International trade • Case study of one AC to show how core economies have a strong influence
+creates opportunities and drive change in the global trade system to their own advantage.
+and challenges which Illustrate through economic, political and social factors to explain:
+reflect unequal power •• its advantages for trade, including patterns, partners, negotiations and
+relations between agreements
+countries. •• opportunities, such as sustained economic growth
+•• challenges, such as trade deficit.
+• Case study of one LIDC to show how peripheral economies exert limited
+influence and can only respond to change in the global trade system.
+Illustrate this through economic, political and social factors to explain:
+•• trade components, including patterns, partners, negotiations and
+agreements
+•• why it has limited access to global markets
+•• opportunities, such as diversification of economic activity
+•• challenges, such as political instability.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 23
+2.2.2 Global Systems: Option B – Global Migration
+1. What are the contemporary patterns of global migration?
+Key Ideas Content
+1.a. Global migration • Current spatial patterns in the numbers, composition and direction of
+involves dynamic international migrant flows, including examples of both inter-regional and
+2 flows of people intra-regional.
+between countries,
+regions and
+continents.
+1.b. Current patterns • The relationship between patterns of international migration and socio-
+of international economic development, using national indices such as ‘value of migrant
+migration are related remittances’ and ‘Human Development Index’.
+to global patterns of • How global migration can promote stability, growth and development within
+socio-economic and between countries through flows of people, money, ideas and
+development. technology.
+• How global migration causes inequalities, conflicts and injustices for people
+and places through flows of people, money, ideas and technology.
+2. Why has migration become increasingly complex?
+Key Ideas Content
+2.a. Global migration • Changes in the 21st century have increased the complexity of global
+patterns are migration, including:
+influenced by a •• economic globalisation leading to the emergence of new source areas
+multitude of inter- and host destinations
+related factors. •• high concentration of young workers and female migrants
+•• flows in South-South corridors are now equal in magnitude to those in
+South-North corridors
+•• conflict and persecution have increased numbers of refugees
+•• changes in national immigration and emigration policies
+•• development of distinct corridors of bi-lateral flows.
+2.b. Corridors of • Case study of one EDC to illustrate:
+migrant flows create •• current patterns of immigration and emigration
+interdependence •• changes in immigration and emigration over time
+between countries. •• economic, political, social and environmental interdependence with
+countries connected to the EDC by migrant flows
+•• the impact of migration on the EDCs economic development, political
+stability and social equality.
+Version 1.6 © OCR 2025
+24 OCR Level 3 Advanced GCE in Geography
+3. What are the issues associated with unequal flows of global migration?
+Key Ideas Content
+3.a. Global migration • Case study of one AC to show how it influences and drives change in the
+creates opportunities global migration system. Illustrate economic, political and social factors which
+and challenges which explain:
+reflect the unequal •• patterns of emigration and immigration, migration policies, and
+power relations interdependence with countries linked to it by migration
+2
+between countries. •• opportunities, such as labour supply
+•• challenges, such as border issues.
+• Case study of one LIDC to show how it has limited influence over and
+restricted response to the global migration system. Illustrate economic,
+political and social factors which explain:
+•• patterns of emigration and immigration, migration policies, and
+interdependence with countries linked to it by migration
+•• opportunities, such as migrant remittances
+•• challenges, such as loss of skilled workers.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 25
+2.2.3 Global Governance: Option C – Human Rights
+1. What is meant by human rights?
+Key Ideas Content
+1.a. There is global • Understanding of what is meant by human rights.
+variation in human • Understand the terms of norms, intervention and geopolitics and how they
+2 rights norms. are fundamental in appreciating that human rights are complex issues.
+1.b. Patterns of human • Current spatial patterns of human rights issues, including forced labour,
+rights violations are maternal mortality rates and capital punishment.
+influenced by a range • Factors that influence global variations of forced labour, maternal mortality
+of factors. rates and capital punishment.
+2. What are the variations in women’s rights?
+Key Ideas Content
+2.a. The geography of • Economic, political and social factors to explain variation in the patterns of
+gender inequality is gender inequality, including the challenges of educational opportunity,
+complex and access to reproductive health services and employment opportunity.
+contested. • Case study of women’s rights in a country to illustrate:
+•• the gender inequality issues that are apparent in that country
+•• the consequences of gender inequality on society
+•• evidence of changing norms and strategies to address gender inequality
+issues.
+3. What are the strategies for global governance of human rights?
+Key Ideas Content
+3.a. Human rights • How the violation of human rights can be a cause of conflict, such as access
+violations can be a to education and discrimination.
+cause and • How the violation of human rights can be a consequence of conflict and how
+consequence of this can be addressed through geopolitical intervention.
+conflict. • The role of flows of people, money, ideas and technology in geopolitical
+intervention.
+3.b. Global • How human rights are promoted and protected by institutions, treaties, laws
+governance of human and norms.
+rights involves • Case study of strategies for global governance of human rights in one area of
+cooperation between conflict to illustrate:
+organisations at scales •• contributions and interactions of different organisations at a range of
+from global to local, scales from global to local, including the United Nations, a national
+often in partnership. government and an NGO
+•• consequences of global governance of human rights for local
+communities.
+Version 1.6 © OCR 2025
+26 OCR Level 3 Advanced GCE in Geography
+4. To what extent has intervention in human rights contributed to development?
+Key Ideas Content
+4.a. Global • How the global governance of human rights issues has consequences for
+governance of human citizens and places, including short term effects, such as immediate relief
+rights has from NGOs, and longer term effects, such as changes in laws.
+consequences for • Case study of the impact of global governance of human rights in an LIDC,
+citizens and places. including:
+2
+•• the human rights issue/issues
+•• the global governance strategy/strategies used
+•• opportunities for stability, growth and development
+•• challenges of inequality and injustice.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 27
+2.2.4 Global Governance: Option D – Power and Borders
+1. What is meant by sovereignty and territorial integrity?
+Key Ideas Content
+1.a. The world political • Definitions of state, nation, sovereignty and territorial integrity and how
+map of sovereign they are fundamental in understanding the world political map.
+2 nation-states is • Understand the terms of norms, intervention and geopolitics and how they
+dynamic. are fundamental in appreciating that sovereignty and territorial integrity are
+complex issues.
+2. What are the contemporary challenges to sovereign state authority?
+Key Ideas Content
+2.a. A multitude of • Erosion of sovereignty and loss of territorial integrity are influenced by
+factors pose challenges economic, political, social and environmental factors, including the
+to sovereignty and challenges of:
+territorial integrity. •• current political boundaries
+•• transnational corporations (TNCs)
+•• supranational institutions such as regional trading blocs
+•• political dominance of ethnic groups.
+• Case study of one country in which sovereignty has been challenged,
+including:
+•• causes and challenges to the government
+•• impacts on people and places.
+3. What is the role of global governance in conflict?
+Key Ideas Content
+3.a. Global governance • How challenges to sovereignty and territorial integrity can be a cause of
+provides a framework conflict, such as access to natural resources.
+to regulate the • The role of institutions, treaties, laws and norms which are significant in
+challenge of conflict. regulating conflict and in reproducing the global system of sovereign
+nation-states.
+• The role of flows of people, money, ideas and technology in geopolitical
+intervention.
+3.b. Global governance • Case study of strategies for global governance in one area of conflict to
+involves cooperation illustrate:
+between organisations •• interventions and interactions of organisations at a range of scales,
+at scales from global including the United Nations, a national government and an NGO
+to local, often in •• consequences of global governance of the conflict for local
+partnership. communities.
+Version 1.6 © OCR 2025
+28 OCR Level 3 Advanced GCE in Geography
+4. How effective is global governance of sovereignty and territorial integrity?
+Key Ideas Content
+4.a. Global governance • How the global governance of sovereignty issues has consequences for
+of sovereignty and citizens and places, including short term effects, such as humanitarian aid,
+territorial integrity has and longer term effects, such as changes in political regime.
+consequences for • How the global governance of territorial integrity issues has consequences
+citizens and places. for citizens and places, including short term effects, such as maintaining
+2
+peace, and longer term effects, such as trade relationships.
+• Case study of the impact of global governance of sovereignty or territorial
+integrity in one LIDC to illustrate and explain:
+•• the sovereignty or territorial integrity issue/issues
+•• the global governance strategy/strategies used
+•• opportunities for stability, growth and development
+•• challenges of inequality and injustices.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 29
+2c. Content of Geographical debates (H481/03)
+Geographical debates (03) takes some of the most and provide evidenced arguments across a range
+dynamic issues the planet faces and encourages of situations. The concepts of inequality, mitigation
+learners to engage with, reflect on and think critically and adaptation, sustainability, risk, resilience and
+about them. Learners will gain a deep understanding threshold underpin the Geographical debates
+of their two chosen topics, exploring the interactions component.
+between people and the environment.
+2
+There are five topic options for learners to choose
+Each topic engages learners through an enquiry from in the Geographical debates (03) component.
+approach which enables them to articulate opinions Learners must choose two options out of the five.
+Version 1.6 © OCR 2025
+30 OCR Level 3 Advanced GCE in Geography
+Topic 3.1 – Climate Change
+“We often don’t fully appreciate that climate change The climate change topic explores variations in the
+is a problem. We think it is a problem waiting to Earth’s climate and how both human and natural
+happen.” – Kofi Annan factors have influenced this. Learners are encouraged
+to explore why debates around this issue exist before
+Climate change is considered by many to be the considering its impact on people and the planet.
+planet’s greatest threat. We know several of the likely
+2
+consequences of climate change, most of which we The future is uncertain and mitigation and adaptation
+are beginning to experience now. By the middle strategies to cope with climate change are evolving.
+of the 21st century it is predicted that Learners will consider a range of strategies before
+200 million people may be permanently displaced asking ‘can an international response to climate
+due to rising sea levels, floods and drought. change ever work?’
+1. How and why has climate changed in the geological past?
+Key Ideas Content
+1.a. The Earth’s climate • Methods used to reconstruct past climate, including marine and lake
+is dynamic. sediments, ice cores, tree rings and fossils.
+• Past climate to reveal periods of greenhouse and icehouse Earth, including:
+•• long term, 100 million year transition to colder global climate conditions
+•• glaciation of Antarctica around 35 million years ago
+•• quaternary glaciation
+•• our present interglacial, the Holocene.
+• How natural forcing has driven climate change in the geological past, including:
+•• plate tectonics, including volcanic activity and continental drift
+•• Milankovitch cycles
+•• solar output
+•• the role of natural atmospheric greenhouse gases.
+2. How and why has the era of industrialisation affected global climate?
+Key Ideas Content
+2.a. Humans have • Evidence the world has warmed since the late-19th century, including:
+influenced the climate •• increases in surface, atmospheric and oceanic temperatures
+system, leading to a •• shrinking of valley glaciers and ice sheets
+new epoch, the •• rising sea level
+Anthropocene. •• increasing atmospheric water vapour
+•• decreasing snow cover and sea ice.
+• Reasons why anthropogenic greenhouse gas emissions have increased since
+the pre-industrial era.
+• The balance of anthropogenic emissions around the world and how this has
+changed in recent history.
+• How additional greenhouse gases being added to the atmosphere will
+enhance the natural greenhouse effect.
+• How humans influence the global mean energy balance.
+• Case studies of one AC and one EDC to illustrate their contribution to
+anthropogenic greenhouse gas emissions over time.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 31
+3. Why is there a debate over climate change?
+Key Ideas Content
+3.a. Debates of climate • How humans have played a part in shaping the climate change debate,
+change are shaped by a including:
+variety of agendas. •• historical background of the global warming debate and how it has
+evolved over time
+2 •• the role of governments and international organisations, such as the
+EU or UN
+•• role and possible bias of the media and different interest groups in
+shaping the public image of climate change.
+4. In what ways can humans respond to climate change?
+Key Ideas Content
+4.a. An effective human • Overview of climate modelling to illustrate:
+response relies on •• importance of the carbon cycle
+knowing what the future •• influence of positive and negative feedback
+will hold. •• future emission scenarios, the resulting impacts on global
+temperatures and sea levels.
+4.b. The impacts of • Implications of climate change currently being experienced for people
+climate change are global and the environment, such as from changes to ecosystems, health and
+and dynamic. extreme weather, and how these are projected to change in the future.
+• The vulnerability of people and the environment to the impacts of climate
+change.
+4.c. Mitigation and • Mitigation strategies to cut global emissions of greenhouse gases,
+adaptation are including:
+complementary •• energy efficiency and conservation
+strategies for reducing •• fuel shifts and low-carbon energy sources
+and managing the risks •• carbon capture and storage
+of climate change. •• forestry strategies
+•• geoengineering.
+• Adaptation strategies to reduce the vulnerability of human populations at
+risk, including:
+•• framework of adaptation (retreat, accommodate, protect) and its
+implementation in response to possible future implications of climate
+change in a range of communities across the development continuum
+•• what future homes, offices, cities, transport and economies will look
+like following adaptation throughout the 21st century.
+• Case studies of two contrasting countries at different stages of economic
+development to illustrate:
+•• current socio-economic and environmental impacts and the
+opportunities and threats they present
+•• technological, socio-economic and political challenges associated
+with effective mitigation and adaptation.
+Version 1.6 © OCR 2025
+32 OCR Level 3 Advanced GCE in Geography
+5. Can an international response to climate change ever work?
+Key Ideas Content
+5.a. Effective • Geopolitics associated with the human response to climate change,
+implementation depends including:
+on policies and •• role of the Intergovernmental Panel on Climate Change in shaping
+co-operation at all scales. policy making
+•• success of international directives, such as the Kyoto Protocol 2
+•• significance of carbon trading and carbon credits
+•• evolution of national, and sub-national policy that extends beyond
+the vision of international directives.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 33
+Topic 3.2 – Disease Dilemmas
+“Infectious disease outbreaks, whether natural, the risk. The global nature of some diseases in
+intentional or accidental, are still among the foremost terms of their geographical spread and scale has
+dangers to human health and the global economy. encouraged international efforts to combat them.
+With patterns of global travel and trade, disease can
+spread nearly anywhere within 24 hours.” – Tom The causes of disease are often complex and the
+Frieden, Director of the Center for Disease Control impacts even more so especially when dealing
+2
+and Prevention with these at epidemic and pandemic levels.
+Continued research into diseases and developments
+Diseases do not discriminate who becomes in pharmaceuticals and ‘our’ understanding of
+infected or develops symptoms. Diseases can be diseases offers opportunities to combat diseases,
+communicable and noncommunicable and a however unequal access to drugs and information
+number of physical and human factors affect an has implications for communities and countries.
+individual’s and a community’s susceptibility to
+1. What are the global patterns of disease and can factors be identified that determine these?
+Key Ideas Content
+1.a. Diseases can be • How diseases can be classified, including infectious and non-infectious,
+classified and their communicable and noncommunicable, contagious and non-contagious,
+patterns mapped. epidemic, endemic and pandemic.
+The spread of • Patterns of diseases, including global distributions of malaria, HIV, tuberculosis,
+diseases is complex diabetes and cardio-vascular disease.
+and influenced by a • Disease diffusion and spread to new areas (Hägerstrand model), including the
+number of factors. phases of diffusion, physical and socio-economic barriers.
+1.b. There is a • Global patterns of temperature, precipitation, relief and water sources and
+relationship how they affect patterns of disease.
+between physical • Physical factors can influence vectors of disease such as the prevalence of
+factors and the mosquitoes in warm, humid areas close to water sources.
+prevalence of • How seasonal variations influence disease outbreaks such as periods of
+disease which can drought or monsoon rains.
+change over time. • Climate change provides the conditions for emerging infectious diseases to spread
+to new places and new hosts such as West Nile virus, tsetse fly and tick seasons.
+• The conditions for zoonotic infectious diseases such as bird flu or rabies to establish
+and spread from animals to humans.
+1.c. Natural hazards • Case study of one country which has experienced a natural hazard, such as an
+can influence the earthquake, drought or monsoon rains, and the implications this has on a
+outbreak and spread named disease, such as cholera or typhoid:
+of disease •• geographical area covered by the hazard and its influence on the risk and
+outbreak of disease
+•• environmental factors affecting the spread of disease such as climate,
+sanitation, water supply and food
+•• human factors affecting the spread of the disease such as population
+density, access to clean water, immunisation programmes
+•• impacts of the disease on resident populations
+•• strategies used to minimise the impacts of the disease at national and
+international scales.
+Version 1.6 © OCR 2025
+34 OCR Level 3 Advanced GCE in Geography
+2. Is there a link between disease and levels of economic development?
+Key Ideas Content
+2.a. As countries develop • How rising standards of living, including access to food, clean water and
+economically the sanitation, impact upon susceptibility to disease and influence a
+frequency of country’s epidemiological transition.
+communicable diseases • The reasons why LIDCs have a higher prevalence for communicable
+decreases, while the diseases (diseases of poverty) and ACs have a higher prevalence for 2
+prevalence of noncommunicable diseases (diseases of affluence).
+noncommunicable • Case study of one country experiencing air pollution and the impact this
+diseases rises. has on incidences of cancers (such as lung or bladder). The global and
+national solutions in dealing with this.
+3. How effectively are communicable and noncommunicable diseases dealt with?
+Key Ideas Content
+3.a. Communicable • Case study of one communicable disease, such as malaria or
+diseases have causes and tuberculosis, at a country scale, either an LIDC or EDC, including:
+impacts with mitigation •• environmental and human causes of the disease
+and response strategies •• prevalence, incidence and patterns of the disease
+which have varying levels •• socio-economic impacts of the disease
+of success. •• direct and indirect strategies used by government and international
+agencies to mitigate against the disease and respond to outbreaks.
+3.b. Noncommunicable • Case study of one noncommunicable disease, such as cardio-vascular
+diseases have causes and disease or diabetes, at a country scale, either an AC or EDC, including:
+impacts with mitigation •• social, economic and cultural causes of the disease
+and response strategies •• prevalence, incidence and patterns of the disease
+which have varying levels •• socio-economic impacts of the disease
+of success. •• direct and indirect strategies used by government and international
+agencies to mitigate against the disease.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 35
+4. How far can diseases be predicted and mitigated against?
+Key Ideas Content
+4.a. Increasing global • The role of international organisations, such as the World Heath
+mobility impacts the Organization, in providing international strategies to combat disease,
+diffusion of disease and including predicting diseases, gathering data, research, support
+the ability to respond to it, programmes and their work with agencies and governments.
+at a variety of scales. • Identify a disease outbreak at a global scale, such as H1N1 or SARs,
+2
+including its rate of spread and patterns of outbreak distribution.
+• Case study of the role that one NGO has played in dealing with a disease
+outbreak within one country at national and local level.
+4.b. Mitigation strategies • Physical barriers, such as relief, natural hazards, excess water, remoteness
+to combat global of communities, have positive and negative effects on mitigation
+pandemics and overcome strategies and response efforts in dealing with diseases.
+physical barriers • Mitigation strategies used by government and international agencies to
+combat global pandemics, such as HIV/AIDS, including screening,
+availability and funding of treatment and education programmes.
+5. Can diseases ever be fully eradicated?
+Key Ideas Content
+5.a. Nature has provided • Medicines from nature, their habitats and conditions for growth
+medicines to treat disease including the influence of soil type and climate.
+for thousands of years. • Case study of one medicinal plant, such as rosy periwinkle and opium
+poppy, including their growing conditions, international trade, medicinal
+importance for disease and sustainable use.
+• Conservation issues relating to the international trade in medicinal
+plants such as endangering species survival, erosion of genetic diversity,
+threats to the survival of natural ecosystems.
+5.b. Top down and bottom • Case study of the global impact of one pharmaceutical transnational,
+up strategies that deal including scientific breakthroughs made, patents, drug manufacturing
+with disease risk and and their global flows for distribution.
+eradication. • Strategies for disease eradication at a range of scales, including global
+and national campaigns.
+• Impact of grassroots strategies in educating communities and the role of
+women in combating disease risk.
+Version 1.6 © OCR 2025
+36 OCR Level 3 Advanced GCE in Geography
+Topic 3.3 – Exploring Oceans
+“The sea, the great unifier, is man’s only hope. Now, The governance of oceans is complex and sometimes
+as never before, the old phrase has literal meaning: contested making the management of these precious
+we are all in the same boat.” – Jacques Yves Cousteau resource filled environments challenging. Evidence of
+climate change and the threat to oceans is becoming
+Oceans hold about 96.5% of all Earth’s water and they increasingly apparent and for those who live in island
+are complex physical environments. Oceans have communities or low-lying coastlines, this requires an
+2
+varying characteristics of relief, salinity, temperature international effort to combat these threats.
+and currents which impact upon the life supported
+there. Oceans and all that they contain provide There is a long history of oceans being used as global
+valuable resources for a growing population, however gateways for trade and the movement of people; this
+use of these resources and impacts on them can have can provide both opportunities and challenges at
+long-term consequences. national and international scales.
+1. What are the main characteristics of oceans?
+Key Ideas Content
+1.a. The world’s oceans are • The global distribution of the world’s oceans, their areas and volumes.
+a distinctive feature of the • The relief of ocean basins, including continental shelf and slope, abyssal
+Earth. plain, ocean ridges and rifts, ocean trenches and guyots.
+1.b. Water in the world’s • Horizontal and vertical variations in salinity and temperature.
+oceans varies horizontally • The global distribution of warm and cold surface currents.
+and vertically. • The pattern of circulation in the North Atlantic, including both surface
+and deep currents.
+1.c. Changes in light, • How and why ocean ecosystems are influenced by changes in light,
+temperature and nutrient temperature and nutrient supply, which vary with latitude and depth.
+supply influence the • A comparison of food chains, food webs and biodiversity in inter-tidal
+biodiversity of oceans. and deep-water ecosystems.
+2. What are the opportunities and threats arising from the use of ocean resources?
+Key Ideas Content
+2.a. Biological resources • Case study of the management of one renewable biological resource
+within oceans can be used within oceans, such as krill or whale, including:
+in sustainable or •• the use and management of this resource
+unsustainable ways. •• how the values, attitudes, socio-economic status and political
+context of the stake holders influence the use and management of
+the resource
+•• the resilience of the resource and key thresholds to initiate
+management.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 37
+2. What are the opportunities and threats arising from the use of ocean resources?
+Key Ideas Content
+2.b. The use of ocean • The use and management of ocean energy resources, including:
+energy and mineral •• oil and gas (non-renewable resources)
+resources is a contested •• wave and tidal energy (flow resources — renewable resources).
+issue. • The use of sea-bed minerals, including ferrous and non-ferrous minerals,
+as examples of non-renewable resource use.
+2
+2.c. Governing the oceans • Oceans as part of the ‘global commons’, including the idea of the
+poses issues for the ‘tragedy of the commons’.
+management of resources. • There are a series of zones extending out from the land that aim to help
+manage the ocean, including territorial waters, contiguous zone,
+exclusive economic zone (EEZ), high seas.
+• Resource management through frameworks such as the United Nations
+Convention on the Law of the Sea (UNCLOS) and marine reserves.
+3. How and in what ways do human activities pollute oceans?
+Key Ideas Content
+3.a. There are a variety of • The major sources of pollutants, including combustion of fossil fuels,
+pollutants that affect the (such as carbon dioxide), and domestic and industrial pollutants, (such as
+ocean system. plastics, heavy metals or nuclear waste).
+3.b. Off-shore oil • Case study of one oil spill, including:
+production and transport •• impacts on the physical environment and marine ecosystems
+poses threats for people •• impacts on human activities such as fishing and tourism
+and the environment. •• management of the oil spill and its impacts.
+3.c. The pattern of global • How pollution, such as plastic, can spread around the globe via oceanic
+ocean currents can circulation and its impact on marine ecosystems.
+disperse and concentrate • Case study of the accumulation of plastic in one ocean gyre such as in
+pollution. the North Pacific, including:
+•• causes of the accumulation
+•• the impacts on marine ecosystems.
+Version 1.6 © OCR 2025
+38 OCR Level 3 Advanced GCE in Geography
+4. How is climate change impacting the ocean system?
+Key Ideas Content
+4.a. Climate change is • How acidification of oceans contributes to depleting fish stocks and has
+altering the nature of the resulting impacts for people.
+ocean’s water. • The rising temperature of the oceans and its threat to coral ecosystems,
+such as coral bleaching, loss in biodiversity and threats to local
+communities.
+2
+4.b. Climate change is • The causes of sea level change due to climate change, the thermal
+altering sea levels. expansion of water and the transfer of water from the land to the oceans.
+• Case study of one island community in either the Indian Ocean, Pacific
+Ocean or the Caribbean Sea to illustrate:
+•• the threats to island communities
+•• the impact on communities
+•• the adaptations by governments and communities in both the
+short- and long-term.
+4.c. Climate change is • The impact of global warming on the extent of sea ice. The feedback
+altering high latitude between the extent of ice cover and the degree of warming. The concept
+oceans. of a threshold beyond which change becomes irreversible should be
+investigated in this context.
+• Case study of the Arctic region, including:
+•• the geo-political implications of changes in ice-cover in the Arctic
+region
+•• the impact on indigenous peoples
+•• the threats and opportunities posed by the opening up of ocean
+route-ways and increasing access to ocean bed minerals
+•• the management of the changing geography of the Arctic through
+international organisations.
+5. How have socio-economic and political factors influenced the use of the oceans?
+Key Ideas Content
+5.a. Oceans have been and • The pattern of principal shipping routes across the oceans, including the
+continue to be vital influence of changes in the scale of ocean shipping.
+elements in the process of • The direction and type of trade across the oceans.
+globalisation.
+5.b. Oceans are important • The use of oceans by countries to exert their influence, including:
+spaces where countries •• the distribution of naval strongholds for one country, such as USA,
+challenge each other. Russia or China, including its home and overseas ports
+•• a marine conflict zone where countries dispute ocean territory
+areas.
+5.c. Oceans present • The distribution of 21st century piracy and its management.
+hazardous obstacles to • The use of oceans as escape routes for migrants such as South East Asia
+human activities. to Australia or North Africa to Europe.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 39
+Topic 3.4 – Future of Food
+“In the past year, we have seen food riots on three This topic explores the spatial patterns and complex
+continents, food inflation has rocketed and experts causes of food security, from the physical influences
+predict that by 2050, if things don’t change, we will on food systems and how humans create and
+see mass starvation across the world.” – BBC, ‘The exacerbate food security issues. Learners will
+Future of Food’ investigate the impacts of food systems on
+people and the environment before considering
+2
+Food is both a celebrated and contested issue. It is management strategies at a range of scales,
+predicted that 805 million people go to bed hungry including an in-depth case study of one country’s
+each night, while others consume and waste far more efforts to improve food security.
+than their fair share. Across the planet food security
+varies both within and between countries at all levels
+of the development spectrum.
+1. What is food security and why is it of global significance?
+Key Ideas Content
+1.a. The concept of food • Defining what it means to be food secure and understanding that the
+security is complex and concept of food security is built on three pillars of food access, food
+patterns of food security availability and food use.
+varies spatially. • Current trends in global food security using data such as undernourishment
+and hunger statistics and the Global Food Security Index.
+• How the pattern of food security is dynamic and varies both between and
+within countries.
+1.b. Food is a precious • The physical conditions required for growing food including, air, climate, soil
+resource and global and water.
+food production can be • How feeding the world is a complex system of growing, processing,
+viewed as an transporting and disposing of consumer waste.
+interconnected system. • How food production methods vary from intensive to extensive and
+subsistence to commercial.
+1.c. Globalisation is • The influence of globalisation on the food industry such as increased
+changing the food demand and global tastes.
+industry. • Globalisation of the food industry creates a number of issues including food
+miles, inequality between TNCs and small suppliers, obesity and price crisis.
+• Globalisation of the food industry creates a number of opportunities including
+technological innovation, short-term food relief and consumer choice.
+Version 1.6 © OCR 2025
+40 OCR Level 3 Advanced GCE in Geography
+2. What are the causes of inequality in global food security?
+Key Ideas Content
+2.a. A number of • Understand the range of physical factors that affect food security across the
+interrelated factors can globe such as geology, soil, length of growing season.
+influence food security. • The social, economic and political factors affecting food security such as
+land ownership systems, competition and land grabbing and how these vary
+from place to place. 2
+• Theoretical positions on food security including Malthusian and Boserupian
+scenarios.
+• Case study of one place to illustrate how human and physical factors
+are/have combined to cause issues with food security.
+3. What are the threats to global food security?
+Key Ideas Content
+3.a. Risks to food • Regions, countries and people whose food security is most at risk across the
+security can be development spectrum.
+identified to highlight • Why issues related to storage or distribution create geographical pinchpoints
+the most vulnerable where food security is at risk, such as the Suez Canal.
+societies. • The physical and human causes of desertification and how this changes
+ecosystems to increase risks to food security.
+• Case study of one dryland area including:
+•• food security risks and vulnerability are influenced by the specific
+ecosystem, climate and hydrology
+•• worsening factors such as population change, landgrabbing and climate
+change.
+3.b The food system is • How climate change is leading to increasing frequency of extreme weather
+vulnerable to shocks events such as wild-fire, El-Nino, floods, and drought which can affect food
+that can impact food production.
+security. • How water scarcity can exacerbate food production issues.
+• How tectonic hazards can influence food production and distribution.
+• Case study of one indigenous farming technique in an exteme environment,
+such as the Arctic, including:
+•• the physical conditions of the environment including ecosystems,
+terrain and climate.
+•• food production methods used by indigenous people in the
+environment
+•• threats to the indigenous groups food security.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 41
+4. How do food production and security issues impact people and the physical environment?
+Key Ideas Content
+4.a. Imbalance in the • How attempts to increase food production and security can impact the
+global food system physical environment including:
+has physical and •• irrigation and salinisation
+human impacts. •• deforestation and the impacts on biodiversity
+2 •• changing landscapes
+•• water quality from agrochemicals.
+• Case study of how one physical environment is/has been impacted by food
+production methods including the specific short- and long-term impacts on
+the environment.
+• How food security issues impacts people including:
+•• health issues associated with food shortages
+•• health issues associated with food surpluses and poor diet
+•• harmful impacts on human health as a result of the increased use of
+chemicals and pesticides.
+• Case studies of two places at contrasting levels of economic development to
+illustrate the implications of poor food security on the lives of people.
+5. Is there hope for the future of food?
+Key Ideas Content
+5.a. Food is a • The opportunities between countries to ensure food security including:
+geopolitical •• agricultural trading policies
+commodity; a number •• the role of the World Trade Organization
+of key players will •• appropriate aid.
+continue to influence • Investigate the role and responsibilities of the following in influencing the
+the global food global food system:
+system. •• agribusiness
+•• Trans-National Corporations such as Unilever
+•• food retailers such as Tesco
+•• fair trade organisations.
+5.b. There is a • Approaches to increasing food security can vary from short term relief to
+spectrum of strategies capacity building and long term system redesign.
+that exist to ensure • The effectiveness and sustainability of a range of techniques that exist to
+and improve food improve food security from large-scale technological techniques down to
+security. small-scale bottom up and appropriate approaches.
+• Case studies of two contrasting places at different levels of development and
+the strategies and techniques that have been used to ensure or improve food
+security.
+Version 1.6 © OCR 2025
+42 OCR Level 3 Advanced GCE in Geography
+Topic 3.5 – Hazardous Earth
+“Every year, natural disasters affect one in As technology has evolved, the capacity to predict
+thirty people on Earth. Whether developing or and mitigate against tectonic hazard events has
+industrialised, all nations are at risk, and the field improved although the impact of an event can leave
+of natural hazards is today one of the fastest communities and countries devastated. Risks from
+growing areas of research in the Earth and Climate tectonic hazards varies spatially and over time, with
+Sciences.” – University College London, Earth continued research and development there may be a
+2
+Sciences Department point in the future when it will be possible to mitigate
+against the vulnerability to risk.
+Movement of the Earth’s land masses, from Pangaea
+to present day are evidence that forces beneath our Currently there are a number of strategies which
+feet are at work. Seismic and volcanic activity creates help the international community, governments and
+hazards as populations have grown and inhabited individuals cope with the risks associated with
+more of the Earth. Although hazardous, earthquakes tectonic hazards however there are varying global
+and volcanoes create new landforms and can support levels of resilience and ability to adapt to the risks
+life on Earth from flora and fauna to populations. presented.
+1. What is the evidence for continental drift and plate tectonics?
+Key Ideas Content
+1.a. There is a variety • Theories of continental drift and plate tectonics including:
+of evidence for the •• the basic structure of the Earth including the lithosphere,
+theories of continental asthenosphere and the role of convection currents
+drift and plate •• evidence for sea-floor spreading; paleomagnetism; the age of sea floor
+tectonics. rocks
+•• evidence from ancient glaciations
+•• fossil records.
+1.b. There are • Earth’s crustal features and processes, including:
+distinctive features and •• the global pattern of plates and plate boundaries
+processes at plate •• the features and processes associated with divergent (constructive)
+boundaries. plate boundaries
+•• the features and processes associated with convergent plate
+boundaries including oceanic-continental, oceanic-oceanic
+(destructive) and continental-continental (collision) boundaries
+•• the features and processes associated with conservative plate
+boundaries.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 43
+2. What are the main hazards generated by volcanic activity?
+Key Ideas Content
+2.a. There is a variety • Different types of volcanoes to investigate their causes and features
+of volcanic activity and including:
+resultant landforms •• explosive eruptions (higher viscosity magma) located at convergent
+and landscapes. (destructive) plate boundaries
+2 •• effusive eruptions (lower viscosity magma) and landforms located at
+divergent (constructive) plate boundaries
+•• eruptions not at plate boundaries (hot spots) such as the Hawaiian
+chain and the East African Rift Valley
+•• size and shape of different types of volcanoes, including
+super-volcanoes
+•• the volcanic explosive index (VEI) measure of assessing volcanic activity.
+2.b. Volcanic eruptions • Different types of volcanic eruptions and the different types of hazards they
+generate distinctive generate including:
+hazards. •• lava flows, pyroclastic flows, gas emissions, tephra and ash
+•• lahars and flooding associated with the melting of ice
+•• tsunamis associated with explosive eruption.
+3. What are the main hazards generated by seismic activity?
+Key Ideas Content
+3.a. There is a variety • Earthquake characteristics to investigate their causes and features including:
+of earthquake activity •• shallow-focus earthquakes
+and resultant •• deep-focus earthquakes
+landforms and •• the different measures of assessing earthquake magnitude (Richter,
+landscapes. moment magnitude scale, modified Mercalli intensity scale)
+•• the effects earthquakes have on landforms and landscapes including
+the development of escarpments and rift valleys.
+3.b. Earthquakes • Hazards generated by earthquakes, including:
+generate distinctive •• ground shaking and ground displacement
+hazards. •• liquefaction
+•• landslides and avalanches
+•• tsunamis associated with sea-bed uplift and underwater landslides
+•• flooding.
+Version 1.6 © OCR 2025
+44 OCR Level 3 Advanced GCE in Geography
+4. What are the implications of living in tectonically active locations?
+Key Ideas Content
+4.a. There are a range • Case studies of two countries at contrasting levels of economic development
+of impacts people to illustrate:
+experience as a result •• reasons why people choose to live in tectonically active locations
+of volcanic eruptions. •• the impacts people experience as a result of volcanic eruptions
+•• economic, environmental and political impacts on the country.
+2
+4.b. There are a range • Case studies of two countries at contrasting levels of economic development
+of impacts people to illustrate:
+experience as a result •• reasons why people choose to live in tectonically active locations
+of earthquake activity. •• the impacts people experience as a result of earthquake activity
+•• economic, environmental and political impacts on the country.
+5. What measures are available to help people cope with living in tectonically active locations?
+Key Ideas Content
+5.a. There are various • Case studies of two countries at contrasting levels of economic
+strategies to manage development to illustrate strategies used to cope with volcanic activity
+hazards from volcanic including:
+activity. •• attempts to mitigate against the event, such as lava diversion channels
+•• attempts to mitigate against vulnerability such as community
+preparedness
+•• attempts to mitigate against losses, such as rescue and emergency
+relief.
+5.b. There are various • Case studies of two countries at contrasting levels of economic
+strategies to manage development to illustrate strategies used to cope with hazards from
+hazards from earthquakes including:
+earthquakes. •• attempts to mitigate against the event such as land-use zoning
+•• attempts to mitigate against vulnerability such as building design
+•• attempts to mitigate against losses such as insurance.
+5.c. The exposure of • How and why have the risks from tectonic hazards changed over time
+people to risks and including:
+their ability to cope •• changes in the frequency and impacts of tectonic hazards over time
+with tectonic hazards •• the degree of risk posed by a hazard and the probability of the hazard
+changes over time. event occurring (the disaster risk equation)
+•• possible future strategies to cope with risks from tectonic hazards.
+• The relationship between disaster and response including the Park model.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 45
+2d. Content of Investigative geography (H481/04, 05)
+Investigative geography (04/05) gives learners • draw on learner’s own field data and, if
+the opportunity to undertake an independent relevant, secondary data sourced by the
+investigation which is of particular interest to them, learner
+which can be related to any area of the specification. • require the learner independently to
+contextualise, analyse and summarise findings
+An independent investigation in A Level Geography and data
+2
+provides learners with the opportunity to develop a • involve the individual drawing of conclusions
+wide range of skills and abilities which are applicable and their communication by means of
+not only to study in Higher Education but also within extended writing and the presentation of
+the world of work and life, which, amongst others, relevant data.
+include:
+The report must contain a clear structure and
+• the structure and enquiry process continuous prose, and if the report includes digital
+• extended writing material then this must be referenced to or evidenced
+• innovation in investigating and presenting data through weblinks and/or screenshots. The report
+• self-directed study must include the collection of primary and secondary
+• research techniques data. Primary data is defined here as unmanipulated
+• making synoptic links between the real world, data, either collected in the field or a raw dataset.
+geographical theory, the learners own research
+and the specification. Learning hours are not specified because the process
+of writing the report is an iterative and independent
+The independent investigation will consist of a written process, however a length of between 3000 and 4000
+report which will assess the process of enquiry and words is recommended. Each learner will work at
+investigation. The report must be an independent their own pace and time should be made available
+investigation but data collection can be conducted to explain to learners what is required before they
+within a group. undertake the initial stages of research.
+The independent investigation must: Investigative geography (04/05) is internally
+assessed and externally moderated. The independent
+• be based on a question or issue defined and investigation will be marked by the centre using the
+developed by the learner individually to marking criteria grid provided by OCR in Section 3f
+address aims, questions and/or hypotheses Non-exam Assessment – Investigative geography
+relating to any part of the specification (04/05).
+• incorporate data and/or evidence from field
+investigations collected individually or in
+groups
+Version 1.6 © OCR 2025
+46 OCR Level 3 Advanced GCE in Geography
+2e. Geographical and fieldwork skills
+Geographical and fieldwork skills are fundamental learners fulfil the requirements of the mark scheme
+to the study, practice and discipline of geography. for that assessment.
+They are integrated into all aspects of the subject.
+The skills listed on the following pages provide a Learners should use the geographical skills to collect,
+basis for further study and research across a range of analyse and interpret geographical information
+subjects as well as being core skills for the world of throughout their studies, whilst gaining the ability to
+2
+work. Learning these skills in the context of the understand and apply suitable analytical approaches.
+A Level content will stimulate learners to ‘think These analytical approaches could be utilised
+geographically’. It will also provide them with within study of the specified content and their
+opportunities to apply the skills in a wide range own independent investigation. Learners will acquire
+of curriculum or learning contexts. the geographical and fieldwork skills to be able to
+investigate geographical questions and issues,
+Learners will be able to apply the skills listed in this interpret, analyse and evaluate data and evidence
+section to familiar and novel contexts. Teaching and and to construct arguments and draw conclusions.
+learning should embed and contextualise the topic-
+specific skills and the listed geographical skills on the Competence in using geographical and fieldwork skills
+following pages into the content of Physical systems should be developed during study of the content, not
+(01), Human interactions (02) and Geographical as a separate theme or topic. While the relative
+debates (03). Learners should utilise geographical balance of quantitative and qualitative methods and
+and fieldwork skills within their independent skills will differ between components, learners must
+investigation as appropriate. Learners are not limited be introduced to a roughly equal balance of
+by the exemplification given within this specification quantitative and qualitative approaches across the
+for their Investigative geography (04/05) as long as specification as a whole.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 47
+4. Geographical Skills
+4.1 Geographical information:
+With respect to geographical information, learners should:
+a) understand what makes data geographical
+b) understand the ethical and socio-political implications of collecting, studying and representing
+geographical data, especially with regard to human communities
+2 c) understand the nature of and use different types of geographical information, including:
+•• qualitative and quantitative
+•• primary and secondary
+•• images, maps, diagrams and graphical representations
+•• factual text and discursive/creative material
+•• digital data
+•• numerical and spatial data
+•• innovative forms of data, including crowd-sourced and ‘big data’.
+d) collect, analyse and interpret such information, and demonstrate the ability to understand and apply
+suitable analytical approaches for the different information types
+e) undertake informed and critical questioning of data sources, analytical methodologies, data reporting
+and presentation, including the ability to identify sources of error in data and to identify the misuse of
+data
+f) communicate and evaluate findings, draw well-evidenced conclusions informed by wider theory, and
+construct extended written argument about geographical matters.
+4.2 Geo-located data:
+With respect to geo-located data, learners should:
+a) demonstrate an ability to collect and to use digital data through the use of geospatial technologies,
+such as smart phones and tablet devices
+b) understand the opportunities and benefits of presenting and analysing geographical data through the
+use of Geographical Information Systems (GIS).
+4.3 Qualitative skills:
+With respect to qualitative skills, learners should:
+a) use and understand a mixture of methodological approaches, including using interviews
+b) interpret, analyse and evaluate a range of source material including textual and visual sources
+c) understand the opportunities and limitations of qualitative techniques such as coding and sampling.
+4.4 Quantitative skills:
+With respect to quantitative skills, learners should understand the purposes and difference between the
+following and be able to use them in appropriate contexts:
+a) mean, median, mode, range, interquartile range and standard deviation
+b) tests of association and significance tests, such as Chi-squared, Spearman’s rank, Mann-Whitney U test
+and T-test
+c) lines of best fit and correlation on graphical representations
+d) measurement, measurement errors, and sampling.
+Version 1.6 © OCR 2025
+48 OCR Level 3 Advanced GCE in Geography
+5. Fieldwork skills
+Fieldwork is essential to geography, with a defining no assessment of fieldwork skills within the
+characteristic of geographers being the ability to examinations for components Physical systems (01),
+conduct investigations in order to test ideas, build Human interactions (02) and Geographical debates
+evidence, reflect on and create new geographical (03). Specific details of the assessment for the
+knowledge. The value of fieldwork goes beyond the requirements of Investigative geography (04/05)
+aim of collecting primary data. The understanding can be found in Section 3f Non-exam Assessment
+2
+generated from experiencing geographical concepts, – Investigative geography (04/05).
+processes and issues in the real world can be
+illuminating for learners and help to contextualise There are specific elements of fieldwork which
+content to enrich learning experiences. learners are required to study within the A Level
+Geography course, and these are exemplified
+The assessment of fieldwork skills will be within further within the marking criteria for Investigative
+Investigative geography (04/05) and there will be geography (04/05).
+With respect to fieldwork skills, A Level Geography requires learners to:
+a) define the research questions which underpin field investigations
+b) research relevant literature sources and understand and write up the theoretical or comparative
+context for a research question
+c) observe and record phenomena in the field and devise and justify practical approaches taken in the
+field including frequency/timing of observation, sampling, and data collection approaches
+d) demonstrate practical knowledge and understanding of appropriate field methodologies
+e) implement chosen methodologies to collect data/information of good quality and relevant to the topic
+under investigation
+f) demonstrate knowledge and understanding of the techniques appropriate for analysing field data and
+information and for representing results, and show ability to select suitable quantitative or qualitative
+approaches and to apply them
+g) demonstrate the ability to interrogate and critically examine field data in order to comment on its
+accuracy and/or the extent to which it is representative, and use the experience to extend
+geographical understanding
+h) apply existing knowledge, theory and concepts to order and understand field observations
+i) show the ability to write up field results clearly and logically, using a range of presentation methods
+j) evaluate and reflect on fieldwork investigations, explain how the results relate to the wider context
+and show an understanding of the ethical dimensions of field research
+k) demonstrate the ability to write a coherent analysis of fieldwork findings in order to answer a specific
+geographical question and to do this drawing effectively on evidence and theory to make a well-argued
+case.
+Fieldwork is required to be undertaken for at least Fieldwork undertaken for the independent
+four days throughout the A Level course, including in investigation may contribute to the four days
+relation to processes in both physical and human fieldwork requirement. The fieldwork which is
+geography. part of the individual investigation may be either
+human, physical or integrated.
+This allows learners to understand processes and
+approaches they can utilise within their own
+independent investigation, as well as contextualise
+aspects of the content through their experiences.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 49
+Fieldwork Written Statement
+Centres must provide a written fieldwork The fieldwork statement must be submitted
+statement to OCR detailing that at least four days electronically to OCR using the form provided on our
+of geographical fieldwork have been undertaken website at www.ocr.org.uk/administration/forms/.
+by all learners being submitted for entry within Alternatively, the form can be accessed via Teach
+that year’s set of assessments. Cambridge. Centres must complete and submit the
+forms by 15 May in the year of entry.
+2
+The fieldwork statement must confirm that
+geographical fieldwork has been undertaken in Any failure by a centre to provide a fieldwork
+relation to processes in both physical and human statement to OCR in a timely manner will be treated
+geography subject matter. as malpractice and/or maladministration (under
+General Condition A8 ‒ Malpractice and
+maladministration).
+2f. Prior knowledge, learning and progression
+There are no prior qualification requirements for this This qualification provides the ideal foundation for
+specification. learners to progress to Higher Education for study in
+Geography or a number of other subjects due to the
+Learners in England who are beginning an A Level skills gained.
+course are likely to have followed a Key Stage 4
+programme of study. No prior knowledge of this There are a number of Geography specifications at
+subject is required. The specification builds on, but OCR. Find out more at www.ocr.org.uk
+does not depend on the knowledge, understanding
+and skills specified for GCSE (9–1) Geography.
+Version 1.6 © OCR 2025
+50 OCR Level 3 Advanced GCE in Geography
+3 Assessment of A Level in Geography
+3a. Forms of assessment
+For OCR’s A Level in Geography learners must take all components.
+A Level in Geography (H481)
+Component 01 Physical systems
+22% of the A Level This question paper has two sections.
+1 hour 30 minutes • Section A: Questions on Landscape Systems, answering questions on
+Written paper either Option A, B or C.
+66 marks • Section B: Questions on Earth’s Life Support Systems.
+3
+A separate Resource Booklet is provided with the question paper.
+The component is externally assessed.
+Marks associated with geographical skills will be assessed within this component.
+Component 02 Human interactions
+22% of the A Level This question paper has two sections.
+1 hour 30 minutes • Section A: Questions on Changing Spaces; Making Places.
+Written paper • Section B: Questions on Global Connections, answering questions on
+66 marks either Option A or B and Option C or D.
+A separate Resource Booklet is provided with the question paper.
+The component is externally assessed.
+Marks associated with geographical skills will be assessed within this component.
+Component 03 Geographical debates
+36% of the A Level This question paper has three sections.
+2 hour 30 minutes • Section A: Short answer and medium length questions on all topics
+Written paper • Section B: Synoptic questions on all topics
+108 marks • Section C: Extended response questions on all topics.
+Learners answer questions from two topics out of Climate Change, Disease
+Dilemmas, Exploring Oceans, Future of Food and Hazardous Earth.
+A separate Resource Booklet is provided with the question paper.
+The component is externally assessed.
+Marks associated with geographical skills will be assessed within this component.
+Component 04/05 Investigative geography
+20% of the A Level The independent investigation may relate to any aspect of the specification.
+Non-exam assessment
+It is a written report with a recommended length of between 3000 and 4000 words.
+60 marks
+Learning hours are not specified because the process of writing the report is
+iterative and independent.
+The assessment will be marked by the centre using a marking criteria grid
+provided by OCR.
+This component is internally marked by the centre and externally moderated by
+OCR.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 51
+Within the question papers for the components Within the question paper for the Geographical
+Physical systems (01) and Human interactions (02) debates (03) component there will be a combination
+there will be a combination of short answer questions of short answer questions of 3 marks, medium length
+which carry a low tariff, medium length questions questions of 6 marks, synoptic questions of 12 marks
+of 6 to 10 marks and higher tariff extended response and extended response questions of 33 marks.
+questions of 16 marks.
+3b. Assessment objectives (AO)
+There are three Assessment Objectives in OCR’s A Level in Geography. These are detailed in the table below.
+3
+Assessment Objective
+Demonstrate knowledge and understanding of places, environments, concepts, processes,
+AO1
+interactions and change, at a variety of scales.
+Apply knowledge and understanding in different contexts to interpret, analyse and evaluate
+AO2
+geographical information and issues.
+Use a variety of relevant quantitative, qualitative and fieldwork skills to:
+AO3
+• investigate geographical questions and issues
+• interpret, analyse and evaluate data and evidence
+• construct arguments and draw conclusions.
+AO weightings in A Level in Geography
+The relationship between the assessment objectives and the components are shown in the following table:
+% of overall A Level in Geography (H481)
+Component
+AO1 AO2 AO3
+Physical systems (H481/01) 10 9 3
+Human interactions (H481/02) 10 9 3
+Geographical debates (H481/03) 14 20 2
+Investigative geography (H481/04, 05) 0 0 20
+Total 34% 38% 28%
+Version 1.6 © OCR 2025
+52 OCR Level 3 Advanced GCE in Geography
+3c. Total qualification time
+Total qualification time (TQT) is the total amount of and assessment. The total qualification time for A
+time, in hours, expected to be spent by a learner to Level Geography is 360 hours. The total guided
+achieve a qualification. It includes both guided learning time is 360 hours.
+learning hours and hours spent in preparation, study,
+3d. Qualification availability outside of England
+This qualification is available in England. For Wales Northern Ireland Entitlement Framework
+and Northern Ireland please check the Qualifications Qualifications Accreditation Number (NIEFQAN) list to 3
+in Wales Portal (QIW) or the Northern Ireland see current availability.
+Department of Education Performance Measures /
+3e. Language
+This qualification is available in English only. All
+assessment materials are available in English only and
+all candidate work must be in English.
+3f. Assessment availability
+There will be one examination series available each This specification will be certificated from the June
+year in May/June to all learners. 2018 examination series onwards.
+All examined components must be taken in the same
+examination series at the end of the course.
+3g. Retaking the qualification
+Learners can retake the qualification as many times as Learners must retake all examined components but
+they wish. they can choose to either retake the non-exam
+assessment (NEA) or carry forward (re-use) their most
+recent result (see Section 4d).
+3h. Assessment of extended response
+The assessment materials for this qualification There is assessment of extended responses within
+provide learners with the opportunity to demonstrate components Physical systems (01), Human
+their ability to construct and develop a sustained and interactions (02) and Geographical debates (03).
+coherent line of reasoning and marks for extended
+responses are integrated into the marking criteria.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 53
+3i. Non-exam assessment – Investigative geography (H481/04, 05)
+The A Level Geography component Investigative A learner will not be penalised for exceeding the
+geography (04/05) is an independent investigation recommended length; however, any response that
+consisting of a written report, recommended to be significantly differs from the recommended length
+between 3000 and 4000 words in length. will be self-penalising either by not demonstrating
+the expectations of the marking criteria to the
+All learners will be expected to complete an required level or through lacking coherence and
+2
+independent investigation which is of their concision.
+particular personal interest related to any area of
+the specification – this could be one of the options There will be 60 marks available for the investigation,
+3 within Physical systems (01), Human interactions (02) broken down into six sections. These sections
+or Geographical debates (03) which they are not consist of:
+studying as part of their teacher-led course. 1. planning purpose and introduction
+2. data, information collection methods and
+The independent investigation will consist of a sampling framework
+written report which will assess the process of 3. data presentation techniques
+enquiry and investigation. Learning hours are not 4. data analysis and explanation
+specified because the process of writing the report 5. conclusions and investigation evaluation
+is an iterative and independent process, however 6. overall quality and communication of written
+a length of between 3000 and 4000 words is work.
+recommended. Each learner will work at their own
+pace and time should be made available to explain
+to learners what is required before they undertake
+the initial stages of research.
+Version 1.6 © OCR 2025
+54 OCR Level 3 Advanced GCE in Geography
+Teacher guidance for Investigative geography (04, 05)
+It is expected that the teacher will provide guidance Must:
+to learners in relation to the purpose and
+requirement of the task. The teacher should ensure • confirm that the provisional title has the
+that learners are clear about the assessment criteria potential to meet the assessment criteria and
+which they are expected to meet and the skills which offer general guidance on any necessary
+they need to demonstrate in the task. amendments
+• review each learner’s Geography Independent
+The following section explains the stages at which Investigation Form. Within this review teachers
+teachers may give guidance to learners within the should ensure that the proposed investigation
+independent investigation process and what teachers can suitably access the specification and mark 3
+‘can’, ‘must’ and ‘must not’ do in relation to providing scheme requirements and give general
+guidance to learners. The rationale for what teachers guidance on the methodology that the learner
+‘can’, ‘must’ and ‘must not’ do in relation to providing plans to use
+guidance to learners is given in Appendix 5d. • promote good practice such as referencing and
+using a bibliography system
+Teachers are permitted to give general guidance to • store work securely once it is handed in for
+learners at two different points in the independent formal assessment.
+investigation process:
+Must not:
+• when learners are choosing an investigation
+title • provide learners with a choice of titles or tasks
+• when learners are planning their investigation from which learners then choose
+through the investigation proposal section of • give feedback/guidance to individual learners
+the Geography Independent Investigation about how to improve work to meet the
+Form. assessment criteria. This means that teachers
+must not provide templates and model answers
+Examples of both specific guidance and general for the work of specific learners
+guidance are given in Appendix 5e. • mark work provisionally and share that mark so
+that the learner may then improve it
+Teachers:- • return work to learners after it has been
+Can: submitted and marked.
+• provide broad parameters for learners’ If teachers give any assistance which goes beyond
+investigation proposals (including themes from general guidance, for example:
+the specification, locations, availability of
+equipment, time constraints) • provide feedback/guidance on how to
+• explain to learners what independence means improve drafts to meet the assessment
+(see table on page 56) criteria
+• advise learners on health and safety • give feedback/guidance on errors and
+considerations, the use of equipment and omissions which limits learners’ opportunities
+potential ethical concerns to show initiative themselves
+• discuss with learners their initial exploratory • intervene personally to improve the
+planning and tentative investigation titles. presentation or content of work
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 55
+• provide primary or secondary data not work, this will be considered as malpractice. If
+collected by the learner either individually or as malpractice is suspected, the Awarding
+part of a group Organisation will investigate. If malpractice is found
+to have taken place a penalty will be applied
+then teachers must record this assistance on the dependent on the circumstances and severity
+learner/teacher declaration section of the Geography of the malpractice.
+Independent Investigation Form (see page 65) and
+take it into account when marking the work.
+For full information regarding malpractice please see
+the JCQ document ‘Suspected Malpractice in
+Annotation should be used to explain how marks
+Examinations and Assessments’.
+were applied in the context of the additional
+assistance given.
+3 This section applies also to third party fieldwork
+If teachers and/or third party fieldwork providers do providers. Teachers must ensure that at all times they
+not record assistance which goes beyond general remain confident in the authenticity and
+guidance and take it into account when marking the independence of each learner’s work.
+Description of the level of independence at each stage of the investigation
+The descriptions in the table below specify the level If learners collaborate (where independence is
+of independence required by learners at different expected) and/or are given assistance beyond the
+stages of their investigation; they do not infer parameters indicated in the table below, then the
+anything in the way of marks allocated for each stage teacher must record this on the Geography
+of the investigation. The level of independence at Independent Investigation Form and take it into
+each stage is the minimum required (i.e. where account when marking the work. Failure to do so will
+collaboration is allowed it is not mandatory and be considered as malpractice. If malpractice is
+learners may work alone). suspected, the Awarding Organisation will investigate.
+If malpractice is found to have taken place a penalty
+Levels of learner independence: will be given dependent on the circumstances and
+severity of the malpractice.
+• collaboration allowed - learners may work as a
+class/group/pair For full information regarding malpractice please see
+• independent work – learners must work alone. the JCQ document ‘Suspected Malpractice in
+Examinations and Assessments’.
+Investigation What is the level What does this level of independence mean in practice at this
+stage of independence stage? (The following is not exhaustive)
+expected?
+Exploring focus Collaboration Centres may want to give learners a free choice of investigations
+allowed focusing on any of the compulsory or optional content or they may
+wish to provide learners with a theme or a range of themes.
+However, it is not acceptable for learners to choose from a list of
+titles or investigations provided by the centre (This applies also to
+third party fieldwork providers. Teachers must ensure that at all
+times they remain confident in the authenticity and independence of
+the learner’s work). Learners may discuss together, and with their
+teacher, ideas and research for appropriate geographical questions.
+Version 1.6 © OCR 2025
+56 OCR Level 3 Advanced GCE in Geography
+Title of the Independent Following the first stage learners must finalise the draft title of their
+investigation, work investigation. This must be done by each learner on his/her own. In
+focus of the Geography Independent Investigation Form and final written
+investigation report learners must provide a clear justification and
+(sub- contextualisation of how their enquiry will help them to address their
+questions), title and explore their theme in relation to the chosen geographical
+purpose of location.
+investigation.
+Devising Collaboration Learners may collaborate when planning and selecting
+methodology allowed methodologies/sampling strategies.
+and sampling 3
+framework
+Primary data Collaboration Primary data collection may be carried out individually or in groups.
+collection allowed
+Secondary data Independent Must be carried out independently. Learners select secondary
+collection work sources of data on their own.
+Data/ Independent Learners select and use appropriate data presentation methods on
+information work their own.
+presentation
+Data analysis Independent Learners select and use appropriate data analysis techniques and
+and work independently interpret and analyse the results on their own.
+explanation/
+interpretation
+Conclusions Independent Learners evaluate the findings of their investigation and reach a
+and evaluation work balanced and supported conclusion on their own.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 57
+Non-exam assessment marking criteria for Investigative geography (H481/04, 05)
+There are a total of 60 marks available for component this should be awarded the top mark in the level. An
+Investigative geography (04/05). A mark should be answer does not have to meet all the requirements of
+awarded for each of the six sections and added a level descriptor before being placed in that level. The
+together to reach a total out of 60 marks. It is possible extent to which it meets all of the requirements of a
+that learners may achieve very different marks for each level descriptor will determine its placement within
+section of the marking criteria, allocate the mark that level.
+according to the level of competency demonstrated for
+each area individually. The extent to which the statements within the level
+have been achieved should be the only criteria used
+3 The marking should be on a ‘best fit’ principle, if a when deciding the mark within a level.
+learner’s work meets all criteria in a particular level
+Version 1.6 © OCR 2025
+58 OCR Level 3 Advanced GCE in Geography
+Marking Criteria
+Section 1: Planning, purpose and introduction. (8 marks)
+Level 3 6–8 marks
+• There is a clear, well focused plan, appropriately designed to include aims or questions or
+hypotheses linked to the geographic purpose of the investigation.
+• The plan is based on an individual geographical topic or issue, which is accurately and
+appropriately defined and within a research framework.
+• There is a justification for the investigation provided in the introduction and valid
+contextualisation of fieldwork and research.
+• The location is precise and geo-located, using geo-spatial techniques, at appropriately
+3
+different scales.
+• There is clear evidence of valid and individual literature research that defines and
+contextualises the investigation through an appropriate combination of wider
+geographical links, comparisons, models and theory.
+Level 2 3–5 marks
+• There is a mostly clear plan, appropriately designed to include aims or questions or
+hypotheses linked to the geographic purpose of the investigation.
+• The plan is based on an individual geographical topic or issue, within a research
+framework, which is partially defined.
+• There is some justification for the investigation provided in the introduction and an
+attempt to contextualise the fieldwork and research.
+• The location is clear, using geo-spatial techniques, and at different scales.
+• There is some evidence of individual research that supports the investigation through an
+appropriate combination of wider geographical links, comparisons, models and theory.
+Level 1 1–2 marks
+• There is a partial or incomplete attempt to include a plan with aims or questions or
+hypotheses which are not clearly linked to the geographic purpose of the investigation.
+• The plan is based on an individual geographical topic or issue, within a research
+framework, but definitions are incomplete or absent.
+• There is no justification for the investigation provided in the introduction and no
+meaningful attempt to contextualise the fieldwork and research.
+• The location is unclear with few relevant or appropriate geo-spatial techniques.
+• There is limited evidence of research that supports the investigation through wider
+geographical links, comparisons, models or theory.
+0 marks • No response or no response worthy of credit.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 59
+Section 2: Data, information collection methods and sampling framework. (7 marks)
+Level 3 5–7 marks
+• There is good knowledge and understanding of a range of data collection methodologies,
+including suitable quantitative and/or qualitative approaches, which are justified with
+limitations outlined, appropriate to the investigation and explained in detail.
+• There is clear evidence of personalised methodologies and approaches to observe and
+record primary data and phenomena in the field and to incorporate secondary data and/or
+evidence, collected individually or in groups.
+• There is clear evidence of the ability to collect and use digital, geo-located data.
+• The data design framework (sampling, frequency, range and location choice) is
+appropriate, coherent and justified.
+3
+• Addresses and shows an understanding of the ethical and socio-political dimensions of the
+methodologies chosen.
+Level 2 3–4 marks
+• There is some knowledge and understanding of a range of data collection methodologies,
+including both quantitative and/or qualitative approaches, which are partially justified
+with some limitations outlined, mostly appropriate to the investigation with some
+explanation.
+• There is limited evidence of personalised methodologies and approaches to observe and
+record primary data and phenomena in the field and to incorporate secondary data and/or
+evidence, collected individually or in groups.
+• There is limited evidence of the ability to collect and use digital, geo-located data.
+• The data design framework (sampling, frequency, range and location choice) is mostly
+appropriate but with limited justification.
+• Attempts to address and show an understanding of the ethical and socio-political
+dimensions of the methodologies chosen.
+Level 1 1–2 marks
+• There is limited knowledge and understanding of data collection methodologies which are
+sometimes appropriate but lack explanation.
+• There is little or no evidence of personalised methodologies and approaches to observe
+and record primary data and phenomena in the field and/or incorporate secondary data
+and/or evidence, collected individually or in groups.
+• There is little or no evidence of the ability to collect and use digital, geo-located data.
+• The data design framework (sampling, frequency, range and location choice) is weak or
+absent and with no relevant justification.
+• Makes no attempt to address or understand the ethical and socio-political dimensions of
+the methodologies chosen.
+0 marks • No response or no response worthy of credit.
+Version 1.6 © OCR 2025
+60 OCR Level 3 Advanced GCE in Geography
+Section 3: Data presentation techniques. (9 marks)
+Level 3 7–9 marks
+• There is appropriate and selective presentation of the most influential data collected
+directly related to the investigation.
+• The range of data presentation techniques is appropriate and well selected, with good
+knowledge and understanding of the relevant techniques for representing results clearly.
+• There is an appropriate balance of simple and more sophisticated data representation
+methods, relevant to the topic.
+Level 2 4–6 marks
+• There is some selective presentation of the most influential data collected directly related
+to the investigation. 3
+• The range of data presentation methods is mostly well selected, with some knowledge and
+understanding of the relevant techniques for representing results.
+• There is an attempt to balance the simple and more sophisticated data representation
+methods, relevant to the topic.
+Level 1 1–3 marks
+• There is no evidence of selective presentation of the most influential data collected directly
+related to the investigation.
+• The range of data presentation methods is poorly selected, with limited knowledge and
+understanding of the relevant techniques for representing results.
+• There is no attempt to balance the simple and more sophisticated data representation
+methods, relevant to the topic.
+0 marks • No response or no response worthy of credit.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 61
+Section 4: Data analysis and explanation. (14 marks)
+Level 4 11–14 marks
+• Data and information collected is analysed and interpreted in an effective and coherent
+manner, with evidence of independence, demonstrating the knowledge and understanding of
+the techniques appropriate for analysing and explaining data and information.
+• When appropriate to the topic, statistical analysis and significance testing are used
+accurately and proficiently for both the data and topic of investigation.
+• When appropriate to the topic, qualitative and non-numerical analysis techniques are
+successfully and individually developed and used to support explanations and findings from
+data and information collected.
+• The analysis and explanation are relevant and link effectively to the stated aims or
+3 questions or hypotheses.
+• There is effective use of appropriate knowledge, theory and geographical concepts to help
+explain findings.
+Level 3 7–10 marks
+4 • Data and information collected is analysed and interpreted in a relevant manner, with
+evidence of independence, demonstrating the knowledge and understanding of the
+techniques appropriate for analysing and explaining data and information.
+• When appropriate to the topic, statistical analysis and significance testing are used with
+some accuracy for both the data and topic of investigation.
+• When appropriate to the topic, qualitative and non-numerical analysis techniques are developed
+and used to support explanations and findings from data and information collected.
+• The analysis and explanation link to the stated aims or questions or hypotheses.
+• There is use of appropriate knowledge, theory and geographical concepts to help explain
+findings.
+Level 2 4–6 marks
+• Data and information collected is analysed and interpreted in a relevant manner, with
+evidence of independence, demonstrating partial knowledge and understanding of the
+techniques appropriate for analysing and explaining data and information.
+• When appropriate to the topic, statistical analysis and significance testing are attempted
+when appropriate but with limited accuracy for both the data and topic of investigation.
+• When appropriate to the topic, qualitative and non-numerical analysis techniques are used
+but with limited success in relation to the overall purpose of the investigation.
+• The analysis and explanation show only a partial link to the stated aims or questions or
+hypotheses.
+• There is some attempt to use appropriate knowledge, theory and geographical concepts to
+help explain findings.
+Level 1 1–3 marks
+• There is limited evidence of relevant independent analysis and interpretation of data and
+information.
+• When appropriate to the topic, statistical analysis and significance testing are absent or
+largely irrelevant to both the data and topic of investigation.
+• When appropriate to the topic, qualitative and non-numerical analysis techniques are
+absent or largely irrelevant to the overall purpose of the investigation.
+• The analysis and explanation show a poor or irrelevant link to the stated aims or questions
+or hypotheses.
+• There are limited or no element of appropriate knowledge, theory and geographical
+concepts to help explain findings.
+0 marks • No response or no response worthy of credit.
+Version 1.6 © OCR 2025
+62 OCR Level 3 Advanced GCE in Geography
+Section 5: Conclusions and investigation evaluation. (12 marks)
+Level 4 10–12 marks
+• There are clear, accurate and thorough conclusions linked to the aims or questions or
+hypotheses, communicated by means of extended writing.
+• Draw effectively on primary and secondary evidence and, where appropriate, theory to
+provide a very well-argued case and shape conclusions.
+• There is convincing evidence that conducting the investigation extended geographical
+understanding with clear reference to the wider geographical context of the investigation.
+• There is a strong evaluation of the overall success of the investigation with reference to the
+reliability of data sources, data collection methods (including sampling), the accuracy of
+data collected and the extent to which it is representative, and the validity of the analysis
+and conclusions. 3
+• There is a thorough understanding of the ethical and socio-political dimensions of field
+research and data presentation.
+Level 3 7–9 marks
+• There are clear conclusions linked to the aims or questions or hypotheses, communicated
+by means of extended writing.
+• Draw on primary and secondary evidence and, where appropriate, theory to make a
+well-argued case and shape conclusions.
+• There is some evidence that conducting the investigation extended geographical
+understanding with reference to the wider geographical context of the investigation.
+• There is an evaluation of the overall success of the investigation with reference to the data
+sources, data collection methods, the accuracy of data collected and the extent to which it
+is representative, and validity of the analysis and conclusions.
+• There is a reasonable understanding of the ethical and socio-political dimensions of field
+research and data presentation.
+Level 2 4–6 marks
+• There is a limited attempt to reach conclusions which are linked to the aims or questions or
+hypotheses, communicated by limited means of extended writing
+• Elements of primary and secondary evidence and, where appropriate, theory link to the
+argument and conclusions.
+• There is limited evidence that conducting the investigation extended geographical
+understanding with limited reference to the wider reference to the wider geographical
+context of the investigation.
+• There is an evaluation of the investigation through reference to isolated aspects of the
+investigation.
+• There are basic comments on the ethical and socio-political dimensions of field research
+and data presentation.
+Level 1 1–3 marks
+• Basic, often unsupported conclusions which have few links to the aims or questions or
+hypotheses.
+• Limited elements of primary and/or secondary evidence linked to arguments and
+conclusions.
+• There is no evidence that conducting an investigation extended geographical understanding
+with no reference to the wider geographical context of the investigation.
+• The evaluation is very limited to the identification of a few basic errors and problems.
+• There is no comment on the ethical and socio-political dimensions of field research and
+data presentation.
+0 marks • No response or no response worthy of credit.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 63
+Section 6: Overall quality and communication of written work. (10 marks)
+Level 3 7–10 marks
+• There is a high standard of communication that is relevant to the geographic purpose of
+the investigation.
+• Arguments are clear, demonstrating a strong degree of individuality.
+• Written work is very well structured, logical, concise, and includes good presentation with
+text and figures appropriately integrated.
+• Sources and literature references are clearly stated and accurately referenced throughout
+the investigation.
+• Geographical terminology is technical, used appropriately, and written language errors are
+rare.
+3
+Level 2 4–6 marks
+• There is a variable standard of communication that has some relevance to the geographic
+purpose of the investigation.
+• Arguments are present showing elements of individuality.
+• Written work is generally well structured, logical, concise and presentation is adequate
+with text and figures mostly integrated.
+• Sources and literature references are mostly referenced throughout the investigation.
+• Geographical terminology is present, but there are some written language errors.
+Level 1 1–3 marks
+• There is basic communication that has limited relevance to the geographic purpose of the
+investigation.
+• Arguments are absent or simplistic.
+• The work is poorly or partially structured and lacks a logical order. Presentation is often
+poor with little attempt to integrate text and figures.
+• Sources and literature references are mostly excluded from the investigation or not
+relevant.
+• Geographical terminology isolated or absent and there are frequent written language
+errors.
+0 Marks • No response or no response worthy of credit.
+Assessment Grid for non-exam assessment – Investigative geography (04/05)
+AO1 AO2 AO3 Total
+Section 1 0 0 8 8
+Section 2 0 0 7 7
+Section 3 0 0 9 9
+Section 4 0 0 14 14
+Section 5 0 0 12 12
+Section 6 0 0 10 10
+Total 0 0 60 60
+Version 1.6 © OCR 2025
+64 OCR Level 3 Advanced GCE in Geography
+Geography Independent Investigation Form
+All three sections of this form must be completed by 2. Investigation proposal section
+the learner and teacher and the form must be Learners use this section to detail their title,
+attached to the work submitted for moderation. hypotheses and/or questions and/or sub-questions,
+enquiry route and suggested methods of data
+1. Learner/teacher authentication section collection.
+Centres must ensure that the learner authentication
+3. Mark sheet section
+section is completed for each learner by both the
+Teachers complete this form when they mark the
+learner and teacher.
+work, providing a mark breakdown. Teachers must
+clearly show how the marks have been awarded in
+Learners must sign a declaration to confirm that, 3
+relation to the marking criteria. A combination of the
+apart from collaboration with other learners and
+following approaches should be adopted:
+general guidance from the teacher, where these are
+acceptable within the parameters of the specification,
+• summary comments either on the work
+the work which they submit for final assessment is
+(usually at the end) or on a cover sheet
+their own unaided work.
+• key pieces of evidence flagged throughout the
+work by annotation in the margin.
+Teachers must sign a declaration of authentication
+after the work has been completed confirming that:
+Indications as to how marks have been awarded
+should:
+• any assistance which goes beyond general
+guidance has been recorded and taken into
+• be clear and unambiguous
+account when marking the work
+• be appropriate to the nature and form of the
+• otherwise, apart from general guidance given
+work
+in line with the parameters set out in the
+• facilitate the standardisation of marking
+specification, the work is solely that of the
+within the centre to enable the moderator
+learner concerned
+to check the application of the assessment
+• the work was completed under the required
+criteria to the marking.
+conditions
+• signed learner declarations are kept on file.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 65
+Missing or incomplete Geography Independent Investigation Forms
+The following information should be read in Dealing with malpractice
+conjunction with section 9 of the JCQ Instructions for By centres:
+conducting non-examination assessment.
+• if the centre/teacher suspects some form of
+If a Geography Independent Investigation form is malpractice, the centre must take action to
+found to be missing or incomplete, the Awarding investigate internally. The centre should have in
+Organisation will in the first instance contact the place procedures to deal with these issues
+centre to rectify the matter. If this request is not across qualifications
+addressed satisfactorily, the Awarding Organisation • the learner and teacher should only complete
+3 will take further action, which may lead to a the authentication section of the Geography
+malpractice investigation. Independent Investigation form once it is clear
+which parts of the work are the learner’s own.
+Detecting malpractice If the matter is not resolved the learner should
+Malpractice may be suspected by teachers in learner be awarded zero.
+work as follows:
+Consequences of malpractice
+• the style of writing is not typical of the learner; If malpractice is suspected, the Awarding
+it might be from published material, or from Organisation will investigate. If malpractice is found
+another person to have taken place a penalty will be given dependent
+• there are instances of the same errors in the on the circumstances and severity of the malpractice.
+work of two or more learners
+• there are passages quoted from publications or For full information regarding malpractice please see
+the internet which are not acknowledged in the the JCQ document ‘Suspected Malpractice in
+bibliography or by in-text referencing Examinations and Assessments’.
+• there are passages copied from examples of
+good practice which were distributed to the
+whole class
+• the work of one learner is copied from another.
+Version 1.6 © OCR 2025
+66 OCR Level 3 Advanced GCE in Geography
+3j. Synoptic assessment
+Synoptic assessment allows learners to demonstrate Synoptic assessment is embedded within the A Level,
+their understanding of the connections between although particularly evident in the Geographical
+different aspects of the subject. It involves the debates (03) component and the non-exam
+explicit drawing together of knowledge, skills and assessment, Investigative geography (04/05).
+understanding within different parts of the A Level
+course. The emphasis of synoptic assessment is to
+encourage the understanding of Geography as a
+discipline.
+3
+3k. Calculating qualification results
+A learner’s overall qualification grade for A Level in This mark will then be compared to the qualification
+Geography will be calculated by adding together their level grade boundaries for the entry option taken by
+marks from the four components taken to give their the learner and for the relevant exam series to
+total weighted mark. determine the learner’s overall qualification grade.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 67
+4 Admin: what you need to know
+The information in this section is designed to give an More information about the process and deadlines
+overview of the processes involved in administering involved at each stage of the assessment cycle can be
+this qualification so that you can speak to your exams found in the Administration area of the OCR website.
+officer. All of the following processes require you to OCR’s Admin overview is available on the OCR website
+submit something to OCR by a specific deadline. at www.ocr.org.uk/administration
+4a. Pre-assessment
+Estimated entries
+Estimated entries are your best projection of the should be submitted to OCR by the specified
+3 number of learners who will be entered for a deadline. They are free and do not commit your
+qualification in a particular series. Estimated entries centre in any way.
+Final entries
+4
+Final entries provide OCR with detailed data for each Final entries must be submitted to OCR by the
+learner, showing each assessment to be taken. It is published deadlines or late entry fees will apply.
+essential that you use the correct entry code,
+considering the relevant entry rules and ensuring that All learners taking an A Level in Geography must be
+you choose the entry option for the moderation you entered for one of the following entry options:
+intend to use.
+Entry option Components
+Entry code Title Code Title Assessment type
+H481 A Geography 01 Physical systems External Assessment
+Option A
+02 Human interactions External Assessment
+03 Geographical debates External Assessment
+04 Investigative geography Non-exam assessment (Moderated
+upload)
+H481 B Geography 01 Physical systems External Assessment
+Option B
+02 Human interactions External Assessment
+03 Geographical debates External Assessment
+05 Investigative geography Non-exam assessment (Moderated
+postal)
+H481 C* Geography 01 Physical systems External Assessment
+Option C
+02 Human interactions External Assessment
+03 Geographical debates External Assessment
+80 Investigative geography Non-exam assessment
+(Carried forward) (Carried forward)
+*Entry option H481 C should only be selected for learners who are retaking the qualification who want to carry
+forward their mark for the non-exam assessment.
+Version 1.6 © OCR 2025
+68 OCR Level 3 Advanced GCE in Geography
+Collecting evidence of student performance to ensure resilience in the qualifications system
+Regulators have published guidance on collecting For more detailed information on collecting evidence
+evidence of student performance as part of long-term of student performance please visit our website at:
+contingency arrangements to improve the resilience https://www.ocr.org.uk/administration/general-
+of the qualifications system. You should review and qualifications/assessment/
+consider this guidance when delivering this
+qualification to students at your centre.
+4b. Special consideration
+Special consideration is a post–assessment Detailed information about eligibility for special
+adjustment to marks or grades to reflect temporary consideration can be found in the JCQ publication
+injury, illness or other indisposition at the time the A guide to the special consideration process.
+assessment was taken.
+4
+4c. External assessment arrangements
+Regulations governing examination arrangements are Learners are permitted to use a scientific or graphical
+contained in the JCQ publication Instructions for calculator for components 01, 02 and 03. Calculators
+conducting examinations. are subject to the rules in the document Instructions
+for Conducting Examinations published annually by
+JCQ (www.jcq.org.uk).
+Head of centre annual declaration
+The Head of Centre is required to provide a Any failure by a centre to provide the Head of Centre
+declaration to the JCQ as part of the annual NCN Annual Declaration will result in your centre status
+update, conducted in the autumn term, to confirm being suspended and could lead to the withdrawal of
+that the centre is meeting all of the requirements our approval for you to operate as a centre.
+detailed in the specification.
+Private candidates
+Private candidates may enter for OCR assessments. OCR’s A Level in Geography requires learners to
+complete non-examined assessment. This is an
+A private candidate is someone who pursues a course essential part of the course and will allow learners to
+of study independently but takes an examination or develop skills for further study or employment.
+assessment at an approved examination centre. A
+private candidate may be a part-time student, Private candidates need to contact OCR approved
+someone taking a distance learning course, or centres to establish whether they are prepared to
+someone being tutored privately. They must be host them as a private candidate. The centre may
+based in the UK. charge for this facility and OCR recommends that the
+arrangement is made early in the course.
+Further guidance for private candidates may be found
+on the OCR website: http://www.ocr.org.uk
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 69
+4d. Admin of non-exam assessment
+Regulations governing arrangements
+for internal assessments are contained
+in the JCQ Instructions for conducting coursework.
+Authentication of learners’ work
+Centres must declare the work submitted for internal Geography Independent Investigation Form for each
+assessment is the learner’s own work by submitting internally assessed component. This should be sent to
+the learner/teacher authentication section of the the moderator at the same time as the marks.
+Internal standardisation
+4
+Centres must carry out internal standardisation to accurate and consistent across all learners entered for
+ensure that marks awarded by different teachers are the component from that centre.
+Moderation
+The purpose of moderation is to bring the marking of Moderated postal – Where you post the sample of
+internally-assessed components in all participating work to the moderator.
+centres to an agreed standard. This is achieved by
+checking a sample of each centre’s marking of The method that will be used to submit the
+learners’ work. moderation sample must be specified when
+making entries. The relevant entry codes are
+Following internal standardisation, centres submit given in Section 4.a.
+marks to OCR and the moderator. If there are fewer
+than 10 learners, all the work should be submitted for All learners’ work must be submitted using the same
+moderation at the same time as marks are submitted. entry option. It is not possible for centres to offer
+both options within the same series.
+Once marks have been submitted to OCR and your
+moderator, centres will receive a moderation sample Centres will receive the outcome of moderation when
+request. Samples will include work from across the the provisional results are issued. This will include:
+range of attainment of the learners’ work.
+Moderation Adjustments Report – Listing any scaling
+There are two ways to submit a sample: that has been applied to internally-assessed
+components.
+Moderated upload – Where you upload electronic
+copies of the work included in the sample using our Moderator Report to Centres – A brief report by the
+Submit for Assessment service and your moderator moderator on the internal assessment of learners’
+accesses the work from there. Please see the OCR work.
+website for details about how to submit samples.
+Version 1.6 © OCR 2025
+70 OCR Level 3 Advanced GCE in Geography
+Carrying forward non-exam assessment (NEA)
+Learners who are retaking the qualification can The result for the NEA component may be carried
+choose to either retake the non-exam assessment forward for the lifetime of the specification and there
+– Investigative geography (04/05) or carry forward is no restriction on the number of times the result
+their most recent result for that component. may be carried forward. However, only the most
+recent non-absent result may be carried forward.
+To carry forward the NEA component result, you must
+use the correct carry forward entry option (see table When the result is carried forward, the grade
+in Section 4a). boundaries from the previous year of entry will be
+used to calculate a new weighted mark for the carried
+Learners must decide at the point of entry whether forward component, so the value of the original mark
+they are going to carry forward the NEA result or not. is preserved.
+4e. Results and certificates 4
+Grade Scale
+A Level qualifications are graded on the scale: A*, A, Unclassified (U). Only subjects in which grades A* to E
+B, C, D, E, where A* is the highest. Learners who fail are attained will be recorded on certificates.
+to reach the minimum standard for E will be
+Results
+Results are released to centres and learners for The following supporting information will be available:
+information and to allow any queries to be resolved
+before certificates are issued. • raw mark grade boundaries for each component
+Centres will have access to the following results • weighted mark grade boundaries for each entry
+information for each learner: option.
+• the grade for the qualification Until certificates are issued, results are deemed to be
+provisional and may be subject to amendment.
+• the raw mark for each component
+A learner’s final results will be recorded on an OCR
+• the total weighted mark for the qualification. certificate. The qualification title will be shown on the
+certificate as ‘OCR Level 3 Advanced GCE in Geography’.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 71
+4f. Post-results services
+A number of post-results services are available: • Missing and incomplete results – This service
+should be used if an individual subject result
+• Review of results – If you are not happy with for a learner is missing, or the learner has been
+the outcome of a learner’s results, centres may omitted entirely from the results supplied.
+request a review of their moderation and/or
+marking. • Access to scripts – Centres can request access
+to marked scripts.
+4g. Malpractice
+Any breach of the regulations for the conduct of Detailed information on malpractice can be
+examinations and non-exam assessment work found in the JCQ publication Suspected Malpractice
+4 may constitute malpractice (which includes in Examinations and Assessments: Policies and
+maladministration) and must be reported to Procedures.
+OCR as soon as it is detected.
+Version 1.6 © OCR 2025
+72 OCR Level 3 Advanced GCE in Geography
+5 Appendices
+5a. Overlap with other qualifications
+There is overlap between the content of this There is no significant overlap between the content of
+specification and that of the OCR AS Level Geography this specification and those for other Advanced GCE
+specification in order that these qualifications may be qualifications.
+co-taught alongside one another, if necessary.
+5b. Accessibility
+Reasonable adjustments and access arrangements The A Level qualification and subject criteria have
+allow learners with special educational needs, been reviewed in order to identify any feature which
+disabilities or temporary injuries to access the could disadvantage learners who share a protected
+assessment and show what they know and can do, characteristic as defined by the Equality Act 2010.
+without changing the demands of the assessment. All reasonable steps have been taken to minimise
+Applications for these should be made before the any such disadvantage.
+examination series. Detailed information about
+eligibility for access arrangements can be found in
+the JCQ Access Arrangements and Reasonable
+5
+Adjustments.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 73
+5c. Glossary of terms from the specification content
+Advanced Countries which share a number of important economic development characteristics
+countries (AC) including well-developed financial markets, high degrees of financial intermediation
+and diversified economic structures with rapidly growing service sectors. ‘ACs’ are as
+classified by the IMF.
+Emerging and Countries which neither share all the economic development characteristics required
+developing to be advanced or are eligible for the Poverty Reduction and Growth Trust. ‘EDCs’ are
+countries (EDC) as classified by the IMF.
+Low-income Countries which are eligible for the Poverty Reduction and Growth Trust (PRGT) from
+developing the IMF. ‘LIDCs’ are as classified by the IMF.
+countries (LIDC)
+Geographical A digital system for capturing, storing, checking and displaying data related to positions
+Information on the Earth’s surface. GIS can show many different kinds of data on one map, such as
+System (GIS) streets, buildings, and vegetation. These additional layers enable people to more easily
+see, analyse and understand patterns and relationships.
+Local scale A local scale can be either local to the learner or another small scale location. A local
+5
+place may be a locality, neighbourhood or small community, either urban or rural.
+Regional scale A region is an area of land that has common features. These features can be identified
+by dialect, language, religion, industry or administrative boundaries. Features can also
+be natural such as climate or landscape.
+Primary data Unmanipulated data, either collected in the field or an untouched dataset.
+Version 1.6 © OCR 2025
+74 OCR Level 3 Advanced GCE in Geography
+5d. Teacher Guidance for Investigative geography (04, 05) Rationale
+It is expected that the teacher will provide guidance The following tables give the rationale for why
+to learners in relation to the purpose and teachers ‘can’, ‘must’ and ‘must not’ give certain
+requirement of the independent investigation. The guidance in relation to the independent investigation.
+teacher should ensure that learners are clear about
+the assessment criteria requirements which they are
+expected to meet and the skills which they need to
+demonstrate in their investigation.
+Teachers can Rationale
+Provide broad parameters for Teachers may need to set the broad parameters of their learners’
+learners’ investigation proposals investigations as there may be only certain equipment available at the
+(including themes from the centre, which will potentially limit the range and scope of the
+specification, locations, investigations.
+availability of equipment, time
+For specifications with optionality, teachers in a centre may lack the
+constraints).
+expertise to assess an investigation reliably if it is within an option not
+being studied as part of the A Level course at the centre. Teachers may
+5
+therefore want to set limitations on the overall themes which learners
+can target for their investigations.
+Teachers may wish to inform learners of the locations being used for the
+centre’s fieldwork excursions so that learners are aware of these
+locations before they decide on their titles.
+Teachers may wish to inform learners of the time constraints (for
+example when work needs to submitted for marking) so that learners are
+aware of the time available to complete the work, as this could affect the
+investigations which they choose.
+Explain what independence To help avoid malpractice teachers need to be able to explain to learners
+means (see table on page 56). where there can be collaboration and what this entails at the stages
+where it is allowed.
+Advise on health and safety Where appropriate, teachers need to be allowed to give advice on health
+considerations, the use of and safety considerations, the use of equipment and potential ethical
+equipment and potential ethical concerns to ensure that learners undertake their investigations in a safe
+concerns. and ethical manner.
+Discuss with learners their initial Teachers need to be able to give general guidance at this point to ensure
+exploratory planning and that learners’ proposed investigations are achievable (for example, in
+tentative investigation titles. terms of the resources available at the centre and the appropriateness
+of the title compared to the specification requirements).
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 75
+Teachers must Rationale
+Confirm that the provisional title The DfE subject content states that the investigation must ‘be based on
+has the potential to meet the a question defined and developed by the learner individually to address
+assessment criteria and offer aims, questions and/or hypothesis relating to any of the core or non-
+general guidance on any core content’. However, it would be unreasonable to allow a learner to
+necessary amendments. embark on an investigation which does not offer access to the
+assessment criteria. Therefore teachers must check the title and ensure
+that it is fit for purpose.
+Review each learner’s Geography Teachers must review learners’ Geography Independent Investigation
+Independent Investigation Form. Forms to ensure that the proposed investigations are suitable, accessible
+Within this review teachers and achievable with the resources available, as well as allowing access
+should ensure that the proposed to the mark scheme. This review will also allow teachers to determine
+investigation can suitably access whether the learners have decided upon their titles and subsequent
+the specification requirements plans individually, with collaboration evident only in the areas where it is
+and give guidance on the specifically allowed.
+methodology that the learner
+plans to use.
+5
+Promote good practice such as Learners must be made aware of good practice surrounding referencing
+referencing and using a and using a bibliography to help ensure that independence can be
+bibliography system. recognised and to avoid or to detect malpractice.
+Store work securely once it is Teachers must securely store work once completed to avoid
+handed in for formal assessment. opportunities for malpractice.
+Teachers must not Rationale
+Provide learners with a choice of The DfE subject content states that learners’ investigations must ‘be
+titles or tasks from which learners based on a question or issue defined and developed by the learner
+then choose. individually to address aims, questions and/or hypotheses relating to
+any of the core or non-core content’. If a teacher provides titles then
+learners have not developed and defined the question or issue and it
+would constitute malpractice.
+Give feedback/guidance to The investigation must be independent, with collaboration only allowed
+individual learners about how to in specific areas. Feedback/guidance to improve a learner’s work would
+improve work to meet the mean that the work was no longer independent. This feedback/guidance
+assessment criteria. This means would need to be recorded in the mark sheet section of the Geography
+that teachers must not provide Independent Investigation Form and taken into account when the work
+templates and model answers for is marked.
+the work of specific learners.
+Mark work provisionally and This would provide an indeterminate level of feedback/guidance which
+share that mark so that the could not be taken into account when the work was marked. It is
+learner may then improve it. therefore not permitted and would constitute malpractice.
+Return work to learners after it The work may be required for an extended sample either during the
+has been submitted and marked. moderation period or at the review of results stage.
+Version 1.6 © OCR 2025
+76 OCR Level 3 Advanced GCE in Geography
+5e. Examples of specific guidance and general guidance
+This table gives further details and exemplifies the malpractice as the learner is no longer independent
+level of guidance a teacher can provide for learners as shown in each of the investigation stages. General
+during the independent investigation. Specific guidance gives examples of where and how teachers
+guidance is not permitted and can constitute can give guidance.
+Investigation stage Specific guidance (not General guidance Reasoning
+permitted by teachers)
+Exploring focus. • Give learners a list • Discuss • Teachers will
+of titles from which specification need to provide an
+to choose content to find introduction to
+• Give learners an area of potential themes learners. This could
+specification content and relevance for include detailing the
+they must focus on in an investigation equipment available
+their investigation • Broadly outline from the school and/
+the stages of the or describing
+investigation, expectations of the
+mark scheme NEA through the 5
+expectations and mark scheme.
+the Geography • The investigation
+Independent must be an
+Investigation form. independent piece
+of work by the
+learner so teachers
+shouldn’t be giving
+learners direct
+information such
+as titles.
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 77
+Investigation stage Specific guidance (not General guidance Reasoning
+permitted by teachers)
+Title of the • Give learners a list • Explore and • The teacher acts
+investigation, focus of titles from which discuss with as the facilitator,
+of investigation to choose learners what encouraging learners
+(sub-questions), • Make significant makes a good to plan their
+purpose of changes to a learners title for an investigations and to
+investigation. title so it is re-written investigation and ‘read around’ to get
+• Give learners or make the value/ to grips with their
+strong suggestions importance of title and
+about the breaking this down sub-questions
+sub-questions into sub-questions. • The teacher provides
+• Tell learners what the • Direct learners to opportunities
+purpose of the material produced for learners to set
+investigation is so they by exam boards on themselves up
+all have a similar what makes a as independent
+approach/idea and this good title learners through
+5 is reflected in their • Give learners an general discussions
+draft/final investigation example title to around the title,
+write-up critique and sub-questions,
+• Suggest that groups of amend which is choosing a
+learners work on the unrelated to any geographical
+same title but with investigations a area for study.
+minor changes such as learner may be
+an area reference interested in
+• Suggest that learners pursuing
+use the same title but
+with different
+sub-questions
+Version 1.6 © OCR 2025
+78 OCR Level 3 Advanced GCE in Geography
+Investigation stage Specific guidance (not General guidance Reasoning
+permitted by teachers)
+Devising • Give learners individual • Outline a range • Teachers should not
+methodology and data collection of fieldwork/ be giving learners
+sampling framework. technique suggestions data collection suggestions for their
+relevant to their techniques methodology or
+own investigation. relevant to human giving them
+• Tell learners which and physical sampling techniques
+sampling technique to investigations to try as this takes
+use for their individual • Provide ownership of the
+investigation. opportunities investigation away
+for learners to from the learner and
+explore through discourages them
+literature and from being
+online resources independent
+a variety of • The teacher acts
+data collection as facilitator,
+techniques encouraging learners 5
+• Provide to plan their data
+opportunities collection and find
+for learners to out about
+research and techniques relevant
+reflect on sampling to their own
+techniques individual
+appropriate to investigation
+their investigation
+• Encourage learners
+to plan their
+methodology
+thinking about
+why particular
+techniques for
+data collection/
+sampling have
+been chosen and
+what they want/
+expect to find out
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 79
+Investigation stage Specific guidance (not General guidance Reasoning
+permitted by teachers)
+Primary data • Teach and guide • Outline and • The teacher acts
+collection. learners through discuss with as the facilitator,
+each data collection learners what encouraging learners
+technique relevant makes ‘good’/ to plan their data
+to their individual valuable primary collection and find
+investigation data out about
+• Take a whole class/es • Provide techniques relevant
+on a fieldtrip and teach opportunities to their own
+them all the same for learners to individual
+primary data collection explore a range investigation
+techniques specific to of data collection • Teachers as
+an investigation or techniques, facilitators
+narrow range of suggesting learners encourage learners
+investigations (such use several to ‘read around’
+as coasts fieldwork techniques in their and discuss data
+5 where learners may be investigation, in collection
+taught the same data order to ascertain techniques so
+collection techniques what works well/ that learners can
+for longshore drift, doesn’t as part of independently
+beach profiles and their evaluation justify their choices
+sediment sampling • Suggest learners of primary data
+whereby ownership work in small collection and
+is taken away from groups with similar evaluate the success
+learners as they all topic areas to of those choices
+have access to the collect primary • Teachers can suggest
+same information and data as a larger learners work
+data sets) sample of data can collaboratively in
+• Produce fieldwork potentially be small groups with
+information on primary collected. similar topic areas
+data collection to collect primary
+techniques specific data. This does not
+to individual learner however prevent
+titles (such as coasts learners from
+working through collecting additional
+a narrow range of data pertinent to
+primary data collection their individual
+techniques specific investigations.
+to individual titles,
+as outlined in the
+preceding bullet point).
+Version 1.6 © OCR 2025
+80 OCR Level 3 Advanced GCE in Geography
+Summary of updates
+Date Version Section Title of section Change
+May 2018 1.1 i) Front cover i) Disclaimer i) Addition of Disclaimer
+ii) Multiple ii) Multiple ii) Changes to generic wording
+and OCR website links
+throughout the specification.
+No changes have been made
+to any assessment
+requirements.
+August 2018 1.2 3d Retaking the qualification Update of the wording for carry
+4d Admin of non-exam forward rules.
+assessment
+June 2020 1.3 4f Post-results services Enquiries about results
+changed to Review of results
+5d Teacher Guidance for
+Investigative geography
+(04, 05) Rationale
+Update to specification covers
+to meet digital accessibility
+standards
+June 2023 1.4 3 Assessment of A Level in Insertion of new section 3c. Total
+Geography qualification time.
+4a. Pre-assessment Update to the wording of
+4d. Admin of non-examined moderation submission options.
+assessment
+March 2024 1.5 3d, 3e Qualification availability, Inclusion of disclaimer regarding
+Language availability and language
+4a Pre-assessment Update to include resilience
+guidance
+Checklist Inclusion of Teach Cambridge
+March 2025 1.6 2e Geographical and Fieldwork Update to procedure regarding
+skills electronic submission of
+fieldwork statements
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 81
+Version 1.6 © OCR 2025
+82 OCR Level 3 Advanced GCE in Geography
+Version 1.6 © OCR 2025
+OCR Level 3 Advanced GCE in Geography 83
+Version 1.6 © OCR 2025
+84 OCR Level 3 Advanced GCE in Geography
+YOUR
+CHECKLIST
+Our aim is to provide you with all o Bookmark OCR website for all the latest information and news
+the information and support you on A Level Geography
+need to deliver our specifications.
+o Sign up for Teach Cambridge: our personalised and secure website that
+provides teachers with access to all planning, teaching and assessment
+support materials
+o Be among the first to hear about support materials and resources
+as they become available – register for Geography updates
+o Find out about our professional development
+o View our range of skills guides for use across subjects
+and qualifications
+o Discover our new online past paper service
+o Learn more about Active Results
+o Visit our Online Support Centre
+Download high-quality, exciting and
+innovative A Level Geography resources
+from ocr.org.uk/alevelgeography
+Resources and support for our A Level Geography
+qualification, developed through collaboration between
+our Geography Subject Advisor, teachers and other subject
+Experts, are available from our website. You can also contact
+our Geography Subject Advisor who can give you specialist
+advice, guidance and support.
+Contact the team at:
+01223 553998
+geography@ocr.org.uk
+To stay up to date with all the relevant news about our
+qualifications, register for email updates at ocr.org.uk/updates
+Visit our Online Support Centre at support.ocr.org.uk
+OCR is part of Cambridge University Press & Assessment, a department of the University of Cambridge.
+For staff training purposes and as part of our quality assurance programme your call may be recorded or monitored. ©OCR 2025 Oxford Cambridge and
+RSA Examinations is a Company Limited by Guarantee. Registered in England. Registered office The Triangle Building, Shaftesbury Road, Cambridge, CB2 8EA.
+Registered company number 3484466. OCR is an exempt charity.
+OCR operates academic and vocational qualifications regulated by Ofqual, Qualifications Wales and CCEA as listed in their qualifications registers including
+A Levels, GCSEs, Cambridge Technicals and Cambridge Nationals.
+Cambridge University Press & Assessment is committed to making our documents accessible in accordance with the WCAG 2.1 Standard. We’re always looking
+to improve the accessibility of our documents. If you find any problems or you think we’re not meeting accessibility requirements, please contact us.

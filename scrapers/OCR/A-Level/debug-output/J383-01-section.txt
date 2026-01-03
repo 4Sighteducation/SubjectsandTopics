@@ -1,0 +1,178 @@
+Content of Living in the UK Today (J383/01) 6
+2c. Content of The World Around Us (J383/02) 9
+2c. Content of Geographical Skills (J383/03) 13
+3 Assessment of GCSE (9–1) in Geography A (Geographical Themes) 17
+3a. Forms of assessment 17
+3b. Assessment objectives (AO) 18
+3c. Total qualification time 19
+3d. Qualification availability outside of England 19
+3e. Language 19
+3f. Assessment availability 20
+3g. Retaking the qualification 20
+3h. Assessment of extended response 20
+3i. Spelling, punctuation and grammar and the use of specialist terminology 20
+3j. Synoptic assessment 20
+3k. Calculating qualification results 20
+4 Admin: What you need to know 21
+4a. Pre-assessment 21
+4b. Special consideration 22
+4c. External assessment arrangements 22
+4d. Results and certificates 23
+4e. Post-results services 23
+4f. Malpractice 24
+5 Appendices 25
+5a. Grade descriptors 25
+5b. Overlap with other qualifications 26
+5c. Accessibility 26
+5d. Use of mathematics and statistics in geography requirement 27
+5e. Glossary of terms from the specification content 28
+Summary of updates 29
+Version 1.5 © OCR 2025
+OCR GCSE (9–1) in Geography A (Geographical Themes) i
+Support and Guidance
+Introducing a new specification brings challenges for throughout the lifetime of the specification, they
+implementation and teaching, but it also opens up new include:
+opportunities. Our aim is to help you at every stage.
+• Delivery Guides
+We are working hard with teachers and other experts
+• Transition Guides
+to bring you a package of practical support, resources
+• Topic Exploration Packs
+and training.
+• Lesson Elements.
+Subject Advisors We also work with a number of leading publishers who
+publish textbooks and resources for our specifications.
+OCR Subject Advisors provide information and support
+For more information on our publishing partners
+to centres including specification and non-exam
+and their resources visit: ocr.org.uk/qualifications/
+assessment advice, updates on resource developments
+resource-finder/publishing-partner
+and a range of training opportunities.
+Our Subject Advisors work with subject communities Professional development
+through a range of networks to ensure the sharing of
+Our improved Professional Development
+ideas and expertise supporting teachers and students
+Programme fulfils a range of needs through
+alike. They work with developers to help produce our
+course selection, preparation for teaching, delivery
+specifications and the resources needed to support
+and assessment. Whether you want to look at our new
+these qualifications during their development.
+digital training or search for training materials, you can
+You can contact our Geography Subject Advisors for find what you’re looking for all in one place at the CPD
+specialist advice, guidance and support: Hub: cpdhub.ocr.org.uk
+01223 553998
+An introduction to new specifications
+Geography@ocr.org.uk
+@OCR_Geography We run training events throughout the academic year
+that are designed to help prepare you for first teaching
+and support every stage of your delivery of the new
+Teaching and learning resources
+qualifications.
+Our resources are designed to provide you with a range
+of teaching activities and suggestions that enable you to To receive the latest information about the training
+select the best activity, approach or context to support we offer on GCSE and A Level, please register for email
+your teaching style and your particular students. The updates at: ocr.org.uk/updates
+resources are a body of knowledge that will grow
+Version 1.5 © OCR 2025
+ii OCR GCSE (9–1) in Geography A (Geographical Themes)
+Assessment Preparation and Analysis Service
+Along with subject-specific resources and tools, you’ll focus on skills development, professional guidance for
+also have access to a selection of generic resources that teachers and results data analysis.
+ExamBuilder
+Enabling you to build, mark and assess tests
+from OCR exam questions and produce a
+complete mock GCSE or A Level exam.
+Find out more at ocr.org.uk/exambuilder
+Subject Advisors Support Practice Papers
+Our Subject Advisors provide Assess students’ progress under
+you with access to specifications, formal examination conditions
+high-quality teaching resources with question papers downloaded
+and assessment materials. from a secure location, well-presented,
+easy-to-interpret mark schemes
+and commentary on marking and
+sample answers.
+Skills Guides Active Results
+These guides cover topics that Our free online results analysis
+could be relevant to a range service helps you review the
+of qualifications, for example performance of individual students
+communication, legislation or your whole cohort. For more
+and research. details, please refer to
+Download the guides at ocr.org.uk/activeresults
+ocr.org.uk/skillsguides
+Version 1.5 © OCR 2025
+OCR GCSE (9–1) in Geography A (Geographical Themes) iii
+Version 1.5 © OCR 2025
+iv OCR GCSE (9–1) in Geography A (Geographical Themes)
+1 W hy choose an OCR GCSE (9–1) in Geography A
+(Geographical Themes)?
+1a. Why choose an OCR qualification?
+Choose OCR and you’ve got the reassurance that aim to encourage students to become responsible
+1
+you’re working with one of the UK’s leading exam for their own learning, confident in discussing ideas,
+boards. Our new OCR GCSE (9–1) in Geography A innovative and engaged.
+(Geographical Themes) course has been developed
+in consultation with teachers, employers and higher We provide a range of support services designed to
+education to provide us with a qualification that’s help you at every stage, from preparation through to
+relevant to them and meets their needs. the delivery of our specifications. This includes:
+We’re part of the Cambridge Assessment Group, • A wide range of high-quality creative resources
+Europe’s largest assessment agency and a department including:
+of the University of Cambridge. Cambridge •• Delivery Guides
+Assessment plays a leading role in developing and •• Transition Guides
+delivering assessments throughout the world, •• Topic Exploration Packs
+operating in more than 150 countries. •• Lesson Elements
+•• … and much more.
+We work with a range of education providers,
+including schools, colleges, workplaces and other • A ccess to Subject Advisors to support you
+institutions in both the public and private sectors. through the transition and throughout the
+More than 13,000 centres choose our A Levels, GCSEs lifetimes of the specifications.
+and vocational qualifications including Cambridge
+Nationals and Cambridge Technicals. • C PD/Training for teachers to introduce the
+qualifications and prepare you for first teaching.
+Our Specifications
+We believe in developing specifications that help you • A ctive Results – our free results analysis
+bring the subject to life and inspire your students to service to help you review the performance of
+achieve more. individual learners or whole schools.
+We’ve created teacher-friendly specifications All GCSE (9–1) qualifications offered by OCR are
+based on extensive research and engagement with accredited by Ofqual, the Regulator for qualifications
+the teaching community. They’re designed to be offered in England. The accreditation number for
+straightforward and accessible so that you can tailor OCR’s GCSE (9–1) in Geography A (Geographical
+the delivery of the course to suit your needs. We Themes) is QN601/8310/X.
+Version 1.5 © OCR 2025
+OCR GCSE (9–1) in Geography A (Geographical Themes) 1
+1b. Why choose an OCR GCSE (9–1) in Geography A (Geographical Themes)?
+Aims and learning outcomes This GCSE (9–1) qualification encourages learners
+1
+OCR’s GCSE (9–1) in Geography A (Geographical to think like geographers through the study of
+Themes) will enable learners to build on their Key geographical themes applied within the context of the
+Stage 3 knowledge and skills to: UK and the wider world. This structure allows learners
+to draw synoptic links between the content within the
+• d evelop and extend their knowledge of comparable themes.
+locations, places, environments and processes,
+and of different scales including global; and This specification contains clear, detailed, stimulating
+of social, political and cultural contexts (know content to allow teachers to enthuse a love of
+geographical material) geography in their learners, whilst being confident
+that they are preparing them for assessment to the
+• g ain understanding of the interactions between depth and detail required.
+people and environments, change in places
+and processes over space and time, and The qualification gives a prominent position to
+the interrelationship between geographical fieldwork and other geographical skills whilst ensuring
+phenomena at different scales and in different they are embedded within teaching and learning.
+contexts (think like a geographer) Skills are contextualised through the thematic content
+studied.
+• d evelop and extend their competence in a
+range of skills including those used in fieldwork, This GCSE (9–1) in Geography A (Geographical
+in using maps and Geographical Information Themes) will provide learners with a solid grounding,
+Systems (GIS) and in researching secondary whether they are going on to Further Education,
+evidence, including digital sources; and develop Higher Education or the workplace. The qualification
+their competence in applying sound enquiry aims to inspire a passion for geography within
+and investigative approaches to questions and learners which encourages an interest in the subject
+hypotheses (study like a geographer) beyond academic achievements, for the rest of their
+life.
+• a pply geographical knowledge, understanding,
+skills and approaches appropriately and OCR has a comprehensive support package in
+creatively to real world contexts, including place for the delivery of GCSE (9–1) Geography A
+fieldwork, and to contemporary situations and (Geographical Themes), including a range of free
+issues; and develop well-evidenced arguments resources available on the website, CPD opportunities
+drawing on their geographical know

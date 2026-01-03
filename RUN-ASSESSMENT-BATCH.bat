@@ -20,3 +20,25 @@ echo Assessment scraping complete!
 echo Check the log file for details.
 echo ================================
 pause
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

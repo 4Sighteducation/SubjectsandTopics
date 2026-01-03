@@ -157,17 +157,20 @@ def scrape_papers(subject_code, subject_name, exam_materials_url, headless=True)
             
             filename = href.split('/')[-1]
             
-            # Parse filename: 9ch0-01-que-20240524.pdf or 9CH0_01_que_20201008.pdf
-            # Pattern: CODE-PAPER-TYPE-DATE or CODE_PAPER_TYPE_DATE
-            pattern = rf'{subject_code_lower}[-_](\d+)[-_]([a-z]{{3}})[-_](\d{{8}})'
+            # Parse filename, supporting optional letter suffix for papers like 03A / 03B:
+            #   9pl0-03a-que-20240524.pdf
+            #   9PL0_03b_rms_20201008.pdf
+            # Pattern: CODE-PAPER(+suffix)-TYPE-DATE or CODE_PAPER(+suffix)_TYPE_DATE
+            pattern = rf'{subject_code_lower}[-_](\d+)([a-z])?[-_]([a-z]{{2,3}})[-_](\d{{8}})'
             match = re.search(pattern, filename, re.IGNORECASE)
             
             if not match:
                 continue
             
             paper_num = int(match.group(1))
-            doc_type_code = match.group(2).lower()
-            date_str = match.group(3)
+            paper_suffix = (match.group(2) or '').lower()
+            doc_type_code = match.group(3).lower()
+            date_str = match.group(4)
             
             year = int(date_str[:4])
             month = int(date_str[4:6])
@@ -193,17 +196,19 @@ def scrape_papers(subject_code, subject_name, exam_materials_url, headless=True)
             }
             doc_type = doc_types.get(doc_type_code, 'Question Paper')
             
+            component_code = f'{paper_num:02d}{paper_suffix.upper()}' if paper_suffix else f'{paper_num:02d}'
             papers.append({
                 'year': year,
                 'exam_series': series,
                 'paper_number': paper_num,
-                'component_code': f'{paper_num:02d}',
+                'component_code': component_code,
                 'tier': None,
                 'doc_type': doc_type,
                 'url': href
             })
             
-            print(f"   ✓ {year} {series} - Paper {paper_num} - {doc_type}")
+            pretty_paper = f"{paper_num}{paper_suffix.upper()}" if paper_suffix else f"{paper_num}"
+            print(f"   ✓ {year} {series} - Paper {pretty_paper} - {doc_type}")
         
         print(f"\n✓ Found {len(papers)} papers")
         
@@ -233,18 +238,18 @@ def scrape_papers(subject_code, subject_name, exam_materials_url, headless=True)
 
 
 def group_papers(papers):
-    """Group into sets by year + series + paper number."""
+    """Group into sets by year + series + component_code (handles 03A vs 03B)."""
     sets = {}
     
     for paper in papers:
-        key = (paper['year'], paper['exam_series'], paper['paper_number'])
+        key = (paper['year'], paper['exam_series'], paper.get('component_code') or paper['paper_number'])
         
         if key not in sets:
             sets[key] = {
                 'year': paper['year'],
                 'exam_series': paper['exam_series'],
                 'paper_number': paper['paper_number'],
-                'component_code': paper['component_code'],
+                'component_code': paper.get('component_code'),
                 'tier': None,
                 'question_paper_url': None,
                 'mark_scheme_url': None,

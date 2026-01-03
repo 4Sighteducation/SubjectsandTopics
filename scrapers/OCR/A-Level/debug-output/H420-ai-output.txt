@@ -1,0 +1,52 @@
+Here is the extracted curriculum content structure for the OCR A-Level Biology specification:
+
+1. Components/Papers
+1.1 Component 01: Biological processes (2 hour 15 min written paper)
+1.2 Component 02: Biological diversity (2 hour 15 min written paper)  
+1.3 Component 03: Unified biology (1 hour 30 min written paper)
+1.4 Component 04: Practical Endorsement (non-exam assessment)
+
+2. Modules
+2.1 Module 1: Development of practical skills in biology
+2.1.1 Practical skills assessed in a written examination
+2.1.1.1 Planning practical investigations
+2.1.1.2 Implementing practical techniques
+2.1.1.3 Analysis of experimental data
+2.1.1.4 Evaluation of experimental procedures
+
+2.1.2 Practical skills assessed in practical endorsement
+2.1.2.1 Independent thinking skills
+2.1.2.2 Scientific methods and practices
+2.1.2.3 Research and referencing techniques
+2.1.2.4 Use of apparatus and experimental techniques
+
+2.2 Module 2: Foundations in biology
+2.2.1 Cell structure
+2.2.2 Biological molecules
+2.2.3 Nucleotides and nucleic acids
+2.2.4 Enzymes
+2.2.5 Biological membranes
+2.2.6 Cell division, cell diversity and cellular organisation
+
+2.3 Module 3: Exchange and transport
+2.3.1 Exchange surfaces
+2.3.2 Transport in animals
+2.3.3 Transport in plants
+
+2.4 Module 4: Biodiversity, evolution and disease
+2.4.1 Communicable diseases, disease prevention and immune system
+2.4.2 Biodiversity
+2.4.3 Classification and evolution
+
+2.5 Module 5: Communication, homeostasis and energy
+2.5.1 Communication and homeostasis
+2.5.2 Excretion as homeostatic control
+2.5.3 Neuronal communication
+2.5.4 Hormonal communication
+2.5.5 Plant and animal responses
+2.5.6 Energy for biological processes
+
+2.6 Module 6: Genetics, evolution and ecosystems
+(Not fully detailed in the extracted text)
+
+The structure follows the specification's modular breakdown, with detailed sub-sections for each module's learning outcomes.

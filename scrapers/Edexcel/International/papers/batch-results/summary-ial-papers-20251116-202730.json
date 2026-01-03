@@ -1,0 +1,159 @@
+{
+  "batch_name": "International A Level Exam Papers Batch",
+  "start_time": "2025-11-16T20:27:30.166695",
+  "end_time": "2025-11-16T21:58:36.658220",
+  "elapsed_seconds": 5466.4909925460815,
+  "elapsed_formatted": "91.1 minutes",
+  "summary": {
+    "total": 20,
+    "success": 18,
+    "failed": 2,
+    "total_paper_sets": 608
+  },
+  "results": [
+    {
+      "subject": "IAL-Accounting",
+      "status": "success",
+      "paper_sets": 42,
+      "time_seconds": 65.72422242164612
+    },
+    {
+      "subject": "IAL-Arabic",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 65.11622905731201
+    },
+    {
+      "subject": "IAL-Biology",
+      "status": "success",
+      "paper_sets": 79,
+      "time_seconds": 66.01273274421692
+    },
+    {
+      "subject": "IAL-Business",
+      "status": "success",
+      "paper_sets": 54,
+      "time_seconds": 65.58142447471619
+    },
+    {
+      "subject": "IAL-Chemistry",
+      "status": "success",
+      "paper_sets": 80,
+      "time_seconds": 67.01290154457092
+    },
+    {
+      "subject": "IAL-Economics",
+      "status": "success",
+      "paper_sets": 54,
+      "time_seconds": 67.56426858901978
+    },
+    {
+      "subject": "IAL-EnglishLanguage",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 65.94422483444214
+    },
+    {
+      "subject": "IAL-EnglishLiterature",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 32.40013909339905
+    },
+    {
+      "subject": "IAL-French",
+      "status": "timeout",
+      "time_seconds": 300
+    },
+    {
+      "subject": "IAL-Geography",
+      "status": "timeout",
+      "time_seconds": 300
+    },
+    {
+      "subject": "IAL-German",
+      "status": "success",
+      "paper_sets": 25,
+      "time_seconds": 74.67682695388794
+    },
+    {
+      "subject": "IAL-Greek",
+      "status": "success",
+      "paper_sets": 20,
+      "time_seconds": 66.85783267021179
+    },
+    {
+      "subject": "IAL-History",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 72.4631073474884
+    },
+    {
+      "subject": "IAL-IT",
+      "status": "success",
+      "paper_sets": 26,
+      "time_seconds": 66.61236095428467
+    },
+    {
+      "subject": "IAL-Law",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 63.93338990211487
+    },
+    {
+      "subject": "IAL-Mathematics",
+      "status": "success",
+      "paper_sets": 54,
+      "time_seconds": 71.33129572868347
+    },
+    {
+      "subject": "IAL-FurtherMaths",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 61.53021478652954
+    },
+    {
+      "subject": "IAL-Physics",
+      "status": "success",
+      "paper_sets": 80,
+      "time_seconds": 68.86175465583801
+    },
+    {
+      "subject": "IAL-Psychology",
+      "status": "success",
+      "paper_sets": 69,
+      "time_seconds": 67.76865696907043
+    },
+    {
+      "subject": "IAL-Spanish",
+      "status": "success",
+      "paper_sets": 25,
+      "time_seconds": 67.34494209289551
+    }
+  ],
+  "checkpoint": {
+    "completed": [
+      "IAL-Accounting",
+      "IAL-Arabic",
+      "IAL-Biology",
+      "IAL-Business",
+      "IAL-Chemistry",
+      "IAL-Economics",
+      "IAL-EnglishLanguage",
+      "IAL-EnglishLiterature",
+      "IAL-German",
+      "IAL-Greek",
+      "IAL-History",
+      "IAL-IT",
+      "IAL-Law",
+      "IAL-Mathematics",
+      "IAL-FurtherMaths",
+      "IAL-Physics",
+      "IAL-Psychology",
+      "IAL-Spanish"
+    ],
+    "failed": [
+      "IAL-French",
+      "IAL-Geography"
+    ]
+  }
+}

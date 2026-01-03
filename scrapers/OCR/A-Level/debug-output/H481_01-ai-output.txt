@@ -1,0 +1,168 @@
+1. Physical Systems
+   1.1 Landscape Systems
+      1.1.1 Option A – Coastal Landscapes
+         1.1.1.1 1.a. Coastal landscapes can be viewed as systems
+            1.1.1.1.1 the components of coastal landscape systems, including inputs, processes and outputs
+            1.1.1.1.2 the flows of energy and material through coastal systems
+            1.1.1.1.3 sediment cells
+         1.1.1.2 1.b. Coastal landscape systems are influenced by a range of physical factors
+            1.1.1.2.1 winds, including speed, direction and frequency
+            1.1.1.2.2 waves, including wave formation, development and breaking
+            1.1.1.2.3 tides, including tidal cycles and range
+            1.1.1.2.4 geology, including lithology and structure
+            1.1.1.2.5 global pattern of ocean currents
+         1.1.1.3 1.c. Coastal sediment is supplied from a variety of sources
+            1.1.1.3.1 terrestrial, including fluvial deposition, weathering and mass movement, marine erosion, aeolian deposition and longshore drift
+            1.1.1.3.2 offshore, including marine deposition
+            1.1.1.3.3 human, including beach nourishment
+         1.1.1.4 2.a. Coastal landforms develop due to a variety of interconnected climatic and geomorphic processes
+            1.1.1.4.1 the influence of flows of energy and materials on geomorphic processes, including weathering, mass movement, wave, fluvial and aeolian erosion, transportation and deposition
+            1.1.1.4.2 the formation of distinctive landforms, predominantly influenced by erosion, including bays, headlands, cliffs, shore platforms, geos, blow holes, caves, arches, stacks and stumps
+            1.1.1.4.3 the formation of distinctive landforms, predominantly influenced by deposition, including beaches, spits, on-shore bars, tombolos and salt marshes
+         1.1.1.5 2.b. Coastal landforms are inter-related and together make up characteristic landscapes
+            1.1.1.5.1 the physical factors which influence the formation of landforms within the landscape system
+            1.1.1.5.2 the inter-relationship of a range of landforms within the characteristic landscape system
+            1.1.1.5.3 how and why the landscape system changes over time from millennia to seconds, such as cliff collapse in seconds, seasonal changes in beach profile and spit growth over millennia
+         1.1.1.6 3.a. Emergent coastal landscapes form as sea level falls
+            1.1.1.6.1 climate changes that occurred during a previous time period and the resultant sea level fall
+            1.1.1.6.2 the influence of sea level fall and geomorphic processes in shaping landforms, including raised beaches, marine terraces and abandoned cliffs
+            1.1.1.6.3 the modification of these landforms by processes associated with present and future climate and sea level changes
+         1.1.1.7 3.b. Submergent coastal landscapes form as sea level rises
+            1.1.1.7.1 climate changes that occurred during a previous time period and the resultant sea level rise
+            1.1.1.7.2 the influence of sea level rise and geomorphic processes in shaping landforms, including rias, fjords and shingle beaches
+            1.1.1.7.3 the modification of these landforms by processes associated with present and future climate and sea level changes
+         1.1.1.8 4.a. Human activity intentionally causes change within coastal landscape systems
+            1.1.1.8.1 the management strategy being implemented and the reason for its implementation, such as groyne construction or off-shore dredging
+            1.1.1.8.2 their intentional impacts on processes and flows of material, processes and/or energy through the coastal system, such as their effect on the sediment budget
+            1.1.1.8.3 the effect of these impacts in changing coastal landforms, such as changes in beach profile
+            1.1.1.8.4 the consequence of these changes on the landscape, such as extension of the coastal landscape seawards
+         1.1.1.9 4.b. Economic development unintentionally causes change within coastal landscape systems
+            1.1.1.9.1 the economic development taking place and the reasons for it taking place, such as trade routes, port or tourist resort development
+            1.1.1.9.2 their unintentional impacts on processes and flows of material, processes and/or energy through the coastal system, such as disturbance to the sediment cell balance
+            1.1.1.9.3 the effect of these impacts in changing coastal landforms, such as beach profiles
+            1.1.1.9.4 the consequence of these changes on the landscape, such as coastal retreat or protection
+      1.1.2 Option B – Glaciated Landscapes
+         1.1.2.1 1.a. Glaciated landscapes can be viewed as systems
+            1.1.2.1.1 the components of glaciated landscape systems, including inputs, processes and outputs
+            1.1.2.1.2 the flows of energy and material through glaciated systems
+            1.1.2.1.3 glacier mass balance
+         1.1.2.2 1.b. Glaciated landscapes are influenced by a range of physical factors
+            1.1.2.2.1 climate, including precipitation totals and patterns
+            1.1.2.2.2 geology, including lithology and structure
+            1.1.2.2.3 latitude and altitude
+            1.1.2.2.4 relief and aspect on microclimate and glacier movement
+         1.1.2.3 1.c. There are different types of glacier and glacier movement
+            1.1.2.3.1 the formation of glacier ice
+            1.1.2.3.2 valley glaciers and ice sheets
+            1.1.2.3.3 warm-based and cold-based glaciers
+            1.1.2.3.4 basal sliding and internal deformation
+         1.1.2.4 2.a. Glacial landforms develop due to a variety of interconnected climatic and geomorphic processes
+            1.1.2.4.1 the influence of flows of energy and materials on geomorphic processes, including weathering, mass movement, glacial erosion, nivation, transportation and deposition
+            1.1.2.4.2 the formation of distinctive landforms, predominantly influenced by erosion, including corries, arêtes, pyramidal peaks, troughs, roche moutonnée and striations
+            1.1.2.4.3 the formation of distinctive landforms, predominantly influenced by deposition, including terminal, lateral and recessional moraines, erratics, drumlins and till sheets
+         1.1.2.5 2.b. Glacial landforms are inter-related and together make up characteristic landscapes
+            1.1.2.5.1 the physical factors which influence the formation of landforms within the landscape system
+            1.1.2.5.2 the inter-relationship of a range of landforms within the characteristic landscape system
+            1.1.2.5.3 how and why the landscape system changes over time from millennia to seconds, such as rock fall in seconds, seasonal changes in deposition rates and erosion of basins over millennia
+         1.1.2.6 3.a. Glacio-fluvial landforms exist as a result of climate change at the end of glacial periods
+            1.1.2.6.1 climate changes that occurred during a post-glacial period and the effect on resultant geomorphic processes
+            1.1.2.6.2 the influence of these processes in forming landforms, including kames, eskers and outwash plains
+            1.1.2.6.3 the modification of these landforms by processes associated with present and future climate changes
+         1.1.2.7 3.b. Periglacial landforms exist as a result of climate change before and/or after glacial periods
+            1.1.2.7.1 climate changes that occurred during a previous time period and the effect on resultant geomorphic processes
+            1.1.2.7.2 the influence of these processes in forming landforms, including patterned ground and pingos
+            1.1.2.7.3 the modification of these landforms by processes associated with present and future climate changes
+         1.1.2.8 4.a. Human activity causes change within periglacial landscape systems
+            1.1.2.8.1 the human activity taking place and the reasons for it taking place, such as resource extraction
+            1.1.2.8.2 the impacts on processes and flows of material, processes and/or energy through the periglacial system, such as increased heat produced by buildings
+            1.1.2.8.3 the effect of these impacts in changing periglacial landforms, such as thawing of permafrost
+            1.1.2.8.4 the consequence of these changes on the landscape, such as development of thermokarst
+         1.1.2.9 4.b. Human activity causes change within glaciated landscape systems
+            1.1.2.9.1 the human activity taking place and the reasons for it taking place, such as dam construction
+            1.1.2.9.2 the impacts on processes and flows of material, processes and/or energy through the glacial system, such as trapping of sediment
+            1.1.2.9.3 the effect of these impacts in changing glacial landforms, such as increased channel scour below dams
+            1.1.2.9.4 the consequence of these changes on the landscape, such as changes to valley floor
+      1.1.3 Option C – Dryland Landscapes
+         1.1.3.1 1.a. Dryland landscapes can be viewed as systems
+            1.1.3.1.1 the components of dryland landscape systems, including inputs, processes and outputs
+            1.1.3.1.2 the flows of energy and material through dryland systems
+            1.1.3.1.3 aridity index, including UNEP
+         1.1.3.2 1.b. Dryland landscapes are influenced by a range of physical factors
+            1.1.3.2.1 climate, including precipitation totals and patterns
+            1.1.3.2.2 geology, including lithology and structure
+            1.1.3.2.3 latitude and altitude
+            1.1.3.2.4 relief and aspect on microclimate
+            1.1.3.2.5 the availability of sediment
+         1.1.3.3 1.c. There are different types of dryland
+            1.1.3.3.1 polar drylands
+            1.1.3.3.2 mid- and low-latitude deserts
+            1.1.3.3.3 semi-arid environments
+         1.1.3.4 2.a. Dryland landscapes develop due to a variety of interconnected climatic and geomorphic processes
+            1.1.3.4.1 the influence of flows of energy and materials on geomorphic processes, including weathering, mass movement, fluvial and aeolian erosion, transportation and deposition
+            1.1.3.4.2 the formation of distinctive landforms, predominantly influenced by erosion, including wadis, canyons, pedestal rocks, ventifacts and desert pavements
+            1.1.3.4.3 the formation of distinctive landforms, predominantly influenced by deposition, including barchans, linear dunes, star dunes, alluvial fans and bajadas
+         1.1.3.5 2.b. Dryland landforms are inter-related and together make up characteristic landscapes
+            1.1.3.5.1 the physical factors which influence the formation of landforms within the landscape system
+            1.1.3.5.2 the inter-relationship of a range of landforms within the characteristic landscape system
+            1.1.3.5.3 how and why the landscape system changes over time from millennia to seconds, such as the impact of flash floods on alluvial fans in seconds, seasonal and ephemeral streams on canyons and pediment development over the millennia
+         1.1.3.6 3.a. Fluvial landforms can exist in dryland landscapes as a result of earlier pluvial periods
+            1.1.3.6.1 climate changes that occurred during a previous time period and the resultant pluvial conditions
+            1.1.3.6.2 the influence of pluvial conditions and geomorphic processes in shaping landforms, including inselbergs and pediments
+            1.1.3.6.3 the modification of these landforms by processes associated with present and future climate changes
+         1.1.3.7 3.b. Periglacial landforms can exist as a result of earlier colder periods
+            1.1.3.7.1 climate changes that occurred during a previous time period and the resultant colder conditions
+            1.1.3.7.2 the influence of colder climatic conditions and geomorphic processes in shaping landforms, including frost shattered debris, nivation hollows and solifluction deposits
+            1.1.3.7.3 the modification of these landforms by processes associated with present and future climate changes
+         1.1.3.8 4.a. Water supply issues can cause change within dryland landscape systems
+            1.1.3.8.1 the water supply issue taking place and the reasons for it taking place, such as water shortage due to drought
+            1.1.3.8.2 its impacts on processes and flows of material, processes and/or energy through the dryland landscape system, such as high rates of sediment trapping behind dams or modifying rivers to distribute and store water
+            1.1.3.8.3 the effect of these impacts in changing dryland landforms, such as decreased growth of wadis
+            1.1.3.8.4 the consequence of these changes on the landscape, such as reducing depositional landforms such as alluvial fans or slowing pediment development
+         1.1.3.9 4.b. Economic activity can cause change within dryland landscape systems
+            1.1.3.9.1 the economic activity taking place and the reasons for it taking place, such as tourism
+            1.1.3.9.2 its impacts on processes and flows of material and/or energy through the dryland landscape system, such as vegetation and cryptobiotic crust damage by dune buggy use
+            1.1.3.9.3 the effect of these impacts in changing dryland landforms, such as higher erosion rates on dunes
+            1.1.3.9.4 the consequence of these changes on the landscape, such as increased loess accumulation in marginal areas
+   1.2 Earth’s Life Support Systems
+      1.2.1 1.a. Water and carbon support life on Earth and move between the land, oceans and atmosphere
+         1.2.1.1 the importance of water in supporting life on the planet, the uses of water for humans, flora and fauna
+         1.2.1.2 carbon is the building block of life on Earth. It is available for use in the natural world and by humans
+         1.2.1.3 water and carbon cycling between the land, oceans and atmosphere through open and closed systems
+      1.2.2 1.b. The carbon and water cycles are systems with inputs, outputs and stores
+         1.2.2.1 the distribution and size of the major stores in the carbon and water systems, including the atmosphere, oceans, water bodies, ice (cryosphere), soil, vegetation and groundwater
+         1.2.2.2 the characteristics of the main inputs and outputs of the water cycle, including precipitation and snowmelt (ablation) and evapotranspiration
+         1.2.2.3 the characteristics of the main inputs and outputs of the carbon cycle, including precipitation, photosynthesis, decomposition, weathering (including main forms of chemical weathering) respiration and combustion
+      1.2.3 1.c. The carbon and water cycles have distinctive processes and pathways that operate within them
+         1.2.3.1 the processes of the water cycle, including evaporation, transpiration, condensation (including formation of clouds), precipitation (including causes of precipitation), interception, ablation, runoff (including overland flow and saturated overland flow), catchment hydrology (including infiltration, percolation, throughflow, groundwater flow and cryospheric processes)
+         1.2.3.2 the processes of the carbon cycle, including photosynthesis, respiration, decomposition, combustion (including natural and fossil fuel use), natural sequestration in oceans, vegetation, sediments and weathering
+      1.2.4 2.a. It is possible to identify the physical and human factors that affect the water and carbon cycles in a tropical rainforest
+         1.2.4.1 water and carbon cycles specific to tropical rainforests, including the rates of flow and distinct stores. How an individual tree through to the rainforest as a whole can influence these cycles
+         1.2.4.2 physical factors affecting the flows and stores in the water cycle, including temperature, rock permeability and porosity and relief
+         1.2.4.3 physical factors affecting the flows and stores in the carbon cycle, including temperature, vegetation, organic matter in soil and the mineral composition of rocks
+         1.2.4.4 for one drainage basin in the tropical rainforest, explore the changes to the flows and stores within the water cycle caused by natural and human factors such as deforestation and farming factors
+         1.2.4.5 the impact of human activity, such as deforestation and farming, on carbon flows, soil and nutrient stores
+         1.2.4.6 strategies to manage the tropical rainforest such as afforestation and improved agriculture techniques that have positive effects on the water and carbon cycles
+      1.2.5 2.b. It is possible to identify the physical and human factors that affect the water and carbon cycles in an Arctic tundra area
+         1.2.5.1 water and carbon cycles specific to Arctic tundra, including the rates of flow and distinct stores
+         1.2.5.2 physical factors affecting the flows and stores in the cycles, including temperature, rock permeability and porosity and relief
+         1.2.5.3 physical factors affecting the flows and stores in the carbon cycle, including temperature, vegetation, organic matter in soil and the mineral composition of rocks
+         1.2.5.4 seasonal changes in the water and carbon cycles in the Arctic tundra
+         1.2.5.5 the impact of the developing oil and gas industry on the water and carbon cycles
+         1.2.5.6 management strategies used to moderate the impacts of the oil and gas industry
+      1.2.6 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles
+         1.2.6.1 dynamic equilibrium in the cycles and the balance between the stores and the flows
+         1.2.6.2 land use changes, such as growth in urban areas, farming and forestry, as a catalyst for altering the flows and stores in these cycles
+         1.2.6.3 how water extraction, including surface extraction and sub-surface groundwater extraction (including aquifers and artesian basins) impact the flows and stores in these cycles
+         1.2.6.4 the impact of fossil fuel combustion and carbon sequestration on flows and stores of carbon
+         1.2.6.5 positive and negative feedback loops within and between the water and carbon cycles
+      1.2.7 3.b. The pathways and processes which control the cycling of water and carbon vary over time
+         1.2.7.1 short term changes to the cycles and the significance of these changes, including diurnal and seasonal changes of climate, temperature, sunlight and foliage
+         1.2.7.2 long term (millions of years) changes in the water and carbon cycles, including changes to stores and flows
+         1.2.7.3 the importance of research and monitoring techniques to identify and record changes to the global water and carbon cycles; reasons why this data is gathered
+      1.2.8 4.a. The two cycles are linked and interdependent
+         1.2.8.1 the ways in which the two cycles link and are interdependent via oceans, atmosphere, cryosphere and vegetation
+         1.2.8.2 how human activities cause changes in the availability of water and carbon (including fossil and terrestrial) stores, such as the use of these as resources
+         1.2.8.3 the impact of long-term climate change on the water and carbon cycles
+      1.2.9 4.b. The global implications of water and carbon management
+         1.2.9.1 global management strategies to protect the carbon cycle as regulator of the Earth’s climate, including afforestation, wetland restoration, improving agricultural practices and reducing emissions (including carbon trading and international agreements)
+         1.2.9.2 global management strategies to protect the water cycle including improving forestry techniques, water allocations for domestic, industrial and agricultural use and drainage basin planning (including run-off, surface stores and groundwater)

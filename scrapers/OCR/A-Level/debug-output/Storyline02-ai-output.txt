@@ -1,0 +1,8 @@
+1. the terms: exothermic, endothermic, standard conditions, (standard) enthalpy change of reaction (∆H), (standard) enthalpy change of combustion (∆H), (standard) enthalpy change of formation (∆H), (standard) enthalpy change of neutralisation (∆H)
+2. the term average bond enthalpy and the relation of bond enthalpy to the length and strength of a bond; bond-breaking as an endothermic process and bond-making as exothermic; the relation of these processes to the overall enthalpy change for a reaction
+3. techniques and procedures for measuring the energy transferred when reactions occur in solution (or solids reacting with solutions) or when flammable liquids burn; the calculation of enthalpy changes from experimental results
+4. the determination of enthalpy changes of reaction from enthalpy cycles and enthalpy level diagrams based on Hess’ law
+5. the terms catalyst, catalysis, catalyst poison, heterogeneous
+6. a simple model to explain the function of a heterogeneous catalyst
+7. the term cracking; the use of catalysts in cracking processes; techniques and procedures for cracking a hydrocarbon vapour over a heated catalyst and testing the product
+8. the origin of atmospheric pollutants from a variety of sources: particulates, unburnt hydrocarbons, CO, CO₂, NOₓ, SOₓ; the environmental implications and methods of reducing these pollutants

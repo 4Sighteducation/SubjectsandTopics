@@ -1,0 +1,481 @@
+1 Foundation Tier
+1.1 Chapter C1: Air and water
+1.1.1 C1.1 How has the Earth’s atmosphere changed over time, and why?
+1.1.1.1 Recall and explain the main features of the particle model in terms of the states of matter and change of state, distinguishing between physical and chemical changes and recognize that the particles themselves do not have the same properties as the bulk substances.
+1.1.1.2 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres.
+1.1.1.3 Use ideas about energy transfers and the relative strength of forces between particles to explain the different temperatures at which changes of state occur.
+1.1.1.4 Use data to predict states of substances under given conditions.
+1.1.1.5 Interpret evidence for how it is thought the atmosphere was originally formed.
+1.1.1.6 Describe how it is thought an oxygen-rich atmosphere developed over time.
+1.1.1.7 Describe the major sources of carbon monoxide and particulates (incomplete combustion), sulfur dioxide (combustion of sulfur impurities in fuels), oxides of nitrogen (oxidation of nitrogen at high temperatures and further oxidation in the air).
+1.1.1.8 Explain the problems caused by increased amounts of these substances and describe approaches to decreasing the emissions of these substances into the atmosphere including the use of catalytic converters, low sulfur petrol, and gas scrubbers to decrease emissions.
+1.1.1.9 Use chemical symbols to write the formulae of elements and simple covalent compounds.
+1.1.1.10 Use the names and symbols of common elements and compounds and the principle of conservation of mass to write formulae and balanced chemical equations.
+1.1.1.11 Use arithmetic computations and ratios when balancing equations.
+1.1.1.12 Describe tests to identify oxygen, hydrogen, and carbon dioxide.
+1.1.1.13 Explain oxidation in terms of gain of oxygen.
+1.1.2 C1.2 Why are there temperature changes in chemical reactions?
+1.1.2.1 Distinguish between endothermic and exothermic reactions on the basis of the temperature change of the surroundings.
+1.1.2.2 Draw and label a reaction profile for an exothermic and an endothermic reaction, identifying activation energy.
+1.1.2.3 Explain activation energy as the energy needed for a reaction to occur.
+1.1.2.4 Interpret charts and graphs when dealing with reaction profiles.
+1.1.2.5 Calculate energy changes in a chemical reaction by considering bond breaking and bond making energies.
+1.1.2.6 Carry out arithmetic computations when calculating energy changes.
+1.1.2.7 Describe how you would investigate a chemical reaction to determine whether it is endothermic or exothermic.
+1.1.3 C1.3 What is the evidence for climate change, why is it occurring?
+1.1.3.1 Describe the greenhouse effect in terms of the interaction of radiation with matter.
+1.1.3.2 Evaluate the evidence for additional anthropogenic causes of climate change, including the correlation between change in atmospheric carbon dioxide concentration and the consumption of fossil fuels, and describe the uncertainties in the evidence base.
+1.1.3.3 Describe the potential effects of increased levels of carbon dioxide and methane on the Earth’s climate, including where crops can be grown, extreme weather patterns, melting of polar ice, and flooding of low land.
+1.1.3.4 Describe how the effects of increased levels of carbon dioxide and methane may be mitigated, including consideration of scale, risk, and environmental implications.
+1.1.3.5 Extract and interpret information from charts, graphs, and tables related to climate change.
+1.1.3.6 Use orders of magnitude to evaluate the significance of data.
+1.1.4 C1.4 How can scientists help improve the supply of potable water?
+1.1.4.1 Describe the principal methods for increasing the availability of potable water, in terms of the separation techniques used, including the ease of treating waste, ground, and salt water including filtration and membrane filtration; aeration, use of bacteria; chlorination and distillation (for salt water).
+1.1.4.2 Describe a test to identify chlorine (using blue litmus paper).
+
+1.2 Chapter C2: Chemical patterns
+1.2.1 C2.1 How have our ideas about atoms developed over time?
+1.2.1.1 Describe how and why the atomic model has changed over time to include the main ideas of Dalton, Thomson, Rutherford, and Bohr.
+1.2.1.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus.
+1.2.1.3 Recall relative charges and approximate relative masses of protons, neutrons, and electrons.
+1.2.1.4 Estimate the size and scale of atoms relative to other particles.
+1.2.1.5 Recall the typical size (order of magnitude) of atoms and small molecules.
+1.2.1.6 Relate size and scale of atoms to objects in the physical world.
+1.2.1.7 Calculate numbers of protons, neutrons, and electrons in atoms, given atomic number and mass number of isotopes or by extracting data from the Periodic Table.
+1.2.2 C2.2 What does the Periodic Table tell us about the elements?
+1.2.2.1 Explain how the position of an element in the Periodic Table is related to the arrangement of electrons in its atoms and hence to its atomic number.
+1.2.2.2 Describe how Mendeleev organized the elements based on their properties and relative atomic masses.
+1.2.2.3 Describe how discovery of new elements and the ordering elements by atomic number supports Mendeleev’s decisions to leave gaps and reorder some elements.
+1.2.2.4 Describe metals and non-metals and explain the differences between them on the basis of their characteristic physical and chemical properties, including melting point, boiling point, state and appearance, density, formulae of compounds, relative reactivity, and electrical conductivity.
+1.2.2.5 Recall the simple properties of Group 1 elements including their reaction with moist air, water, and chlorine.
+1.2.2.6 Recall the simple properties of Group 7 elements including their states and colors at room temperature and pressure, their colors as gases, their reactions with Group 1 elements, and their displacement reactions with other metal halides.
+1.2.2.7 Predict possible reactions and probable reactivity of elements from their positions in the Periodic Table.
+1.2.2.8 Describe experiments to identify the reactivity pattern of Group 7 elements including displacement reactions.
+1.2.2.9 Describe experiments to identify the reactivity pattern of Group 1 elements.
+1.2.3 C2.3 How do metals and non-metals combine to form compounds?
+1.2.3.1 Recall the simple properties of Group 0 including their low melting and boiling points, their state at room temperature and pressure, and their lack of chemical reactivity.
+1.2.3.2 Explain how observed simple properties of Groups 1, 7, and 0 depend on the outer shell of electrons of the atoms and predict properties from given trends down the groups.
+1.2.3.3 Explain how the reactions of elements are related to the arrangement of electrons in their atoms and hence to their atomic number.
+1.2.3.4 Explain how the atomic structure of metals and non-metals relates to their position in the Periodic Table.
+1.2.3.5 Describe the nature and arrangement of chemical bonds in ionic compounds.
+1.2.3.6 Explain ionic bonding in terms of electrostatic forces and transfer of electrons.
+1.2.3.7 Calculate numbers of protons, neutrons, and electrons in atoms and ions, given atomic number and mass number or by using the Periodic Table.
+1.2.3.8 Construct dot and cross diagrams for simple ionic substances.
+1.2.3.9 Explain how the bulk properties of ionic materials are related to the type of bonds they contain.
+1.2.3.10 Use ideas about energy transfers and the relative strength of attraction between ions to explain the melting points of ionic compounds compared to substances with other types of bonding.
+1.2.3.11 Describe the limitations of particular representations and models of ions and ionically bonded compounds, including dot and cross diagrams, and 3-D representations.
+1.2.3.12 Translate information between diagrammatic and numerical forms and represent three-dimensional shapes in two dimensions and vice versa when looking at chemical structures for ionic compounds.
+1.2.4 C2.4 How are equations used to represent chemical reactions?
+1.2.4.1 Use chemical symbols to write the formulae of elements and simple covalent and ionic compounds.
+1.2.4.2 Use the formulae of common ions to deduce the formula of Group 1 and Group 7 compounds.
+1.2.4.3 Use the names and symbols of the first 20 elements, Groups 1, 7, and 0, and other common elements from a supplied Periodic Table to write formulae and balanced chemical equations where appropriate.
+1.2.4.4 Describe the physical states of products and reactants using state symbols (s, l, g, and aq).
+
+1.3 Chapter C3: Chemicals of the natural environment
+1.3.1 C3.1 How are the atoms held together in a metal?
+1.3.1.1 Describe the nature and arrangement of chemical bonds in metals.
+1.3.1.2 Explain how the bulk properties of metals are related to the type of bonds they contain.
+1.3.2 C3.2 How are metals with different reactivities extracted?
+1.3.2.1 Deduce an order of reactivity of metals based on experimental results including reactions with water, dilute acid, and displacement reactions with other metals.
+1.3.2.2 Explain how the reactivity of metals with water or dilute acids is related to the tendency of the metal to form its positive ion to include potassium, sodium, calcium, aluminum, magnesium, zinc, iron, lead, [hydrogen], copper, silver.
+1.3.2.3 Use the names and symbols of common elements and compounds and the principle of conservation of mass to write formulae and balanced chemical equations and ionic equations.
+1.3.2.4 Explain, using the position of carbon in the reactivity series, the principles of industrial processes used to extract metals, including the extraction of zinc.
+1.3.2.5 Explain why electrolysis is used to extract some metals from their ores.
+1.3.2.6 Evaluate alternative biological methods of metal extraction (bacterial and phytoextraction).
+1.3.3 C3.3 What are electrolytes and what happens during electrolysis?
+1.3.3.1 Describe electrolysis in terms of the ions present and reactions at the electrodes.
+1.3.3.2 Predict the products of electrolysis of binary ionic compounds in the molten state.
+1.3.3.3 Recall that metals (or hydrogen) are formed at the cathode and non-metals are formed at the anode in electrolysis using inert electrodes.
+1.3.3.4 Use the names and symbols of common elements and compounds and the principle of conservation of mass to write half equations.
+1.3.3.5 Explain reduction and oxidation in terms of gain or loss of electrons, identifying which species are oxidized and which are reduced.
+1.3.3.6 Explain how electrolysis is used to extract some metals from their ores including the extraction of aluminum.
+1.3.3.7 Describe competing reactions in the electrolysis of aqueous solutions of ionic compounds in terms of the different species present, including the formation of oxygen, chlorine, and the discharge of metals or hydrogen linked to their relative reactivity.
+1.3.3.8 Describe the technique of electrolysis of an aqueous solution of a salt.
+1.3.4 C3.4 Why is crude oil important as a source of new materials?
+1.3.4.1 Recall that crude oil is a main source of hydrocarbons and is a feedstock for the petrochemical industry.
+1.3.4.2 Explain how modern life is crucially dependent upon hydrocarbons and recognize that crude oil is a finite resource.
+1.3.4.3 Describe and explain the separation of crude oil by fractional distillation.
+1.3.4.4 Describe the fractions of crude oil as largely a mixture of compounds of formula CnH2n+2 which are members of the alkane homologous series.
+1.3.4.5 Use ideas about energy transfers and the relative strength of chemical bonds and intermolecular forces to explain the different temperatures at which changes of state occur.
+1.3.4.6 Deduce the empirical formula of a compound from the relative numbers of atoms present or from a model or diagram and vice versa.
+1.3.4.7 Use arithmetic computation and ratio when determining empirical formulae.
+1.3.4.8 Describe the arrangement of chemical bonds in simple molecules.
+1.3.4.9 Explain covalent bonding in terms of the sharing of electrons.
+1.3.4.10 Construct dot and cross diagrams for simple covalent substances.
+1.3.4.11 Represent three-dimensional shapes in two dimensions and vice versa when looking at chemical structures for simple molecules.
+1.3.4.12 Describe the limitations of dot and cross diagrams, ball and stick models, and two and three-dimensional representations when used to represent simple molecules.
+1.3.4.13 Translate information between diagrammatic and numerical forms.
+1.3.4.14 Explain how the bulk properties of simple molecules are related to the covalent bonds they contain and their bond strengths in relation to intermolecular forces.
+1.3.4.15 Describe the production of materials that are more useful by cracking.
+1.3.4.16 Recognize functional groups and identify members of the same homologous series.
+1.3.4.17 Name and draw the structural formulae, using fully displayed formulae, of the first four members of the straight chain alkanes and alkenes, alcohols, and carboxylic acids.
+1.3.4.18 Predict the formulae and structures of products of reactions (combustion, addition across a double bond, and oxidation of alcohols to carboxylic acids) of the first four and other given members of these homologous series.
+1.3.4.19 Recall that it is the generality of reactions of functional groups that determine the reactions of organic compounds.
+
+1.4 Chapter C4: Material choices
+1.4.1 C4.1 How is data used to choose a material for a particular use?
+1.4.1.1 Compare quantitatively the physical properties of glass and clay ceramics, polymers, composites, and metals, including melting point, softening temperature (for polymers), electrical conductivity, strength (in tension or compression), stiffness, flexibility, brittleness, hardness, density, ease of reshaping.
+1.4.1.2 Explain how the properties of materials are related to their uses and select appropriate materials given details of the usage required.
+1.4.1.3 Describe the composition of some important alloys in relation to their properties and uses, including steel.
+1.4.2 C4.2 What are the different types of polymers?
+1.4.2.1 Recall the basic principles of addition polymerization by reference to the functional group in the monomer and the repeating units in the polymer.
+1.4.2.2 Deduce the structure of an addition polymer from a simple monomer with a double bond and vice versa.
+1.4.2.3 Explain the basic principles of condensation polymerization by reference to the functional groups of the monomers, the minimum number of functional groups within a monomer, the number of repeating units in the polymer, and simultaneous formation of a small molecule.
+1.4.2.4 Recall that DNA is a polymer made from four different monomers called nucleotides and that other important naturally-occurring polymers are based on sugars and amino acids.
+1.4.3 C4.3 How do bonding and structure affect properties of materials?
+1.4.3.1 Explain how the bulk properties of materials (including strength, melting point, electrical and thermal conductivity, brittleness, flexibility, hardness, and ease of reshaping) are related to the different types of bonds they contain, their bond strengths in relation to intermolecular forces, and the ways in which their bonds are arranged, recognizing that the atoms themselves do not have these properties.
+1.4.3.2 Recall that carbon can form four covalent bonds.
+1.4.3.3 Explain that the vast array of natural and synthetic organic compounds occurs due to the ability of carbon to form families of similar compounds, chains, and rings.
+1.4.3.4 Describe the nature and arrangement of chemical bonds in polymers with reference to their properties including strength, flexibility or stiffness, hardness, and melting point of the solid.
+1.4.3.5 Describe the nature and arrangement of chemical bonds in giant covalent structures.
+1.4.3.6 Explain the properties of diamond and graphite in terms of their structures and bonding, including melting point, hardness, and (for graphite) conductivity and lubricating action.
+1.4.3.7 Represent three-dimensional shapes in two dimensions and vice versa when looking at chemical structures e.g. allotropes of carbon.
+1.4.3.8 Describe and compare the nature and arrangement of chemical bonds in ionic compounds, simple molecules, giant covalent structures, polymers, and metals.
+1.4.4 C4.4 Why are nanoparticles so useful?
+1.4.4.1 Compare ‘nano’ dimensions to typical dimensions of atoms and molecules.
+1.4.4.2 Describe the surface area to volume relationship for different-sized particles and describe how this affects properties.
+1.4.4.3 Describe how the properties of nanoparticulate materials are related to their uses including properties which arise from their size, surface area, and arrangement of atoms in tubes or rings.
+1.4.4.4 Explain the properties of fullerenes and graphene in terms of their structures.
+1.4.4.5 Explain the possible risks associated with some nanoparticulate materials including possible effects on health due to their size and surface area, reasons that there is more data about uses of nanoparticles than about possible health effects, and the relative risks and benefits of using nanoparticles for different purposes.
+1.4.4.6 Estimate size and scale of atoms and nanoparticles including the ideas that nanotechnology is the use and control of structures that are very small (1 to 100 nanometres in size) and data expressed in nanometres is used to compare the sizes of nanoparticles, atoms, and molecules.
+1.4.4.7 Interpret, order, and calculate with numbers written in standard form when dealing with nanoparticles.
+1.4.4.8 Use ratios when considering relative sizes and surface area to volume comparisons.
+1.4.4.9 Calculate surface areas and volumes of cubes.
+1.4.5 C4.5 What happens to products at the end of their useful life?
+1.4.5.1 Describe the conditions which cause corrosion and the process of corrosion, and explain how mitigation is achieved by creating a physical barrier to oxygen and water and by sacrificial protection.
+1.4.5.2 Explain reduction and oxidation in terms of loss or gain of oxygen, identifying which species are oxidized and which are reduced.
+1.4.5.3 Explain reduction and oxidation in terms of gain or loss of electrons, identifying which species are oxidized and which are reduced.
+1.4.5.4 Describe the basic principles in carrying out a life-cycle assessment of a material or product including the use of water, energy, and the environmental impact of each stage in a life cycle, including its manufacture, transport, and disposal, incineration, landfill, and electricity generation schemes, biodegradable and non-biodegradable materials.
+1.4.5.5 Interpret data from a life-cycle assessment of a material or product.
+1.4.5.6 Describe the process where PET drinks bottles are reused and recycled for different uses, and explain why this is viable.
+1.4.5.7 Evaluate factors that affect decisions on recycling with reference to products made from crude oil and metal ores.
+
+1.5 Chapter C5: Chemical analysis
+1.5.1 C5.1 How are chemicals separated and tested for purity?
+1.5.1.1 Explain that many useful materials are formulations of mixtures.
+1.5.1.2 Explain what is meant by the purity of a substance, distinguishing between the scientific and everyday use of the term ‘pure’.
+1.5.1.3 Use melting point data to distinguish pure from impure substances.
+1.5.1.4 Recall that chromatography involves a stationary and a mobile phase and that separation depends on the distribution between the phases.
+1.5.1.5 Interpret chromatograms, including calculating Rf values.
+1.5.1.6 Suggest chromatographic methods for distinguishing pure from impure substances.
+1.5.1.7 Describe, explain, and exemplify the processes of filtration, crystallization, simple distillation, and fractional distillation.
+1.5.1.8 Suggest suitable purification techniques given information about the substances involved.
+1.5.2 C5.2 How do chemists find the composition of unknown samples?
+1.5.2.1 Describe the purpose of representative sampling in qualitative analysis.
+1.5.2.2 Interpret flame tests to identify metal ions, including the ions of lithium, sodium, potassium, calcium, and copper.
+1.5.2.3 Describe the technique of using flame tests to identify metal ions.
+1.5.2.4 Describe tests to identify aqueous cations and aqueous anions and identify species from test results including tests and expected results for metal ions in solution by precipitation reactions using dilute sodium hydroxide (calcium, copper, iron(II), iron(III), zinc), tests and expected results for carbonate ions (using dilute acid), chloride, bromide, and iodide ions (using acidified dilute silver nitrate) and sulfate ions (using acidified dilute barium chloride or acidified barium nitrate).
+1.5.2.5 Interpret an instrumental result for emission spectroscopy given appropriate data in chart or tabular form, when accompanied by a reference set in the same form.
+1.5.2.6 Describe the advantages of instrumental methods of analysis (sensitivity, accuracy, and speed).
+1.5.2.7 Interpret charts, particularly in spectroscopy.
+1.5.3 C5.3 How are the amounts of substances in reactions calculated?
+1.5.3.1 Recall and use the law of conservation of mass.
+1.5.3.2 Explain any observed changes in mass in non-enclosed systems during a chemical reaction and explain them using the particle model.
+1.5.3.3 Calculate relative formula masses of species separately and in a balanced chemical equation.
+1.5.3.4 Recall and use the definitions of the Avogadro constant (in standard form) and of the mole.
+1.5.3.5 Explain how the mass of a given substance (in grams) is related to the amount of that substance in moles and vice versa and use the relationship: number of moles = mass of substance / relative formula mass.
+1.5.3.6 Deduce the stoichiometry of an equation from the masses of reactants and products and explain the effect of a limiting quantity of a reactant.
+1.5.3.7 Use a balanced equation to calculate masses of reactants or products.
+1.5.3.8 Use arithmetic computation, ratio, percentage, and multistep calculations throughout quantitative chemistry.
+1.5.3.9 Carry out calculations with numbers written in standard form when using the Avogadro constant.
+1.5.3.10 Change the subject of a mathematical equation.
+1.5.3.11 Calculate the theoretical mass of a product from a given mass of reactant.
+1.5.3.12 Calculate the percentage yield of a reaction product from the actual yield of a reaction.
+1.5.3.13 Suggest reasons for low yields for a given procedure.
+1.5.3.14 Describe the relationship between molar amounts of gases and their volumes and vice versa, and calculate the volumes of gases involved in reactions, using the molar gas volume at room temperature and pressure (assumed to be 24 dm3).
+1.5.4 C5.4 How are the amounts of chemicals in solution measured?
+1.5.4.1 Identify the difference between qualitative and quantitative analysis.
+1.5.4.2 Explain how the mass of a solute and the volume of the solution is related to the concentration of the solution and calculate concentration using the formula: concentration (g/dm3) = mass of solute (g) / volume (dm3).
+1.5.4.3 Explain how the concentration of a solution in mol/dm3 is related to the mass of the solute and the volume of the solution and calculate the molar concentration using the formula: concentration (mol/dm3) = number of moles of solute / volume (dm3).
+1.5.4.4 Describe neutralization as acid reacting with alkali to form a salt plus water including the common laboratory acids hydrochloric acid, nitric acid, and sulfuric acid and the common alkalis, the hydroxides of sodium, potassium, and calcium.
+1.5.4.5 Recall that acids form hydrogen ions when they dissolve in water and solutions of alkalis contain hydroxide ions.
+1.5.4.6 Recognize that aqueous neutralization reactions can be generalized to hydrogen ions reacting with hydroxide ions to form water.
+1.5.4.7 Describe and explain the procedure for a titration to give precise, accurate, valid, and repeatable results.
+1.5.4.8 Evaluate the quality of data from titrations.
+1.5.4.9 Explain the relationship between the volume of a solution of known concentration of a substance and the volume or concentration of another substance that react completely together.
+
+1.6 Chapter C6: Making useful chemicals
+1.6.1 C6.1 What useful products can be made from acids?
+1.6.1.1 Recall that acids react with some metals and with carbonates and write equations predicting products from given reactants.
+1.6.1.2 Describe practical procedures to make salts to include appropriate use of filtration, evaporation, crystallization, and drying.
+1.6.1.3 Use the formulae of common ions to deduce the formula of a compound.
+1.6.1.4 Recall that relative acidity and alkalinity are measured by pH including the use of universal indicator and pH meters.
+1.6.1.5 Use and explain the terms dilute and concentrated (amount of substance) and weak and strong (degree of ionization) in relation to acids including differences in reactivity with metals and carbonates.
+1.6.1.6 Use the idea that as hydrogen ion concentration increases by a factor of ten the pH value of a solution decreases by one.
+1.6.1.7 Describe neutrality and relative acidity and alkalinity in terms of the effect of the concentration of hydrogen ions on the numerical value of pH (whole numbers only).
+1.6.2 C6.2 How do chemists control the rate of reactions?
+1.6.2.1 Describe the effect on rate of reaction of changes in temperature, concentration, pressure, and surface area.
+1.6.2.2 Explain the effects on rates of reaction of changes in temperature, concentration, and pressure in terms of frequency and energy of collision between particles.
+1.6.2.3 Explain the effects on rates of reaction of changes in the size of the pieces of a reacting solid in terms of surface area to volume ratio.
+1.6.2.4 Describe the characteristics of catalysts and their effect on rates of reaction.
+1.6.2.5 Identify catalysts in reactions.
+1.6.2.6 Explain catalytic action in terms of activation energy.
+1.6.2.7 Suggest practical methods for determining the rate of a given reaction including for reactions that produce gases: gas syringes or collection over water can be used to measure the volume of gas produced, mass change can be followed using a balance, measurement of physical factors: color change, formation of a precipitate.
+1.6.2.8 Interpret rate of reaction graphs.
+1.6.2.9 Interpret graphs of reaction conditions versus rate.
+1.6.2.10 Use arithmetic computation and ratios when measuring rates of reaction.
+1.6.2.11 Draw and interpret appropriate graphs from data to determine rate of reaction.
+1.6.2.12 Determine gradients of graphs as a measure of rate of change to determine rate.
+1.6.2.13 Use proportionality when comparing factors affecting rate of reaction.
+1.6.2.14 Describe the use of enzymes as catalysts in biological systems and some industrial processes.
+1.6.3 C6.3 What factors affect the yield of chemical reactions?
+1.6.3.1 Recall that some reactions may be reversed by altering the reaction conditions including reversible reactions are shown by the symbol ⇌, reversible reactions (in closed systems) do not reach 100% yield.
+1.6.3.2 Recall that dynamic equilibrium occurs when the rates of forward and reverse reactions are equal.
+
+1.7 Chapter C7: Ideas about Science
+1.7.1 IaS1 What needs to be considered when investigating a phenomenon scientifically?
+1.7.2 IaS2 What conclusions can we make from data?
+1.7.3 IaS3 How are scientific explanations developed?
+1.7.4 IaS4 How do science and technology impact society?
+
+1.8 Chapter C8: Practical Skills
+1.8.1 Practical Activity Group 1 (PAG1)
+1.8.2 Practical Activity Group 2 (PAG2)
+1.8.3 Practical Activity Group 3 (PAG3)
+1.8.4 Practical Activity Group 4 (PAG4)
+1.8.5 Practical Activity Group 5 (PAG5)
+1.8.6 Practical Activity Group 6 (PAG6)
+1.8.7 Practical Activity Group 7 (PAG7)
+1.8.8 Practical Activity Group 8 (PAG8)
+
+2 Higher Tier
+2.1 Chapter C1: Air and water
+2.1.1 C1.1 How has the Earth’s atmosphere changed over time, and why?
+2.1.1.1 Recall and explain the main features of the particle model in terms of the states of matter and change of state, distinguishing between physical and chemical changes and recognize that the particles themselves do not have the same properties as the bulk substances.
+2.1.1.2 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres.
+2.1.1.3 Use ideas about energy transfers and the relative strength of forces between particles to explain the different temperatures at which changes of state occur.
+2.1.1.4 Use data to predict states of substances under given conditions.
+2.1.1.5 Interpret evidence for how it is thought the atmosphere was originally formed.
+2.1.1.6 Describe how it is thought an oxygen-rich atmosphere developed over time.
+2.1.1.7 Describe the major sources of carbon monoxide and particulates (incomplete combustion), sulfur dioxide (combustion of sulfur impurities in fuels), oxides of nitrogen (oxidation of nitrogen at high temperatures and further oxidation in the air).
+2.1.1.8 Explain the problems caused by increased amounts of these substances and describe approaches to decreasing the emissions of these substances into the atmosphere including the use of catalytic converters, low sulfur petrol, and gas scrubbers to decrease emissions.
+2.1.1.9 Use chemical symbols to write the formulae of elements and simple covalent compounds.
+2.1.1.10 Use the names and symbols of common elements and compounds and the principle of conservation of mass to write formulae and balanced chemical equations.
+2.1.1.11 Use arithmetic computations and ratios when balancing equations.
+2.1.1.12 Describe tests to identify oxygen, hydrogen, and carbon dioxide.
+2.1.1.13 Explain oxidation in terms of gain of oxygen.
+2.1.2 C1.2 Why are there temperature changes in chemical reactions?
+2.1.2.1 Distinguish between endothermic and exothermic reactions on the basis of the temperature change of the surroundings.
+2.1.2.2 Draw and label a reaction profile for an exothermic and an endothermic reaction, identifying activation energy.
+2.1.2.3 Explain activation energy as the energy needed for a reaction to occur.
+2.1.2.4 Interpret charts and graphs when dealing with reaction profiles.
+2.1.2.5 Calculate energy changes in a chemical reaction by considering bond breaking and bond making energies.
+2.1.2.6 Carry out arithmetic computations when calculating energy changes.
+2.1.2.7 Describe how you would investigate a chemical reaction to determine whether it is endothermic or exothermic.
+2.1.3 C1.3 What is the evidence for climate change, why is it occurring?
+2.1.3.1 Describe the greenhouse effect in terms of the interaction of radiation with matter.
+2.1.3.2 Evaluate the evidence for additional anthropogenic causes of climate change, including the correlation between change in atmospheric carbon dioxide concentration and the consumption of fossil fuels, and describe the uncertainties in the evidence base.
+2.1.3.3 Describe the potential effects of increased levels of carbon dioxide and methane on the Earth’s climate, including where crops can be grown, extreme weather patterns, melting of polar ice, and flooding of low land.
+2.1.3.4 Describe how the effects of increased levels of carbon dioxide and methane may be mitigated, including consideration of scale, risk, and environmental implications.
+2.1.3.5 Extract and interpret information from charts, graphs, and tables related to climate change.
+2.1.3.6 Use orders of magnitude to evaluate the significance of data.
+2.1.4 C1.4 How can scientists help improve the supply of potable water?
+2.1.4.1 Describe the principal methods for increasing the availability of potable water, in terms of the separation techniques used, including the ease of treating waste, ground, and salt water including filtration and membrane filtration; aeration, use of bacteria; chlorination and distillation (for salt water).
+2.1.4.2 Describe a test to identify chlorine (using blue litmus paper).
+
+2.2 Chapter C2: Chemical patterns
+2.2.1 C2.1 How have our ideas about atoms developed over time?
+2.2.1.1 Describe how and why the atomic model has changed over time to include the main ideas of Dalton, Thomson, Rutherford, and Bohr.
+2.2.1.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus.
+2.2.1.3 Recall relative charges and approximate relative masses of protons, neutrons, and electrons.
+2.2.1.4 Estimate the size and scale of atoms relative to other particles.
+2.2.1.5 Recall the typical size (order of magnitude) of atoms and small molecules.
+2.2.1.6 Relate size and scale of atoms to objects in the physical world.
+2.2.1.7 Calculate numbers of protons, neutrons, and electrons in atoms, given atomic number and mass number of isotopes or by extracting data from the Periodic Table.
+2.2.2 C2.2 What does the Periodic Table tell us about the elements?
+2.2.2.1 Explain how the position of an element in the Periodic Table is related to the arrangement of electrons in its atoms and hence to its atomic number.
+2.2.2.2 Describe how Mendeleev organized the elements based on their properties and relative atomic masses.
+2.2.2.3 Describe how discovery of new elements and the ordering elements by atomic number supports Mendeleev’s decisions to leave gaps and reorder some elements.
+2.2.2.4 Describe metals and non-metals and explain the differences between them on the basis of their characteristic physical and chemical properties, including melting point, boiling point, state and appearance, density, formulae of compounds, relative reactivity, and electrical conductivity.
+2.2.2.5 Recall the simple properties of Group 1 elements including their reaction with moist air, water, and chlorine.
+2.2.2.6 Recall the simple properties of Group 7 elements including their states and colors at room temperature and pressure, their colors as gases, their reactions with Group 1 elements, and their displacement reactions with other metal halides.
+2.2.2.7 Predict possible reactions and probable reactivity of elements from their positions in the Periodic Table.
+2.2.2.8 Describe experiments to identify the reactivity pattern of Group 7 elements including displacement reactions.
+2.2.2.9 Describe experiments to identify the reactivity pattern of Group 1 elements.
+2.2.3 C2.3 How do metals and non-metals combine to form compounds?
+2.2.3.1 Recall the simple properties of Group 0 including their low melting and boiling points, their state at room temperature and pressure, and their lack of chemical reactivity.
+2.2.3.2 Explain how observed simple properties of Groups 1, 7, and 0 depend on the outer shell of electrons of the atoms and predict properties from given trends down the groups.
+2.2.3.3 Explain how the reactions of elements are related to the arrangement of electrons in their atoms and hence to their atomic number.
+2.2.3.4 Explain how the atomic structure of metals and non-metals relates to their position in the Periodic Table.
+2.2.3.5 Describe the nature and arrangement of chemical bonds in ionic compounds.
+2.2.3.6 Explain ionic bonding in terms of electrostatic forces and transfer of electrons.
+2.2.3.7 Calculate numbers of protons, neutrons, and electrons in atoms and ions, given atomic number and mass number or by using the Periodic Table.
+2.2.3.8 Construct dot and cross diagrams for simple ionic substances.
+2.2.3.9 Explain how the bulk properties of ionic materials are related to the type of bonds they contain.
+2.2.3.10 Use ideas about energy transfers and the relative strength of attraction between ions to explain the melting points of ionic compounds compared to substances with other types of bonding.
+2.2.3.11 Describe the limitations of particular representations and models of ions and ionically bonded compounds, including dot and cross diagrams, and 3-D representations.
+2.2.3.12 Translate information between diagrammatic and numerical forms and represent three-dimensional shapes in two dimensions and vice versa when looking at chemical structures for ionic compounds.
+2.2.4 C2.4 How are equations used to represent chemical reactions?
+2.2.4.1 Use chemical symbols to write the formulae of elements and simple covalent and ionic compounds.
+2.2.4.2 Use the formulae of common ions to deduce the formula of Group 1 and Group 7 compounds.
+2.2.4.3 Use the names and symbols of the first 20 elements, Groups 1, 7, and 0, and other common elements from a supplied Periodic Table to write formulae and balanced chemical equations where appropriate.
+2.2.4.4 Describe the physical states of products and reactants using state symbols (s, l, g, and aq).
+2.2.5 C2.5 What are the properties of the transition metals?
+2.2.5.1 Recall the general properties of transition metals (melting point, density, reactivity, formation of colored ions with different charges, and uses as catalysts) and exemplify these by reference to copper, iron, chromium, silver, and gold.
+
+2.3 Chapter C3: Chemicals of the natural environment
+2.3.1 C3.1 How are the atoms held together in a metal?
+2.3.1.1 Describe the nature and arrangement of chemical bonds in metals.
+2.3.1.2 Explain how the bulk properties of metals are related to the type of bonds they contain.
+2.3.2 C3.2 How are metals with different reactivities extracted?
+2.3.2.1 Deduce an order of reactivity of metals based on experimental results including reactions with water, dilute acid, and displacement reactions with other metals.
+2.3.2.2 Explain how the reactivity of metals with water or dilute acids is related to the tendency of the metal to form its positive ion to include potassium, sodium, calcium, aluminum, magnesium, zinc, iron, lead, [hydrogen], copper, silver.
+2.3.2.3 Use the names and symbols of common elements and compounds and the principle of conservation of mass to write formulae and balanced chemical equations and ionic equations.
+2.3.2.4 Explain, using the position of carbon in the reactivity series, the principles of industrial processes used to extract metals, including the extraction of zinc.
+2.3.2.5 Explain why electrolysis is used to extract some metals from their ores.
+2.3.2.6 Evaluate alternative biological methods of metal extraction (bacterial and phytoextraction).
+2.3.3 C3.3 What are electrolytes and what happens during electrolysis?
+2.3.3.1 Describe electrolysis in terms of the ions present and reactions at the electrodes.
+2.3.3.2 Predict the products of electrolysis of binary ionic compounds in the molten state.
+2.3.3.3 Recall that metals (or hydrogen) are formed at the cathode and non-metals are formed at the anode in electrolysis using inert electrodes.
+2.3.3.4 Use the names and symbols of common elements and compounds and the principle of conservation of mass to write half equations.
+2.3.3.5 Explain reduction and oxidation in terms of gain or loss of electrons, identifying which species are oxidized and which are reduced.
+2.3.3.6 Explain how electrolysis is used to extract some metals from their ores including the extraction of aluminum.
+2.3.3.7 Describe competing reactions in the electrolysis of aqueous solutions of ionic compounds in terms of the different species present, including the formation of oxygen, chlorine, and the discharge of metals or hydrogen linked to their relative reactivity.
+2.3.3.8 Describe the technique of electrolysis of an aqueous solution of a salt.
+2.3.4 C3.4 Why is crude oil important as a source of new materials?
+2.3.4.1 Recall that crude oil is a main source of hydrocarbons and is a feedstock for the petrochemical industry.
+2.3.4.2 Explain how modern life is crucially dependent upon hydrocarbons and recognize that crude oil is a finite resource.
+2.3.4.3 Describe and explain the separation of crude oil by fractional distillation.
+2.3.4.4 Describe the fractions of crude oil as largely a mixture of compounds of formula CnH2n+2 which are members of the alkane homologous series.
+2.3.4.5 Use ideas about energy transfers and the relative strength of chemical bonds and intermolecular forces to explain the different temperatures at which changes of state occur.
+2.3.4.6 Deduce the empirical formula of a compound from the relative numbers of atoms present or from a model or diagram and vice versa.
+2.3.4.7 Use arithmetic computation and ratio when determining empirical formulae.
+2.3.4.8 Describe the arrangement of chemical bonds in simple molecules.
+2.3.4.9 Explain covalent bonding in terms of the sharing of electrons.
+2.3.4.10 Construct dot and cross diagrams for simple covalent substances.
+2.3.4.11 Represent three-dimensional shapes in two dimensions and vice versa when looking at chemical structures for simple molecules.
+2.3.4.12 Describe the limitations of dot and cross diagrams, ball and stick models, and two and three-dimensional representations when used to represent simple molecules.
+2.3.4.13 Translate information between diagrammatic and numerical forms.
+2.3.4.14 Explain how the bulk properties of simple molecules are related to the covalent bonds they contain and their bond strengths in relation to intermolecular forces.
+2.3.4.15 Describe the production of materials that are more useful by cracking.
+2.3.4.16 Recognize functional groups and identify members of the same homologous series.
+2.3.4.17 Name and draw the structural formulae, using fully displayed formulae, of the first four members of the straight chain alkanes and alkenes, alcohols, and carboxylic acids.
+2.3.4.18 Predict the formulae and structures of products of reactions (combustion, addition across a double bond, and oxidation of alcohols to carboxylic acids) of the first four and other given members of these homologous series.
+2.3.4.19 Recall that it is the generality of reactions of functional groups that determine the reactions of organic compounds.
+
+2.4 Chapter C4: Material choices
+2.4.1 C4.1 How is data used to choose a material for a particular use?
+2.4.1.1 Compare quantitatively the physical properties of glass and clay ceramics, polymers, composites, and metals, including melting point, softening temperature (for polymers), electrical conductivity, strength (in tension or compression), stiffness, flexibility, brittleness, hardness, density, ease of reshaping.
+2.4.1.2 Explain how the properties of materials are related to their uses and select appropriate materials given details of the usage required.
+2.4.1.3 Describe the composition of some important alloys in relation to their properties and uses, including steel.
+2.4.2 C4.2 What are the different types of polymers?
+2.4.2.1 Recall the basic principles of addition polymerization by reference to the functional group in the monomer and the repeating units in the polymer.
+2.4.2.2 Deduce the structure of an addition polymer from a simple monomer with a double bond and vice versa.
+2.4.2.3 Explain the basic principles of condensation polymerization by reference to the functional groups of the monomers, the minimum number of functional groups within a monomer, the number of repeating units in the polymer, and simultaneous formation of a small molecule.
+2.4.2.4 Recall that DNA is a polymer made from four different monomers called nucleotides and that other important naturally-occurring polymers are based on sugars and amino acids.
+2.4.3 C4.3 How do bonding and structure affect properties of materials?
+2.4.3.1 Explain how the bulk properties of materials (including strength, melting point, electrical and thermal conductivity, brittleness, flexibility, hardness, and ease of reshaping) are related to the different types of bonds they contain, their bond strengths in relation to intermolecular forces, and the ways in which their bonds are arranged, recognizing that the atoms themselves do not have these properties.
+2.4.3.2 Recall that carbon can form four covalent bonds.
+2.4.3.3 Explain that the vast array of natural and synthetic organic compounds occurs due to the ability of carbon to form families of similar compounds, chains, and rings.
+2.4.3.4 Describe the nature and arrangement of chemical bonds in polymers with reference to their properties including strength, flexibility or stiffness, hardness, and melting point of the solid.
+2.4.3.5 Describe the nature and arrangement of chemical bonds in giant covalent structures.
+2.4.3.6 Explain the properties of diamond and graphite in terms of their structures and bonding, including melting point, hardness, and (for graphite) conductivity and lubricating action.
+2.4.3.7 Represent three-dimensional shapes in two dimensions and vice versa when looking at chemical structures e.g. allotropes of carbon.
+2.4.3.8 Describe and compare the nature and arrangement of chemical bonds in ionic compounds, simple molecules, giant covalent structures, polymers, and metals.
+2.4.4 C4.4 Why are nanoparticles so useful?
+2.4.4.1 Compare ‘nano’ dimensions to typical dimensions of atoms and molecules.
+2.4.4.2 Describe the surface area to volume relationship for different-sized particles and describe how this affects properties.
+2.4.4.3 Describe how the properties of nanoparticulate materials are related to their uses including properties which arise from their size, surface area, and arrangement of atoms in tubes or rings.
+2.4.4.4 Explain the properties of fullerenes and graphene in terms of their structures.
+2.4.4.5 Explain the possible risks associated with some nanoparticulate materials including possible effects on health due to their size and surface area, reasons that there is more data about uses of nanoparticles than about possible health effects, and the relative risks and benefits of using nanoparticles for different purposes.
+2.4.4.6 Estimate size and scale of atoms and nanoparticles including the ideas that nanotechnology is the use and control of structures that are very small (1 to 100 nanometres in size) and data expressed in nanometres is used to compare the sizes of nanoparticles, atoms, and molecules.
+2.4.4.7 Interpret, order, and calculate with numbers written in standard form when dealing with nanoparticles.
+2.4.4.8 Use ratios when considering relative sizes and surface area to volume comparisons.
+2.4.4.9 Calculate surface areas and volumes of cubes.
+2.4.5 C4.5 What happens to products at the end of their useful life?
+2.4.5.1 Describe the conditions which cause corrosion and the process of corrosion, and explain how mitigation is achieved by creating a physical barrier to oxygen and water and by sacrificial protection.
+2.4.5.2 Explain reduction and oxidation in terms of loss or gain of oxygen, identifying which species are oxidized and which are reduced.
+2.4.5.3 Explain reduction and oxidation in terms of gain or loss of electrons, identifying which species are oxidized and which are reduced.
+2.4.5.4 Describe the basic principles in carrying out a life-cycle assessment of a material or product including the use of water, energy, and the environmental impact of each stage in a life cycle, including its manufacture, transport, and disposal, incineration, landfill, and electricity generation schemes, biodegradable and non-biodegradable materials.
+2.4.5.5 Interpret data from a life-cycle assessment of a material or product.
+2.4.5.6 Describe the process where PET drinks bottles are reused and recycled for different uses, and explain why this is viable.
+2.4.5.7 Evaluate factors that affect decisions on recycling with reference to products made from crude oil and metal ores.
+
+2.5 Chapter C5: Chemical analysis
+2.5.1 C5.1 How are chemicals separated and tested for purity?
+2.5.1.1 Explain that many useful materials are formulations of mixtures.
+2.5.1.2 Explain what is meant by the purity of a substance, distinguishing between the scientific and everyday use of the term ‘pure’.
+2.5.1.3 Use melting point data to distinguish pure from impure substances.
+2.5.1.4 Recall that chromatography involves a stationary and a mobile phase and that separation depends on the distribution between the phases.
+2.5.1.5 Interpret chromatograms, including calculating Rf values.
+2.5.1.6 Suggest chromatographic methods for distinguishing pure from impure substances.
+2.5.1.7 Describe, explain, and exemplify the processes of filtration, crystallization, simple distillation, and fractional distillation.
+2.5.1.8 Suggest suitable purification techniques given information about the substances involved.
+2.5.2 C5.2 How do chemists find the composition of unknown samples?
+2.5.2.1 Describe the purpose of representative sampling in qualitative analysis.
+2.5.2.2 Interpret flame tests to identify metal ions, including the ions of lithium, sodium, potassium, calcium, and copper.
+2.5.2.3 Describe the technique of using flame tests to identify metal ions.
+2.5.2.4 Describe tests to identify aqueous cations and aqueous anions and identify species from test results including tests and expected results for metal ions in solution by precipitation reactions using dilute sodium hydroxide (calcium, copper, iron(II), iron(III), zinc), tests and expected results for carbonate ions (using dilute acid), chloride, bromide, and iodide ions (using acidified dilute silver nitrate) and sulfate ions (using acidified dilute barium chloride or acidified barium nitrate).
+2.5.2.5 Interpret an instrumental result for emission spectroscopy given appropriate data in chart or tabular form, when accompanied by a reference set in the same form.
+2.5.2.6 Describe the advantages of instrumental methods of analysis (sensitivity, accuracy, and speed).
+2.5.2.7 Interpret charts, particularly in spectroscopy.
+2.5.3 C5.3 How are the amounts of substances in reactions calculated?
+2.5.3.1 Recall and use the law of conservation of mass.
+2.5.3.2 Explain any observed changes in mass in non-enclosed systems during a chemical reaction and explain them using the particle model.
+2.5.3.3 Calculate relative formula masses of species separately and in a balanced chemical equation.
+2.5.3.4 Recall and use the definitions of the Avogadro constant (in standard form) and of the mole.
+2.5.3.5 Explain how the mass of a given substance (in grams) is related to the amount of that substance in moles and vice versa and use the relationship: number of moles = mass of substance / relative formula mass.
+2.5.3.6 Deduce the stoichiometry of an equation from the masses of reactants and products and explain the effect of a limiting quantity of a reactant.
+2.5.3.7 Use a balanced equation to calculate masses of reactants or products.
+2.5.3.8 Use arithmetic computation, ratio, percentage, and multistep calculations throughout quantitative chemistry.
+2.5.3.9 Carry out calculations with numbers written in standard form when using the Avogadro constant.
+2.5.3.10 Change the subject of a mathematical equation.
+2.5.3.11 Calculate the theoretical mass of a product from a given mass of reactant.
+2.5.3.12 Calculate the percentage yield of a reaction product from the actual yield of a reaction.
+2.5.3.13 Suggest reasons for low yields for a given procedure.
+2.5.3.14 Describe the relationship between molar amounts of gases and their volumes and vice versa, and calculate the volumes of gases involved in reactions, using the molar gas volume at room temperature and pressure (assumed to be 24 dm3).
+2.5.4 C5.4 How are the amounts of chemicals in solution measured?
+2.5.4.1 Identify the difference between qualitative and quantitative analysis.
+2.5.4.2 Explain how the mass of a solute and the volume of the solution is related to the concentration of the solution and calculate concentration using the formula: concentration (g/dm3) = mass of solute (g) / volume (dm3).
+2.5.4.3 Explain how the concentration of a solution in mol/dm3 is related to the mass of the solute and the volume of the solution and calculate the molar concentration using the formula: concentration (mol/dm3) = number of moles of solute / volume (dm3).
+2.5.4.4 Describe neutralization as acid reacting with alkali to form a salt plus water including the common laboratory acids hydrochloric acid, nitric acid, and sulfuric acid and the common alkalis, the hydroxides of sodium, potassium, and calcium.
+2.5.4.5 Recall that acids form hydrogen ions when they dissolve in water and solutions of alkalis contain hydroxide ions.
+2.5.4.6 Recognize that aqueous neutralization reactions can be generalized to hydrogen ions reacting with hydroxide ions to form water.
+2.5.4.7 Describe and explain the procedure for a titration to give precise, accurate, valid, and repeatable results.
+2.5.4.8 Evaluate the quality of data from titrations.
+2.5.4.9 Explain the relationship between the volume of a solution of known concentration of a substance and the volume or concentration of another substance that react completely together.
+
+2.6 Chapter C6: Making useful chemicals
+2.6.1 C6.1 What useful products can be made from acids?
+2.6.1.1 Recall that acids react with some metals and with carbonates and write equations predicting products from given reactants.
+2.6.1.2 Describe practical procedures to make salts to include appropriate use of filtration, evaporation, crystallization, and drying.
+2.6.1.3 Use the formulae of common ions to deduce the formula of a compound.
+2.6.1.4 Recall that relative acidity and alkalinity are measured by pH including the use of universal indicator and pH meters.
+2.6.1.5 Use and explain the terms dilute and concentrated (amount of substance) and weak and strong (degree of ionization) in relation to acids including differences in reactivity with metals and carbonates.
+2.6.1.6 Use the idea that as hydrogen ion concentration increases by a factor of ten the pH value of a solution decreases by one.
+2.6.1.7 Describe neutrality and relative acidity and alkalinity in terms of the effect of the concentration of hydrogen ions on the numerical value of pH (whole numbers only).
+2.6.2 C6.2 How do chemists control the rate of reactions?
+2.6.2.1 Describe the effect on rate of reaction of changes in temperature, concentration, pressure, and surface area.
+2.6.2.2 Explain the effects on rates of reaction of changes in temperature, concentration, and pressure in terms of frequency and energy of collision between particles.
+2.6.2.3 Explain the effects on rates of reaction of changes in the size of the pieces of a reacting solid in terms of surface area to volume ratio.
+2.6.2.4 Describe the characteristics of catalysts and their effect on rates of reaction.
+2.6.2.5 Identify catalysts in reactions.
+2.6.2.6 Explain catalytic action in terms of activation energy.
+2.6.2.7 Suggest practical methods for determining the rate of a given reaction including for reactions that produce gases: gas syringes or collection over water can be used to measure the volume of gas produced, mass change can be followed using a balance, measurement of physical factors: color change, formation of a precipitate.
+2.6.2.8 Interpret rate of reaction graphs.
+2.6.2.9 Interpret graphs of reaction conditions versus rate.
+2.6.2.10 Use arithmetic computation and ratios when measuring rates of reaction.
+2.6.2.11 Draw and interpret appropriate graphs from data to determine rate of reaction.
+2.6.2.12 Determine gradients of graphs as a measure of rate of change to determine rate.
+2.6.2.13 Use proportionality when comparing factors affecting rate of reaction.
+2.6.2.14 Describe the use of enzymes as catalysts in biological systems and some industrial processes.
+2.6.3 C6.3 What factors affect the yield of chemical reactions?
+2.6.3.1 Recall that some reactions may be reversed by altering the reaction conditions including reversible reactions are shown by the symbol ⇌, reversible reactions (in closed systems) do not reach 100% yield.
+2.6.3.2 Recall that dynamic equilibrium occurs when the rates of forward and reverse reactions are equal.
+
+2.7 Chapter C7: Ideas about Science
+2.7.1 IaS1 What needs to be considered when investigating a phenomenon scientifically?
+2.7.2 IaS2 What conclusions can we make from data?
+2.7.3 IaS3 How are scientific explanations developed?
+2.7.4 IaS4 How do science and technology impact society?
+
+2.8 Chapter C8: Practical Skills
+2.8.1 Practical Activity Group 1 (PAG1)
+2.8.2 Practical Activity Group 2 (PAG2)
+2.8.3 Practical Activity Group 3 (PAG3)
+2.8.4 Practical Activity Group 4 (PAG4)
+2.8.5 Practical Activity Group 5 (PAG5)
+2.8.6 Practical Activity Group 6 (PAG6)
+2.8.7 Practical Activity Group 7 (PAG7)
+2.8.8 Practical Activity Group 8 (PAG8)

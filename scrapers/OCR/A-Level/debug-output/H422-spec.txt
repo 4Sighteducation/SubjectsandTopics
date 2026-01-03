@@ -1,0 +1,3693 @@
+Qualification
+Accredited
+Specification
+A Level
+Biology B
+(Advancing Biology)
+Cambridge OCR Level 3 Advanced GCE in
+Biology B (Advancing Biology)
+H422
+For first assessment in 2016
+Version 3.0 (November 2025) ocr.org.uk/alevelbiologyb
+About our new name
+i
+As of September 2025, our name is Cambridge OCR.
+Students who sat an exam in summer 2025 will receive a Cambridge OCR branded exam certificate
+(our new brand), which will be the same for all future exam series.
+You’ll continue to see the OCR or Oxford Cambridge and RSA Examinations name while we work
+to update our material to our new name, Cambridge OCR. This will take some time, and you can still
+access all up-to-date qualification resources and materials via Teach Cambridge.
+Important: We’ll keep the OCR/Oxford Cambridge and RSA name on existing teaching resources
+while the content of these remains applicable to the specification being taught. New and refreshed
+resources will be produced using the Cambridge OCR name/logo.
+Are you using the latest version of this specification?
+The latest version of our specifications will always be on our website and may differ from printed versions.
+We will inform centres about changes to specifications.
+Tell us what you think
+Your feedback plays an important role in how we develop, market, support and resource qualifications now and
+into the future. We want you and your students to enjoy and get the best out of our qualifications and resources,
+but to do that we need your honest opinions to tell us whether we’re on the right track or not.
+You can email your thoughts to support@ocr.org.uk or visit our feedback page to learn more about how you can
+help us improve our qualifications.
+Designing and testing in collaboration with teachers and students
+Helping young people develop an ethical view of the world
+Equality, diversity, inclusion and belonging (EDIB) are part of everything we do
+Contents
+Introducing… A Level Biology B (Advancing Biology) (from September 2015) ii
+Teaching and learning resources iii
+Professional development iv
+1 Why choose an OCR A Level in Biology B (Advancing Biology)? 1
+1a. Why choose an OCR qualification? 1
+1b. Why choose an OCR A Level in Biology B (Advancing Biology)? 2
+1c. What are the key features of this specification? 3
+1d. How do I find out more information? 4
+2 The specification overview 5
+2a. Overview of A Level in Biology B (Advancing Biology) (H422) 5
+2b. Content of A Level in Biology B (Advancing Biology) (H422) 6
+2c. Content of modules 1 to 5 8
+2d. Prior knowledge, learning and progression 54
+3 Assessment of OCR A Level in Biology B (Advancing Biology) 55
+3a. Forms of assessment 55
+3b. Assessment objectives (AO) 56
+3c. Total qualification time 57
+3d. Qualification availability outside of England 57
+3e. Language 57
+3f. Assessment availability 57
+3g. Retaking the qualification 58
+3h. Assessment of extended responses 58
+3i. Synoptic assessment 58
+3j. Calculating qualification results 58
+4 Admin: what you need to know 59
+4a. Pre-assessment 59
+4b. Accessibility and special consideration 61
+4c. External assessment arrangements 62
+4d. Admin of non-exam assessment 62
+4e. Results and certificates 62
+4f. Post-results services 63
+4g. Malpractice 63
+5 Appendices 64
+5a. Overlap with other qualifications 64
+5b. Avoidance of bias 64
+5c. How Science Works (HSW) 65
+5d. Mathematical requirements 66
+5e. Advance Notice for component 02 78
+5f. Health and Safety 79
+5g. Practical endorsement 80
+5h. Revision of the requirements for practical work 87
+Summary of updates 88
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) i
+Introducing…
+A Level Biology B (Advancing Biology) (from September 2015)
+In this specification, learners study biology using a Contact the team
+context-based approach. Ideas are introduced within
+We have a dedicated team of people working on our
+relevant and interesting settings that help learners to
+A Level Biology qualifications.
+anchor their conceptual knowledge of the range of
+biological topics required at GCE level. Practical skills
+If you need specialist advice, guidance or support, get
+are embedded within the specification and learners are
+in touch as follows:
+expected to carry out practical work in preparation for
+a written examination that will specifically test these. • 01223 553998
+• scienceGCE@ocr.org.uk
+• @OCRscience
+Vertical black lines indicate a significant change to the previous printed version.
+Version 3.0 © OCR 2025
+ii Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+Teaching and learning resources
+We recognise that the introduction of a new Plenty of useful resources
+specification can bring challenges for implementation
+and teaching. Our aim is to help you at every stage and You’ll have four main types of subject-specific teaching
+we’re working hard to provide a practical package of and learning resources at your fingertips:
+support in close consultation with teachers and other
+• Delivery Guides
+experts, so we can help you to make the change.
+• Transition Guides
+Designed to support progression for all
+• Topic Exploration Packs
+Our resources are designed to provide you with a
+range of teaching activities and suggestions so you can • Lesson Elements.
+select the best approach for your particular students.
+Along with subject-specific resources, you’ll also have
+You are the experts on how your students learn and
+access to a selection of generic resources that focus
+our aim is to support you in the best way we can.
+on skills development and professional guidance for
+teachers.
+We want to…
+Skills Guides – we’ve produced a set of Skills Guides
+• Support you with a body of knowledge
+that are not specific to Biology, but each covers a topic
+that grows throughout the lifetime of the
+that could be relevant to a range of qualifications – for
+specification.
+example, communication, legislation and research.
+• Provide you with a range of suggestions so Download the guides at ocr.org.uk/skillsguides.
+you can select the best activity, approach
+or context for your particular students. Active Results – a free online results analysis service
+to help you review the performance of individual
+• Make it easier for you to explore and students or your whole school. It provides access to
+interact with our resource materials, in detailed results data, enabling more comprehensive
+particular to develop your own schemes analysis of results in order to give you a more accurate
+of work. measurement of the achievements of your centre and
+individual students. For more details refer to
+• Create an ongoing conversation so we can
+ocr.org.uk/activeresults.
+develop materials that work for you.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) iii
+Professional development
+Take advantage of our improved Professional These events are designed to help prepare you for first
+Development Programme, designed with you in mind. teaching and to support your delivery at every stage.
+Whether you want to come to face-to-face events,
+look at our new digital training or search for training Watch out for details at cpdhub.ocr.org.uk.
+materials, you can find what you’re looking for all in
+To receive the latest information about the training
+one place at the CPD Hub.
+we’ll be offering, please register for A Level email
+updates at ocr.org.uk/updates.
+An introduction to the new specifications
+We’ll be running events to help you get to grips with
+our A Level Biology B (Advancing Biology) qualification.
+Version 3.0 © OCR 2025
+iv Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+1 Why choose an OCR A Level in Biology B
+(Advancing Biology)?
+1a. Why choose an OCR qualification?
+Choose OCR and you’ve got the reassurance that We provide a range of support services designed to
+you’re working with one of the UK’s leading exam help you at every stage, from preparation through to
+boards. Our new A Level in Biology B (Advancing the delivery of our specifications. This includes: 1
+Biology) course has been developed in consultation
+with teachers, employers and higher education to • A wide range of high-quality creative resources
+provide students with a qualification that’s relevant to including:
+them and meets their needs. ○ delivery guides
+○ transition guides
+We’re part of the Cambridge Assessment Group,
+Europe’s largest assessment agency and a department ○ topic exploration packs
+of the University of Cambridge. Cambridge Assessment
+plays a leading role in developing and delivering ○ lesson elements
+assessments throughout the world, operating in over
+○ …and much more.
+150 countries.
+• Access to Subject Advisors to support you
+We work with teachers, employers, and universities
+through the transition and throughout the
+to create qualifications that support the needs of all
+lifetime of the specifications.
+students and help them prepare for their future. We
+offer A levels, GCSEs, vocational courses, and other • CPD/Training for teachers to introduce the
+academic options to schools, colleges, workplaces, and qualifications and prepare you for first
+other organisations. teaching.
+• Active Results – our free results analysis service
+Our Specifications
+to help you review the performance of individual
+We believe in developing specifications that help you students or whole schools.
+bring the subject to life and inspire your students to
+• ExamBuilder – our free online past papers
+achieve more.
+service that enables you to build your own test
+We’ve created teacher-friendly specifications based on papers from past OCR exam questions.
+extensive research and engagement with the teaching
+All A level qualifications offered by OCR are accredited
+community. They’re designed to be straightforward
+by Ofqual, the Regulator for qualifications offered in
+and accessible so that you can tailor the delivery of
+England. The accreditation number for OCR’s A Level in
+the course to suit your needs. We aim to encourage
+Biology B (Advancing Biology) is QN: 601/4720/9.
+learners to become responsible for their own learning,
+confident in discussing ideas, innovative and engaged.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 1
+1b. Why choose an OCR A Level in Biology B (Advancing Biology)?
+We appreciate that one size doesn’t fit all so we offer It has been designed as an alternative approach to
+two suites of qualifications in each science: OCR Biology A. Advancing Biology, like OCRs other
+1 ‘B’ specifications, is designed in such a way as to give
+Biology A – Provides a flexible approach to teaching. learners relevant and interesting contexts in which
+The specification is divided into topics, each covering to set their study of complex biological ideas. For
+different key concepts of biology. Teaching of practical example, learners consider cell structure and function
+skills is integrated with the theoretical topics and they in the context of the blood and the cells found in it and
+are assessed through the written papers. For A level photosynthesis in the context of food production and
+only, the Practical Endorsement will also support the management of the environment.
+development of practical skills.
+We’ve based the redevelopment of our A level sciences
+Biology B (Advancing Biology) – Learners study biology on an understanding of what works well in centres
+using a context based approach. Ideas are introduced large and small. We’ve undertaken a significant
+within relevant and interesting settings which help amount of consultation through our science forums
+learners to anchor their conceptual knowledge of (which include representatives from learned societies,
+the range of biological topics required at GCE level. HE, teaching and industry) and through focus groups
+Practical skills are embedded within the specification with teachers. Our papers and specifications have been
+and learners are expected to carry out practical work trialled in centres during development to make sure
+in preparation for a written examination that will they work well for all centres and learners.
+specifically test these skills.
+The content changes are an evolution of our legacy
+All of our specifications have been developed with offering and will be familiar to centres already
+subject and teaching experts. We have worked in close following our courses, but also clear and logically laid
+consultation with teachers and representatives from out for centres new to OCR, with assessment models
+Higher Education (HE) with the aim of including up- that are straightforward to administer. We have
+to-date relevant content within a framework that is worked closely with teachers and HE representatives
+interesting to teach and administer within all centres to provide high quality support materials to guide you
+(large and small). through the new qualifications.
+Biology B (Advancing Biology) is a new course for OCR.
+Aims and learning outcomes
+OCR’s A Level in Biology B (Advancing Biology) • develop their interest in and enthusiasm for
+specification aims to encourage learners to: the subject, including developing an interest in
+further study and careers associated with the
+• develop essential knowledge and understanding subject
+of different areas of the subject and how they
+relate to each other • understand how society makes decisions about
+scientific issues and how the sciences contribute
+• develop and demonstrate a deep appreciation to the success of the economy and society (as
+of the skills, knowledge and understanding of exemplified in ‘How Science Works’ (HSW)).
+scientific methods
+• develop competence and confidence in a variety
+of practical, mathematical and problem solving
+skills
+Version 3.0 © OCR 2025
+2 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+1c. What are the key features of this specification?
+Our Biology B (Advancing Biology) specification has • identifies Practical Endorsement requirements
+been designed so learners study biology using an and how these can be integrated into teaching
+engaging, context-based approach. The specification: of content (see Section 5) 1
+• is laid out clearly in a series of teaching modules • exemplifies the mathematical requirements of
+with Additional guidance added where required the course (see Section 5)
+to clarify assessment requirements. Ideas are
+• highlights opportunities for the introduction of
+introduced within relevant and contemporary
+key mathematical requirements (see Section 5
+settings that help students to anchor their
+and the additional guidance column for each
+conceptual knowledge of the range of biological
+module) into your teaching
+topics required at A level
+• identifies, within the Additional guidance how
+• is co-teachable with the AS level
+the skills, knowledge and understanding of How
+• embeds practical requirements within the Science Works (HSW) can be incorporated within
+teaching modules teaching.
+Teacher support
+The extensive support offered alongside this • mock examinations service – a free service
+specification includes: offering a practice question paper and mark
+scheme (downloadable from a secure location).
+• delivery guides – providing information on
+assessed content, the associated conceptual Along with:
+development and contextual approaches to
+• Subject Advisors within the OCR science team to
+delivery
+help with course queries
+• transition guides – identifying the levels of
+• teacher training
+demand and progression for different key stages
+for a particular topic and going on to provide • Science Spotlight (our termly newsletter)
+links to high quality resources and ‘checkpoint
+tasks’ to assist teachers in identifying learners • OCR Science community
+‘ready for progression’
+• a consultancy service (to advise on Practical
+• lesson elements – written by experts, providing Endorsement requirements)
+all the materials necessary to deliver creative
+• Practical Skills Handbook
+classroom activities
+• Maths Skills Handbook.
+• Active Results (see Section 1a)
+• ExamBuilder (see Section 1a)
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 3
+1d. How do I find out more information?
+Whether new to our specifications, or continuing You can contact the Science Subject Advisors:
+on from our legacy offerings, you can find more ScienceGCE@ocr.org.uk, 01223 553998.
+1 information on our webpages at: www.ocr.org.uk
+Visit our Online Support Centre at support.ocr.org.uk
+Visit our subject pages to find out more about the
+assessment package and resources available to support Check what CPD events are available:
+your teaching. The science team also release a termly www.cpdhub.ocr.org.uk
+newsletter Science Spotlight.
+Follow us on Twitter: @ocr_science
+Version 3.0 © OCR 2025
+4 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+2 The specification overview
+2a. Overview of A Level in Biology B (Advancing Biology) (H422)
+Learners must complete all components (01, 02, 03 and 04) to be awarded the OCR A Level in Biology B.
+Content Overview Assessment Overview
+Fundamentals of
+41%
+biology (01) 2
+110 marks of total
+Content is split into five teaching
+2 hour 15 minutes
+A level
+modules:
+written paper
+• Module 1 – Development of
+practical skills in biology Scientific literacy in
+37%
+biology (02)
+• Module 2 – Cells, chemicals for
+100 marks of total
+life, transport and gas exchange
+2 hour 15 minutes
+A level
+• Module 3 – Cell division,
+written paper
+development and disease
+control
+Practical skills in
+22%
+• Module 4 – Energy, reproduction biology (03)
+and populations
+60 marks of total
+• Module 5 – Genetics, control 1 hour 30 minutes
+A level
+and homeostasis written paper
+Components 01, 02 and 03
+can assess content from all Practical Reported
+modules (1–5). Endorsement in
+separately
+biology (04)
+(see Section 5g)
+(non exam
+assessment)
+All components include synoptic assessment.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 5
+2b. Content of A Level in Biology B (Advancing Biology) (H422)
+The A Level in Biology B (Advancing Biology) 2.1.3 Proteins and enzymes
+specification content is divided into five teaching 2.1.4 Nucleic acids
+modules and each module is further divided into key 2.2.1 The heart and monitoring heart function
+topics. Each module is introduced with a summary of 2.2.2 Transport systems in mammals
+the biology it contains. The assessable content is then 2.2.3 Gas exchange in mammals and plants
+divided into two columns: Learning outcomes and 2.2.4 Transport systems in plants
+2 Additional guidance.
+Module 3 – Cell division, development and disease
+The Learning outcomes may all be assessed in the control
+examination (with the exception of some of the skills
+in module 1.2 which will be assessed directly through 3.1.1 The developing cell: cell division and cell
+the Practical Endorsement). The Additional guidance differentiation
+column is included to provide further advice on 3.1.2 The developing individual: meiosis, growth and
+delivery and the expected skills required from learners. development
+3.1.3 The development of species: evolution and
+References to HSW (Section 5) are included in the classification
+guidance to highlight opportunities to encourage a 3.2.1 Pathogenic microorganisms
+wider understanding of science. 3.2.2 The immune system
+3.2.3 Controlling communicable diseases
+The mathematical requirements in Section 5 are also
+3.3.1 The cellular basis of cancer and treatment
+referenced by the prefix M to link the mathematical
+3.3.2 Respiratory diseases and treatment
+skills required for A Level Biology to the areas of
+science content where those mathematical skills could Module 4 – Energy, reproduction and populations
+be linked to learning.
+4.1.1 Cellular respiration
+The specification has been designed to be co-teachable 4.1.2 Metabolism and exercise
+with the standalone AS Level in Biology B (Advancing 4.2.1 Fertility and assisted reproduction
+Biology) qualification. The first three modules comprise 4.2.2 The effects of ageing on the reproductive system
+the AS Level in Biology B (Advancing Biology) course 4.3.1 Photosynthesis, food production and
+and learners studying the A level continue with the management of the environment
+content of modules 4 and 5, and with the Practical 4.3.2 The impact of population increase
+Endorsement skills from module 1.2 in year 13. 4.4.1 Plant reproduction
+A summary of the content for the A level course is as Module 5 – Genetics, control and homeostasis
+follows:
+5.1.1 Patterns of inheritance
+Module 1 – Development of practical skills in biology 5.1.2 Population genetics and epigenetics
+5.1.3 Gene technologies
+1.1 Practical skills assessed in a written examination
+5.2.1 The nervous system and the identification and
+consequences of damage
+1.2 Practical skills are assessed in the practical
+5.2.2 Monitoring visual function
+endorsement
+5.2.3 The effect of ageing on the nervous system
+5.3.1 The principles and importance of homeostasis
+Module 2 – Cells, chemicals for life, transport and gas
+5.3.2 The hormonal control of blood glucose and the
+exchange
+management of diabetes
+2.1.1 Cells and microscopy 5.3.3 Kidney functions and malfunctions
+2.1.2 Water and its importance in plants and animals
+Version 3.0 © OCR 2025
+6 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Assessment of practical skills and the Practical Endorsement
+Module 1 of the specification content relates to the as well as enhancing learners’ understanding of
+practical skills learners are expected to gain throughout biological theory and practical skills.
+the course, which are assessed throughout the
+written examinations and also through the Practical Opportunities for carrying out activities that could
+Endorsement (see Section 5). count towards the Practical Endorsement are indicated
+throughout the specification. These are shown in
+Practical activities are embedded within the learning the Additional guidance column as PAG1 to PAG11
+2
+outcomes of the course to encourage practical (Practical Activity Group, see Section 5). There are
+activities in the classroom which contribute to the a wide variety of opportunities to assess PAG12
+achievement of the Practical Endorsement (Section 5) throughout the qualification.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 7
+2c. Content of modules 1 to 5
+Module 1: Development of practical skills in biology
+The development of practical skills is a fundamental understanding of the subject but also serve as a
+and integral aspect of the study of any scientific suitable preparation for the demands of studying
+subject. These skills not only enhance learners’ biology at a higher level.
+2
+1.1 Practical skills assessed in a written examination
+Practical skills are embedded throughout all sections of Learners will be required to develop a range of
+this specification. practical skills throughout their course in preparation
+for the written examinations.
+1.1.1 Planning
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) experimental design, including to solve problems Including selection of suitable apparatus, equipment
+set in a practical context and techniques for the proposed experiment.
+Learners should be able to apply scientific
+knowledge based on the content of the specification
+to the practical context.
+HSW3
+(b) identification of variables that must be M0.1
+controlled, where appropriate
+(c) evaluation that an experimental method is HSW6
+appropriate to meet the expected outcomes.
+1.1.2 Implementing
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) how to use a wide range of practical apparatus As outlined in the content of the specification and
+and techniques correctly the skills required for the Practical Endorsement.
+HSW4
+(b) appropriate units for measurements M0.1
+(c) presenting observations and data in an HSW8
+appropriate format.
+Version 3.0 © OCR 2025
+8 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+1.1.3 Analysis
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) processing, analysing and interpreting qualitative Including reaching valid conclusions, where
+and quantitative experimental results appropriate.
+HSW5
+2
+(b) use of appropriate mathematical skills for Refer to Section 5 for a list of mathematical skills
+analysis of quantitative data that learners should have acquired competence in as
+part of their course.
+HSW3
+(c) appropriate use of significant figures M1.1
+(d) plotting and interpreting suitable graphs from
+experimental results, including:
+(i) selection and labelling of axes with M3.2
+appropriate scales, quantities and units
+(ii) measurement of gradients and intercepts. M3.3, M3.4, M3.5
+1.1.4 Evaluation
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) how to evaluate results and draw conclusions HSW6
+(b) the identification of anomalies in experimental
+measurements
+(c) the limitations in experimental procedures
+(d) precision and accuracy of measurements and M1.11
+data, including margins of error, percentage
+errors and uncertainties in apparatus
+(e) the refining of experimental design by suggestion HSW3
+of improvements to the procedures and
+apparatus.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 9
+1.2 Practical skills assessed in the practical endorsement
+A range of practical experiences are a vital part of a practice their practical skills, preparing learners for the
+learners learning as part of this course. written examinations.
+Learners should develop and practise a wide range of Please refer to Section 5 (the Practical Endorsement) of
+practical skills throughout the course as preparation for this specification to see the list of practical experiences
+the Practical Endorsement, as well as for the written all learners should cover during their course. Further
+examinations. advice and guidance on the Practical Endorsement can
+2
+be found in the Practical Skills Handbook.
+The experiments and skills required for the Practical
+Endorsement will allow learners to develop and
+1.2.1 Practical skills
+Learning outcomes Additional guidance
+Practical work carried out throughout the course
+will enable learners to develop the following
+skills:
+Independent thinking
+(a) apply investigative approaches and methods to Including how to solve problems in a practical
+practical work context.
+HSW3
+Use and application of scientific methods and
+practices
+(b) safely and correctly use a range of practical See Section 5.
+equipment and materials
+Including identification of potential hazards.
+Learners should understand how to minimise the
+risks involved.
+HSW4
+(c) follow written instructions
+(d) make and record observations/measurements HSW8
+(e) keep appropriate records of experimental See Section 5.
+activities
+(f) present information and data in a scientific way HSW8
+(g) use appropriate software and tools to process M3.1
+data, carry out research and report findings HSW3
+Version 3.0 © OCR 2025
+10 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Research and referencing
+(h) use online and offline research skills including
+websites, textbooks and other printed scientific
+sources of information
+(i) correctly cite sources of information The Practical Skills Handbook provides guidance on
+appropriate methods for citing information.
+Instruments and equipment
+2
+(j) use a wide range of experimental and practical See Section 5.
+instruments, equipment and techniques HSW4
+appropriate to the knowledge and understanding
+included in the specification.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 11
+1.2.2 Use of apparatus and techniques
+Learning outcomes Additional guidance
+Through use of the apparatus and techniques
+listed below, and a minimum of 12 assessed
+practicals (see Section 5g), learners should be
+able to demonstrate all of the practical skills
+listed within 1.2.1 and CPAC (Section 5g, Table 2)
+as exemplified through:
+2
+(a) use of appropriate apparatus to record a range HSW4
+of quantitative measurements (to include mass,
+time, volume, temperature, length and pH)
+(b) use of appropriate instrumentation to HSW4
+record quantitative measurements, such as a
+colorimeter or potometer
+(c) use of laboratory glassware apparatus for a HSW4
+variety of experimental techniques to include
+serial dilutions
+(d) use of a light microscope at high power and low HSW4
+power, including use of a graticule
+(e) production of scientific drawings from HSW8
+observations with annotations
+(f) use of qualitative reagents to identify biological HSW4
+molecules
+(g) separation of biological compounds using thin HSW4
+layer/paper chromatography or electrophoresis
+(h) safe and ethical use of organisms to measure: HSW4, HSW10
+(i) plant or animal responses
+(ii) physiological functions
+(i) use of microbiological aseptic techniques, HSW4
+including the use of agar plates and broth
+(j) safe use of instruments for dissection of an HSW4
+animal or plant organ
+(k) use of sampling techniques in fieldwork HSW4
+(l) use of ICT such as computer modelling, or a HSW3, HSW4
+data logger to collect data, or use of software to
+process data
+Version 3.0 © OCR 2025
+12 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Module 2: Cells, chemicals for life, transport and gas exchange
+2.1 Cells and chemicals for life
+This section provides learners with a knowledge and learners investigate how first-aid and medical
+understanding of how the use of microscopy allowed intervention can assist the body’s natural mechanisms
+the development of the cell theory, which is a unifying for preventing blood loss.
+concept in biology. It also focuses on the importance of
+microscopy in investigating the structure of eukaryotic In addition to enzymes, this section covers the 2
+and prokaryotic cells. Learners will also gain an insight structures and functions of other biologically
+into some of the advanced microscopic techniques important molecules in animals and plants, including
+used by cell biologists today. DNA, natural polymers, and the different mechanisms
+for transporting molecules into and out of living cells.
+The structure of animal cells is studied in the context Learners gain an appreciation of the importance of
+of the histology of mammalian blood as revealed by water in living organisms and as the essential medium
+light microscopy and is contrasted with the structure of in which transport and exchange takes place.
+typical plant cells.
+Learners are expected to apply knowledge,
+An understanding of the importance of enzyme- understanding and other skills gained in this section to
+catalysed reactions is illustrated by the biochemical new situations and/or to solve related problems.
+processes that prevent excessive blood loss, and
+2.1.1 Cells and microscopy
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) the importance of microscopy in the To include the use of the light microscope,
+development of the cell theory as a unifying transmission and scanning electron microscopes and
+concept in biology and the investigation of recent developments such as the confocal scanning
+cell structure microscope.
+(ii) the preparation of blood smears (films) for To include how blood smears are made and the
+use in light microscopy interpretation of stained material. Practical work to
+be carried out in accordance with current CLEAPSS®
+guidelines. Also see Section 5.
+PAG1
+HSW4, HSW6
+(b) the procedure for differential staining To include the use of Leishman’s stain to identify
+leucocytes in blood smears.
+HSW4, HSW6
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 13
+(c) (i) t he structure of animal cells as illustrated To include red blood cells (erythrocytes), platelets,
+by a range of blood cells and components neutrophils, lymphocytes and monocytes as
+as revealed by the light microscope specialised cells with particular functions related to
+their structures.
+(ii) the observation, drawing and annotation PAG1
+of cells in a blood smear as observed using
+the light microscope
+2 (d) the linear dimension of cells and the use and M1.8
+manipulation of the magnification formula PAG1
+image size
+magnification = (of object)
+actual size
+(e) practical investigations using a haemocytometer To determine the mean numbers of erythrocytes
+to determine cell counts and convert to a concentration (to include details of
+dilutions and calculations).
+M0.1, M0.2, M0.3, M1.5, M1.10, M4.1
+PAG1
+HSW3, HSW4, HSW5, HSW6
+(f) the principles and use of flow cytometry in blood To include the use of fluorescent labels. Details of
+analysis the use of different lasers is not required.
+HSW3, HSW8
+(g) the ultrastructure of a typical eukaryotic animal To include the structure and function of the
+cell, such as a leucocyte, as revealed by an following: plasma membrane, Golgi apparatus,
+electron microscope rough endoplasmic reticulum (RER) and smooth
+endoplasmic reticulum (SER), ribosomes, lysosomes,
+vesicles, mitochondria, cytoskeleton, centrioles.
+nucleus and nucleolus.
+HSW8
+M1.8
+(h) (i) the ultrastructure of a typical eukaryotic To include the structure and function of chloroplasts,
+plant cell such as a palisade mesophyll cell large vacuole, tonoplast and the cell wall in plant
+and a prokaryotic cell, as revealed by an cells, circular DNA, plasmids, mesosome, pili and
+electron microscope flagella in prokaryotic cells.
+HSW8
+(ii) the similarities and differences between
+the structure of eukaryotic plant and
+animal cells, and between eukaryotic and
+prokaryotic cells
+Version 3.0 © OCR 2025
+14 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(i) practical investigations using a graticule and To include the calibration of an eyepiece graticule
+stage micrometer to calculate and measure linear using a stage micrometer, calculating the area of
+dimensions of cells the field of view and measuring the sizes of organs,
+tissues, cells and organelles and calculating their
+magnification.
+M0.1, M0.2, M1.1, M1.2, M1.8, M2.2, M4.1
+PAG1
+HSW3, HSW4, HSW8
+2
+(j) how the plasma membrane is composed To include reference to fatty acids, glycerol,
+of modified lipids and how the structure of phosphate groups, ester bonds and hydrophobic/
+triglycerides and phospholipids is related to their hydrophilic properties.
+functions
+(k) the fluid mosaic model of the typical plasma To include the location and function of
+membrane phospholipids, intrinsic proteins, extrinsic proteins,
+cholesterol, glycolipids and glycoproteins.
+(l) the movement of molecules across plasma To include diffusion and facilitated diffusion as
+membranes passive methods of transport across membranes
+AND
+active transport, endocytosis and exocytosis as
+processes requiring ATP as an immediate source of
+energy.
+HSW8
+(m) practical investigation(s) into factors affecting To include the use of model cells and tissues such as
+diffusion rates in cells beetroot.
+M0.1, M0.2, M1.1, M1.2, M3.1, M3.2, M3.3, M3.5,
+M3.6
+PAG8
+HSW1, HSW2, HSW3, HSW4, HSW5, HSW6
+(n) the roles of membranes within and at the surface
+of cells
+(o) the interrelationship between the organelles To include the role of the cytoskeleton and motor
+involved in the production and secretion of proteins, the nucleus, ribosomes, RER, Golgi and
+proteins. vesicles (no details of transcription and translation
+are required at this stage).
+HSW8
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 15
+2.1.2 Water and its importance in plants and animals
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of
+(a) the properties of water To include the polar nature of the water molecule,
+hydrogen bonding and the role of water as a solvent.
+(b) (i) the importance of water as a major To include the transpiration stream, cell sap and the
+2
+constituent of cytoplasm, intracellular and maintenance of turgor in plants, and plasma, serum,
+extracellular fluids, and as the essential tissue fluid, lymph and urine in mammals.
+transport medium in plants and animals M0.1, M0.2, M0.3, M1.1, M1.2, M1.6, M3.1
+HSW5, HSW6
+(ii) analysis of secondary data on the To include solutes (sugars, proteins), electrolytes
+composition of mammalian body fluids and (hydrogen ions, H+, potassium ions, K+, sodium ions,
+plant extracts to illustrate the role of water Na+, chloride ions, Cl−, hydrogencarbonate ions,
+as a solvent HCO −, magnesium ions, Mg2+).
+3
+(c) (i) how sugar and protein molecules can be To include the use of reagent test strips and
+detected and measured in body fluids and biosensors to detect and measure the concentration
+plant extracts of sugars and proteins.
+M0.1, M0.2, M0.3, M1.1, M1.2, M1.3, M1.6, M3.1,
+M3.2
+PAG5, PAG9
+HSW3, HSW4, HSW5, HSW6
+(ii) the methodology and interpretation of the
+results of the Biuret test, Benedict’s test and
+colorimetry
+(d) the importance of hydrolysis and condensation of To include the concept of monomers and polymers
+biological molecules in cell metabolism in a range of biological molecules.
+(e) the structure of the ring form of α-glucose as an To include the concept of organic molecules as
+example of a simple monosaccharide, and lactose generally containing carbon atoms and a number of
+as a disaccharide additional elements.
+(f) (i) the formation of polysaccharides by To include glycogen and starch (amylose and
+condensation amylopectin)
+AND
+the formation of 1,4- and 1,6-glycosidic bonds
+and reference to the significance of branching on
+solubility.
+(ii) a test for the identification and To include the qualitative test for starch using iodine
+measurement of starch and colorimetry.
+PAG5, PAG9
+Version 3.0 © OCR 2025
+16 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(g) osmosis, in terms of the movement of water To include the effect of solutes and electrolytes on
+down a water potential gradient the water potential of plant cells and animal cells
+and on solutions within organisms e.g. body fluids,
+plant sap.
+M0.3, M1.1, M1.2, M1.3, M3.1, M3.2, M3.4
+(h) practical investigation(s) into factors affecting M0.3, M1.1, M1.2, M1.3, M3.1, M3.2, M3.4
+osmosis in plant and animal cells. PAG8
+HSW3, HSW4, HSW5, HSW6
+2
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 17
+2.1.3 Proteins and enzymes
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) the basic structure of an amino acid and the
+formation of peptide bonds
+(ii) the use of chromatography in the separation To include calculation of retention (Rf) values.
+2
+and identification of amino acids
+distancemoved bythesolute
+Rf =
+distancemoved bythesolvent
+Practical work to be carried out in accordance with
+current CLEAPSS® guidelines with regards to the
+risks associated with the use of ninhydrin.
+Also see Section 5f.
+PAG6
+(b) the molecular structure of globular proteins To include primary, secondary and tertiary structure
+as illustrated by the structure of enzymes and in relation to enzymes, and quaternary structure and
+haemoglobin prosthetic groups in relation to haemoglobin.
+(c) how the structure of globular proteins enable To include the role of tertiary structure in the
+enzyme molecules to catalyse specific metabolic specificity of the active site, the formation of
+reactions enzyme substrate complexes and the lowering of the
+activation energy.
+(d) (i) the factors affecting the rate of M0.1, M1.2, M1.3, M1.11, M3.1, M3.2, M3.3, M3.5,
+enzyme-catalysed reactions M3.6
+PAG4
+HSW3, HSW4, HSW5, HSW6, HSW8
+(ii) practical investigations into the factors
+affecting the rate of enzyme-catalysed
+reactions
+(e) (i) the role of proteins in blood clotting, and To include the role of platelets, damaged tissue,
+blood clotting as an enzyme-controlled thromboplastin, calcium ions, prothrombin,
+process thrombin, fibrinogen and fibrin.
+(ii) the first-aid procedure to assist the blood HSW10, HSW11, HSW12
+clotting process and prevent excessive blood
+loss
+(f) the use of enzymes and inhibitors in medical To include diagnostic enzymes (e.g. blood amylase
+diagnosis and treatment and LDH) and enzymes and inhibitors used in
+medical treatment (e.g. streptokinase, aspirin and
+warfarin).
+Version 3.0 © OCR 2025
+18 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Learning outcomes Additional guidance
+(g) the donation of blood, and the types and uses of To include blood groups and a consideration of the
+stored blood products. other issues affecting blood donation
+AND
+the collection and use of whole blood,
+leuco-depleted blood, packed red cells, platelets,
+clotting factors and plasma.
+HSW9, HSW10, HSW11, HSW12
+2
+2.1.4 Nucleic acids
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the structure of a nucleotide as the monomer To include the differences between RNA and DNA
+from which nucleic acids are made nucleotides, the identification of the purines and
+pyrimidines, the type of pentose sugar and the
+formation of phosphodiester bonds (the sugar
+phosphate ‘backbone’).
+(b) the structure of adenosine di-phosphate
+(ADP) and adenosine tri-phosphate (ATP) as
+phosphorylated nucleotides
+(c) (i) the structure of the DNA molecule, M0.3
+including a review of the evidence for
+complementary base pairing (Chargaff’s
+rules)
+(ii) practical investigation into the purification HSW3, HSW7
+of DNA by precipitation
+(d) semi-conservative DNA replication To include the roles of the enzymes helicase and
+DNA polymerase, the importance of replication in
+conserving genetic information with accuracy and
+the occurrence of random, spontaneous mutations.
+(e) the nature of the genetic code To include reference to the triplet, non-overlapping,
+degenerate and universal nature of the code and
+how a gene determines the structure of proteins
+including enzymes by ordering the sequence of
+amino acids in a polypeptide.
+(f) the structure of RNA (ribonucleic acid) and how it
+differs from that of DNA
+(g) transcription and translation of genes resulting in To include the role of RNA polymerase, messenger
+the synthesis of polypeptides. (m)RNA, transfer (t)RNA and ribosomal (r)RNA
+(details of post transcriptional modification are not
+required).
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 19
+2.2 Transport and gas exchange systems
+This section provides learners with a knowledge and In this section, learners gain an understanding of the
+understanding of the structure and functions of the transport systems of terrestrial plants. In crop plants,
+transport and gas exchange systems in mammals and the sites where organic molecules are stored – the
+multicellular terrestrial plants. harvestable parts of the plant – are often different to
+the sites where these molecules are produced – the
+Learners will gain an appreciation of the need for leaves. This means that these molecules must be
+mass transport systems and the significance of the moved around the plant as required. The movement
+2
+surface area to volume ratio in multicellular organisms. of water through a plant is, however, mainly due to
+The mass flow of materials within mammals and the physical mechanisms and processes. Learners will
+exchange of molecules are studied in the context of investigate the transport systems of multicellular
+the need to maintain a high metabolic rate. plants and the different tissues involved. They will gain
+an appreciation of how the distribution of these tissues
+Technological advances enable the activity of the
+varies between different types of plants and that this
+heart, circulation and gas exchange systems to be
+distribution is diagnostic of the type of crop plant
+monitored. Learners will be able to apply their
+(broad-leaved or cereal) and the structural part of the
+knowledge of physiology to the interpretation of
+plant (stem or root).
+data on vital measurements of heart function, blood
+pressure and pulmonary ventilation. The importance Learners are expected to apply knowledge,
+of timely emergency treatment in both cardiac and understanding and other skills gained in this section to
+respiratory arrest is also studied. new situations and/or to solve related problems.
+2.2.1 The heart and monitoring heart function
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the need for a mass transport system in SurfaceArea
+Ratio=
+mammals
+Volume
+To include references to a high basal metabolic rate,
+being multicellular and the significance of surface
+area to volume ratio.
+M0.3, M4.1
+(b) (i) the internal and external structure of the PAG2
+mammalian heart HSW3, HSW4, HSW5, HSW6, HSW8
+(ii) the examination, dissection and drawing of
+the mammalian heart
+(c) the cardiac cycle To include the role of the valves and the pressure
+changes occurring in the heart and associated vessels.
+(d) how heart action is initiated and co-ordinated To include the roles of the sino-atrial node (SAN),
+atrio-ventricular node (AVN), purkyne tissue and
+the myogenic nature of cardiac muscle (no detail on
+hormonal and nervous control is required at AS level
+but at A level this is covered in 5.3.1(b)).
+Version 3.0 © OCR 2025
+20 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(e) practical investigation(s) into the factors affecting To include the effect of exercise.
+heart rate M0.1, M0.4, M1.2, M1.3, M1.11, M2.3, M2.4, M3.1,
+M3.2
+PAG10, PAG11
+HSW3, HSW4, HSW5, HSW6
+(f) the effect of heart rate on cardiac output To include calculations based on heart rate and
+stroke volume.
+cardiacoutput=heartrate#strokevolume 2
+M0.1, M0.4, M1.2, M1.3, M1.11, M2.3, M2.4, M3.1,
+M3.2
+PAG10, PAG11
+HSW3, HSW4, HSW5, HSW6
+(g) the measurement and interpretation of pulse M0.1, M0.4, M1.2, M1.3, M1.10, M1.11, M3.1, M3.2
+rate, to include the generation of primary data PAG10, PAG11
+and the use of secondary data HSW3, HSW4, HSW5, HSW6
+(h) the use and interpretation of an To include tachycardia, bradycardia, S-T elevation
+electrocardiogram (ECG) and fibrillation.
+M3.1
+HSW3, HSW5
+(i) the emergency treatment given to a person To include the first-aid treatment for a heart attack
+suffering a suspected heart attack or cardiac and cardiac arrest
+arrest. AND
+the use of a defibrillator following cardiac arrest.
+2.2.2 Transport systems in mammals
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the importance of the closed double circulatory To include reference to blood pressure in systemic
+system and pulmonary systems.
+(b) (i) the structure and functions of arteries, HSW4, HSW5, HSW6
+arterioles, capillaries, venules and veins
+(ii) transverse sections of arteries, veins Prepared slides or photomicrographs may be
+and capillaries as observed using a light examined to show the structural differences
+microscope between these vessels.
+(c) the formation and importance of tissue fluid To include references to HP (hydrostatic pressure)
+and OP (oncotic pressure or colloidal osmotic
+pressure).
+(d) (i) the use of a sphygmomanometer to To include reference to both manual and electronic
+measure systolic and diastolic blood measuring.
+pressure
+(ii) comparisons of blood pressure readings HSW3, HSW4, HSW5, HSW6
+(e) the interpretation of systolic and diastolic blood To include hypertension and hypotension and their
+pressure measurements possible consequences.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 21
+2.2.3 Gas exchange in mammals and plants
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) the relationships between cells, tissues and To include the appearance and the histology of
+organs in the mammalian gas exchange squamous epithelial cells in the alveoli, ciliated
+system epithelial tissue, smooth muscle, cartilage and
+2 elastic fibres.
+(ii) observations of tissues of the gas exchange PAG1
+system using microscopy HSW4, HSW5, HSW6
+(b) the process of gas exchange in the alveoli To include the roles of ventilation, epithelial tissue,
+smooth muscle, cartilage, elastic fibres, blood
+capillaries and surfactant in the establishment and
+maintenance of concentration gradients.
+(c) the parameters affecting pulmonary ventilation To include consideration of tidal volume, breathing
+rate, vital capacity, residual volume, PEFR and FEV
+1
+(no detail of the use of a spirometer is required).
+PAG10
+M0.1, M2.2, M2.3, M2.4
+(d) how expired air resuscitation can be carried To include reference to both manual and electronic
+out on adults, children and babies in cases of methods.
+respiratory arrest HSW3, HSW4, HSW5, HSW6
+(e) the process of gas exchange in terrestrial plants. To include the diffusion of gases between the
+atmosphere and intercellular spaces of leaves via
+stomata and through the lenticels of stems.
+(f) (i) the structure of stomata, their opening and To include reference to changes in turgor and water
+closing potential of guard cells and the need for ATP.
+(ii) the microscopic appearance of stomata To include the appearance of stomata in the leaves
+of different terrestrial plants.
+PAG1
+2.2.4 Transport systems in plants
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the need for transport systems in multicellular To include references to size, variations in metabolic
+plants rate and the significance of surface area to volume
+ratio.
+(b) the structure, function and location of vascular To include xylem vessels, sieve tube elements and
+tissue in roots, stems and leaves companion cells in the roots, stems and leaves
+of monocotyledonous crop plants (cereals) and
+dicotyledonous crop plants (broad-leaved crops
+e.g. carrots, potatoes).
+Version 3.0 © OCR 2025
+22 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(c) (i) the observation, drawing and annotation of M0.1, M0.2, M1.1, M1.2, M1.8, M2.1
+stained sections of plant tissues using a light PAG1
+microscope HSW2, HSW3, HSW4, HSW5, HSW8
+(ii) the longitudinal and transverse dissection PAG2
+and examination of plant organs to HSW2, HSW3, HSW4, HSW5, HSW8
+demonstrate the position and structure of
+vascular tissue
+(d) the entry and transport of water in terrestrial To include details of the pathways taken by water 2
+plants AND
+the mechanisms of movement, including adhesion,
+cohesion and the transpiration stream, in terms of
+water potential.
+HSW2, HSW8
+(e) (i) the process of transpiration and the To include an appreciation that transpiration
+environmental factors that affect the occurs due to physical processes linked to gaseous
+transpiration rate exchange in leaves.
+(ii) practical investigations to estimate M0.1, M0.2, M1.1, M1.2, M1.3, M1.6, M1.11, M3.1,
+transpiration rates M3.2, M3.3, M3.5, M3.6, M4.1
+PAG5
+HSW2, HSW3, HSW4, HSW5, HSW6, HSW8
+(f) the mechanism of translocation. To include translocation in the phloem as an
+energy-requiring process transporting assimilates,
+especially sucrose, between sources (e.g. leaves)
+and harvestable sinks (e.g. roots, stems and seeds)
+AND
+details of active loading at the source and removal
+at the sink
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 23
+Module 3: Cell division, development and disease control
+3.1 Cell division and development
+This section provides learners with knowledge Meiosis is also studied as a process that promotes
+and understanding of biological development on genetic biodiversity and variation. The potential for
+three levels: cell division by mitosis (where genetic change and the development of new species by the
+information is copied and passed to daughter cells) action of natural selection on genetic variation is
+cell differentiation, cell division by meiosis and fetal seen as an essential part of the process of evolution.
+2 development, and the evolutionary development of Learners will also gain an understanding that the
+species. variety of life, both past and present, is extensive,
+but the biochemical basis of life is similar for all living
+Scientific research has highlighted the role of apoptosis things as well as of the link between natural selection
+during the life cycle of a multicellular organism. The and the adaptations of living organisms to their
+importance of both mitosis and apoptosis is considered environments.
+in relation to fetal growth and development, as well
+as an appreciation that these processes are affected Learners are expected to apply knowledge,
+by environmental factors. Knowledge of recent understanding and other skills gained in this section to
+advancements in stem cell technology and its potential new situations and/or to solve related problems.
+applications further enhance learners’ understanding
+of these fundamental cellular processes.
+3.1.1 The developing cell: cell division and cell differentiation
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the cell cycle To include the processes taking place during
+interphase (G ,S and G ), mitosis and cytokinesis,
+1 2
+leading to genetically identical daughter cells.
+(b) (i) the changes that take place in the nuclei To include the changes in the nuclear envelope
+and cells of animals and plants during and the behaviour of the centrioles, spindle fibres,
+mitosis centromere, chromatids and chromosomes, and the
+formation of the cell plate in plant cells.
+(ii) the microscopic appearance of cells To include the examination and drawing of stained
+undergoing mitosis sections or squashes of plant tissue and the
+identification of the stages observed.
+PAG1
+HSW4, HSW5, HSW6
+(c) the principal stages and features of apoptosis To include cell shrinkage, nuclear condensation
+(pyknosis), blebs, nuclear fragmentation
+(karyorrhexis), the roles of phosphatidylserine and
+macrophages.
+(d) the importance of apoptosis and mitosis in To include examples of the roles of apoptosis in cell
+growth and repair deletion and mitosis in cell addition.
+Version 3.0 © OCR 2025
+24 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(e) (i) the differentiation of stem cells into To include an appreciation of the differences
+specialised cells between totipotent, pluripotent and multipotent
+stem cells, and the differentiation of bone marrow
+stem cells into specialised blood cells.
+(ii) current applications and uses of stem cells. To include the use of bone marrow stem cells.
+3.1.2 The developing individual: meiosis, growth and development
+Learning outcomes Additional guidance 2
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the significance of meiosis in sexual reproduction To include the importance of meiosis in maintaining
+and the production of haploid gametes in plants the chromosome number at fertilisation and
+and animals between generations.
+(b) the stages of meiosis in plant and animal cells To include the use of diagrams to describe
+interphase, prophase 1, metaphase 1, anaphase 1,
+telophase 1, prophase 2, metaphase 2, anaphase 2,
+telophase 2 (no details of the names of the stages
+within prophase 1 are required).
+PAG1
+(c) how meiosis produces daughter cells that are To include the importance of chiasma formation,
+genetically different crossing over, independent assortment of
+chromosomes (metaphase 1) and chromatids
+(metaphase 2), in producing genetic variation.
+(d) the programme of antenatal care in the United To include pre-conceptual care and post-conceptual
+Kingdom care.
+(e) the dietary changes recommended during To include the roles of protein, calcium, iron,
+pregnancy vitamin A, vitamin C and folic acid
+AND
+the reasons for changes in DRV recommendations of
+these nutrients and energy during pregnancy.
+(f) the effects of alcohol consumption and smoking
+on fetal growth and development
+(g) (i) the use of ultrasound for measuring fetal To include the measurement of biparietal diameter
+growth of the cranium, crown-rump length of the back.
+M0.1, M0.3, M1.3, M1.4, M1.6
+(ii) the analysis of secondary data from fetal
+growth charts
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 25
+(h) the advantages and disadvantages of techniques To include fetal ultrasonography, amniocentesis and
+for assessing fetal development and detecting chorionic villus sampling.
+disorders
+(i) the production and use of karyotypes. To include the use of karyotypes in fetal sex
+identification and the diagnosis of chromosomal
+mutations. To include Down’s syndrome, Klinefelter’s
+syndrome and Turner’s syndrome (no details of
+non-disjunction are required at AS level).
+2
+3.1.3 The development of species: evolution and classification
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the concepts of biological classification and To include the taxonomic ranks in the hierarchy
+species of classification (domain, kingdom, phylum, class,
+order, family, genus, species)
+AND
+an outline of the biological and phylogenetic species
+concepts.
+(b) the types of evidence used in biological Evidence for hominid classification to include
+classification and consideration of how theories observable features (e.g. fossils) and molecular
+change as new evidence is found evidence (e.g. DNA).
+HSW7, HSW8
+(c) the use of DNA barcoding in biological To include the use of mitochondrial genes
+classification, examples of the genes used and (e.g. cytochrome c oxidase 1) in animals,
+consideration of the reasons for the choice of and chloroplast genes in plants (no details of
+these genes electrophoresis are required).
+(d) the interpretation of phylogenetic trees To include consideration of hominids, both extinct
+and genetic data to show relatedness and and extant, and hylobatids, including examples in
+classification in plants and animals which there is conflicting evidence.
+HSW5, HSW6, HSW8
+(e) (i) behavioural, physiological and anatomical To include the following adaptations in Homo
+adaptations to the environment sapiens: tool use and cultural adaptations for social
+bonding (behavioural), lactose tolerance and skin
+pigmentation (physiological), bipedalism and brain
+size (anatomical)
+AND
+adaptations of plants to their environment including
+adaptations to extremes of temperature, light and
+(ii) practical investigation into adaptations of
+water.
+plants to environmental factors
+Version 3.0 © OCR 2025
+26 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(f) the evolution of language as an example of a To include discussion of why some scientific
+scientific question with many competing theories questions (e.g. “how did language evolve?”) are
+difficult to answer because of a lack of evidence, and
+consideration of competing theories (to include the
+“mother tongues” and “gossip” hypotheses).
+HSW1, HSW2, HSW3, HSW7, HSW8
+(g) adaptation and selection as components of To include the ideas of genetic variation, selection
+evolution pressures and natural selection in relation to
+2
+evolution.
+(h) the definition and measurement of biodiversity To include calculating Simpson’s Index of Diversity
+(D). The formula will be provided where needed in
+assessments and does not need to be recalled
+J JnN2N
+D=1-K KRK
+K
+O
+O
+O
+O
+N
+L L PP
+To include a consideration that biodiversity can exist
+at the genetic, species and ecosystem levels.
+M0.2, M0.3, M0.4, M1.1, M1.5, M2.3
+(i) the calculations of genetic diversity within To include the percentage of gene variants (alleles)
+populations. in a genome.
+proportion of polymorphic number of polymorphic gene loci
+=
+gene loci total number of loci
+M0.1, M0.2, M1.1, M2.2, M2.4
+3.2 Pathogens, immunity and disease control
+In this section, learners study the nature of pathogens research in this dynamic and changing area of science,
+and their means of transmission. An understanding of and evaluate the associated risks and benefits to the
+the primary defences and immunological responses individual and to society.
+of the body to infection, and the management and
+treatment of communicable diseases will also be Learners are expected to apply knowledge,
+considered, including the challenges of controlling understanding and other skills gained in this section to
+the spread of drug-resistant strains. Learners will also new situations and/or to solve related problems.
+gain an appreciation of the need for epidemiological
+3.2.1 Pathogenic microorganisms
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) how pathogens (including bacteria, viruses and To include an outline of the general mechanisms of
+fungi) cause communicable disease pathogenicity by bacteria (toxin production), viruses
+(taking over cell metabolism) and fungi (enzyme
+secretion).
+(b) the causes, means of transmission, symptoms To include droplet infection, details of primary and
+and the principal treatment of tuberculosis (TB) secondary TB and also opportunistic infections
+and HIV/AIDS (HIV-AIDS).
+HSW10
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 27
+(c) the structure of the Human Immunodeficiency To include the use of diagrams showing the location
+Virus (HIV) of enzymes and the nature of the genetic material.
+(d) (i) the use of Gram stain, cell and colony
+morphology to identify bacteria
+(ii) the culturing of bacteria and the HSW3, HSW4, HSW5, HSW6, HSW8
+identification of Gram-positive and
+Gram-negative bacteria using the Gram
+2 staining method on pure cultures
+(e) how the incidence and prevalence of a To include the principles of endemic communicable
+communicable disease can change over time diseases (e.g. chickenpox in the UK), epidemics
+(e.g. SARS in China, 2002) and pandemics (e.g. H1N1
+influenza in 2009).
+(f) calculations of incidence rates, prevalence rates M0.1, M0.3, M0.4
+and mortality rates and their importance in
+epidemiology
+(g) the analysis, interpretation and use of To include the evaluation of graphical data to assess
+epidemiological data the impact of disease e.g. for HIV and TB infection.
+M1.3, M1.7, M3.1, M3.5, M3.6
+HSW12
+(h) the importance of reporting notifiable diseases To include examples of notifiable diseases.
+and the role of Public Health England, formerly HSW12
+known as the Health Protection Agency (HPA)
+(i) the social, ethical, economic and biological HSW10
+factors involved in the attempts to control and
+prevent diseases in the context of HIV/AIDS
+and TB.
+Version 3.0 © OCR 2025
+28 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+3.2.2 The immune system
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) primary defences and non-specific defences Primary defences to include mucus and cilia in the
+against pathogens respiratory tract, lysozyme in tears and stomach acid
+AND
+non-specific immune responses to include 2
+phagocytosis and inflammation.
+(b) the mode of action of phagocytes To include the roles of cytokines, opsonins,
+phagosomes and lysosomes.
+(c) the different roles and modes of action of B and To include clonal selection and clonal expansion,
+T lymphocytes in the specific immune response plasma cells, T helper cells, T killer cells and T
+regulatory cells.
+(d) the secondary immune response and the role of To include T memory cells and B memory cells.
+memory cells in long term immunity
+(e) the structure and general function(s) of To include descriptions of antibody structure from
+antibodies diagrams
+AND
+an outline of the action of opsonins and agglutinins.
+(f) how individuals can be tested for TB and HIV To include antibody tests and antigen tests for both
+infection diseases
+AND
+the Mantoux test for TB.
+(g) the differences between active and passive To include examples of each type of immunity.
+immunity, and between natural and artificial
+immunity
+(h) how allergies can result from hypersensitivity of To include an outline of the sequence of events in a
+the immune system. typical allergic response to allergens such as pollen
+(hay fever).
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 29
+3.2.3 Controlling communicable diseases
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the principles of vaccination To include the different forms of vaccines (live
+vaccine, dead microorganisms, pathogen fragments)
+and the importance of booster vaccinations.
+2
+(b) the role of vaccination programmes in the To include reference to the establishment of herd
+prevention of epidemics immunity.
+(c) the biological problems in the development of To include issues with vaccine development,
+vaccines and the use of vaccination programmes mutation rate and antigen variability (e.g. in HIV and
+the influenza virus(es)) and live vaccines
+AND
+vaccine use – storage of vaccine, distribution of
+vaccine and the nutritional status of the target
+population e.g. if protein deficient.
+(d) the ethical issues related to the development and To include the use of a vaccine in girls against
+use of vaccines Human Papilloma Virus (HPV) to prevent cervical
+cancer.
+HSW10
+(e) the use of antibiotics in the treatment of To include an outline of the modes of action of
+communicable disease antibiotics e.g. inhibition of bacterial protein, DNA
+and cell wall synthesis
+AND
+the cellular differences between prokaryotic and
+eukaryotic cells that allow antibiotics to act on
+bacterial but not human cells.
+(f) how the misuse of antibiotics can lead to the To include reference to TB and MRSA.
+evolution of resistant strains of bacteria
+(g) practical investigation on the effect of antibiotics To include bacteriostatic and bacteriocidal effects
+on Gram-positive and Gram-negative bacteria. of antibiotics and the effects of disinfectant use and
+other hygiene practices.
+M0.1, M0.2, M0.4, M1.1, M4.1
+PAG1, PAG7
+HSW3, HSW4, HSW5, HSW6, HSW8
+Version 3.0 © OCR 2025
+30 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+3.3 Non-communicable diseases
+In this section, an understanding of non-communicable non-infectious diseases, and learners will consider
+diseases will be illustrated by reference to cancer, the importance of clinical trials when developing
+smoking-induced lung diseases and asthma. new medicinal treatments. The role of government
+health agencies in providing national guidelines for
+Learners will use their knowledge of cell division from treatments is also explored.
+Module 3.1 to further their understanding of the
+cellular and genetic basis of cancer. The computerised In this section, learners will consider the biological
+2
+technological devices and tests that enable early and ethical implications of medical and scientific
+detection and diagnosis of cancer will also be advancements and evaluate the associated risks and
+considered, as well as the use of genetic screening to benefits to society.
+assess potential risks.
+Learners are expected to apply knowledge,
+Consideration will be given to the analysis of understanding and other skills gained in this section to
+epidemiological data when evaluating the causes of new situations and/or to solve related problems.
+3.3.1 The cellular basis of cancer and treatment
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the factors that may increase the risk of Factors to include heredity, ageing, types of
+developing non-communicable diseases radiation, carcinogen, viruses and air pollution and
+diseases to include cancers and asthma
+AND
+to include an evaluation of epidemiological and
+other evidence to identify correlations.
+(b) the cellular basis of cancer To include an outline of cell cycle control and the
+changes in control which lead to the formation of
+tumours and metastases.
+(c) how mutations to proto-oncogenes can lead to To include Ras and Myc proto-oncogenes.
+cancer
+(d) how mutations to tumour suppressor genes can To include the p53 gene.
+lead to cancer
+(e) the evaluation of epidemiological evidence To include smoking and lung cancer, diet and bowel
+linking potential risk factors with particular forms cancer, BRCA1 gene mutations and breast cancer.
+of cancer M1.3, M1.5, M1.7, M3.1
+HSW5, HSW6
+(f) the methods used to detect cancers To include references to MRI, X-rays, mammography,
+CT scans, ultrasound, PET scans, biopsies and blood
+tests.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 31
+(g) the ethical and economic considerations when To include evaluation of screening for particular
+screening and conducting genetic tests for cancer cancers e.g. the potential harm, accuracy and cost of
+the screening procedure
+AND
+discussion of the ethics of genetic tests e.g. for BRCA
+and HNPCC genes.
+HSW9, HSW10
+(h) the methods used to treat patients with cancer. To include surgery, chemotherapy, radiotherapy,
+2
+immunotherapy (monoclonal antibodies),
+complementary therapies and hormone-related
+treatment.
+3.3.2 Respiratory diseases and treatment
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the short-term and long-term effects of To include tobacco smoke, asbestos and fungal
+pollutants on the respiratory system spores.
+(b) the causes and symptoms of chronic bronchitis
+and emphysema (COPD), asthma and lung cancer
+(c) comparisons of acute and chronic diseases
+(d) the treatment of asthma To include the use of beta agonists and steroids.
+(e) the importance of plants as potential sources of To include the use of theophylline (from Theobroma
+medicinal drugs cacao) in the treatment of COPD and asthma,
+topotecan (from Camptotheca acuminata) in the
+treatment of lung cancer, aspirin (from Salix spp.)
+and quinine (from Cinchona spp.).
+(f) the design and use of clinical trials to assess the To include the role of each phase of a clinical trial
+value of treatments and the importance of the recruitment and size of
+sample, randomisation, placebos and double-blind
+trials.
+M1.5
+HSW9, HSW10, HSW11
+(g) the role of NICE (The National Institute for Health To include its role in providing guidelines on clinical
+and Care Excellence) in providing guidelines for practice, health technologies and public health
+treatments. AND
+the importance of economic considerations in the
+production of guidelines.
+HSW9, HSW10, HSW11
+Version 3.0 © OCR 2025
+32 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Module 4: Energy, reproduction and populations
+4.1 Energy, metabolism and exercise
+This section builds on the knowledge and The process of cellular respiration requires an efficient
+understanding gained in Module 2 by considering supply of oxygen and the importance of respiratory
+the role of ATP as an immediate source of energy for pigments as oxygen carriers is illustrated by reference
+biological processes and the biochemical pathways of to haemoglobin and myoglobin. Learners also gain an
+cellular respiration that generate ATP. insight into the unique properties of fetal haemoglobin
+in meeting the metabolic needs of the fetus during 2
+The concept of aerobic fitness is explored in the development.
+context of the effects of exercise on the respiratory
+and cardiovascular systems. The effects of exercise Learners are expected to apply knowledge,
+on skeletal muscles and the mechanism of muscle understanding and other skills gained in this section to
+contraction at cellular level are also considered. new situations and/or to solve related problems.
+4.1.1 Cellular respiration
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) an outline of glycolysis as an enzyme controlled To include the location of the enzymes (only
+metabolic pathway dehydrogenase to be named), the conversion of
+glucose to triose phosphate, the production of
+pyruvate, reduced NAD and the production of ATP
+by substrate level phosphorylation.
+HSW8
+(b) an outline of the link reaction To include the location of the enzymes,
+decarboxylation and dehydrogenation of pyruvate
+(3C) to acetyl (2C) coenzyme A, and the reduction
+of NAD.
+HSW8
+(c) an outline of the Krebs cycle To include the location of the enzymes, the
+formation of citrate from the acetyl group of
+acetyl CoA and oxaloacetate, the conversion of
+citrate to oxaloacetate using decarboxylation and
+dehydrogenation reactions and the production
+of reduced NAD and reduced FAD and also ATP
+by substrate level phosphorylation (names of
+intermediate compounds are not required).
+HSW8
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 33
+(d) an outline of the process of oxidative To include the location of the process and the roles
+phosphorylation of electron carriers, oxygen and the mitochondrial
+cristae (inner membrane)
+AND
+to include the electron transport chain, proton
+gradients and ATP synthase.
+HSW8
+(e) an outline of the process of anaerobic respiration To include an appreciation that anaerobic respiration
+2
+in muscle cells and in yeast produces a much lower yield of ATP than aerobic
+respiration.
+(f) the relative energy values of different respiratory To include the calculation and interpretation of
+substrates respiratory quotients for carbohydrates, proteins
+and lipids.
+CO produced
+RQ= 2
+O consumed
+2
+M0.3, M2.3, M2.4
+HSW8, HSW12
+(g) (i) the use of respirometers and other methods M0.1, M0.2, M0.3, M1.1, M1.2, M1.3, M1.6, M1.9,
+to investigate the rate of respiration M3.2, M3.3, M3.5, M3.6
+PAG4
+HSW2, HSW3, HSW4, HSW5, HSW6
+(ii) practical investigations into the effect of
+temperature, substrate concentration,
+anaerobic conditions and different
+respiratory substrates on the rate of
+respiration.
+4.1.2 Metabolism and exercise
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the consequences of exercise on the body To include both immediate and long term effects on
+the respiratory and cardiovascular systems and on
+skeletal muscle.
+HSW12
+(b) the factors affecting aerobic fitness To include age, gender and participation in exercise.
+(c) practical investigations into the effect of factors M0.1, M0.2, M0.3, M1.1, M1.2, M1.3, M1.6, M1.9,
+on (resting) heart rate, breathing rate or recovery M3.2, M3.5
+times and the analysis of primary and secondary PAG10
+data HSW3, HSW4, HSW5, HSW6, HSW12
+Version 3.0 © OCR 2025
+34 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(d) (i) how training can significantly improve To include frequency, intensity, type and time
+aerobic fitness (duration) (F.I.T.T. factors) of exercise programme.
+M0.1, M0.2, M0.3, M1.1, M1.2, M1.3, M1.6, M1.9,
+M3.5
+PAG10
+HSW4, HSW5, HSW6, HSW12
+(ii) practical investigations into the effects
+of F.I.T.T. factors on (resting) heart rate,
+2
+breathing rate or recovery times
+(e) supplementary methods of enhancing athletic To include the description and evaluation of
+performance carbohydrate loading diets, the use of recombinant
+erythropoietin (RhEPO), blood doping and use of
+steroids.
+(f) the significance of VO max as a measure of To include considerations of VO max as the
+2 2
+aerobic fitness maximum rate at which oxygen can be taken in,
+transported and utilised.
+M0.1, M0.2, M1.9, M3.1
+HSW1, HSW3, HSW4, HSW5, HSW6, HSW9, HSW10,
+HSW12
+(g) the role of haemoglobin in oxygen transport
+(h) the oxygen dissociation curves for different To include the differences in affinity for oxygen
+respiratory pigments between adult haemoglobin, fetal haemoglobin and
+myoglobin and the reasons for the differences.
+M0.1, M0.2, M1.1, M1.2, M1.6, M3.1, M3.4, M3.6
+HSW8
+(i) the factors which affect oxygen dissociation from To include temperature, pH, carbon dioxide and the
+respiratory pigments role of carbonic anhydrase.
+(j) the build-up of an oxygen deficit and oxygen To include the differences between the oxygen
+debt/EPOC (Excess Post-exercise Oxygen deficit and oxygen debt.
+Consumption)
+(k) (i) the histology and ultrastructure of skeletal To include the interpretation of diagrams,
+muscle photomicrographs and electron micrographs.
+M0.1, M0.2, M1.1, M1.2, M1.8
+(ii) observations of muscle tissue made using To include muscle dissections e.g. chicken leg with
+a light microscope and muscle tissue thigh.
+responses to ATP and other solutions M0.1, M0.2, M1.1, M1.2, M1.8
+PAG1
+HSW4, HSW5, HSW6
+(l) the sliding filament theory of muscle contraction. To include the role of actin, myosin, troponin,
+tropomyosin, the importance of the power stroke
+and the role of ATP and calcium ions.
+HSW8
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 35
+4.2 Mammalian reproduction
+This section builds on the knowledge and and ICSI, and the issues that couples need to consider
+understanding of cell division gained in Module 3 by in order to make informed and ethical choices.
+introducing learners to the process of gametogenesis
+and its role in human reproduction. The hormonal This section also considers the biological and ethical
+regulation of both gametogenesis and the female issues associated with infertility and the effects of
+reproductive cycle will be considered, as well as ageing on the reproductive systems of men and
+the part played by hormones in enabling natural women.
+2
+conception to occur.
+Learners are expected to apply knowledge,
+Learners will also gain an understanding of the understanding and other skills gained in this section to
+treatments and procedures that have been developed new situations and/or to solve related problems.
+by endocrinologists to assist conception, including IVF
+4.2.1 Fertility and assisted reproduction
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the parts of the male and female urinogenital To include the interpretation of diagrams,
+systems photomicrographs and electron micrographs.
+M0.1, M0.2, M1.1, M1.2, M1.8
+(b) (i) the histology of the ovaries and testes To include the interpretation of diagrams,
+photomicrographs and electron micrographs.
+M0.1, M0.2, M1.1, M1.2, M1.8
+(ii) observations of the histology of the ovaries PAG1
+and testes made using the light microscope HSW4, HSW5, HSW6
+(c) the process of gametogenesis To include oogenesis and spermatogenesis and
+relate these to mitosis and meiosis.
+(d) the structure of the secondary oocyte and sperm To include the interpretation of diagrams,
+related to their functions photomicrographs and electron micrographs.
+M0.1, M0.2, M1.1, M1.2, M1.8
+(e) the role of hormones in gametogenesis To include spermatogenesis: FSH, GnRH, LH,
+testosterone and inhibin
+AND
+oogenesis: FSH, LH, progesterone, oestrogen and
+GnRH.
+(f) the role of hormones in the regulation of the To include LH, FSH, progesterone and oestrogen.
+menstrual cycle
+Version 3.0 © OCR 2025
+36 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(g) the process of fertilisation To include the importance in restoring chromosome
+number and introducing genetic variation.
+(h) the use of monoclonal antibodies in pregnancy No details of the production of monoclonal
+testing antibodies are required.
+(i) a consideration and evaluation of the biological To include the production of abnormal sperm, low
+and ethical issues surrounding infertility sperm count and blocked vas deferens, ovulatory
+disorders, oviduct blockage, endometriosis and
+anti-sperm antibodies. 2
+M0.1, M0.2, M1.1, M1.2, M1.8
+(j) assisted reproduction Treatments and techniques to include intrauterine
+insemination, IVF, intra-cytoplasmic sperm injection
+(ICSI), donor sperm insemination, surgical sperm
+retrieval, ovulation induction, frozen embryo
+replacements and gamete intra-fallopian transfer.
+HSW9, HSW10, HSW12
+4.2.2 The effects of ageing on the reproductive system
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the effects of ageing on the female reproductive To include the changes in physiology associated with
+system ageing (changes in hormone levels, fertility and the
+menopause).
+(b) managing the effects of ageing on the female To include the use of HRT with its advantages and
+reproductive system disadvantages and the use of alternative treatments.
+HSW5, HSW6, HSW9, HSW10, HSW11
+(c) the effects of ageing on the male urinogenital To include changes in hormone levels and fertility,
+system. changes in erectile function and the consequences
+of benign prostate hyperplasia.
+HSW5, HSW6, HSW9, HSW10, HSW11
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 37
+4.3 Photosynthesis, food production and populations
+This section begins with a consideration of the In this section learners consider ecosystems on
+biochemical pathways of photosynthesis and its different scales from the small (the rumen of many
+importance as a synthetic process upon which most herbivores) to the very large (farms required for global
+food chains and food webs are based. food production). The need to conserve environmental
+resources in a sustainable fashion is considered, whilst
+Learners gain an appreciation of the role of appreciating the potential conflict arising from the
+microorganisms in recycling materials within the needs of an increasing human population. Learners
+2
+environment and maintaining balance within also consider the impacts of human activities on the
+ecosystems. Microorganisms are also used as natural natural environment and biodiversity.
+biosensors by environmental biologists to detect and
+measure the presence of chemical compounds in the Learners are expected to apply knowledge,
+environment. understanding and other skills gained in this section to
+new situations and/or to solve related problems.
+4.3.1 Photosynthesis, food production and management of the environment
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) the ultrastructure of the chloroplast To include the location of the components for
+the light-dependent reaction in the thylakoid
+membranes (light harvesting complexes,
+photosystems, electron transport chain and ATP
+synthase) and the location of the enzymes for the
+light-independent reactions in the stroma.
+(ii) practical investigation into the separation of No details of the structure of carotenoids or
+pigments by paper chromatography accessory pigments are required.
+M1.1, M1.2, M1.3, M1.6, M1.7, M1.8
+PAG6
+HSW4, HSW5, HSW6
+(b) the process of the light-dependent stage of To include the transfer of light energy to chemical
+photosynthesis energy in the form of ATP and reduced NADP (details
+of cyclic and non-cyclic photophosphorylation are
+not required).
+HSW8
+Version 3.0 © OCR 2025
+38 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(c) the production of complex organic molecules in To include the use of the products of the light-
+the light-independent stage of photosynthesis dependent reactions (ATP and reduced NADP)
+(Calvin cycle) within the light-independent reactions
+AND
+the role of carbon dioxide, ribulose bisphosphate
+carboxylase (RuBisCO), ribulose bisphosphate
+(RuBP), glycerate-3-phosphate (GP) and triose
+phosphate (TP) but no other biochemical detail is
+required. 2
+M1.1, M1.2, M1.3, M1.6, M1.7, M3.5
+HSW4, HSW5, HSW6, HSW8
+(d) (i) practical investigations into the factors To include light wavelength, light intensity, light
+affecting photosynthesis duration, temperature and pH.
+M1.1, M1.2, M1.3, M1.6, M1.7, M1.9, M3.5
+PAG4
+HSW3, HSW4, HSW5, HSW6
+(ii) practical investigations of the Hill Reaction M1.1, M1.2, M1.3, M1.6, M1.7, M3.5
+(light dependent reaction) using DCPIP PAG4
+HSW3, HSW4, HSW5, HSW6
+(e) the metabolism of TP and GP to produce To include reference to the need for appropriate
+carbohydrates, lipids and amino acids mineral ions (e.g. nitrates and sulfates in relation to
+amino acids).
+(f) the dependency of respiration in plants and
+animals upon the products of photosynthesis
+(g) (i) the biological significance of the
+compensation point for crop production
+(ii) an interpretation of data and graphs M3.4, M3.5
+relating to the biological significance of the
+compensation point for crop production
+(iii) practical investigation of different leaf M1.1, M1.2, M1.3, M1.6, M1.7, M3.4, M3.5
+samples to compare compensation points HSW3, HSW4, HSW5, HSW6
+with hydrogencarbonate indicator solution
+(h) (i) the importance of microorganisms in To include the recycling of nitrogen by bacteria, with
+maintaining ecosystems, with reference to reference to the roles of Azotobacter, Nitrosomonas,
+the nitrogen cycle Nitrobacter and Rhizobium
+AND
+the use of luminescent microorganisms as
+biosensors in environmental monitoring.
+(ii) culturing of Rhizobium spp. in vitro M1.8
+PAG1
+HSW4, HSW5, HSW6
+(iii) investigating the appearance of root M1.8
+nodules in legumes HSW4, HSW5, HSW6
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 39
+(i) the transfer of biomass through a food chain in M0.4, M1.2, M1.6
+food production
+(j) a consideration of the efficiency of biomass To include fish farming and maize grown as animal
+transfers in the food chain with reference to their feed for beef cattle reared for human consumption.
+comparative ability to provide resources in a
+biomasstransferred
+sustainable fashion efficiency= #100
+biomassintake
+2 (k) the role of ruminants in the human food chain To include an outline of the structure and
+composition of the ruminant digestive system as an
+ecosystem and the role of microorganisms within
+this ecosystem in the digestion of cellulose, the
+production of fatty acids and as a source of protein.
+(l) (i) farms as ecosystems To include a consideration of farms as ecosystems
+where biotic and abiotic factors impact on
+(ii) the potential for conflict between
+productivity
+agriculture and conservation
+AND
+the features of intensive and extensive farming to
+include the advantages and disadvantages with
+reference to hedgerow removal, use of chemicals,
+disposal of farm waste and consideration of
+government schemes such as the countryside
+stewardship scheme.
+(m) (i) how land management can result in To include descriptions of succession as a dynamic
+deflected succession process moving from colonisation to climax
+communities
+AND
+how examples of land management practices
+(to include forestry and agriculture) can deflect
+succession.
+HSW9, HSW10, HSW11
+(ii) practical investigations of differences M1.5, M1.6, M1.7, M2.3
+in biodiversity using techniques such as PAG3
+random and systematic sampling. HSW4, HSW5, HSW6
+Version 3.0 © OCR 2025
+40 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+4.3.2 The impact of population increase
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the factors that alter the birth rate and death To include food production, advances in medical
+rate in human populations technology and disease control
+AND
+interpretation of demographic charts/graphs. 2
+M1.3, M1.5, M3.2, M3.5
+(b) the impact of the rise in human population on To include the impacts of humans on the global
+ecosystems and biodiversity ecosystem (e.g. impact on abiotic factors such as
+climate, soils and water quality and on biotic factors
+such as changes in biodiversity).
+M1.5
+(c) the ecological, economic and scientific To include aesthetic, medical and agricultural
+importance of species biodiversity considerations and the use of statistical methods to
+assess species biodiversity (e.g. Simpson’s Diversity
+Index).
+M1.5, M2.3
+(d) the global food security agenda concerning To include but not limited to food system challenges
+sustainable food production and food (food safety, food fraud, food crime and consumer
+consumption trust)
+AND
+the role of the United Nations Food and Agriculture
+Organisation (to include to FCC (Food Chain Crisis
+Management Framework) and EMPRES (Emergency
+Prevention System)).
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 41
+4.4 From flowers to food
+Global food security and sustainability are challenges with favourable environmental conditions so that
+facing the modern world. viable seeds can be produced. Learners will consider
+the different environmental cues which trigger
+Flowering is a critical stage in the life cycle of a plant flowering, the adaptations of flowers to different types
+and so in the production of staple foods, such as rice of pollination and the formation of seeds and their
+and wheat. The timing of flowering must coincide germination.
+2
+4.4.1 Plant reproduction
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the control of flowering in plants To include the role of vernalisation and phytochrome
+in the timing of flowering.
+HSW2, HSW5, HSW8
+(b) adaptations of flowers for pollination To include adaptations of both wind-pollinated
+flowers (e.g. cereals) and insect-pollinated flowers
+(e.g. legumes).
+PAG2
+HSW4, HSW5, HSW8
+(c) fertilisation and seed formation To include the growth of the pollen tube, the
+formation of the embryo and the formation of the
+endosperm (in outline only).
+PAG2
+HSW4, HSW5, HSW8
+(d) (i) the germination of seeds
+(ii) investigations into the factors affecting To include the role of gibberellin as a cell signalling
+germination molecule.
+HSW1, HSW2, HSW8
+(e) the importance of cereals as staple foods To include a consideration of the global use of
+rice, maize and wheat, and issues relating to food
+security and sustainability.
+HSW9, HSW10, HSW12
+Version 3.0 © OCR 2025
+42 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Module 5: Genetics, control and homeostasis
+5.1 Genetics in the twenty first century
+The aim of this section is to develop an understanding implications of gene technologies and the role of
+of the fundamental principles of heredity, which are genetic counsellors.
+illustrated by reference to model organisms and to the
+inheritance of genetic diseases. The use of gene technologies to catalogue the
+accumulation of different genetic information in
+2
+Learners gain an understanding of the regulation of populations and the implications for speciation can
+the genome by a number of factors, and the concept also be considered.
+of epigenetics will also be considered in relation to the
+increase in diseases such as Type 2 diabetes. This section provides opportunities for the use of
+statistical tests in analysing data.
+Some of the practical techniques used to analyse
+and manipulate DNA are also considered, as well as Learners are expected to apply knowledge,
+the applications of these techniques. The potential understanding and other skills gained in this section to
+uses of DNA and RNA technology in the treatment new situations and/or to solve related problems.
+of disease are considered, as is the profound ethical
+5.1.1 Patterns of inheritance
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) patterns of monogenic (monohybrid) inheritance To include the correct usage of the terms gene,
+allele (gene variant), locus, phenotype, genotype,
+dominant and recessive, heterozygous and
+homozygous and codominant.
+HSW8
+(b) gene mutations To include cystic fibrosis, sickle cell anaemia,
+phenylketonuria (PKU) and Huntington’s disease.
+(c) patterns of inheritance which show codominance To include the inheritance of blood groups and HLA
+and multiple gene variants (alleles) antigens in humans.
+(d) patterns of inheritance which show sex linkage To include haemophilia (sex linkage) and ABO
+and autosomal linkage blood group and nail patella syndrome (autosomal
+linkage).
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 43
+(e) the use of model organisms to investigate To include Drosophila melanogaster
+patterns of inheritance AND
+patterns of inheritance to include dihybrid
+inheritance
+AND
+the use of the chi-squared (X2) test to analyse
+various patterns of inheritance.
+M1.4, M1.9
+2 HSW1, HSW2, HSW3, HSW5, HSW6
+(f) chromosome mutations in humans To include non-disjunction and translocations in the
+context of Turner’s syndrome, Klinefelter’s syndrome
+and Down’s syndrome.
+(g) the role of the genetic counsellor and the ethical To include pedigree analysis to predict the
+issues involved in advising families where a probability of genetic disease
+genetic disease has been identified. AND
+the use of genetic testing.
+M1.4
+HSW2, HSW5, HSW8, HSW9, HSW11, HSW12
+5.1.2 Population genetics and epigenetics
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the role of natural selection in changing allele To include the link between malaria and the
+frequencies within populations frequency of the sickle cell allele including the effect
+on the phenotype of each of the three possible
+genotypes for the normal and sickle cell allele.
+M1.4, M1.5, M2.2, M2.3, M2.4
+(b) the link between the changes in the amino HSW1, HSW5, HSW6
+acid sequence to the change in structure and
+properties of proteins (e.g. haemoglobin)
+(c) the use of Hardy-Weinberg equations to analyse The equations for the Hardy-Weinberg principle will
+changes in allele frequencies in populations be provided where needed in assessments and do
+not need to be recalled
+p2+2 pq+q2=1
+p+q=1
+HSW3, HSW8
+M2.1, M2.2, M2.3, M2.4
+(d) factors other than natural selection that To include the role of the founder effect and genetic
+contribute to genetic biodiversity bottlenecks in creating genetic differences between
+human populations. Examples to include blood
+group distribution and Ellis-van Creveld syndrome
+distribution.
+HSW1, HSW5, HSW6, HSW9, HSW10, HSW12
+Version 3.0 © OCR 2025
+44 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(e) the role of geographical and reproductive To include a consideration of the implications for
+isolation in the formation of new species speciation of primates, including humans.
+(f) epigenetics in terms of the effect of environment To include theories of the role of DNA methylation
+on gene expression. and histones in gene expression
+AND
+a review of some human epigenetic studies (such as
+the Norrbotten studies, studies on the effect of the
+Dutch Hunger Winter and twin studies) and possible
+2
+implications from these studies.
+M1.7
+HSW1, HSW2, HSW5, HSW6, HSW8, HSW9, HSW10,
+HSW11, HSW12
+5.1.3 Gene technologies
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) post transcriptional editing of mRNA To include the production of mature mRNA in
+human cells, the nature of introns and exons and
+the potential to produce many different mature RNA
+molecules from a single gene (details of splicing
+mechanisms not required).
+HSW7, HSW9
+(b) the use of genetic modification of bacterial cells To include the role of reverse transciptase,
+to produce some human proteins restriction enzymes, DNA ligase and plasmid vectors
+AND
+the palindromic nature of recognition sequences for
+restriction enzymes
+AND
+the need for reporter genes on plasmids such as
+those for antibiotic resistance
+AND
+example of human protein to include insulin.
+HSW1, HSW3, HSW5, HSW6, HSW7, HSW9, HSW10,
+HSW11, HSW12
+(c) the principles and uses of the Polymerase Chain To include the use of PCR in amplifying DNA, the role
+Reaction (PCR) of primers and Taq polymerase in PCR
+AND
+the use of log scales to show the relationship
+between cycles of heating and cooling and increases
+in copy number.
+M0.5, M2.5
+HSW1, HSW2, HSW3, HSW5, HSW6, HSW7, HSW9,
+HSW11
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 45
+(d) the principles and uses of agarose gel PAG6
+electrophoresis
+(e) the nature and use of haplotypes, SNPs (single To include forensics, disease pre-disposition, ethnic
+nucleotide polymorphisms) and VNTRs (variable migration, paternity testing, selection for clinical
+number tandem repeats) in human genome trials.
+studies HSW2, HSW5, HSW6, HSW9, HSW10, HSW11,
+HSW12
+2 (f) the use of genetic engineering in eukaryotic cells To include an outline of the use of genetic
+engineering to develop knockout mice as models for
+studying mammalian diseases (no details of genetic
+crossing to obtain homozygous individuals are
+required)
+AND
+an outline of the use of genetic engineering to
+produce human proteins in animals and genetically
+modified crops.
+HSW9, HSW12
+(g) somatic and germ line gene therapy To include the differences between the two forms of
+gene therapy
+AND
+the ethical implications of gene therapy in disease
+treatment to include the treatment of cystic fibrosis
+and SCID (severe combined immunodeficiency
+disease).
+HSW9, HSW10, HSW11
+(h) the principles of RNA interference. To include in outline only the action of siRNA and
+miRNA and the potential of RNA interference in
+disease treatment.
+HSW9, HSW10, HSW11, HSW12
+Version 3.0 © OCR 2025
+46 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+5.2 Nervous control
+Co-ordination may be chemical or electrical in nature. The effects of drugs on the nervous system are also
+In this section, learners gain an understanding of considered, including their use in the treatment of
+the electrical component through the study of the neurological conditions such as Parkinson’s disease.
+structure and functions of the mammalian nervous
+system. The use of brain scanning techniques and The eye is used to illustrate the role of the sensory
+traditional reflex tests to assess brain injury are receptor as a biological transducer. The use of optical
+investigated. An appreciation of the unique problems scans and eye tests to assess visual function is also
+2
+associated with damage to neurones is considered, explored.
+as well as the effects of histological changes in the
+Learners are expected to apply knowledge,
+nervous system as a result of ageing.
+understanding and other skills gained in this section to
+new situations and/or to solve related problems.
+5.2.1 The nervous system and the identification and consequences of damage
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) the organisation of the somatic and
+autonomic nervous system in humans
+(ii) practical observations of nervous tissue To include the use of diagrams, photomicrographs
+using a light microscope and electron micrographs to show the structure of
+the central and peripheral nervous system.
+M0.1, M0.2, M1.1, M1.2, M1.8
+PAG1
+HSW4, HSW5, HSW6
+(b) the structure and function of the human brain To include the use of diagrams, photomicrographs
+and electron micrographs of the locations of
+the cerebrum, cerebellum, medulla oblongata,
+hypothalamus and pituitary gland and the functions
+of each area.
+M0.1, M0.2, M1.1, M1.2, M1.8
+(c) the structure of motor, sensory and relay To include the use of diagrams, photomicrographs
+neurones and electron micrographs to show axons, dendrons
+and dendrites, cell surface membrane and cell body,
+myelin sheath and nodes of Ranvier.
+M0.1, M0.2, M1.1, M1.2, M1.8
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 47
+(d) the establishment of the resting potential and To include the interpretation of graphs showing
+the transmission of the action potential in changes in membrane potential, the significance of
+neurones the myelin sheath and the refractory period in the
+transmission of nerve impulses.
+M3.1, M3.4
+(e) the structure and function of synapses in To include the role of neurotransmitters in excitatory
+integrating responses in the nervous system and inhibitory post synaptic potential.
+2 (f) (i) the nature of a reflex arc, the use of reflexes Reflexes to include the use of the blink reflex, iris
+and the differences when compared to a reflex and plantar reflex in assessing nervous system
+reaction damage and levels of consciousness
+AND
+(ii) practical investigations into reflexes in the use of the Student’s t-test in investigations of
+humans the factors affecting reaction time.
+(iii) practical investigations into factors affecting M0.1, M0.3, M1.1, M1.2, M1.3, M1.6, M3.1, M3.2,
+reaction times M3.4, M3.5
+PAG11
+HSW3, HSW4, HSW5, HSW6
+(g) the use of brain scans in assessing brain and To include the assessment of traumatic brain injury
+spinal cord damage and strokes and scans to include CT, MRI, fMRI and
+PET scans and EEGs.
+HSW9, HSW10, HSW11, HSW12
+(h) the consequences of brain and spinal cord To include effects on memory, motor skills,
+damage speech and hormonal imbalance and the ethical
+consequences of establishing brain death should be
+discussed.
+HSW10
+(i) the use of drugs to modify brain activity and To include the therapeutic use of drugs, such
+function as dopamine for the treatment of Parkinson’s
+disease and the effect of heroin, cannabis,
+methamphetamine and alcohol on synapse activity
+in the brain.
+HSW5, HSW6, HSW7, HSW9, HSW10, HSW11,
+HSW12
+(j) psychological and physical drug dependency. To include the biological basis of dependency and
+the consequences of dependency on individuals and
+society.
+HSW10, HSW12
+Version 3.0 © OCR 2025
+48 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+5.2.2 Monitoring visual function
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the structure of the eye To include the location and function of the sclera,
+conjunctiva, cornea, iris, pupil, lens, ciliary body,
+aqueous humour, vitreous humour, choroid, and
+retina. 2
+(b) (i) the structure of the retina To include the structure and function of the
+following: rod cells, cone cells, bipolar cells and
+ganglion cells, the fovea and the blind spot.
+(ii) practical observations of sections through PAG1
+the eye M0.1, M0.2, M1.1, M1.2, M1.8
+(c) the function of the retina as a receptor of light
+stimuli and as a transducer
+(d) the assessment of receptor activity through To include tests for visual acuity, colour vision and
+routine eye tests. OCT scans (optical coherence tomography).
+HSW9, HSW10, HSW11, HSW12
+5.2.3 The effect of ageing on the nervous system
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the symptoms and possible causes of Alzheimer’s To include histological changes in brain tissue,
+disease cognitive impairment and behavioural changes, and
+genetic and environmental causes.
+M1.4, M1.7
+HSW5, HSW6, HSW9, HSW10, HSW11
+(b) (i) the effect of ageing on the nervous system To include hearing impairment, visual impairment
+(cataracts, glaucoma and macular degeneration) and
+memory loss and the analysis and interpretation of
+secondary data from hearing tests and sight tests.
+(ii) practical investigations into the effect of M1.1, M1.3, M1.5, M3.1
+ageing on reaction times and memory. PAG11
+HSW4, HSW5, HSW6, HSW9, HSW10, HSW11
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 49
+5.3 Homeostasis
+Homeostasis involves co-ordination which may be The ethics of organ donation and the potential uses of
+chemical or electrical. The aim of this section is to cloning and stem cell technology in treatments are also
+consider the principles of homeostasis with reference considered.
+to the control of heart rate, body temperature
+and blood glucose concentration. The implications Learners are expected to apply knowledge,
+of a failure of homeostatic mechanisms are also understanding and other skills gained in this section to
+considered. new situations and/or to solve related problems.
+2
+Learners gain an understanding of the kidney as an
+organ of homeostasis and excretion, and the effects of
+kidney disease, and diabetes, are studied.
+5.3.1 The principles and importance of homeostasis
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the general principles of homeostasis in the To include the role of receptors, effectors and
+maintenance of a stable internal environment negative feedback
+AND
+the concept of normal ranges for temperature, pH,
+blood glucose concentration and blood pressure.
+AND
+contrast positive and negative feedback systems
+using oxytocin as an example of positive feedback.
+M1.6
+(b) the nervous and hormonal control of heart rate To include the roles of the sympathetic and
+parasympathetic nervous system and adrenaline.
+(c) the control of body temperature To include the role of peripheral temperature
+receptors, the thermoregulatory centre in the
+hypothalamus and the responses to rising and falling
+temperatures (sweating, shivering, vasoconstriction
+and vasodilation).
+(d) the regulation of thyroxine release and the effect
+of thyroxine on metabolic rate
+(e) the techniques for and the importance of To include oral, tympanic (ear), axillary (arm pit)
+measuring core body temperature and rectal methods and the significance of readings
+outside the normal range in adults and children.
+M1.1, M1.2, M1.6
+PAG10
+HSW3, HSW4, HSW5, HSW6
+Version 3.0 © OCR 2025
+50 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(f) the causes, symptoms and treatment of To include the consequences of ‘fuel poverty’ and
+hypothermia and hyperthermia. analysis of data showing correlations between
+weather conditions and incidence of both
+hypothermia and hyperthermia with respect to
+climate change.
+M0.3, M1.7
+HSW9, HSW10, HSW11, HSW12
+2
+5.3.2 The hormonal control of blood glucose and the management of diabetes
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) (i) the structure and function of the pancreas To include the use of diagrams, photomicrographs
+as an endocrine gland and electron micrographs to identify the Islets
+of Langerhans and non-endocrine tissues in the
+pancreas.
+(ii) practical observations of prepared slides of M0.1, M0.2, M1.8
+pancreatic tissue using a light microscope PAG1
+HSW4
+(b) the regulation of blood glucose by negative To include details of the action of insulin and
+feedback glucagon at a cellular level.
+(c) the different types of diabetes To include the causes, risk factors and diagnosis of
+Type 1 and Type 2 diabetes.
+(d) the fasting blood glucose test, glucose tolerance To include the analysis and evaluation of secondary
+testing and the use of biosensors in the data (from glucose tests).
+monitoring of blood glucose concentrations M0.1, M0.2, M1.7
+HSW3, HSW4, HSW5, HSW6, HSW9, HSW10, HSW11
+(e) the treatment and management of Type 1 and To include the use of insulin, lifestyle interventions,
+Type 2 diabetes the use of drugs and the monitoring of glucose
+control using glycosylated haemoglobin
+concentrations.
+M0.1, M0.2, M0.3, M1.1, M1.5
+(f) the team of health professionals involved in
+the management of diabetes (i.e. the diabetes
+nurse, dieticians, retinal screeners, podiatrists),
+including the role of evidence based practice
+(g) the future impact of diabetes on the human
+population.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 51
+5.3.3 Kidney functions and malfunctions
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) the need for the removal of excretory products To include the reasons for the deamination of amino
+acids and production of urea in liver cells (no details
+of the ornithine cycle are required).
+2
+(b) the structure of the kidney as part of the To include the gross structure of the kidney (cortex,
+excretory system medulla, renal pyramids, renal pelvis and ureter)
+and relative positions of the major blood vessels and
+organs associated with the kidney (renal artery and
+vein, bladder and urethra).
+PAG2
+(c) (i) the structure and function of the kidney To include the use of microscopy, diagrams
+nephron related to the processes of and photomicrographs to examine and identify
+ultrafiltration and selective re-absorption structures.
+which result in the production of urine M0.1, M0.2, M0.3, M1.8, M2.2
+PAG1
+HSW8
+(ii) practical investigations into the biochemical PAG9
+composition of ‘mock’ urine, renal artery HSW3, HSW4, HSW5, HSW6
+and renal vein plasma and filtrate
+(d) the role of the kidney in osmoregulation To include the location and role of osmoreceptors,
+the secretion of ADH from the posterior pituitary,
+the action on ADH at the collecting ducts, the
+role of cyclic AMP in collecting duct cells and the
+insertion and removal of aquaporins into cell surface
+membranes.
+(e) the role of the kidney as an endocrine gland To include an outline of the homeostatic function of
+erythropoietin (EPO) and renin (angiotensin).
+(f) the causes, diagnosis and consequence of kidney To include causes (uncontrolled diabetes, kidney
+failure stones, blood pressure and bacterial infections),
+diagnosis (analysis of data from laboratory samples
+e.g. urine or blood composition) and consequences
+(renin and EPO changes and cardiovascular disease).
+M0.1, M0.3, M2.2, M2.3, M2.4
+PAG9
+HSW9, HSW10, HSW11, HSW12
+Version 3.0 © OCR 2025
+52 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+(g) the use of haemodialysis and peritoneal dialysis To include a consideration of the advantages and
+in the treatment of kidney failure disadvantages of both forms.
+M1.4
+HSW9, HSW10, HSW11, HSW12
+(h) the use of transplant surgery in the treatment of To include practical issues involved in the use of
+kidney failure donor organs for kidney transplants.
+HSW7
+(i) the future for transplant surgery. To include the implications of therapeutic cloning 2
+and reproductive cloning and the use of stem cell
+technology.
+HSW7
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 53
+2d. Prior knowledge, learning and progression
+This specification has been developed for learners their curriculum, and to develop their interest and
+who wish to continue with a study of biology at understanding of different areas of the subject. Others
+Level 3. The A level specification has been written may follow a co-teachable route, completing the
+to provide progression from GCSE Science, GCSE one-year AS course and/or then moving to the two-
+Additional Science, GCSE Further Additional Science, year A level.
+GCSE Biology or from AS Level Biology. Learners who
+2 have successfully taken other Level 2 qualifications in The A Level Biology course will prepare learners for
+Science or Applied Science with appropriate biology progression to undergraduate study, enabling them to
+content may also have acquired sufficient knowledge enter a range of academic and vocational careers in
+and understanding to begin the A Level Biology course. Biological Sciences, Medicine and Biomedical Sciences,
+Veterinary Science, Agriculture and related sectors.
+There is no formal requirement for prior knowledge of For learners wishing to follow an apprenticeship route
+biology for entry onto this qualification. Other learners or those seeking direct entry into biological science
+without formal qualifications may have acquired careers, this A level provides a strong background and
+sufficient knowledge of biology to enable progression progression pathway.
+onto the course.
+There are a number of Science specifications at OCR.
+Some learners may wish to follow a biology course Find out more at www.ocr.org.uk
+for only one year as an AS, in order to broaden
+Version 3.0 © OCR 2025
+54 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+3 Assessment of OCR A Level in Biology B
+(Advancing Biology)
+3a. Forms of assessment
+All three externally assessed components (01–03) Stretch and challenge questions will support the
+contain some synoptic assessment, some extended awarding of A* grade at A level, addressing the need
+response questions and some stretch and challenge for greater differentiation between the most able
+questions. learners.
+Stretch and challenge questions are designed to allow
+the most able learners the opportunity to demonstrate
+the full extent of their knowledge and skills.
+Fundamentals of biology (Component 01)
+3
+This component is worth 110 marks and is split into Section B includes short answer question styles
+two sections and assesses content from across all (structured questions, problem solving, calculations,
+teaching modules. Learners answer all questions. practical) and extended response questions. This
+section of the paper is worth 80 marks.
+Section A contains multiple choice questions. This
+section of the paper is worth 30 marks.
+Scientific literacy in biology (Component 02)
+This component assesses content from across all Question styles include short answer (structured
+teaching modules and places a particular emphasis on questions, problem solving, calculations, practical) and
+scientific literacy. Learners answer all questions. This extended response questions. This component is worth
+component includes a pre-release Advance Notice 100 marks.
+article (see Section 5e) worth 20 to 25 marks.
+Practical skills in biology (Component 03)
+This component assesses content from across all Question styles include short answer (structured
+teaching modules and places a particular emphasis questions, problem solving, calculations, practical) and
+on practical skills. Learners answer all questions. This extended response questions.
+component is worth 60 marks.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 55
+Practical Endorsement in biology (Component 04)
+Performance in this component is reported separately Learners may work in groups but must demonstrate
+to the performance in the A level as measured and record independent evidence of their competency.
+through externally assessed components 01 to 03. Teachers who award a pass to their learners must be
+This non-exam assessment component rewards the confident that each learner consistently and routinely
+development of practical competency in physics/ exhibits the competencies listed in Section 5g and has
+biology/chemistry and is teacher assessed. Learners demonstrated competence in all the apparatus and
+demonstrate competence in the range of skills and techniques detailed in Section 1.2.2 before completion
+techniques specified in Section 1.2 of the specification of the A level course. The practical activities provided
+by carrying out a minimum of 12 assessed practical by OCR are all mapped against the specification and
+activities. The Practical Endorsement is teacher assessment criteria.
+assessed against the Common Practical Assessment
+3
+Criteria as specified in Section 5g.
+3b. Assessment objectives (AO)
+There are three assessment objectives in OCR’s A Level
+in Biology B (Advancing Biology). These are detailed in
+the table below.
+Learners are expected to demonstrate their ability to:
+Assessment Objective
+AO1 Demonstrate knowledge and understanding of scientific ideas, processes, techniques and
+procedures.
+AO2 Apply knowledge and understanding of scientific ideas, processes, techniques and procedures:
+• in a theoretical context
+• in a practical context
+• when handling qualitative data
+• when handling quantitative data.
+AO3 Analyse, interpret and evaluate scientific information, ideas and evidence, including in relation
+to issues, to:
+• make judgements and reach conclusions
+• develop and refine practical design and procedures.
+Version 3.0 © OCR 2025
+56 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+AO weightings in A Level in Biology B (Advancing Biology)
+The relationship between the assessment objectives
+and the components are shown in the following table:
+% of A Level in Biology B (H422)
+Component
+AO1 AO2 AO3
+Fundamentals of biology (H422/01) 15–17 16–17 7–9
+Scientific literacy in biology (H422/02) 10–12 15–17 10–11
+Practical skills in biology (H422/03) 5–6 9–10 7–8
+3
+Practical endorsement in biology (H422/04)* N/A N/A N/A
+Total 30–35 40–44 25–28
+* The Practical Endorsement is assessed and reported separately from the overall A level grade (see Section 5)
+3c. Total qualification time
+Total qualification time (TQT) is the total amount of assessment. The total qualification time for A Level in
+time, in hours, expected to be spent by a learner to Biology B (Advancing Biology) is 360 hours. The total
+achieve a qualification. It includes both guided learning guided learning time is 360 hours.
+hours and hours spent in preparation, study, and
+3d. Qualification availability outside of England
+This qualification is available in England. For Wales Northern Ireland Entitlement Framework Qualifications
+and Northern Ireland please check the Qualifications Accreditation Number (NIEFQAN) list to see current
+in Wales Portal (QIW) or the Northern Ireland availability.
+Department of Education Performance Measures /
+3e. Language
+This qualification is available in English only. All
+assessment materials are available in English only and
+all candidate work must be in English.
+3f. Assessment availability
+There will be one examination series available each Assessments by examination must all be taken in a
+year in May/June to all learners. single year
+All examined components must be taken in the This specification will be certificated from the June
+same examination series at the end of the course. 2017 examination series onwards.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 57
+3g. Retaking the qualification
+Learners can retake the qualification as many times Endorsement may be carried forward for the lifetime
+as they wish. Learners must retake all examined of the specification.
+components but they can choose to either retake the
+Practical Endorsement or to carry forward their most A candidate who is retaking A Level Biology B
+recent result (see section 4d). (Advancing Biology) may re-use a previous result for
+the Practical Endorsement, even if it was awarded by
+Candidates can choose either to retake the Practical another awarding organisation or if it was awarded for
+Endorsement or to carry forward their result for the an alternative suite [e.g. a Practical Endorsement pass
+Practical Endorsement by using the carry forward entry result from A Level Biology B (Advancing Biology) could
+option (see Section 4a). The result for the Practical be re-used for retaking A Level Biology A].
+3
+3h. Assessment of extended responses
+The assessment materials for this qualification provide coherent line of reasoning and marks for extended
+learners with the opportunity to demonstrate their responses are integrated into the marking criteria.
+ability to construct and develop a sustained and
+3i. Synoptic assessment
+Synoptic assessment tests the learners’ understanding Synoptic assessment requires learners to make and
+of the connections between different elements of the use connections within and between different areas of
+subject. biology, for example, by:
+Synoptic assessment involves the explicit drawing • applying knowledge and understanding of more
+together of knowledge, understanding and skills than one area to a particular situation or context
+learned in different parts of the A level course. The
+• using knowledge and understanding of principles
+emphasis of synoptic assessment is to encourage the
+and concepts in planning experimental and
+development of the understanding of the subject as a
+investigative work and in the analysis and
+discipline. All components within Biology B (Advancing
+evaluation of data
+Biology) contain an element of synoptic assessment.
+• bringing together scientific knowledge and
+understanding from different areas of the
+subject and applying them.
+3j. Calculating qualification results
+A learner’s overall qualification grade for A Level in by the learner and for the relevant exam series to
+Biology B (Advancing Biology) will be calculated by determine the learner’s overall qualification grade.
+adding together their marks from the three examined
+components taken to give their total weighted mark. A learner’s result for their Practical Endorsement in
+biology component will not contribute to their overall
+This mark will then be compared to the qualification qualification grade.
+level grade boundaries for the entry option taken
+Version 3.0 © OCR 2025
+58 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+4 Admin: what you need to know
+The information in this section is designed to give an More information about the processes and deadlines
+overview of the processes involved in administering involved at each stage of the assessment cycle can be
+this qualification so that you can speak to your exams found in the Administration area of the OCR website.
+officer. All of the following processes require you to
+submit something to OCR by a specific deadline. OCR’s Admin overview is available on the OCR website
+at http://www.ocr.org.uk/administration.
+4a. Pre-assessment
+Estimated entries
+Estimated entries are your best projection of the should be submitted to OCR by the specified deadline.
+number of learners who will be entered for a These do not incur a cost and do not commit your
+qualification in a particular series. Estimated entries centre in any way.
+Updated arrangements for monitoring the Practical Endorsement 4
+Full details on the monitoring and the implementation that which was monitored in the previous monitoring
+of the practical endorsement are available on the cycle. Large centres will continue to be monitored for
+Positive about Practical pages at https://www.ocr.org. biology, chemistry and physics in each cycle. The first
+uk/subjects/science/positive-about-practical. Lead contact with a centre will be from the AO with which
+teachers are required to have undertaken the free the science to be monitored was entered in the prior
+online training for A level science teachers, available summer series. This first contact will be with the exams
+here: https://practicalendorsement.ocr.org.uk/login/ officer (or other nominated school contact).
+index.php. The lead teacher should also ensure that
+It is the responsibility of a centre that is new, or is
+all other teachers of that science within the centre are
+switching exam boards, or that only offers one or two
+familiar with the requirements so that standards are
+science A levels to let AOs know, so that appropriate
+applied consistently.
+monitoring can be scheduled.
+The awarding organisations (AOs) use information from
+centre entries for the A levels in biology, chemistry
+and physics from the previous summer examination
+series to jointly plan monitoring visits for the current
+two-year cycle and the subsequent cycles. Most
+centres will be monitored for a different science than
+Final entries
+Final entries provide OCR with detailed data for Final entries must be submitted to OCR by the
+each learner, showing each assessment to be taken. published deadlines or late entry fees will apply.
+It is essential that you use the correct entry code,
+considering the relevant entry rules. All learners taking A Level in Biology B (Advancing
+Biology) must be entered for one of the entry options
+shown on the following table:
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 59
+Entry option Components
+Entry code Title Code Title Assessment type
+H422A Biology B 01 Fundamentals of biology External assessment
+(Advancing
+02 Scientific literacy in biology External assessment
+Biology)
+03 Practical skills in biology External assessment
+04 Practical Endorsement in Non-exam assessment
+biology (Visiting monitoring)
+H422C Biology B 01 Fundamentals of biology External assessment
+(Advancing
+02 Scientific literacy in biology External assessment
+Biology)
+03 Practical skills in biology External assessment
+80 Practical Endorsement in Non-exam assessment
+4 biology – Carried Forward* (Carried Forward)
+*The carry forward option will be available for the first time from June 2018.
+Private candidates
+Private candidates may enter for OCR assessments. The Practical Endorsement is an essential part of the
+course and will allow candidates to develop skills for
+A private candidate is someone who pursues a course further study or employment as well as imparting
+of study independently but takes an examination important knowledge that is part of the specification.
+or assessment at an approved examination centre.
+A private candidate may be a part-time student, Private candidates need to contact OCR approved
+someone taking a distance learning course, or centres to establish whether they are prepared to
+someone being tutored privately. They must be based host them as a private candidate. The centre may
+in the UK. charge for this facility and OCR recommends that the
+arrangement is made early in the course.
+The A Level Biology B (Advancing Biology) qualification
+requires candidates to complete a Practical Further guidance for private candidates may be found
+Endorsement incorporating a minimum of 12 practical on the OCR website: https://www.ocr.org.uk.
+activities, allowing them to demonstrate a range of
+practical skills, use of apparatus and techniques to fulfil
+the Common Practical Assessment Criteria.
+Head of Centre Annual Declaration
+The practical science statement is contained within Please see the JCQ publication Instructions for
+the NEA Centre Declaration Form which can be found conducting non-examination assessments for further
+on the OCR website at www.ocr.org.uk/formsfinder. information.
+By signing the form, the centre is confirming that
+they are meeting all the requirements detailed in Any failure by a centre to provide a practical science
+the specification, including that they have provided statement to OCR in a timely manner (by means of
+all candidates the opportunity to undertake the an NEA Centre Declaration Form) will be treated as
+prescribed practical activities. malpractice and/or maladministration [under General
+Condition A8 (Malpractice and maladministration)].
+Version 3.0 © OCR 2025
+60 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+NEA Centre Declaration Form: Practical Science Statement
+Centres must provide a written practical science b) Whilst undertaking the practical activities, all
+statement confirming that reasonable opportunities candidates have written and retained a record of
+have been provided to all learners being submitted for their work.
+entry for assessment to undertake at least twelve
+appropriate practical activities. Centres should have records confirming points (a) to
+(b) above available as they may be requested as part of
+The practical science statement is contained within the the monitoring process.
+NEA Centre Declaration Form, this form can be found
+on the OCR website at www.ocr.org.uk/formsfinder. Any failure by a centre to provide a practical science
+statement to OCR in a timely manner (by means of an
+By signing the form, the centre is confirming that: NEA Centre Declaration Form) will be treated as
+malpractice and/or maladministration [under General
+a) At least twelve practical activities have been Condition A8 (Malpractice and maladministration)].
+completed by each candidate enabling them to
+4
+demonstrate competence in all skills, apparatus
+and techniques as specified in OCR’s A Level
+science specifications.
+Collecting evidence of student performance to ensure resilience in the qualifications system
+Regulators have published guidance on collecting For more detailed information on collecting evidence
+evidence of student performance as part of long- of student performance please visit our website at:
+term contingency arrangements to improve the https://www.ocr.org.uk/administration/general-
+resilience of the qualifications system. You should qualifications/assessment/
+review and consider this guidance when delivering this
+qualification to students at your centre.
+4b. Accessibility and special consideration
+Reasonable adjustments and access arrangements Special consideration is a post-assessment adjustment
+allow learners with special educational needs, to marks or grades to reflect temporary injury, illness
+disabilities or temporary injuries to access the or other indisposition at the time the assessment was
+assessment and show what they know and can do, taken.
+without changing the demands of the assessment.
+Detailed information about eligibility for special
+Applications for these should be made before the consideration can be found in the JCQ A guide to the
+examination series. Detailed information about eligibility special consideration process and JCQ Reasonable
+for access arrangements can be found in the JCQ Access Adjustments for GCE A-level sciences – Endorsement of
+Arrangements and Reasonable Adjustments. practical skills.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 61
+4c. External assessment arrangements
+Regulations governing examination arrangements Learners are permitted to use a scientific or graphical
+are contained in the JCQ Instructions for conducting calculator for components 01, 02 and 03. Calculators
+examinations. are subject to the rules in the document Instructions
+for Conducting Examinations published annually by JCQ
+(www.jcq.org.uk).
+4d. Admin of non-exam assessment
+Regulations governing arrangements for internal OCR’s Admin overview is available on the OCR website
+assessments are contained in the JCQ Instructions for at http://www.ocr.org.uk/administration.
+conducting non-examination assessments. Appendix 1
+of this document gives specific details for the Practical
+Skills Endorsement for A Level sciences designed for
+use in England.
+4
+Carrying forward the Practical Endorsement in Biology
+Learners who are retaking the qualification can choose Learners must decide at the point of entry whether
+to either retake the endorsement or carry forward they are going to carry forward the endorsement or
+their most recent result for that component (even if it not.
+was awarded by another awarding organisation or if it
+was awarded for an alternative suite). The result for the endorsement may be carried forward
+for the lifetime of the specification and there is no
+To carry forward the result, you must use the carry restriction on the number of times the result may be
+forward entry option (see table in Section 4a). carried forward. However, only the most recent non-
+absent result may be carried forward.
+4e. Results and certificates
+Grade scale
+A level qualifications are graded on the scale: A*, A, B, Results for the A Level Sciences Practical Endorsements
+C, D, E, where A* is the highest. Learners who fail to will be shown independently of the qualification
+reach the minimum standard for E will be Unclassified grade on the certificate. Candidates who fulfil the
+(U). Only subjects in which grades A* to E are attained requirements and reach the minimum standard will be
+will be recorded on certificates. awarded a Pass grade. Candidates who fail to reach the
+minimum standard will be recorded as ‘Not Classified’
+and this will also be reported on the certificate.
+Version 3.0 © OCR 2025
+62 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Results
+Results are released to centres and learners for The following supporting information will be available:
+information and to allow any queries to be resolved
+before certificates are issued. • raw mark grade boundaries for each component
+• weighted mark grade boundaries for each entry
+Centres will have access to the following results
+option.
+information for each learner:
+Until certificates are issued, results are deemed to be
+• the grade for the qualification
+provisional and may be subject to amendment.
+• the raw mark for each component
+• the total weighted mark for the qualification.
+4f. Post-results services 4
+A number of post-results services are available: • Access to scripts – Centres can request access to
+marked scripts.
+• Review of results – If you are not happy with
+the outcome of a learner’s results, centres may • Practical Endorsement – Since monitoring and
+request a review of marking. any potential request for further visits take place
+throughout the period of the qualification, there
+• Missing and incomplete results – This service is no post-results service provided.
+should be used if an individual subject result
+for a learner is missing, or the learner has been
+omitted entirely from the results supplied.
+4g. Malpractice
+Any breach of the regulations for the conduct Detailed information on malpractice can be found
+of examinations and coursework may constitute in the Suspected Malpractice in Examinations and
+malpractice (which includes maladministration) and Assessments: Policies and Procedures published by
+must be reported to OCR as soon as it is detected. JCQ.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 63
+5 Appendices
+5a. Overlap with other qualifications
+There is a small degree of overlap between the content Chemistry B (Salters)
+of this specification and those for other AS level/A level
+Sciences. • Polymers and Life: Amino acids, protein
+structure, DNA, RNA, chromatography, hydrogen
+An example of overlap includes: bonding.
+Chemistry A • Developing a Medicine: Colorimetry.
+• Chromatography.
+5b. Avoidance of bias
+The A level qualification and subject criteria have Characteristic as defined by the Equality Act 2010. All
+been reviewed in order to identify any feature which reasonable steps have been taken to minimise any
+could disadvantage candidates who share a protected such disadvantage.
+5
+Version 3.0 © OCR 2025
+64 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+5c. How Science Works (HSW)
+How Science Works (HSW) was conceived as being • HSW3 Use appropriate methodology, including
+a wider view of science in context, rather than just information and communication technology
+straightforward scientific enquiry. It was intended to (ICT), to answer scientific questions and solve
+develop learners as critical and creative thinkers, able scientific problems
+to solve problems in a variety of contexts.
+• HSW4 Carry out experimental and investigative
+Developing ideas and theories to explain the activities, including appropriate risk
+operation of living systems, from the molecular to the management, in a range of contexts
+ecosystem level, is at the heart of biology. Learners
+• HSW5 Analyse and interpret data to provide
+should be aware of the importance that peer review
+evidence, recognising correlations and causal
+and repeatability have in giving confidence to this
+relationships
+evidence.
+• HSW6 Evaluate methodology, evidence and
+Learners are expected to understand the variety
+data, and resolve conflicting evidence
+of sources of data available for critical analysis to
+provide evidence and the uncertainty involved in its • HSW7 Know that scientific knowledge and
+measurement. They should also be able to link that understanding develops over time
+evidence to contexts influenced by culture, politics and
+• HSW8 Communicate information and ideas in
+ethics.
+appropriate ways using appropriate terminology
+5
+Understanding How Science Works requires an
+• HSW9 Consider applications and implications of
+understanding of how scientific evidence can influence
+science and evaluate their associated benefits
+ideas and decisions for individuals and society, which
+and risks
+is linked to the necessary skills of communication for
+audience and for purpose with appropriate scientific • HSW10 Consider ethical issues in the
+terminology. treatment of humans, other organisms and the
+environment
+The examples and guidance within the specification are
+not exhaustive but give a flavour of opportunities for • HSW11 Evaluate the role of the scientific
+integrating HSW within the course. These references, community in validating new knowledge and
+written in the form HSW1, link to the statements as ensuring integrity
+detailed below:
+• HSW12 Evaluate the ways in which society uses
+science to inform decision making.
+• HSW1 Use theories, models and ideas to
+develop scientific explanations
+• HSW2 Use knowledge and understanding
+to pose scientific questions, define scientific
+problems, present scientific arguments and
+scientific ideas
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 65
+5d. Mathematical requirements
+In order to develop their skills, knowledge and All mathematical content will be assessed within the
+understanding in A Level Biology, learners need to have lifetime of the specification. Skills shown in bold type
+been taught, and to have acquired competence in, the in the M0 – M4 coverage table below will only be
+appropriate areas of mathematics relevant to the tested in the full A Level course, not the standalone
+subject as indicated in the M0 – M4 table of coverage AS Level course.
+below.
+The list of examples given in the M0 – M4 coverage
+The assessment of quantitative skills will include at table is not exhaustive and is not limited to Level 2
+least 10% Level 2 (or above) mathematical skills for examples. These skills could be developed in other
+biology (see later for a definition of ‘Level 2’ areas of the specification content from those indicated.
+mathematics).
+These skills will be applied in the context of the
+relevant biology.
+Formulae used in A Level Biology
+5 To address biology questions using mathematical skills, biological contexts, while others are clearly biological
+learners will need to be able to use and, in some cases, equations, albeit manipulated using standard
+recall formulae and equations. Some of these will seem mathematical, algebraic techniques.
+like pure mathematics, but will be deployed in
+Biological Mathematical
+Magnification All of GCSE (9–1) Maths recall including
+(but not limited to):
+Rates
+• circumference and area of circle
+R
+f
+• surface area and volume of cuboid
+SA : V
+Recall
+• mean
+Genetic biodiversity
+• percentage (to include %change,
+Cardiac output
+%yield and %error)
+RQ
+Efficiency
+Surface area and volume
+of cylinder and sphere
+chi squared
+Hardy-Weinberg
+t-test paired
+Provided
+Simpson’s index of diversity t-test unpaired
+Spearman’s rank
+Standard deviation
+Version 3.0 © OCR 2025
+66 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+GCSE (9–1) Mathematical formulae to recall
+At AS and A Level Biology we assume knowledge of higher tier GCSE (9–1) Maths content. This includes (but is not
+limited to) the following list of formulae which learners will need to be able to recall.
+Note that students should be familiar with the convention of using r for radius, h for height, b for base and l for
+length.
+• Circumference of circle
+Circumference=2rr
+• Area of circle
+Areaof circle=rr2
+• Surface area of cuboid
+Surfaceareaof cuboid=2( bh+bl+hl )
+• Volume of cuboid
+Volumeof Cuboid=hbl
+• Mean
+5
+Rx
+x=
+n
+• Percentage (which can be used to calculate percentage change, percentage yield and percentage error)
+newquantity-originalquantity
+Percentagechange= #100
+originalquantity
+Actual Amount
+% yield= #100
+Theoretical Amount
+2#absoluteuncertainty
+%
+error
+(
+uncertainty
+)= #100%
+quantitymeasured
+Biological formulae to recall
+The following are the biological formulae learners will need to recall:
+• Magnification
+sizeof image
+Magnification=
+sizeorrealobject
+• R
+f
+distancemoved bythesolute
+Rf =
+distancemoved bythesolvent
+• Rates (e.g. enzymatic reactions, breathing (ventilation), transpiration, photosynthesis, respiration, reaction
+times, diffusion)
+changeinquantity
+Rate=
+timetaken
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 67
+• Surface Area to Volume ratio
+SurfaceArea
+Ratio=
+Volume
+• Genetic biodiversity
+numberof polymorphicgeneloci
+proportionof polymorphicgeneloci=
+totalnumberof loci
+• Cardiac output as a function of heart rate and stroke volume
+cardiacoutput=heartrate#strokevolume
+• Respiratory quotient
+CO produced
+RQ= 2
+O consumed
+2
+• Efficiency of biomass transfers
+biomasstransferred
+efficiency= #100
+biomassintake
+5
+Mathematical formulae that will need to be used but not recalled (provided in the
+assessments where needed).
+• Surface area of a cylinder
+Surfaceareaof cylinder=2rr ( r+l )
+• Volume of a cylinder
+Volumeof cylinder=rr2l
+• Surface area of a sphere
+Surfaceareaof
+sphere=4rr2
+• Volume of a sphere
+4
+Volumeof sphere= rr3
+3
+• Chi squared
+( f - f )2
+|2=R o e
+f
+e
+• Spearman’s Rank Correlation Coefficient
+6Rd2
+r
+=1-
+s
+n
+( n2-1)
+• Standard Deviation
+R( x-x )2
+s=
+n-1
+Version 3.0 © OCR 2025
+68 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+• Student’s t-test – Unpaired
+xA-xB
+t=
+s2 s2
+A B
++
+n n
+A B
+• Student’s t-test – Paired
+d n
+t=
+s
+d
+Note that critical values tables, or appropriate excerpts from these tables, will be provided in the assessment
+where needed.
+Learners will need to be able to work out which ‘degrees of freedom’ or ‘n’ row, and which confidence column(s)
+is/are relevant to their analysis.
+Biological formulae that will need to be used but not recalled (provided in the
+assessments where needed):
+• The Hardy-Weinberg Equations
+p2+2 pq+q2=1
+p+q=1 5
+• Simpson’s Index
+J JnN2N
+D=1-K KRK
+K
+O
+O
+O
+O
+N
+L L PP
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 69
+Mathematics skills for biology – M0 – M4 coverage table
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Biology (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M0 – Arithmetic and numerical computation
+M0.1 Recognise and make use Learners may be tested on their 1.1.1(b), 1.1.2(b), 2.1.1(e),
+of appropriate units in ability to: 2.1.1(i), 2.1.1(m), 2.1.2(b),
+calculations 2.1.2(c), 2.1.3(d), 2.2.1(e),
+• convert between units
+e.g. mm3 to cm3 as part of 2.2.1(f), 2.2.1(g), 2.2.3(c),
+2.2.4(b), 2.2.4(e), 3.1.2(g),
+volumetric calculations
+3.1.3(i), 3.2.1(f), 3.2.3(g),
+• work out the unit for a rate
+4.1.1(g), 4.1.2(c), 4.1.2(d),
+e.g. breathing rate.
+4.1.2(f), 4.1.2(h), 4.1.2(k),
+4.2.1(a), 4.2.1(b), 4.2.1(d),
+4.2.1(i), 5.2.1(a), 5.2.1(b),
+5.2.1(c), 5.2.1(f), 5.2.2(b),
+5.3.2(a), 5.3.2(d), 5.3.2(e),
+5
+5.3.3(c), 5.3.3(f)
+M0.2 Recognise and use Learners may be tested on their 2.1.1(e), 2.1.1(i), 2.1.1(m),
+expressions in decimal and ability to: 2.1.2(b), 2.1.2(c), 2.2.4(b),
+standard form 2.2.4(e), 3.1.3(h), 3.1.3(i),
+• use an appropriate number
+3.2.3(g), 4.1.1(g), 4.1.2(c),
+of decimal places in
+4.1.2(d), 4.1.2(f), 4.1.2(h),
+calculations, e.g. for a mean
+4.1.2(k), 4.2.1(a), 4.2.1(b),
+• carry out calculations using
+4.2.1(d), 4.2.1(i), 4.2.2(a),
+numbers in standard and
+5.2.1(a), 5.2.1(b), 5.2.1(c),
+ordinary form, e.g. use of
+5.2.2(b), 5.3.2(a), 5.3.2(d),
+magnification
+5.3.2(e), 5.3.3(c)
+• understand standard form
+when applied to areas such
+as size of organelles
+• convert between numbers in
+standard and ordinary form
+• understand that significant
+figures need retaining when
+making conversions between
+standard and ordinary
+form, e.g. 0.0050 mol dm−3
+is equivalent to
+5.0 × 10−3 mol dm−3.
+Version 3.0 © OCR 2025
+70 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Biology (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M0.3 Use ratios, fractions and Learners may be tested on their 2.1.1(e), 2.1.2(b), 2.1.2(c),
+percentages ability to: 2.1.2(g), 2.1.2(h), 2.1.4(c),
+2.2.1(a), 3.1.2(g), 3.1.3(h),
+• calculate percentage yields
+3.2.1(f). 4.1.1(f), 4.1.1(g),
+• calculate surface area to
+4.1.2(c), 4.1.2(d), 5.2.1(f),
+volume ratio
+5.3.1(f), 5.3.2(e), 5.3.3(c),
+• use scales for measuring 5.3.3(f)
+• represent phenotypic ratios
+(monohybrid and dihybrid
+crosses).
+M0.4 Estimate results Learners may be tested on their 2.2.1(e), 2.2.1(f), 2.2.1(g),
+ability to: 3.1.3(h), 3.2.1(f), 3.2.1(g),
+4.3.1(i)
+• estimate results to sense
+check that the calculated
+values are appropriate. 5
+M0.5 Use calculators to find and Learners may be tested on their 5.1.3(c)
+use power, exponential and ability to:
+logarithmic functions
+• estimate the number of
+bacteria grown over a
+certain length of time.
+M1 – Handling data
+M1.1 Use an appropriate number Learners may be tested on their 1.1.3(c), 2.1.1(i), 2.1.1(m),
+of significant figures ability to: 2.1.2(b), 2.1.2(c), 2.1.2(g),
+2.1.2(h), 2.2.4(c), 2.2.4(e),
+• report calculations to an
+3.1.3(h), 3.1.3(i), 3.2.3(g),
+appropriate number of
+4.1.1(g), 4.1.2(c), 4.1.2(d),
+significant figures given
+4.1.2(h), 4.1.2(k), 4.2.1(a),
+raw data quoted to varying
+4.2.1(b), 4.2.1(d), 4.2.1(i),
+numbers of significant figures
+4.2.2(a), 4.3.1(a), 4.3.1(c),
+• understand that calculated
+4.3.1(d), 4.3.1(g), 5.2.1(a),
+results can only be reported
+5.2.1(b), 5.2.1(c), 5.2.1(f),
+to the limits of the least
+5.2.2(b), 5.2.3(b), 5.3.1(e),
+accurate measurement.
+5.3.2(e)
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 71
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Biology (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M1.2 Find arithmetic means Learners may be tested on their 2.1.1(i), 2.1.1(m), 2.1.2(b),
+ability to: 2.1.2(c), 2.1.2(g), 2.1.2(h),
+2.1.3(d), 2.2.1(e), 2.2.1(f),
+• find the mean of a range of
+2.2.1(g), 2.2.4(c), 2.2.4(e),
+data, e.g. the mean number
+4.1.1(g), 4.1.2(c), 4.1.2(d),
+of stomata in the leaves of a
+4.1.2(h), 4.1.2(k), 4.2.1(a),
+plant.
+4.2.1(b), 4.2.1(d), 4.2.1(i),
+4.2.2(a), 4.3.1(a), 4.3.1(c),
+4.3.1(d), 4.3.1(g), 4.3.1(i),
+5.2.1(a), 5.2.1(b), 5.2.1(c),
+5.2.1(f), 5.2.2(b), 5.3.1(e)
+M1.3 Construct and interpret Learners may be tested on their 2.1.2(c), 2.1.2(g), 2.1.2(h),
+frequency tables and ability to: 2.1.3(d), 2.2.1(e), 2.2.1(f),
+diagrams, bar charts and 2.2.1(g), 2.2.4(e), 3.1.2(g),
+• represent a range of data in
+histograms 3.2.1(g), 3.3.1(f), 4.1.1(g),
+5 a table with clear headings,
+4.1.2(c), 4.1.2(d), 4.3.1(a),
+units and consistent decimal
+4.3.1(c), 4.3.1(d), 4.3.1(g),
+places
+4.3.2(a), 5.2.1(f), 5.2.3(b)
+• interpret data from a variety
+of tables, e.g. data relating to
+organ function
+• plot a range of data in an
+appropriate format, e.g.
+enzyme activity over time
+represented on a graph
+• interpret data for a variety
+of graphs, e.g. explain
+electrocardiogram traces.
+M1.4 Understand simple Learners may be tested on their 3.1.2(g), 5.1.1(e), 5.1.1(g),
+probability ability to: 5.1.2(a), 5.2.3(a), 5.3.3(g)
+• use the terms probability and
+chance appropriately
+• understand the probability
+associated with genetic
+inheritance.
+M1.5 Understand the principles Learners may be tested on their 2.1.1(e), 3.1.3(h),3.3.1(f),
+of sampling as applied to ability to: 3.3.2(f), 4.3.1(m), 4.3.2(a),
+scientific data 4.3.2(b), 4.3.2(c), 5.1.2(a),
+• analyse random data
+5.2.3(b), 5.3.2(e)
+collected by an appropriate
+means, e.g. use Simpson’s
+index of diversity to calculate
+the biodiversity of a habitat.
+Version 3.0 © OCR 2025
+72 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Biology (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M1.6 Understand the terms Learners may be tested on their 2.1.2(b), 2.1.2(c), 2.2.4(e),
+mean, median and mode ability to: 3.1.2(g), 4.1.1(g), 4.1.2(c),
+4.1.2(d), 4.1.2(h), 4.3.1(a),
+• calculate or compare the
+4.3.1(c), 4.3.1(d, 4.3.1(g),
+mean, median and mode of a
+4.3.1(i), 4.3.1(m), 5.2.1(f),
+set of data, e.g. height/mass/
+5.3.1(a), 5.3.1(e)
+size of a group of organisms.
+M1.7 Use a scatter diagram Learners may be tested on their 3.2.1(g), 3.3.1(f), 4.3.1(a),
+to identify a correlation ability to: 4.3.1(c), 4.3.1(d), 4.3.1(g),
+between two variables 4.3.1(m), 5.1.2(f), 5.2.3(a),
+• interpret a scattergram,
+5.3.1(f), 5.3.2(d)
+e.g. the effect of life style
+factors on health.
+M1.8 Make order of magnitude Learners may be tested on their 2.1.1(d), 2.1.1(g), 2.1.1(i),
+calculations ability to: 2.2.4(c), 4.1.2(k), 4.2.1(a),
+• use and manipulate the 4.2.1(b), 4.2.1(d), 4.2.1(i), 5
+4.2.2(a), 4.3.1(a), 4.3.1(h),
+magnification formula:
+5.2.1(a), 5.2.1(b), 5.2.1(c),
+size of
+5.2.2(b), 5.3.2(a), 5.3.3(c)
+image
+• magnification =
+• size of
+real object
+M1.9 Select and use a statistical Learners may be tested on their 4.1.1(g), 4.1.2(c), 4.1.2(d),
+test ability to select and use: 4.1.2(f), 4.3.1(d), 5.1.1(e)
+• the chi squared (X2) test to
+test the significance of the
+difference between observed
+and expected results
+• the Student’s t-test
+• the Spearman’s rank
+correlation coefficient.
+M1.10 Understand measures Learners may be tested on their 2.1.1(e), 2.2.1(g)
+of dispersion, including ability to:
+standard deviation and
+• calculate the standard
+range
+deviation
+• understand why standard
+deviation might be a more
+useful measure of dispersion
+for a given set of data e.g.
+where there is an outlying
+result.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 73
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Biology (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M1.11 Identify uncertainties in Learners may be tested on their 1.1.4(d), 2.1.3(d), 2.2.1(e),
+measurements and use ability to: 2.2.1(f), 2.2.1(g), 2.2.4(e)
+simple techniques to
+• calculate percentage error
+determine uncertainty when
+where there are uncertainties
+data are combined
+in measurement.
+M2 – Algebra
+M2.1 Understand and use the No exemplification required. 2.2.4(c), 5.1.2(c)
+symbols: =, <, <<, >>, >, a, +
+M2.2 Change the subject of an Learners may be tested on their 2.1.1(i), 2.2.3(c), 3.1.3(i),
+equation ability to: 5.1.2(a), 5.1.2(c), 5.3.3(c),
+5.3.3(f)
+• use and manipulate
+equations, e.g. magnification.
+5 M2.3 Substitute numerical values Learners may be tested on their 2.2.1(e), 2.2.1(f), 2.2.3(c),
+into algebraic equations ability to: 3.1.3(h), 4.1.1(f), 4.3.1(m),
+using appropriate units for 4.3.2(c), 5.1.2(a), 5.1.2(c),
+• use a given equation
+physical quantities 5.3.3(f)
+e.g. Simpson’s-index of
+diversity D = 1 – ∑(n/N)2.
+M2.4 Solve algebraic equations Learners may be tested on their 2.2.1(e), 2.2.1(f), 2.2.3(c),
+ability to: 3.1.3(i), 4.1.1(f), 5.1.2(a),
+5.1.2(c), 5.3.3(f)
+• solve equations in a biological
+context, e.g.
+cardiac stroke heart
+= ×
+output volume rate
+M2.5 Use logarithms in relation Learners may be tested on their 5.1.3(c)
+to quantities that range ability to:
+over several orders of
+• use a logarithmic scale in
+magnitude
+the context of microbiology,
+e.g. growth rate of a
+microorganism such as yeast.
+M3 – Graphs
+M3.1 Translate information Learners may be tested on their 1.2.1(g), 2.1.1(m), 2.1.2(b),
+between graphical, ability to: 2.1.2(c), 2.1.2(g), 2.1.2(h),
+numerical and algebraic 2.1.3(d), 2.2.1(e), 2.2.1(f),
+• understand that data may
+forms 2.2.1(g), 2.2.1(h), 2.2.4(e),
+be presented in a number of
+3.2.1(g), 3.3.1(f), 4.1.2(f) (h),
+formats and be able to use
+5.2.1(d), 5.2.1(f), 5.2.3(b)
+these data, e.g. dissociation
+curves.
+Version 3.0 © OCR 2025
+74 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Biology (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M3.2 Plot two variables from Learners may be tested on their 1.1.3(d), 2.1.1(m), 2.1.2(c),
+experimental or other data ability to: 2.1.2(g), 2.1.2(h), 2.1.3(d),
+2.2.1(e), 2.2.1(f), 2.2.1(g),
+• select an appropriate format
+2.2.4(e), 4.1.1(g), 4.1.2(c),
+for presenting data, bar
+4.3.2(a), 5.2.1(f)
+charts, histograms, graphs
+and scattergrams.
+M3.3 Understand that Learners may be tested on their 1.1.3(d), 2.1.1(m), 2.1.3(d),
+y = mx + c represents a ability to: 2.2.4(e), 4.1.1(g)
+linear relationship
+• predict/sketch the shape
+of a graph with a linear
+relationship, e.g. the effect
+of substrate concentration
+on the rate of an enzyme-
+controlled reaction with
+5
+excess enzyme.
+M3.4 Determine the intercept of Learners may be tested on their 1.1.3(d), 2.1.2(g), 2.1.2(h),
+a graph ability to: 4.1.2(h), 4.3.1(g), 5.2.1(d),
+5.2.1(f)
+• read off an intercept
+point from a graph, e.g.
+compensation point in
+plants.
+M3.5 Calculate rate of change Learners may be tested on their 1.1.3(d), 2.1.1(m), 2.1.3(d),
+from a graph showing a ability to: 2.2.4(e), 3.2.1(g), 4.1.1(g),
+linear relationship 4.1.2(c) (d) (h), 4.3.1(c), 4.3.1(d),
+• calculate a rate from a graph,
+4.3.1(g), 4.3.2(a), 5.2.1(f)
+e.g. rate of transpiration.
+M3.6 Draw and use the slope of Learners may be tested on their 1.1.3(d), 2.1.1(m), 2.1.3(d),
+a tangent to a curve as a ability to: 2.2.4(e), 3.2.1(g), 4.1.1(g),
+measure of rate of change 4.1.2(h)
+• use this method to measure
+the gradient of a point on a
+curve, e.g. amount of product
+formed plotted against time
+when the concentration of
+enzyme is fixed.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 75
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Biology (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M4 – Geometry and trigonometry
+M4.1 Calculate the Learners may be tested on their 2.1.1(e), 2.1.1(i), 2.2.1(a),
+circumferences, surface ability to: 2.2.4(e), 3.2.3(g)
+areas and volumes of
+• calculate the circumference
+regular shapes
+and area of a circle
+• calculate the surface area and
+volume of rectangular prisms,
+of cylindrical prisms and of
+spheres
+• e.g. calculate the surface area
+or volume of a cell.
+5
+Version 3.0 © OCR 2025
+76 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Definition of Level 2 mathematics
+Within A Level Biology, 10% of the marks available • questions involving use of A level mathematical
+within written examinations will be for assessment of content (as of 2012), e.g. use of logarithmic
+mathematics (in the context of biology) at a Level 2 equations.
+standard, or higher. Lower level mathematical skills will
+The following will not be counted as Level 2
+still be assessed within examination papers but will not
+mathematics:
+count within the 10% weighting for biology.
+• simple substitution with little choice of equation
+The following will be counted as Level 2 (or higher)
+or data
+mathematics:
+• structured question formats using GCSE
+• application and understanding requiring choice
+mathematics (based on 2012 GCSE mathematics
+of data or equation to be used
+content).
+• problem solving involving use of mathematics
+Additional guidance on the assessment of mathematics
+from different areas of maths and decisions
+within biology is available on the OCR website as a
+about direction to proceed
+separate resource, the Maths Skills Handbook.
+5
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 77
+5e. Advance Notice for component 02
+The A Level in Biology B (Advancing Biology) 5. You will not have time to read this article for
+specification places a particular emphasis on the the first time in the examination if you are to
+development of scientific literacy skills, which are complete the examination paper within the
+assessed at the end of the course using a pre-release specified time. However, you should refer to the
+Advance Notice article (also included as part of article when answering the questions.
+the examination paper for component H422/02).
+The Advance Notice will be a scientific article/s Notes for guidance (teachers)
+related to the content within the specification and
+1. This Advance Notice material should be issued
+questions related to the Advance Notice will be worth
+to candidates on or after the date shown on the
+20–25 marks.
+front cover of the candidate instructions sheet
+The Advance Notice will be available for download via at the discretion and convenience of the centre.
+the OCR website on 13 March each year (starting from Candidates can be given the material at any
+13 March 2017 for the first A level assessment in June point, but it is suggested that this should be at
+2017) to enable teachers and learners sufficient time least four weeks before the examination date.
+to work through the information provided.
+2. Candidates will need to read the article carefully.
+The instructions for teachers and candidates that will Time can be built into the teaching programme
+accompany the Advance Notice article are summarised to introduce the article content. Candidates
+5 below: should be able to discuss the article freely and be
+given support and advice in the interpretation of
+Notes for guidance (candidates) the content so that they are able to answer the
+questions based on the article in the externally
+1. This leaflet contains an article/s which is needed assessed examination. Candidates should also be
+in preparation for questions in the externally encouraged to investigate the topics covered in
+assessed examination H422/02 Scientific literacy the article for themselves.
+in biology.
+3. Candidates will be expected to apply their
+2. You will need to read the article carefully and also knowledge and understanding of the content
+have covered the Learning outcomes for A Level in A Level in Biology B (Advancing Biology)
+in Biology B (Advancing Biology). The examination to questions based on the article. There are
+paper will contain questions on the article/s. You 20–25 marks available on the paper for these
+will be expected to apply your knowledge and questions.
+understanding of the work covered in A Level in
+Biology B (Advancing Biology) to answer these The Advance Notice material must not be taken into
+questions. There are 20–25 marks available on the examination. The examination paper H422/02
+the question paper for these questions. will contain a fresh copy of the article, as an insert.
+Candidates should be reminded that they do not have
+3. You can seek advice from your teacher about the sufficient time during the examination to read the
+content of the article and you can discuss it with article for the first time. They should, however, refer
+others in your class. You may also investigate the to the article printed in the insert in the examination
+topic yourself using any resources available to paper to help them to answer the questions.
+you.
+4. You will not be able to bring your copy of the
+article, or other materials, into the examination.
+The examination paper will contain a fresh copy
+of the article as an insert.
+Version 3.0 © OCR 2025
+78 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+5f. Health and Safety
+In UK law, health and safety is primarily the Where an employer has adopted model risk
+responsibility of the employer. In a school or college assessments an individual school or college then has
+the employer could be a local education authority, to review them, to see if there is a need to modify
+the governing body or board of trustees. Employees or adapt them in some way to suit the particular
+(teachers/lecturers, technicians etc.), have a legal duty conditions of the establishment.
+to cooperate with their employer on health and safety
+matters. Various regulations, but especially the COSHH Such adaptations might include a reduced scale of
+Regulations 2002 (as amended) and the Management working, deciding that the fume cupboard provision
+of Health and Safety at Work Regulations 1999, was inadequate or the skills of the candidates were
+require that before any activity involving a hazardous insufficient to attempt particular activities safely. The
+procedure or harmful microorganisms is carried significant findings of such risk assessment should
+out, or hazardous chemicals are used or made, the then be recorded in a “point of use text”, for example
+employer must carry out a risk assessment. A useful on schemes of work, published teachers guides, work
+summary of the requirements for risk assessment in sheets, etc. There is no specific legal requirement that
+school or college science can be found at http://www. detailed risk assessment forms should be completed
+ase.org.uk/resources/health-and-safety-resources/risk- for each practical activity, although a minority of
+assessments employers may require this.
+For members, the CLEAPSS® guide, PS90, Making and Where project work or investigations, sometimes
+recording risk assessments in school science1 offers linked to work-related activities, are included in 5
+appropriate advice. specifications this may well lead to the use of novel
+procedures, chemicals or microorganisms, which are
+Most education employers have adopted nationally not covered by the employer’s model risk assessments.
+available publications as the basis for their Model Risk The employer should have given guidance on how
+Assessments. to proceed in such cases. Often, for members, it will
+involve contacting CLEAPSS®.
+1 These, and other CLEAPSS® publications, are on the CLEAPSS® Science Publications website www.cleapss.org.uk. Note that
+CLEAPSS® publications are only available to members. For more information about CLEAPSS® go to www.cleapss.org.uk.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 79
+5g. Practical endorsement
+The Practical Endorsement is common across B (Advancing Physics). It requires a minimum of 12
+Chemistry A and Chemistry B (Salters)/Biology A and practical activities to be completed from the Practical
+Biology B (Advancing Biology) /Physics A and Physics Activity Groups (PAGs) defined below (Fig. 1).
+12
+Investigative Research
+skills
+10 11
+Investigation Investigation
+using a data into the
+logger OR measurement
+computer of plant or
+modelling animal responses
+6 7 8 9
+5
+Specific ChromatographyMicrobiological Transport in Qualitative
+techniques OR techniques and out of testing
+electrophoresis cells
+1 2 3 4 5
+Core Microscopy Dissection Sampling Rates of Colorimeter
+techniques techniques enzyme OR
+controlled potometer
+reactions
+Fig. 1 OCR’s Practical Activity Groups (PAGs), also see Table 1
+Version 3.0 © OCR 2025
+80 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+A
+Level
+in
+Biology
+B
+(Advancing
+Biology)
+81
+Version
+3.0
+©
+OCR
+2025
+5
+Table 1 Practical activity requirements for the OCR Biology Practical Endorsement
+Practical activity group (PAG) Techniques/skills covered (minimum) Example of a suitable practical Specification reference
+activity (a range of examples will be (examples)
+available from the OCR website and
+centres can devise their own activity)
+1 Microscopy • Use of a light microscope at high power and low Using a light microscope to study 2.1.1(a) (c) (d) (e) (i), 2.2.3(a),
+power, use of a graticule1 mitosis 3.1.1(b), 3.1.2(b), 3.2.3(h),
+4.1.2(k), 4.2.1(b), 4.3.1(h),
+• Production of scientific drawings from
+observations with annotations2 5.2.1(a), 5.2.2(b), 5.2.3(b),
+5.3.2(a), 5.3.3(c)
+2 Dissection • Safe use of instruments for dissection of an Dissection of the mammalian heart 2.2.1(a), 2.2.4(c), 5.3.3(b),
+animal or plant organ 4.4.1(b)
+• Use of a light microscope at high power and low
+power, use of a graticule1
+• Production of scientific drawings from
+observations with annotations2
+3 Sampling techniques • Use of sampling techniques in fieldwork The calculation of species diversity 4.3.1(m)
+• Production of scientific drawings from
+observations with annotations2
+4 Rates of enzyme controlled • Use of appropriate apparatus to record a range The effect of substrate concentration 2.1.3(d), 4.3.1(d)
+reactions of quantitative measurements (to include mass, on the rate of an enzyme controlled
+time, volume, temperature, length and pH)3 reaction
+• Use of laboratory glassware apparatus for a
+variety of experimental techniques to include
+serial dilutions4
+• Use of ICT such as computer modelling, or data
+logger to collect data, or use of software to
+process data 5
+)
+82
+Cambridge
+OCR
+Level
+3
+Advanced
+GCE
+in
+Biology
+B (Advancing
+Biology)
+Version
+3.0
+©
+OCR
+2025
+5
+Practical activity group (PAG) Techniques/skills covered (minimum) Example of a suitable practical Specification reference
+activity (a range of examples will be (examples)
+available from the OCR website and
+centres can devise their own activity)
+5 Colorimeter OR potometer • Use of appropriate instrumentation to record The effect of temperature on 2.1.2(c) (f), 2.2.4(e)
+quantitative measurements, such as a colorimeter membrane permeability
+or potometer
+• Use of laboratory glassware apparatus for a
+variety of experimental techniques to include
+serial dilutions4
+6 Chromatography OR • Separation of biological compounds using thin Identification of the amino acids in a 2.1.3(a), 4.3.1(a), 5.1.3(d)
+electrophoresis layer / paper chromatography or electrophoresis protein using paper chromatography
+7 Microbiological techniques • Use of laboratory glassware apparatus for a The effect of antibiotics on bacterial 3.2.3(h)
+variety of experimental techniques to include growth
+serial dilutions4
+• Use of microbiological aseptic techniques,
+including the use of agar plates and broth
+8 Transport in and out of • Use of appropriate apparatus to record a range An investigation into the water 2.1.1(m), 2.1.2(h)
+cells of quantitative measurements (to include mass, potential of potato
+time, volume, temperature, length and pH)3
+• Use of laboratory glassware apparatus for a
+variety of experimental techniques to include
+serial dilutions4
+• Use of ICT such as computer modelling, or data
+logger to collect data, or use of software to
+process data5
+9 Qualitative testing • Use of laboratory glassware apparatus for a Qualitative testing for biological 2.1.2(c) (f), 5.3.3(c) (f)
+variety of experimental techniques to include molecules – proteins
+serial dilutions4
+• Use of qualitative reagents to identify biological
+molecules
+A
+Level
+in
+Biology
+B
+(Advancing
+Biology)
+83
+Version
+3.0
+©
+OCR
+2025
+5
+Practical activity group (PAG) Techniques/skills covered (minimum) Example of a suitable practical Specification reference
+activity (a range of examples will be (examples)
+available from the OCR website and
+centres can devise their own activity)
+10 Investigation using a • Use of ICT such as computer modelling, or data Investigating DNA structure using 2.2.1(e), 2.2.3(c), 4.1.2(d), 5.3.1(e)
+data logger OR computer logger to collect data, or use of software to RasMol
+modelling process data5
+11 Investigation into the • Safe and ethical use of organisms to measure Investigation into the effect of 2.2.1(e), 2.2.3(c), 4.1.2(d), 5.3.1(e)
+measurement of plant or plant or animal responses and physiological exercise on pulse rate
+animal responses functions
+12 Research skills • Apply investigative approaches Investigation into the respiration rate 5.2.1(f)
+of Saccharomyces cerevisiae
+• Use online and offline research skills
+• Correctly cite sources of information
+1,2,3,4,5 These techniques/skills may be covered in any of the groups indicated.
+It is expected that the following skills will be developed across all activities, regardless of the exact selection of activities. The ability to:
+• safely and correctly use a range of practical equipment and materials (1.2.1 b)
+• follow written instructions (1.2.1 c)
+• keep appropriate records of experimental activities (1.2.1 e)
+• make and record observations/measurements (1.2.1 d)
+• present information and data in a scientific way (1.2.1 f)
+• use a wide range of experimental and practical instruments, equipment and techniques (1.2.1 j).
+The practical activities can be completed at any point 1.2.2), will receive a ‘Pass’ grade (note that the
+during the two year A level course at the discretion of practical activity tracker available from OCR
+the centre. Candidates starting from a standalone AS allows confirmation that the activities selected
+can count A level practical activities carried out during cover all the requirements).
+the AS year towards the A level Practical Endorsement
+• There will be no direct assessment of practical
+provided that they are appropriately recorded. It is
+skills for AS qualifications
+recommended therefore that candidates starting AS
+maintain a record of practical activities carried out (e.g. • Students will answer questions in the AS
+this could be in the form of a ‘log book’ or ‘practical and A level examination papers that assess
+portfolio’) that could be counted towards the Practical the requirements of Appendix 5a (Practical
+Endorsement. For candidates who then decide to skills identified for indirect assessment and
+follow a full A level, having started from AS, they can developed through teaching and learning,
+carry this record with them into their A level study. covered in Section 1.1) from the prescribed
+subject content, published by the Department
+The assessment of practical skills is a compulsory
+for Education. These questions may draw on, or
+requirement of the course of study for A level
+range beyond, the practical activities included in
+qualifications in biology. It will appear on all
+the specification.
+students’ certificates as a separately reported result,
+alongside the overall grade for the qualification. The In order to achieve a pass, students will need to:
+arrangements for the assessment of practical skills
+are common to all awarding organisations. These • develop these competencies by carrying out
+arrangements include: a minimum of 12 practical activities (PAG1
+5
+to PAG12), which allow acquisition of all the
+• A minimum of 12 practical activities to be carried skills, apparatus and techniques outlined in the
+out by each student which, together, meet the requirements of the specification (Sections 1.2.1
+requirements of Appendices 5b (Practical skills and 1.2.2)
+identified for direct assessment and developed
+• consistently and routinely exhibit the
+through teaching and learning, covered in
+competencies listed in the CPAC (Table 2) before
+Section 1.2.1) and 5c (Use of apparatus and
+the completion of the A-level course
+techniques, covered in Section 1.2.2) from
+the prescribed subject content, published by
+• keep an appropriate record of their practical
+the Department for Education. The required
+work, including their assessed practical activities
+practical activities are defined by each awarding
+organisation (see Fig. 1 and Table 1) • be able to demonstrate and/or record
+independent evidence of their competency,
+• Teachers will assess students against Common
+including evidence of independent application
+Practical Assessment Criteria (CPAC) issued by
+of investigative approaches and methods to
+the awarding organisations. The CPAC (see
+practical work.
+Table 2) are based on the requirements of
+Appendices 5b and 5c of the subject content The practical activities prescribed in the subject
+requirements published by the Department for specification (PAG1 to PAG12) will provide
+Education, and define the minimum standard opportunities for demonstrating competence in all the
+required for the achievement of a pass. skills identified, together with the use of apparatus and
+techniques for each subject. However, students can
+• Each student will keep an appropriate record
+also demonstrate these competencies in any additional
+of their practical work, including their assessed
+practical activity undertaken throughout the course of
+practical activities
+study which covers the requirements of appendix 5b
+and 5c (covered in Sections 1.2.1 and 1.2.2).
+• Students who demonstrate the required
+standard across all the requirements of the
+Students may work in groups but teachers who award
+CPAC, incorporating all the skills, apparatus and
+a pass to their students need to be confident of
+techniques (as defined in Sections 1.2.1 and
+individual students’ competence.
+Version 3.0 © OCR 2025
+84 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Table 2 Common Practical Assessment Criteria (CPAC) for the assessment of practical competency in A Level
+sciences
+Competency Practical Mastery
+In order to be awarded a Pass a Learner must, by the end of the practical science
+assessment, consistently and routinely meet the criteria in respect of each
+competency listed below. A Learner may demonstrate the competencies in any
+practical activity undertaken as part of that assessment throughout the course of
+study.
+Learners may undertake practical activities in groups. However, the evidence
+generated by each Learner must demonstrate that he or she independently meets
+the criteria outlined below in respect of each competency. Such evidence –
+a) will comprise both the Learner’s performance during each practical activity and
+his or her contemporaneous record of the work that he or she has undertaken
+during that activity, and
+b) must include evidence of independent application of investigative approaches
+and methods to practical work.
+(1) Follows written a) Correctly follows instructions to carry out experimental techniques or
+procedures procedures.
+5
+(2) Applies investigative a) Correctly uses appropriate instrumentation, apparatus and materials (including
+approaches and ICT) to carry out investigative activities, experimental techniques and procedures
+methods when using with minimal assistance or prompting.
+instruments and
+b) Carries out techniques or procedures methodically, in sequence and in
+equipment
+combination, identifying practical issues and making adjustments when necessary.
+c) Identifies and controls significant quantitative variables where applicable, and
+plans approaches to take account of variables that cannot readily be controlled.
+d) Selects appropriate equipment and measurement strategies in order to ensure
+suitably accurate results.
+(3) Safely uses a range of a) Identifies hazards and assesses risks associated with these hazards, making
+practical equipment and safety adjustments as necessary, when carrying out experimental techniques and
+materials procedures in the lab or field.
+b) Uses appropriate safety equipment and approaches to minimise risks with
+minimal prompting.
+(4) Makes and records a) Makes accurate observations relevant to the experimental or investigative
+observations procedure.
+b) Obtains accurate, precise and sufficient data for experimental and investigative
+procedures and records this methodically using appropriate units and conventions.
+(5) Researches, a) Uses appropriate software and/or tools to process data, carry out research and
+references and reports report findings.
+b) Cites sources of information, demonstrating that research has taken place,
+supporting planning and conclusions.
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 107299/4 85
+Choice of activity (iii) using activities devised by the centre and
+mapped against Section 1.2 of the specification
+Centres can include additional skills, apparatus and and the CPAC
+techniques within an activity (PAG) beyond those listed
+as the minimum in Table 1 or in the published practical (iv) using activities from external sources such as the
+activities. They may also carry out more than the learned societies, mapped against Section 1.2 of
+minimum 12 practical activities required to meet the the specification and the CPAC
+Practical Endorsement.
+Centres can receive guidance on the suitability of
+their own practical activities or against any of the
+To achieve a Pass within the Practical Endorsement,
+options within (ii) to (iv) above through our free
+candidates must have demonstrated competence in
+practical assessment support service by emailing
+all the skills, apparatus and techniques detailed in
+pass@ocr.org.uk.
+Sections 1.2.1 and 1.2.2 of the specification by carrying
+out a minimum of 12 assessed practical activities
+Where centres devise their own practical activity or
+(covering all of PAG1 to PAG12) and achieved the level
+use an alternative activity, that practical activity must
+of competence defined within the Common Practical
+be of a level of demand appropriate for A level.
+Assessment Criteria (Table 2).
+Practical Activity Groups 1 to 12 can be achieved
+The minimum of 12 activities can be met by:
+through more than one centre devised practical
+activity, and centres are not limited to 12 practical
+(i) using OCR suggested activities (provided as
+activities such that a centre could, for instance, split
+resources from Interchange, or by contacting
+PAG8 into two activities of their own (rather than one)
+5 pass@ocr.org.uk should you be unable to access
+with the two activities fulfilling the requirements.
+Interchange)
+Alternatively it could be possible that an extended
+(ii) modifying OCR suggested activities to match activity may cover the requirements of more than one
+available equipment whilst fulfilling the same group, in which case the centre could then select an
+skills, apparatus and techniques and CPAC additional activity from another group to achieve the
+required minimum of 12 practical activities.
+Version 3.0 © OCR 2025
+86 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+5h. Revision of the requirements for practical work
+OCR will review the Practical Endorsement detailed in If any revision to the Practical Endorsement is made,
+Section 5g of this specification following any revision OCR will produce an amended specification which
+by the Secretary of State of the skills, apparatus or will be published on the OCR website. OCR will then
+techniques specified in respect of A Level Biology B use the following methods to communicate the
+(Advancing Biology). amendment to centres: subject information update
+emailed sent to all Examinations Officers, e-alerts to
+OCR will revise the Practical Endorsement if centres that have registered to teach the qualification
+appropriate. and social media.
+5
+Version 3.0 © OCR 2025
+A Level in Biology B (Advancing Biology) 87
+Summary of updates
+Date Version Section Title of section Change
+December 2 Multiple Changes to generic wording and OCR
+2017 website links throughout the
+specification. No changes have been
+made to any assessment requirements.
+April 2018 2.1 Front Cover Disclaimer Addition of Disclaimer
+May 2018 2.2 4a Head of Centre Update in line with new NEA Centre
+Annual Declaration Declaration form.
+October 2.3 3d Retaking the Update the wording for carry forward
+2018 Qualification rules.
+4a Admin of non-exam
+assessment
+Multiple Reinstatement of black lines in margins
+5
+January 2020 2.4 1d How do I find out Delete reference to OCR Social
+more information? Community and replace with link to
+Online Support Centre
+4f Post-results services Delete reference to Enquiries About
+Results and replace with review of results
+Update to specification covers to meet
+digital accessibility standards.
+December 2.5 4a Pre-assessment Changes to practical endorsement
+2020 requirements and advice.
+Update to specification covers to meet
+digital accessibility standards
+April 2023 2.6 3c Total qualification Update to include total qualification time
+time and guided learning hours to comply with
+QiW regulations
+March 2023 2.7 3d, 3e Qualification Inclusion of disclaimer regarding
+availability, Language availability and language
+4a Pre-assessment Update to include resilience guidance
+Checklist Inclusion of Teach Cambridge
+November 3.0 Covers, page Updated covers, footers and certificate
+2025 footers, section title to reflect the new Cambridge OCR
+1a and 4e brand. Inside cover includes statement:
+‘About our new name’. Minor rewording
+in generic section 1a.
+Version 3.0 © OCR 2025
+88 Cambridge OCR Level 3 Advanced GCE in Biology B (Advancing Biology)
+)
+Contact the team at:
+01223 553998
+scienceGCE@ocr.org.uk
+ocr.org.uk
+To stay up to date with all the relevant news about our qualifications, register
+for email updates at ocr.org.uk/updates
+Visit our Online Support Centre at support.ocr.org.uk
+Sign up for Teach Cambridge to access your planning, teaching and
+assessment support material.
+Cambridge OCR is part of Cambridge University Press & Assessment, a department of the University of Cambridge.
+Cambridge OCR is a Company Limited by Guarantee and an exempt charity. Registered in England.
+Registered office: The Triangle Building, Shaftesbury Road, Cambridge, CB2 8EA. Registered company number: 3484466.
+We operate academic and vocational qualifications regulated by Ofqual, Qualifications Wales and CCEA as listed in their qualifications registers.
+We are committed to providing a fully accessible experience across all our products, platforms, and websites. Find out more about our accessibility standards.
+© Cambridge OCR 2025. All rights reserved. We retain the copyright on all our publications. However, our registered centres are permitted to copy and distribute our material for their
+own internal use, in line with any specific restrictions detailed in the publication. Find out more about our copyright policies.
+We update our publications regularly so please check you have the most up-to-date version.
+We cannot be held responsible for the persistence or accuracy of URLs for external or third-party internet websites referred to in this publication and do not guarantee that any
+content on such websites is, or will remain, accurate or appropriate.
+When we update our specifications, you’ll see a new version number and a summary of the changes. While we do our best to reflect these changes in all associated resources on
+Teach Cambridge, if you notice any discrepancies, please refer to the latest specification on our website and let us know.
+Our resources do not represent any teaching method we expect you to use. We cannot be held responsible for any errors or omissions in our resources.

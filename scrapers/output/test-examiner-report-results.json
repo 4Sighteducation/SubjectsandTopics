@@ -1,0 +1,120 @@
+{
+  "report": {
+    "name": "OCR Biology A - June 2024 - Paper 3 - Examiner Report",
+    "url": "https://www.ocr.org.uk/Images/726425-examiners-report-unified-biology.pdf"
+  },
+  "extraction": {
+    "insights": {
+      "general_comments": "Overall students performed well on AO1 questions, but found AO2 and AO3 more challenging. Time management was generally good, and most candidates used the additional spaces well.",
+      "question_insights": [
+        {
+          "question_number": "1(a)(i)",
+          "average_performance": "good",
+          "common_errors": [
+            "Some students wrote 'tail' or 'cilia' instead of 'flagellum'."
+          ],
+          "good_practice": [
+            "Correct spelling of the term 'flagellum'."
+          ],
+          "advice_for_students": "Ensure accurate spelling of key biological terms.",
+          "examiner_comments": "The majority of candidates answered this correctly and were able to correctly spell the term flagellum."
+        },
+        {
+          "question_number": "1(a)(ii)",
+          "average_performance": "satisfactory",
+          "common_errors": [
+            "Attempted to calculate size from the diagram without magnification information.",
+            "Used incorrect units, such as nm instead of µm."
+          ],
+          "good_practice": [
+            "Used reasonable estimates based on knowledge."
+          ],
+          "advice_for_students": "Familiarize yourself with typical cell sizes and unit conversions.",
+          "examiner_comments": "Most candidates gained this mark, however, some used incorrect units."
+        },
+        {
+          "question_number": "1(b)(i)",
+          "average_performance": "poor",
+          "common_errors": [
+            "Repeated the experiment without clarifying it involved using fresh cultures.",
+            "Did not address mixing at each stage."
+          ],
+          "good_practice": [
+            "Described the importance of mixing and reducing transfer errors."
+          ],
+          "advice_for_students": "Focus on procedural details and aseptic techniques to improve accuracy.",
+          "examiner_comments": "Good answers described how the accuracy could be improved with fewer transfers or better mixing."
+        },
+        {
+          "question_number": "1(b)(ii)",
+          "average_performance": "good",
+          "common_errors": [
+            "Did not show working for intermediate steps.",
+            "Failed to convert final answers to standard form."
+          ],
+          "good_practice": [
+            "Showed working for each calculation step."
+          ],
+          "advice_for_students": "Always show detailed working to gain partial marks.",
+          "examiner_comments": "Most candidates attempted this question well, showing their calculations."
+        },
+        {
+          "question_number": "1(c)",
+          "average_performance": "excellent",
+          "common_errors": [
+            "Provided generic answers without supporting detail."
+          ],
+          "good_practice": [
+            "Identified reasons such as short lifecycle, ethical considerations, and growth cost."
+          ],
+          "advice_for_students": "Provide specific and detailed reasoning in your answers.",
+          "examiner_comments": "Most candidates identified the short life cycle as a reason for E. coli use."
+        },
+        {
+          "question_number": "2(a)",
+          "average_performance": "satisfactory",
+          "common_errors": [
+            "Gave vague improvements like 'collect more data'.",
+            "Mentioned impractical changes to the method."
+          ],
+          "good_practice": [
+            "Described larger sample sizes and stratified sampling."
+          ],
+          "advice_for_students": "Explain improvements clearly and relate them to the study's context.",
+          "examiner_comments": "Many candidates gained marks by suggesting better sampling techniques."
+        },
+        {
+          "question_number": "2(b)(i)",
+          "average_performance": "good",
+          "common_errors": [
+            "Failed to describe fine data details.",
+            "Omitted comparisons between groups."
+          ],
+          "good_practice": [
+            "Provided comparative quotes from data trends."
+          ],
+          "advice_for_students": "Include detailed data comparisons to enhance analysis.",
+          "examiner_comments": "Candidates generally did well, but more detail was needed in their data commentary."
+        },
+        {
+          "question_number": "2(b)(ii)",
+          "average_performance": "poor",
+          "common_errors": [
+            "Misinterpreted graph data regarding threat levels.",
+            "Focused on single data points."
+          ],
+          "good_practice": [
+            "Assessed data in a broader context, considering multiple threats."
+          ],
+          "advice_for_students": "Evaluate data contextually and incorporate multiple evidence points.",
+          "examiner_comments": "Many struggled with this question's evaluation, focusing on incorrect data interpretations."
+        }
+      ]
+    },
+    "usage": {
+      "prompt_tokens": 37895,
+      "completion_tokens": 952,
+      "total_tokens": 38847
+    }
+  }
+}

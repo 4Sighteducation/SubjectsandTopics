@@ -1,0 +1,105 @@
+Here is the extracted hierarchy from the OCR Law component "The legal system and criminal law (H418_01)":
+
+1 The legal system and criminal law
+   1.1 Section A: The legal system
+      1.1.1 Civil courts and other forms of dispute resolution
+         1.1.1.1 County Court and High Court: jurisdictions, pre-trial procedures, the three tracks
+            1.1.1.1.1 the jurisdictions of the County Court and the three divisions of the High Court
+         1.1.1.2 Appeals and appellate courts
+            1.1.1.2.1 grounds/reasons to appeal
+            1.1.1.2.2 First appeal from the three tracks, further appeal to the Court of Appeal (Civil Division), High Court Appeals, Appeal from the Court of Appeal (Civil Division)
+         1.1.1.3 Employment tribunals and Alternative Dispute Resolution
+            1.1.1.3.1 how employment tribunals work
+            1.1.1.3.2 negotiation, mediation, conciliation and arbitration
+         1.1.1.4 Advantages and disadvantages of using the civil courts and Alternative Dispute Resolution to resolve disputes
+      1.1.2 Criminal courts and lay people
+         1.1.2.1 Criminal process: jurisdiction of the Magistrates’ Court and the Crown Court, including classification of offences and pre-trial procedures
+            1.1.2.1.1 summary offences, triable either-way offences, indictable offences and their pre-trial procedures
+            1.1.2.1.2 grounds/reasons to appeal
+            1.1.2.1.3 appeals to the Crown Court, Case stated appeal to the Queen's Bench Divisional Court, Appeals to the Court of Appeal (Criminal Division) and Appeals to the UKSC
+         1.1.2.2 Sentencing and court powers: aims, factors and types of sentences for adults
+            1.1.2.2.1 the aims of sentencing set out in s142 Criminal Justice Act 2003
+            1.1.2.2.2 custodial and non-custodial sentences for adults
+         1.1.2.3 Lay magistrates and juries: qualifications, selection, appointment and their role in criminal cases
+         1.1.2.4 The advantages and disadvantages of using juries in criminal cases
+      1.1.3 Legal personnel
+         1.1.3.1 Barristers, solicitors and legal executives: role and the regulation of legal professions
+            1.1.3.1.1 how the legal professions are regulated
+         1.1.3.2 The judiciary: types and role in civil and criminal courts
+            1.1.3.2.1 the different levels of judges and their respective roles
+            1.1.3.2.2 how judicial independence is achieved: security of tenure, immunity from suit, independence from the other two arms of the state and independence from the case
+         1.1.3.3 The separation of powers and the independence of the judiciary
+         1.1.3.4 Evaluation of the judiciary, including the advantages of judicial independence
+      1.1.4 Access to justice
+         1.1.4.1 Government funding for civil and criminal cases
+            1.1.4.1.1 the Legal Aid Agency: availability and restrictions on government funding for civil and criminal cases
+         1.1.4.2 Private funding, conditional fees, other advice agencies
+            1.1.4.2.1 other advice agencies could include Citizens Advice, Law Centres, Pro Bono Units, Free Representation Units, Trade Unions, Insurance companies and Charities
+            1.1.4.2.2 impact of the changes to the legal aid budget
+   1.2 Section B: Criminal law
+      1.2.1 Rules and theory
+         1.2.1.1 An outline of the rules of criminal law
+            1.2.1.1.1 definition of crime
+         1.2.1.2 An overview of the theories of criminal law
+            1.2.1.2.1 sources of criminal law
+            1.2.1.2.2 the elements of criminal liability
+            1.2.1.2.3 those involved in a criminal case – prosecution and defence
+            1.2.1.2.4 the burden of proof, the standard of proof and reverse onus
+            1.2.1.2.5 the aims and purpose of criminal law
+            1.2.1.2.6 the principles of criminal law
+      1.2.2 General elements of criminal liability
+         1.2.2.1 Actus reus: conduct and consequence crimes; voluntary acts and omissions; involuntariness; causation
+            1.2.2.1.1 conduct and consequence crimes; voluntary acts and state of affairs; categories of omissions; factual and legal causation, ways the chain of causation can be broken
+         1.2.2.2 Mens rea: fault; intention and subjective recklessness; negligence and strict liability; transferred malice; coincidence of actus reus and mens rea
+            1.2.2.2.1 direct and oblique intention, subjective recklessness, negligence and gross negligence, strict liability including the methods used to establish whether an offence is a strict liability offence, transferred malice, coincidence of actus reus and mens rea
+      1.2.3 Fatal offences against the person
+         1.2.3.1 Murder: actus reus and mens rea
+            1.2.3.1.1 definition of murder; the actus reus and mens rea requirements of the offence
+         1.2.3.2 Voluntary manslaughter: defences of loss of control and diminished responsibility under Coroners and Justice Act 2009
+            1.2.3.2.1 the partial defence of loss of control (s54 Coroners and Justice Act 2009)
+            1.2.3.2.2 the partial defence of diminished responsibility (s2(1) Homicide Act 1957 as amended by s52 Coroners and Justice Act 2009)
+         1.2.3.3 Involuntary manslaughter: unlawful act manslaughter and gross negligence manslaughter
+            1.2.3.3.1 actus reus and mens rea of unlawful act manslaughter
+            1.2.3.3.2 actus reus and mens rea of gross negligence manslaughter
+      1.2.4 Non-fatal offences against the person
+         1.2.4.1 Common assault: assault and battery under s39 Criminal Justice Act 1988
+            1.2.4.1.1 definition of assault
+            1.2.4.1.2 actus reus and mens rea of assault
+            1.2.4.1.3 actus reus and mens rea of battery
+         1.2.4.2 Assault occasioning actual bodily harm, wounding and grievous bodily harm under s47, s20, s18 Offences Against the Person Act 1861
+            1.2.4.2.1 actus reus and mens rea under s47 Offences Against the Person Act 1861
+            1.2.4.2.2 actus reus and mens rea under s20 Offences Against the Person Act 1861
+            1.2.4.2.3 actus reus and mens rea under s18 Offences Against the Person Act 1861
+      1.2.5 Offences against property
+         1.2.5.1 Theft under s1 Theft Act 1968
+            1.2.5.1.1 definition of theft, robbery and burglary
+         1.2.5.2 Robbery under s8 Theft Act 1968
+            1.2.5.2.1 actus reus and mens rea of theft
+         1.2.5.3 Burglary under s9(1)(a) and s9(1)(b) Theft Act 1968
+            1.2.5.3.1 actus reus and mens rea of robbery
+            1.2.5.3.2 actus reus and mens rea of burglary
+      1.2.6 Mental capacity defences
+         1.2.6.1 Insanity, automatism, intoxication
+            1.2.6.1.1 definition of insanity, automatism and intoxication
+            1.2.6.1.2 starting point for the defence; M’Naghten rules; consequences of an insanity verdict; non-insane automatism
+            1.2.6.1.3 voluntary and involuntary intoxication
+      1.2.7 General defences
+         1.2.7.1 Self-defence, duress by threats, duress of circumstances and necessity
+            1.2.7.1.1 the defence of self-defence and how it can be applied; reasonable and necessary force
+            1.2.7.1.2 definition of and rules for duress by threats defences
+            1.2.7.1.3 definitions and rules for duress of circumstances and necessity defences
+         1.2.7.2 Consent
+            1.2.7.2.1 definition of consent and the main rules / elements of the defence
+      1.2.8 Preliminary offences
+         1.2.8.1 Attempts: the actus reus and mens rea; impossibility
+            1.2.8.1.1 actus reus and mens rea of attempt
+            1.2.8.1.2 factual and legal impossibility
+      1.2.9 Evaluation
+         1.2.9.1 Critical evaluation of: Common frameworks include whether an area of non-fatal offences or defence is:
+            1.2.9.1.1 fit for purpose
+            1.2.9.1.2 up-to-date
+            1.2.9.1.3 just or unjust
+            1.2.9.1.4 effective or ineffective
+            1.2.9.1.5 balances principle and policy
+            1.2.9.1.6 fair or unfair
+            1.2.9.1.7 based on sound moral principles

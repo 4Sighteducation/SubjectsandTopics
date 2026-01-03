@@ -1,0 +1,724 @@
+Component 1 17.5% 16% 6.5%
+Component 2 17.5% 16% 6.5%
+Component 3 - 3% 17%
+Total 35% 35% 30%
+Non-exam assessment accounts for 20% of this A level. In this specification, non-
+exam assessment is a project. This is a substantial piece of work, undertaken over
+an extended period of time.
+Component 3 for the A level examination requires the candidate to discuss,
+investigate, design, prototype, refine the design, implement, test and evaluate a
+computerised solution to a problem chosen by the candidate.
+The work undertaken in this component will be the discussion, investigation, design,
+prototyping, refinement of design, implementation, testing and evaluation of a
+solution to a problem chosen by the candidate. It should demonstrate the discussion,
+investigation, design, prototyping, refinement of design, implementation, testing and
+evaluation skills involved in problem solving using a computer and include the
+development of a piece of work over an extended period of time. The candidate
+should produce a word-processed report of the work carried out.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 22
+During the discussion stage of the project, candidates should discuss their intended
+task with teachers and peers prior to commencing the investigation; the teacher
+should note the intended scope of candidates’ projects at this stage.
+Following the prototype stage of the project, candidates are required to discuss their
+prototype in technical terms with their teacher and peers. The teacher should make a
+note of candidate progress and understanding of the work produced. Peers may offer
+feedback on the work at this stage.
+The work for Component 3 must include the development of software in either a
+general purpose or a special purpose high-level language. The system proposed by
+the candidate may consist of one integrated program or a suite of related programs.
+The candidate's teacher will be expected to mark the candidate's work and note on
+the Centre Mark Sheet the nature of any assistance given and the extent to which the
+solution actually works as stated in the report. Candidate work and documentation
+may be annotated by the teacher in order to justify marks awarded.
+The assessment grids
+When assessing Component 3, teachers should study the assessment grids
+(Appendix B), which are designed to present a system that links the assessment
+objectives to marks, and which helps to discriminate clearly between the varying
+levels of achievement.
+The grids will be of most value when used in conjunction with examples of non-exam
+assessment which will be issued annually to help centres identify the quality of work
+associated with the various mark bands.
+Teachers must make specific reference to the assessment objectives in the
+comments they write on the work and on the coversheets.
+Submission of assessments
+Candidate work for Component 3 should be submitted to WJEC electronically. The
+submission should include a functioning copy of the solution and supporting
+documents in portable document format (pdf).
+Candidates should make use of the electronic front sheet saved in html format.
+Each heading on the sheet should be hyperlinked to a pdf version of the write-up for
+that particular requirement of the specification.
+Each candidate’s work should be saved in a separate folder labelled with the centre
+number, candidate number and the first two initials of the candidate's surname and
+the first initial of the candidate’s first name. For example, Diane Smith, Centre
+number 68999, candidate number 12345 would store her work in a folder named
+68999_12345_SM_D.
+The candidate may wish to use sub folders to organise their work for each section
+and must ensure that the front sheet is stored in such a way that the hyperlinks allow
+the assessor and moderator to access the relevant pdf documents.
+The centre assessor should store the candidate’s assessment documentation using
+the same naming convention as above, but with the addition of CS3. For example
+Diane Smith’s assessment documentation would be stored as
+CS3_68999_12345_SM_D.
+Further details will be issued by WJEC each year.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 23
+Annotation and supporting evidence
+Centres are required to provide information that enables the moderator to check the
+work against the assessment criteria. This information should be given on the Centre
+Mark Sheet.
+Annotation should, therefore:
+• describe, in all necessary detail, practical work that is not available, together with
+comments from the teacher
+• explain where candidates have received help beyond the normal learning support
+that may influence the assessments
+• highlight those key areas that have led to the recognition of particular criteria.
+Reference to the assessment criteria is particularly helpful
+• include any other notes that will help the moderator to assess the work.
+Supervision and authentication
+Unfair practice
+Before the course starts, the teacher is responsible for informing candidates of
+WJEC's regulations concerning malpractice. Candidates must not take part in any
+unfair practice in the preparation of work required for assessment. They must
+understand that to present material copied directly from books or other sources
+without acknowledgement will be regarded as deliberate deception. Centres must
+report suspected malpractice to WJEC.
+If WJEC is satisfied that the regulations have been breached, the candidate may be
+disqualified from all subjects. Candidates will be required to certify that they have
+read and understood the regulations relating to unfair practice.
+Supervision of work
+Centres must assure WJEC that the assessments submitted are the work of the
+candidates concerned. For Component 3 as much work as possible must be
+undertaken under the direct supervision of teachers.
+The teacher responsible for the supervision of the candidate's work must complete a
+declaration, certifying that the marks submitted were awarded in accordance with the
+specification and Instructions and Guidance for Teachers, and that she/he is entirely
+satisfied that the work submitted is that of the candidate concerned.
+It is acceptable for parts of a candidate's work to be taken from other sources as long
+as all such cases are clearly identified in the text and fully acknowledged either on
+the Centre Mark Sheet or in the supporting evidence. Where phrases, sentences or
+longer passages are quoted directly from a source, candidates should use quotation
+marks.
+Centres entering candidates for A level Computer Science must accept the obligation
+to provide sufficient supervision to enable them to give an assurance that every step
+has been taken to ensure that the work submitted is that of the candidate concerned.
+When a candidate has need of assistance in completing a particular piece of work,
+such assistance should be given but the teacher must add appropriate comments on
+the Centre Mark Sheet.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 24
+It is expected that the teacher will be involved at the following stages:
+• Initial discussion at the time when the component is being introduced and
+work is being planned. The final choice of the proposed method of solution
+should be that of the individual candidate, but the teacher will be expected to
+discuss the proposed choice so that guidance can be given about suitability
+and appropriateness before work begins. It is anticipated that such advice will
+ensure that the solution attempted is neither trivial nor over-ambitious.
+• Following the prototype stage, the prototype solution and code produced
+should be discussed with the candidate. The teacher will be expected to
+discuss the functionality of the prototype and the candidate’s understanding of
+the code produced. The teacher should note and investigate instances where
+the candidate is not able to sufficiently explain how the prototype or code in
+their solution functions. Please see notes on authentication for more
+information.
+• Periodic supervision and discussion as appropriate, e.g. discussion of the
+availability and use of material, suitable annotations on the work.
+• Guidance on the presentation of the component, including the information to
+be given on the Centre Mark Sheet.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 25
+Authentication
+It is important that non-exam assessment is rigorously monitored by centres to
+ensure that candidates' work is their own. All candidates are required to sign that
+the work submitted is their own and teachers/assessors are required to confirm that
+the work assessed is solely that of the candidate concerned and was conducted
+under the required conditions. A copy of the authentication form, which forms part of
+the cover sheet for each candidate's work will be provided by WJEC. It is important to
+note that all candidates are required to sign this form, and not merely those whose
+work forms part of the sample submitted to the moderator. Malpractice discovered
+prior to the candidate signing the declaration of authentication need not be reported
+to WJEC but must be dealt with in accordance with the centre's internal procedures.
+Before any work towards the non-exam assessment is undertaken, the attention of
+candidates should be drawn to the relevant JCQ Notice to Candidates. This is
+available on the JCQ website (www.jcq.org.uk) and included in Instructions for
+Conducting Coursework. More detailed guidance on the prevention of plagiarism is
+given in Plagiarism in Examinations; Guidance for Teachers/Assessors also available
+on the JCQ website.
+Submission of marks
+Centres need to submit marks for internally assessed work online during the summer
+term of the year when the work is to be submitted for moderation. When the marks
+have been submitted to WJEC, the online system will apply the sample formula
+based on the overall rank order for the total entry and immediately identify the sample
+of learners whose work is selected for moderation.
+Internal standardisation and moderation
+It is essential that where there is more than one teacher in a centre, work from all
+teaching groups is standardised internally. This is designed to ensure that the final
+assessment reflects a single agreed standard for all teaching groups involved.
+Moderation will normally take place in June. All centres will receive detailed
+feedback from the moderation.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 26
+This is a linear qualification in which all assessments must be taken at the end of the
+course. Assessment opportunities will be available in the summer series each year,
+until the end of the life of this specification. Summer 2017 will be the first
+assessment opportunity.
+A qualification may be taken more than once. Candidates must resit all examination
+components in the same series.
+Marks for NEA may be carried forward for the life of the specification. If a candidate
+resits an NEA component (rather than carrying forward the previous NEA mark), it is
+the new mark that will count towards the overall grade, even if it is lower than a
+previous attempt.
+Where a candidate has certificated on two or more previous occasions, the most
+recent NEA mark is carried forward, regardless of whether that mark is higher or
+lower (unless that mark is absent)
+The entry code appears below.
+WJEC Eduqas A level Computer Science: A500QS
+The current edition of our Entry Procedures and Coding Information gives up-to-date
+entry procedures.
+Scaling factors are applied to marks in order for them to achieve their intended
+weightings. In the case of WJEC Eduqas GCE A Level In Computer Science a
+scaling factor of 2 is applied to Components 1 and 2, with Component 3 remaining
+unscaled.
+Component Maximum raw Scaling factor Scaled % weighting
+mark maximum mark
+Component 1 100 2 200 40
+Component 2 100 2 200 40
+Component 3 100 1 100 20
+A level qualifications are reported as a grade from A* to E. Results not attaining the
+minimum standard for the award will be reported as U (unclassified).
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 27
+Component 3 – Programmed solution to a problem
+Sample Task
+Tasks for Component 3 will take a variety of forms depending on the scenario chosen by the
+candidate. The following scenario gives an example of a task that would permit the scope
+expected from an A level candidate.
+Bridgewest Triathlon Club
+Bridgewest Triathlon Club is a thriving organisation that is well supported and regularly
+enters both men’s and women’s teams in local and national competitions. The best
+triathletes need to be extremely fit to take part in these races that follow the Olympic format
+of three disciplines, a 1,500 metre swim, a 40 kilometre bike ride and a 10 km run. On
+average the swimming takes about 20% of the time taken to finish with the bike ride taking
+50% and the run 30% of the time.
+These athletes will follow a training program that includes two sessions training for each
+discipline each week. They also need to ensure that as they near the end of their training
+before a competition that they train over the distances covered in a triathlon. However, it is
+important that they have 1 – 2 days with no training per week to prevent injuries.
+The club trainer tries to keep accurate records of athletes’ training for each event. The
+trainer knows that the records are not always accurate which causes issues for the club.
+Records of athletes’ finishing times are kept for each event entered and it is important that
+the trainer can compare an athlete’s training times for each event to be able to design the
+best programme to help them succeed.
+The trainer has asked me to create a computer-based solution that will allow her to:
+• Enter and store the personal details of each athlete
+• Enter and save baseline times for each athlete for
+o 1,500 metre swim
+o 40 kilometre bike ride
+o 10 kilometre run
+• Record the length of each training session for the chosen discipline for each athlete
+• Calculate average speed for the chosen discipline for each training session for each
+athlete
+• Compare training speeds for each training session per discipline
+• Record the events entered and the time for each discipline and the finishing time for
+each event
+• Record the final results of each discipline in the actual triathlon
+• Compare baseline time and final result for each discipline and presents results in a user
+friendly format
+• Identify fastest athlete overall for each discipline
+• Identify most effective training regime based on the split times for each discipline and
+the combined time for the actual triathlon
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 28
+Banded mark schemes
+Banded mark schemes are divided so that each band has a relevant descriptor. The descriptor for the
+band provides a description of the performance level for that band. Each band contains marks.
+Before marking, assessors should first read and annotate a learner’s project to pick out the evidence
+that is being assessed. Once the annotation is complete, the mark scheme can be applied.
+This is done as a two stage process.
+Stage 1 – Deciding on the band
+When deciding on a band, the work should be viewed holistically. Beginning at the lowest band,
+assessors should look at the appropriate section of the learner’s project and check whether it
+matches the descriptor for that section’s mark band. Assessors should look at the descriptor for that
+band and see if it matches the qualities shown in the learner’s work for that section. If the descriptor
+at the lowest band is satisfied, assessors should move up to the next band and repeat this process
+for each band until the descriptor matches the work.
+If a learner’s work covers different aspects of different bands within the mark scheme, a ‘best fit’
+approach should be adopted to decide on the band and then the learner’s work should be used to
+decide on the mark within the band. For instance if work is mainly in band 2 but with a limited amount
+of band 3 content, the work would be placed in band 2, but the mark awarded would be close to the
+top of band 2 as a result of the band 3 content. Assessors should not seek to mark candidates down
+as a result of small omissions in minor areas of their work.
+Stage 2 – Deciding on the mark
+Once the band has been decided, assessors can then assign a mark. WJEC Eduqas will provide
+exemplar material already awarded a mark, and this should be used as reference material when
+assessing the work.
+When marking, assessors can use these examples to decide whether a learner’s work is of a
+superior, inferior or comparable standard to the example. Assessors are reminded of the need to
+revisit the work as they apply the mark scheme in order to confirm that the band and the mark
+allocated is appropriate to the work submitted.
+Where work is not credit worthy, that is, contains nothing of any significance to the project, or has
+been omitted, no marks should be awarded.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 29
+Component 3 – Programmed Solution to a Problem
+Band Discussion - AO2.1b
+Max 5 marks
+3 4-5 marks
+The candidate has:
+• identified a substantial problem that provides sufficient scope for the candidate to
+access the full range of marks
+• provided a full description of the broad aims of the project using appropriate subject
+based technical vocabulary
+• identified the possible limitations of a solution to the problem and is able to describe
+these in detail using appropriate technical language
+• fully considered feedback from others and, where appropriate, has used this feedback to
+refine understanding of the problem and proposed solution.
+2 3 marks
+The candidate has:
+• identified a suitable problem that will provide sufficient scope to produce work at the
+required level
+• identified the broad aims of the project
+• provided a realistic description of these aims
+• identified the main limitations of a solution to the problem and can describe these to a
+competent third party
+• considered feedback from others and has made use of the feedback to increase
+understanding of the problem and proposed solution.
+1 1-2 marks
+The candidate has:
+• identified a problem that may be limited in scope
+• identified a limited number of broad aims for the chosen project
+• provided a description of more than one of the identified broad aims
+• identified at least one limitation of a solution to the problem
+• received feedback from others and has made limited use of the advice.
+0 0 marks
+Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 30
+Band Investigation – AO2.1b
+Max 10 marks
+3 8-10 marks
+The candidate has:
+• made full use of a range of appropriate methods to investigate the existing system
+• completed a thorough investigation of the current system
+• carried out extensive desk based research into existing solutions to similar problems and
+identified the best features and facilities of these solutions to include in their solution to their
+chosen problem
+• described the involvement of all stakeholders in the current system and described their
+requirements for the proposed project
+• fully analysed data collected for input
+• analysed in detail the processing carried out by the existing system
+• given full consideration to all current system outputs
+• fully considered and explained the limitations of the current system
+• produced a working specification that clearly summarises the purpose of the project
+• explained, with technical justification, the methods to be used in the solution
+• detailed a range of objectives that include success criteria and clearly define the required
+performance of the proposed system.
+2 4-7 marks
+The candidate has:
+• used several methods to investigate the existing system
+• completed an investigation of the current system
+• carried out desk based research into existing solutions to similar problems and identified
+features to be included in their solution
+• identified most stakeholders for the project, described them and identified their roles in the
+current system and their main requirements for the proposed system
+• analysed the majority of the data that is collected and input into the current system
+• analysed most of the processing needed to carry out the functions of the existing system
+• given consideration of the current system in terms of the majority of outputs
+• described the limitations of the current system
+• produced a specification that summarises the purpose of the project
+• described the methods to be used in the solution
+• put forward objectives that include success criteria.
+1 1-3 marks
+The candidate has:
+• carried out a limited investigation into the current system
+• given limited consideration to the data that is collected and input into the existing system
+• carried out desk based research and given limited consideration to existing solutions to similar
+problems
+• identified the main stakeholders for the project and described them and their involvement with
+the current system
+• given limited consideration to the data that is output by the existing system
+• identified the main processes carried out by the existing system
+• given superficial consideration to the limitations of the current system
+• produced a summary of the purpose of the project
+• identified a limited number of methods to be used in the solution
+• put forward limited objectives that give some indication of the scope of the proposed solution.
+0 0 marks
+Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 31
+Band Design – AO3.1a
+Max 15marks
+3 11-15 marks
+The candidate has:
+• described and justified the breaking down of the problem into sub problems and
+explained the links between the sub programs and the project objectives
+• fully identified and described the data to be input to and output from the system
+• designed in detail the input and output to be produced by the system
+• given full consideration to the reasons for the data that is to be included in the outputs
+• fully described all the required files and/or data structures and has fully considered and
+fully described methods of access
+• fully described the validation routines to be carried out on the data entered into the
+system
+• identified all processes needed to provide a comprehensive solution to the problem
+• fully explained the relationships between the data and the processes or programs that
+manipulate and transform the data
+• fully described the processing routines using an appropriate recognised convention in
+sufficient detail for implementation by a competent third party. The interconnection
+between the programs and the files they access has been clearly shown.
+2 6-10 marks
+The candidate has:
+• described how the problem can be broken down into manageable sub problems related
+to the objectives of the project
+• identified the majority of the data to be input to and output from the system
+• designed the majority of the inputs and outputs to be produced by system
+• described most of the files and/or data structures required to produce the output from
+the solution
+• described possible methods of access
+• described the majority of the validation routines that will be required to ensure all data is
+valid
+• identified a sufficient number of processes to provide a working solution to the problem
+• produced a description of the relationships between the data and the processes or
+programs that are used to manipulate and transform the data
+• described the processing routines using a recognised convention. the interconnection
+between the programs and the files they access has been considered.
+1 1-5 marks
+The candidate has:
+• produced a limited description of the how the problem can be broken down into sub
+problems
+• produced a limited description of the data to be input to and output from the system
+• produced outline designs for the identified input and output facilities
+• described the main files and/or data structures required to produce a partially
+functioning solution to the problem
+• identified several validation rules required to ensure accurate data entry.
+• identified more than one of the processes that would be included in a working solution to
+the problem
+• attempted to describe the routines using a recognised convention.
+0 0 marks
+Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 32
+Band Prototype - AO3.1b
+Max 10 marks
+3 8-10 marks
+The candidate has:
+• justified the choice of areas to be included in the prototype system and explained the
+reasons for omitting the remaining areas
+• created a comprehensive range of screens and outputs for the chosen areas of the
+solution
+• created a functioning system that carries out all chosen processes using realistic data
+and fulfils all requirements for data output and storage
+• evaluated the functioning of the prototype and justified the good features of the prototype
+solution
+• described the shortcomings and made specific suggestions for improvement.
+2 4-7 marks
+The candidate has:
+• described the areas to be included in the prototype system
+• created mock ups of screens and outputs related to all areas described
+• created a system that carries out most of the chosen system processes using realistic
+data to create required outputs
+• considered the functioning of the prototype system and described the good features and
+identified the shortcomings and made suggestions for some improvements.
+1 1-3 marks
+The candidate has:
+• identified some areas of the proposed solution that are included in the prototype solution
+• created mock ups of the main screens and essential outputs
+• simulated some systems processes but does not use real data.
+0 0 marks
+Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 33
+Band Post-Prototype Refinement of Design - AO3.1a
+Max 5 marks
+3 4-5 marks
+The candidate has:
+• obtained feedback on the prototype system from a competent third party
+• fully described the feedback received and explained the implications of the feedback for
+the re-design of the system
+• re-considered and re-structured input and output facilities as necessary
+• given full consideration to the need for additional data as necessary
+• given full consideration to all required files and/or data structures in light of any need to
+include additional data
+• given full consideration to the need for any additional processes needed and has fully
+described any new relationships between the data and the processes of the revised
+design
+• fully described all processing routines using an appropriate recognised convention in
+sufficient detail for implementation by a competent third party
+• fully refined with detailed design, in response to feedback or justified instances where
+suggestions have been discounted.
+2 3 marks
+The candidate has:
+• obtained feedback on the prototype system from a competent third party
+• described the feedback and identified the areas of the system to be refined
+• re-designed the input and output facilities in response to feedback if necessary
+• changed files and/or data structures as indicated from feedback
+• included additional processes to provide a working solution to the problem as necessary
+• revised existing processing routines and presented them using a recognised convention
+• included additional processing routines as necessary
+• provided an explanation where feedback suggestions have be discounted.
+1 1-2 marks
+The candidate has:
+• obtained feedback on the prototype system from a competent third party
+• included a limited summary of the feedback
+• made limited alterations to outline designs for the input and output facilities as indicated
+from feedback
+• made limited amendments to the main files and/or data where necessary
+• attempted to re-define the routines using a recognised convention where necessary.
+0 0 marks
+Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 34
+Band Software Development – AO3.1b
+Max 25 marks
+4 19-25 marks
+The candidate has:
+• taken full account of the revised detailed design and refined the prototype in light of feedback and
+changed designs
+• produced a functioning solution to a highly demanding problem that meets most of the objectives
+for the solution to the problem. Better solutions will meet almost all of the objectives for the
+proposed solution.
+• used and fully exploited the programming facilities of the language
+• demonstrated a sound understanding of the appropriate tools and techniques available to them
+• created a well-structured data model that aids efficient data handling. Better candidates will
+present a data model normalised to third normal form.
+• produced a solution that is well-structured and modular in nature. The solution makes good use of
+local variables and minimises the use of global variables.
+• written code that is fully self-documenting and well-structured with annotation that will allow a
+competent third party to maintain the solution in future
+• made use of complex user-defined routines. Better candidates will have made effective use of
+recursive algorithms.
+• produced evidence of the effective use of validation for all key components. Better candidates will
+have created efficient routines for exception handling.
+• fully documented the variables and actual data structures used to create the solution to the chosen
+problem
+• included evidence of the completed user interface including a full description of the features that
+make it fit for audience and purpose.
+3 13-18 marks
+The candidate has:
+• taken account of the reworked design and improved or extended the prototype in light of feedback
+and changes to designs
+• produced a functioning system to a demanding problem that meets many of the objectives for the
+solution of the problem. Better solutions will meet more of the central requirements.
+• used and exploited the programming facilities of the language
+• demonstrated an understanding of the tools and techniques available to them
+• created a data model involving a series of linked data structures to facilitate the manipulation of
+data and reduce data redundancy. Better candidates will have made use of multi-dimensional
+arrays.
+• produced a solution that is modular in nature that makes good use of local variables
+• written code that is self-documenting, Better candidates will have annotated all key components of
+their solutions.
+• made use of user-defined routines Better candidates will have used data handling routines such as
+sorts and searches.
+• provided evidence of effective validation for most key elements
+• used appropriate self-documenting identifiers for most variables and structures
+• provided evidence of the completed user interface with a description of the features used to make it
+fit for audience and purpose.
+2 7-12 marks
+The candidate has:
+• improved the prototype in light of some of the feedback, implementing some of the features of the
+revised design
+• produced a partially functional solution to the problem that satisfies a range of the basic objectives
+for the proposed solution
+• used a range of the programming facilities of the language
+• demonstrated an understanding of the more important tools and techniques available to them
+• created a simple data model involving several linked data structures. Better candidates will have
+made use of arrays of at least two dimensions.
+• produced a solution with a clear structure. The code includes appropriate annotation for the
+majority of key components.
+• made use of routines such as linear searches and mathematical calculations
+• provided evidence of the use of basic validation
+• used appropriate identifiers for many variables and data structures. Better candidates will have
+made use of self-documenting identifiers.
+• provided evidence of the completed user interface with a description of the features used to make it
+largely fit for audience and purpose.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 35
+Band Software Development – AO3.1b
+Max 25 marks
+1 1-6 marks
+The candidate has:
+• reworked the prototype in light of some of the feedback.
+• produced a partially functional solution to the problem that satisfies some of the basic objectives for
+the proposed solution.
+• used some of the programming facilities of the language but has demonstrated a limited
+understanding of the tools and techniques available to them
+• made use of basic data structures with simple data types. Better candidates will have made use of
+single dimension arrays.
+• produced a solution that may be linear with some efficient code. Better candidates may have
+included some appropriate annotation of code.
+• provided little or no evidence of validation
+attempted to document the variables and actual data structures. Better candidates may have made
+an attempt to use appropriate identifiers.
+• provided evidence of the user interface with a limited description of its features
+0 0 marks
+Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 36
+Band Developmental Testing – AO3.1c
+Max 5 marks
+3 4-5 marks
+The candidate has:
+• provided evidence of comprehensive testing at each stage of the development of the
+solution to the chosen problem
+• provided evidence of all problems encountered and fully justified and evidenced the
+actions taken to overcome these problems.
+2 3 marks
+The candidate has:
+• provided evidence of testing at most stages of the development of the solution to the
+chosen problem
+• provided evidence of problems encountered during development and described and
+evidenced the actions taken to overcome these problems.
+1 1-2 marks
+The candidate has:
+• provided limited evidence of testing during the development of the solution to the
+chosen problem
+• provided limited evidence of problems encountered during development and the actions
+taken to remedy the errors in coding.
+0 0 marks
+Response not credit worthy or not attempted.
+Band Testing – AO3.1c
+Max 10 marks
+3 8-10 marks
+The candidate has:
+• produced a comprehensive plan for testing all areas of the system
+• made use of a wide range of appropriate testing methods
+• made use of test data including typical, extreme and invalid data where appropriate
+• presented all results with detailed and informed commentaries and included specific
+suggestions to refine the system.
+2 4-7 marks
+The candidate has:
+• produced a test plan for testing most areas of the system
+• made use of a range of testing methods
+• made use of test data to test all parts of the system
+• presented results with suitable commentaries and suggestions for possible
+improvements to the system.
+1 1-3 marks
+The candidate has:
+• produced a test plan for testing the main functions of the system
+• made use of more than one type of data in the testing process
+• presented results with comments and made limited suggestions for possible
+improvements to the system.
+0 0 marks
+Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 37
+Band Evaluation – AO3.1c
+Max 15 marks
+3 11-15 marks
+The candidate has:
+• produced a detailed evaluation of the effectiveness of the programming language and
+justified the tools and techniques used
+• compared and contrasted the completed system with similar commercially available
+systems
+• identified good features and shortcomings of the completed solution and described
+significant potential improvements that could be made to improve its effectiveness
+• evaluated their own strengths and weaknesses in the design and development of the
+system
+• described specific changes of approach that would be adopted in future to avoid
+problems experienced during the project
+• produced a well-structured and clearly expressed review. Specialist terms have been
+used with ease and accuracy. Work is error free.
+2 6-10 marks
+The candidate has:
+• described the effectiveness of the tools and features of programming language
+used
+• compared the completed system with similar commercial available systems
+• identified the main good features of the solution and described appropriate potential
+improvements
+• described strengths and weaknesses in own performance in the design and
+creation of the system
+• produced an account of problems arising out of the project work and suggested
+strategies for improvement their own performance
+• produced a review that communicates meaning. Technical vocabulary has been
+used accurately. The work contains few errors.
+1 1-5 marks
+The candidate has:
+• produced a limited description of the tools and features of the programming
+language used
+• made limited comparisons with a similar commercial system
+• identified several possible improvements
+• produced an account of own performance in the design and creation of the system
+• produced an account of problems arising out of the project work
+• produced a review that conveys meaning with limited technical detail. There is
+limited use of specialist vocabulary. The work may contain inaccuracies.
+0 0 marks
+Response not credit worthy or not attempted.
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 38
+Mathematical skills
+Computer science uses mathematics to express its computational laws and processes.
+This specification in computer science contains a minimum of 10% mathematics as required
+by the regulator. Students are asked to demonstrate their knowledge and understanding
+and skills of computational processes and problem-solving in both theoretical and practical
+ways. The following list shows the key concepts that will be common to all specifications in
+computer science.
+For each topic below, while the concepts are Level 2 (though not all appear in GCSE
+Mathematics specifications), students will, however, be expected to apply the skills they
+acquire in a Level 3 context.
+Topics:
+• Boolean algebra
+• Comparison of complexity of algorithms
+• Number representations and bases
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 39
+Note 1
+In general, the diagram conventions used will be those described in the current edition of
+The BCS Glossary of ICT and Computing Terms (published BCS Learning and Development
+Ltd).
+In the case of data flow diagrams, where no generally accepted symbols currently exist,
+candidates should be familiar with the following symbols, used in a number of current GCE
+textbooks:
+Data
+Store
+External Data Flow Process
+Entity
+Note 2
+The following symbols are used for entities and relationships.
+Entity
+One-To-Many Relationship
+Many-To-Many Relationship
+Note 3
+Where Von Neumann architecture is represented diagrammatically, the following symbols
+are used.
+Arithmetic logic unit
+Register
+Control unit
+© WJEC CBAC Ltd.
+A LEVEL COMPUTER SCIENCE 40
+Note 4
+Structured Query Language.
+Candidates should be familiar with the following commands and operators:
+• CREATE TABLE …
+• PRIMARY KEY
+• NOT NULL
+• Int
+• Char(n)
+• Numeric(m,n)
+• DateTime
+• INSERT INTO … VALUES
+• SELECT … FROM … WHERE …
+• SELECT * FROM … WHERE …
+• IN
+• AND
+• OR
+• ORDER BY
+• GROUP BY
+• UPDATE … SET …
+• =
+• >
+• >=
+• <
+• <=
+• <>
+Candidates should also be familiar with the use of sub queries and parentheses.
+Note 5
+The following symbols are used in flowcharts:
+Start / Stop procedure
+Decision box
+Input / Output
+Operation
+Connector
+Store / Subroutine call
+Flow of control
+AS Computer Science Specification for teaching from 2015/GH
+28 10 14
+© WJEC CBAC Ltd.

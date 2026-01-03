@@ -1,0 +1,61 @@
+1.1 P2.1 Motion
+1.1.1 P2.1a describe how to measure distance and time in a range of scenarios
+1.1.2 P2.1b describe how to measure distance and time from graphs and use these to calculate speed
+1.1.3 P2.1c make calculations using ratios and proportional reasoning to convert units and to compute rates
+1.1.4 P2.1d explain the vector–scalar distinction as it applies to displacement and distance, velocity and speed
+1.1.5 P2.1e relate changes and differences in motion to appropriate distance-time, and velocity-time graphs; interpret lines and slopes
+1.1.6 P2.1f interpret enclosed area in velocity-time graphs
+1.1.7 P2.1g calculate average speed for non-uniform motion
+1.1.8 P2.1h apply formulae relating distance, time and speed, for uniform motion, and for motion with uniform acceleration
+
+2.1 P2.2 Newton’s laws
+2.1.1 P2.2a recall examples of ways in which objects interact
+2.1.1.1 electrostatics
+2.1.1.2 gravity
+2.1.1.3 magnetism
+2.1.1.4 contact (including normal contact force and friction)
+2.1.2 P2.2b describe how such examples involve interactions between pairs of objects which produce a force on each object
+2.1.3 P2.2c represent forces as vectors drawing free body force diagrams to demonstrate understanding of forces acting as vectors
+2.1.4 P2.2d apply Newton’s first law to explain the motion of an object moving with uniform velocity and also an object where the speed and/or direction change (qualitative only)
+2.1.5 P2.2e use vector diagrams to illustrate resolution of forces, net force (resultant force), and equilibrium situations
+2.1.5.1 scale drawings limited to parallel and perpendicular vectors only
+2.1.6 P2.2f describe examples of the forces acting on an isolated solid object or system
+2.1.6.1 examples of objects that reach terminal velocity
+2.1.6.2 for example skydivers
+2.1.6.3 applying similar ideas to vehicles
+2.1.7 P2.2g describe, using free body diagrams, examples where two or more forces lead to a resultant force on an object
+2.1.8 P2.2h describe, using free body diagrams, examples of the special case where forces balance to produce a resultant force of zero (qualitative only)
+2.1.9 P2.2i apply Newton’s second law in calculations relating forces, masses and accelerations
+2.1.10 P2.2j explain that inertia is a measure of how difficult it is to change the velocity of an object and that the inertial mass is defined as the ratio of force over acceleration
+2.1.11 P2.2k define momentum and describe examples of momentum in collisions
+2.1.11.1 an idea of the law of conservation of momentum
+2.1.12 P2.2l þ apply formulae relating force, mass, velocity and acceleration to explain how the changes involved are inter-related
+2.1.13 P2.2m use the relationship between work done, force, and distance moved along the line of action of the force and describe the energy transfer involved
+2.1.14 P2.2n calculate relevant values of stored energy and energy transfers; convert between newton-metres and joules
+2.1.15 P2.2o explain, with reference to examples, the definition of power as the rate at which energy is transferred
+2.1.16 P2.2p recall and apply Newton’s third law application to situations of equilibrium and non-equilibrium
+2.1.17 P2.2q explain why an object moving in a circle with a constant speed has a changing velocity (qualitative only)
+
+3.1 P2.3 Forces in action
+3.1.1 P2.3a explain that to stretch, bend or compress an object, more than one force has to be applied
+3.1.1.1 applications to real life situations
+3.1.2 P2.3b describe the difference between elastic and plastic deformation (distortions) caused by stretching forces
+3.1.3 P2.3c describe the relationship between force and extension for a spring and other simple systems
+3.1.3.1 graphical representation of the extension of a spring
+3.1.4 P2.3d describe the difference between linear and non-linear relationships between force and extension
+3.1.5 P2.3e calculate a spring constant in linear cases
+3.1.6 P2.3f calculate the work done in stretching
+3.1.7 P2.3g describe that all matter has a gravitational field that causes attraction, and the field strength is much greater for massive objects
+3.1.8 P2.3h define weight, describe how it is measured and describe the relationship between the weight of an object and the gravitational field strength, g
+3.1.8.1 knowledge that the gravitational field strength is known as g and has a value of 10 N/kg at the Earth’s surface
+3.1.9 P2.3i recall the acceleration in free fall
+3.1.10 P2.3j þ apply formulae relating force, mass and relevant physical constants, including gravitational field strength, g, to explore how changes in these are inter-related
+3.1.11 P2.3k þ describe examples in which forces cause rotation
+3.1.11.1 location of pivot points and whether a resultant turning force will be in a clockwise or anticlockwise direction
+3.1.12 P2.3l þ define and calculate the moment of a force
+3.1.12.1 application of the principle of moments for objects which are balanced
+3.1.13 P2.3m þ explain how levers and gears transmit the rotational effects of forces
+3.1.13.1 an understanding of ratios and how this enables gears and levers to work as force multipliers
+3.1.14 P2.3n þ recall that the pressure in fluids (gases and liquids) causes a net force at right angles to any surface
+3.1.15 P2.3o þ use the relationship between the force, the pressure and the area in contact
+3.1.15.1 an understanding of how simple hydraulic systems work

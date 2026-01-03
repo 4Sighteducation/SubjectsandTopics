@@ -1,0 +1,51 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": false,
+        "compulsory": [],
+        "optional": []
+    },
+    "texts": {
+        "has_texts": false,
+        "text_locations": [],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": [
+            "1.1 Systems architecture",
+            "1.2 Memory and storage",
+            "1.3 Computer networks, connections and protocols",
+            "1.4 Network security",
+            "1.5 Systems software",
+            "1.6 Ethical, legal, cultural and environmental impacts of digital technology",
+            "2.1 Algorithms",
+            "2.2 Programming fundamentals",
+            "2.3 Producing robust programs",
+            "2.4 Boolean logic",
+            "2.5 Programming languages and Integrated Development Environments"
+        ],
+        "organization": "The content is organized into two main components, each with specific topics.",
+        "expected_depth": 3
+    },
+    "assessment": {
+        "written_papers": [
+            "J277/01: Computer systems",
+            "J277/02: Computational thinking, algorithms and programming"
+        ],
+        "content_mapping": {
+            "J277/01": "1.1 Systems architecture, 1.2 Memory and storage, 1.3 Computer networks, connections and protocols, 1.4 Network security, 1.5 Systems software, 1.6 Ethical, legal, cultural and environmental impacts of digital technology",
+            "J277/02": "2.1 Algorithms, 2.2 Programming fundamentals, 2.3 Producing robust programs, 2.4 Boolean logic, 2.5 Programming languages and Integrated Development Environments"
+        },
+        "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting content from the two main components and their respective topics. Ensure to capture the structure and hierarchy of topics within each component."
+}
+```

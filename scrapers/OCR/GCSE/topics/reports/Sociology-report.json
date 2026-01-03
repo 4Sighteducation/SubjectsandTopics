@@ -1,0 +1,91 @@
+{
+  "subject_name": "Sociology",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/jk2duibm/eduqas-gcse-sociology-spec-from-2017-eng.pdf",
+  "start_time": "2025-11-23T23:23:01.133737",
+  "success": true,
+  "topics_extracted": 208,
+  "levels": {
+    "0": 2,
+    "1": 7,
+    "2": 29,
+    "3": 38,
+    "4": 132
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": false,
+    "components": [
+      {
+        "number": "1",
+        "name": "6"
+      },
+      {
+        "number": "2",
+        "name": "11"
+      },
+      {
+        "number": "1",
+        "name": "Understanding Social Processes"
+      },
+      {
+        "number": "2",
+        "name": "Understanding Social Structures"
+      },
+      {
+        "number": "1",
+        "name": "will be applied to an"
+      },
+      {
+        "number": "1",
+        "name": "Component 1: Understanding Social Processes"
+      },
+      {
+        "number": "2",
+        "name": "Component 2: Understanding Social Structures"
+      },
+      {
+        "number": "1",
+        "name": "will be reinforced by considering the research methods used to gather"
+      },
+      {
+        "number": "1",
+        "name": "20% 20% 10% 50%"
+      },
+      {
+        "number": "2",
+        "name": "20% 20% 10% 50%"
+      },
+      {
+        "number": "1",
+        "name": "Understanding Social Processes"
+      },
+      {
+        "number": "2",
+        "name": "Understanding Social Structures"
+      },
+      {
+        "number": "1",
+        "name": "Understanding Social Processes"
+      },
+      {
+        "number": "2",
+        "name": "Understanding Social Structures"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 38.52119064331055,
+  "end_time": "2025-11-23T23:23:39.654926"
+}

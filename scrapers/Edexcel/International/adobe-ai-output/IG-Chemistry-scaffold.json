@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "exam_board": "Pearson Edexcel",
+    "qualification": "International GCSE",
+    "subject": "Chemistry",
+    "spec_code": "4CH1",
+    "source_pdf": "Pearson Edexcel International GCSE in Chemistry Specification Issue 3"
+  },
+  "structure": {
+    "papers": [
+      {
+        "paper_code": "4CH1/1C",
+        "paper_name": "Chemistry Paper 1",
+        "weighting_percent": 61.1,
+        "sections": [
+          {
+            "section_code": "1",
+            "section_name": "Principles of chemistry",
+            "page_span": [
+              15,
+              20
+            ],
+            "topics": [],
+            "subgroups": []
+          },
+          {
+            "section_code": "2",
+            "section_name": "Inorganic chemistry",
+            "page_span": [
+              22,
+              24
+            ],
+            "topics": [],
+            "subgroups": []
+          },
+          {
+            "section_code": "3",
+            "section_name": "Physical chemistry",
+            "page_span": [
+              27,
+              29
+            ],
+            "topics": [],
+            "subgroups": []
+          },
+          {
+            "section_code": "4",
+            "section_name": "Organic chemistry",
+            "page_span": [
+              29,
+              33
+            ],
+            "topics": [],
+            "subgroups": []
+          }
+        ]
+      },
+      {
+        "paper_code": "4CH1/2C",
+        "paper_name": "Chemistry Paper 2",
+        "weighting_percent": 38.9,
+        "sections": [
+          {
+            "section_code": "1",
+            "section_name": "Assessment information",
+            "page_span": [
+              33,
+              34
+            ],
+            "topics": [],
+            "subgroups": []
+          },
+          {
+            "section_code": "2",
+            "section_name": "Sample assessment materials",
+            "page_span": [
+              34,
+              34
+            ],
+            "topics": [],
+            "subgroups": []
+          }
+        ]
+      }
+    ]
+  },
+  "appendices": [
+    {
+      "appendix_name": "Appendix 1: Codes",
+      "page_span": [
+        37,
+        37
+      ]
+    },
+    {
+      "appendix_name": "Appendix 2: Pearson World Class Qualification design principles",
+      "page_span": [
+        39,
+        39
+      ]
+    },
+    {
+      "appendix_name": "Appendix 3: Transferable skills",
+      "page_span": [
+        41,
+        41
+      ]
+    },
+    {
+      "appendix_name": "Appendix 4: Mathematical skills",
+      "page_span": [
+        43,
+        50
+      ]
+    },
+    {
+      "appendix_name": "Appendix 5: Command word taxonomy",
+      "page_span": [
+        51,
+        52
+      ]
+    },
+    {
+      "appendix_name": "Appendix 6: Suggested practical investigations",
+      "page_span": [
+        53,
+        54
+      ]
+    },
+    {
+      "appendix_name": "Appendix 7: The Periodic Table",
+      "page_span": [
+        55,
+        55
+      ]
+    },
+    {
+      "appendix_name": "Appendix 8: Glossary",
+      "page_span": [
+        57,
+        58
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "warning": "Tables to be parsed later",
+      "page_refs": [
+        1,
+        2
+      ]
+    }
+  ]
+}

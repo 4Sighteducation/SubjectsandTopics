@@ -1,0 +1,82 @@
+{
+  "subject_code": "J411",
+  "subject_name": "History B (Schools History Project)",
+  "url": "https://www.ocr.org.uk/Images/207164-specification-accredited-gcse-history-b-.pdf",
+  "start_time": "2025-11-20T13:51:01.190012",
+  "success": true,
+  "topics_extracted": 144,
+  "levels": {
+    "0": 5,
+    "1": 30,
+    "2": 35,
+    "3": 74
+  },
+  "issues": [
+    "Missing topics in level 0",
+    "Incorrect level assignment for some topics"
+  ],
+  "warnings": [
+    "Potential structure misalignment in level 3"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": true,
+      "compulsory": [],
+      "optional": [
+        "The People’s Health, c.1250 to present",
+        "Crime and Punishment, c.1250 to present",
+        "Migrants to Britain, c.1250 to present",
+        "The Norman Conquest, 1065–1087",
+        "The Elizabethans, 1580–1603",
+        "Britain in Peace and War, 1900–1918",
+        "History Around Us",
+        "Viking Expansion, c.750–c.1050",
+        "The Mughal Empire, 1526–1707",
+        "The Making of America, 1789–1900",
+        "The First Crusade, c.1070–1100",
+        "Aztecs and the Spanish Conquest, 1519–1535",
+        "Living under Nazi Rule, 1933–1945"
+      ]
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Component Group 1 – British History",
+        "Component Group 2 – History Around Us",
+        "Component Group 3 – World History"
+      ],
+      "organization": "The content is organized into three component groups, each with optional studies.",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "Thematic Study and British Depth Study",
+        "History Around Us",
+        "Period Study and World Depth Study"
+      ],
+      "content_mapping": {
+        "Thematic Study and British Depth Study": "Component Group 1",
+        "History Around Us": "Component Group 2",
+        "Period Study and World Depth Study": "Component Group 3"
+      },
+      "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the structure of component groups and their respective optional studies.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:51:01.190022"
+}

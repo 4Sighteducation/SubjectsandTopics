@@ -1,0 +1,215 @@
+1. Paper 1: Underlying Principles of Law and the English Legal System
+   1.1 The nature, purpose of and liability in law
+       1.1.1 The distinction between rules and law – definitions, differences, examples
+       1.1.2 Certainty
+       1.1.3 Enforcement
+       1.1.4 Sanctioned by the state
+       1.1.5 Rights, duties, privileges, liabilities and examples of legal personality
+       1.1.6 Liability and remedies in civil law
+           1.1.6.1 Types/branches
+           1.1.6.2 Terminology relating to parties in court case
+           1.1.6.3 Burden and standard of proof
+       1.1.7 Liability and sanctions in criminal law
+           1.1.7.1 Burden and standard of proof
+           1.1.7.2 Terminology relating to parties in a court case
+           1.1.7.3 Different sanctions
+       1.1.8 Relationship and differences between civil and criminal law sanctions
+       1.1.9 Theories of punishment: revenge, retribution, rehabilitation, reparation, restoration, denunciation, deterrence
+           1.1.9.1 Examples and applicability of each, including their relationship with sentences/sanctions
+           1.1.9.2 Criminal Justice Act 2003
+       1.1.10 Legal theories of law and justice
+           1.1.10.1 Positivism
+           1.1.10.2 Natural law
+           1.1.10.3 Utilitarianism
+       1.1.11 The relationship between law and morality and relevant theorists
+           1.1.11.1 The Hart/Devlin debate and the Wolfenden Report
+           1.1.11.2 Public and private morality – definitions, examples and application
+           1.1.11.3 The legal interpretation of morality together with the application of examples of specific relevant case law decisions
+   1.2 The sources of English law, its enforcement and administration
+       1.2.1 Stages in the creation of an Act of Parliament
+           1.2.1.1 Parliament Acts 1911 and 1949
+           1.2.1.2 Royal Assent Act 1967
+       1.2.2 The influences on law reform in developing English law
+           1.2.2.1 Political parties – roles, advantages and disadvantages
+           1.2.2.2 Pressure groups – examples and campaigns
+           1.2.2.3 Law reform agencies, e.g. Law Commission
+           1.2.2.4 Judges
+           1.2.2.5 Media – examples and campaigns
+       1.2.3 Judicial interpretation of statutes
+           1.2.3.1 Rules of interpretation – literal, golden, mischief, ejusdem generis
+           1.2.3.2 Advantages and disadvantages of each together with specific relevant case law examples
+           1.2.3.3 Purposive approach, presumptions, intrinsic and extrinsic aids; effect of the Human Rights Act 1998
+           1.2.3.4 Interpretation Act 1978
+       1.2.4 Types of delegated legislation
+           1.2.4.1 Definitions, examples, advantages and disadvantages
+           1.2.4.2 Orders in council
+           1.2.4.3 Statutory instruments
+           1.2.4.4 Bylaws
+       1.2.5 Control of delegated legislation
+           1.2.5.1 Judicial
+           1.2.5.2 Parliamentary
+           1.2.5.3 Legislative and Regulatory Reform Act 2006
+       1.2.6 Advantages and disadvantages of delegated legislation
+       1.2.7 The doctrine of precedent in the court hierarchy
+           1.2.7.1 Stare decisis
+           1.2.7.2 Ratio decidendi
+           1.2.7.3 Obiter dicta
+           1.2.7.4 Court hierarchies
+           1.2.7.5 Process of appeal
+           1.2.7.6 Which courts are bound by others
+           1.2.7.7 1966 House of Lords Practice Statement
+           1.2.7.8 Relevant case law decisions
+       1.2.8 The role of equity in developing remedies in contract law
+           1.2.8.1 Advantages and disadvantages
+           1.2.8.2 Equitable remedies, when available
+           1.2.8.3 Specific performance
+           1.2.8.4 Rescission
+       1.2.9 Advantages and disadvantages of judicial law making
+       1.2.10 EU law and its institutions
+           1.2.10.1 Directives – examples
+           1.2.10.2 Regulations – examples
+           1.2.10.3 Decisions of the European Court of Justice and the role of the European Commission
+       1.2.11 Methods of civil dispute resolution and Alternative Dispute Resolution (ADR)
+           1.2.11.1 Definition, advantages and disadvantages
+           1.2.11.2 The courts
+               1.2.11.2.1 Hierarchy, three tier system, and financial limits
+               1.2.11.2.2 Jurisdiction of each court
+               1.2.11.2.3 The Civil Procedure Rules
+           1.2.11.3 Public tribunals
+               1.2.11.3.1 Tiers
+               1.2.11.3.2 Jurisdiction
+               1.2.11.3.3 Panel
+               1.2.11.3.4 Tribunals, courts and Enforcement Act 2007
+           1.2.11.4 Arbitration
+           1.2.11.5 Conciliation
+           1.2.11.6 Mediation
+           1.2.11.7 Negotiation
+           1.2.11.8 Ombudsman
+       1.2.12 Role, selection and appointment of people in law
+           1.2.12.1 Advantages and disadvantages
+           1.2.12.2 Judges (including the Courts and Legal Services Act 1990 and the Constitutional Reform Act 2005)
+           1.2.12.3 The legal profession
+               1.2.12.3.1 Solicitors
+               1.2.12.3.2 Barristers
+           1.2.12.4 Lay people in the law
+               1.2.12.4.1 Magistrates, including the Justices of the Peace Act 1979
+               1.2.12.4.2 Jurors, including the Juries Act 1974
+               1.2.12.4.3 Tribunal members
+               1.2.12.4.4 Mediators
+               1.2.12.4.5 Conciliators
+               1.2.12.4.6 Ombudsman
+               1.2.12.4.7 Arbitrators
+       1.2.13 The costs of going to law
+           1.2.13.1 The cost of taking legal action
+               1.2.13.1.1 Court costs
+               1.2.13.1.2 Legal representation costs
+               1.2.13.1.3 Awarding of costs against unsuccessful party
+               1.2.13.1.4 Hidden costs of loss of reputation
+           1.2.13.2 Funding of going to law
+               1.2.13.2.1 Insurance
+               1.2.13.2.2 State funding, including the Legal Aid, Sentencing and Punishment of Offenders Act 2012
+               1.2.13.2.3 Conditional fees
+               1.2.13.2.4 Trade union membership
+               1.2.13.2.5 Citizens Advice Bureau
+               1.2.13.2.6 Pro bono
+
+2. Paper 2: The Law in Action
+   2.1 The market
+       2.1.1 The law of contract
+           2.1.1.1 Formation of contract
+               2.1.1.1.1 Offer
+               2.1.1.1.2 Acceptance
+               2.1.1.1.3 Consideration
+               2.1.1.1.4 Legal intention
+               2.1.1.1.5 Capacity
+           2.1.1.2 Terms in a contract
+               2.1.1.2.1 Express
+               2.1.1.2.2 Implied
+               2.1.1.2.3 Condition
+               2.1.1.2.4 Warranty
+               2.1.1.2.5 Exclusion clauses – including The Unfair Contract Terms Act 1977, sections, 2, 3 and 11; and The Consumer Rights Act 2015, sections 31, 57, 62 and 65
+           2.1.1.3 Consumer Rights Act 2015
+               2.1.1.3.1 Terms implied into a contract to supply goods: section 9 (satisfactory quality), section 10 (fitness for particular purpose), section 11 (description)
+               2.1.1.3.2 Remedies for the breach of a term implied into a contract to supply goods: section 20 (short term right to reject), section 23 (right to repair or a replacement), section 24 (right to a price reduction or a final right to reject)
+               2.1.1.3.3 Terms implied into a contract to supply services: section 49 (reasonable care and skill), section 52 (performance within a reasonable time)
+               2.1.1.3.4 Remedies for the breach of a term implied into a contract to supply services: section 55 (right to repeat performance) and section 56 (right to a price reduction)
+           2.1.1.4 Validity of contracts
+               2.1.1.4.1 Misrepresentation, including the Misrepresentation Act 1967 and the Law Reform (Contributory Negligence) Act 1945
+               2.1.1.4.2 Mistake
+               2.1.1.4.3 Discharge of contract
+                   2.1.1.4.3.1 Performance
+                   2.1.1.4.3.2 Agreement
+                   2.1.1.4.3.3 Breach
+                   2.1.1.4.3.4 Frustration, including the Law Reform (Frustrated Contracts) Act 1943
+           2.1.1.5 Privity of contract, including the effect of The Contracts (Rights of Third Parties) Act 1999
+       2.1.2 Liability in negligence as an alternative to contract
+           2.1.2.1 Negligence
+               2.1.2.1.1 Duty of care
+               2.1.2.1.2 Breach of the duty of care
+               2.1.2.1.3 Damage resulting from breach of duty of care, including res ipsa loquitur
+               2.1.2.1.4 Damages as a remedy
+           2.1.2.2 Defences
+               2.1.2.2.1 Volenti non fit injuria (consent)
+               2.1.2.2.2 Contributory negligence, including The Law Reform (Contributory Negligence) Act 1945
+           2.1.2.3 Remedies for the market
+               2.1.2.3.1 Damages, including the mitigation of loss
+               2.1.2.3.2 Injunctions
+   2.2 The criminal offender
+       2.2.1 The nature of criminal liability
+           2.2.1.1 Actus reus
+               2.2.1.1.1 Causation
+               2.2.1.1.2 Liability for omissions
+           2.2.1.2 Mens rea
+               2.2.1.2.1 Intention, including transferred malice
+               2.2.1.2.2 Subjective recklessness
+           2.2.1.3 Strict liability
+       2.2.2 Property offences
+           2.2.2.1 The Theft Act 1968
+               2.2.2.1.1 Theft, sections 1-6
+               2.2.2.1.2 Robbery, section 8
+               2.2.2.1.3 Burglary, section 9
+               2.2.2.1.4 Blackmail, sections 21 and 34
+           2.2.2.2 The Fraud Act 2006
+               2.2.2.2.1 Fraud by false representation, sections 2 and 5
+               2.2.2.2.2 Obtaining services dishonestly, section 11
+           2.2.2.3 The Theft Act 1978
+               2.2.2.3.1 Making off without payment, section 3
+           2.2.2.4 The Criminal Damage Act 1971
+               2.2.2.4.1 Criminal damage, section 1
+               2.2.2.4.2 Without lawful excuse, section 5
+       2.2.3 General defences
+           2.2.3.1 Duress of threats and duress of circumstances
+           2.2.3.2 Voluntary and involuntary intoxication
+       2.2.4 Sanctions and sentencing
+           2.2.4.1 Criminal Justice Act 2003
+               2.2.4.1.1 Custodial sentences
+               2.2.4.1.2 Community orders
+               2.2.4.1.3 Fines
+               2.2.4.1.4 Discharges
+   2.3 The individual
+       2.3.1 Freedom of speech and defamation
+           2.3.1.1 Defamation Act 2013, sections 1, 2, 3, 4 and 15
+               2.3.1.1.1 Libel
+               2.3.1.1.2 Slander
+               2.3.1.1.3 Defences and remedies
+       2.3.2 Human Rights Act 1998
+           2.3.2.1 Protection under the Human Rights Act 1998 with respect to freedom of speech and assembly
+               2.3.2.1.1 Article 10 The right to freedom of expression
+               2.3.2.1.2 Article 11 The right to freedom of assembly
+           2.3.2.2 Appeals to the European Court of Human Rights
+               2.3.2.2.1 Role of the European Court of Human Rights including the claims procedure and the function of the court
+           2.3.2.3 Effect on the government of successful appeals to the European Court of Human Rights
+       2.3.3 Right to privacy
+           2.3.3.1 Legal actions to protect privacy and confidentiality
+               2.3.3.1.1 The Data Protection Act 2018 sections 1–7, 43, 45 and 170
+               2.3.3.1.2 Article 8 of the European Convention on Human Rights 1953, the right to respect for family and private life, his home and his correspondence
+           2.3.3.2 Freedom of information Act 2000
+               2.3.3.2.1 Access to official, government and personal records
+       2.3.4 Occupiers’ liability
+           2.3.4.1 Occupiers’ Liability Act 1957
+           2.3.4.2 Occupiers’ Liability Act 1984
+           2.3.4.3 Trespass to land
+               2.3.4.3.1 Unlawful entry
+               2.3.4.3.2 Intentional and direct interference
+               2.3.4.3.3 Continuing trespass and remedies
+           2.3.4.4 Remedies for the individual

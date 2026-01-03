@@ -1,0 +1,384 @@
+1 Module 1: Development of practical skills in physics
+1.1 Practical skills assessed in a written examination
+1.1.1 Planning
+1.1.1.1 Learners should be able to demonstrate and apply their knowledge and understanding of:
+1.1.1.1.1 a) experimental design, including to solve problems set in a practical context
+1.1.1.1.2 b) identification of variables that must be controlled, where appropriate
+1.1.1.1.3 c) evaluation that an experimental method is appropriate to meet the expected outcomes
+1.1.2 Implementing
+1.1.2.1 Learners should be able to demonstrate and apply their knowledge and understanding of:
+1.1.2.1.1 a) how to use a wide range of practical apparatus and techniques correctly
+1.1.2.1.2 b) appropriate units for measurements
+1.1.2.1.3 c) presenting observations and data in an appropriate format
+1.1.3 Analysis
+1.1.3.1 Learners should be able to demonstrate and apply their knowledge and understanding of:
+1.1.3.1.1 a) processing, analysing and interpreting qualitative and quantitative experimental results
+1.1.3.1.2 b) use of appropriate mathematical skills for analysis of quantitative data
+1.1.3.1.3 c) appropriate use of significant figures
+1.1.3.1.4 d) plotting and interpreting suitable graphs from experimental results
+1.1.4 Evaluation
+1.1.4.1 Learners should be able to demonstrate and apply their knowledge and understanding of:
+1.1.4.1.1 a) how to evaluate results and draw conclusions
+1.1.4.1.2 b) the identification of anomalies in experimental measurements
+1.1.4.1.3 c) the limitations in experimental procedures
+1.1.4.1.4 d) precision and accuracy of measurements and data, including margins of error, percentage errors and uncertainties in apparatus
+1.1.4.1.5 e) the refining of experimental design by suggestion of improvements to the procedures and apparatus
+1.2 Practical skills assessed in the practical endorsement
+1.2.1 Practical skills
+1.2.1.1 Practical work carried out throughout the course will enable learners to develop the following skills:
+1.2.1.1.1 a) apply investigative approaches and methods to practical work
+1.2.1.1.2 b) safely and correctly use a range of practical equipment and materials
+1.2.1.1.3 c) follow written instructions
+1.2.1.1.4 d) make and record observations/measurements
+1.2.1.1.5 e) keep appropriate records of experimental activities
+1.2.1.1.6 f) present information and data in a scientific way
+1.2.1.1.7 g) use appropriate software and tools to process data, carry out research and report findings
+1.2.1.1.8 h) use online and offline research skills including websites, textbooks and other printed scientific sources of information
+1.2.1.1.9 i) correctly cite sources of information
+1.2.1.1.10 j) use a wide range of experimental and practical instruments, equipment and techniques appropriate to the knowledge and understanding included in the specification
+1.2.2 Use of apparatus and techniques
+1.2.2.1 Through use of the apparatus and techniques listed below, and a minimum of 12 assessed practicals, learners should be able to demonstrate all of the practical skills listed within 1.2.1 and CPAC as exemplified through:
+1.2.2.1.1 a) use of appropriate analogue apparatus to record a range of measurements
+1.2.2.1.2 b) use of appropriate digital instruments, including electrical multimeters, to obtain a range of measurements
+1.2.2.1.3 c) use of methods to increase accuracy of measurements
+1.2.2.1.4 d) use of a stopwatch or light gates for timing
+1.2.2.1.5 e) use of calipers and micrometers for small distances, using digital or vernier scales
+1.2.2.1.6 f) correctly constructing circuits from circuit diagrams using DC power supplies, cells, and a range of circuit components
+1.2.2.1.7 g) designing, constructing and checking circuits using DC power supplies, cells, and a range of circuit components
+1.2.2.1.8 h) use of a signal generator and oscilloscope, including volts/division and time-base
+1.2.2.1.9 i) generating and measuring waves, using microphone and loudspeaker, or ripple tank, or vibration transducer, or microwave/radio wave source
+1.2.2.1.10 j) use of a laser or light source to investigate characteristics of light, including interference and diffraction
+1.2.2.1.11 k) use of ICT such as computer modelling, or data logger with a variety of sensors to collect data, or use of software to process data
+1.2.2.1.12 l) use of ionising radiation, including detectors
+
+2 Module 2: Fundamental data analysis
+2.1 Learning outcomes
+2.1.1 a) Describe and explain:
+2.1.1.1 i) factors affecting accuracy and uncertainty of measurements
+2.1.1.2 ii) the importance of recognising the largest source of uncertainty in a measurement
+2.1.2 b) Make appropriate use of:
+2.1.2.1 i) SI units and their prefixes, standard form, angles in degrees and radians
+2.1.2.2 ii) the terms: accuracy, precision, resolution, sensitivity, response time, uncertainty, systematic error including zero error
+2.1.2.3 iii) simple plots of the distribution of measured values to estimate the mean (or median) value and the spread and to identifying potential outlying values and to suggest reasons to account for them
+2.1.2.4 iv) a variety of different kinds of graphical plot and use of uncertainty bars to help establish the validity of measured data
+2.1.3 c) Make calculations and estimates involving:
+2.1.3.1 i) uncertainty of experimental data, the mean of results, range, spread and percentage uncertainties
+2.1.3.2 ii) estimating uncertainties when data are combined by addition, subtraction, multiplication, division and raising to powers
+2.1.3.3 iii) estimated magnitudes of everyday quantities
+
+3 Module 3: Physics in action
+3.1 Communication
+3.1.1 Imaging and signalling
+3.1.1.1 Learning outcomes
+3.1.1.1.1 a) Describe and explain:
+3.1.1.1.1.1 i) the formation of a real image by a thin converging lens
+3.1.1.1.1.2 ii) the storage of images in a computer as an array of numbers that may be manipulated to enhance the image
+3.1.1.1.1.3 iii) digitising a signal (which may contain noise); advantages and disadvantages of digital signals
+3.1.1.1.1.4 iv) evidence of the polarisation of electromagnetic waves
+3.1.1.1.2 b) Make appropriate use of:
+3.1.1.1.2.1 i) the terms: pixel, bit, byte, focal length and power, magnification, resolution, sampling, signal, noise, polarisation
+3.1.1.1.2.2 ii) diagrams of the passage of light through a converging lens
+3.1.1.1.2.3 iii) diagrams of wave-forms
+3.1.1.1.3 c) Make calculations and estimates involving:
+3.1.1.1.3.1 i) the amount of information in an image = no. of pixels × bits per pixel
+3.1.1.1.3.2 ii) power of a converging lens P = 1/f
+3.1.1.1.3.3 iii) use of 1/v + 1/u = 1/f
+3.1.1.1.3.4 iv) linear magnification m = image height/object height = v/u
+3.1.1.1.3.5 v) v = fm including the use of f = 1/T
+3.1.1.1.3.6 vi) number of bits, b, provides N = 2^b alternatives; b = log2 N
+3.1.1.1.3.7 vii) minimum rate of sampling > 2 × maximum frequency of signal
+3.1.1.1.3.8 viii) rate of transmission of digital information = samples per second × bits per sample
+3.1.1.1.3.9 ix) the graphical representation of the digitisation of an analogue signal for a given number of levels of resolution
+3.1.1.1.3.10 x) use of b = log2 (Vtotal/Vnoise)
+3.1.1.1.4 d) Demonstrate and apply knowledge and understanding of the following practical activities:
+3.1.1.1.4.1 i) determination of power or focal length of converging lenses
+3.1.1.1.4.2 ii) observing polarising effects using microwaves and light
+3.1.2 Sensing
+3.1.2.1 Learning outcomes
+3.1.2.1.1 a) Describe and explain:
+3.1.2.1.1.1 i) current as the flow of charged particles
+3.1.2.1.1.2 ii) potential difference as energy per unit charge
+3.1.2.1.1.3 iii) resistance and conductance, including series and parallel combinations
+3.1.2.1.1.4 iv) the effect of internal resistance and the meaning of e.m.f.
+3.1.2.1.1.5 v) dissipation of power in electric circuits
+3.1.2.1.1.6 vi) the relationship between potential difference and current in ohmic resistors (Ohm’s law)
+3.1.2.1.1.7 vii) the action of a potential divider
+3.1.2.1.1.8 viii) simple electrical behaviour of metals, semiconductors and insulators in terms of the number density of mobile charge carriers
+3.1.2.1.1.9 ix) conservation of charge and energy
+3.1.2.1.2 b) Make appropriate use of:
+3.1.2.1.2.1 i) the terms: e.m.f, potential difference, current, charge, resistance, conductance, series, parallel, internal resistance, load, resistivity, conductivity, charge carrier number density
+3.1.2.1.2.2 ii) and recognise standard circuit symbols
+3.1.2.1.2.3 iii) graphs of current against potential difference and graphs of resistance or conductance against temperature for ohmic and non-ohmic devices or components
+3.1.2.1.3 c) Make calculations and estimates involving:
+3.1.2.1.3.1 i) R = V/I, G = I/V
+3.1.2.1.3.2 ii) V = E - I*r_internal
+3.1.2.1.3.3 iii) I = TQ/Tt
+3.1.2.1.3.4 iv) R = tL/A, G = vA/L
+3.1.2.1.3.5 v) simple cases of a potential divider in a circuit using: Vout = (R2/(R1+R2)) * Vin
+3.1.2.1.4 d) Demonstrate and apply knowledge and understanding of the following practical activities:
+3.1.2.1.4.1 i) investigating electrical characteristics for a range of ohmic and non-ohmic components using voltmeters and ammeters
+3.1.2.1.4.2 ii) determining the resistivity or conductivity of a metal
+3.1.2.1.4.3 iii) use of potential divider circuits, which may include sensors such as thermistor, LDR
+3.1.2.1.4.4 iv) the calibration of a sensor or instrument
+3.1.2.1.4.5 v) determining the internal resistance of a chemical cell or other source of e.m.f.
+3.2 Mechanical properties of materials
+3.2.1 Learning outcomes
+3.2.1.1 a) Describe and explain:
+3.2.1.1.1 i) simple mechanical behaviour: elastic and plastic deformation and fracture
+3.2.1.1.2 ii) direct evidence of the size of particles and their spacing
+3.2.1.1.3 iii) behaviour/structure of classes of materials, limited to metals, ceramics and polymers
+3.2.1.1.4 iv) one method of measuring Young modulus and fracture stress
+3.2.1.2 b) Make appropriate use of:
+3.2.1.2.1 i) the terms: stress, strain, Young modulus, tension, compression, fracture stress and yield stress, stiff, elastic, plastic, ductile, hard, brittle, tough, strong, dislocation
+3.2.1.2.2 ii) force–extension and stress–strain graphs up to fracture
+3.2.1.2.3 iii) tables and diagrams comparing materials by properties
+3.2.1.2.4 iv) images showing structures of materials
+3.2.1.3 c) Make calculations and estimates involving:
+3.2.1.3.1 i) Hooke’s Law, F = kx; energy stored in an elastic material (elastic strain energy)
+3.2.1.3.2 ii) stress = tension/cross-sectional area, strain = extension/original length, Young modulus E = stress/strain
+3.2.1.4 d) Demonstrate and apply knowledge and understanding of the following practical activities:
+3.2.1.4.1 i) plotting force–extension characteristics for arrangements of springs, rubber bands, polythene strips, etc.
+3.2.1.4.2 ii) determining Young modulus for a metal such as copper, steel or other wire
+
+4 Module 4: Understanding processes
+4.1 Waves and quantum behaviour
+4.1.1 Learning outcomes
+4.1.1.1 a) Describe and explain:
+4.1.1.1.1 i) production of standing waves by waves travelling in opposite directions
+4.1.1.1.2 ii) interference of waves from two slits
+4.1.1.1.3 iii) refraction of light at a plane boundary in terms of the changes in the speed of light and explanation in terms of the wave model of light
+4.1.1.1.4 iv) diffraction of waves passing through a narrow aperture
+4.1.1.1.5 v) diffraction by a grating
+4.1.1.1.6 vi) evidence that photons exchange energy in quanta E = hf
+4.1.1.1.7 vii) quantum behaviour: quanta have a certain probability of arrival; the probability is obtained by combining amplitude and phase for all possible paths
+4.1.1.1.8 viii) evidence from electron diffraction that electrons show quantum behaviour
+4.1.1.2 b) Make appropriate use of:
+4.1.1.2.1 i) the terms: phase, phasor, amplitude, probability, interference, diffraction, superposition, coherence, path difference, intensity, electronvolt, refractive index, work function, threshold frequency
+4.1.1.3 c) Make calculations and estimates involving:
+4.1.1.3.1 i) wavelength of standing waves
+4.1.1.3.2 ii) Snell’s Law, n = sin i/sin r
+4.1.1.3.3 iii) path differences for double slits and diffraction grating, for constructive interference
+4.1.1.3.4 iv) the energy carried by photons across the spectrum, E = hf
+4.1.1.3.5 v) the wavelength of a particle of momentum p, m = h/p
+4.1.1.4 d) Demonstrate and apply knowledge and understanding of the following practical activities:
+4.1.1.4.1 i) using an oscilloscope to determine frequencies
+4.1.1.4.2 ii) determining refractive index for a transparent block
+4.1.1.4.3 iii) superposition experiments using vibrating strings, sound waves, light and microwaves
+4.1.1.4.4 iv) determining the wavelength of light with a double-slit and diffraction grating
+4.1.1.4.5 v) determining the speed of sound in air by formation of stationary waves in a resonance tube
+4.1.1.4.6 vi) determining the Planck constant using different coloured LEDs
+4.2 Space, time and motion
+4.2.1 Learning outcomes
+4.2.1.1 a) Describe and explain:
+4.2.1.1.1 i) the use of vectors to represent displacement, velocity and acceleration
+4.2.1.1.2 ii) the trajectory of a body moving under constant acceleration, in one or two dimensions
+4.2.1.1.3 iii) the independent effect of perpendicular components of a force
+4.2.1.1.4 iv) calculation of work done, including cases where the force is not parallel to the displacement
+4.2.1.1.5 v) the principle of conservation of energy
+4.2.1.1.6 vi) power as rate of transfer of energy
+4.2.1.1.7 vii) measurement of displacement, velocity and acceleration
+4.2.1.1.8 viii) Newton's laws of motion
+4.2.1.1.9 ix) The principle of conservation of momentum; Newton's Third Law as a consequence
+4.2.1.2 b) Make appropriate use of:
+4.2.1.2.1 i) the terms: displacement, speed, velocity, acceleration, force, mass, vector, scalar, work, energy, power, momentum, impulse
+4.2.1.2.2 ii) graphs of accelerated motion; slope of displacement–time and velocity–time graphs; area underneath the line of a velocity–time graph
+4.2.1.2.3 iii) graphical representation of addition of vectors and changes in vector magnitude and direction
+4.2.1.3 c) Make calculations and estimates involving:
+4.2.1.3.1 i) the resolution of a vector into two components at right angles to each other
+4.2.1.3.2 ii) the addition of two vectors, graphically and algebraically
+4.2.1.3.3 iii) the kinematic equations for constant acceleration
+4.2.1.3.4 iv) momentum p = mv
+4.2.1.3.5 v) the equation F = ma
+4.2.1.3.6 vi) the principle of conservation of momentum
+4.2.1.3.7 vii) work done TE = FTs
+4.2.1.3.8 viii) kinetic energy = 1/2 mv^2
+4.2.1.3.9 ix) gravitational potential energy = mgh
+4.2.1.3.10 x) force, energy and power: power = TE/t, power = Fv
+4.2.1.3.11 xi) modelling changes of displacement and velocity in small discrete time steps, using a computational model or graphical representation of displacement and velocity vectors
+4.2.1.4 d) Demonstrate and apply knowledge and understanding of the following practical activities:
+4.2.1.4.1 i) investigating the motion and collisions of objects using trolleys, air-track gliders etc. with data obtained from ticker timers, light gates, data-loggers and video techniques
+4.2.1.4.2 ii) determining the acceleration of free fall, using trapdoor and electromagnet arrangement, lightgates or video technique
+4.2.1.4.3 iii) investigating terminal velocity with experiments such as dropping a ball-bearing in a viscous liquid or dropping paper cones in air
+
+5 Module 5: Rise and fall of the clockwork universe
+5.1 Models and rules
+5.1.1 Creating models
+5.1.1.1 Learning outcomes
+5.1.1.1.1 a) Describe and explain:
+5.1.1.1.1.1 i) capacitance as the ratio C = Q/V
+5.1.1.1.1.2 ii) the energy on a capacitor E = 1/2 QV
+5.1.1.1.1.3 iii) the exponential form of the decay of charge on a capacitor
+5.1.1.1.1.4 iv) the exponential form of radioactive decay
+5.1.1.1.1.5 v) simple harmonic motion of a mass with a restoring force proportional to displacement
+5.1.1.1.1.6 vi) simple harmonic motion of a system
+5.1.1.1.1.7 vii) kinetic and potential energy changes in simple harmonic motion
+5.1.1.1.1.8 viii) free and forced vibrations, damping and resonance
+5.1.1.1.2 b) Make appropriate use of:
+5.1.1.1.2.1 i) for a capacitor: the term: time constant x
+5.1.1.1.2.2 ii) for radioactive decay: the terms: activity, decay constant m, half-life T1/2, probability, randomness
+5.1.1.1.2.3 iii) for oscillating systems: the terms: simple harmonic motion, period, frequency, free and forced oscillations, resonance, damping
+5.1.1.1.2.4 iv) relationships of the form dx/dt = -kx
+5.1.1.1.2.5 v) exponential curves plotted with linear or logarithmic scales
+5.1.1.1.2.6 vi) energy of capacitor as area below a Q–V graph
+5.1.1.1.2.7 vii) x–t, v–t and a–t graphs of simple harmonic motion including their relative phases
+5.1.1.1.2.8 viii) amplitude of a resonator against driving frequency
+5.1.1.1.3 c) Make calculations and estimates involving:
+5.1.1.1.3.1 i) calculating activity and half-life of a radioactive source from data
+5.1.1.1.3.2 ii) solving equations of the form N = N0 e^(-mt)
+5.1.1.1.3.3 iii) calculating time constant x of a capacitor circuit from data
+5.1.1.1.3.4 iv) solving equations of the form Q = Q0 e^(-t/RC)
+5.1.1.1.3.5 v) C = Q/V, I = dQ/dt, E = 1/2 QV = 1/2 CV^2
+5.1.1.1.3.6 vi) T = 2π√(m/k) for a mass oscillating on a spring
+5.1.1.1.3.7 vii) T = 2π√(L/g) for a simple pendulum
+5.1.1.1.3.8 viii) F = kx; E = 1/2 kx^2
+5.1.1.1.3.9 ix) solving equations of the form d^2x/dt^2 = -kx/m
+5.1.1.1.3.10 x) x = A sin(2πft) or x = A cos(2πft)
+5.1.1.1.3.11 xi) E_total = 1/2 mv^2 + 1/2 kx^2
+5.1.1.1.4 d) Demonstrate and apply knowledge and understanding of the following practical activities:
+5.1.1.1.4.1 i) measuring the period/frequency of simple harmonic oscillations
+5.1.1.1.4.2 ii) qualitative observations of forced and damped oscillations
+5.1.1.1.4.3 iii) investigating the charging and discharging of a capacitor
+5.1.1.1.4.4 iv) determining the half-life of an isotope such as protactinium
+5.1.2 Out into space
+5.1.2.1 Learning outcomes
+5.1.2.1.1 a) Describe and explain:
+5.1.2.1.1.1 i) changes of gravitational and kinetic energy
+5.1.2.1.1.2 ii) motion in a uniform gravitational field
+5.1.2.1.1.3 iii) the gravitational field and potential of a point mass
+5.1.2.1.1.4 iv) angular velocity in rad s–1
+5.1.2.1.1.5 v) motion in a horizontal circle and in a circular gravitational orbit
+5.1.2.1.2 b) Make appropriate use of:
+5.1.2.1.2.1 i) the terms: force, kinetic and potential energy, gravitational field, gravitational potential, equipotential surface
+5.1.2.1.2.2 ii) graphs showing gravitational potential as area under a graph of gravitational field versus distance
+5.1.2.1.2.3 iii) graphs showing force as related to the tangent of a graph of gravitational potential energy versus distance
+5.1.2.1.2.4 iv) diagrams of gravitational fields and the corresponding equipotential surfaces
+5.1.2.1.3 c) Make calculations and estimates involving:
+5.1.2.1.3.1 i) uniform gravitational field, gravitational potential energy change = mgh
+5.1.2.1.3.2 ii) energy exchange, work done, ∆E = F∆s
+5.1.2.1.3.3 iii) a = v^2/r, F = mv^2/r = mrω^2
+5.1.2.1.3.4 iv) the radial components: F_grav = -GMm/r^2
+5.1.2.1.3.5 v) gravitational potential energy E_grav = -GMm/r
+5.1.2.1.3.6 vi) gravitational potential V_grav = -GM/r
+5.1.3 Our place in the universe
+5.1.3.1 Learning outcomes
+5.1.3.1.1 a) Describe and explain:
+5.1.3.1.1.1 i) the use of radar-type measurements to determine distances within the solar system
+5.1.3.1.1.2 ii) effect of relativistic time dilation using the relativistic factor
+5.1.3.1.1.3 iii) the measurement of relative velocities by radar observation
+5.1.3.1.1.4 iv) evidence for a ‘hot big bang’ origin of the universe from cosmological red-shifts
+5.1.3.1.2 b) Make appropriate use of, by sketching and interpreting:
+5.1.3.1.2.1 i) logarithmic scales of magnitudes of quantities: distance, size, mass, energy, power, brightness
+5.1.3.1.3 c) Make calculations and estimates of:
+5.1.3.1.3.1 i) distances and ages of astronomical objects
+5.1.3.1.3.2 ii) distances and relative velocities from radar-type measurements
+5.2 Matter
+5.2.1 Matter: very simple
+5.2.1.1 Learning outcomes
+5.2.1.1.1 a) Describe and explain:
+5.2.1.1.1.1 i) energy transfer producing a change in temperature and the concept of specific thermal capacity c
+5.2.1.1.1.2 ii) the behaviour of ideal gases
+5.2.1.1.1.3 iii) impulse FTt = Tp
+5.2.1.1.1.4 iv) the kinetic theory of ideal gases
+5.2.1.1.1.5 v) temperature as proportional to average energy per particle; average energy = 3/2 kT
+5.2.1.1.1.6 vi) random walk of molecules in a gas: displacement in N steps related to N
+5.2.1.1.2 b) Make appropriate use of:
+5.2.1.1.2.1 i) the terms: ideal gas, root mean square speed, absolute temperature, internal energy, Avogadro constant, Boltzmann constant, gas constant, mole
+5.2.1.1.2.2 ii) relationships between p, V, N and T for an ideal gas
+5.2.1.1.2.3 iii) force–time graph for an interaction with area under line representing the impulse
+5.2.1.1.3 c) Make calculations and estimates of:
+5.2.1.1.3.1 i) temperature and energy change using TE = mcTi
+5.2.1.1.3.2 ii) pV = NkT where N = nNA and Nk = nR
+5.2.1.1.3.3 iii) pV = 1/3 Nmc^2
+5.2.1.1.4 d) Demonstrate and apply knowledge and understanding of the following practical activities:
+5.2.1.1.4.1 i) using an electrical method to find the specific thermal capacity of a metal block or liquid
+5.2.1.1.4.2 ii) using appropriate apparatus to investigate the gas laws including determining absolute zero
+5.2.1.1.4.3 iii) using apparatus to investigate the relationship of volume with pressure
+5.2.2 Matter: hot or cold
+5.2.2.1 Learning outcomes
+5.2.2.1.1 a) Describe and explain:
+5.2.2.1.1.1 i) ratios of numbers of particles in quantum states of different energy, at different temperatures
+5.2.2.1.1.2 ii) qualitative effects of temperature in processes with an activation energy
+5.2.2.1.2 b) Make appropriate use of, by sketching and interpreting:
+5.2.2.1.2.1 i) graphs showing the variation of the Boltzmann factor with energy and temperature
+5.2.2.1.3 c) Make calculations and estimates of:
+5.2.2.1.3.1 i) ratios of characteristic energies to the energy kT
+5.2.2.1.3.2 ii) Boltzmann factor e^(-E/kT)
+
+6 Module 6: Field and particle physics
+6.1 Fields
+6.1.1 Electromagnetism
+6.1.1.1 Learning outcomes
+6.1.1.1.1 a) Describe and explain:
+6.1.1.1.1.1 i) the action of a transformer: magnetic flux from a coil; induced e.m.f = rate of change of flux linkage
+6.1.1.1.1.2 ii) the action of a dynamo: change of flux linked produced by relative motion of flux and conductor
+6.1.1.1.1.3 iii) electromagnetic forces; qualitatively as arising from tendency of flux lines to contract or interaction of induced poles
+6.1.1.1.1.4 iv) simple linked electric and magnetic circuits
+6.1.1.1.2 b) Make appropriate use of:
+6.1.1.1.2.1 i) the terms: B-field, magnetic field, flux, flux linkage, induced e.m.f, eddy currents
+6.1.1.1.2.2 ii) graphs of variations of currents, flux and induced e.m.f
+6.1.1.1.2.3 iii) diagrams of lines of flux in magnetic circuits; continuity of lines of flux
+6.1.1.1.3 c) Make calculations and estimates involving:
+6.1.1.1.3.1 i) z = BA, E = -d(Nz)/dt
+6.1.1.1.3.2 ii) F = ILB
+6.1.1.1.3.3 iii) V2/V1 = N2/N1 for an ideal transformer
+6.1.1.1.3.4 iv) I2/I1 = N1/N2 for an ideal transformer
+6.1.1.1.4 d) Demonstrate and apply knowledge and understanding of the following practical activities:
+6.1.1.1.4.1 i) observing induced e.m.fs produced under varying conditions
+6.1.1.1.4.2 ii) determining the uniform magnetic flux density between the poles of a magnet
+6.1.1.1.4.3 iii) investigate transformers
+6.1.2 Charge and field
+6.1.2.1 Learning outcomes
+6.1.2.1.1 a) Describe and explain:
+6.1.2.1.1.1 i) uniform electric field E = V/d
+6.1.2.1.1.2 ii) the electric field of a charged object, and the force on a charge in an electric field; inverse square law for point charge
+6.1.2.1.1.3 iii) electrical potential energy and electric potential due to a point charge; 1/r relationship
+6.1.2.1.1.4 iv) evidence for discreteness of charge on electron
+6.1.2.1.1.5 v) the force on a moving charged particle due to a uniform magnetic field
+6.1.2.1.1.6 vi) similarities and differences between electric and gravitational fields
+6.1.2.1.2 b) Make appropriate use of:
+6.1.2.1.2.1 i) the terms: charge, electric field, electric potential, equipotential surface, electronvolt
+6.1.2.1.2.2 ii) graphs showing electric potential as area under a graph of electric field versus distance
+6.1.2.1.2.3 iii) graphs showing force as related to the tangent of a graph of electric potential energy versus distance
+6.1.2.1.2.4 iv) diagrams of electric fields and the corresponding equipotential surfaces
+6.1.2.1.3 c) Make calculations and estimates involving:
+6.1.2.1.3.1 i) for radial components F_electric = kqQ/r^2, E_electric = kQ/r^2
+6.1.2.1.3.2 ii) E_electric = -dV_electric/dr, E_electric = V/d for a uniform field
+6.1.2.1.3.3 iii) electrical potential energy = kQq/r, V_electric = kQ/r
+6.1.2.1.3.4 iv) F = qvB
+6.2 Fundamental particles
+6.2.1 Probing deep into matter
+6.2.1.1 Learning outcomes
+6.2.1.1.1 a) Describe and explain:
+6.2.1.1.1.1 i) use of particle accelerators to generate high-energy beams of particles for scattering
+6.2.1.1.1.2 ii) evidence from scattering for a small massive nucleus within the atom
+6.2.1.1.1.3 iii) evidence of discrete energy levels in atoms
+6.2.1.1.1.4 iv) a simple model of the atom as the quantum behaviour of electrons in a confined space
+6.2.1.1.1.5 v) simple picture of the quark structure of protons and neutrons
+6.2.1.1.1.6 vi) application of conservation of mass/energy, charge and lepton number in balanced nuclear equations
+6.2.1.1.1.7 vii) relativistic calculations for particles travelling at very high speed
+6.2.1.1.2 b) Make appropriate use of:
+6.2.1.1.2.1 i) the terms: energy level, scattering, nucleus, proton, neutron, nucleon, electron, positron, quark, gluon, neutrino, hadron, lepton, antiparticle, lepton number
+6.2.1.1.2.2 ii) paths of scattered particles
+6.2.1.1.2.3 iii) electron standing waves in simple models of an atom
+6.2.1.1.3 c) Make calculations and estimates involving:
+6.2.1.1.3.1 i) motion of a charged particle in magnetic field using F = qvB
+6.2.1.1.3.2 ii) kinetic and potential energy of a scattered charged particle
+6.2.1.1.3.3 iii) E_rest = mc^2 and relativistic factor
+6.2.1.1.3.4 iv) E_total = cE_rest
+6.2.2 Ionising radiation and risk
+6.2.2.1 Learning outcomes
+6.2.2.1.1 a) Describe and explain:
+6.2.2.1.1.1 i) the nature and effects of ionising radiations: differences in ionising and penetrating power, effects on living tissue
+6.2.2.1.1.2 ii) the stability and decay of nuclei in terms of binding energy; transformation of nucleus on emission of radiation
+6.2.2.1.1.3 iii) nuclear fission; chain reaction; nuclear fusion; nuclear power generation
+6.2.2.1.2 b) Make appropriate use of:
+6.2.2.1.2.1 i) the terms: nucleon number, proton number, isotope, binding energy, atomic mass unit, absorbed and effective dose, risk
+6.2.2.1.2.2 ii) plots of binding energy per nucleon of nuclei against nucleon number
+6.2.2.1.3 c) Make calculations and estimates involving:
+6.2.2.1.3.1 i) activity of a sample of radioactive material
+6.2.2.1.3.2 ii) absorbed dose in gray = energy deposited per unit mass
+6.2.2.1.3.3 iii) effective dose in sievert = absorbed dose in gray × quality factor
+6.2.2.1.3.4 iv) energy changes from nuclear transformations: E_rest = mc^2
+6.2.2.1.4 d) Demonstrate and apply knowledge and understanding of the following practical activities:
+6.2.2.1.4.1 i) studying the absorption of α-particles, β-particles and γ-rays by appropriate materials
+6.2.2.1.4.2 ii) determining the half-life of an isotope such as protactinium

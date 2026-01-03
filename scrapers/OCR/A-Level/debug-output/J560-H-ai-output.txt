@@ -1,0 +1,516 @@
+1. Number Operations and Integers
+   1.1. Calculations with integers
+      1.1.1. Four rules
+         1.1.1.1. Use non-calculator methods to calculate the sum, difference, product and quotient of positive and negative whole numbers.
+   1.2. Whole number theory
+      1.2.1. Definitions and terms
+         1.2.1.1. Understand and use the terms odd, even, prime, factor (divisor), multiple, common factor (divisor), common multiple, square, cube, root.
+         1.2.1.2. Understand and use place value.
+      1.2.2. Prime numbers
+         1.2.2.1. Identify prime numbers less than 20.
+         1.2.2.2. Identify prime numbers.
+         1.2.2.3. Use power notation in expressing a whole number as a product of its prime factors.
+         1.2.2.4. Express a whole number as a product of its prime factors.
+         1.2.2.5. Understand that each number can be expressed as a product of prime factors in only one way.
+      1.2.3. Highest Common Factor (HCF) and Lowest Common Multiple (LCM)
+         1.2.3.1. Find the HCF and LCM of two whole numbers by listing.
+         1.2.3.2. Find the HCF and LCM of two whole numbers from their prime factorisations.
+   1.3. Combining arithmetic operations
+      1.3.1. Priority of operations
+         1.3.1.1. Know the conventional order for performing calculations involving brackets, four rules and powers, roots and reciprocals.
+   1.4. Inverse operations
+      1.4.1. Inverse operations
+         1.4.1.1. Know that addition and subtraction, multiplication and division, and powers and roots, are inverse operations and use this to simplify and check calculations, for example, in reversing arithmetic in “I’m thinking of a number” or “missing digit” problems.
+
+2. Fractions, Decimals and Percentages
+   2.1. Fractions
+      2.1.1. Equivalent fractions
+         2.1.1.1. Recognise and use equivalence between simple fractions and mixed numbers.
+      2.1.2. Calculations with fractions
+         2.1.2.1. Add, subtract, multiply and divide simple fractions (proper and improper), including mixed numbers and negative fractions.
+         2.1.2.2. Carry out more complex calculations, including the use of improper fractions.
+      2.1.3. Fractions of a quantity
+         2.1.3.1. Calculate a fraction of a quantity.
+         2.1.3.2. Calculate with fractions greater than 1.
+         2.1.3.3. Express one quantity as a fraction of another.
+   2.2. Decimal fractions
+      2.2.1. Decimals and fractions
+         2.2.1.1. Express a simple fraction as a terminating decimal or vice versa, without a calculator.
+         2.2.1.2. Use division to convert a simple fraction to a decimal.
+         2.2.1.3. Convert a recurring decimal to an exact fraction or vice versa.
+         2.2.1.4. Understand and use place value in decimals.
+      2.2.2. Addition, subtraction and multiplication of decimals
+         2.2.2.1. Add, subtract and multiply decimals including negative decimals, without a calculator.
+      2.2.3. Division of decimals
+         2.2.3.1. Divide a decimal by a whole number, including negative decimals, without a calculator.
+         2.2.3.2. Without a calculator, divide a decimal by a decimal.
+   2.3. Percentages
+      2.3.1. Percentage conversions
+         2.3.1.1. Convert between fractions, decimals and percentages.
+      2.3.2. Percentage calculations
+         2.3.2.1. Understand percentage is ‘number of parts per hundred’.
+         2.3.2.2. Calculate a percentage of a quantity, and express one quantity as a percentage of another, with or without a calculator.
+      2.3.3. Percentage change
+         2.3.3.1. Increase or decrease a quantity by a simple percentage, including simple decimal or fractional multipliers.
+         2.3.3.2. Express percentage change as a decimal or fractional multiplier.
+         2.3.3.3. Apply this to percentage change problems (including original value problems).
+   2.4. Ordering fractions, decimals and percentages
+      2.4.1. Ordinality
+         2.4.1.1. Order integers, fractions, decimals and percentages.
+      2.4.2. Symbols
+         2.4.2.1. Use <, >, ≤, ≥, =, ≠.
+
+3. Indices and Surds
+   3.1. Powers and roots
+      3.1.1. Index notation
+         3.1.1.1. Use positive integer indices to write, for example, 2×2×2×2=2⁴.
+         3.1.1.2. Use negative integer indices to represent reciprocals.
+         3.1.1.3. Use fractional indices to represent roots and combinations of powers and roots.
+      3.1.2. Calculation and estimation of powers and roots
+         3.1.2.1. Calculate positive integer powers and exact roots.
+         3.1.2.2. Calculate with integer powers.
+         3.1.2.3. Calculate fractional powers.
+         3.1.2.4. Calculate with roots.
+         3.1.2.5. Estimate powers and roots.
+         3.1.2.6. Recognise simple powers of 2, 3, 4 and 5.
+      3.1.3. Laws of indices
+         3.1.3.1. Know and apply: a^m × a^n = a^(m+n), a^m ÷ a^n = a^(m-n), (a^m)^n = a^(mn).
+   3.2. Standard form
+      3.2.1. Standard form
+         3.2.1.1. Interpret and order numbers expressed in standard form.
+         3.2.1.2. Convert numbers to and from standard form.
+      3.2.2. Calculations with numbers in standard form
+         3.2.2.1. Use a calculator to perform calculations with numbers in standard form.
+         3.2.2.2. Add, subtract, multiply and divide numbers in standard form, without a calculator.
+   3.3. Exact calculations
+      3.3.1. Exact calculations
+         3.3.1.1. Use fractions in exact calculations without a calculator.
+         3.3.1.2. Use multiples of π in exact calculations without a calculator.
+         3.3.1.3. Use surds in exact calculations without a calculator.
+      3.3.2. Manipulating surds
+         3.3.2.1. Simplify expressions with surds, including rationalising denominators.
+
+4. Approximation and Estimation
+   4.1. Approximation and estimation
+      4.1.1. Rounding
+         4.1.1.1. Round numbers to the nearest whole number, ten, hundred, etc. or to a given number of significant figures (sf) or decimal places (dp).
+         4.1.1.2. Round answers to an appropriate level of accuracy.
+      4.1.2. Estimation
+         4.1.2.1. Estimate or check, without a calculator, the result of a calculation by using suitable approximations.
+         4.1.2.2. Estimate or check, without a calculator, the result of more complex calculations including roots.
+         4.1.2.3. Use the symbol ≈ appropriately.
+      4.1.3. Upper and lower bounds
+         4.1.3.1. Use inequality notation to write down an error interval for a number or measurement rounded or truncated to a given degree of accuracy.
+         4.1.3.2. Calculate the upper and lower bounds of a calculation using numbers rounded to a known degree of accuracy.
+         4.1.3.3. Understand the difference between bounds of discrete and continuous quantities.
+         4.1.3.4. Apply and interpret limits of accuracy.
+
+5. Ratio, Proportion and Rates Of Change
+   5.1. Calculations with ratio
+      5.1.1. Equivalent ratios
+         5.1.1.1. Find the ratio of quantities in the form a : b and simplify.
+         5.1.1.2. Find the ratio of quantities in the form 1 : n.
+      5.1.2. Division in a given ratio
+         5.1.2.1. Split a quantity into two parts given the ratio of the parts.
+         5.1.2.2. Split a quantity into three or more parts given the ratio of the parts.
+         5.1.2.3. Express the division of a quantity into two parts as a ratio.
+         5.1.2.4. Calculate one quantity from another, given the ratio of the two quantities.
+      5.1.3. Ratios and fractions
+         5.1.3.1. Interpret a ratio of two parts as a fraction of a whole.
+      5.1.4. Solve ratio and proportion problems
+         5.1.4.1. Solve simple ratio and proportion problems.
+         5.1.4.2. Understand the relationship between ratio and linear functions.
+   5.2. Direct and inverse proportion
+      5.2.1. Direct proportion
+         5.2.1.1. Solve simple problems involving quantities in direct proportion including algebraic proportions.
+         5.2.1.2. Solve more formal problems involving quantities in direct proportion (i.e. where y ∝ x).
+         5.2.1.3. Formulate equations and solve problems involving a quantity in direct proportion to a power or root of another quantity.
+         5.2.1.4. Recognise that if y = kx, where k is a constant, then y is proportional to x.
+      5.2.2. Inverse proportion
+         5.2.2.1. Solve simple word problems involving quantities in inverse proportion or simple algebraic proportions.
+         5.2.2.2. Solve more formal problems involving quantities in inverse proportion (i.e. where y ∝ 1/x).
+         5.2.2.3. Formulate equations and solve problems involving a quantity in inverse proportion to a power or root of another quantity.
+         5.2.2.4. Recognise that if y = k/x, where k is a constant, then y is inversely proportional to x.
+   5.3. Discrete growth and decay
+      5.3.1. Growth and decay
+         5.3.1.1. Calculate simple interest including in financial contexts.
+         5.3.1.2. Solve problems step-by-step involving multipliers over a given interval, for example, compound interest, depreciation, etc.
+         5.3.1.3. Express exponential growth or decay as a formula.
+         5.3.1.4. Solve and interpret answers in growth and decay problems.
+
+6. Algebra
+   6.1. Algebraic expressions
+      6.1.1. Algebraic terminology and proofs
+         6.1.1.1. Understand and use the concepts and vocabulary of expressions, equations, formulae, inequalities, terms and factors.
+         6.1.1.2. Recognise the difference between an equation and an identity, and show algebraic expressions are equivalent.
+         6.1.1.3. Use algebra to construct proofs and arguments.
+      6.1.2. Collecting like terms in sums and differences of terms
+         6.1.2.1. Simplify algebraic expressions by collecting like terms.
+      6.1.3. Simplifying products and quotients
+         6.1.3.1. Simplify algebraic products and quotients.
+         6.1.3.2. Simplify algebraic products and quotients using the laws of indices.
+      6.1.4. Multiplying out brackets
+         6.1.4.1. Simplify algebraic expressions by multiplying a single term over a bracket.
+         6.1.4.2. Expand products of two binomials.
+         6.1.4.3. Expand products of more than two binomials.
+      6.1.5. Factorising
+         6.1.5.1. Take out common factors.
+         6.1.5.2. Factorise quadratic expressions of the form x² + bx + c.
+         6.1.5.3. Factorise quadratic expressions of the form ax² + bx + c (where a ≠ 0 or 1).
+      6.1.6. Completing the square
+         6.1.6.1. Complete the square on a quadratic expression.
+      6.1.7. Algebraic fractions
+         6.1.7.1. Simplify and manipulate algebraic fractions.
+   6.2. Algebraic formulae
+      6.2.1. Formulate algebraic expressions
+         6.2.1.1. Formulate simple formulae and expressions from real-world contexts.
+      6.2.2. Substitute numerical values into formulae and expressions
+         6.2.2.1. Substitute positive numbers into simple expressions and formulae to find the value of the subject.
+         6.2.2.2. Substitute positive or negative numbers into more complex formulae, including powers, roots and algebraic fractions.
+      6.2.3. Change the subject of a formula
+         6.2.3.1. Rearrange formulae to change the subject, where the subject appears once only.
+         6.2.3.2. Rearrange formulae to change the subject, including cases where the subject appears twice, or where a power or reciprocal of the subject appears.
+      6.2.4. Recall and use standard formulae
+         6.2.4.1. Recall and use: Circumference of a circle 2πr = πd, Area of a circle πr².
+         6.2.4.2. Recall and use: Pythagoras’ theorem a² + b² = c².
+         6.2.4.3. Recall and use: The quadratic formula x = [-b ± √(b² - 4ac)] / 2a.
+         6.2.4.4. Recall and use: Trigonometry formulae.
+      6.2.5. Use kinematics formulae
+         6.2.5.1. Use: v = u + at, s = ut + ½at², v² = u² + 2as where a is constant acceleration, u is initial velocity, v is final velocity, s is displacement from position when t = 0 and t is time taken.
+   6.3. Algebraic equations
+      6.3.1. Linear equations in one unknown
+         6.3.1.1. Solve linear equations in one unknown algebraically.
+         6.3.1.2. Set up and solve linear equations in mathematical and non-mathematical contexts, including those with the unknown on both sides of the equation.
+         6.3.1.3. Interpret solutions in context.
+      6.3.2. Quadratic equations
+         6.3.2.1. Solve quadratic equations with coefficient of x equal to 1 by factorising.
+         6.3.2.2. Know the quadratic formula.
+         6.3.2.3. Rearrange and solve quadratic equations by factorising, completing the square or using the quadratic formula.
+      6.3.3. Simultaneous equations
+         6.3.3.1. Set up and solve two linear simultaneous equations in two variables algebraically.
+         6.3.3.2. Set up and solve two simultaneous equations in two variables algebraically (including where one is a quadratic or that result in a quadratic).
+      6.3.4. Approximate solutions using a graph
+         6.3.4.1. Use a graph to find the approximate solution of a linear equation.
+         6.3.4.2. Use graphs to find approximate roots of quadratic equations and the approximate solution of two linear simultaneous equations.
+         6.3.4.3. Know that the coordinates of the points of intersection of a curve and a straight line are the solutions to the simultaneous equations for the line and curve.
+      6.3.5. Approximate solutions by iteration
+         6.3.5.1. Find approximate solutions to equations using systematic sign-change methods (for example, decimal search or interval bisection) when there is no simple analytical method of solving them.
+   6.4. Algebraic inequalities
+      6.4.1. Inequalities in one variable
+         6.4.1.1. Understand and use the symbols <, ≤, > and ≥.
+         6.4.1.2. Solve linear inequalities in one variable, expressing solutions on a number line using the conventional notation.
+         6.4.1.3. Solve quadratic inequalities in one variable.
+         6.4.1.4. Express solutions in set notation.
+      6.4.2. Inequalities in two variables
+         6.4.2.1. Solve (several) linear inequalities in two variables, representing the solution set on a graph.
+   6.5. Language of functions
+      6.5.1. Functions
+         6.5.1.1. Interpret, where appropriate, simple expressions as functions with inputs and outputs.
+         6.5.1.2. Interpret the reverse process as the ‘inverse function’.
+         6.5.1.3. Interpret the succession of two functions as a ‘composite function’.
+   6.6. Sequences
+      6.6.1. Generate terms of a sequence
+         6.6.1.1. Generate a sequence by spotting a pattern or using a term-to-term rule given algebraically or in words.
+         6.6.1.2. Generate a sequence from a formula for the nth term.
+         6.6.1.3. Use subscript notation for position-to-term and term-to-term rules.
+         6.6.1.4. Find a formula for the nth term of an arithmetic sequence.
+         6.6.1.5. Find a formula for the nth term of a quadratic sequence.
+      6.6.2. Special sequences
+         6.6.2.1. Recognise sequences of triangular, square and cube numbers, and simple arithmetic progressions.
+         6.6.2.2. Recognise Fibonacci and quadratic sequences, and simple geometric progressions (r^n where n is an integer and r is a rational number > 0).
+         6.6.2.3. Generate and find nth terms of other sequences.
+
+7. Graphs of Equations and Functions
+   7.1. Graphs of equations and functions
+      7.1.1. x- and y-coordinates
+         7.1.1.1. Work with x- and y-coordinates in all four quadrants.
+      7.1.2. Graphs of equations and functions
+         7.1.2.1. Use a table of values to plot graphs of linear and quadratic functions.
+         7.1.2.2. Use a table of values to plot other polynomial graphs and reciprocals.
+         7.1.2.3. Use a table of values to plot exponential graphs.
+      7.1.3. Polynomial and reciprocal functions
+         7.1.3.1. Recognise and sketch the graphs of simple linear and quadratic functions.
+         7.1.3.2. Recognise and sketch graphs of: y = x³, y = 1/x.
+         7.1.3.3. Sketch graphs of quadratic functions, identifying the turning point by completing the square.
+         7.1.3.4. Find the roots of a quadratic equation algebraically.
+      7.1.4. Exponential functions
+         7.1.4.1. Recognise and sketch graphs of exponential functions in the form y = k^x for positive k.
+      7.1.5. Trigonometric functions
+         7.1.5.1. Recognise and sketch the graphs of y = sin x, y = cos x and y = tan x.
+      7.1.6. Equations of circles
+         7.1.6.1. Recognise and use the equation of a circle with centre at the origin.
+   7.2. Straight line graphs
+      7.2.1. Straight line graphs
+         7.2.1.1. Find and interpret the gradient and intercept of straight lines, graphically and using y = mx + c.
+         7.2.1.2. Use the form y = mx + c to find and sketch equations of straight lines.
+         7.2.1.3. Identify the solution sets of linear inequalities in two variables, using the convention of dashed and solid lines.
+         7.2.1.4. Find the equation of a line through two given points, or through one point with a given gradient.
+      7.2.2. Parallel and perpendicular lines
+         7.2.2.1. Identify and find equations of parallel lines.
+         7.2.2.2. Identify and find equations of perpendicular lines.
+         7.2.2.3. Calculate the equation of a tangent to a circle at a given point.
+   7.3. Transformations of curves and their equations
+      7.3.1. Translations and reflections
+         7.3.1.1. Identify and sketch translations and reflections of a given graph (or the graph of a given equation).
+   7.4. Interpreting graphs
+      7.4.1. Graphs of real-world contexts
+         7.4.1.1. Construct and interpret graphs in real-world contexts.
+         7.4.1.2. Recognise and interpret graphs that illustrate direct and inverse proportion.
+      7.4.2. Gradients
+         7.4.2.1. Understand the relationship between gradient and ratio.
+         7.4.2.2. Interpret straight line gradients as rates of change.
+         7.4.2.3. Calculate or estimate gradients of graphs, and interpret in contexts such as distance-time graphs, velocity-time graphs and financial graphs.
+         7.4.2.4. Apply the concepts of average and instantaneous rate of change (gradients of chords or tangents) in numerical, algebraic and graphical contexts.
+      7.4.3. Areas
+         7.4.3.1. Calculate or estimate areas under graphs, and interpret in contexts such as distance-time graphs, velocity-time graphs and financial graphs.
+
+8. Basic Geometry
+   8.1. Conventions, notation and terms
+      8.1.1. 2D and 3D shapes
+         8.1.1.1. Use the terms points, lines, line segments, vertices, edges, planes, parallel lines, perpendicular lines.
+      8.1.2. Angles
+         8.1.2.1. Know the terms acute, obtuse, right and reflex angles.
+         8.1.2.2. Use the standard conventions for labelling and referring to the sides and angles of triangles.
+      8.1.3. Polygons
+         8.1.3.1. Know the terms: regular polygon, scalene, isosceles and equilateral triangle, quadrilateral, square, rectangle, kite, rhombus, parallelogram, trapezium, pentagon, hexagon, octagon.
+      8.1.4. Polyhedra and other solids
+         8.1.4.1. Recognise the terms face, surface, edge, and vertex, cube, cuboid, prism, cylinder, pyramid, cone and sphere.
+      8.1.5. Diagrams
+         8.1.5.1. Draw diagrams from written descriptions as required by questions.
+      8.1.6. Geometrical instruments
+         8.1.6.1. Use a ruler to construct and measure straight lines.
+         8.1.6.2. Use a protractor to construct and measure angles.
+         8.1.6.3. Use compasses to construct circles.
+      8.1.7. x- and y-coordinates
+         8.1.7.1. Use x- and y-coordinates in plane geometry problems, including transformations of simple shapes.
+   8.2. Ruler and compass constructions
+      8.2.1. Perpendicular bisector
+         8.2.1.1. Construct the perpendicular bisector and midpoint of a line segment.
+      8.2.2. Angle bisector
+         8.2.2.1. Construct the bisector of an angle formed from two lines.
+      8.2.3. Perpendicular from a point to a line
+         8.2.3.1. Construct the perpendicular from a point to a line.
+         8.2.3.2. Construct the perpendicular to a line at a point.
+         8.2.3.3. Know that the perpendicular distance from a point to a line is the shortest distance to the line.
+      8.2.4. Loci
+         8.2.4.1. Apply ruler and compass constructions to construct figures and identify the loci of points, to include real-world problems.
+         8.2.4.2. Understand the term ‘equidistant’.
+   8.3. Angles
+      8.3.1. Angles at a point
+         8.3.1.1. Know and use the sum of the angles at a point is 360°.
+         8.3.1.2. Apply these angle facts to find angles in rectilinear figures, and to justify results in simple proofs.
+      8.3.2. Angles on a line
+         8.3.2.1. Know that the sum of the angles at a point on a line is 180°.
+      8.3.3. Angles between intersecting and parallel lines
+         8.3.3.1. Know and use: vertically opposite angles are equal, alternate angles on parallel lines are equal, corresponding angles on parallel lines are equal.
+      8.3.4. Angles in polygons
+         8.3.4.1. Derive and use the sum of the interior angles of a triangle is 180°.
+         8.3.4.2. Derive and use the sum of the exterior angles of a polygon is 360°.
+         8.3.4.3. Find the sum of the interior angles of a polygon.
+         8.3.4.4. Find the interior angle of a regular polygon.
+   8.4. Properties of polygons
+      8.4.1. Properties of a triangle
+         8.4.1.1. Know the basic properties of isosceles, equilateral and right-angled triangles.
+         8.4.1.2. Use these facts to find lengths and angles in rectilinear figures and in simple proofs.
+         8.4.1.3. Use these facts in more formal proofs of geometrical results, for example circle theorems.
+      8.4.2. Properties of quadrilaterals
+         8.4.2.1. Know the basic properties of the square, rectangle, parallelogram, trapezium, kite and rhombus.
+         8.4.2.2. Use these facts to find lengths and angles in rectilinear figures and in simple proofs.
+         8.4.2.3. Use these facts in more formal proofs of geometrical results, for example circle theorems.
+      8.4.3. Symmetry
+         8.4.3.1. Identify reflection and rotation symmetries of triangles, quadrilaterals and other polygons.
+   8.5. Circles
+      8.5.1. Circle nomenclature
+         8.5.1.1. Understand and use the terms centre, radius, chord, diameter and circumference.
+         8.5.1.2. Understand and use the terms tangent, arc, sector and segment.
+      8.5.2. Angles subtended at centre and circumference
+         8.5.2.1. Apply and prove: the angle subtended by an arc at the centre is twice the angle at the circumference.
+      8.5.3. Angle in a semicircle
+         8.5.3.1. Apply and prove: the angle on the circumference subtended by a diameter is a right angle.
+      8.5.4. Angles in the same segment
+         8.5.4.1. Apply and prove: two angles in the same segment are equal.
+      8.5.5. Angle between radius and chord
+         8.5.5.1. Apply and prove: a radius or diameter bisects a chord if and only if it is perpendicular to the chord.
+      8.5.6. Angle between radius and tangent
+         8.5.6.1. Apply and prove: for a point P on the circumference, the radius or diameter through P is perpendicular to the tangent at P.
+      8.5.7. The alternate segment theorem
+         8.5.7.1. Apply and prove: for a point P on the circumference, the angle between the tangent and a chord through P equals the angle subtended by the chord in the opposite segment.
+      8.5.8. Cyclic quadrilaterals
+         8.5.8.1. Apply and prove: the opposite angles of a cyclic quadrilateral are supplementary.
+   8.6. Three-dimensional shapes
+      8.6.1. 3-dimensional solids
+         8.6.1.1. Recognise and know the properties of the cube, cuboid, prism, cylinder, pyramid, cone and sphere.
+      8.6.2. Plans and elevations
+         8.6.2.1. Interpret plans and elevations of simple 3D solids.
+         8.6.2.2. Construct plans and elevations of simple 3D solids, and representations (e.g. using isometric paper) of solids from plans and elevations.
+
+9. Congruence and Similarity
+   9.1. Plane isometric transformations
+      9.1.1. Reflection
+         9.1.1.1. Reflect a simple shape in a given mirror line, and identify the mirror line from a shape and its image.
+         9.1.1.2. Identify a mirror line x = a, y = b or y = ± x from a simple shape and its image under reflection.
+      9.1.2. Rotation
+         9.1.2.1. Rotate a simple shape clockwise or anti-clockwise through a multiple of 90° about a given centre of rotation.
+         9.1.2.2. Identify the centre, angle and sense of a rotation from a simple shape and its image under rotation.
+      9.1.3. Translation
+         9.1.3.1. Use a column vector to describe a translation of a simple shape, and perform a specified translation.
+      9.1.4. Combinations of transformations
+         9.1.4.1. Perform a sequence of isometric transformations (reflections, rotations or translations), on a simple shape.
+         9.1.4.2. Describe the resulting transformation and the changes and invariance achieved.
+   9.2. Congruence
+      9.2.1. Congruent triangles
+         9.2.1.1. Identify congruent triangles.
+         9.2.1.2. Prove that two triangles are congruent using the cases: 3 sides (SSS), 2 angles, 1 side (ASA), 2 sides, included angle (SAS), Right angle, hypotenuse, side (RHS).
+      9.2.2. Applying congruent triangles
+         9.2.2.1. Apply congruent triangles in calculations and simple proofs.
+   9.3. Plane vector geometry
+      9.3.1. Vector arithmetic
+         9.3.1.1. Understand addition, subtraction and scalar multiplication of vectors.
+         9.3.1.2. Use vectors in geometric arguments and proofs.
+      9.3.2. Column vectors
+         9.3.2.1. Represent a 2-dimensional vector as a column vector, and draw column vectors on a square or coordinate grid.
+   9.4. Similarity
+      9.4.1. Similar triangles
+         9.4.1.1. Identify similar triangles.
+         9.4.1.2. Prove that two triangles are similar.
+      9.4.2. Enlargement
+         9.4.2.1. Enlarge a simple shape from a given centre using a whole number scale factor, and identify the scale factor of an enlargement.
+         9.4.2.2. Identify the centre and scale factor (including fractional scale factors) of an enlargement of a simple shape, and perform such an enlargement on a simple shape.
+         9.4.2.3. Perform and recognise enlargements with negative scale factors.
+      9.4.3. Similar shapes
+         9.4.3.1. Compare lengths, areas and volumes using ratio notation and scale factors.
+         9.4.3.2. Apply similarity to calculate unknown lengths in similar figures.
+         9.4.3.3. Understand the relationship between lengths, areas and volumes of similar shapes.
+
+10. Mensuration
+   10.1. Units and measurement
+      10.1.1. Units of measurement
+         10.1.1.1. Use and convert standard units of measurement for length, area, volume/capacity, mass, time and money.
+         10.1.1.2. Use and convert standard units in algebraic contexts.
+      10.1.2. Compound units
+         10.1.2.1. Use and convert simple compound units (e.g. for speed, rates of pay, unit pricing).
+         10.1.2.2. Use and convert other compound units (e.g. density, pressure).
+         10.1.2.3. Know and apply: density = mass ÷ volume, speed = distance ÷ time.
+         10.1.2.4. Use and convert compound units in algebraic contexts.
+      10.1.3. Maps and scale drawings
+         10.1.3.1. Use the scale of a map, and work with bearings.
+         10.1.3.2. Construct and interpret scale drawings.
+   10.2. Perimeter calculations
+      10.2.1. Perimeter of rectilinear shapes
+         10.2.1.1. Calculate the perimeter of rectilinear shapes.
+      10.2.2. Circumference of a circle
+         10.2.2.1. Know and apply the formula circumference = 2πr = πd to calculate the circumference of a circle.
+         10.2.2.2. Calculate the arc length of a sector of a circle given its angle and radius.
+      10.2.3. Perimeter of composite shapes
+         10.2.3.1. Apply perimeter formulae in calculations involving the perimeter of composite 2D shapes.
+   10.3. Area calculations
+      10.3.1. Area of a triangle
+         10.3.1.1. Know and apply the formula: area = ½ × base × height.
+         10.3.1.2. Know and apply the formula: area = ½ × ab × sin C.
+      10.3.2. Area of a parallelogram
+         10.3.2.1. Know and apply the formula: area = base × height.
+      10.3.3. Area of a trapezium
+         10.3.3.1. Calculate the area of a trapezium.
+      10.3.4. Area of a circle
+         10.3.4.1. Know and apply the formula area = πr² to calculate the area of a circle.
+         10.3.4.2. Calculate the area of a sector of a circle given its angle and radius.
+      10.3.5. Area of composite shapes
+         10.3.5.1. Apply area formulae in calculations involving the area of composite 2D shapes.
+   10.4. Volume and surface area calculations
+      10.4.1. Polyhedra
+         10.4.1.1. Calculate the surface area and volume of cuboids and other right prisms (including cylinders).
+      10.4.2. Cones and spheres
+         10.4.2.1. Calculate the surface area and volume of spheres, cones and simple composite solids (formulae will be given).
+      10.4.3. Pyramids
+         10.4.3.1. Calculate the surface area and volume of a pyramid (the formula ⅓ × area of base × height will be given).
+   10.5. Triangle mensuration
+      10.5.1. Pythagoras’ theorem
+         10.5.1.1. Know, derive and apply Pythagoras’ theorem a² + b² = c² to find lengths in right-angled triangles in 2D figures.
+         10.5.1.2. Apply Pythagoras’ theorem in more complex figures, including 3D figures.
+      10.5.2. Trigonometry in right-angled triangles
+         10.5.2.1. Know and apply the trigonometric ratios, sin θ, cos θ and tan θ and apply them to find angles and lengths in right-angled triangles in 2D figures.
+         10.5.2.2. Apply the trigonometry of right-angled triangles in more complex figures, including 3D figures.
+      10.5.3. Exact trigonometric ratios
+         10.5.3.1. Know the exact values of sin θ and cos θ for θ = 0°, 30°, 45°, 60° and 90°.
+         10.5.3.2. Know the exact value of tan θ for θ = 0°, 30°, 45° and 60°.
+      10.5.4. Sine rule
+         10.5.4.1. Know and apply the sine rule, a/sin A = b/sin B = c/sin C, to find lengths and angles.
+      10.5.5. Cosine rule
+         10.5.5.1. Know and apply the cosine rule, a² = b² + c² - 2bc cos A, to find lengths and angles.
+
+11. Probability
+   11.1. Basic probability and experiments
+      11.1.1. The probability scale
+         11.1.1.1. Use the 0-1 probability scale as a measure of likelihood of random events, for example, ‘impossible’ with 0, ‘evens’ with 0.5, ‘certain’ with 1.
+      11.1.2. Relative frequency
+         11.1.2.1. Record, describe and analyse the relative frequency of outcomes of repeated experiments using tables and frequency trees.
+      11.1.3. Relative frequency and probability
+         11.1.3.1. Use relative frequency as an estimate of probability.
+         11.1.3.2. Understand that relative frequencies approach the theoretical probability as the number of trials increases.
+      11.1.4. Equally likely outcomes and probability
+         11.1.4.1. Calculate probabilities, expressed as fractions or decimals, in simple experiments with equally likely outcomes, for example flipping coins, rolling dice, etc.
+         11.1.4.2. Apply ideas of randomness and fairness in simple experiments.
+         11.1.4.3. Calculate probabilities of simple combined events, for example rolling two dice and looking at the totals.
+         11.1.4.4. Use probabilities to calculate the number of expected outcomes in repeated experiments.
+   11.2. Combined events and probability diagrams
+      11.2.1. Sample spaces
+         11.2.1.1. Use tables and grids to list the outcomes of single events and simple combinations of events, and to calculate theoretical probabilities.
+         11.2.1.2. Use sample spaces for more complex combinations of events.
+         11.2.1.3. Recognise when a sample space is the most appropriate form to use when solving a complex probability problem.
+         11.2.1.4. Use the most appropriate diagrams to solve unstructured questions where the route to the solution is less obvious.
+      11.2.2. Enumeration
+         11.2.2.1. Use systematic listing strategies.
+         11.2.2.2. Use the product rule for counting numbers of outcomes of combined events.
+      11.2.3. Venn diagrams and sets
+         11.2.3.1. Use a two-circle Venn diagram to enumerate sets, and use this to calculate related probabilities.
+         11.2.3.2. Construct a Venn diagram to classify outcomes and calculate probabilities.
+         11.2.3.3. Construct tree diagrams, two-way tables or Venn diagrams to solve more complex probability problems (including conditional probabilities; structure for diagrams may not be given).
+         11.2.3.4. Use simple set notation to describe simple sets of numbers or objects.
+      11.2.4. Tree diagrams
+         11.2.4.1. Use tree diagrams to enumerate sets and to record the probabilities of successive events (tree frames may be given and in some cases will be partly completed).
+      11.2.5. The addition law of probability
+         11.2.5.1. Use the addition law for mutually exclusive events.
+         11.2.5.2. Derive or informally understand and apply the formula p(A or B) = p(A) + p(B) – p(A and B).
+      11.2.6. The multiplication law of probability and conditional probability
+         11.2.6.1. Use tree diagrams and other representations to calculate the probability of independent and dependent combined events.
+         11.2.6.2. Understand the concept of conditional probability, and calculate it from first principles in known contexts.
+         11.2.6.3. Derive or informally understand and apply the formula p(A and B) = p(A given B)p(B).
+         11.2.6.4. Know that events A and B are independent if and only if p(A given B) = p(A).
+
+12. Statistics
+   12.1. Sampling
+      12.1.1. Populations and samples
+         12.1.1.1. Define the population in a study, and understand the difference between population and sample.
+         12.1.1.2. Infer properties of populations or distributions from a sample.
+         12.1.1.3. Understand what is meant by simple random sampling, and bias in sampling.
+   12.2. Interpreting and representing data
+      12.2.1. Categorical and numerical data
+         12.2.1.1. Interpret and construct charts appropriate to the data type; including frequency tables, bar charts, pie charts and pictograms for categorical data, vertical line charts for ungrouped discrete numerical data.
+         12.2.1.2. Design tables to classify data.
+         12.2.1.3. Interpret and construct line graphs for time series data, and identify trends (e.g. seasonal variations).
+         12.2.1.4. Interpret multiple and composite bar charts.
+      12.2.2. Grouped data
+         12.2.2.1. Interpret and construct diagrams for grouped data as appropriate, i.e. cumulative frequency graphs and histograms (with either equal or unequal class intervals).
+   12.3. Analysing data
+      12.3.1. Summary statistics
+         12.3.1.1. Calculate the mean, mode, median and range for ungrouped data.
+         12.3.1.2. Calculate estimates of mean, median, mode, range, quartiles and interquartile range from graphical representation of grouped data.
+         12.3.1.3. Find the modal class, and calculate estimates of the range, mean and median for grouped data, and understand why they are estimates.
+         12.3.1.4. Draw and interpret box plots.
+         12.3.1.5. Use the median and interquartile range to compare distributions.
+         12.3.1.6. Describe a population using statistics.
+         12.3.1.7. Make simple comparisons.
+         12.3.1.8. Compare data sets using ‘like for like’ summary values.
+         12.3.1.9. Understand the advantages and disadvantages of summary values.
+      12.3.2. Misrepresenting data
+         12.3.2.1. Recognise graphical misrepresentation through incorrect scales, labels, etc.
+      12.3.3. Bivariate data
+         12.3.3.1. Plot and interpret scatter diagrams for bivariate data.
+         12.3.3.2. Recognise correlation.
+         12.3.3.3. Interpret correlation within the context of the variables, and appreciate the distinction between correlation and causation.
+         12.3.3.4. Draw a line of best fit by eye, and use it to make predictions.
+         12.3.3.5. Interpolate and extrapolate from data, and be aware of the limitations of these techniques.
+      12.3.4. Outliers
+         12.3.4.1. Identify an outlier in simple cases.
+         12.3.4.2. Appreciate there may be errors in data from values (outliers) that do not ‘fit’.
+         12.3.4.3. Recognise outliers on a scatter graph.

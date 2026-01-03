@@ -1,0 +1,119 @@
+{
+  "subject_name": "Art and Design",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/a3ndenvr/eduqas-a-level-art-and-design-spec-from-2015-e-090119.pdf",
+  "start_time": "2025-11-23T23:24:01.853459",
+  "success": false,
+  "topics_extracted": 0,
+  "levels": {},
+  "issues": [
+    "Exception: cannot access local variable 'subject_content_pos' where it is not associated with a value"
+  ],
+  "warnings": [],
+  "success_grade": 0,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": true,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "Personal Investigation, 60% of qualification, internally assessed,"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment, 40% of qualification, internally"
+      },
+      {
+        "number": "1",
+        "name": "gives opportunities for learners to explore and cultivate fundamental"
+      },
+      {
+        "number": "1",
+        "name": "and throughout Component 2."
+      },
+      {
+        "number": "2",
+        "name": "work must be stored"
+      },
+      {
+        "number": "1",
+        "name": "Personal Investigation"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment"
+      },
+      {
+        "number": "1",
+        "name": "is internally assessed and externally moderated. It will be marked out"
+      },
+      {
+        "number": "1",
+        "name": "before the Externally Set Assignment is commenced"
+      },
+      {
+        "number": "1",
+        "name": "to ensure that they"
+      },
+      {
+        "number": "2",
+        "name": "is internally assessed and externally moderated. It will be marked out"
+      },
+      {
+        "number": "2",
+        "name": "Teachers may give guidance to candidates during the preparatory study and"
+      },
+      {
+        "number": "1",
+        "name": "Personal Investigation = Total Marks 120"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment = Total Marks 80"
+      },
+      {
+        "number": "1",
+        "name": "Personal Investigation, 60% of qualification, internally assessed,"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment, 40% of qualification, internally"
+      },
+      {
+        "number": "1",
+        "name": "Personal Investigation"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment"
+      },
+      {
+        "number": "1",
+        "name": "Personal Investigation = Total Marks 120"
+      },
+      {
+        "number": "2",
+        "name": "Externally Set Assignment = Total Marks 80"
+      }
+    ],
+    "tiers": [],
+    "options": [
+      "Art and Design (Fine Art)",
+      "Art and Design (Critical and Contextual Studies)",
+      "Art and Design (Textile Design)",
+      "Art and Design (Graphic Communication)",
+      "Art and Design (Three-Dimensional Design)",
+      "Art and Design (Photography)"
+    ],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 0,
+  "error": "cannot access local variable 'subject_content_pos' where it is not associated with a value",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\tonyd\\OneDrive - 4Sight Education Ltd\\Apps\\flash-curriculum-pipeline\\scrapers\\Eduqas\\A-Level\\topics\\eduqas-alevel-universal-scraper.py\", line 367, in _process_subject\n    topics_text = self._extract_hierarchy(subject, pdf_text, analysis)\n  File \"C:\\Users\\tonyd\\OneDrive - 4Sight Education Ltd\\Apps\\flash-curriculum-pipeline\\scrapers\\Eduqas\\A-Level\\topics\\eduqas-alevel-universal-scraper.py\", line 600, in _extract_hierarchy\n    prompt = self._build_extraction_prompt(subject, pdf_text, analysis)\n  File \"C:\\Users\\tonyd\\OneDrive - 4Sight Education Ltd\\Apps\\flash-curriculum-pipeline\\scrapers\\Eduqas\\A-Level\\topics\\eduqas-alevel-universal-scraper.py\", line 700, in _build_extraction_prompt\n    if subject_content_pos is not None:\n       ^^^^^^^^^^^^^^^^^^^\nUnboundLocalError: cannot access local variable 'subject_content_pos' where it is not associated with a value\n"
+}

@@ -1,0 +1,70 @@
+{
+  "subject_code": "J310",
+  "subject_name": "Design and Technology",
+  "url": "https://www.ocr.org.uk/Images/304658-specification-accredited-gcse-design-and-technology-j310.pdf",
+  "start_time": "2025-11-20T13:42:14.143108",
+  "success": true,
+  "topics_extracted": 259,
+  "levels": {
+    "0": 1,
+    "1": 2,
+    "2": 11,
+    "3": 32,
+    "4": 59,
+    "5": 109,
+    "6": 45
+  },
+  "issues": [
+    "Missing options extraction",
+    "Potential missing topics"
+  ],
+  "warnings": [
+    "Check for missing content in level 0",
+    "Verify logical organization at deeper levels"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [
+        "Principles of Design and Technology",
+        "Iterative Design Challenge"
+      ],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Principles of Design and Technology",
+        "Iterative Design Challenge"
+      ],
+      "organization": "The content is organized into components with specific focus areas.",
+      "expected_depth": 3
+    },
+    "assessment": {
+      "written_papers": [
+        "Principles of Design and Technology"
+      ],
+      "content_mapping": {
+        "Principles of Design and Technology": "Core and in-depth knowledge of design and technology principles, mathematical skills, and scientific knowledge."
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the structure and content of the written paper component, ensuring to capture the core and in-depth principles, as well as the mathematical and scientific skills required.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:42:14.143121"
+}

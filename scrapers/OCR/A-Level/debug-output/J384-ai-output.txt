@@ -1,0 +1,76 @@
+1 Subject: Geography B (Geography for Enquiring Minds) (J384)
+1.1 Component 01: Our Natural World
+1.1.1 Section: Global Hazards
+1.1.1.1 Topic: How can weather be hazardous?
+1.1.1.1.1 Content: Why do we have weather extremes?
+1.1.1.1.2 Content: When does extreme weather become a hazard?
+1.1.1.2 Topic: How do plate tectonics shape our world?
+1.1.1.2.1 Content: What processes occur at plate boundaries?
+1.1.1.2.2 Content: How can tectonic movement be hazardous?
+1.1.1.2.3 Content: How does technology have the potential to save lives in hazard zones?
+1.1.2 Section: Changing Climate
+1.1.2.1 Topic: What evidence is there to suggest climate change is a natural process?
+1.1.2.1.1 Content: What evidence is there for climate change?
+1.1.2.1.2 Content: Is climate change a natural process?
+1.1.2.1.3 Content: Why is climate change a global issue?
+1.1.3 Section: Distinctive Landscapes
+1.1.3.1 Topic: What makes a landscape distinctive?
+1.1.3.1.1 Content: What is a landscape?
+1.1.3.1.2 Content: Where are the physical landscapes of the UK?
+1.1.3.2 Topic: What influences the landscapes of the UK?
+1.1.3.2.1 Content: What physical processes shape landscapes?
+1.1.3.2.2 Content: What are the characteristics of your chosen landscapes?
+1.1.4 Section: Sustaining Ecosystems
+1.1.4.1 Topic: Why are natural ecosystems important?
+1.1.4.1.1 Content: What are ecosystems?
+1.1.4.2 Topic: Why should tropical rainforests matter to us?
+1.1.4.2.1 Content: What biodiversity exists in tropical rainforests?
+1.1.4.2.2 Content: Why are tropical rainforests being ‘exploited’ and how can this be managed sustainably?
+1.1.4.3 Topic: Is there more to polar environments than ice?
+1.1.4.3.1 Content: What is it like in Antarctica and the Arctic?
+1.1.4.3.2 Content: How are humans seeking a sustainable solution for polar environments?
+1.2 Component 02: People and Society
+1.2.1 Section: Urban Futures
+1.2.1.1 Topic: Why do more than half the world’s population live in urban areas?
+1.2.1.1.1 Content: How is the global pattern of urbanisation changing?
+1.2.1.1.2 Content: What does rapid urbanisation mean for cities?
+1.2.1.2 Topic: What are the challenges and opportunities for cities today?
+1.2.1.2.1 Content: What is life like for people in a city?
+1.2.1.2.2 Content: How can cities become more sustainable?
+1.2.2 Section: Dynamic Development
+1.2.2.1 Topic: Why are some countries richer than others?
+1.2.2.1.1 Content: What is development and how can it be measured?
+1.2.2.1.2 Content: What has led to uneven development?
+1.2.2.2 Topic: Are LIDCs likely to stay poor?
+1.2.2.2.1 Content: How has an LIDC developed so far?
+1.2.2.2.2 Content: What global connections influence its development?
+1.2.2.2.3 Content: What development strategy is most appropriate?
+1.2.3 Section: UK in the 21st Century
+1.2.3.1 Topic: How is the UK changing in the 21st century?
+1.2.3.1.1 Content: What does the UK look like in the 21st century?
+1.2.3.1.2 Content: How is the UK’s population changing?
+1.2.3.1.3 Content: How is the UK’s economy changing?
+1.2.3.2 Topic: Is the UK losing its global significance?
+1.2.3.2.1 Content: What is the UK’s political role in the world?
+1.2.3.2.2 Content: How is the UK’s cultural influence changing?
+1.2.4 Section: Resource Reliance
+1.2.4.1 Topic: Will we run out of natural resources?
+1.2.4.1.1 Content: How has increasing demand for resources affected our planet?
+1.2.4.2 Topic: Can we feed nine billion people by 2050?
+1.2.4.2.1 Content: What does it mean to be food secure?
+1.2.4.2.2 Content: How can countries ensure their food security?
+1.2.4.2.3 Content: How sustainable are these strategies?
+1.3 Component 03: Geographical Exploration
+1.3.1 Section: Geographical Skills including Fieldwork
+1.3.1.1 Topic: Geographical Skills
+1.3.1.1.1 Content: Cartographic skills
+1.3.1.1.2 Content: Graphical skills
+1.3.1.1.3 Content: Numerical and statistical skills
+1.3.1.1.4 Content: Formulating enquiry and argument
+1.3.1.2 Topic: Fieldwork skills
+1.3.1.2.1 Content: Understanding of the kinds of question capable of being investigated through fieldwork
+1.3.1.2.2 Content: Understanding of the range of techniques and methods used in fieldwork
+1.3.1.2.3 Content: Processing and presenting fieldwork data
+1.3.1.2.4 Content: Analysing and explaining data collected in the field
+1.3.1.2.5 Content: Drawing evidenced conclusions and summaries from fieldwork
+1.3.1.2.6 Content: Reflecting critically on fieldwork data, methods used, conclusions drawn and knowledge gained

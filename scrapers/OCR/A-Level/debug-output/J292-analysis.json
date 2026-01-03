@@ -1,0 +1,57 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": true,
+        "compulsory": ["Language (J292/01)"],
+        "optional": [
+            "Prose Literature A (J292/02)",
+            "Prose Literature B (J292/03)",
+            "Verse Literature A (J292/04)",
+            "Verse Literature B (J292/05)",
+            "Literature and Culture (J292/06)"
+        ]
+    },
+    "texts": {
+        "has_texts": true,
+        "text_locations": ["Content of Literature components", "Summary of the Greek set texts for examination"],
+        "extraction_strategy": "separate_hierarchy"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": [
+            "Language",
+            "Prose and Verse Literature",
+            "Literature and Culture"
+        ],
+        "organization": "The content is organized into components with specific focus areas such as language, literature, and culture.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "J292/01: Language",
+            "J292/02: Prose Literature A",
+            "J292/03: Prose Literature B",
+            "J292/04: Verse Literature A",
+            "J292/05: Verse Literature B",
+            "J292/06: Literature and Culture"
+        ],
+        "content_mapping": {
+            "J292/01": "Classical Greek vocabulary, accidence, and syntax",
+            "J292/02": "Prose Literature A",
+            "J292/03": "Prose Literature B",
+            "J292/04": "Verse Literature A",
+            "J292/05": "Verse Literature B",
+            "J292/06": "Greek Civilisation and Culture"
+        },
+        "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the structure of components and the prescribed texts for each component. Pay attention to the optional nature of literature components."
+}
+```

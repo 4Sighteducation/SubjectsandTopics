@@ -1,0 +1,62 @@
+# GCSE Citizenship Studies Config
+# Fixes duplicate section issue by skipping "Key questions explored:" bullets
+
+subject:
+  code: "GCSE-Citizenship"
+  name: "Citizenship Studies"
+  qualification: "GCSE"
+  exam_board: "Edexcel"
+  pdf_url: "https://qualifications.pearson.com/content/dam/pdf/GCSE/Citizenship%20Studies/2016/Specification%20and%20sample%20assessments/specification-gcse-l1-l2-in-citizenship.pdf"
+
+# Main topics (Level 0)
+main_topics:
+  - code: "ThemeA"
+    title: "Theme A: Living together in the UK"
+    level: 0
+    parent: null
+  
+  - code: "ThemeB"
+    title: "Theme B: Democracy at work in the UK"
+    level: 0
+    parent: null
+  
+  - code: "ThemeC"
+    title: "Theme C: Law and justice"
+    level: 0
+    parent: null
+  
+  - code: "ThemeD"
+    title: "Theme D: Power and influence"
+    level: 0
+    parent: null
+  
+  - code: "ThemeE"
+    title: "Theme E: Taking citizenship action"
+    level: 0
+    parent: null
+
+# Patterns for matching different elements
+patterns:
+  theme: '^Theme\s+([A-E]):\s*'  # "Theme A:", "Theme B:", etc.
+  section: '^([A-Z].+?\?)\s*$'  # Questions ending with ? (e.g., "What is identity?")
+  topic: '^(\d+)\s+(.+)$'  # Numbered topics (e.g., "1 The changing UK population")
+  bullet: '^[●•]\s+'  # Bullet points
+
+# Patterns to skip (avoid duplicates)
+skip_patterns:
+  - 'Key questions explored:'  # Skip the intro bullets
+  - '^●\s+(What|How|Does|Who|Is)'  # Skip bullet-prefixed questions (they appear later as actual sections)
+  - 'Subject content'
+  - 'Students should'
+  - 'Pearson Edexcel'
+  - '© Pearson'
+  - 'Assessment'
+  - 'Paper \d+:'
+
+# Level names for output
+level_names:
+  0: "Themes"
+  1: "Sections"
+  2: "Topics"
+  3: "Bullets"
+

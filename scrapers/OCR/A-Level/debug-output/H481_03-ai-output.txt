@@ -1,0 +1,293 @@
+1. Geographical Debates
+   1.1 Climate Change
+      1.1.1 1.a. The Earth’s climate is dynamic.
+         1.1.1.1 Methods used to reconstruct past climate, including marine and lake sediments, ice cores, tree rings and fossils.
+         1.1.1.2 Past climate to reveal periods of greenhouse and icehouse Earth, including:
+            1.1.1.2.1 long term, 100 million year transition to colder global climate conditions
+            1.1.1.2.2 glaciation of Antarctica around 35 million years ago
+            1.1.1.2.3 quaternary glaciation
+            1.1.1.2.4 our present interglacial, the Holocene.
+         1.1.1.3 How natural forcing has driven climate change in the geological past, including:
+            1.1.1.3.1 plate tectonics, including volcanic activity and continental drift
+            1.1.1.3.2 Milankovitch cycles
+            1.1.1.3.3 solar output
+            1.1.1.3.4 the role of natural atmospheric greenhouse gases.
+      1.1.2 2.a. Humans have influenced the climate system, leading to a new epoch, the Anthropocene.
+         1.1.2.1 Evidence the world has warmed since the late-19th century, including:
+            1.1.2.1.1 increases in surface, atmospheric and oceanic temperatures
+            1.1.2.1.2 shrinking of valley glaciers and ice sheets
+            1.1.2.1.3 rising sea level
+            1.1.2.1.4 increasing atmospheric water vapour
+            1.1.2.1.5 decreasing snow cover and sea ice.
+         1.1.2.2 Reasons why anthropogenic greenhouse gas emissions have increased since the pre-industrial era.
+         1.1.2.3 The balance of anthropogenic emissions around the world and how this has changed in recent history.
+         1.1.2.4 How additional greenhouse gases being added to the atmosphere will enhance the natural greenhouse effect.
+         1.1.2.5 How humans influence the global mean energy balance.
+         1.1.2.6 Case studies of one AC and one EDC to illustrate their contribution to anthropogenic greenhouse gas emissions over time.
+      1.1.3 3.a. Debates of climate change are shaped by a variety of agendas.
+         1.1.3.1 How humans have played a part in shaping the climate change debate, including:
+            1.1.3.1.1 historical background of the global warming debate and how it has evolved over time
+            1.1.3.1.2 the role of governments and international organisations, such as the EU or UN
+            1.1.3.1.3 role and possible bias of the media and different interest groups in shaping the public image of climate change.
+      1.1.4 4.a. An effective human response relies on knowing what the future will hold.
+         1.1.4.1 Overview of climate modelling to illustrate:
+            1.1.4.1.1 importance of the carbon cycle
+            1.1.4.1.2 influence of positive and negative feedback
+            1.1.4.1.3 future emission scenarios, the resulting impacts on global temperatures and sea levels.
+      1.1.5 4.b. The impacts of climate change are global and dynamic.
+         1.1.5.1 Implications of climate change currently being experienced for people and the environment, such as from changes to ecosystems, health and extreme weather, and how these are projected to change in the future.
+         1.1.5.2 The vulnerability of people and the environment to the impacts of climate change.
+      1.1.6 4.c. Mitigation and adaptation are complementary strategies for reducing and managing the risks of climate change.
+         1.1.6.1 Mitigation strategies to cut global emissions of greenhouse gases, including:
+            1.1.6.1.1 energy efficiency and conservation
+            1.1.6.1.2 fuel shifts and low-carbon energy sources
+            1.1.6.1.3 carbon capture and storage
+            1.1.6.1.4 forestry strategies
+            1.1.6.1.5 geoengineering.
+         1.1.6.2 Adaptation strategies to reduce the vulnerability of human populations at risk, including:
+            1.1.6.2.1 framework of adaptation (retreat, accommodate, protect) and its implementation in response to possible future implications of climate change in a range of communities across the development continuum
+            1.1.6.2.2 what future homes, offices, cities, transport and economies will look like following adaptation throughout the 21st century.
+         1.1.6.3 Case studies of two contrasting countries at different stages of economic development to illustrate:
+            1.1.6.3.1 current socio-economic and environmental impacts and the opportunities and threats they present
+            1.1.6.3.2 technological, socio-economic and political challenges associated with effective mitigation and adaptation.
+      1.1.7 5.a. Effective implementation depends on policies and co-operation at all scales.
+         1.1.7.1 Geopolitics associated with the human response to climate change, including:
+            1.1.7.1.1 role of the Intergovernmental Panel on Climate Change in shaping policy making
+            1.1.7.1.2 success of international directives, such as the Kyoto Protocol
+            1.1.7.1.3 significance of carbon trading and carbon credits
+            1.1.7.1.4 evolution of national, and sub-national policy that extends beyond the vision of international directives.
+   1.2 Disease Dilemmas
+      1.2.1 1.a. Diseases can be classified and their patterns mapped.
+         1.2.1.1 How diseases can be classified, including infectious and non-infectious, communicable and noncommunicable, contagious and non-contagious, epidemic, endemic and pandemic.
+         1.2.1.2 Patterns of diseases, including global distributions of malaria, HIV, tuberculosis, diabetes and cardio-vascular disease.
+         1.2.1.3 Disease diffusion and spread to new areas (Hägerstrand model), including the phases of diffusion, physical and socio-economic barriers.
+      1.2.2 1.b. There is a relationship between physical factors and the prevalence of disease which can change over time.
+         1.2.2.1 Global patterns of temperature, precipitation, relief and water sources and how they affect patterns of disease.
+         1.2.2.2 Physical factors can influence vectors of disease such as the prevalence of mosquitoes in warm, humid areas close to water sources.
+         1.2.2.3 How seasonal variations influence disease outbreaks such as periods of drought or monsoon rains.
+         1.2.2.4 Climate change provides the conditions for emerging infectious diseases to spread to new places and new hosts such as West Nile virus, tsetse fly and tick seasons.
+         1.2.2.5 The conditions for zoonotic infectious diseases such as bird flu or rabies to establish and spread from animals to humans.
+      1.2.3 1.c. Natural hazards can influence the outbreak and spread of disease.
+         1.2.3.1 Case study of one country which has experienced a natural hazard, such as an earthquake, drought or monsoon rains, and the implications this has on a named disease, such as cholera or typhoid:
+            1.2.3.1.1 geographical area covered by the hazard and its influence on the risk and outbreak of disease
+            1.2.3.1.2 environmental factors affecting the spread of disease such as climate, sanitation, water supply and food
+            1.2.3.1.3 human factors affecting the spread of the disease such as population density, access to clean water, immunisation programmes
+            1.2.3.1.4 impacts of the disease on resident populations
+            1.2.3.1.5 strategies used to minimise the impacts of the disease at national and international scales.
+      1.2.4 2.a. As countries develop economically the frequency of communicable diseases decreases, while the prevalence of noncommunicable diseases rises.
+         1.2.4.1 How rising standards of living, including access to food, clean water and sanitation, impact upon susceptibility to disease and influence a country’s epidemiological transition.
+         1.2.4.2 The reasons why LIDCs have a higher prevalence for communicable diseases (diseases of poverty) and ACs have a higher prevalence for noncommunicable diseases (diseases of affluence).
+         1.2.4.3 Case study of one country experiencing air pollution and the impact this has on incidences of cancers (such as lung or bladder). The global and national solutions in dealing with this.
+      1.2.5 3.a. Communicable diseases have causes and impacts with mitigation and response strategies which have varying levels of success.
+         1.2.5.1 Case study of one communicable disease, such as malaria or tuberculosis, at a country scale, either an LIDC or EDC, including:
+            1.2.5.1.1 environmental and human causes of the disease
+            1.2.5.1.2 prevalence, incidence and patterns of the disease
+            1.2.5.1.3 socio-economic impacts of the disease
+            1.2.5.1.4 direct and indirect strategies used by government and international agencies to mitigate against the disease and respond to outbreaks.
+      1.2.6 3.b. Noncommunicable diseases have causes and impacts with mitigation and response strategies which have varying levels of success.
+         1.2.6.1 Case study of one noncommunicable disease, such as cardio-vascular disease or diabetes, at a country scale, either an AC or EDC, including:
+            1.2.6.1.1 social, economic and cultural causes of the disease
+            1.2.6.1.2 prevalence, incidence and patterns of the disease
+            1.2.6.1.3 socio-economic impacts of the disease
+            1.2.6.1.4 direct and indirect strategies used by government and international agencies to mitigate against the disease.
+      1.2.7 4.a. Increasing global mobility impacts the diffusion of disease and the ability to respond to it, at a variety of scales.
+         1.2.7.1 The role of international organisations, such as the World Heath Organization, in providing international strategies to combat disease, including predicting diseases, gathering data, research, support programmes and their work with agencies and governments.
+         1.2.7.2 Identify a disease outbreak at a global scale, such as H1N1 or SARs, including its rate of spread and patterns of outbreak distribution.
+         1.2.7.3 Case study of the role that one NGO has played in dealing with a disease outbreak within one country at national and local level.
+      1.2.8 4.b. Mitigation strategies to combat global pandemics and overcome physical barriers.
+         1.2.8.1 Physical barriers, such as relief, natural hazards, excess water, remoteness of communities, have positive and negative effects on mitigation strategies and response efforts in dealing with diseases.
+         1.2.8.2 Mitigation strategies used by government and international agencies to combat global pandemics, such as HIV/AIDS, including screening, availability and funding of treatment and education programmes.
+      1.2.9 5.a. Nature has provided medicines to treat disease for thousands of years.
+         1.2.9.1 Medicines from nature, their habitats and conditions for growth including the influence of soil type and climate.
+         1.2.9.2 Case study of one medicinal plant, such as rosy periwinkle and opium poppy, including their growing conditions, international trade, medicinal importance for disease and sustainable use.
+         1.2.9.3 Conservation issues relating to the international trade in medicinal plants such as endangering species survival, erosion of genetic diversity, threats to the survival of natural ecosystems.
+      1.2.10 5.b. Top down and bottom up strategies that deal with disease risk and eradication.
+         1.2.10.1 Case study of the global impact of one pharmaceutical transnational, including scientific breakthroughs made, patents, drug manufacturing and their global flows for distribution.
+         1.2.10.2 Strategies for disease eradication at a range of scales, including global and national campaigns.
+         1.2.10.3 Impact of grassroots strategies in educating communities and the role of women in combating disease risk.
+   1.3 Exploring Oceans
+      1.3.1 1.a. The world’s oceans are a distinctive feature of the Earth.
+         1.3.1.1 The global distribution of the world’s oceans, their areas and volumes.
+         1.3.1.2 The relief of ocean basins, including continental shelf and slope, abyssal plain, ocean ridges and rifts, ocean trenches and guyots.
+      1.3.2 1.b. Water in the world’s oceans varies horizontally and vertically.
+         1.3.2.1 Horizontal and vertical variations in salinity and temperature.
+         1.3.2.2 The global distribution of warm and cold surface currents.
+         1.3.2.3 The pattern of circulation in the North Atlantic, including both surface and deep currents.
+      1.3.3 1.c. Changes in light, temperature and nutrient supply influence the biodiversity of oceans.
+         1.3.3.1 How and why ocean ecosystems are influenced by changes in light, temperature and nutrient supply, which vary with latitude and depth.
+         1.3.3.2 A comparison of food chains, food webs and biodiversity in inter-tidal and deep-water ecosystems.
+      1.3.4 2.a. Biological resources within oceans can be used in sustainable or unsustainable ways.
+         1.3.4.1 Case study of the management of one renewable biological resource within oceans, such as krill or whale, including:
+            1.3.4.1.1 the use and management of this resource
+            1.3.4.1.2 how the values, attitudes, socio-economic status and political context of the stake holders influence the use and management of the resource
+            1.3.4.1.3 the resilience of the resource and key thresholds to initiate management.
+      1.3.5 2.b. The use of ocean energy and mineral resources is a contested issue.
+         1.3.5.1 The use and management of ocean energy resources, including:
+            1.3.5.1.1 oil and gas (non-renewable resources)
+            1.3.5.1.2 wave and tidal energy (flow resources — renewable resources).
+         1.3.5.2 The use of sea-bed minerals, including ferrous and non-ferrous minerals, as examples of non-renewable resource use.
+      1.3.6 2.c. Governing the oceans poses issues for the management of resources.
+         1.3.6.1 Oceans as part of the ‘global commons’, including the idea of the ‘tragedy of the commons’.
+         1.3.6.2 There are a series of zones extending out from the land that aim to help manage the ocean, including territorial waters, contiguous zone, exclusive economic zone (EEZ), high seas.
+         1.3.6.3 Resource management through frameworks such as the United Nations Convention on the Law of the Sea (UNCLOS) and marine reserves.
+      1.3.7 3.a. There are a variety of pollutants that affect the ocean system.
+         1.3.7.1 The major sources of pollutants, including combustion of fossil fuels, (such as carbon dioxide), and domestic and industrial pollutants, (such as plastics, heavy metals or nuclear waste).
+      1.3.8 3.b. Off-shore oil production and transport poses threats for people and the environment.
+         1.3.8.1 Case study of one oil spill, including:
+            1.3.8.1.1 impacts on the physical environment and marine ecosystems
+            1.3.8.1.2 impacts on human activities such as fishing and tourism
+            1.3.8.1.3 management of the oil spill and its impacts.
+      1.3.9 3.c. The pattern of global ocean currents can disperse and concentrate pollution.
+         1.3.9.1 How pollution, such as plastic, can spread around the globe via oceanic circulation and its impact on marine ecosystems.
+         1.3.9.2 Case study of the accumulation of plastic in one ocean gyre such as in the North Pacific, including:
+            1.3.9.2.1 causes of the accumulation
+            1.3.9.2.2 the impacts on marine ecosystems.
+      1.3.10 4.a. Climate change is altering the nature of the ocean’s water.
+         1.3.10.1 How acidification of oceans contributes to depleting fish stocks and has resulting impacts for people.
+         1.3.10.2 The rising temperature of the oceans and its threat to coral ecosystems, such as coral bleaching, loss in biodiversity and threats to local communities.
+      1.3.11 4.b. Climate change is altering sea levels.
+         1.3.11.1 The causes of sea level change due to climate change, the thermal expansion of water and the transfer of water from the land to the oceans.
+         1.3.11.2 Case study of one island community in either the Indian Ocean, Pacific Ocean or the Caribbean Sea to illustrate:
+            1.3.11.2.1 the threats to island communities
+            1.3.11.2.2 the impact on communities
+            1.3.11.2.3 the adaptations by governments and communities in both the short- and long-term.
+      1.3.12 4.c. Climate change is altering high latitude oceans.
+         1.3.12.1 The impact of global warming on the extent of sea ice. The feedback between the extent of ice cover and the degree of warming. The concept of a threshold beyond which change becomes irreversible should be investigated in this context.
+         1.3.12.2 Case study of the Arctic region, including:
+            1.3.12.2.1 the geo-political implications of changes in ice-cover in the Arctic region
+            1.3.12.2.2 the impact on indigenous peoples
+            1.3.12.2.3 the threats and opportunities posed by the opening up of ocean route-ways and increasing access to ocean bed minerals
+            1.3.12.2.4 the management of the changing geography of the Arctic through international organisations.
+      1.3.13 5.a. Oceans have been and continue to be vital elements in the process of globalisation.
+         1.3.13.1 The pattern of principal shipping routes across the oceans, including the influence of changes in the scale of ocean shipping.
+         1.3.13.2 The direction and type of trade across the oceans.
+      1.3.14 5.b. Oceans are important spaces where countries challenge each other.
+         1.3.14.1 The use of oceans by countries to exert their influence, including:
+            1.3.14.1.1 the distribution of naval strongholds for one country, such as USA, Russia or China, including its home and overseas ports
+            1.3.14.1.2 a marine conflict zone where countries dispute ocean territory areas.
+      1.3.15 5.c. Oceans present hazardous obstacles to human activities.
+         1.3.15.1 The distribution of 21st century piracy and its management.
+         1.3.15.2 The use of oceans as escape routes for migrants such as South East Asia to Australia or North Africa to Europe.
+   1.4 Future of Food
+      1.4.1 1.a. The concept of food security is complex and patterns of food security varies spatially.
+         1.4.1.1 Defining what it means to be food secure and understanding that the concept of food security is built on three pillars of food access, food availability and food use.
+         1.4.1.2 Current trends in global food security using data such as undernourishment and hunger statistics and the Global Food Security Index.
+         1.4.1.3 How the pattern of food security is dynamic and varies both between and within countries.
+      1.4.2 1.b. Food is a precious resource and global food production can be viewed as an interconnected system.
+         1.4.2.1 The physical conditions required for growing food including, air, climate, soil and water.
+         1.4.2.2 How feeding the world is a complex system of growing, processing, transporting and disposing of consumer waste.
+         1.4.2.3 How food production methods vary from intensive to extensive and subsistence to commercial.
+      1.4.3 1.c. Globalisation is changing the food industry.
+         1.4.3.1 The influence of globalisation on the food industry such as increased demand and global tastes.
+         1.4.3.2 Globalisation of the food industry creates a number of issues including food miles, inequality between TNCs and small suppliers, obesity and price crisis.
+         1.4.3.3 Globalisation of the food industry creates a number of opportunities including technological innovation, short-term food relief and consumer choice.
+      1.4.4 2.a. A number of interrelated factors can influence food security.
+         1.4.4.1 Understand the range of physical factors that affect food security across the globe such as geology, soil, length of growing season.
+         1.4.4.2 The social, economic and political factors affecting food security such as land ownership systems, competition and land grabbing and how these vary from place to place.
+         1.4.4.3 Theoretical positions on food security including Malthusian and Boserupian scenarios.
+         1.4.4.4 Case study of one place to illustrate how human and physical factors are/have combined to cause issues with food security.
+      1.4.5 3.a. Risks to food security can be identified to highlight the most vulnerable societies.
+         1.4.5.1 Regions, countries and people whose food security is most at risk across the development spectrum.
+         1.4.5.2 Why issues related to storage or distribution create geographical pinchpoints where food security is at risk, such as the Suez Canal.
+         1.4.5.3 The physical and human causes of desertification and how this changes ecosystems to increase risks to food security.
+         1.4.5.4 Case study of one dryland area including:
+            1.4.5.4.1 food security risks and vulnerability are influenced by the specific ecosystem, climate and hydrology
+            1.4.5.4.2 worsening factors such as population change, landgrabbing and climate change.
+      1.4.6 3.b The food system is vulnerable to shocks that can impact food security.
+         1.4.6.1 How climate change is leading to increasing frequency of extreme weather events such as wild-fire, El-Nino, floods, and drought which can affect food production.
+         1.4.6.2 How water scarcity can exacerbate food production issues.
+         1.4.6.3 How tectonic hazards can influence food production and distribution.
+         1.4.6.4 Case study of one indigenous farming technique in an extreme environment, such as the Arctic, including:
+            1.4.6.4.1 the physical conditions of the environment including ecosystems, terrain and climate.
+            1.4.6.4.2 food production methods used by indigenous people in the environment
+            1.4.6.4.3 threats to the indigenous groups food security.
+      1.4.7 4.a. Imbalance in the global food system has physical and human impacts.
+         1.4.7.1 How attempts to increase food production and security can impact the physical environment including:
+            1.4.7.1.1 irrigation and salinisation
+            1.4.7.1.2 deforestation and the impacts on biodiversity
+            1.4.7.1.3 changing landscapes
+            1.4.7.1.4 water quality from agrochemicals.
+         1.4.7.2 Case study of how one physical environment is/has been impacted by food production methods including the specific short- and long-term impacts on the environment.
+         1.4.7.3 How food security issues impacts people including:
+            1.4.7.3.1 health issues associated with food shortages
+            1.4.7.3.2 health issues associated with food surpluses and poor diet
+            1.4.7.3.3 harmful impacts on human health as a result of the increased use of chemicals and pesticides.
+         1.4.7.4 Case studies of two places at contrasting levels of economic development to illustrate the implications of poor food security on the lives of people.
+      1.4.8 5.a. Food is a geopolitical commodity; a number of key players will continue to influence the global food system.
+         1.4.8.1 The opportunities between countries to ensure food security including:
+            1.4.8.1.1 agricultural trading policies
+            1.4.8.1.2 the role of the World Trade Organization
+            1.4.8.1.3 appropriate aid.
+         1.4.8.2 Investigate the role and responsibilities of the following in influencing the global food system:
+            1.4.8.2.1 agribusiness
+            1.4.8.2.2 Trans-National Corporations such as Unilever
+            1.4.8.2.3 food retailers such as Tesco
+            1.4.8.2.4 fair trade organisations.
+      1.4.9 5.b. There is a spectrum of strategies that exist to ensure and improve food security.
+         1.4.9.1 Approaches to increasing food security can vary from short term relief to capacity building and long term system redesign.
+         1.4.9.2 The effectiveness and sustainability of a range of techniques that exist to improve food security from large-scale technological techniques down to small-scale bottom up and appropriate approaches.
+         1.4.9.3 Case studies of two contrasting places at different levels of development and the strategies and techniques that have been used to ensure or improve food security.
+   1.5 Hazardous Earth
+      1.5.1 1.a. There is a variety of evidence for the theories of continental drift and plate tectonics.
+         1.5.1.1 Theories of continental drift and plate tectonics including:
+            1.5.1.1.1 the basic structure of the Earth including the lithosphere, asthenosphere and the role of convection currents
+            1.5.1.1.2 evidence for sea-floor spreading; paleomagnetism; the age of sea floor rocks
+            1.5.1.1.3 evidence from ancient glaciations
+            1.5.1.1.4 fossil records.
+      1.5.2 1.b. There are distinctive features and processes at plate boundaries.
+         1.5.2.1 Earth’s crustal features and processes, including:
+            1.5.2.1.1 the global pattern of plates and plate boundaries
+            1.5.2.1.2 the features and processes associated with divergent (constructive) plate boundaries
+            1.5.2.1.3 the features and processes associated with convergent plate boundaries including oceanic-continental, oceanic-oceanic (destructive) and continental-continental (collision) boundaries
+            1.5.2.1.4 the features and processes associated with conservative plate boundaries.
+      1.5.3 2.a. There is a variety of volcanic activity and resultant landforms and landscapes.
+         1.5.3.1 Different types of volcanoes to investigate their causes and features including:
+            1.5.3.1.1 explosive eruptions (higher viscosity magma) located at convergent (destructive) plate boundaries
+            1.5.3.1.2 effusive eruptions (lower viscosity magma) and landforms located at divergent (constructive) plate boundaries
+            1.5.3.1.3 eruptions not at plate boundaries (hot spots) such as the Hawaiian chain and the East African Rift Valley
+            1.5.3.1.4 size and shape of different types of volcanoes, including super-volcanoes
+            1.5.3.1.5 the volcanic explosive index (VEI) measure of assessing volcanic activity.
+      1.5.4 2.b. Volcanic eruptions generate distinctive hazards.
+         1.5.4.1 Different types of volcanic eruptions and the different types of hazards they generate including:
+            1.5.4.1.1 lava flows, pyroclastic flows, gas emissions, tephra and ash
+            1.5.4.1.2 lahars and flooding associated with the melting of ice
+            1.5.4.1.3 tsunamis associated with explosive eruption.
+      1.5.5 3.a. There is a variety of earthquake activity and resultant landforms and landscapes.
+         1.5.5.1 Earthquake characteristics to investigate their causes and features including:
+            1.5.5.1.1 shallow-focus earthquakes
+            1.5.5.1.2 deep-focus earthquakes
+            1.5.5.1.3 the different measures of assessing earthquake magnitude (Richter, moment magnitude scale, modified Mercalli intensity scale)
+            1.5.5.1.4 the effects earthquakes have on landforms and landscapes including the development of escarpments and rift valleys.
+      1.5.6 3.b. Earthquakes generate distinctive hazards.
+         1.5.6.1 Hazards generated by earthquakes, including:
+            1.5.6.1.1 ground shaking and ground displacement
+            1.5.6.1.2 liquefaction
+            1.5.6.1.3 landslides and avalanches
+            1.5.6.1.4 tsunamis associated with sea-bed uplift and underwater landslides
+            1.5.6.1.5 flooding.
+      1.5.7 4.a. There are a range of impacts people experience as a result of volcanic eruptions.
+         1.5.7.1 Case studies of two countries at contrasting levels of economic development to illustrate:
+            1.5.7.1.1 reasons why people choose to live in tectonically active locations
+            1.5.7.1.2 the impacts people experience as a result of volcanic eruptions
+            1.5.7.1.3 economic, environmental and political impacts on the country.
+      1.5.8 4.b. There are a range of impacts people experience as a result of earthquake activity.
+         1.5.8.1 Case studies of two countries at contrasting levels of economic development to illustrate:
+            1.5.8.1.1 reasons why people choose to live in tectonically active locations
+            1.5.8.1.2 the impacts people experience as a result of earthquake activity
+            1.5.8.1.3 economic, environmental and political impacts on the country.
+      1.5.9 5.a. There are various strategies to manage hazards from volcanic activity.
+         1.5.9.1 Case studies of two countries at contrasting levels of economic development to illustrate strategies used to cope with volcanic activity including:
+            1.5.9.1.1 attempts to mitigate against the event, such as lava diversion channels
+            1.5.9.1.2 attempts to mitigate against vulnerability such as community preparedness
+            1.5.9.1.3 attempts to mitigate against losses, such as rescue and emergency relief.
+      1.5.10 5.b. There are various strategies to manage hazards from earthquakes.
+         1.5.10.1 Case studies of two countries at contrasting levels of economic development to illustrate strategies used to cope with hazards from earthquakes including:
+            1.5.10.1.1 attempts to mitigate against the event such as land-use zoning
+            1.5.10.1.2 attempts to mitigate against vulnerability such as building design
+            1.5.10.1.3 attempts to mitigate against losses such as insurance.
+      1.5.11 5.c. The exposure of people to risks and their ability to cope with tectonic hazards changes over time.
+         1.5.11.1 How and why have the risks from tectonic hazards changed over time including:
+            1.5.11.1.1 changes in the frequency and impacts of tectonic hazards over time
+            1.5.11.1.2 the degree of risk posed by a hazard and the probability of the hazard event occurring (the disaster risk equation)
+            1.5.11.1.3 possible future strategies to cope with risks from tectonic hazards.
+         1.5.11.2 The relationship between disaster and response including the Park model.

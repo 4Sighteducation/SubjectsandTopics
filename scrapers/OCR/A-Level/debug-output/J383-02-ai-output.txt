@@ -1,0 +1,75 @@
+1. Ecosystems of the Planet
+   1.1. Ecosystems consist of interdependent components.
+       1.1.1. Ecosystems include abiotic (weather, climate, soil) and biotic (plants, animals, humans) components which are interdependent.
+   1.2. Ecosystems have distinct distributions and characteristics.
+       1.2.1. Overview of the global distribution of polar regions, coral reefs, grasslands, temperate forests, tropical rainforests, and hot deserts.
+       1.2.2. Overview of the climate, plants, and animals within these ecosystems.
+   1.3. There are major tropical rainforests in the world.
+       1.3.1. The location of the tropical rainforests including the Amazon, Central American, Congo River Basin, Madagascan, South East Asian, and Australasian.
+   1.4. There are major coral reefs in the world.
+       1.4.1. The location of warm water coral reefs including the Great Barrier Reef, Red Sea Coral Reef, New Caledonia Barrier Reef, the Mesoamerican Barrier Reef, Florida Reef, and Andros Coral Reef.
+   1.5. Bio-diverse ecosystems are under threat from human activity.
+       1.5.1. The processes that operate within tropical rainforests, including nutrient and water cycles.
+       1.5.2. The process of nutrient cycling that operates within coral reefs.
+       1.5.3. Two case studies, including one tropical rainforest and one coral reef, to cover:
+           1.5.3.1. The interdependence of climate, soil, water, plants, animals, and humans.
+           1.5.3.2. Their value to humans and to the planet.
+           1.5.3.3. Threats to biodiversity and attempts to mitigate these through sustainable use and management.
+
+2. People of the Planet
+   2.1. The world is developing unevenly.
+       2.1.1. Social, economic, and environmental definitions of development, including the concept of sustainable development.
+       2.1.2. Different development indicators, including GNI per capita, Human Development Index, and Internet Users, and the advantages and disadvantages of these indicators.
+       2.1.3. How development indicators illustrate the consequences of uneven development.
+       2.1.4. Current patterns of advanced countries (ACs), emerging and developing countries (EDCs), and low-income developing countries (LIDCs).
+   2.2. There are many causes of uneven development.
+       2.2.1. Outline the reasons for uneven development, including the impact of colonialism on trade and the exploitation of natural resources.
+       2.2.2. Different types of aid and their role in both promoting and hindering development.
+   2.3. Many factors contribute to a country’s economic development.
+       2.3.1. Case study of one LIDC or EDC. This should illustrate its changing economic development, including the influence of and interrelationships between:
+           2.3.1.1. The country’s geographical location, and environmental context (landscape, climate, ecosystems, availability, and type of natural resources).
+           2.3.1.2. The country’s political development and relationships with other states.
+           2.3.1.3. Principal imports and exports and the relative importance of trade.
+           2.3.1.4. The role of international investment.
+           2.3.1.5. Population and employment structure changes over time.
+           2.3.1.6. Social factors, including access to education and healthcare provision.
+           2.3.1.7. Technological developments, such as communications technology.
+           2.3.1.8. One aid project.
+       2.3.2. Using the case study of the LIDC or EDC explore Rostow’s model to determine the country’s path of economic development.
+   2.4. The majority of the world’s population now live in urban areas.
+       2.4.1. Definition of city, megacity, and world city.
+       2.4.2. The distribution of megacities and how this has changed over time.
+       2.4.3. How urban growth rates vary in parts of the world with contrasting levels of development.
+   2.5. There are causes and consequences of rapid urbanisation in LIDCs.
+       2.5.1. Overview of the causes of rapid urbanisation in LIDCs including push and pull migration factors, and natural growth.
+       2.5.2. Outline of the social, economic, and environmental consequences of rapid urbanisation in LIDCs.
+   2.6. Cities have distinct challenges and ways of life, influenced by its people and culture.
+       2.6.1. Case study of one major city in an LIDC or EDC including the influences of:
+           2.6.1.1. The city within its region, the country, and the wider world.
+           2.6.1.2. Migration (national and international) and its impact on the city’s growth and character.
+           2.6.1.3. The ways of life within the city, such as culture, ethnicity, housing, leisure, and consumption.
+           2.6.1.4. Contemporary challenges that affect urban change, including housing availability, transport provision, and waste management.
+           2.6.1.5. Sustainable strategies to overcome one of the city’s challenges.
+
+3. Environmental threats to our Planet
+   3.1. The climate has changed from the start of the Quaternary period.
+       3.1.1. Overview of how the climate has changed from the beginning of the Quaternary period to the present day, including ice ages.
+       3.1.2. Key periods of warming and cooling since 1000AD, including the medieval warming, Little Ice Age, and modern warming.
+       3.1.3. Evidence for climate change over different time periods, including global temperature data, ice cores, tree rings, paintings, and diaries.
+   3.2. There are a number of possible causes of climate change.
+       3.2.1. Theories of natural causes of climate change including variations in energy from the sun, changes in the Earth’s orbit, and volcanic activity.
+       3.2.2. How human activity is responsible for the enhanced greenhouse effect which contributes to global warming.
+   3.3. Climate change has consequences.
+       3.3.1. Summary of a range of consequences of climate change currently being experienced across the planet.
+   3.4. The global circulation of the atmosphere controls weather and climate.
+       3.4.1. Distribution of the main climatic regions of the world.
+       3.4.2. Outline how the global circulation of the atmosphere is controlled by the movement of air between the poles and the equator.
+       3.4.3. How the global circulation of the atmosphere leads to extreme weather conditions (wind, temperature, precipitation) in different parts of the world.
+   3.5. Extreme weather conditions cause different natural weather hazards.
+       3.5.1. Outline the causes of the extreme weather conditions that are associated with the hazards of tropical storms and drought.
+       3.5.2. The distribution and frequency of tropical storms and drought, and whether these have changed over time.
+   3.6. Drought can be devastating for people and the environment.
+       3.6.1. Case study of one drought event caused by El Niño/La Niña:
+           3.6.1.1. How the extreme weather conditions of El Niño/La Niña develop and can lead to drought.
+           3.6.1.2. Effects of the drought event on people and the environment.
+           3.6.1.3. Ways in which people have adapted to drought in the case study area.

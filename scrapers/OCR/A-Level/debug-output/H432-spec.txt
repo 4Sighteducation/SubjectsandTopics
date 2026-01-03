@@ -1,0 +1,4188 @@
+Qualification
+Accredited
+Oxford Cambridge and RSA
+A LEVEL
+Specification
+CHEMISTRY A
+OCR Level 3 Advanced GCE
+in Chemistry A
+H432
+For first assessment in 2017
+Version 2.9 (June 2025) ocr.org.uk/alevelchemistrya
+Disclaimer Specifications are updated over time. Whilst every effort is made to check all
+documents, there may be contradictions between published resources and the
+specification, therefore please use the information on the latest specification at
+all times. Where changes are made to specifications these will be indicated within
+the document, there will be a new version number indicated, and a summary
+of the changes. If you do notice a discrepancy between the specification and a
+resource please contact us at: resources.feedback@ocr.org.uk
+We will inform centres about changes to specifications. We will also publish
+changes on our website. The latest version of our specifications will always be
+those on our website (ocr.org.uk) and these may differ from printed versions.
+Registered office:
+The Triangle Building
+© 2025 OCR. All rights reserved.
+Shaftesbury Road
+Cambridge
+Copyright
+CB2 8EA
+OCR retains the copyright on all its publications, including the specifications.
+However, registered centres for OCR are permitted to copy material from this
+OCR is an exempt charity.
+specification booklet for their own internal use.
+Oxford Cambridge and RSA is a Company Limited by Guarantee. Registered in
+England. Registered company number 3484466.
+Contents
+Introducing… A Level Chemistry A (from September 2015) ii
+Teaching and learning resources iii
+Professional Development iv
+1 Why choose an OCR A Level in Chemistry A? 1
+1a. Why choose an OCR qualification? 1
+1b. Why choose an OCR A Level in Chemistry A? 2
+1c. What are the key features of this specification? 3
+1d. How do I find out more information? 4
+2 The specification overview 5
+2a. Overview of A Level in Chemistry A (H432) 5
+2b. Content of A Level in Chemistry A (H432) 6
+2c. Content of modules 1 to 6 8
+2d. Prior knowledge, learning and progression 64
+3 Assessment of OCR A Level in Chemistry A 65
+3a. Forms of assessment 65
+3b. Assessment objectives (AO) 66
+3c. Total qualification time 66
+3d. Qualification availability outside of England 67
+3e. Language 67
+3f. Assessment availability 67
+3g. Retaking the qualification 67
+3h. Assessment of extended response 67
+3i. Synoptic assessment 68
+3j. Calculating qualification results 68
+4 Admin: what you need to know 69
+4a. Pre-assessment 69
+4b. Accessibility and special consideration 71
+4c. External assessment arrangements 71
+4d. Admin of non-exam assessment 72
+4e. Results and certificates 72
+4f. Post-results services 73
+4g. Malpractice 73
+5 Appendices 74
+5a. Overlap with other qualifications 74
+5b. Avoidance of bias 74
+5c. Chemistry A data sheet 75
+5d. How Science Works (HSW) 79
+5e. Mathematical requirements 80
+5f. Health and Safety 86
+5g. Practical endorsement 87
+5h. Revision of the requirements for practical work 93
+Summary of updates 94
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A i
+Introducing…
+A Level Chemistry A (from September 2015)
+This specification allows teachers to adopt a flexible This specification incorporates the Ofqual GCE Subject
+approach to the delivery of A Level Chemistry. The Level Conditions and Requirements for Chemistry.
+course has been designed to enable centres to
+deliver the content modules (Modules 2–6) using the Contact the team
+framework provided or to design a customised course.
+We have a dedicated team of people working on our
+Practical work done to support teaching of the content
+A Level Chemistry qualifications.
+will serve to cover the requirements of the practical
+skills module (Module 1), which is assessed in written
+If you need specialist advice, guidance or support, get
+examinations and through the Practical Endorsement.
+in touch as follows:
+The specification is divided into chemical topics, each
+• 01223 553998
+containing different key concepts of chemistry. Certain
+topics are split over modules, to facilitate co-teaching • scienceGCE@ocr.org.uk
+of the AS Level qualification in Chemistry A with the
+• @OCR_science
+first year of A Level. Centres that are not co-teaching
+this course with the AS Level may elect to teach these
+topics sequentially.
+Throughout the specification, cross-references indicate
+the relevance of individual learning outcomes to the
+mathematical and practical criteria that are embedded
+in the assessments.
+Version 2.9 © OCR 2025
+ii OCR Level 3 Advanced GCE in Chemistry A
+Teaching and learning resources
+We recognise that the introduction of a new Plenty of useful resources
+specification can bring challenges for implementation
+You’ll have four main types of subject-specific teaching
+and teaching. Our aim is to help you at every stage and
+and learning resources at your fingertips:
+we’re working hard to provide a practical package of
+support in close consultation with teachers and other
+• Delivery Guides
+experts, so we can help you to make the change.
+• Transition Guides
+Designed to support progression for all
+• Topic Exploration Packs
+Our resources are designed to provide you with a
+range of teaching activities and suggestions so you can • Lesson Elements.
+select the best approach for your particular students.
+Along with subject-specific resources, you’ll also have
+You are the experts on how your students learn and
+access to a selection of generic resources that focus
+our aim is to support you in the best way we can.
+on skills development and professional guidance for
+teachers.
+We want to…
+Skills Guides – we’ve produced a set of Skills Guides
+• Support you with a body of knowledge
+that are not specific to Chemistry, but each covers a
+that grows throughout the lifetime of the
+topic that could be relevant to a range of qualifications
+specification
+– for example, communication, legislation and
+• Provide you with a range of suggestions so you research. Download the guides at
+can select the best activity, approach or context ocr.org.uk/skillsguides
+for your particular students
+Active Results – a free online results analysis service
+• Make it easier for you to explore and interact to help you review the performance of individual
+with our resource materials, in particular to students or your whole school. It provides access to
+develop your own schemes of work detailed results data, enabling more comprehensive
+analysis of results in order to give you a more accurate
+• Create an ongoing conversation so we can
+measurement of the achievements of your centre and
+develop materials that work for you.
+individual students. For more details refer to
+ocr.org.uk/activeresults
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A iii
+Professional Development
+Take advantage of our improved Professional These events are designed to help prepare you for first
+Development Programme, designed with you in mind. teaching and to support your delivery at every stage.
+Whether you want to come to face-to-face events,
+look at our new digital training or search for training
+Watch out for details at cpdhub.org.uk.
+materials, you can find what you’re looking for all in
+To receive the latest information about the training
+one place at the CPD Hub.
+we’ll be offering, please register for A Level email
+An introduction to the new specifications: updates at ocr.org.uk/updates.
+We’ll be running events to help you get to grips with
+our A Level Chemistry A qualification.
+Version 2.9 © OCR 2025
+iv OCR Level 3 Advanced GCE in Chemistry A
+1 Why choose an OCR A Level in Chemistry A?
+1a. Why choose an OCR qualification?
+Choose OCR and you’ve got the reassurance that We provide a range of support services designed to
+you’re working with one of the UK’s leading exam help you at every stage, from preparation through to
+boards. Our new A Level in Chemistry A course the delivery of our specifications. This includes: 1
+has been developed in consultation with teachers,
+employers and Higher Education to provide students • A wide range of high-quality creative resources
+including:
+with a qualification that’s relevant to them and meets
+their needs.
+delivery guides
+o
+transition guides
+We’re part of the Cambridge Assessment Group, o
+topic exploration packs
+Europe’s largest assessment agency and a department o
+lesson elements
+of the University of Cambridge. Cambridge Assessment o
+…and much more.
+plays a leading role in developing and delivering o
+assessments throughout the world, operating in over • Access to Subject Advisors to support you
+150 countries. through the transition and throughout the
+lifetime of the specifications.
+We work with a range of education providers, including
+schools, colleges, workplaces and other institutions • CPD/Training for teachers to introduce the
+in both the public and private sectors. Over 13,000 qualifications and prepare you for first teaching.
+centres choose our A levels, GCSEs and vocational
+• Active Results – our free results analysis service
+qualifications including Cambridge Nationals and
+to help you review the performance of individual
+Cambridge Technicals.
+students or whole schools.
+Our Specifications • ExamBuilder – our free online past papers
+service that enables you to build your own test
+We believe in developing specifications that help you
+papers from past OCR exam questions.
+bring the subject to life and inspire your students to
+achieve more. All A level qualifications offered by OCR are accredited
+by Ofqual, the Regulator for qualifications offered in
+We’ve created teacher-friendly specifications based on
+England. The accreditation number for OCR’s A Level in
+extensive research and engagement with the teaching
+Chemistry A is QN: 601/5255/2.
+community. They’re designed to be straightforward
+and accessible so that you can tailor the delivery of
+the course to suit your needs. We aim to encourage
+learners to become responsible for their own learning,
+confident in discussing ideas, innovative and engaged.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 1
+1b. Why choose an OCR A Level in Chemistry A?
+We appreciate that one size doesn’t fit all so we offer to-date relevant content within a framework that is
+two suites of qualifications in each science: interesting to teach and administer within all centres
+1 (large and small).
+Chemistry A – a content-led approach. A flexible
+approach where the specification is divided into topics, Our new A Level in Chemistry A builds on our existing
+each covering different key concepts of chemistry. popular course. We’ve based the redevelopment of
+Teaching of practical skills is integrated with the our A level sciences on an understanding of what
+theoretical topics and they’re assessed both through works well in centres large and small and have updated
+written papers and, for A level only, the Practical areas of content and assessment where stakeholders
+Endorsement. have identified that improvements could be made.
+We’ve undertaken a significant amount of consultation
+Chemistry B (Salters) – a context-led approach. through our science forums (which include
+Learners study chemistry in a range of different
+representatives from learned societies, HE, teaching
+contexts, conveying the excitement of contemporary
+and industry) and through focus groups with teachers.
+chemistry. Ideas are introduced in a spiral way with
+Our papers and specifications have been trialled in
+topics introduced in an early part of the course
+centres during development to make sure they work
+reinforced later. The ‘B’ specification places a particular
+well for all centres and learners.
+emphasis on an investigational and problem-solving
+approach to practical work and is supported by The content changes are an evolution of our legacy
+extensive new materials developed by the University of offering and will be familiar to centres already
+York Science Education Group. following our courses, but are also clear and logically
+laid out for centres new to OCR, with assessment
+All of our specifications have been developed with
+models that are straightforward to administer. We have
+subject and teaching experts. We have worked in close
+worked closely with teachers and HE representatives
+consultation with teachers and representatives from
+to provide high quality support materials to guide you
+Higher Education (HE) with the aim of including up-
+through the new qualifications.
+Aims and learning outcomes
+OCR’s A Level in Chemistry A specification aims to • develop their interest in and enthusiasm for
+encourage learners to: the subject, including developing an interest in
+further study and careers associated with the
+• develop essential knowledge and understanding subject
+of different areas of the subject and how they
+relate to each other • understand how society makes decisions about
+scientific issues and how the sciences contribute
+• develop and demonstrate a deep appreciation to the success of the economy and society (as
+of the skills, knowledge and understanding of
+exemplified in ‘How Science Works’ (HSW)).
+scientific methods
+• develop competence and confidence in a variety
+of practical, mathematical and problem solving
+skills
+Version 2.9 © OCR 2025
+2 OCR Level 3 Advanced GCE in Chemistry A
+1c. What are the key features of this specification?
+Our Chemistry A specification is designed with a • identifies Practical Endorsement requirements
+content-led approach and provides a flexible approach and how these can be integrated into teaching
+to teaching. The specification: of content (see Section 5) 1
+• retains and refreshes the popular topics from • exemplifies the mathematical requirements of
+the legacy OCR Chemistry qualification (H036) the course (see Section 5)
+• is laid out clearly in a series of teaching modules • highlights opportunities for the introduction of
+with Additional guidance added where required key mathematical requirements (see Section 5d
+to clarify assessment requirements and the additional guidance column for each
+module) into your teaching
+• is co-teachable with the AS level
+• identifies, within the Additional guidance how
+• embeds practical requirements within the the skills, knowledge and understanding of How
+teaching modules
+Science Works (HSW) can be incorporated within
+teaching.
+Teacher support
+The extensive support offered alongside this • mock examinations service – a free service
+specification includes: offering a practice question paper and mark
+scheme (downloadable from a secure location).
+• delivery guides – providing information on
+assessed content, the associated conceptual Along with:
+development and contextual approaches to
+• Subject Advisors within the OCR science team to
+delivery
+help with course queries
+• transition guides – identifying the levels of
+• teacher training
+demand and progression for different key stages
+for a particular topic and going on to provide • Science Spotlight (our termly newsletter)
+links to high quality resources and ‘checkpoint
+tasks’ to assist teachers in identifying learners • OCR Science community
+‘ready for progression’
+• a consultancy service (to advise on Practical
+• lesson elements – written by experts, providing Endorsement requirements)
+all the materials necessary to deliver creative
+• Practical Skills Handbook
+classroom activities
+• Maths Skills Handbook.
+• Active Results (see Section 1a)
+• ExamBuilder (see Section 1a)
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 3
+1d. How do I find out more information?
+Whether new to our specifications, or continuing Find out more?
+on from our legacy offerings, you can find more
+Contact the Subject Advisors:
+1 information on our webpages at: www.ocr.org.uk
+ScienceGCE@ocr.org.uk, 01223 553998.
+Visit our subject pages to find out more about the
+assessment package and resources available to support Visit our Online Support Centre at support.ocr.org.uk
+your teaching. The science team also release a termly
+Check what CPD events are available:
+newsletter Science Spotlight (despatched to centres
+www.cpdhub.ocr.org.uk
+and available from our subject pages).
+Follow us on Twitter: @ocr_science
+Version 2.9 © OCR 2025
+4 OCR Level 3 Advanced GCE in Chemistry A
+2 The specification overview
+2a. Overview of A Level in Chemistry A (H432)
+Learners must complete all components (01, 02, 03 and 04).
+Content Overview Assessment Overview
+Periodic table, elements
+2
+and physical chemistry 37%
+Content is split into six teaching
+(01)
+modules:
+of total
+100 marks
+• Module 1 – Development of
+A level
+2 hours 15 minutes
+practical skills in chemistry
+written paper
+• Module 2 – Foundations in
+chemistry
+Synthesis and
+analytical techniques 37%
+• Module 3 – Periodic table and
+(02)
+energy
+of total
+100 marks
+• Module 4 – Core organic
+A level
+2 hours 15 minutes
+chemistry
+written paper
+• Module 5 – Physical chemistry
+and transition elements
+Unified chemistry
+26%
+(03)
+• Module 6 – Organic chemistry
+and analysis 70 marks of total
+1 hour 30 minutes
+Component 01 assesses content A level
+written paper
+from modules 1, 2, 3 and 5.
+Component 02 assesses content
+Practical Reported
+from modules 1, 2, 4 and 6.
+Endorsement in
+separately
+Component 03 assesses content chemistry
+from all modules (1 to 6). (04) (see Section
+(non exam assessment) 5)
+All components include synoptic assessment.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 5
+2b. Content of A Level in Chemistry A (H432)
+The A Level in Chemistry A specification content is • Acid–base and redox reactions
+divided into six teaching modules and each module is
+• Electrons, bonding and structure
+further divided into key topics.
+Module 3 – Periodic table and energy
+Each module is introduced with a summary of the
+chemistry it contains and each topic is also introduced
+• The periodic table and periodicity
+with a short summary text. The assessable content is
+2
+then divided into two columns: Learning outcomes • Group 2 and the halogens
+and Additional guidance.
+• Qualitative analysis
+The Learning outcomes may all be assessed in the
+• Enthalpy changes
+examinations (with the exception of some of the skills
+in module 1.2 which will be assessed directly through • Reaction rates and equilibrium (qualitative)
+the Practical Endorsement). The Additional guidance
+Module 4 – Core organic chemistry
+column is included to provide further advice on
+delivery and the expected skills required from learners.
+• Basic concepts
+References to HSW (Section 5) are included in the • Hydrocarbons
+guidance to highlight opportunities to encourage a
+wider understanding of science. • Alcohols and haloalkanes
+• Organic synthesis
+The mathematical requirements in Section 5 are also
+referenced by the prefix M to link the mathematical
+• Analytical techniques (IR and MS)
+skills required for A Level Chemistry to examples of
+chemistry content where those mathematical skills Module 5 – Physical chemistry and transition
+could be linked to learning. elements
+The specification has been designed to be co- • Reaction rates and equilibrium (quantitative)
+teachable with the standalone AS Level in Chemistry A
+• pH and buffers
+qualification. The first four modules comprise the AS
+Level in Chemistry A course and learners studying the • Enthalpy, entropy and free energy
+A Level continue with the content of modules 5 and
+• Redox and electrode potentials
+6. The internally assessed Practical Endorsement skills
+also form part of the full A level (see Module 1.2).
+• Transition elements
+A summary of the content for the A level course is as Module 6 – Organic chemistry and analysis
+follows:
+• Aromatic compounds
+Module 1 – Development of practical skills in
+• Carbonyl compounds
+chemistry
+• Carboxylic acids and esters
+• Practical skills assessed in a written examination
+• Nitrogen compounds
+• Practical skills assessed in the practical
+endorsement • Polymers
+Module 2 – Foundations in chemistry • Organic synthesis
+• Atoms, compounds, molecules and equations • Chromatography and spectroscopy (NMR)
+• Amount of substance
+Version 2.9 © OCR 2025
+6 OCR Level 3 Advanced GCE in Chemistry A
+Assessment of practical skills and the Practical Endorsement
+Module 1 of the specification content relates to the Opportunities for carrying out activities that could
+practical skills learners are expected to gain throughout count towards the Practical Endorsement are indicated
+the course, which are assessed throughout the throughout the specification. These are shown in
+written examinations and also through the Practical the Additional guidance column as PAG1 to PAG11
+Endorsement (see Section 5). (Practical Activity Group, see Section 5). There are
+a wide variety of opportunities to assess PAG12
+Practical activities are embedded within the learning
+throughout the specification.
+2
+outcomes of the course to encourage practical
+activities in the classroom which contribute to the
+achievement of the Practical Endorsement
+(Section 5) as well as enhancing learners’
+understanding of chemical theory and practical skills.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 7
+2c. Content of modules 1 to 6
+Module 1: Development of practical skills in chemistry
+Chemistry is a practical subject and the development needed to collect and analyse empirical data. Skills in
+of practical skills is fundamental to understanding planning, implementing, analysing and evaluating, as
+the nature of chemistry. Chemistry A gives learners outlined in 1.1, will be assessed in the written papers.
+many opportunities to develop the fundamental skills
+2
+1.1 Practical skills assessed in a written examination
+Practical skills are embedded throughout all the Learners will be required to develop a range of
+content of this specification. practical skills throughout the course in preparation for
+the written examinations.
+1.1.1 Planning
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) experimental design, including to solve problems Including selection of suitable apparatus, equipment
+set in a practical context and techniques for the proposed experiment.
+Learners should be able to apply scientific
+knowledge based on the content of the specification
+to the practical context.
+HSW3
+(b) identification of variables that must be
+controlled, where appropriate
+(c) evaluation that an experimental method is HSW6
+appropriate to meet the expected outcomes.
+1.1.2 Implementing
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) how to use a wide range of practical apparatus As outlined in the content of the specification and
+and techniques correctly the skills required for the Practical Endorsement.
+HSW4
+(b) appropriate units for measurements M0.0
+(c) presenting observations and data in an HSW8
+appropriate format.
+Version 2.9 © OCR 2025
+8 OCR Level 3 Advanced GCE in Chemistry A
+1.1.3 Analysis
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) processing, analysing and interpreting qualitative Including reaching valid conclusions, where
+and quantitative experimental results appropriate.
+HSW5
+2
+(b) use of appropriate mathematical skills for Refer to Section 5 for a list of mathematical skills
+analysis of quantitative data that learners should have acquired competence in as
+part of the course.
+HSW3
+(c) appropriate use of significant figures M1.1
+(d) plotting and interpreting suitable graphs from M3.2, M3.3, M3.4, M3.5
+experimental results, including:
+(i) selection and labelling of axes with
+appropriate scales, quantities and units
+(ii) measurement of gradients and intercepts.
+1.1.4 Evaluation
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+(a) how to evaluate results and draw conclusions HSW6
+(b) the identification of anomalies in experimental
+measurements
+(c) the limitations in experimental procedures
+(d) precision and accuracy of measurements and M1.3
+data, including margins of error, percentage
+errors and uncertainties in apparatus
+(e) refining experimental design by suggestion of HSW3
+improvements to the procedures and apparatus.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 9
+1.2 Practical skills assessed in the practical endorsement
+A range of practical experiences is a vital part of a practise their practical skills, preparing learners for the
+learner’s development as part of this course. written examinations.
+Learners should develop and practise a wide range of Please refer to Section 5 (the Practical Endorsement) of
+practical skills throughout the course as preparation for this specification to see the list of practical experiences
+the Practical Endorsement, as well as for the written all learners should cover during the course. Further
+examinations. advice and guidance on the Practical Endorsement
+2 can be found in the Practical Skills Handbook support
+The experiments and skills required for the Practical
+booklet.
+Endorsement will allow learners to develop and
+1.2.1 Practical skills
+Learning outcomes Additional guidance
+Practical work carried out throughout the course
+will enable learners to develop the following
+skills:
+Independent thinking
+(a) apply investigative approaches and methods to Including how to solve problems in a practical
+practical work context.
+HSW3
+Use and application of scientific methods and practices
+(b) safely and correctly use a range of practical See Section 5.
+equipment and materials
+Including identification of potential hazards.
+Learners should understand how to minimise the
+risks involved.
+HSW4
+(c) follow written instructions
+(d) make and record observations/measurements HSW8
+(e) keep appropriate records of experimental See Section 5.
+activities
+(f) present information and data in a scientific way
+(g) use appropriate software and tools to process M3.1
+data, carry out research and report findings HSW3
+Research and referencing
+(h) use online and offline research skills including
+websites, textbooks and other printed scientific
+sources of information
+(i) correctly cite sources of information The Practical Skills Handbook provides guidance on
+appropriate methods for citing information.
+Version 2.9 © OCR 2025
+10 OCR Level 3 Advanced GCE in Chemistry A
+Instruments and equipment
+(j) use a wide range of experimental and practical See Section 5.
+instruments, equipment and techniques HSW4
+appropriate to the knowledge and understanding
+included in the specification.
+1.2.2 Use of apparatus and techniques
+Learning outcomes Additional guidance 2
+Through use of the apparatus and techniques
+listed below, and a minimum of 12 assessed
+practicals (see Section 5), learners should be able
+to demonstrate all of the practical skills listed
+within 1.2.1 and CPAC (Section 5, Table 2) as
+exemplified through:
+(a) use of appropriate apparatus to record a range of HSW4
+measurements (to include mass, time, volume of
+liquids and gases, temperature)
+(b) use of a water bath or electric heater or sand HSW4
+bath for heating
+(c) measurement of pH using pH charts, or pH HSW4
+meter, or pH probe on a data logger
+(d) use of laboratory apparatus for a variety of HSW4
+experimental techniques including:
+(i) titration, using burette and pipette
+(ii) distillation and heating under reflux,
+including setting up glassware using retort
+stand and clamps
+(iii) qualitative tests for ions and organic
+functional groups
+(iv) filtration, including use of fluted filter paper,
+or filtration under reduced pressure
+(e) use of a volumetric flask, including accurate HSW4
+technique for making up a standard solution
+(f) use of acid–base indicators in titrations of weak/ HSW4
+strong acids with weak/strong alkalis
+(g) purification of: HSW4
+(i) a solid product by recrystallisation
+(ii) a liquid product, including use of a
+separating funnel
+(h) use of melting point apparatus HSW4
+(i) use of thin layer or paper chromatography HSW4
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 11
+(j) setting up of electrochemical cells and measuring HSW4
+voltages
+(k) safely and carefully handling solids and liquids, HSW4
+including corrosive, irritant, flammable and toxic
+substances
+(l) measurement of rates of reaction by at least two HSW4
+different methods, for example:
+2
+(i) an initial rate method such as a clock
+reaction
+(ii) a continuous monitoring method.
+Version 2.9 © OCR 2025
+12 OCR Level 3 Advanced GCE in Chemistry A
+Module 2: Foundations in chemistry
+This module acts as an important bridge into AS and The importance of these basic chemical concepts
+A Level Chemistry from the study of chemistry within is seen as a prerequisite for all further chemistry
+science courses at GCSE level. modules, and it is recommended that this module
+should be studied first during this course.
+This module provides learners with a knowledge and
+understanding of the important chemical ideas that This module allows learners to develop important
+underpin the study of A Level Chemistry: quantitative techniques involved in measuring masses,
+2
+gas and solution volumes, including use of volumetric
+• atomic structure apparatus.
+• quantitative chemistry: formulae, equations,
+Learners are also able to develop their mathematical
+amount of substance and the mole
+skills during their study of amount of substance and
+• reactions of acids when carrying out quantitative practical work.
+• oxidation number and redox reactions
+• bonding and structure.
+2.1 Atoms and reactions
+This section builds directly from GCSE Science, starting The role of acids, bases and salts in chemistry is
+with basic atomic structure and isotopes. developed in the context of neutralisation reactions.
+Important basic chemical skills are developed: writing Finally, redox reactions are studied within the context
+chemical formulae, constructing equations and of oxidation number and electron transfer.
+calculating chemical quantities using the concept of
+amount of substance.
+2.1.1 Atomic structure and isotopes
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Atomic structure and isotopes
+(a) isotopes as atoms of the same element with
+different numbers of neutrons and different
+masses
+(b) atomic structure in terms of the numbers of HSW1 Different models for atomic structure can be
+protons, neutrons and electrons for atoms and used to explain different phenomena, e.g. the Bohr
+ions, given the atomic number, mass number and model explains periodic properties.
+any ionic charge
+HSW7 The changing accepted models of atomic
+structure over time. The use of evidence to accept
+or reject particular models.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 13
+Relative mass
+(c) explanation of the terms relative isotopic mass Definitions required.
+(mass compared with 1/12th mass of carbon-12)
+and relative atomic mass (weighted mean mass
+compared with 1/12th mass of carbon-12), based
+on the mass of a 12C atom, the standard for
+atomic masses
+2 (d) use of mass spectrometry in: M0.2, M1.2, M3.1
+(i) the determination of relative isotopic
+Knowledge of the mass spectrometer not required.
+masses and relative abundances of the
+isotope,
+Limited to ions with single charges.
+(ii) calculation of the relative atomic mass of an
+element from the relative abundances of its
+isotopes
+(e) use of the terms relative molecular mass, M, and For simple molecules, the term relative molecular
+r
+relative formula mass and their calculation from mass will be used.
+relative atomic masses.
+For compounds with giant structures, the term
+relative formula mass will be used.
+Definitions of relative molecular mass and relative
+formula mass will not be required.
+2.1.2 Compounds, formulae and equations
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Formulae and equations
+(a) the writing of formulae of ionic compounds from Note that ‘nitrate’ and ‘sulfate’ should be assumed
+ionic charges, including: to be NO – and SO 2–.
+3 4
+(i) prediction of ionic charge from the position
+Charges on ions other than in (i) and (ii) will be
+of an element in the periodic table
+provided.
+(ii) recall of the names and formulae for the
+following ions: NO –, CO 2–, SO 2–, OH–,
+3 3 4
+NH +, Zn2+ and Ag+
+4
+(b) construction of balanced chemical equations M0.2
+(including ionic equations), including state
+symbols, for reactions studied and for unfamiliar
+reactions given appropriate information.
+Version 2.9 © OCR 2025
+14 OCR Level 3 Advanced GCE in Chemistry A
+2.1.3 Amount of substance
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+The mole
+(a) explanation and use of the terms: M0.0, M0.1, M0.2, M0.4
+(i) amount of substance
+Amount of substance will be used in exams using the 2
+(ii) mole (symbol ‘mol’), as the unit for amount formula of the substance,
+of substance e.g. amount of NaCl; amount of O .
+2
+(iii) the Avogadro constant, N (the number of
+A
+particles per mole, 6.02 × 1023 mol–1) In recognition of IUPAC’s review, we will accept
+both the classical (carbon-12 based) and revised
+(iv) molar mass (mass per mole, units g mol–1),
+(Avogadro constant based) definitions of the mole in
+(v) molar gas volume (gas volume per mole, examinations from June 2018 onwards (see
+units dm3 mol–1)
+https://iupac.org/new-definition-mole-arrived/)
+The value for N and the molar gas volume at RTP
+A
+are provided on the Data Sheet.
+Determination of formulae
+(b) use of the terms: Definitions not required.
+(i) empirical formula (the simplest whole
+number ratio of atoms of each element
+present in a compound)
+(ii) molecular formula (the number and type of
+atoms of each element in a molecule)
+(c) calculations of empirical and molecular formulae, M0.2, M2.2, M2.3, M2.4
+from composition by mass or percentage
+To include calculating empirical formulae from
+compositions by mass and relative molecular
+elemental analysis data (see also 6.3.2 e).
+mass
+(d) the terms anhydrous, hydrated and water of M0.2, M2.2, M2.3, M2.4
+crystallisation and calculation of the formula
+of a hydrated salt from given percentage PAG1
+composition, mass composition or based on
+experimental results
+Calculation of reacting masses, gas volumes and mole concentrations
+(e) calculations, using amount of substance in mol, M0.0, M0.1, M0.4, M1.1, M2.2, M2.3, M2.4
+involving:
+Learners will be expected to express concentration
+(i) mass
+in mol dm–3 and g dm–3.
+(ii) gas volume
+(iii) solution volume and concentration
+(f) the ideal gas equation: M0.0, M0.1, M0.4, M1.1, M2.2, M2.3, M2.4
+pV = nRT
+The value for R is provided on the Data Sheet.
+Learners will be expected to express quantities in
+SI units.
+(g) use of stoichiometric relationships in calculations M0.2
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 15
+Percentage yields and atom economy
+(h) calculations to determine: M0.2, M1.1, M2.2, M2.3, M2.4
+(i) the percentage yield of a reaction or related
+quantities
+(ii) the atom economy of a reaction
+(i) the techniques and procedures required during PAG1
+experiments requiring the measurement of mass, HSW4 Many opportunities to carry out experimental
+2
+volumes of solutions and gas volumes and investigative work.
+(j) the benefits for sustainability of developing HSW10 Use of processes with high atom economy in
+chemical processes with a high atom economy. chemical industry and other areas.
+2.1.4 Acids
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Acids, bases, alkalis and neutralisation
+(a) the formulae of the common acids (HCl, H SO ,
+2 4
+HNO and CH COOH) and the common alkalis
+3 3
+(NaOH, KOH and NH ) and explanation that acids
+3
+release H+ ions in aqueous solution and alkalis
+release OH– ions in aqueous solution
+(b) qualitative explanation of strong and weak acids
+in terms of relative dissociations
+(c) neutralisation as the reaction of:
+(i) H+ and OH– to form H O
+2
+(ii) acids with bases, including carbonates,
+metal oxides and alkalis (water-soluble
+bases), to form salts, including full equations
+Acid–base titrations
+(d) the techniques and procedures used when PAG2
+preparing a standard solution of required HSW4 Many opportunities to carry out experimental
+concentration and carrying out acid–base and investigative work.
+titrations
+(e) structured and non-structured titration M0.1, M0.2, M1.1, M1.2, M2.2, M2.3, M2.4
+calculations, based on experimental results of
+familiar and non-familiar acids and bases.
+Version 2.9 © OCR 2025
+16 OCR Level 3 Advanced GCE in Chemistry A
+2.1.5 Redox
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Oxidation number
+(a) rules for assigning and calculating oxidation Learners will be expected to know oxidation
+number for atoms in elements, compounds and numbers of O in peroxides and H in metal hydrides.
+2
+ions
+(b) writing formulae using oxidation numbers HSW8 Appropriate use of oxidation numbers in
+written communication.
+(c) use of a Roman numeral to indicate the Examples should include, but not be limited to,
+magnitude of the oxidation number when iron(II) and iron(III).
+an element may have compounds/ions with Learners will be expected to write formulae from
+different oxidation numbers names such as chlorate(I) and chlorate(III) and vice
+versa.
+Note that 'nitrate’ and ‘sulfate’, with no shown
+oxidation number, are assumed to be NO – and
+3
+SO 2–.
+4
+HSW8 Systematic and unambiguous nomenclature.
+Redox reactions
+(d) oxidation and reduction in terms of: Should include examples of s-, p- and d-block
+elements.
+(i) electron transfer
+(ii) changes in oxidation number
+(e) redox reactions of metals with acids to form Metals should be from s-, p- and d-blocks
+salts, including full equations (see also 2.1.4 c) e.g. Mg, Al, Fe, Zn.
+Ionic equations not required.
+In (e), reactions with acids will be limited to those
+producing a salt and hydrogen. Reactions involving
+nitric acid or concentrated sulfuric acid could be
+assessed in the context of (f).
+(f) interpretation of redox equations in (e), and M0.2
+unfamiliar redox reactions, to make predictions
+in terms of oxidation numbers and electron loss/
+gain.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 17
+2.2 Electrons, bonding and structure
+This section introduces the concept of atomic orbitals molecules is studied, including an explanation of
+and develops a deeper understanding of electron polarity and intermolecular forces. Finally, this section
+configurations linked to the periodic table. looks at how bonding and structure contribute to
+properties of substances.
+The central role of electrons in ionic and covalent
+bonding is then studied. The important role of
+2 2.2.1 Electron structure
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Energy levels, shells, sub-shells, atomic orbitals, electron configuration
+(a) the number of electrons that can fill the first four
+shells
+(b) atomic orbitals, including: HSW1,7 Development of models to explain electron
+structure.
+(i) as a region around the nucleus that can hold
+up to two electrons, with opposite spins
+(ii) the shapes of s- and p-orbitals
+(iii) the number of orbitals making up s-, p- and
+d-sub-shells, and the number of electrons
+that can fill s-, p- and d-sub-shells
+(c) filling of orbitals: Learners are expected to be familiar with the
+'electrons in box' representations.
+(i) for the first three shells and the 4s and 4p
+orbitals in order of increasing energy
+HSW1 Development of refined models for electron
+(ii) for orbitals with the same energy, structure.
+occupation singly before pairing
+(d) deduction of the electron configurations of: Learners should use sub-shell notation, i.e. for
+oxygen: 1s22s22p4.
+(i) atoms, given the atomic number, up to
+Z = 36
+(ii) ions, given the atomic number and ionic
+charge, limited to s- and p-blocks up to
+Z = 36.
+Version 2.9 © OCR 2025
+18 OCR Level 3 Advanced GCE in Chemistry A
+2.2.2 Bonding and structure
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Ionic bonding
+(a) ionic bonding as electrostatic attraction between
+positive and negative ions, and the construction
+2
+of 'dot-and-cross' diagrams
+(b) explanation of the solid structures of giant ionic
+lattices, resulting from oppositely charged ions
+strongly attracted in all directions e.g. NaCl
+(c) explanation of the effect of structure and HSW1 Use of ideas about ionic bonding to explain
+bonding on the physical properties of ionic macroscopic properties.
+compounds, including melting and boiling points,
+solubility and electrical conductivity in solid,
+liquid and aqueous states
+Covalent bonding
+(d) covalent bond as the strong electrostatic
+attraction between a shared pair of electrons and
+the nuclei of the bonded atoms
+(e) construction of ‘dot-and-cross’ diagrams of ‘Dot-and-cross’ diagrams of up to six electron pairs
+molecules and ions to describe: (including lone pairs) surrounding a central atom.
+(i) single covalent bonding
+(ii) multiple covalent bonding
+(iii) dative covalent (coordinate) bonding
+(f) use of the term average bond enthalpy as a Learners should appreciate that the larger the value
+measurement of covalent bond strength of the average bond enthalpy, the stronger the
+covalent bond.
+Definition and calculations not required.
+Average bond enthalpies and related calculations
+are covered in detail in 3.2.1 f.
+The shapes of simple molecules and ions
+(g) the shapes of, and bond angles in, molecules and M4.1, M4.2
+ions with up to six electron pairs (including lone
+Learners should be able to draw 3-D diagrams to
+pairs) surrounding the central atom as predicted
+illustrate shapes of molecules and ions.
+by electron pair repulsion, including the relative
+repulsive strengths of bonded pairs and lone
+HSW1,2 Using electron pair repulsion theory to
+pairs of electrons
+predict molecular shapes.
+(h) electron pair repulsion to explain the following Learners are expected to know that lone pairs repel
+shapes of molecules and ions: linear, non-linear, more than bonded pairs and the bond angles for
+trigonal planar, pyramidal, tetrahedral and common examples of each shape including
+octahedral CH (109.5°), NH (107°) and H O (104.5°).
+4 3 2
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 19
+Electronegativity and bond polarity
+(i) electronegativity as the ability of an atom to Learners should be aware that electronegativity
+attract the bonding electrons in a covalent bond; increases towards F in the periodic table.
+interpretation of Pauling electronegativity values
+HSW1,2 Using ideas about electronegativity to
+predict chemical bond type.
+(j) explanation of:
+2 (i) a polar bond and permanent dipole within A polar molecule requires polar bonds with dipoles
+molecules containing covalently-bonded that do not cancel due to their direction. E.g. H O
+2
+atoms with different electronegativities and CO both have polar bonds but only H O has an
+2 2
+overall dipole.
+(ii) a polar molecule and overall dipole in terms
+of permanent dipole(s) and molecular shape
+Intermolecular forces
+(k) intermolecular forces based on permanent Permanent dipole–dipole and induced dipole–dipole
+dipole–dipole interactions and induced dipole– interactions can both be referred to as van der
+dipole interactions Waals’ forces.
+Induced dipole–dipole interactions can also be
+referred to as London (dispersion) forces.
+HSW1,2 Dipole interactions as a model to explain
+intermolecular bonding.
+(l) hydrogen bonding as intermolecular bonding Including the role of lone pairs.
+between molecules containing N, O or F and the
+H atom of –NH, –OH or HF
+(m) explanation of anomalous properties of H O HSW1 Use of ideas about hydrogen bonding to
+2
+resulting from hydrogen bonding, e.g.: explain macroscopic properties.
+(i) the density of ice compared with water
+(ii) its relatively high melting and boiling points
+(n) explanation of the solid structures of simple
+molecular lattices, as covalently bonded
+molecules attracted by intermolecular forces,
+e.g. I , ice
+2
+(o) explanation of the effect of structure and
+bonding on the physical properties of covalent
+compounds with simple molecular lattice
+structures including melting and boiling points,
+solubility and electrical conductivity.
+Version 2.9 © OCR 2025
+20 OCR Level 3 Advanced GCE in Chemistry A
+Module 3: Periodic table and energy
+The focus of this module is inorganic and physical techniques involved in determination of energy
+chemistry, the applications of energy use to changes and reaction rates.
+everyday life and industrial processes, and current
+environmental concerns associated with sustainability. There are opportunities for developing mathematical
+skills when studying enthalpy changes and reaction
+The content within this module assumes knowledge rates and when carrying out quantitative practical
+and understanding of the chemical concepts developed work.
+2
+in Module 2: Foundations in chemistry.
+Synoptic assessment
+This module provides learners with a knowledge and
+understanding of the important chemical ideas that This module provides a context for synoptic
+underpin the study of inorganic and physical chemistry: assessment and the subject content links strongly with
+content encountered in Module 2: Foundations in
+• the periodic table: periodic and group properties chemistry.
+• enthalpy changes and their determination • Atoms, moles and stoichiometry
+• rates of reaction • Acid and redox reactions
+• reversible reactions and chemical equilibrium • Bonding and structure
+• consideration of energy and yield in improving Knowledge and understanding of Module 2 will be
+sustainability. assumed and examination questions will be set that
+link its content with this module and other areas of
+This module allows learners to develop important
+chemistry.
+qualitative practical skills, especially observational
+skills required for analysis, and accurate quantitative
+3.1 The periodic table
+Periodic trends are first studied to extend the Finally, this section looks at how unknown ionic
+understanding of structure and bonding. Group compounds can be analysed and identified using
+properties are then studied using Group 2 and the simple test-tube tests.
+halogens as typical metal and non-metal groups
+respectively, allowing an understanding of redox
+reactions to be developed further.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 21
+3.1.1 Periodicity
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+The structure of the periodic table
+(a) the periodic table as the arrangement of HSW1,7,11 The development of the Periodic Law
+elements: and acceptance by the scientific community.
+2
+(i) by increasing atomic (proton) number
+HSW7,11 The extension of the periodic table
+(ii) in periods showing repeating trends through discovery and confirmation of new
+in physical and chemical properties elements.
+(periodicity)
+(iii) in groups having similar chemical properties
+Periodic trend in electron configuration and ionisation energy
+(b) (i) the periodic trend in electron configurations
+across Periods 2 and 3 (see also 2.2.1 d)
+(ii) classification of elements into s-, p- and
+d-blocks
+(c) first ionisation energy (removal of 1 mol of M3.1
+electrons from 1 mol of gaseous atoms) and
+successive ionisation energy, and: Definition required for first ionisation energy only.
+Explanation to include the small decreases as a
+(i) explanation of the trend in first ionisation
+result of s- and p-sub-shell energies (e.g. between
+energies across Periods 2 and 3, and down a
+Be and B) and p-orbital repulsion (e.g. between N
+group, in terms of attraction, nuclear charge
+and O).
+and atomic radius
+(ii) prediction from successive ionisation HSW1,2 Trends in ionisation energy support the
+energies of the number of electrons in Bohr model of the atom.
+each shell of an atom and the group of an
+element
+Periodic trend in structure and melting point
+(d) explanation of: No details of cubic or hexagonal packing required.
+(i) metallic bonding as strong electrostatic
+attraction between cations (positive ions)
+and delocalised electrons
+(ii) a giant metallic lattice structure, e.g. all
+metals
+(e) explanation of the solid giant covalent lattices of HSW1,9 Use of ideas about bonding to explain the
+carbon (diamond, graphite and graphene) and strength and conductive properties of graphene, and
+silicon as networks of atoms bonded by strong its potential applications and benefits.
+covalent bonds
+Version 2.9 © OCR 2025
+22 OCR Level 3 Advanced GCE in Chemistry A
+(f) explanation of physical properties of giant Explanations should be in terms of the types of
+metallic and giant covalent lattices, including particle present in a lattice, the relative strength of
+melting and boiling points, solubility and forces and bonds, and the mobility of the particles
+electrical conductivity in terms of structure and involved, as appropriate.
+bonding
+HSW1 Use of ideas about bonding to explain
+macroscopic properties.
+(g) explanation of the variation in melting points M3.1
+across Periods 2 and 3 in terms of structure and 2
+Trend in structure from giant metallic to giant
+bonding (see also 2.2.2 o).
+covalent to simple molecular lattice.
+3.1.2 Group 2
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Redox reactions and reactivity of Group 2 metals
+(a) the outer shell s2 electron configuration and the
+loss of these electrons in redox reactions to form
+2+ ions
+(b) the relative reactivities of the Group 2 elements Reactions with acids will be limited to those
+Mg → Ba shown by their redox reactions with: producing a salt and hydrogen.
+(i) oxygen
+(ii) water
+(iii) dilute acids
+(c) the trend in reactivity in terms of the first and M3.1
+second ionisation energies of Group 2 elements
+down the group (see also 3.1.1 c) Definition of second ionisation energy is not
+required, but learners should be able to write an
+equation for the change involved.
+Reactions of Group 2 compounds
+(d) the action of water on Group 2 oxides and the
+approximate pH of any resulting solutions,
+including the trend of increasing alkalinity
+(e) uses of some Group 2 compounds as bases,
+including equations, for example (but not limited
+to):
+(i) Ca(OH) in agriculture to neutralise acid
+2
+soils
+(ii) Mg(OH) and CaCO as ‘antacids’ in treating
+2 3
+indigestion.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 23
+3.1.3 The halogens
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Characteristic physical properties
+(a) existence of halogens as diatomic molecules and
+explanation of the trend in the boiling points of
+2
+Cl , Br and I , in terms of induced dipole–dipole
+2 2 2
+interactions (London forces) (see also 2.2.2 k)
+Redox reactions and reactivity of halogens and their compounds
+(b) the outer shell s2p5 electron configuration Throughout this section, explanations of redox
+and the gaining of one electron in many redox reactions should emphasise electron transfer and
+reactions to form 1– ions oxidation number changes and include full and ionic
+equations (see also 2.1.5 Redox).
+(c) the trend in reactivity of the halogens Cl , Br Including colour change in aqueous and organic
+2 2
+and I , illustrated by reaction with other halide solutions.
+2
+ions
+(d) explanation of the trend in reactivity shown in
+(c), from the decreasing ease of forming 1– ions,
+in terms of attraction, atomic radius and electron
+shielding
+(e) explanation of the term disproportionation as
+oxidation and reduction of the same element,
+illustrated by:
+(i) the reaction of chlorine with water as used
+in water treatment
+(ii) the reaction of chlorine with cold, dilute
+aqueous sodium hydroxide, as used to form
+bleach
+(iii) reactions analogous to those specified in (i)
+and (ii)
+(f) the benefits of chlorine use in water treatment HSW9,10,12 Decisions on whether or not to
+(killing bacteria) contrasted with associated chlorinate water depend on balance of benefits and
+risks (e.g. hazards of toxic chlorine gas and risks, and ethical considerations of people’s right to
+possible risks from formation of chlorinated choose. Consideration of other methods of purifying
+hydrocarbons) drinking water.
+Characteristic reactions of halide ions
+(g) the precipitation reactions, including ionic Complexes with ammonia are not required other
+equations, of the aqueous anions Cl–, Br– and than observations.
+I– with aqueous silver ions, followed by aqueous
+ammonia, and their use as a test for different PAG4 (see also 3.1.4 a)
+halide ions. HSW4 Qualitative analysis.
+Version 2.9 © OCR 2025
+24 OCR Level 3 Advanced GCE in Chemistry A
+3.1.4 Qualitative analysis
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Tests for ions
+(a) qualitative analysis of ions on a test-tube scale;
+processes and techniques needed to identify the
+2
+following ions in an unknown compound:
+(i) anions: Sequence of tests required is carbonate, sulfate then
+• CO 2–, by reaction with H+(aq) forming halide. (BaCO 3 and Ag 2 SO 4 are both insoluble.)
+3
+CO (g) (see 2.1.4 c)
+2 PAG4
+• SO 2–, by precipitation with Ba2+(aq)
+4 HSW4 Qualitative analysis.
+• Cl–, Br–, I– (see 3.1.3 g)
+(ii) cations: NH +, by reaction with warm
+4
+NaOH(aq) forming NH .
+3
+3.2 Physical chemistry
+This section introduces physical chemistry within the Reversible reactions are then studied, including
+general theme of energy. the dynamic nature of chemical equilibrium and
+the influence of conditions upon the position of
+Learners first learn about the importance of
+equilibrium.
+enthalpy changes, their uses and determination from
+experimental results including enthalpy cycles. Finally, the integrated roles of enthalpy changes,
+rates, catalysts and equilibria are considered as a
+This section then investigates the ways in which a
+way of increasing yield and reducing energy demand,
+change in conditions can affect the rate of a chemical
+improving the sustainability of industrial processes.
+reaction, in terms of activation energy, the Boltzmann
+distribution and catalysis.
+3.2.1 Enthalpy changes
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Enthalpy changes: ∆∆H of reaction, formation, combustion and neutralisation
+(a) explanation that some chemical reactions are
+accompanied by enthalpy changes that are
+exothermic (∆H, negative) or endothermic
+(∆H, positive)
+(b) construction of enthalpy profile diagrams to M3.1
+show the difference in the enthalpy of reactants
+compared with products
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 25
+(c) qualitative explanation of the term activation M3.1
+energy, including use of enthalpy profile Activation energy in terms of the minimum energy
+diagrams required for a reaction to take place.
+(d) explanation and use of the terms: Definitions required for enthalpy changes of
+formation, combustion and neutralisation only.
+(i) standard conditions and standard states
+(physical states under standard conditions)
+Standard conditions can be considered as 100 kPa
+(ii) enthalpy change of reaction (enthalpy and a stated temperature, 298 K.
+2 change associated with a stated equation,
+∆H)
+r
+(iii) enthalpy change of formation (formation
+of 1 mol of a compound from its elements,
+∆H)
+f
+(iv) enthalpy change of combustion (complete
+combustion of 1 mol of a substance, ∆ H)
+c
+(v) enthalpy change of neutralisation
+(formation of 1 mol of water from
+neutralisation, ∆ H)
+neut
+(e) determination of enthalpy changes directly from M0.0, M0.2, M2.2, M2.3, M2.4
+appropriate experimental results, including use
+PAG3
+of the relationship: q = mc∆T
+Bond enthalpies
+(f) (i) explanation of the term average bond M0.0, M0.2, M2.2, M2.3, M2.4
+enthalpy (as the breaking of 1 mol of bonds
+in gaseous molecules) Formal definition of average bond enthalpy not
+required.
+(ii) explanation of exothermic and endothermic
+reactions in terms of enthalpy changes
+Learners are expected to understand that an actual
+associated with the breaking and making of
+bond enthalpy may differ from the average value.
+chemical bonds
+(iii) use of average bond enthalpies to calculate
+enthalpy changes and related quantities
+(see also 2.2.2 f)
+Hess’ law and enthalpy cycles
+(g) Hess’ law for construction of enthalpy cycles and M0.0, M0.2, M1.1, M2.2, M2.3, M2.4, M3.1
+calculations to determine indirectly:
+Definition of Hess’ law not required.
+(i) an enthalpy change of reaction from
+Unfamiliar enthalpy cycles will be provided.
+enthalpy changes of combustion
+(ii) an enthalpy change of reaction from HSW2 Application of the principle of conservation of
+enthalpy changes of formation energy to determine enthalpy changes.
+(iii) enthalpy changes from unfamiliar enthalpy
+cycles
+(h) the techniques and procedures used to M3.1, M3.2
+determine enthalpy changes directly and
+To include the enthalpy changes covered in 5.2.1 c.
+indirectly.
+PAG3
+HSW4 Opportunities for carrying out experimental
+and investigative work.
+Version 2.9 © OCR 2025
+26 OCR Level 3 Advanced GCE in Chemistry A
+3.2.2 Reaction rates
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Simple collision theory
+(a) the effect of concentration, including the
+pressure of gases, on the rate of a reaction, in
+2
+terms of frequency of collisions
+(b) calculation of reaction rate from the gradients M3.1, M3.2, M3.5
+of graphs measuring how a physical quantity
+Suitable physical quantities to monitor could include
+changes with time
+concentration, gas volume, mass, etc.
+Catalysts
+(c) explanation of the role of a catalyst: Details of processes are not required.
+(i) in increasing reaction rate without being
+used up by the overall reaction
+(ii) in allowing a reaction to proceed via a
+different route with lower activation energy,
+as shown by enthalpy profile diagrams
+(d) (i) explanation of the terms homogeneous and
+heterogeneous catalysts
+(ii) explanation that catalysts have great HSW9,10 Benefits to the environment of improved
+economic importance and benefits for sustainability weighed against toxicity of some
+increased sustainability by lowering catalysts.
+temperatures and reducing energy demand
+from combustion of fossil fuels with
+resulting reduction in CO emissions
+2
+(e) the techniques and procedures used to PAG9
+investigate reaction rates including the HSW4 Many opportunities to carry out experimental
+measurement of mass, gas volumes and time and investigative work.
+The Boltzmann distribution
+(f) qualitative explanation of the Boltzmann M3.1
+distribution and its relationship with activation
+energy (see also 3.2.1 c)
+(g) explanation, using Boltzmann distributions, M3.1
+of the qualitative effect on the proportion of
+HSW1,2,5 Use of Boltzmann distribution model to
+molecules exceeding the activation energy and
+explain effect on reaction rates.
+hence the reaction rate, for:
+(i) temperature changes
+(ii) catalytic behaviour (see also 3.2.2 c).
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 27
+3.2.3 Chemical equilibrium
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Dynamic equilibrium and le Chatelier’s principle
+(a) explanation that a dynamic equilibrium exists
+in a closed system when the rate of the forward
+2
+reaction is equal to the rate of the reverse
+reaction and the concentrations of reactants and
+products do not change
+(b) le Chatelier’s principle and its application for Definition for le Chatelier's principle not required.
+homogeneous equilibria to deduce qualitatively
+the effect of a change in temperature, pressure HSW1,2,5 Use of le Chatelier’s principle to explain
+or concentration on the position of equilibrium effect of factors on the position of equilibrium.
+(c) explanation that a catalyst increases the rate
+of both forward and reverse reactions in an
+equilibrium by the same amount resulting in an
+unchanged position of equilibrium
+(d) the techniques and procedures used to Qualitative effects only.
+investigate changes to the position of equilibrium
+HSW4 Opportunities to carry out experimental and
+for changes in concentration and temperature.
+investigative work.
+(e) explanation of the importance to the chemical HSW6 Balancing the effects of equilibrium, rate,
+industry of a compromise between chemical safety and economics to determine the conditions
+equilibrium and reaction rate in deciding the used in industrial reactions e.g. Haber process.
+operational conditions
+The equilibrium constant, K
+c
+(f) expressions for the equilibrium constant, K , M0.2, M1.1, M2.3, M2.4
+c
+for homogeneous reactions and calculations
+of the equilibrium constant, K c , from provided Learners will not need to determine the units for K c .
+equilibrium concentrations
+(g) estimation of the position of equilibrium from M0.3
+the magnitude of K .
+c
+A qualitative estimation only is required.
+Version 2.9 © OCR 2025
+28 OCR Level 3 Advanced GCE in Chemistry A
+Module 4: Core organic chemistry
+This module introduces organic chemistry and its This module also provides learners with an opportunity
+important applications to everyday life, including to develop important organic practical skills, including
+current environmental concerns associated with use of Quickfit apparatus for distillation, heating under
+sustainability. reflux and purification of organic liquids.
+The module assumes knowledge and understanding In the context of this module, it is important that
+of the chemical concepts developed in Module 2: learners should appreciate the need to consider
+2
+Foundations in chemistry. responsible use of organic chemicals in the
+environment. Current trends in this context include
+The module provides learners with a knowledge and
+reducing demand for hydrocarbon fuels, processing
+understanding of the important chemical ideas that
+plastic waste productively, and preventing use of
+underpin the study of organic chemistry:
+ozone-depleting chemicals.
+• nomenclature and formula representation,
+Synoptic assessment
+functional groups, organic reactions and
+isomerism This module provides a context for synoptic
+assessment and the subject content links strongly with
+• aliphatic hydrocarbons
+the content encountered in Module 2: Foundations in
+• alcohols and haloalkanes chemistry.
+• organic practical skills and organic synthesis • Atoms, moles and stoichiometry
+• instrumental analytical techniques to provide • Acid and redox reactions
+evidence of structural features in molecules.
+• Bonding and structure
+Knowledge and understanding of Module 2 will be
+assumed and examination questions will be set that
+link its content with this module and other areas of
+chemistry.
+4.1 Basic concepts and hydrocarbons
+This section is fundamental to the study of organic functional groups, isomerism and reaction mechanisms
+chemistry. using curly arrows.
+This section introduces the various types of structures The initial ideas are then developed within the context
+used routinely in organic chemistry, nomenclature, of the hydrocarbons: alkanes and alkenes.
+and the important concepts of homologous series,
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 29
+4.1.1 Basic concepts of organic chemistry
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Naming and representing the formulae of organic compounds
+(a) application of IUPAC rules of nomenclature for Nomenclature will be limited to the functional
+systematically naming organic compounds groups within this specification.
+2
+E.g. CH CH CH(CH )CH OH has the systematic name:
+3 2 3 2
+2-methylbutan-1-ol.
+Learners will be expected to know the names of the
+first ten members of the alkanes homologous series
+and their corresponding alkyl groups.
+HSW8 Use of systematic nomenclature to avoid
+ambiguity.
+HSW11 The role of IUPAC in developing a systematic
+framework for chemical nomenclature.
+(b) interpretation and use of the terms: M4.2
+(i) general formula (the simplest algebraic
+See also 2.1.3 b for empirical formula and molecular
+formula of a member of a homologous
+formula.
+series) e.g. for an alkane: C H
+n 2n+2
+(ii) structural formula (the minimal detail Definitions not required.
+that shows the arrangement of atoms in a
+In structural formulae, the carboxyl group will be
+molecule) e.g. for butane: CH CH CH CH or
+3 2 2 3
+represented as COOH and the ester group as COO.
+CH (CH ) CH
+3 2 2 3
+(iii) displayed formula (the relative positioning The symbols below will be used for cyclohexane and
+of atoms and the bonds between them) e.g. benzene:
+for ethanol:
+H H
+H C C O H
+H H
+(iv) skeletal formula (the simplified organic
+formula, shown by removing hydrogen
+atoms from alkyl chains, leaving just a
+carbon skeleton and associated functional HSW8 Communication using organic chemical
+groups) e.g. for butan-2-ol: structures; selecting the appropriate type of formula
+for the context.
+OH
+Version 2.9 © OCR 2025
+30 OCR Level 3 Advanced GCE in Chemistry A
+Functional groups
+(c) interpretation and use of the terms: Definition required for homologous series only.
+(i) homologous series (a series of organic
+R may be used to represent alkyl groups, but also
+compounds having the same functional
+other fragments of organic compounds not involved
+group but with each successive member
+in reactions.
+differing by CH )
+2
+(ii) functional group (a group of atoms The terms saturated and unsaturated will be used
+responsible for the characteristic reactions to indicate the presence of multiple carbon–carbon 2
+of a compound) bonds as distinct from the wider term ‘degree of
+saturation’ used also for any multiple bonds and
+(iii) alkyl group (of formula C H )
+n 2n+1 cyclic compounds.
+(iv) aliphatic (a compound containing carbon
+and hydrogen joined together in straight
+chains, branched chains or non-aromatic
+rings)
+(v) alicyclic (an aliphatic compound arranged
+in non-aromatic rings with or without side
+chains)
+(vi) aromatic (a compound containing a
+benzene ring)
+(vii) saturated (single carbon–carbon bonds
+only) and unsaturated (the presence of
+multiple carbon–carbon bonds, including
+C=C, C/C and aromatic rings)
+(d) use of the general formula of a homologous
+series to predict the formula of any member of
+the series
+Isomerism
+(e) explanation of the term structural isomers M4.2
+(compounds with the same molecular
+formula but different structural formulae) and
+determination of possible structural formulae of
+an organic molecule, given its molecular formula
+Reaction mechanisms
+(f) the different types of covalent bond fission:
+(i) homolytic fission (in terms of each bonding
+atom receiving one electron from the
+bonded pair, forming two radicals)
+(ii) heterolytic fission (in terms of one bonding
+atom receiving both electrons from the
+bonded pair)
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 31
+(g) the term radical (a species with an unpaired Radical mechanisms will be represented by a
+electron) and use of ‘dots’ to represent species sequence of equations.
+that are radicals in mechanisms Dots, •, are required in all instances where there is
+a single unpaired electron (e.g. Cl• and CH •). Dots
+3
+are not required for species that are diradicals
+(e.g. O).
+(h) a ‘curly arrow’ described as the movement of an ‘Half curly arrows’ are not required, see 4.1.2 f.
+electron pair, showing either heterolytic fission
+2 HSW1,8 Use of the ‘curly arrow’ model to
+or formation of a covalent bond
+demonstrate electron flow in organic reactions.
+(i) reaction mechanisms, using diagrams, to show Any relevant dipoles should be included.
+clearly the movement of an electron pair with Curly arrows should start from a bond, a lone pair of
+‘curly arrows’ and relevant dipoles. electrons or a negative charge.
+HSW1,2,8 Use of reaction mechanisms to explain
+organic reactions.
+Version 2.9 © OCR 2025
+32 OCR Level 3 Advanced GCE in Chemistry A
+4.1.2 Alkanes
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Properties of alkanes
+(a) alkanes as saturated hydrocarbons containing Hybridisation not required.
+single C–C and C–H bonds as σ-bonds (overlap
+2
+of orbitals directly between the bonding atoms); HSW1 Use of model of orbital overlap to explain
+free rotation of the σ-bond covalent bonding in organic compounds.
+(b) explanation of the tetrahedral shape and bond M4.1, M4.2
+angle around each carbon atom in alkanes in
+terms of electron pair repulsion Learners should be able to draw 3-D diagrams.
+(see also 2.2.2 g–h)
+(c) explanation of the variations in boiling points of M3.1
+alkanes with different carbon-chain length and
+branching, in terms of induced dipole–dipole
+interactions (London forces) (see also 2.2.2 k)
+Reactions of alkanes
+(d) the low reactivity of alkanes with many reagents HSW1 Use of ideas about enthalpy and polarity to
+in terms of the high bond enthalpy and very low explain macroscopic properties of alkanes.
+polarity of the σ-bonds present (see also 2.2.2 j)
+(e) complete combustion of alkanes, as used in fuels,
+and the incomplete combustion of alkane fuels
+in a limited supply of oxygen with the resulting
+potential dangers from CO
+(f) the reaction of alkanes with chlorine and Learners are not required to use ‘half curly arrows’
+bromine by radical substitution using ultraviolet in this mechanism.
+radiation, including a mechanism involving Equations should show which species are radicals
+homolytic fission and radical reactions in terms using a single ‘dot’, •, to represent the unpaired
+of initiation, propagation and termination electron.
+(see also 4.1.1 f–g)
+(g) the limitations of radical substitution in synthesis
+by the formation of a mixture of organic
+products, in terms of further substitution and
+reactions at different positions in a carbon chain.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 33
+4.1.3 Alkenes
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Properties of alkenes
+(a) alkenes as unsaturated hydrocarbons containing Hybridisation is not required.
+a C=C bond comprising a π-bond (sideways
+2
+overlap of adjacent p-orbitals above and below HSW1 Use of the model of orbital overlap to explain
+the bonding C atoms) and a σ-bond (overlap of covalent bonding in organic compounds.
+orbitals directly between the bonding atoms)
+(see also 4.1.2 a); restricted rotation of the
+π-bond
+(b) explanation of the trigonal planar shape and M4.1, M4.2
+bond angle around each carbon in the C=C of
+alkenes in terms of electron pair repulsion
+(see also 2.2.2 g–h, 4.1.2 b)
+Stereoisomerism in alkenes
+(c) (i) explanation of the terms: M4.2, MM4.34.2, M4.3
+• stereoisomers (compounds with the
+H C H H H
+same structural formula but with a 3
+different arrangement in space) C C C C
+• E/Z isomerism (an example of H CH H C CH
+3 3 3
+stereoisomerism, in terms of restricted
+E-but-2-ene Z-but-2-ene
+rotation about a double bond and the
+(trans) (cis)
+requirement for two different groups to
+be attached to each carbon atom of the
+Use of E as equivalent to trans and Z as equivalent
+C=C group)
+to cis is only consistently correct when there is an H
+• cis–trans isomerism (a special case
+on each carbon atom of the C=C bond.
+of E/Z isomerism in which two of the
+substituent groups attached to each
+carbon atom of the C=C group are the
+same)
+(ii) use of Cahn–Ingold–Prelog (CIP) priority Assigning CIP priorities to double or triple bonds
+rules to identify the E and Z stereoisomers within R groups is not required:
+R R"
+C C
+R' R'''
+M4.2, M4.3
+(d) determination of possible E/Z or cis–trans M4.2, M4.3
+stereoisomers of an organic molecule, given its
+structural formula
+Version 2.9 © OCR 2025
+34 OCR Level 3 Advanced GCE in Chemistry A
+Addition reactions of alkenes
+(e) the reactivity of alkenes in terms of the relatively
+low bond enthalpy of the π-bond
+(f) addition reactions of alkenes with:
+(i) hydrogen in the presence of a suitable
+catalyst, e.g. Ni, to form alkanes
+(ii) halogens to form dihaloalkanes, including PAG7 (see also 6.3.1 c)
+2
+the use of bromine to detect the presence
+of a double C=C bond as a test for
+unsaturation in a carbon chain
+(iii) hydrogen halides to form haloalkanes
+(iv) steam in the presence of an acid catalyst,
+e.g. H PO , to form alcohols
+3 4
+(g) definition and use of the term electrophile (an
+electron pair acceptor)
+(h) the mechanism of electrophilic addition in For the reaction with halogens, either a carbocation
+alkenes by heterolytic fission (see also 4.1.1 h–i) or a halonium ion intermediate is acceptable.
+HSW1,2,8 Use of reaction mechanisms to explain
+organic reactions.
+(i) use of Markownikoff’s rule to predict formation Limited to stabilities of primary, secondary and
+of a major organic product in addition reactions tertiary carbocations.
+of H–X to unsymmetrical alkenes, e.g. H–Br to
+propene, in terms of the relative stabilities of Explanation for relative stabilities of carbocations
+carbocation intermediates in the mechanism not required.
+HSW1,2,5 Use of stability to explain products of
+organic reactions.
+Polymers from alkenes
+(j) addition polymerisation of alkenes and
+substituted alkenes, including:
+(i) the repeat unit of an addition polymer
+deduced from a given monomer
+(ii) identification of the monomer that would
+produce a given section of an addition
+polymer
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 35
+Waste polymers and alternatives
+(k) the benefits for sustainability of processing waste HSW9,10 Benefits of cheap oil-derived plastics
+polymers by: counteracted by problems for the environment of
+landfill; the move to re-using waste, improving the
+(i) combustion for energy production
+use of resources.
+(ii) use as an organic feedstock for the
+production of plastics and other organic
+chemicals
+2
+(iii) removal of toxic waste products, e.g.
+removal of HCl formed during disposal by
+combustion of halogenated plastics
+(e.g. PVC)
+(l) the benefits to the environment of development HSW9,10 Benefits of reduced dependency on finite
+of biodegradable and photodegradable polymers. resources and alleviating problems from disposal of
+persistent plastic waste.
+4.2 Alcohols, haloalkanes and analysis
+This section introduces two further functional Finally, the important techniques of infrared
+groups: alcohols and haloalkanes, and considers the spectroscopy and mass spectrometry are used to
+importance of polarity and bond enthalpy to organic illustrate instrumental analysis as a valuable tool for
+reactions. identifying organic compounds.
+Throughout this section, there are many opportunities
+for developing organic practical skills, including
+preparation and purification of organic liquids.
+4.2.1 Alcohols
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Properties of alcohols
+(a) (i) the polarity of alcohols and an explanation,
+in terms of hydrogen bonding, of the water
+solubility and the relatively low volatility of
+alcohols compared with alkanes (see also
+2.2.2 l and 4.1.2 c)
+(ii) classification of alcohols into primary,
+secondary and tertiary alcohols
+Reactions of alcohols
+(b) combustion of alcohols
+Version 2.9 © OCR 2025
+36 OCR Level 3 Advanced GCE in Chemistry A
+(c) oxidation of alcohols by an oxidising agent, e.g. Equations should use [O] to represent the oxidising
+Cr O 2–/H+ (i.e. K Cr O /H SO ), including: agent.
+2 7 2 2 7 2 4
+(i) the oxidation of primary alcohols to form PAG7 (see also 6.3.1 c)
+aldehydes and carboxylic acids; the control
+of the oxidation product using different
+reaction conditions
+(ii) the oxidation of secondary alcohols to form
+ketones 2
+(iii) the resistance to oxidation of tertiary
+alcohols
+(d) elimination of H O from alcohols in the presence Mechanism not required.
+2
+of an acid catalyst (e.g. H PO or H SO ) and heat
+3 4 2 4
+to form alkenes
+(e) substitution with halide ions in the presence of Mechanism not required.
+acid (e.g. NaBr/H SO ) to form haloalkanes.
+2 4
+4.2.2 Haloalkanes
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Substitution reactions of haloalkanes
+(a) hydrolysis of haloalkanes in a substitution PAG7 (see also 6.3.1 c)
+reaction:
+(i) by aqueous alkali
+(ii) by water in the presence of AgNO and
+3
+ethanol to compare experimentally the
+rates of hydrolysis of different carbon–
+halogen bonds
+(b) definition and use of the term nucleophile (an
+electron pair donor)
+(c) the mechanism of nucleophilic substitution in the HSW1,2 Use of reaction mechanisms to explain
+hydrolysis of primary haloalkanes with aqueous organic reactions.
+alkali (see also 4.1.1 h–i)
+(d) explanation of the trend in the rates of hydrolysis
+of primary haloalkanes in terms of the bond
+enthalpies of carbon–halogen bonds (C–F, C–Cl,
+C–Br and C–I)
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 37
+Environmental concerns from use of organohalogen compounds
+(e) production of halogen radicals by the action Simple equations of the breakdown process are
+of ultraviolet (UV) radiation on CFCs in the required, e.g.
+upper atmosphere and the resulting catalysed
+CF Cl → CF Cl• + •Cl
+breakdown of the Earth’s protective ozone layer, 2 2 2
+including equations to represent: •Cl + O → •ClO + O
+3 2
+(i) the production of halogen radicals •ClO + O → •Cl + O
+2
+2 (ii) the catalysed breakdown of ozone by Cl•
+Learners could be expected to construct similar
+and other radicals e.g. •NO.
+equations for other stated radicals.
+HSW9,10,11,12 Benefits of CFCs; acceptance of
+scientific evidence explaining ozone depletion
+leading to government legislation against CFC use.
+4.2.3 Organic synthesis
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Practical skills
+(a) the techniques and procedures for: PAG5
+HSW4 Opportunities to carry out experimental and
+(i) use of Quickfit apparatus including for
+investigative work.
+distillation and heating under reflux
+(ii) preparation and purification of an organic
+liquid including:
+• use of a separating funnel to remove an
+organic layer from an aqueous layer
+• d rying with an anhydrous salt (e.g.
+MgSO , CaCl )
+4 2
+• redistillation
+Synthetic routes
+(b) for an organic molecule containing several Learners will be expected to identify the functional
+functional groups: groups encountered in Module 4.
+(i) identification of individual functional groups
+HSW3 Development of synthetic routes.
+(ii) prediction of properties and reactions
+(c) two-stage synthetic routes for preparing organic Learners will be expected to be able to devise two-
+compounds. stage synthetic routes by applying transformations
+between all functional groups encountered up to
+this point of the specification.
+Extra information may be provided on exam papers
+to extend the learner’s toolkit of organic reactions.
+HSW3 Development of synthetic routes.
+Version 2.9 © OCR 2025
+38 OCR Level 3 Advanced GCE in Chemistry A
+4.2.4 Analytical techniques
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Infrared spectroscopy
+(a) infrared (IR) radiation causes covalent bonds to
+vibrate more and absorb energy
+2
+(b) absorption of infrared radiation by atmospheric HSW9,10,11,12 Acceptance of scientific evidence
+gases containing C=O, O–H and C–H bonds explaining global warming has prompted
+(e.g. CO , H O and CH ), the suspected link to governments towards policies to use renewable
+2 2 4
+global warming and resulting changes to energy energy supplies.
+usage
+(c) use of an infrared spectrum of an organic M3.1
+compound to identify:
+(i) an alcohol from an absorption peak of the In examinations, infrared absorption data will be
+O–H bond provided on the Data Sheet.
+Learners should be aware that most organic
+(ii) an aldehyde or ketone from an absorption
+compounds produce a peak at approximately
+peak of the C=O bond
+3000 cm–1 due to absorption by C–H bonds.
+(iii) a carboxylic acid from an absorption peak of
+the C=O bond and a broad absorption peak
+of the O–H bond
+(d) interpretations and predictions of an infrared M3.1
+spectrum of familiar or unfamiliar substances
+Restricted to functional groups studied in this
+using supplied data
+specification (see also 6.3.2 e).
+HSW3,5 Analysis and interpretation of spectra.
+(e) use of infrared spectroscopy to monitor gases HSW12 Use of analytical techniques to provide
+causing air pollution (e.g. CO and NO from car evidence for law courts, e.g. drink driving.
+emissions) and in modern breathalysers to
+measure ethanol in the breath
+Mass spectrometry
+(f) use of a mass spectrum of an organic compound M3.1
+to identify the molecular ion peak and hence to
+Limited to ions with single charges.
+determine molecular mass
+Learners will not be expected to interpret mass
+spectra of organic halogen compounds.
+Limited to organic compounds encountered in this
+specification (see also 6.3.2 e).
+Learners should be aware that mass spectra may
+contain a small M+1 peak from the small proportion
+of carbon-13.
+HSW3,5 Analysis and interpretation of spectra.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 39
+(g) analysis of fragmentation peaks in a mass M3.1
+spectrum to identify parts of structures.
+Learners should be able to suggest the structures of
+fragment ions.
+HSW3,5 Analysis and interpretation of spectra.
+Combined techniques
+(h) deduction of the structures of organic M3.1
+2
+compounds from different analytical data
+Limited to functional groups encountered in this
+including:
+specification.
+(i) elemental analysis (see also 2.1.3c)
+Learners will not be expected to interpret mass
+(ii) mass spectra
+spectra of organic halogen compounds.
+(iii) IR spectra.
+HSW3,5,6 Analysis and interpretation of different
+analytical data.
+Version 2.9 © OCR 2025
+40 OCR Level 3 Advanced GCE in Chemistry A
+Module 5: Physical chemistry and transition elements
+The content within this module assumes knowledge Synoptic assessment
+and understanding of the chemical concepts developed
+This module provides a context for synoptic
+in Module 2: Foundations in chemistry and Module 3:
+assessment and the subject content links strongly with
+Periodic table and energy.
+the content encountered in Module 2: Foundations in
+This module extends the study of energy, reaction chemistry and Module 3: Periodic table and energy.
+rates and equilibria, and the periodic table.
+• Atoms, moles and stoichiometry 2
+The main areas of physical chemistry studied include:
+• Acid and redox reactions
+• rate equations, orders of reaction, the rate-
+• Bonding and structure
+determining step
+• Periodicity, Group 2 and the halogens
+• equilibrium constants, K and K
+c p
+• Enthalpy changes
+• acid–base equilibria including pH, K and buffer
+a
+solutions • Reaction rates
+• lattice enthalpy and Born–Haber cycles • Chemical equilibrium
+• entropy and free energy Knowledge and understanding of Module 2 and
+Module 3 will be assumed and examination questions
+• electrochemical cells.
+will be set that link their content with this module and
+The main areas of inorganic chemistry studied include: other areas of chemistry.
+• redox chemistry
+• transition elements.
+5.1 Rates, equilibrium and pH
+The largely qualitative treatment of reaction rates There are many opportunities for developing
+and equilibria encountered in Module 3 is developed mathematical skills, including use of logarithms and
+within a quantitative and graphical context. exponents, when studying the content of this section
+and when carrying out quantitative practical work.
+This section also allows learners to develop practical
+quantitative techniques involved in the determination
+of reaction rates and pH.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 41
+5.1.1 How fast?
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Orders, rate equations and rate constants
+(a) explanation and use of the terms: rate of
+reaction, order, overall order, rate constant, half-
+2
+life, rate-determining step
+(b) deduction of: M0.2
+(i) orders from experimental data
+Learners are expected to interpret initial rates data
+(ii) a rate equation from orders of the form: to determine orders with respect to reactants.
+rate = k[A]m[B]n, where m and n are 0, 1 or 2 Integrated forms of rate equations are not required.
+PAG10
+HSW8 Use of rate equations.
+(c) calculation of the rate constant, k, and related M0.0, M0.1, M0.4, M1.1, M2.2, M2.3, M2.4
+quantities, from a rate equation including
+determination of units
+Rate graphs and orders
+(d) from a concentration–time graph: M0.1, M0.4, M1.1, M3.1, M3.2, M3.3, M3.4, M3.5
+(i) deduction of the order (0 or 1) with respect
+Concentration–time graphs can be plotted from
+to a reactant from the shape of the graph
+continuous measurements taken during the course
+(ii) calculation of reaction rates from the of a reaction (continuous monitoring).
+measurement of gradients (see also 3.2.2 b)
+(e) from a concentration–time graph of a first order M3.1, M3.2
+reaction, measurement of constant half-life, t
+1/2
+Learners should be aware of the constancy of half-
+life for a first order reaction.
+(f) for a first order reaction, determination of the M0.1, M0.4, M1.1, M2.3, M2.4, M2.5
+rate constant, k, from the constant half-life, t ,
+1/2
+using the relationship: k = ln 2/t Learners will not be required to derive this equation
+1/2
+from the exponential relationship between
+concentration and time, [A] = [A ]e–kt.
+0
+(g) from a rate–concentration graph: M0.1, M0.4, M1.1, M3.1, M3.2, M3.3, M3.4, M3.5
+(i) deduction of the order (0, 1 or 2) with
+Rate–concentration data can be obtained from initial
+respect to a reactant from the shape of the
+rates investigations of separate experiments using
+graph
+different concentrations of one of the reactants.
+(ii) determination of rate constant for a first Clock reactions are an approximation of this method
+order reaction from the gradient where the time measured is such that the reaction
+has not proceeded too far.
+HSW5 Link between order and rate.
+Version 2.9 © OCR 2025
+42 OCR Level 3 Advanced GCE in Chemistry A
+(h) the techniques and procedures used to PAG9,10
+investigate reaction rates by the initial rates HSW4 Opportunities to carry out experimental and
+method and by continuous monitoring, including investigative work.
+use of colorimetry (see also 3.2.2 e)
+Rate-determining step
+(i) for a multi-step reaction, prediction of, HSW1 Use of experimental evidence for the
+proposal of reaction mechanisms.
+(i) a rate equation that is consistent with the
+2
+rate-determining step
+(ii) possible steps in a reaction mechanism
+from the rate equation and the balanced
+equation for the overall reaction
+Effect of temperature on rate constants
+(j) a qualitative explanation of the effect of M0.3
+temperature change on the rate of a reaction and
+hence the rate constant (see 3.2.2 f–g)
+(k) the Arrhenius equation: M0.1, M0.4, M2.2, M2.3, M2.4, M2.5, M3.1, M3.2,
+M3.3, M3.4
+(i) the exponential relationship between the
+rate constant, k and temperature, T given by
+E = activation energy,
+the Arrhenius equation, k = Ae–Ea/RT a
+A = pre-exponential factor,
+(ii) determination of E and A graphically R = gas constant (provided on the Data Sheet)
+a
+using: ln k = –E /RT + ln A derived from the Explanation of A is not required.
+a
+Arrhenius equation. Equations provided on the Data Sheet.
+HSW5 Link between k and T.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 43
+5.1.2 How far?
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Equilibrium
+(a) use of the terms mole fraction and partial See also 3.2.3 Chemical Equilibrium.
+pressure
+2
+(b) calculation of quantities present at equilibrium, M0.2
+given appropriate data
+(c) the techniques and procedures used to Not for K .
+p
+determine quantities present at equilibrium
+HSW4 Opportunities to carry out experimental and
+investigative work.
+(d) expressions for K and K for homogeneous and M0.2
+c p
+heterogeneous equilibria (see also 3.2.3 f)
+Note: liquid and solid concentrations are constant
+and are omitted in heterogeneous K and K
+c p
+expressions.
+(e) calculations of K and K , or related quantities, M0.0, M0.1, M0.2, M0.4, M2.2, M2.3, M2.4
+c p
+including determination of units (see also 3.2.3 f)
+Learners will not be required to solve quadratic
+equations.
+(f) (i) the qualitative effect on equilibrium M0.3
+constants of changing temperature for
+exothermic and endothermic reactions
+(ii) the constancy of equilibrium constants with
+changes in concentration, pressure or in the
+presence of a catalyst
+(g) explanation of how an equilibrium constant M0.3
+controls the position of equilibrium on changing
+concentration, pressure and temperature
+(h) application of the above principles in 5.1.2 How
+far? for K , K to other equilibrium constants,
+c p
+where appropriate (see also 5.1.3 c etc.).
+Version 2.9 © OCR 2025
+44 OCR Level 3 Advanced GCE in Chemistry A
+5.1.3 Acids, bases and buffers
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Brønsted–Lowry acids and bases
+(a) (i) a Brønsted–Lowry acid as a species that Learners should be able to identify acid–base pairs
+donates a proton and a Brønsted–Lowry in equations for acid–base equilibria.
+2
+base as a species that accepts a proton
+HSW1,7 Development of different models over time
+(see also 2.1.4 Acids)
+to explain acid–base behaviour.
+(ii) use of the term conjugate acid–base pairs
+(iii) monobasic, dibasic and tribasic acids
+(b) the role of H+ in the reactions of acids with
+metals and bases (including carbonates, metal
+oxides and alkalis), using ionic equations
+(see also 2.1.4 c, 2.1.5 e)
+(c) (i) the acid dissociation constant, K , for the M0.1, M0.2, M0.4, M2.3, M2.4, M2.5
+a
+extent of acid dissociation (see also 2.1.4 b)
+(ii) the relationship between K and pK
+a a
+pH and [H+(aq)]
+(d) use of the expression for pH as: M0.1, M0.4, M2.2, M2.3, M2.4, M2.5
+pH = –log[H+] HSW8 pH as convenient terminology for
+communicating [H+].
+[H+] = 10–pH
+(e) use of the expression for the ionic product of M0.1, M0.4, M2.2, M2.3, M2.4
+water, K
+w
+(f) calculations of pH, or related quantities, for: M0.1, M0.4, M2.2, M2.3, M2.4, M2.5
+(i) strong monobasic acids
+(ii) strong bases, using K
+w
+(g) calculations of pH, K or related quantities, for a M0.1, M0.4, M2.1, M2.2, M2.3, M2.4, M2.5
+a
+weak monobasic acid using approximations
+Approximations for weak acid calculations:
+[HA] ~ [HA]
+equilibrium undissociated
+i.e. [HA] >> [H+]
+[H+]
+~
+[A–]
+equilibrium equilibrium
+i.e. negligible dissociation of H O.
+2
+Learners will not be required to solve quadratic
+equations.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 45
+(h) limitations of using approximations to K related M0.3
+a
+calculations for ‘stronger’ weak acids
+Including reasons why
+[HA] ~ [HA] may no longer be
+equilibrium undissociated
+valid.
+HSW6 Understanding of the circumstances under
+which K approximations break down.
+a
+2
+Buffers: action, uses and calculations
+(i) a buffer solution as a system that minimises pH
+changes on addition of small amounts of an acid
+or a base
+(j) formation of a buffer solution from:
+(i) a weak acid and a salt of the weak acid,
+e.g. CH COOH/CH COONa
+3 3
+(ii) excess of a weak acid and a strong alkali,
+e.g. excess CH COOH/NaOH
+3
+(k) explanation of the role of the conjugate
+acid–base pair in an acid buffer solution,
+e.g. CH COOH/CH COO–, in the control of pH
+3 3
+(l) calculation of the pH of a buffer solution, from M0.1, M0.4, M2.2, M2.3, M2.4, M2.5
+the K value of a weak acid and the equilibrium
+a
+concentrations of the conjugate acid–base pair;
+calculations of related quantities
+(m) explanation of the control of blood pH by the The H CO /HCO – buffer is present in blood plasma,
+2 3 3
+carbonic acid–hydrogencarbonate buffer system maintaining a pH between 7.35 and 7.45.
+Neutralisation
+(n) pH titration curves for combinations of strong M3.1
+and weak acids with strong and weak bases,
+including:
+(i) sketch and interpretation of their shapes No indicator is suitable for a weak acid/weak base
+titration.
+(ii) explanation of the choice of suitable
+indicators, given the pH range of the
+indicator
+(iii) explanation of indicator colour changes in The indicator should be considered as a weak acid,
+terms of equilibrium shift between the HA HA.
+and A– forms of the indicator
+(o) the techniques and procedures used when PAG11
+measuring pH with a pH meter. HSW4 Opportunities to carry out experimental and
+investigative work.
+Version 2.9 © OCR 2025
+46 OCR Level 3 Advanced GCE in Chemistry A
+5.2 Energy
+Born–Haber cycles are used as a theoretical model Redox chemistry permeates chemistry and the
+to illustrate the energy changes associated with ionic introductory work in Module 2 is developed further
+bonding. within this section, including use of volumetric
+analysis for redox titrations and an introduction of
+Entropy and free energy are then introduced as
+electrochemistry in the context of electrode potentials.
+concepts used to predict quantitatively the feasibility
+of chemical change.
+2
+5.2.1 Lattice enthalpy
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Lattice enthalpy
+(a) explanation of the term lattice enthalpy Definition required.
+(formation of 1 mol of ionic lattice from gaseous
+ions, ∆ H) and use as a measure of the strength
+LE
+of ionic bonding in a giant ionic lattice
+(see also 2.2.2 b–c)
+Born–Haber and related enthalpy cycles
+(b) use of the lattice enthalpy of a simple ionic solid M2.2, M2.3, M2.4, M3.1
+(e.g. NaCl, MgCl ) and relevant energy terms for:
+2
+Relevant energy terms: enthalpy change of
+(i) the construction of Born–Haber cycles
+formation, ionisation energy, enthalpy change of
+(ii) related calculations atomisation and electron affinity.
+Definition required for first ionisation energy
+(see also 3.1.1 c) and enthalpy change of formation
+(see also 3.2.1 d) only.
+HSW2 Application of conservation of energy to
+determine enthalpy changes.
+(c) explanation and use of the terms: Definitions required.
+Details of infinite dilution not required.
+(i) enthalpy change of solution (dissolving of 1
+mol of solute, ∆ H)
+sol
+(ii) enthalpy change of hydration (dissolving of
+1 mol of gaseous ions in water, ∆ H)
+hyd
+(d) use of the enthalpy change of solution of a M2.2, M2.3, M2.4, M3.1
+simple ionic solid (e.g. NaCl, MgCl ) and relevant
+2
+energy terms (enthalpy change of hydration and HSW2 Application of conservation of energy to
+lattice enthalpy) for: determine enthalpy changes.
+(i) the construction of enthalpy cycles
+(ii) related calculations
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 47
+(e) qualitative explanation of the effect of ionic
+charge and ionic radius on the exothermic value
+of a lattice enthalpy and enthalpy change of
+hydration.
+5.2.2 Enthalpy and entropy
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+2
+apply their knowledge and understanding of:
+Entropy
+(a) explanation that entropy is a measure of the HSW1 The model of entropy to explain
+dispersal of energy in a system which is greater, thermodynamic stability.
+the more disordered a system
+(b) explanation of the difference in magnitude of the
+entropy of a system:
+(i) of solids, liquids and gases
+(ii) for a reaction in which there is a change in
+the number of gaseous molecules
+(c) calculation of the entropy change of a system, M2.2, M2.3, M2.4
+∆S, and related quantities for a reaction given the
+entropies of the reactants and products
+Free energy
+(d) explanation that the feasibility of a process HSW1,5,6 Use of entropy, enthalpy and temperature
+depends upon the entropy change and for predicting feasibility.
+temperature in the system, T∆S, and the
+enthalpy change of the system, ∆H
+(e) explanation, and related calculations, of the free M0.0, M2.2, M2.3, M2.4
+energy change, ∆G, as: ∆G = ∆H – T∆S (the Gibbs’
+equation) and that a process is feasible when ∆G HSW5 Link between ∆G and feasibility.
+has a negative value
+(f) the limitations of predictions made by ∆G about M0.3
+feasibility, in terms of kinetics.
+HSW6 The relative effects of entropy and rate in
+determining feasibility of processes.
+Version 2.9 © OCR 2025
+48 OCR Level 3 Advanced GCE in Chemistry A
+5.2.3 Redox and electrode potentials
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Redox
+(a) explanation and use of the terms oxidising agent
+and reducing agent (see also 2.1.5 Redox)
+2
+(b) construction of redox equations using half- M0.2
+equations and oxidation numbers
+(c) interpretation and prediction of reactions
+involving electron transfer
+Redox titrations
+(d) the techniques and procedures used when HSW4 Opportunities to carry out experimental and
+carrying out redox titrations including those investigative work.
+involving Fe2+/MnO – and I /S O 2−
+4 2 2 3
+(see also 2.1.5 e–f)
+(e) structured and non-structured titration M0.1, M0.2, M0.4, M1.1, M1.2, M2.2, M2.3, M2.4
+calculations, based on experimental results of
+Non-structured titration calculations could be
+redox titrations involving:
+examined in the context of both acid–base and
+(i) Fe2+/MnO – and I /S O 2−
+4 2 2 3 redox titrations (see also 2.1.4 d–e).
+(ii) non-familiar redox systems
+Electrode potentials
+(f) use of the term standard electrode (redox) E o data will be provided on examination papers.
+potential, E ,o including its measurement using a
+hydrogen electrode
+(g) the techniques and procedures used for the For measurement of standard cell potentials, ions
+measurement of cell potentials of: of the same element can have concentrations of
+1 mol dm–3 or be equimolar.
+(i) metals or non-metals in contact with their
+ions in aqueous solution
+PAG8
+(ii) ions of the same element in different HSW4 Opportunities to carry out experimental and
+oxidation states in contact with a Pt investigative work.
+electrode
+(h) calculation of a standard cell potential by
+combining two standard electrode potentials
+(i) prediction of the feasibility of a reaction using M0.3
+standard cell potentials and the limitations
+of such predictions in terms of kinetics and HSW6 The relative effects of standard electrode
+concentration potential, rate and concentration in determining
+feasibility of processes.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 49
+Storage and fuel cells
+(j) application of principles of electrode potentials Details of storage cells and required equations will
+to modern storage cells be provided. Relevant electrode potentials and
+other data will be supplied.
+HSW9 Benefits of electrochemical cells counteracted
+by risks from toxicity and fire from Li-based cells.
+2 (k) explanation that a fuel cell uses the energy from Recall of fuel cells and equations will not be
+the reaction of a fuel with oxygen to create a required. Relevant electrode potentials and other
+voltage and the changes that take place at each data will be supplied.
+electrode.
+5.3 Transition elements
+This section provides learners with a deeper This section includes the role of ligands in complex
+knowledge and understanding of the periodic table ions, stereochemistry, precipitation, ligand substitution
+within the context of the transition elements. and redox reactions. The colour changes and
+observations in these reactions increase the toolkit
+of qualitative inorganic tests for identifying unknown
+ionic compounds.
+5.3.1 Transition elements
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Properties
+(a) the electron configuration of atoms and ions of Learners should use sub-shell notation e.g. for Fe:
+the d-block elements of Period 4 (Sc–Zn), given 1s22s22p63s23p63d64s2.
+the atomic number and charge (see also 2.2.1 d)
+(b) the elements Ti–Cu as transition elements i.e.
+d-block elements that have an ion with an
+incomplete d-sub-shell
+(c) illustration, using at least two transition No detail of how colour arises required.
+elements, of:
+Practical examples of catalytic behaviour include:
+(i) the existence of more than one oxidation
+Cu2+ for reaction of Zn with acids;
+state for each element in its compounds
+MnO for decomposition of H O .
+(see also 5.3.1 k) 2 2 2
+(ii) the formation of coloured ions (see also No detail of catalytic processes required.
+5.3.1 h, j–k)
+HSW9 Benefits of reduced energy usage; risks from
+(iii) the catalytic behaviour of the elements and
+toxicity of many transition metals.
+their compounds and their importance in
+the manufacture of chemicals by industry
+(see 3.2.2 d)
+Version 2.9 © OCR 2025
+50 OCR Level 3 Advanced GCE in Chemistry A
+Ligands and complex ions
+(d) explanation and use of the term ligand in terms Examples should include:
+of coordinate (dative covalent) bonding to a monodentate: H O, Cl– and NH
+2 3
+metal ion or metal, including bidentate ligands bidentate: NH CH CH NH (‘en’).
+2 2 2 2
+In exams, other ligands could be introduced.
+(e) use of the terms complex ion and coordination M4.1, M4.2
+number and examples of complexes with: 2
+Examples:
+(i) six-fold coordination with an octahedral
+Octahedral: many hexaaqua complexes, e.g.
+shape
+[Cu(H O) ]2+, [Fe(H O) ]3+
+2 6 2 6
+(ii) four-fold coordination with either a planar Tetrahedral: many tetrachloro complexes, e.g.
+or tetrahedral shape (see also 2.2.2 g–h) CuCl 2– and CoCl 2–
+4 4
+Square planar: complexes of Pt, e.g. platin:
+Pt(NH ) Cl (see also 5.3.1 g).
+3 2 2
+(f) types of stereoisomerism shown by complexes, M4.1, M4.2, M4.3
+including those associated with bidentate and
+Learners should be able to draw 3-D diagrams to
+multidentate ligands:
+illustrate stereoisomerism.
+(i) cis–trans isomerism e.g. Pt(NH ) Cl
+3 2 2
+(see also 4.1.3 c–d) HSW8
+(ii) optical isomerism e.g.
+[Ni(NH CH CH NH ) ]2+ (see also 6.2.2 c)
+2 2 2 2 3
+(g) use of cis-platin as an anti-cancer drug and its HSW9 Benefits of chemotherapy; risks from
+action by binding to DNA preventing cell division unpleasant side effects.
+Ligand substitution
+(h) ligand substitution reactions and the Complexed formulae should be used in ligand
+accompanying colour changes in the formation substitution equations.
+of:
+(i) [Cu(NH ) (H O) ]2+ and [CuCl ]2– from
+3 4 2 2 4
+[Cu(H O) ]2+
+2 6
+(ii) [Cr(NH ) ]3+ from [Cr(H O) ]3+
+3 6 2 6
+(see also 5.3.1 j)
+(i) explanation of the biochemical importance of
+iron in haemoglobin, including ligand substitution
+involving O and CO
+2
+Precipitation reactions
+(j) reactions, including ionic equations, and the For precipitation, non-complexed formulae or
+accompanying colour changes of aqueous Cu2+, complexed formulae, are acceptable e.g. Cu2+(aq) or
+Fe2+, Fe3+, Mn2+ and Cr3+ with aqueous sodium [Cu(H O) ]2+; Cu(OH) (s) or Cu(OH) (H O) .
+2 6 2 2 2 4
+hydroxide and aqueous ammonia, including: With excess NaOH, only Cr(OH) reacts further
+3
+forming [Cr(OH) ]3–.
+(i) precipitation reactions 6
+With excess NH , only Cr(OH) and Cu(OH) react
+(ii) complex formation with excess aqueous forming [Cr(NH 3 ) ]3+ and [Cu( 3 NH ) (H O) ] 2 2+
+sodium hydroxide and aqueous ammonia 3 6 3 4 2 2
+respectively (see also 5.3.1 h).
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 51
+Redox reactions
+(k) redox reactions and accompanying colour Fe2+ can be oxidised with H+/MnO – and Fe3+
+4
+changes for: reduced with I–, Cr3+ can be oxidised with H O /
+2 2
+(i) interconversions between Fe2+ and Fe3+ OH– and Cr 2 O 7 2– reduced with Zn/H+, Cu2+ can be
+reduced with I–. In aqueous conditions, Cu+ readily
+(ii) interconversions between Cr3+ and Cr O 2–
+2 7 disproportionates.
+(iii) reduction of Cu2+ to Cu+ and
+disproportionation of Cu+ to Cu2+ and Cu Learners will not be required to recall equations
+2 but may be required to construct and interpret
+redox equations using relevant half-equations and
+oxidation numbers (see 5.2.3 b–c).
+(l) interpretation and prediction of unfamiliar
+reactions including ligand substitution,
+precipitation, redox.
+5.3.2 Qualitative analysis
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Tests for ions
+(a) qualitative analysis of ions on a test-tube scale: PAG4
+processes and techniques needed to identify the HSW4 Qualitative analysis.
+following ions in an unknown compound:
+(i) anions: CO 2–, Cl–, Br–, I–, SO 2–
+3 4
+(see 3.1.4 a)
+(ii) cations: NH +; Cu2+, Fe2+, Fe3+, Mn2+, Cr3+
+4
+(see 3.1.4 a, 5.3.1 j).
+Version 2.9 © OCR 2025
+52 OCR Level 3 Advanced GCE in Chemistry A
+Module 6: Organic chemistry and analysis
+The content within this module assumes knowledge Synoptic assessment
+and understanding of the chemical concepts developed
+in Module 2: Foundations in chemistry and Module 4: This module provides a context for synoptic
+Core organic chemistry. assessment and the subject content links strongly with
+the content encountered in Module 2: Foundations in
+This module introduces several new functional groups chemistry and Module 4: Core organic chemistry.
+and emphasises the importance of organic synthesis.
+This module also adds NMR spectroscopy to the • Atoms, moles and stoichiometry 2
+instrumentation techniques used in organic and
+• Acid and redox reactions
+forensic analysis.
+• Bonding and structure
+The main areas of organic chemistry studied include:
+• Organic nomenclature and structures
+• aromatic compounds
+• Hydrocarbons
+• carboxylic acids and esters
+• Alcohols and haloalkanes
+• organic nitrogen compounds: amines and amino
+• Synthesis and analysis
+acids
+Knowledge and understanding of Module 2 and
+• polymerisation: addition polymers and
+Module 4 will be assumed and examination questions
+condensation polymers
+will be set that link their content with this module and
+• synthetic organic chemistry and further other areas of chemistry.
+development of practical skills
+• the importance of modern analytical techniques
+in organic analysis.
+6.1 Aromatic compounds, carbonyls and acids
+This section extends the range of functional groups The important carbonyl compounds, aldehydes and
+encountered in Module 4. ketones, are then studied.
+Aromatic compounds are first introduced, including Finally, carboxylic acids and their related functional
+the central role of delocalisation within the chemistry groups, acyl chlorides and esters, are studied. The
+of arenes and phenols. Directing groups are also importance of acyl chlorides in organic synthesis is
+introduced, including their importance to organic emphasised.
+synthesis.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 53
+6.1.1 Aromatic compounds
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Benzene and aromatic compounds
+(a) the comparison of the Kekulé model of benzene Learners may represent the structure of benzene in
+with the subsequent delocalised models for equations and mechanisms as:
+2
+benzene in terms of p-orbital overlap forming a
+delocalised π-system
+or
+HSW1,7 Development of the model for benzene
+over time.
+(b) the experimental evidence for a delocalised, HSW11 Acceptance of the delocalised benzene
+rather than Kekulé, model for benzene in model by the scientific community in light of
+terms of bond lengths, enthalpy change of supporting experimental evidence.
+hydrogenation and resistance to reaction
+(see also 6.1.1 f)
+(c) use of IUPAC rules of nomenclature for Use of locant numbers to identify positions of
+systematically naming substituted aromatic substitution e.g. 2,4-dinitromethylbenzene.
+compounds
+HSW8 Introduction of systematic nomenclature.
+Electrophilic substitution
+(d) the electrophilic substitution of aromatic Halogen carriers include iron, iron halides and
+compounds with: aluminium halides.
+(i) concentrated nitric acid in the presence of
+concentrated sulfuric acid
+(ii) a halogen in the presence of a halogen
+carrier
+(iii) a haloalkane or acyl chloride in the
+presence of a halogen carrier (Friedel–Crafts
+reaction) and its importance to synthesis by
+formation of a C–C bond to an aromatic ring
+(see also 6.2.4 d)
+(e) the mechanism of electrophilic substitution in For nitration mechanism, learners should include
+arenes for nitration and halogenation equations for formation of NO +.
+2
+(see also 4.1.1 h–i) Halogen carriers include iron, iron halides and
+aluminium halides.
+For the halogenation mechanism, the electrophile
+can be assumed to be X+.
+HSW1,2,8 Use of reaction mechanisms to explain
+organic reactions.
+Version 2.9 © OCR 2025
+54 OCR Level 3 Advanced GCE in Chemistry A
+(f) the explanation of the relative resistance to HSW2,5 Use of delocalised benzene model to
+bromination of benzene, compared with alkenes, explain reactivity.
+in terms of the delocalised electron density
+of the π-system in benzene compared with
+the localised electron density of the π-bond in
+alkenes (see also 4.1.3 a, 6.1.1 a)
+(g) the interpretation of unfamiliar electrophilic Extra information may be provided on exam papers.
+substitution reactions of aromatic compounds,
+2
+including prediction of mechanisms
+Phenols
+(h) the weak acidity of phenols shown by the PAG7 (see also 6.3.1 c)
+neutralisation reaction with NaOH but absence of
+reaction with carbonates (see also 5.1.3 b)
+(i) the electrophilic substitution reactions of phenol: Note that nitration with phenol does not
+require concentrated HNO or the presence of a
+(i) with bromine to form 2,4,6-tribromophenol 3
+concentrated H SO catalyst.
+(ii) with dilute nitric acid to form a mixture of 2 4
+2-nitrophenol and 4-nitrophenol
+(j) the relative ease of electrophilic substitution Illustrated by reactions with bromine and with nitric
+of phenol compared with benzene, in terms of acid.
+electron pair donation to the π-system from an Explanation is only in terms of susceptibility of
+oxygen p-orbital in phenol (see also 4.1.3 a) ring to 'attack' and not in terms of stability of
+intermediate.
+HSW2,5 Use of delocalised benzene model to
+explain reactivity.
+(k) the 2- and 4-directing effect of electron- Learners will not be expected to know further
+donating groups (OH, NH ) and the 3-directing electron-donating or electron-withdrawing
+2
+effect of electron-withdrawing groups (NO ) in groups; relevant additional data will be supplied in
+2
+electrophilic substitution of aromatic compounds examinations.
+HSW5 Correlation between substituted group and
+position of reaction.
+(l) the prediction of substitution products of
+aromatic compounds by directing effects and the
+importance to organic synthesis (see also 6.2.5
+Organic Synthesis).
+6.1.2 Carbonyl compounds
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Reactions of carbonyl compounds
+(a) oxidation of aldehydes using Cr O 2–/H+ In equations for organic redox reactions, [O] and [H]
+2 7
+(i.e. K Cr O /H SO ) to form carboxylic acids should be used.
+2 2 7 2 4
+PAG7 (see also 6.3.1 c)
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 55
+(b) nucleophilic addition reactions of carbonyl
+compounds with:
+(i) NaBH to form alcohols
+4
+(ii) HCN [i.e. NaCN(aq)/H+(aq)], to form
+hydroxynitriles (see also 6.2.4 b)
+(c) the mechanism for nucleophilic addition For NaBH , the nucleophile can be considered
+4
+reactions of aldehydes and ketones with NaBH as being the hydride ion, H–, with subsequent
+4
+2 and HCN protonation of the organic intermediate from H O.
+2
+For HCN, initial nucleophilic attack is from CN– ions;
+subsequent protonation stage can be shown using
+H O or H+.
+2
+HSW1,2,8 Use of reaction mechanisms to explain
+organic reactions.
+Characteristic tests for carbonyl compounds
+(d) use of 2,4-dinitrophenylhydrazine to:
+(i) detect the presence of a carbonyl group in The equation for this reaction is not required.
+an organic compound Structure of derivative not required.
+(ii) identify a carbonyl compound from the
+PAG7 (see also 6.3.1 c)
+melting point of the derivative
+HSW4 Qualitative analysis.
+(e) use of Tollens’ reagent (ammoniacal silver In equations involving Tollens’ reagent, [O] is
+nitrate) to: acceptable.
+(i) detect the presence of an aldehyde group
+PAG7 (see also 6.3.1 c)
+(ii) distinguish between aldehydes and ketones, HSW4 Qualitative analysis.
+explained in terms of the oxidation of
+aldehydes to carboxylic acids with reduction
+of silver ions to silver.
+6.1.3 Carboxylic acids and esters
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Properties of carboxylic acids
+(a) explanation of the water solubility of carboxylic
+acids in terms of hydrogen bonding
+(b) reactions in aqueous conditions of carboxylic Comparison of acidity of different carboxylic acids
+acids with metals and bases (including not required.
+carbonates, metal oxides and alkalis)
+PAG7 (see 6.3.1 c)
+Version 2.9 © OCR 2025
+56 OCR Level 3 Advanced GCE in Chemistry A
+Esters
+(c) esterification of:
+(i) carboxylic acids with alcohols in the
+presence of an acid catalyst (e.g.
+concentrated H SO )
+2 4
+(ii) acid anhydrides with alcohols
+(d) hydrolysis of esters:
+2
+(i) in hot aqueous acid to form carboxylic acids
+and alcohols
+(ii) in hot aqueous alkali to form carboxylate
+salts and alcohols
+Acyl chlorides
+(e) the formation of acyl chlorides from carboxylic
+acids using SOCl
+2
+(f) use of acyl chlorides in synthesis in formation Including esterification of phenol, which is not
+of esters, carboxylic acids and primary and readily esterified by carboxylic acids.
+secondary amides.
+6.2 Nitrogen compounds, polymers and synthesis
+This section focuses on organic nitrogen compounds, to consider multi-stage synthetic routes towards an
+including amines, amides and amino acids. Chirality organic product.
+and optical isomerism is also introduced.
+This module allows learners many opportunities to
+Condensation polymerisation is also introduced and further develop their organic practical skills, especially
+compared with addition polymerisation. in preparing and purifying organic solids, including
+recrystallisation and determination of melting points.
+The importance of carbon–carbon bond formation in
+organic synthesis is stressed. Learners are also able
+6.2.1 Amines
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Basicity and preparation of amines
+(a) the basicity of amines in terms of proton Comparison of basicity of different amines not
+acceptance by the nitrogen lone pair and the required.
+reactions of amines with dilute acids, e.g. Restricted to inorganic acids.
+HCl(aq), to form salts
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 57
+(b) the preparation of: Including formation of primary amines from
+ammonia and secondary/tertiary amines from
+(i) aliphatic amines by substitution of
+amines.
+haloalkanes with excess ethanolic ammonia
+See also reduction of nitriles (see 6.2.4 c).
+and amines
+(ii) aromatic amines by reduction of nitroarenes
+using tin and concentrated hydrochloric
+acid.
+2
+6.2.2 Amino acids, amides and chirality
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Reactions of amino acids
+(a) the general formula for an α-amino acid as
+RCH(NH )COOH and the following reactions of
+2
+amino acids:
+(i) reaction of the carboxylic acid group with
+alkalis and in the formation of esters (see
+also 6.1.3 c)
+(ii) reaction of the amine group with acids
+Amides
+(b) structures of primary and secondary amides
+(see also 6.1.3 f, 6.2.3 a–b)
+Chirality
+(c) optical isomerism (an example of M4.2, M4.3
+stereoisomerism, in terms of non-
+superimposable mirror images about a chiral Learners should be able to draw 3-D diagrams to
+centre) (see also 4.1.3 c–d) illustrate stereoisomerism.
+HSW1,8
+(d) identification of chiral centres in a molecule of M4.2, M4.3
+any organic compound.
+Version 2.9 © OCR 2025
+58 OCR Level 3 Advanced GCE in Chemistry A
+6.2.3 Polyesters and polyamides
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Condensation polymers
+(a) condensation polymerisation to form: Formation from carboxylic acids/dicarboxylic acids
+(or respective acyl chlorides) and from alcohols/diols
+(i) polyesters 2
+or amines/diamines.
+(ii) polyamides
+Learners will not be expected to recall the structures
+of synthetic polyesters and polyamides or their
+monomers.
+(b) the acid and base hydrolysis of:
+(i) the ester groups in polyesters
+(ii) the amide groups in polyamides
+(c) prediction from addition and condensation See also 4.1.3 j.
+polymerisation of:
+(i) the repeat unit from a given monomer(s)
+(ii) the monomer(s) required for a given section
+of a polymer molecule
+(iii) the type of polymerisation.
+6.2.4 Carbon–carbon bond formation
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Extending carbon chain length
+(a) the use of C–C bond formation in synthesis to
+increase the length of a carbon chain
+(see also 6.1.1 d, 6.1.2 b)
+(b) formation of C–C/N by reaction of:
+(i) haloalkanes with CN– and ethanol, including
+nucleophilic substitution mechanism
+(see also 4.2.2 c)
+(ii) carbonyl compounds with HCN, including
+nucleophilic addition mechanism
+(see also 6.1.2 b–c)
+(c) reaction of nitriles from (b):
+(i) by reduction (e.g. with H /Ni) to form
+2
+amines
+(ii) by acid hydrolysis to form carboxylic acids
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 59
+(d) formation of a substituted aromatic C–C by
+alkylation (using a haloalkane) and acylation
+(using an acyl chloride) in the presence of a
+halogen carrier (Friedel–Crafts reaction)
+(see also 6.1.1 d).
+6.2.5 Organic synthesis
+Learning outcomes Additional guidance
+2
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Practical skills
+(a) the techniques and procedures used for the PAG6
+preparation and purification of organic solids HSW4 Opportunities to carry out experimental and
+involving use of a range of techniques investigative work.
+(see also 4.2.3 a) including:
+(i) organic preparation
+• use of Quickfit apparatus
+• distillation and heating under reflux
+(ii) purification of an organic solid
+• filtration under reduced pressure
+• recrystallisation
+• measurement of melting points
+Synthetic routes
+(b) for an organic molecule containing several Learners will be expected to identify functional
+functional groups: groups encountered in Module 6 (see also 4.2.3 b).
+(i) identification of individual functional groups
+HSW3 Development of synthetic routes.
+(ii) prediction of properties and reactions
+(c) multi-stage synthetic routes for preparing organic Learners will be expected to be able to devise multi-
+compounds. stage synthetic routes by applying transformations
+between all functional groups studied throughout
+the specification.
+Extra information may be provided on exam papers
+to extend the learner’s toolkit of organic reactions.
+HSW3 Development of synthetic routes.
+Version 2.9 © OCR 2025
+60 OCR Level 3 Advanced GCE in Chemistry A
+6.3 Analysis
+This section develops and complements the The instrumentation methods of analysis studied
+spectroscopic areas of organic chemistry previously during the A level course provide learners with an
+encountered (see Module 4: Core organic chemistry; important base of knowledge, understanding and
+4.2.4 Analytical techniques). awareness for further study in Higher Education and in
+many areas of employment in the broad scientific field.
+This section demonstrates how analytical techniques
+introduced in Module 4 (infrared spectroscopy, mass This section also looks at how unknown organic
+2
+spectrometry and elemental analysis) may be used functional groups can be analysed and identified using
+in combination with NMR spectroscopy to provide simple test-tube tests.
+evidence of structural features in molecules.
+6.3.1 Chromatography and qualitative analysis
+Learning outcomes Additional guidance
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+Types of chromatography
+(a) interpretation of one-way TLC chromatograms in M3.1
+terms of R values
+f
+PAG6
+HSW3 Interpretation of TLC to analyse organic
+compounds.
+(b) interpretation of gas chromatograms in terms of: M3.1, M3.2
+(i) retention times
+To include creation and use of external calibration
+(ii) the amounts and proportions of the curves to confirm concentrations of components.
+components in a mixture. Peak integration values will be supplied.
+HSW3 Interpretation of GC to analyse organic
+compounds.
+Tests for organic functional groups
+(c) qualitative analysis of organic functional groups
+on a test-tube scale;
+processes and techniques needed to identify PAG7
+the following functional groups in an unknown HSW4 Qualitative analysis.
+compound:
+(i) alkenes by reaction with bromine
+(see also 4.1.3 f)
+(ii) haloalkanes by reaction with aqueous silver
+nitrate in ethanol (see also 4.2.2 a)
+(iii) phenols by weak acidity but no reaction
+with CO 2– (see also 6.1.1 h)
+3
+(iv) carbonyl compounds by reaction with 2,4-
+DNP (see also 6.1.2 d)
+(v) aldehydes by reaction with Tollens’ reagent
+(see also 6.1.2 e)
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 61
+(vi) primary and secondary alcohols and
+aldehydes by reaction with acidified
+dichromate (see also 4.2.1 c, 6.1.2a)
+(vii) carboxylic acids by reaction with CO 2–
+3
+(see also 6.1.3 b).
+6.3.2 Spectroscopy
+Learning outcomes Additional guidance
+2
+Learners should be able to demonstrate and
+apply their knowledge and understanding of:
+NMR Spectroscopy
+(a) analysis of a carbon-13 NMR spectrum of an M3.1
+organic molecule to make predictions about:
+All carbon-13 NMR spectra that are assessed will be
+(i) the number of carbon environments in the
+proton decoupled.
+molecule
+In examinations, NMR chemical shift values will be
+(ii) the different types of carbon environment provided on the Data Sheet.
+present, from chemical shift values Restricted to functional groups studied in the A level
+(iii) possible structures for the molecule specification.
+HSW3,5 Interpretation of spectra to analyse organic
+compounds.
+(b) analysis of a high resolution proton NMR M3.1
+spectrum of an organic molecule to make
+predictions about:
+(i) the number of proton environments in the In examinations, NMR chemical shift values will be
+molecule provided on the Data Sheet.
+Restricted to functional groups studied in the A level
+(ii) the different types of proton environment
+specification.
+present, from chemical shift values
+Learners will be expected to identify aromatic
+(iii) the relative numbers of each type of proton
+protons from chemical shift values but will not be
+present from relative peak areas, using
+expected to analyse their splitting patterns.
+integration traces or ratio numbers, when
+required HSW3,5 Interpretation of spectra to analyse organic
+(iv) the number of non-equivalent protons compounds.
+adjacent to a given proton from the spin–
+spin splitting pattern, using the n + 1 rule
+(v) possible structures for the molecule
+(c) prediction of a carbon-13 or proton NMR M3.1
+spectrum for a given molecule
+Version 2.9 © OCR 2025
+62 OCR Level 3 Advanced GCE in Chemistry A
+(d) (i) the use of tetramethylsilane, TMS, as the
+standard for chemical shift measurements
+(ii) the need for deuterated solvents,
+e.g. CDCl , when running an NMR spectrum
+3
+(iii) the identification of O–H and N–H protons
+by proton exchange using D O
+2
+Combined techniques
+2
+(e) deduction of the structures of organic M3.1
+compounds from different analytical data
+Spectral reference data will be provided on the Data
+including:
+Sheet.
+(i) elemental analysis (see also 2.1.3 c)
+Restricted to functional groups studied in the A level
+(ii) mass spectra (see also 4.2.4 f–g)
+specification.
+(iii) IR spectra (see also 4.2.4 d–e)
+Learners will not be expected to interpret mass
+(iv) NMR spectra.
+spectra of organic halogen compounds.
+HSW3,5,6 Interpretation of a variety of different
+evidence to analyse organic compounds.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 63
+2d. Prior knowledge, learning and progression
+This specification has been developed for learners who Some learners may wish to follow a chemistry course
+wish to continue with a study of chemistry at Level for only one year as an AS, in order to broaden
+3 in the National Qualifications Framework (NQF). their curriculum, and to develop their interest and
+The A level specification has been written to provide understanding of different areas of the subject. Others
+progression from GCSE Science, GCSE Additional may follow a co-teachable route, completing the one–
+Science, GCSE Further Additional Science, GCSE year AS course and/or then moving to the two–year A
+2 Chemistry or from AS Level Chemistry. Learners who level.
+have successfully taken other Level 2 qualifications in
+The A Level Chemistry course will prepare learners
+Science or Applied Science with appropriate chemistry
+for progression to undergraduate courses in
+content may also have acquired sufficient knowledge
+Chemistry, Biochemistry, Medicine, Dentistry,
+and understanding to begin the A Level Chemistry
+Engineering, Pharmacy, one of the other sciences or
+course.
+related subjects. For learners wishing to follow an
+There is no formal requirement for prior knowledge apprenticeship route or those seeking direct entry into
+of chemistry for entry onto this qualification. Other chemical science careers, this A level provides a strong
+learners without formal qualifications may have background and progression pathway.
+acquired sufficient knowledge of chemistry to enable
+There are a number of Science specifications at OCR.
+progression onto the course.
+Find out more at www.ocr.org.uk
+Version 2.9 © OCR 2025
+64 OCR Level 3 Advanced GCE in Chemistry A
+3 Assessment of OCR A Level in Chemistry A
+3a. Forms of assessment
+All three externally assessed components (01–03) Stretch and challenge questions will support the
+contain some synoptic assessment, some extended awarding of the A* grade at A level, addressing the
+response questions and some stretch and challenge need for greater differentiation between the most able
+questions. learners.
+Stretch and challenge questions are designed to allow
+the most able learners the opportunity to demonstrate
+the full extent of their knowledge and skills.
+Periodic table, elements and physical chemistry (Component 01)
+3
+This component is worth 100 marks and is split into Section B includes short answer question styles
+two sections and assesses content from teaching (structured questions, problem solving, calculations,
+modules 1, 2, 3 and 5. Learners answer all questions. practical) and extended response questions. This
+section of the paper is worth 85 marks.
+Section A contains multiple choice questions. This
+section of the paper is worth 15 marks.
+Synthesis and analytical techniques (Component 02)
+This component is worth 100 marks and is split into Section B includes short answer question styles
+two sections and assesses content from teaching (structured questions, problem solving, calculations,
+modules 1, 2, 4 and 6. Learners answer all questions. practical) and extended response questions. This
+section of the paper is worth 85 marks.
+Section A contains multiple choice questions. This
+section of the paper is worth 15 marks.
+Unified chemistry (Component 03)
+This component assesses content from across all Question styles include short answer (structured
+teaching modules 1 to 6. Learners answer all questions. questions, problem solving, calculations, practical) and
+This component is worth 70 marks. extended response questions.
+Practical Endorsement in chemistry (Component 04)
+Performance in this component is reported separately Learners may work in groups but must demonstrate
+to the performance in the A level as measured and record independent evidence of their competency.
+through externally assessed components 01 to 03. Teachers who award a pass to their learners must be
+This non-exam assessment component rewards the confident that each learner consistently and routinely
+development of practical competency in chemistry exhibits the competencies listed in Section 5g and has
+and is teacher assessed. Learners demonstrate demonstrated competence in all the skills detailed in
+competence in the range of skills and techniques section 1.2.1 and in all the apparatus and techniques
+specified in Section 1.2 of the specification by carrying detailed in Section 1.2.2 before completion of the
+out a minimum of 12 assessed practical activities. The A level course. The practical activities provided by
+Practical Endorsement is teacher assessed against the OCR are all mapped against the specification and
+Common Practical Assessment Criteria as specified in assessment criteria.
+Section 5g.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 65
+3b. Assessment objectives (AO)
+There are three assessment objectives in OCR’s A Level Learners are expected to demonstrate their ability to:
+in Chemistry A. These are detailed in the table below.
+Assessment Objective
+Demonstrate knowledge and understanding of scientific ideas, processes, techniques and
+AO1
+procedures.
+Apply knowledge and understanding of scientific ideas, processes, techniques and procedures:
+• in a theoretical context
+3
+AO2 • in a practical context
+• when handling qualitative data
+• when handling quantitative data.
+Analyse, interpret and evaluate scientific information, ideas and evidence, including in relation
+to issues, to:
+AO3
+• make judgements and reach conclusions
+• develop and refine practical design and procedures.
+AO weightings in A Level in Chemistry A
+The relationship between the assessment objectives
+and the components are shown in the following table:
+% of A Level in Chemistry A (H432)
+Component
+AO1 AO2 AO3
+Periodic table, elements and physical chemistry (H432/01) 13–14 15–16 8–9
+Synthesis and analytical techniques (H432/02) 13–14 15–16 8–9
+Unified chemistry (H432/03) 5–6 10–12 9–10
+Practical endorsement in chemistry (H432/04)* N/A N/A N/A
+Total 31–34 40–44 25–28
+* The Practical Endorsement is assessed and reported separately from the overall A level grade (see Section 5).
+3c. Total qualification time
+Total qualification time (TQT) is the total amount of assessment. The total qualification time for A Level in
+time, in hours, expected to be spent by a learner to Chemistry A is 360 hours. The total guided learning
+achieve a qualification. It includes both guided learning time is 360 hours.
+hours and hours spent in preparation, study, and
+Version 2.9 © OCR 2025
+66 OCR Level 3 Advanced GCE in Chemistry A
+3d. Qualification availability outside of England
+This qualification is available in England. For Wales Northern Ireland Entitlement Framework Qualifications
+and Northern Ireland please check the Qualifications Accreditation Number (NIEFQAN) list to see current
+in Wales Portal (QIW) or the Northern Ireland availability.
+Department of Education Performance Measures /
+3e. Language
+This qualification is available in English only. All
+assessment materials are available in English only and
+all candidate work must be in English.
+3
+3f. Assessment availability
+There will be one examination series available This specification will be certificated from the June
+each year in May/June to all learners. All examined 2017 examination series onwards.
+components must be taken in the same examination
+series at the end of the course.
+3g. Retaking the qualification
+Learners can retake the qualification as many times Endorsement may be carried forward for the lifetime
+as they wish. Learners must retake all examined of the specification.
+components but they can choose to either retake the
+Practical Endorsement or carry forward their most A candidate who is retaking A Level Chemistry A may
+recent result (see Section 4d). re-use a previous result for the Practical Endorsement,
+even if it was awarded by another awarding
+Candidates can choose either to retake the Practical organisation or if it was awarded for an alternative
+Endorsement or to carry forward their result for the suite [e.g. a Practical Endorsement pass result from
+Practical Endorsement by using the carry forward entry A Level Chemistry A could be re-used for retaking
+option (see Section 4a). The result for the Practical A Level Chemistry B (Salters)].
+3h. Assessment of extended response
+The assessment materials for this qualification provide Extended response questions are included in all
+learners with the opportunity to demonstrate their externally assessed components, including two
+ability to construct and develop a sustained and questions in each component assessed using questions
+coherent line of reasoning and marks for extended marked by Level of Response, in which the quality of
+responses are integrated into the marking criteria. the extended response is explicitly rewarded. These
+questions will be clearly identified in the assessment
+papers.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 67
+3i. Synoptic assessment
+Synoptic assessment tests the learners’ understanding Synoptic assessment requires learners to make and
+of the connections between different elements of the use connections within and between different areas of
+subject. chemistry, for example, by:
+Synoptic assessment involves the explicit drawing • applying knowledge and understanding of more
+together of knowledge, understanding and skills than one area to a particular situation or context
+learned in different parts of the A level course. The
+• using knowledge and understanding of principles
+emphasis of synoptic assessment is to encourage the
+and concepts in planning experimental and
+development of the understanding of the subject as a
+investigative work and in the analysis and
+discipline. All components within Chemistry A contain
+evaluation of data
+an element of synoptic assessment.
+3
+• bringing together scientific knowledge and
+understanding from different areas of the
+subject and applying them.
+3j. Calculating qualification results
+A learner’s overall qualification grade for A Level in by the learner and for the relevant exam series to
+Chemistry A will be calculated by adding together their determine the learner’s overall qualification grade.
+marks from the three examined components taken to
+give their total weighted mark. A learner’s result for their Practical Endorsement in
+chemistry component will not contribute to their
+This mark will then be compared to the qualification overall qualification grade.
+level grade boundaries for the entry option taken
+Version 2.9 © OCR 2025
+68 OCR Level 3 Advanced GCE in Chemistry A
+4 Admin: what you need to know
+The information in this section is designed to give an More information about the processes and deadlines
+overview of the processes involved in administering involved at each stage of the assessment cycle can be
+this qualification so that you can speak to your exams found in the Administration area of the OCR website.
+officer. All of the following processes require you to
+OCR’s Admin overview is available on the OCR website
+submit something to OCR by a specific deadline.
+at http://www.ocr.org.uk/administration.
+4a. Pre-assessment
+Estimated entries
+Estimated entries are your best projection of the Estimated entries should be submitted to OCR by the
+number of learners who will be entered for a specified deadline. These do not incur a cost and do
+qualification in a particular series. not commit your centre in any way.
+Updated arrangements for monitoring the Practical Endorsement
+4
+Full details on the monitoring and the implementation series to jointly plan monitoring visits for the current
+of the practical endorsement are available on the two-year cycle and the subsequent cycles. Most
+Positive about Practical pages at https://www.ocr.org. centres will be monitored for a different science than
+uk/subjects/science/positive-about-practical. Lead that which was monitored in the previous monitoring
+cycle. Large centres will continue to be monitored for
+teachers are required to have undertaken the free
+biology, chemistry and physics in each cycle. The first
+online training for A level science teachers, available
+contact with a centre will be from the AO with which
+here: https://practicalendorsement.ocr.org.uk/login/
+the science to be monitored was entered in the prior
+index.php. The lead teacher should also ensure that
+summer series. This first contact will be with the exams
+all other teachers of that science within the centre are
+officer (or other nominated school contact).
+familiar with the requirements so that standards are
+It is the responsibility of a centre that is new, or is
+applied consistently.
+switching exam boards, or that only offers one or two
+The awarding organisations (AOs) use information from science A levels to let AOs know, so that appropriate
+centre entries for the A levels in biology, chemistry monitoring can be scheduled.
+and physics from the previous summer examination
+Final entries
+Final entries provide OCR with detailed data for Final entries must be submitted to OCR by the
+each learner, showing each assessment to be taken. published deadlines or late entry fees will apply.
+It is essential that you use the correct entry code,
+considering the relevant entry rules. All learners taking A Level in Chemistry A must be
+entered for one of the entry options shown on the
+following table:
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 69
+Entry option Component
+Entry code Title Code Title Assessment type
+H432A Chemistry A 01 Periodic table, elements and physical chemistry External assessment
+02 Synthesis and analytical techniques External assessment
+03 Unified chemistry External assessment
+04 Practical Endorsement in chemistry Non-exam assessment
+(Visiting monitoring)
+H432C Chemistry A 01 Periodic table, elements and physical chemistry External assessment
+02 Synthesis and analytical techniques External assessment
+03 Unified chemistry External assessment
+80 Practical Endorsement in chemistry – Carried Non-exam assessment
+4 Forward* (Carried Forward)
+*The carry forward option will be available for the first time from June 2018.
+Private candidates
+Private candidates may enter for OCR assessments. The Practical Endorsement is an essential part of the
+course and will allow learners to develop skills for
+A private candidate is someone who pursues a course
+further study or employment, as well as imparting
+of study independently but takes an examination
+important knowledge that is part of the specification.
+or assessment at an approved examination centre.
+A private candidate may be a part-time student, Private candidates need to contact OCR approved
+someone taking a distance learning course, or centres to establish whether they are prepared to
+someone being tutored privately. They must be based host them as a private candidate. The centre may
+in the UK. charge for this facility and OCR recommends that the
+arrangement is made early in the course.
+The A Level Chemistry A qualification requires learners
+to complete a Practical Endorsement incorporating Further guidance for private candidates may be found
+a minimum of 12 practical activities, allowing them on the OCR website: http://www.ocr.org.uk
+to demonstrate a range of practical skills, use of
+apparatus and techniques to fulfil the Common
+Practical Assessment Criteria.
+Head of Centre Annual Declaration
+The practical science statement is contained within Please see the JCQ publication Instructions for
+the NEA Centre Declaration Form which can be found conducting non-examination assessments for further
+on the OCR website at www.ocr.org.uk/formsfinder. information.
+By signing the form, the centre is confirming that
+they are meeting all the requirements detailed in Any failure by a centre to provide a practical science
+the specification, including that they have provided statement to OCR in a timely manner (by means of
+all candidates the opportunity to undertake the an NEA Centre Declaration Form) will be treated as
+prescribed practical activities. malpractice and/or maladministration [under General
+Condition A8 (Malpractice and maladministration)].
+Version 2.9 © OCR 2025
+70 OCR Level 3 Advanced GCE in Chemistry A
+NEA Centre Declaration Form: Practical Science Statement
+Centres must provide a written practical science b) Whilst undertaking the practical activities, all
+statement confirming that reasonable opportunities candidates have written and retained a record of
+have been provided to all learners being submitted their work.
+for entry for assessment to undertake at least twelve
+appropriate practical activities. Centres should have records confirming points (a) to
+(b) above available as they may be requested as part of
+The practical science statement is contained within the the monitoring process.
+NEA Centre Declaration Form, this form can be found
+on the OCR website at www.ocr.org.uk/formsfinder. Any failure by a centre to provide a practical science
+statement to OCR in a timely manner (by means of
+By signing the form, the centre is confirming that: an NEA Centre Declaration Form) will be treated as
+malpractice and/or maladministration [under General
+a) At least twelve practical activities have been Condition A8 (Malpractice and maladministration)].
+completed by each candidate enabling them to
+demonstrate competence in all skills, apparatus
+and techniques as specified in OCR’s A Level 4
+science specifications.
+Collecting evidence of student performance to ensure resilience in the qualifications system
+Regulators have published guidance on collecting For more detailed information on collecting evidence
+evidence of student performance as part of long- of student performance please visit our website at:
+term contingency arrangements to improve the https://www.ocr.org.uk/administration/general-
+resilience of the qualifications system. You should qualifications/assessment/
+review and consider this guidance when delivering this
+qualification to students at your centre.
+4b. Accessibility and special consideration
+Reasonable adjustments and access arrangements Special consideration is a post-assessment adjustment
+allow learners with special educational needs, to marks or grades to reflect temporary injury, illness
+disabilities or temporary injuries to access the or other indisposition at the time the assessment was
+assessment and show what they know and can do, taken.
+without changing the demands of the assessment.
+Detailed information about eligibility for special
+Applications for these should be made before the consideration can be found in the JCQ A guide to the
+examination series. Detailed information about special consideration process and JCQ Reasonable
+eligibility for access arrangements can be found Adjustments for GCE A-level sciences – Endorsement of
+in the JCQ Access Arrangements and Reasonable practical skills.
+Adjustments.
+4c. External assessment arrangements
+Regulations governing examination arrangements Learners are permitted to use a scientific or graphical
+are contained in the JCQ Instructions for conducting calculator for components 01, 02 and 03. Calculators
+examinations. are subject to the rules in the document Instructions
+for Conducting Examinations published annually by JCQ
+(www.jcq.co.uk).
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 71
+Carrying forward the Practical Endorsement in Chemistry
+Learners who are retaking the qualification can choose Learners must decide at the point of entry whether
+to either retake the endorsement or carry forward they are going to carry forward the endorsement or
+their most recent result for that component (even if it not.
+was awarded by another awarding organisation or if it
+was awarded for an alternative suite). The result for the endorsement may be carried forward
+for the lifetime of the specification and there is no
+To carry forward the result, you must use the carry restriction on the number of times the result may be
+forward entry option (see table in Section 4a). carried forward. However, only the most recent
+non-absent result may be carried forward.
+4d. Admin of non-exam assessment
+Regulations governing arrangements for internal OCR’s Admin overview is available on the OCR website
+4 assessments are contained in the JCQ Instructions for at http://www.ocr.org.uk/administration.
+conducting non-examination assessments. Appendix 1
+of this document gives specific details for the Practical
+Skills Endorsement for A Level sciences designed for
+use in England.
+4e. Results and certificates
+Grade scale
+A level qualifications are graded on the scale: A*, A, B, Results for the A Level Sciences Practical Endorsements
+C, D, E, where A* is the highest. Learners who fail to will be shown independently of the qualification
+reach the minimum standard for E will be Unclassified grade on the certificate. Candidates who fulfil the
+(U). Only subjects in which grades A* to E are attained requirements and reach the minimum standard will be
+will be recorded on certificates. awarded a Pass grade. Candidates who fail to reach the
+minimum standard will be recorded as ‘Not Classified’
+and this will also be reported on the certificate.
+Results
+Results are released to centres and learners for The following supporting information will be available:
+information and to allow any queries to be resolved
+before certificates are issued. • raw mark grade boundaries for each component
+• weighted mark grade boundaries for each entry
+Centres will have access to the following results
+option.
+information for each learner:
+Until certificates are issued, results are deemed to
+• the grade for the qualification
+be provisional and may be subject to amendment.
+• the raw mark for each component A learner’s final results will be recorded on an OCR
+certificate.
+• the total weighted mark for the qualification.
+The qualification title will be shown on the certificate
+as ‘OCR Level 3 Advanced GCE in Chemistry A’.
+Version 2.9 © OCR 2025
+72 OCR Level 3 Advanced GCE in Chemistry A
+4f. Post-results services
+A number of post-results services are available: • Access to scripts – Centres can request access to
+marked scripts.
+• Review of results – If you are not happy with
+the outcome of a learner’s results, centres may • Practical Endorsement – As monitoring and any
+request a review of marking. potential request for further visits take place
+throughout the period of the qualification, there
+• Missing and incomplete results – This service is no post-results service provided.
+should be used if an individual subject result
+for a learner is missing, or the learner has been
+omitted entirely from the results supplied.
+4g. Malpractice
+Any breach of the regulations for the conduct Detailed information on malpractice can be found
+of examinations and coursework may constitute in the Suspected Malpractice in Examinations and 4
+malpractice (which includes maladministration) and Assessments: Policies and Procedures published by
+must be reported to OCR as soon as it is detected. JCQ.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 73
+5 Appendices
+5a. Overlap with other qualifications
+There is a small degree of overlap between the content Physics
+of this specification and those for other AS level/A level
+Sciences. • Atomic structure.
+Science
+Examples of overlap include:
+• Atomic structure.
+Biology
+• The atmosphere, the development of renewable
+• Amino acids, proteins, chromatography, buffers,
+alternatives to finite energy resources, enthalpy
+pH, catalysis.
+changes, rates of reaction, catalysis.
+Geology
+• Amino acids, proteins, infrared spectroscopy,
+chromatography.
+• The atmosphere.
+5b. Avoidance of bias
+The A level qualification and subject criteria have Characteristic as defined by the Equality Act 2010. All
+been reviewed in order to identify any feature which reasonable steps have been taken to minimise any
+5 could disadvantage learners who share a protected such disadvantage.
+Version 2.9 © OCR 2025
+74 OCR Level 3 Advanced GCE in Chemistry A
+5c. Chemistry A data sheet
+Data Sheet for Chemistry A
+GCE Advanced Subsidiary and Advanced Level
+Chemistry A (H032 / H432)
+The information in this sheet is for the use of candidates following Chemistry A (H032 / H432).
+Copies of this sheet may be used for teaching.
+5
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 75
+General Information
+Molar gas volume = 24.0 dm3 mol–1 at room temperature and pressure, RTP
+Avogadro constant, N = 6.02 × 1023 mol–1
+A
+Specific heat capacity of water, c = 4.18 J g–1 K–1
+Ionic product of water, K = 1.00 × 10–14 mol2 dm–6 at 298 K
+w
+1 tonne = 106 g
+Arrhenius equation: k = Ae–Ea/RT or ln k = –E /RT + ln A
+a
+Gas constant, R = 8.314 J mol–1 K–1
+Characteristic infrared absorptions in organic molecules
+Bond Location Wavenumber / cm–1
+C–C Alkanes, alkyl chains 750–1100
+5
+C–X Haloalkanes (X = Cl, Br, I) 500–800
+C–F Fluoroalkanes 1000–1350
+C–O Alcohols, esters, carboxylic acids 1000–1300
+C=C Alkenes 1620–1680
+Aldehydes, ketones, carboxylic acids, esters, amides, acyl
+C=O 1630–1820
+chlorides and acid anhydrides
+aromatic Several peaks in range
+Arenes
+C=C 1450–1650 (variable)
+C/N Nitriles 2220–2260
+C–H Alkyl groups, alkenes, arenes 2850–3100
+O–H Carboxylic acids 2500–3300 (broad)
+N–H Amines, amides 3300–3500
+O–H Alcohols, phenols 3200–3600
+Version 2.9 © OCR 2025
+76 OCR Level 3 Advanced GCE in Chemistry A
+OCR
+Level
+3
+Advanced
+GCE
+in
+Chemistry
+A
+77
+Version
+2.9
+©
+OCR
+2025
+5
+13C NMR chemical shifts relative to TMS
+C Cl
+C Cl
+C Br
+C Br
+C
+C
+C C C C
+C N
+C N
+C C
+C C
+C C O C
+C O
+C O C C
+C O C C
+C C
+C C
+220 200 180 160 140 120 100 80 60 40 20 0
+220 200 180 160 140 120 100 80 60 40 20 0
+δ / ppm
+δ / ppm
+1H NMR chemical shifts relative to TMS
+O H N H
+O H N H
+CH
+CH
+H
+H
+HC O O
+O HC O O
+O O
+O HC Cl HC C
+C C H C C C C C HC Cl HC C H H C C R R
+H C HC Br
+O O H H H H HC Br H H C C N N
+12 11 10 9 8 7 6 5 4 3 2 1 0
+12 11 10 9 8 7 6 5 4 3 2 1 0
+δ / ppm
+δ / ppm
+Chemical shifts are variable and can vary depending on the solvent, concentration and substituents. As a result, shifts may be outside the ranges indicated above.
+OH and NH chemical shifts are very variable and are often broad. Signals are not usually seen as split peaks.
+Note that CH bonded to ‘shifting groups’ on either side, e.g. O–CH –C=O, may be shifted more than indicated above.
+2
+78
+OCR
+Level
+3
+Advanced
+GCE
+in
+Chemistry
+A
+Version
+2.9
+©
+OCR
+2025
+5
+The Periodic Table of the Elements
+(1) (2) (3) (4) (5) (6) (7) (0)
+1 Key 18
+1 atomic number 2
+H Symbol He
+hydrogen name helium
+1.0 2 relative atomic mass 13 14 15 16 17 4.0
+3 4 5 6 7 8 9 10
+Li Be B C N O F Ne
+lithium beryllium boron carbon nitrogen oxygen fluorine neon
+6.9 9.0 10.8 12.0 14.0 16.0 19.0 20.2
+11 12 13 14 15 16 17 18
+Na Mg Al Si P S Cl Ar
+sodium magnesium aluminium silicon phosphorus sulfur chlorine argon
+23.0 24.3 3 4 5 6 7 8 9 10 11 12 27.0 28.1 31.0 32.1 35.5 39.9
+19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36
+K Ca Sc Ti V Cr Mn Fe Co Ni Cu Zn Ga Ge As Se Br Kr
+potassium calcium scandium titanium vanadium chromium manganese iron cobalt nickel copper zinc gallium germanium arsenic selenium bromine krypton
+39.1 40.1 45.0 47.9 50.9 52.0 54.9 55.8 58.9 58.7 63.5 65.4 69.7 72.6 74.9 79.0 79.9 83.8
+37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54
+Rb Sr Y Zr Nb Mo Tc Ru Rh Pd Ag Cd In Sn Sb Te I Xe
+rubidium strontium yttrium zirconium niobium molybdenum technetium ruthenium rhodium palladium silver cadmium indium tin antimony tellurium iodine xenon
+85.5 87.6 88.9 91.2 92.9 95.9 101.1 102.9 106.4 107.9 112.4 114.8 118.7 121.8 127.6 126.9 131.3
+55 56 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86
+Cs Ba • 57–71 Hf Ta W Re Os Ir Pt Au Hg Tl Pb Bi Po At Rn
+caesium barium lanthanoids hafnium tantalum tungsten rhenium osmium iridium platinum gold mercury thallium lead bismuth polonium astatine radon
+132.9 137.3 178.5 180.9 183.8 186.2 190.2 192.2 195.1 197.0 200.6 204.4 207.2 209.0
+87 88 • 104 105 106 107 108 109 110 111 112 114 116
+Fr Ra •
+89–103
+Rf Db Sg Bh Hs Mt Ds Rg Cn Fl Lv
+francium radium actinoids rutherfordium dubnium seaborgium bohrium hassium meitnerium darmstadtium roentgenium copernicium flerovium livermorium
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+• La Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu
+lanthanum cerium praseodymium neodymium promethium samarium europium gadolinium terbium dysprosium holmium erbium thulium ytterbium lutetium
+138.9 140.1 140.9 144.2 144.9 150.4 152.0 157.2 158.9 162.5 164.9 167.3 168.9 173.0 175.0
+89 90 91 92 93 94 95 96 97 98 99 100 101 102 103
+• Ac Th Pa U Np Pu Am Cm Bk Cf Es Fm Md No Lr
+• actinium thorium protactinium uranium neptunium plutonium americium curium berkelium californium einsteinium fermium mendelevium nobelium lawrencium
+232.0 238.1
+5d. How Science Works (HSW)
+How Science Works was conceived as being a • HSW2 Use knowledge and understanding
+wider view of science in context, rather than just to pose scientific questions, define scientific
+straightforward scientific enquiry. It was intended to problems, present scientific arguments and
+develop learners as critical and creative thinkers, able scientific ideas
+to solve problems in a variety of contexts.
+• HSW3 Use appropriate methodology, including
+Developing ideas and theories to explain the operation information and communication technology
+of matter and how its composition, structure, (ICT), to answer scientific questions and solve
+properties and changes it undergoes, constitutes scientific problems
+the basis of life and all nature. How Science Works
+• HSW4 Carry out experimental and investigative
+develops the critical analysis and linking of evidence
+activities, including appropriate risk
+to support or refute ideas and theories. Learners
+management, in a range of contexts
+should be aware of the importance that peer review
+and repeatability have in giving confidence to this • HSW5 Analyse and interpret data to provide
+evidence. evidence, recognising correlations and causal
+relationships
+Learners are expected to understand the variety
+of sources of data available for critical analysis to • HSW6 Evaluate methodology, evidence and
+provide evidence and the uncertainty involved in its data, and resolve conflicting evidence
+measurement. They should also be able to link that 5
+• HSW7 Know that scientific knowledge and
+evidence to contexts influenced by culture, politics and
+understanding develops over time
+ethics.
+• HSW8 Communicate information and ideas in
+Understanding How Science Works requires an
+appropriate ways using appropriate terminology
+understanding of how scientific evidence can influence
+ideas and decisions for individuals and society, which • HSW9 Consider applications and implications of
+is linked to the necessary skills of communication for science and evaluate their associated benefits
+audience and for purpose with appropriate scientific and risks
+terminology.
+• HSW10 Consider ethical issues in the
+Incorporating Section 8 (the skills, knowledge and treatment of humans, other organisms and the
+understanding of How Science Works) of the DfE environment
+criteria for science into the specification.
+• HSW11 Evaluate the role of the scientific
+community in validating new knowledge and
+The examples given within the specification are not
+ensuring integrity
+exhaustive but give a flavour of opportunities for
+integrating HSW within the course.
+• HSW12 Evaluate the ways in which society uses
+science to inform decision making.
+References in this specification to How Science Works
+(HSW) are to the following statements:
+• HSW1 Use theories, models and ideas to
+develop scientific explanations
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 79
+5e. Mathematical requirements
+In order to be able to develop their skills, knowledge All mathematical content will be assessed within the
+and understanding in A Level Chemistry, learners need lifetime of the specification. Skills shown in bold type
+to have been taught, and to have acquired competence will only be tested in the full A level course, not the
+in, the appropriate areas of mathematics relevant to standalone AS level course.
+the subject as indicated in the table of coverage below.
+This list of examples is not exhaustive and is not limited
+The assessment of quantitative skills will include to Level 2 examples. These skills could be developed
+at least 20% Level 2 (or above) mathematical skills in other areas of specification content from those
+for chemistry (see later for a definition of ‘Level 2’ indicated.
+mathematics). These skills will be applied in the
+context of the relevant chemistry.
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Chemistry (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+5
+M0 – Arithmetic and numerical computation
+M0.0 Recognise and make use Learners may be tested on their 1.1.2(b), 2.1.3(a,e), 3.2.1(e,f,g),
+of appropriate units in ability to: 5.1.1(c), 5.1.2(e), 5.2.2(e)
+calculations
+• convert between units
+e.g. cm3 to dm3 as part of
+volumetric calculations
+• give units for an equilibrium
+constant or a rate constant
+• understand that different
+units are used in similar topic
+areas, so that conversions
+may be necessary e.g.
+entropy in J mol–1 K–1 and
+enthalpy changes in kJ mol–1.
+Version 2.9 © OCR 2025
+80 OCR Level 3 Advanced GCE in Chemistry A
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Chemistry (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M0.1 Recognise and use Learners may be tested on their 2.1.3(a,e), 5.1.1(c,d,f,g,k),
+expressions in decimal and ability to: 5.1.2(e), 5.1.3(c,d,e,f,g,l),
+ordinary form 5.2.3(e)
+• use an appropriate number
+of decimal places in
+calculations
+• carry out calculations using
+numbers in standard and
+ordinary form e.g. use of
+Avogadro constant
+• understand standard form
+when applied to areas such
+as (but not limited to) K
+w
+• understand that significant
+figures need retaining when
+5
+making conversions between
+standard and ordinary form,
+e.g. 0.0050 mol dm–3 is
+equivalent to
+5.0 × 10–3 mol dm–3.
+M0.2 Use ratios, fractions and Learners may be tested on their 2.1.1(d), 2.1.2(b), 2.1.3(c,d,g,h),
+percentages ability to: 3.2.3(f), 5.1.1(b), 5.1.2(b,d,e),
+5.1.3(c), 5.2.3(b,e)
+• calculate percentage yields
+• calculate the atom economy
+of a reaction
+• construct and/or balance
+equations using ratios.
+M0.3 Estimate results Learners may be tested on their 3.2.3(g), 5.1.1(j), 5.1.2(f,g),
+ability to: 5.1.3(h), 5.2.2(f), 5.2.3(i)
+• evaluate the effect of
+changing experimental
+parameters on measurable
+values e.g. how the value
+of K would change with
+c
+temperature given different
+specified conditions.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 81
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Chemistry (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M0.4 Use calculators to find and Learners may be tested on their 2.1.3(a,e,f), 5.1.1(c,d,f,g,k),
+use power, exponential and ability to: 5.1.2(e), 5.1.3(c,d,e,f,g,l)
+logarithmic functions
+• carry out calculations using
+the Avogadro constant
+• carry out pH and pK
+a
+calculations
+• make appropriate
+mathematical
+approximations in buffer
+calculations.
+M1 – Handling data
+M1.1 Use an appropriate number Learners may be tested on their 1.1.3(c), 2.1.3(e), 2.1.4(e),
+of significant figures ability to: 3.2.1(g), 3.2.3(f), 5.1.1(c,d,f,g),
+5 5.2.3(e)
+• report calculations to an
+appropriate number of
+significant figures given
+raw data quoted to varying
+numbers of significant figures
+• understand that calculated
+results can only be reported
+to the limits of the least
+accurate measurement.
+M1.2 Find arithmetic means Learners may be tested on their 2.1.1(d), 2.1.4(e), 5.2.3(e)
+ability to:
+• calculate weighted means,
+e.g. calculation of an atomic
+mass based on supplied
+isotopic abundances
+• select appropriate titration
+data (i.e. identification of
+outliers) in order to calculate
+mean titres.
+M1.3 Identify uncertainties in Learners may be tested on their 1.1.4(d)
+measurements and use ability to:
+simple techniques to
+• determine uncertainty when
+determine uncertainty when
+two burette readings are
+data are combined
+used to calculate a titre value.
+Version 2.9 © OCR 2025
+82 OCR Level 3 Advanced GCE in Chemistry A
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Chemistry (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M2 – Algebra
+M2.1 Understand and use the No exemplification required.
+symbols: =, 1, %, &, 2, \,
++, ?
+M2.2 Change the subject of an Learners may be tested on their 2.1.3(c,d,e,f), 2.1.4(e),
+equation ability to: 3.2.1(e,f,g), 5.1.1(c,k), 5.1.2(e),
+5.1.3(d,e,f,g,l), 5.2.1(b,d),
+• carry out structured
+5.2.2(c,e), 5.2.3(e)
+and unstructured mole
+calculations
+• calculate a rate constant, k
+from a rate equation.
+M2.3 Substitute numerical values Learners may be tested on their 2.1.3(c,d,e,f), 2.1.4(e),
+into algebraic equations ability to: 3.2.1(e,f,g), 3.2.3(f), 5.1.1(c,f,k),
+5
+using appropriate units for 5.1.2(e), 5.1.3(c,d,e,f,g,l),
+• carry out enthalpy change
+physical quantities 5.2.1(b,d), 5.2.2(c,e), 5.2.3(e)
+calculations
+• calculate the value of an
+equilibrium constant, K
+c
+• carry out rate calculations.
+M2.4 Solve algebraic equations Learners may be tested on their 2.1.3(c,d,e,f), 2.1.4(e),
+ability to: 3.2.1(e,f,g), 3.2.3(f), 5.1.1(c,f,k),
+5.1.2(e), 5.1.3(c,d,e,f,g,l),
+• carry out Hess’ law
+5.2.1(b,d), 5.2.2(c,e), 5.2.3(e)
+calculations
+• calculate a rate constant, k
+from a rate equation.
+M2.5 Use logarithms in relation Learners may be tested on their 5.1.1(f,k), 5.1.3(c,d,f,g,l)
+to quantities that range ability to:
+over several orders of
+• carry out pH and pK
+a
+magnitude
+calculations.
+M3 – Graphs
+M3.1 Translate information Learners may be tested on their 2.1.1(d), 3.1.1(c,g), 3.2.1(b,c,g),
+between graphical, ability to: 3.2.2(b,f,g), 4.2.4(c,d,f,g),
+numerical and algebraic 5.1.1(d,e,g,k), 5.1.3(n),
+• interpret and analyse spectra
+forms 5.2.1(b,d), 6.3.1(a,b),
+• determine the order of a
+6.3.2(a,b,c,e)
+reaction from a graph and
+derive rate expression.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 83
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Chemistry (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M3.2 Plot two variables from Learners may be tested on their 1.1.3(d), 3.2.1(h), 3.2.2(b),
+experimental or other data ability to: 5.1.1(d,e,g,k), 6.3.1(b)
+• plot graphs from collected or
+supplied data to follow the
+course of a reaction
+• draw lines of best fit
+• extrapolate and interpolate
+• construct calibration curves.
+M3.3 Determine the slope and Learners may be tested on their 1.1.3(d), 5.1.1(d,k)
+intercept of a linear graph ability to:
+• calculate values for E and
+a
+A from the gradient and
+intercept of a graph using
+5 the Arrhenius equation.
+M3.4 Calculate rate of change Learners may be tested on their 1.1.3(d), 5.1.1(d,g,k)
+from a graph showing a ability to:
+linear relationship
+• calculate the rate constant
+of a first-order reaction
+by determination of
+the gradient of a rate–
+concentration graph.
+M3.5 Draw and use the slope of Learners may be tested on their 1.1.3(d), 3.2.2(b), 5.1.1(d,g)
+a tangent to a curve as a ability to:
+measure of rate of change
+• calculate the rate of a
+reaction from the gradient of
+a concentration–time graph
+for a first or second order
+reaction.
+M4 – Geometry and trigonometry
+M4.1 Use angles and shapes Learners may be tested on their 2.2.2(g), 4.1.2(b), 5.3.1(e,f)
+in regular 2-D and 3-D ability to:
+structures
+• predict/identify shapes of
+and bond angles in molecules
+with and without a lone
+pair(s), for example NH , CH ,
+3 4
+H O etc.
+2
+Version 2.9 © OCR 2025
+84 OCR Level 3 Advanced GCE in Chemistry A
+Exemplification of the
+Areas of the specification which
+mathematical skill in the context
+Mathematical skill to be exemplify the mathematical
+of A Level Chemistry (assessment
+assessed skill (assessment is not limited
+is not limited to the examples
+to the examples below)
+below)
+M4.2 Visualise and represent 2-D Learners may be tested on their 2.2.2(g), 4.1.1(b,e), 4.1.2(b),
+and 3-D forms including ability to: 4.1.3(c,d), 5.3.1(e,f), 6.2.2(c,d)
+2-D representations of 3-D
+• draw different forms of
+objects
+isomers
+• identify chiral centres from a
+2-D or 3-D representation.
+M4.3 Understand the symmetry Learners may be tested on their 4.1.3(b,c,d), 5.3.1(f), 6.2.2(c,d)
+of 2-D and 3-D shapes ability to:
+• describe the types of
+stereoisomerism shown by
+molecules/complexes
+• identify chiral centres from a
+2-D or 3-D representation.
+5
+Definition of Level 2 mathematics
+Within A Level Chemistry, 20% of the marks available • questions involving use of A level mathematical
+within written examinations will be for assessment of content (as of 2012), e.g. use of logarithmic
+mathematics (in the context of chemistry) at a Level 2 equations.
+standard, or higher. Lower level mathematical skills will
+The following will not be counted as Level 2
+still be assessed within examination papers but will not
+mathematics:
+count within the 20% weighting for chemistry.
+• simple substitution with little choice of equation
+The following will be counted as Level 2 (or higher)
+or data
+mathematics:
+• structured question formats using GCSE
+• application and understanding requiring choice
+mathematics (based on 2012 GCSE mathematics
+of data or equation to be used
+content).
+• problem solving involving use of mathematics
+Additional guidance on the assessment of mathematics
+from different areas of maths and decisions
+within chemistry is available on the OCR website as a
+about direction to proceed
+separate resource, the Maths Skills Handbook.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 85
+5f. Health and Safety
+In UK law, health and safety is primarily the Where an employer has adopted model risk
+responsibility of the employer. In a school or college assessments an individual school or college then has
+the employer could be a local education authority, to review them, to see if there is a need to modify
+the governing body or board of trustees. Employees or adapt them in some way to suit the particular
+(teachers/lecturers, technicians etc), have a legal duty conditions of the establishment.
+to cooperate with their employer on health and safety
+matters. Various regulations, but especially the COSHH Such adaptations might include a reduced scale of
+Regulations 2002 (as amended) and the Management working, deciding that the fume cupboard provision
+of Health and Safety at Work Regulations 1999, was inadequate or the skills of the learners were
+require that before any activity involving a hazardous insufficient to attempt particular activities safely. The
+procedure or harmful microorganisms is carried out, or significant findings of such risk assessment should
+hazardous chemicals are used or made, the employer then be recorded in a “point of use text”, for example
+must carry out a risk assessment. A useful summary on schemes of work, published teachers guides, work
+of the requirements for risk assessment in school or sheets, etc. There is no specific legal requirement that
+college science can be found at http://www.ase. detailed risk assessment forms should be completed
+for each practical activity, although a minority of
+org.uk/resources/health-and-safety-resources/
+risk-assessments/
+employers may require this.
+For members, the CLEAPSS® guide, PS90, Making and Where project work or investigations, sometimes
+5 recording risk assessments in school science1 offers linked to work-related activities, are included in
+appropriate advice. specifications this may well lead to the use of novel
+procedures, chemicals or microorganisms, which are
+Most education employers have adopted nationally not covered by the employer’s model risk assessments.
+available publications as the basis for their Model Risk The employer should have given guidance on how
+Assessments. to proceed in such cases. Often, for members, it will
+involve contacting CLEAPSS®.
+1These, and other CLEAPSS® publications, are on the CLEAPSS® Science Publications website www.cleapss.org.uk. Note that
+CLEAPSS® publications are only available to members. For more information about CLEAPSS® go to www.cleapss.org.uk.
+Version 2.9 © OCR 2025
+86 OCR Level 3 Advanced GCE in Chemistry A
+5g. Practical endorsement
+The Practical Endorsement is common across from the Practical Activity Groups (PAGs) defined
+Chemistry A and Chemistry B (Salters). It requires a below (Fig. 1).
+minimum of 12 practical activities to be completed
+12
+Investigative Research
+skills
+10 11
+Rates of
+reaction –
+Unscaffolded pH measurement
+initial rates
+method
+6 7 8 9
+Qualitative Rates of
+analysis of reaction – 5
+Electrochemical
+2nd year practicals Synthesis of an organic continuous
+cells
+organic solid functional monitoring
+groups method
+1 2 3 4 5
+1st year Moles Acid–base Enthalpy Qualitative Synthesis of an
+practicals determination titration determination analysis of ions organic liquid
+Fig. 1 OCR’s Practical Activity Groups (PAGs), also see Table 1
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 87
+88
+OCR
+Level
+3 Advanced
+GCE
+in
+Chemistry
+A
+Version
+2.9
+©
+OCR
+2025
+5
+Table 1 Practical activity requirements for the OCR Chemistry Practical Endorsement
+Practical activity group Techniques/skills covered (minimum) Example of a suitable practical activity Specification reference
+(PAG) (a range of examples will be available (examples)
+from the OCR website and centres can
+devise their own activity)
+1 Moles determination • Measurement of mass Determination of the composition of 2.1.3(d), 2.1.3(h)
+• Measurement of volume of gas copper(II) carbonate
+2 Acid–base titration • Measurement of volume of a liquid Titration of sodium hydrogencarbonate 2.1.4(d)
+• Use of volumetric flask, including accurate technique against hydrochloric acid
+for making up a standard solution
+• Titration, using burette and pipette
+• Use of acid–base indicators in titrations of weak/
+strong acids with weak/strong bases
+3 Enthalpy determination • Measurement of temperature Determination of the enthalpy change 3.2.1(e), 3.2.1(h)
+of neutralisation
+4 Qualitative analysis of • Use of apparatus for qualitative tests for ions Identification of the anions and cations 3.1.3(g), 3.1.4(a), 5.3.2(a)
+ions • Make and record qualitative observations present in a mixture of Group 2 salts
+5 Synthesis of an organic • Heating under reflux1 Synthesis of a haloalkane 4.2.3(a)
+liquid • Purification using a separating funnel
+• Distillation
+• Risk assessment
+6 Synthesis of an organic • Purification by recrystallisation Synthesis of aspirin 6.2.5(a), 6.3.1(a)
+solid • Use of melting point apparatus
+• Use of thin layer or paper chromatography
+• Filtration
+• Heating under reflux1
+• Risk assessment
+7 Qualitative analysis of • Use of apparatus for qualitative tests for organic Identifying functional groups in a series 4.1.3(f), 4.2.1(c), 4.2.2(a),
+organic functional groups functional groups of unknown organic compounds 6.1.1(h), 6.1.2(a), 6.1.2(d),
+• Heating using water bath or electric heater 6.1.2(e), 6.1.3(b), 6.3.1(c)
+• Make and record observations
+OCR
+Level
+3 Advanced
+GCE
+in
+Chemistry
+A
+89
+Version
+2.9
+©
+OCR
+2025
+5
+Practical activity group Techniques/skills covered (minimum) Example of a suitable practical activity Specification reference
+(PAG) (a range of examples will be available (examples)
+from the OCR website and centres can
+devise their own activity)
+8 Electrochemical cells • Set up of electrochemical cells and measurement of The effect of concentration on the cell 5.2.3(g)
+voltages potential of an electrochemical cell
+9 Rates of reaction – • Measurement of rate of reaction by a continuous Finding the half-life of a reaction 3.2.2(e), 5.1.1(h)
+continuous monitoring monitoring method
+method • Measurement of time
+• Use of appropriate software to process data2
+10 Rates of reaction – • Measurement of rate of reaction by an initial rate Finding the order and rate constant for 5.1.1(b), 5.1.1(h)
+initial rates method method a reaction
+• Use of appropriate software to process data2
+• Identify and control variables
+11 pH measurement • Measurement of pH Identifying unknown solutions via pH 5.1.3(o)
+measurements
+12 Research skills • Apply investigative approaches How long does it take iron tablets to Opportunities throughout
+• Use online and offline research skills break down in the stomach? specification
+• Correctly cite sources of information
+1,2 These techniques/skills may be covered in either of the groups indicated.
+The technique, ‘Safely and carefully handling solids and liquids, including corrosive, irritant, flammable and toxic substances (1.2.2 k)’ needs to be covered across the
+selection of activities.
+It is expected that the following skills will be developed across all activities, regardless of the exact selection of activities. The ability to:
+• safely and correctly use a range of practical equipment and materials (1.2.1 b)
+• follow written instructions (1.2.1 c)
+• make and record observations/measurements (1.2.1 d)
+• keep appropriate records of experimental activities (1.2.1 e)
+• present information and data in a scientific way (1.2.1 f)
+• use a wide range of experimental and practical instruments, equipment and techniques (1.2.1 j).
+The practical activities can be completed at any point 1.2.2), will receive a ‘Pass’ grade (note that the
+during the two year A level course at the discretion of practical activity tracker available from OCR
+the centre. Candidates starting from a standalone AS allows confirmation that the activities selected
+can count A level practical activities carried out during cover all the requirements).
+the AS year towards the A level Practical Endorsement
+• There will be no direct assessment of practical
+provided that they are appropriately recorded. It is
+skills for AS qualifications
+recommended therefore that candidates starting AS
+maintain a record of practical activities carried out (e.g.
+• Students will answer questions in the AS
+this could be in the form of a ‘log book’ or ‘practical
+and A level examination papers that assess
+portfolio’) that could be counted towards the Practical the requirements of Appendix 5a (Practical
+Endorsement. For candidates who then decide to skills identified for indirect assessment and
+follow a full A level, having started from AS, they can developed through teaching and learning,
+carry this record with them into their A level study.
+covered in Section 1.1) from the prescribed
+subject content, published by the Department
+The assessment of practical skills is a compulsory
+for Education. These questions may draw on, or
+requirement of the course of study for A level
+range beyond, the practical activities included in
+qualifications in chemistry. It will appear on all
+the specification.
+students’ certificates as a separately reported result,
+alongside the overall grade for the qualification. The In order to achieve a pass, students will need to:
+arrangements for the assessment of practical skills
+are common to all awarding organisations. These • develop these competencies by carrying out
+arrangements include: a minimum of 12 practical activities (PAG1
+5
+to PAG12), which allow acquisition of all the
+• A minimum of 12 practical activities to be carried skills, apparatus and techniques outlined in the
+out by each student which, together, meet the requirements of the specification (Sections 1.2.1
+requirements of Appendices 5b (Practical skills and 1.2.2)
+identified for direct assessment and developed
+• consistently and routinely exhibit the
+through teaching and learning, covered in
+competencies listed in the CPAC (Table 2) before
+Section 1.2.1) and 5c (Use of apparatus and
+the completion of the A-level course
+techniques, covered in Section 1.2.2) from
+the prescribed subject content, published by
+• keep an appropriate record of their practical
+the Department for Education. The required
+work, including their assessed practical activities
+practical activities are defined by each awarding
+organisation (see Fig. 1 and Table 1) • be able to demonstrate and/or record
+independent evidence of their competency,
+• Teachers will assess students against Common
+including evidence of independent application
+Practical Assessment Criteria (CPAC) issued by
+of investigative approaches and methods to
+the awarding organisations. The CPAC (see
+practical work.
+Table 2) are based on the requirements of
+Appendices 5b and 5c of the subject content The practical activities prescribed in the subject
+requirements published by the Department for specification (PAG1 to PAG12) will provide
+Education, and define the minimum standard opportunities for demonstrating competence in all the
+required for the achievement of a pass. skills identified, together with the use of apparatus and
+techniques for each subject. However, students can
+• Each student will keep an appropriate record
+also demonstrate these competencies in any additional
+of their practical work, including their assessed
+practical activity undertaken throughout the course of
+practical activities
+study which covers the requirements of appendix 5b
+and 5c (covered in Sections 1.2.1 and 1.2.2).
+• Students who demonstrate the required
+standard across all the requirements of the
+Students may work in groups but teachers who award
+CPAC, incorporating all the skills, apparatus and
+a pass to their students need to be confident of
+techniques (as defined in Sections 1.2.1 and
+individual students’ competence.
+Version 2.9 © OCR 2025
+90 OCR Level 3 Advanced GCE in Chemistry A
+Table 2 Common Practical Assessment Criteria (CPAC) for the assessment of practical competency in A Level
+sciences
+Competency Practical Mastery
+In order to be awarded a Pass a Learner must, by the end of the practical science
+assessment, consistently and routinely meet the criteria in respect of each
+competency listed below. A Learner may demonstrate the competencies in any
+practical activity undertaken as part of that assessment throughout the course of
+study.
+Learners may undertake practical activities in groups. However, the evidence
+generated by each Learner must demonstrate that he or she independently meets
+the criteria outlined below in respect of each competency. Such evidence –
+a) will comprise both the Learner’s performance during each practical activity and
+his or her contemporaneous record of the work that he or she has undertaken
+during that activity, and
+b) must include evidence of independent application of investigative approaches
+and methods to practical work.
+(1) Follows written a) Correctly follows instructions to carry out experimental techniques or
+procedures procedures.
+5
+(2) Applies investigative a) Correctly uses appropriate instrumentation, apparatus and materials (including
+approaches and ICT) to carry out investigative activities, experimental techniques and procedures
+methods when using with minimal assistance or prompting.
+instruments and
+b) Carries out techniques or procedures methodically, in sequence and in
+equipment
+combination, identifying practical issues and making adjustments when necessary.
+c) Identifies and controls significant quantitative variables where applicable, and
+plans approaches to take account of variables that cannot readily be controlled.
+d) Selects appropriate equipment and measurement strategies in order to ensure
+suitably accurate results.
+(3) Safely uses a range of a) Identifies hazards and assesses risks associated with these hazards, making
+practical equipment and safety adjustments as necessary, when carrying out experimental techniques and
+materials procedures in the lab or field.
+b) Uses appropriate safety equipment and approaches to minimise risks with
+minimal prompting.
+(4) Makes and records a) Makes accurate observations relevant to the experimental or investigative
+observations procedure.
+b) Obtains accurate, precise and sufficient data for experimental and investigative
+procedures and records this methodically using appropriate units and conventions.
+(5) Researches, a) Uses appropriate software and/or tools to process data, carry out research and
+references and reports report findings.
+b) Cites sources of information, demonstrating that research has taken place,
+supporting planning and conclusions.
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 91
+Choice of activity (iii) using activities devised by the centre and
+mapped against Section 1.2 of the specification
+Centres can include additional skills, apparatus and
+and the CPAC
+techniques within an activity (PAG) beyond those listed
+as the minimum in Table 1 or in the published practical (iv) using activities from external sources such as the
+activities. They may also carry out more than the learned societies, mapped against Section 1.2 of
+minimum 12 practical activities required to meet the the specification and the CPAC
+Practical Endorsement.
+Centres can receive guidance on the suitability of
+their own practical activities or against any of the
+To achieve a Pass within the Practical Endorsement,
+options within (ii) to (iv) above through our free
+candidates must have demonstrated competence in
+practical assessment support service by emailing
+all the skills, apparatus and techniques detailed in
+pass@ocr.org.uk.
+Sections 1.2.1 and 1.2.2 of the specification by carrying
+out a minimum of 12 assessed practical activities
+Where centres devise their own practical activity or
+(covering all of PAG1 to PAG12) and achieved the level
+use an alternative activity, that practical activity must
+of competence defined within the Common Practical
+be of a level of demand appropriate for A level.
+Assessment Criteria (Table 2).
+Practical Activity Groups 1 to 12 can be achieved
+The minimum of 12 activities can be met by:
+through more than one centre devised practical
+activity, and centres are not limited to 12 practical
+(i) using OCR suggested activities (provided as
+activities such that a centre could, for instance, split
+resources from Interchange, or by contacting
+PAG6 into two activities of their own (rather than one)
+5 pass@ocr.org.uk should you be unable to access
+with the two activities fulfilling the requirements.
+Interchange)
+Alternatively it could be possible that an extended
+(ii) modifying OCR suggested activities to match activity may cover the requirements of more than one
+available equipment whilst fulfilling the same group, in which case the centre could then select an
+skills, apparatus and techniques and CPAC additional activity from another group to achieve the
+required minimum of 12 practical activities.
+Version 2.9 © OCR 2025
+92 OCR Level 3 Advanced GCE in Chemistry A
+5h. Revision of the requirements for practical work
+OCR will review the Practical Endorsement detailed If any revision to the Practical Endorsement is made,
+in Section 5g of this specification following any OCR will produce an amended specification which
+revision by the Secretary of State of the skills, will be published on the OCR website. OCR will then
+apparatus or techniques specified in respect of use the following methods to communicate the
+A Level Chemistry A. amendment to centres: subject information update
+emailed sent to all Examinations Officers, e-alerts to
+OCR will revise the Practical Endorsement if
+centres that have registered to teach the qualification
+appropriate.
+and social media.
+5
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 93
+Summary of updates
+Date Version Section Title of section Change
+Dec 2017 2 Multiple Changes to generic wording and OCR website links
+throughout the specification. No changes have been
+made to any assessment requirements
+April 2018 2.1 2c Content of Correction of minor typographical errors and
+modules 1 to 6 amendment to learning outcome
+6.1.1 (i) (ii)
+May 2018 2.2 4a Head of Update in line with new NEA Centre Declaration
+Centre Annual form.
+Declaration
+August 2.3 3d Retaking the Update to wording for carry forward rules.
+2018 qualification
+4d Admin of
+non-exam
+assessment
+January 2.4 2c Content of Guidance on the new definition of moles 2.1.3(a)
+2019 modules 1 to 6
+Update to average bond enthalpy guidance 3.2.1(f)
+May 2020 2.5 1d How do I find Insertion of Online Support Centre link
+out more
+information?
+4d Post-results Enquiries about results changed to Review of results
+services
+Update to specification covers to meet digital
+accessibility standards.
+December 2.6 4a Pre-assessment Changes to practical endorsement requirements and
+2020 advice.
+Update to specification covers to meet digital
+accessibility standards
+April 2023 2.7 3c Total Update to include total qualification time and
+qualification guided learning hours to comply with QiW
+time regulations
+March 2.8 3d, 3e Qualification Inclusion of disclaimer regarding availability and
+2024 availability, language
+Language
+4a Pre-assessment Update to include resilience guidance
+Checklist Inclusion of Teach Cambridge
+June 2025 2.9 4a Pre-assessment Correction of qualification code
+Version 2.9 © OCR 2025
+94 OCR Level 3 Advanced GCE in Chemistry A
+Version 2.9 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry A 95
+Version 2.9 © OCR 2025
+96 OCR Level 3 Advanced GCE in Chemistry A
+YOUR
+CHECKLIST
+Our aim is to provide you with all o Bookmark OCR website for all the latest information
+the information and support you and news on AS and A Level Chemistry A
+need to deliver our specifications.
+o Sign up for Teach Cambridge: our personalised and secure website that
+provides teachers with access to all planning, teaching and assessment
+support materials
+o Be among the first to hear about support materials and resources
+as they become available – register for Chemistry updates
+o Find out about our professional development
+o View our range of skills guides for use across subjects
+and qualifications
+o Discover our new online past paper service
+o Learn more about Active Results
+o Visit our Online Support Centre
+Download high-quality, exciting
+and innovative AS and A Level
+Chemistry resources from ocr.org.uk/
+alevelchemistrya
+Free resources and support for our A Level Chemistry
+qualification, developed through collaboration between
+our Chemistry Subject Advisors, teachers and other subject
+experts, are available from our website. You can also contact
+our Chemistry Subject Advisors for specialist advice, guidance
+and support, giving you individual service and assistance
+whenever you need it.
+Contact the team at:
+01223 553998
+scienceGCE@ocr.org.uk
+@OCR_science
+To stay up to date with all the relevant news about our
+qualifications, register for email updates at ocr.org.uk/updates
+Visit our Online Support Centre at support.ocr.org.uk
+OCR is part of Cambridge University Press & Assessment, a department of the University of Cambridge.
+For staff training purposes and as part of our quality assurance programme your call may be recorded or monitored. ©OCR 2025 Oxford Cambridge and
+RSA Examinations is a Company Limited by Guarantee. Registered in England. Registered office The Triangle Building, Shaftesbury Road, Cambridge, CB2 8EA.
+Registered company number 3484466. OCR is an exempt charity.
+OCR operates academic and vocational qualifications regulated by Ofqual, Qualifications Wales and CCEA as listed in their qualifications registers including
+A Levels, GCSEs, Cambridge Technicals and Cambridge Nationals.
+Cambridge University Press & Assessment is committed to making our documents accessible in accordance with the WCAG 2.1 Standard. We’re always looking
+to improve the accessibility of our documents. If you find any problems or you think we’re not meeting accessibility requirements, please contact us.
+ocr.org.uk/alevelchemistrya

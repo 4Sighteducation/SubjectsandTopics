@@ -1,0 +1,90 @@
+{
+  "subject_name": "English Literature",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/x2zpzwgt/eduqas-gcse-english-lit-spec-from-2015-e.pdf",
+  "start_time": "2025-11-23T23:20:22.669792",
+  "success": true,
+  "topics_extracted": 120,
+  "levels": {
+    "0": 3,
+    "1": 6,
+    "2": 12,
+    "3": 78,
+    "4": 21
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "and"
+      },
+      {
+        "number": "1",
+        "name": "15 15 7.5 2.5 40"
+      },
+      {
+        "number": "2",
+        "name": "25 25 7.5 2.5 60"
+      },
+      {
+        "number": "1",
+        "name": "Section A (Shakespeare)"
+      },
+      {
+        "number": "1",
+        "name": "Section B"
+      },
+      {
+        "number": "2",
+        "name": "Section A (Post 1914 Prose/Drama)"
+      },
+      {
+        "number": "2",
+        "name": "Section B (19th Century Prose)"
+      },
+      {
+        "number": "2",
+        "name": "Section C (Unseen Poetry)"
+      },
+      {
+        "number": "1",
+        "name": "Section A (Shakespeare)"
+      },
+      {
+        "number": "1",
+        "name": "Section B"
+      },
+      {
+        "number": "2",
+        "name": "Section A (Post 1914 Prose/Drama)"
+      },
+      {
+        "number": "2",
+        "name": "Section B (19th Century Prose)"
+      },
+      {
+        "number": "2",
+        "name": "Section C (Unseen Poetry)"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "appendix B",
+      "prescribed texts"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 20.51758074760437,
+  "end_time": "2025-11-23T23:20:43.187374"
+}

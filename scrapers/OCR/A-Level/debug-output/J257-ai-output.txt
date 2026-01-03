@@ -1,0 +1,450 @@
+1 Foundation Tier
+1.1 B1: You and your genes
+1.1.1 B1.1 What is the genome and what does it do?
+1.1.1.1 Explain how the nucleus and genetic material of eukaryotic cells (plants and animals) and the genetic material, including plasmids, of prokaryotic cells are related to cell functions.
+1.1.1.2 Describe how to use a light microscope to observe a variety of plant and animal cells.
+1.1.1.3 Describe the genome as the entire genetic material of an organism.
+1.1.1.4 Describe DNA as a polymer made up of nucleotides, forming two strands in a double helix.
+1.1.1.5 Describe simply how the genome and its interaction with the environment influence the development of the phenotype of an organism, including the idea that most characteristics depend on instructions in the genome and are modified by interaction of the organism with its environment.
+1.1.1.6 Explain the terms chromosome, gene, allele, variant, genotype and phenotype.
+1.1.1.7 Explain the importance of amino acids in the synthesis of proteins, including the genome as instructions for the polymerisation of amino acids to make proteins.
+1.1.2 B1.2 How is genetic information inherited?
+1.1.2.1 Explain the terms gamete, homozygous, heterozygous, dominant and recessive.
+1.1.2.2 Explain single gene inheritance, including dominant and recessive alleles and use of genetic diagrams.
+1.1.2.3 Predict the results of single gene crosses.
+1.1.2.4 Use direct proportions and simple ratios in genetic crosses.
+1.1.2.5 Use the concept of probability in predicting the outcome of genetic crosses.
+1.1.2.6 Recall that most phenotypic features are the result of multiple genes rather than single gene inheritance.
+1.1.2.7 Describe sex determination in humans.
+1.1.3 B1.3 How can and should gene technology be used?
+1.1.3.1 Discuss the potential importance for medicine of our increasing understanding of the human genome, including the discovery of alleles associated with genetic diseases and the genetic testing of individuals to inform family planning and healthcare.
+1.1.3.2 Describe genetic engineering as a process which involves modifying the genome of an organism to introduce desirable characteristics.
+1.1.3.3 Describe the main steps in the process of genetic engineering.
+1.1.3.4 Explain some of the possible benefits and risks, including practical and ethical considerations, of using gene technology in modern agriculture and medicine.
+1.2 B2: Keeping healthy
+1.2.1 B2.1 What are the causes of disease?
+1.2.1.1 Describe the relationship between health and disease.
+1.2.1.2 Describe different types of diseases (including communicable and non-communicable diseases).
+1.2.1.3 Explain how communicable diseases (caused by viruses, bacteria, protists and fungi) are spread in animals and plants.
+1.2.1.4 Describe common human infections including influenza (viral), Salmonella (bacterial), Athlete’s foot (fungal) and malaria (protist) and sexually transmitted infections in humans including HIV/AIDS (viral).
+1.2.1.5 Describe plant diseases including tobacco mosaic virus (viral), ash dieback (fungal) and crown gall disease (bacterial).
+1.2.2 B2.2 How do organisms protect themselves against pathogens?
+1.2.2.1 Describe non-specific defence systems of the human body against pathogens, including examples of physical, chemical and microbial defences.
+1.2.2.2 Explain how platelets are adapted to their function in the blood.
+1.2.2.3 Explain the role of the immune system of the human body in defence against disease.
+1.2.2.4 Explain how white blood cells are adapted to their functions in the blood, including what they do and how it helps protect against disease.
+1.2.3 B2.3 How can we prevent the spread of infections?
+1.2.3.1 Explain how the spread of communicable diseases may be reduced or prevented in animals and plants, to include a minimum of one common human infection, one plant disease and sexually transmitted infections in humans including HIV/AIDS.
+1.2.3.2 Explain the use of vaccines in the prevention of disease, including the use of safe forms of pathogens and the need to vaccinate a large proportion of the population.
+1.2.4 B2.5 How can lifestyle, genes and the environment affect health?
+1.2.4.1 Describe how the interaction of genetic and lifestyle factors can increase or decrease the risk of developing non-communicable human diseases, including cardiovascular diseases, many forms of cancer, some lung and liver diseases and diseases influenced by nutrition, including type 2 diabetes.
+1.2.4.2 Use given data to explain the incidence of non-communicable diseases at local, national and global levels with reference to lifestyle factors, including exercise, diet, alcohol and smoking.
+1.2.4.3 In the context of data related to the causes, spread, effects and treatment of disease:
+1.2.4.3.1 Translate information between graphical and numerical forms.
+1.2.4.3.2 Construct and interpret frequency tables and diagrams, bar charts and histograms.
+1.2.4.3.3 Understand the principles of sampling as applied to scientific data.
+1.2.4.3.4 Use a scatter diagram to identify a correlation between two variables.
+1.2.4.4 Describe interactions between different types of disease.
+1.2.5 B2.6 How can we treat disease?
+1.2.5.1 Explain the use of medicines, including antibiotics, in the treatment of disease.
+1.2.5.2 Evaluate some different treatments for cardiovascular disease, including lifestyle changes, medicines and surgery.
+1.2.5.3 Describe the process of discovery and development of potential new medicines including preclinical and clinical testing.
+1.3 B3: Living together – food and ecosystems
+1.3.1 B3.1 What happens during photosynthesis?
+1.3.1.1 Describe the process of photosynthesis, including the inputs and outputs of the two main stages and the requirement of light in the first stage, and describe photosynthesis as an endothermic process.
+1.3.1.2 Explain how chloroplasts in plant cells are related to photosynthesis.
+1.3.1.3 Explain the mechanism of enzyme action including the active site, enzyme specificity and factors affecting the rate of enzyme-catalysed reactions, including substrate concentration, temperature and pH.
+1.3.1.4 Explain the effect of temperature, light intensity and carbon dioxide concentration on the rate of photosynthesis.
+1.3.1.5 Use the inverse square law to explain changes in the rate of photosynthesis with distance from a light source.
+1.3.1.6 Explain the interaction of temperature, light intensity and carbon dioxide concentration in limiting the rate of photosynthesis, and use graphs depicting the effects.
+1.3.2 B3.2 How do producers get the substances they need?
+1.3.2.1 Describe some of the substances transported into and out of photosynthetic organisms in terms of the requirements of those organisms, including oxygen, carbon dioxide, water and mineral ions.
+1.3.2.2 Explain how substances are transported into and out of cells through diffusion, osmosis and active transport.
+1.3.2.3 Explain how the partially-permeable cell membranes of plant cells and prokaryotic cells are related to diffusion, osmosis and active transport.
+1.3.2.4 Explain how water and mineral ions are taken up by plants, relating the structure of the root hair cells to their function.
+1.3.2.5 Explain how the structure of the xylem and phloem are adapted to their functions in the plant.
+1.3.2.6 Describe the processes of transpiration and translocation, including the structure and function of the stomata.
+1.3.2.7 Explain the effect of a variety of environmental factors on the rate of water uptake by a plant, to include light intensity, air movement, and temperature.
+1.3.3 B3.3 How are organisms in an ecosystem interdependent?
+1.3.3.1 Explain the importance of sugars, fatty acids and glycerol, and amino acids in the synthesis and breakdown of carbohydrates, lipids and proteins.
+1.3.3.2 Describe photosynthetic organisms as the main producers of food and therefore biomass for life on Earth.
+1.3.3.3 Describe different levels of organisation in an ecosystem from individual organisms to the whole ecosystem.
+1.3.3.4 Explain the importance of interdependence and competition in a community.
+1.3.3.5 Describe the differences between the trophic levels of organisms within an ecosystem.
+1.3.3.6 Describe pyramids of biomass and explain, with examples, how biomass is lost between the different trophic levels.
+1.3.3.7 Calculate the efficiency of biomass transfers between trophic levels and explain how this affects the number of organisms at each trophic level.
+1.3.3.8 Explain the role of microorganisms in the cycling of substances through an ecosystem.
+1.3.3.9 Calculate the percentage of mass, in the context of the use and cycling of substances in ecosystems.
+1.3.3.10 Explain the effect of factors such as temperature and water content on rate of decomposition in aerobic and anaerobic environments.
+1.3.3.11 Calculate rate changes in the decay of biological material.
+1.3.4 B3.4 How are populations affected by conditions in an ecosystem?
+1.3.4.1 Explain how some abiotic and biotic factors affect communities, including environmental conditions, toxic chemicals, availability of food and other resources, and the presence of predators and pathogens.
+1.3.4.2 Describe how to carry out a field investigation into the distribution and abundance of organisms in an ecosystem and explain how to determine their numbers in a given area.
+1.3.4.3 In the context of data related to organisms within a population:
+1.3.4.3.1 Calculate arithmetic means.
+1.3.4.3.2 Use fractions and percentages.
+1.3.4.3.3 Plot and draw appropriate graphs selecting appropriate scales for the axes.
+1.3.4.3.4 Extract and interpret information from charts, graphs and tables.
+1.4 B4: Using food and controlling growth
+1.4.1 B4.1 What happens during cellular respiration?
+1.4.1.1 Compare the processes of aerobic and anaerobic respiration, including conditions under which they occur, the inputs and outputs, and comparative yields of ATP.
+1.4.1.2 Explain why cellular respiration occurs continuously in all living cells.
+1.4.1.3 Explain how mitochondria in eukaryotic cells (plants and animals) are related to cellular respiration.
+1.4.1.4 Describe cellular respiration as an exothermic process.
+1.4.2 B4.2 How do we know about mitochondria and other cell structures?
+1.4.2.1 Explain how electron microscopy has increased our understanding of sub-cellular structures.
+1.4.2.2 In the context of cells and sub-cellular structures:
+1.4.2.2.1 Demonstrate an understanding of number, size and scale and the quantitative relationship between units.
+1.4.2.2.2 Use estimations and explain when they should be used.
+1.4.2.2.3 Calculate with numbers written in standard form.
+1.4.3 B4.3 How do organisms grow and develop?
+1.4.3.1 Describe the role of the cell cycle in growth, including interphase and mitosis.
+1.4.3.2 Describe cancer as the result of changes in cells that lead to uncontrolled growth and division.
+1.4.3.3 Explain the role of meiotic cell division in halving the chromosome number to form gametes, including the stages of interphase and two meiotic divisions.
+1.4.3.4 Describe the function of stem cells in embryonic and adult animals and meristems in plants.
+1.4.3.5 Explain the importance of cell differentiation, in which cells become specialised by switching genes off and on to form tissues with particular functions.
+1.4.4 B4.5 Should we use stem cells to treat damage and disease?
+1.4.4.1 Discuss potential benefits, risks and ethical issues associated with the use of stem cells in medicine.
+1.5 B5: The human body – staying alive
+1.5.1 B5.1 How do substances get into, out of and around our bodies?
+1.5.1.1 Describe some of the substances transported into and out of the human body in terms of the requirements of cells, including oxygen, carbon dioxide, water, dissolved food molecules and urea.
+1.5.1.2 Explain how the partially-permeable cell membranes of animal cells are related to diffusion, osmosis and active transport.
+1.5.1.3 Describe the human circulatory system, including its relationships with the gaseous exchange system, the digestive system and the excretory system.
+1.5.1.4 Explain how the structure of the heart is adapted to its function, including cardiac muscle, chambers and valves.
+1.5.1.5 Explain how the structures of arteries, veins and capillaries are adapted to their functions, including differences in the vessel walls and the presence of valves.
+1.5.1.6 Explain how red blood cells and plasma are adapted to their functions in the blood.
+1.5.1.7 Explain the need for exchange surfaces and a transport system in multicellular organisms in terms of surface area:volume ratio.
+1.5.1.8 Calculate surface area:volume ratios.
+1.5.2 B5.2 How does the nervous system help us respond to changes?
+1.5.2.1 Explain how the components of the nervous system work together to enable it to function, including sensory receptors, sensory neurons, the CNS, motor neurons and effectors.
+1.5.2.2 Explain how the structures of nerve cells and synapses relate to their functions.
+1.5.2.3 Explain how the structure of a reflex arc, including the relay neuron, is related to its function.
+1.5.3 B5.3 How do hormones control responses in the human body?
+1.5.3.1 Describe the principles of hormonal coordination and control by the human endocrine system.
+1.5.3.2 Explain the roles of thyroxine and adrenaline in the body, including thyroxine as an example of a negative feedback system.
+1.5.4 B5.4 Why do we need to maintain a constant internal environment?
+1.5.4.1 Explain the importance of maintaining a constant internal environment in response to internal and external change.
+1.5.4.2 Describe the function of the skin in the control of body temperature, including changes to sweating, hair erection and blood flow.
+1.5.4.3 Explain the response of the body to different temperature challenges, including receptors, processing, responses and negative feedback.
+1.5.4.4 Explain the effect on cells of osmotic changes in body fluids.
+1.5.4.5 Describe the function of the kidneys in maintaining the water balance of the body, including filtering water and urea from the blood into kidney tubules then reabsorbing as much water as required.
+1.5.4.6 Describe the effect of ADH on the permeability of the kidney tubules.
+1.5.4.7 Explain the response of the body to different osmotic challenges, including receptors, processing, response, and negative feedback.
+1.5.5 B5.5 What role do hormones play in human reproduction?
+1.5.5.1 Describe the role of hormones in human reproduction, including the control of the menstrual cycle.
+1.5.5.2 Explain the interactions of FSH, LH, oestrogen and progesterone in the control of the menstrual cycle.
+1.5.5.3 Explain the use of hormones in contraception and evaluate hormonal and non-hormonal methods of contraception.
+1.5.5.4 Explain the use of hormones in modern reproductive technologies to treat infertility.
+1.5.6 B5.6 What can happen when organs and control systems stop working?
+1.5.6.1 Explain how insulin controls the blood sugar level in the body.
+1.5.6.2 Explain how glucagon and insulin work together to control the blood sugar level in the body.
+1.5.6.3 Compare type 1 and type 2 diabetes and explain how they can be treated.
+1.5.6.4 Explain how the main structures of the eye are related to their functions, including the cornea, iris, lens, ciliary muscle and retina and to include the use of ray diagrams.
+1.6 B6: Life on Earth – past, present and future
+1.6.1 B6.1 How was the theory of evolution developed?
+1.6.1.1 State that there is usually extensive genetic variation within a population of a species.
+1.6.1.2 Recall that genetic variants arise from mutations, and that most have no effect on the phenotype, some influence phenotype and a very few determine phenotype.
+1.6.1.3 Explain how evolution occurs through natural selection of variants that give rise to phenotypes better suited to their environment.
+1.6.1.4 Explain the importance of competition in a community, with regard to natural selection.
+1.6.1.5 Describe evolution as a change in the inherited characteristics of a population over a number of generations through a process of natural selection which may result in the formation of new species.
+1.6.1.6 Explain the impact of the selective breeding of food plants and domesticated animals.
+1.6.1.7 Describe how fossils provide evidence for evolution.
+1.6.1.8 Describe the work of Darwin and Wallace in the development of the theory of evolution by natural selection.
+1.6.1.9 Describe modern examples of evidence for evolution including antibiotic resistance in bacteria.
+1.6.1.10 Explain the impact of these ideas on modern biology and society.
+1.6.2 B6.3 How does our understanding of biology help us classify the diversity of organisms on Earth?
+1.6.2.1 Describe the impact of developments in biology on classification systems, including the use of DNA analysis to classify organisms.
+1.6.3 B6.4 How is biodiversity threatened and how can we protect it?
+1.6.3.1 Describe both positive and negative human interactions within ecosystems and explain their impact on biodiversity.
+1.6.3.2 Evaluate evidence for the impact of environmental changes on the distribution of organisms, with reference to water and atmospheric gases.
+1.6.3.3 Describe some of the biological factors affecting levels of food security including increasing human population, changing diets in wealthier populations, new pests and pathogens, environmental change, sustainability and cost of agricultural inputs.
+1.6.3.4 Explain some of the benefits and challenges of maintaining local and global biodiversity.
+1.6.3.5 Extract and interpret information related to biodiversity from charts, graphs and tables.
+1.6.3.6 Describe and explain some possible biotechnological and agricultural solutions, including genetic modification, to the demands of the growing human population.
+1.7 B7: Ideas about Science
+1.7.1 IaS1 What needs to be considered when investigating a phenomenon scientifically?
+1.7.1.1 In given contexts use scientific theories and tentative explanations to develop and justify hypotheses and predictions.
+1.7.1.2 Suggest appropriate apparatus, materials and techniques, including the use of data-logging, for the collection of data.
+1.7.1.3 Suggest suitable variables to be controlled, and how to control them, in order to improve the quality of data.
+1.7.1.4 Identify possible sources of error in the data and suggest improvements to the method.
+1.7.1.5 Identify hazards and suggest appropriate safety precautions.
+1.7.2 IaS2 What conclusions can we make from data?
+1.7.2.1 Use a scatter diagram to identify a correlation between two variables.
+1.7.2.2 Use a line of best fit to make predictions.
+1.7.2.3 Identify anomalous data and suggest possible explanations for it.
+1.7.2.4 Use data to make conclusions, explaining how the data supports the conclusion.
+1.7.2.5 Evaluate the quality of data, identifying any limitations.
+1.7.3 IaS3 How are scientific explanations developed?
+1.7.3.1 Explain how scientific explanations are developed and tested.
+1.7.3.2 Explain how scientific explanations can be modified in light of new evidence.
+1.7.3.3 Explain how scientific explanations can be evaluated by considering the evidence and the explanation.
+1.7.3.4 Explain how scientific explanations can be accepted by the scientific community.
+1.7.4 IaS4 How do science and technology impact society?
+1.7.4.1 Explain how scientific and technological developments can have both positive and negative impacts on society.
+1.7.4.2 Explain how scientific and technological developments can lead to changes in society.
+1.7.4.3 Explain how society can influence scientific and technological developments.
+1.7.4.4 Explain how ethical considerations can influence scientific and technological developments.
+1.8 B8: Practical Skills
+1.8.1 Describe practical investigations into the effect of different substrates on the rate of respiration in yeast.
+1.8.2 Describe practical investigations into the effect of environmental factors on the rate of photosynthesis.
+1.8.3 Describe practical investigations into the effect of substrate concentration, temperature and pH on the rate of enzyme controlled reactions.
+1.8.4 Describe practical investigations into the effect of environmental factors on the rate of water uptake by a plant.
+1.8.5 Describe practical investigations into the response of the pupil in different light conditions.
+1.8.6 Describe practical investigations into reflex actions.
+1.8.7 Describe practical investigations into temperature control of the body.
+1.8.8 Describe practical investigations into the role of auxin in phototropism.
+1.8.9 Describe practical investigations into the requirements and products of photosynthesis.
+1.8.10 Describe practical investigations into the distribution and abundance of organisms in an ecosystem.
+1.8.11 Describe practical investigations into the response of the body to different temperature challenges.
+1.8.12 Describe practical investigations into the effect of different substrates on the rate of respiration in microorganisms.
+1.8.13 Describe practical investigations into the effect of environmental factors on the rate of photosynthesis.
+1.8.14 Describe practical investigations into the effect of substrate concentration, temperature and pH on the rate of enzyme controlled reactions.
+1.8.15 Describe practical investigations into the effect of environmental factors on the rate of water uptake by a plant.
+1.8.16 Describe practical investigations into the response of the pupil in different light conditions.
+1.8.17 Describe practical investigations into reflex actions.
+1.8.18 Describe practical investigations into temperature control of the body.
+1.8.19 Describe practical investigations into the role of auxin in phototropism.
+1.8.20 Describe practical investigations into the requirements and products of photosynthesis.
+1.8.21 Describe practical investigations into the distribution and abundance of organisms in an ecosystem.
+1.8.22 Describe practical investigations into the response of the body to different temperature challenges.
+2 Higher Tier
+2.1 B1: You and your genes
+2.1.1 B1.1 What is the genome and what does it do?
+2.1.1.1 Explain how the nucleus and genetic material of eukaryotic cells (plants and animals) and the genetic material, including plasmids, of prokaryotic cells are related to cell functions.
+2.1.1.2 Describe how to use a light microscope to observe a variety of plant and animal cells.
+2.1.1.3 Describe the genome as the entire genetic material of an organism.
+2.1.1.4 Describe DNA as a polymer made up of nucleotides, forming two strands in a double helix.
+2.1.1.5 Describe simply how the genome and its interaction with the environment influence the development of the phenotype of an organism, including the idea that most characteristics depend on instructions in the genome and are modified by interaction of the organism with its environment.
+2.1.1.6 Explain the terms chromosome, gene, allele, variant, genotype and phenotype.
+2.1.1.7 Explain the importance of amino acids in the synthesis of proteins, including the genome as instructions for the polymerisation of amino acids to make proteins.
+2.1.1.8 Describe DNA as a polymer made from four different nucleotides, each nucleotide consisting of a common sugar and phosphate group with one of four different bases attached to the sugar.
+2.1.1.9 Explain simply how the sequence of bases in DNA codes for the proteins made in protein synthesis, including the idea that each set of three nucleotides is the code for an amino acid.
+2.1.1.10 Recall a simple description of protein synthesis, in which:
+2.1.1.10.1 A copy of a gene is made from messenger RNA (mRNA).
+2.1.1.10.2 The mRNA travels to a ribosome in the cytoplasm.
+2.1.1.10.3 The ribosome joins amino acids together in an order determined by the mRNA.
+2.1.1.11 Recall that all genetic variants arise from mutations.
+2.1.1.12 Describe how genetic variants in coding DNA may influence phenotype by altering the activity of a protein.
+2.1.1.13 Describe how genetic variants in non-coding DNA may influence phenotype by altering how genes are expressed.
+2.1.2 B1.2 How is genetic information inherited?
+2.1.2.1 Explain the terms gamete, homozygous, heterozygous, dominant and recessive.
+2.1.2.2 Explain single gene inheritance, including dominant and recessive alleles and use of genetic diagrams.
+2.1.2.3 Predict the results of single gene crosses.
+2.1.2.4 Use direct proportions and simple ratios in genetic crosses.
+2.1.2.5 Use the concept of probability in predicting the outcome of genetic crosses.
+2.1.2.6 Recall that most phenotypic features are the result of multiple genes rather than single gene inheritance.
+2.1.2.7 Describe the development of our understanding of genetics including the work of Mendel and the modern-day use of genome sequencing.
+2.1.2.8 Describe sex determination in humans.
+2.1.3 B1.3 How can and should gene technology be used?
+2.1.3.1 Discuss the potential importance for medicine of our increasing understanding of the human genome, including the discovery of alleles associated with genetic diseases and the genetic testing of individuals to inform family planning and healthcare.
+2.1.3.2 Describe genetic engineering as a process which involves modifying the genome of an organism to introduce desirable characteristics.
+2.1.3.3 Describe the main steps in the process of genetic engineering.
+2.1.3.4 Explain some of the possible benefits and risks, including practical and ethical considerations, of using gene technology in modern agriculture and medicine.
+2.2 B2: Keeping healthy
+2.2.1 B2.1 What are the causes of disease?
+2.2.1.1 Describe the relationship between health and disease.
+2.2.1.2 Describe different types of diseases (including communicable and non-communicable diseases).
+2.2.1.3 Explain how communicable diseases (caused by viruses, bacteria, protists and fungi) are spread in animals and plants.
+2.2.1.4 Describe common human infections including influenza (viral), Salmonella (bacterial), Athlete’s foot (fungal) and malaria (protist) and sexually transmitted infections in humans including HIV/AIDS (viral).
+2.2.1.5 Describe plant diseases including tobacco mosaic virus (viral), ash dieback (fungal) and crown gall disease (bacterial).
+2.2.2 B2.2 How do organisms protect themselves against pathogens?
+2.2.2.1 Describe non-specific defence systems of the human body against pathogens, including examples of physical, chemical and microbial defences.
+2.2.2.2 Explain how platelets are adapted to their function in the blood.
+2.2.2.3 Explain the role of the immune system of the human body in defence against disease.
+2.2.2.4 Explain how white blood cells are adapted to their functions in the blood, including what they do and how it helps protect against disease.
+2.2.2.5 Describe chemical plant defence responses, including antimicrobial substances.
+2.2.3 B2.3 How can we prevent the spread of infections?
+2.2.3.1 Explain how the spread of communicable diseases may be reduced or prevented in animals and plants, to include a minimum of one common human infection, one plant disease and sexually transmitted infections in humans including HIV/AIDS.
+2.2.3.2 Explain the use of vaccines in the prevention of disease, including the use of safe forms of pathogens and the need to vaccinate a large proportion of the population.
+2.2.4 B2.4 How can we identify the cause of an infection?
+2.2.4.1 Describe ways in which diseases, including plant diseases, can be detected and identified, in the lab and in the field.
+2.2.4.2 Describe and explain the aseptic techniques used in culturing organisms.
+2.2.4.3 Calculate cross-sectional areas of bacterial cultures and of clear zones around antibiotic discs on agar jelly using πr².
+2.2.4.4 Describe how monoclonal antibodies are produced including the following steps:
+2.2.4.4.1 Antigen injected into an animal.
+2.2.4.4.2 Antibody-producing cells taken from animal.
+2.2.4.4.3 Cells producing the correct antibody selected then cultured.
+2.2.4.5 Describe some of the ways in which monoclonal antibodies can be used in diagnostic tests.
+2.2.5 B2.5 How can lifestyle, genes and the environment affect health?
+2.2.5.1 Describe how the interaction of genetic and lifestyle factors can increase or decrease the risk of developing non-communicable human diseases, including cardiovascular diseases, many forms of cancer, some lung and liver diseases and diseases influenced by nutrition, including type 2 diabetes.
+2.2.5.2 Use given data to explain the incidence of non-communicable diseases at local, national and global levels with reference to lifestyle factors, including exercise, diet, alcohol and smoking.
+2.2.5.3 In the context of data related to the causes, spread, effects and treatment of disease:
+2.2.5.3.1 Translate information between graphical and numerical forms.
+2.2.5.3.2 Construct and interpret frequency tables and diagrams, bar charts and histograms.
+2.2.5.3.3 Understand the principles of sampling as applied to scientific data.
+2.2.5.3.4 Use a scatter diagram to identify a correlation between two variables.
+2.2.5.4 Describe interactions between different types of disease.
+2.2.6 B2.6 How can we treat disease?
+2.2.6.1 Explain the use of medicines, including antibiotics, in the treatment of disease.
+2.2.6.2 Calculate cross-sectional areas of bacterial cultures and of clear zones around antibiotic discs on agar jelly using πr².
+2.2.6.3 Evaluate some different treatments for cardiovascular disease, including lifestyle changes, medicines and surgery.
+2.2.6.4 Describe the process of discovery and development of potential new medicines including preclinical and clinical testing.
+2.2.6.5 Describe how monoclonal antibodies can be used to treat cancer.
+2.3 B3: Living together – food and ecosystems
+2.3.1 B3.1 What happens during photosynthesis?
+2.3.1.1 Describe the process of photosynthesis, including the inputs and outputs of the two main stages and the requirement of light in the first stage, and describe photosynthesis as an endothermic process.
+2.3.1.2 Explain how chloroplasts in plant cells are related to photosynthesis.
+2.3.1.3 Explain the mechanism of enzyme action including the active site, enzyme specificity and factors affecting the rate of enzyme-catalysed reactions, including substrate concentration, temperature and pH.
+2.3.1.4 Explain the effect of temperature, light intensity and carbon dioxide concentration on the rate of photosynthesis.
+2.3.1.5 Use the inverse square law to explain changes in the rate of photosynthesis with distance from a light source.
+2.3.1.6 Explain the interaction of temperature, light intensity and carbon dioxide concentration in limiting the rate of photosynthesis, and use graphs depicting the effects.
+2.3.2 B3.2 How do producers get the substances they need?
+2.3.2.1 Describe some of the substances transported into and out of photosynthetic organisms in terms of the requirements of those organisms, including oxygen, carbon dioxide, water and mineral ions.
+2.3.2.2 Explain how substances are transported into and out of cells through diffusion, osmosis and active transport.
+2.3.2.3 Explain how the partially-permeable cell membranes of plant cells and prokaryotic cells are related to diffusion, osmosis and active transport.
+2.3.2.4 Explain how water and mineral ions are taken up by plants, relating the structure of the root hair cells to their function.
+2.3.2.5 Explain how the structure of the xylem and phloem are adapted to their functions in the plant.
+2.3.2.6 Describe the processes of transpiration and translocation, including the structure and function of the stomata.
+2.3.2.7 Explain the effect of a variety of environmental factors on the rate of water uptake by a plant, to include light intensity, air movement, and temperature.
+2.3.3 B3.3 How are organisms in an ecosystem interdependent?
+2.3.3.1 Explain the importance of sugars, fatty acids and glycerol, and amino acids in the synthesis and breakdown of carbohydrates, lipids and proteins.
+2.3.3.2 Describe photosynthetic organisms as the main producers of food and therefore biomass for life on Earth.
+2.3.3.3 Describe different levels of organisation in an ecosystem from individual organisms to the whole ecosystem.
+2.3.3.4 Explain the importance of interdependence and competition in a community.
+2.3.3.5 Describe the differences between the trophic levels of organisms within an ecosystem.
+2.3.3.6 Describe pyramids of biomass and explain, with examples, how biomass is lost between the different trophic levels.
+2.3.3.7 Calculate the efficiency of biomass transfers between trophic levels and explain how this affects the number of organisms at each trophic level.
+2.3.3.8 Explain the role of microorganisms in the cycling of substances through an ecosystem.
+2.3.3.9 Calculate the percentage of mass, in the context of the use and cycling of substances in ecosystems.
+2.3.3.10 Explain the effect of factors such as temperature and water content on rate of decomposition in aerobic and anaerobic environments.
+2.3.3.11 Calculate rate changes in the decay of biological material.
+2.3.4 B3.4 How are populations affected by conditions in an ecosystem?
+2.3.4.1 Explain how some abiotic and biotic factors affect communities, including environmental conditions, toxic chemicals, availability of food and other resources, and the presence of predators and pathogens.
+2.3.4.2 Describe how to carry out a field investigation into the distribution and abundance of organisms in an ecosystem and explain how to determine their numbers in a given area.
+2.3.4.3 In the context of data related to organisms within a population:
+2.3.4.3.1 Calculate arithmetic means.
+2.3.4.3.2 Use fractions and percentages.
+2.3.4.3.3 Plot and draw appropriate graphs selecting appropriate scales for the axes.
+2.3.4.3.4 Extract and interpret information from charts, graphs and tables.
+2.4 B4: Using food and controlling growth
+2.4.1 B4.1 What happens during cellular respiration?
+2.4.1.1 Compare the processes of aerobic and anaerobic respiration, including conditions under which they occur, the inputs and outputs, and comparative yields of ATP.
+2.4.1.2 Explain why cellular respiration occurs continuously in all living cells.
+2.4.1.3 Explain how mitochondria in eukaryotic cells (plants and animals) are related to cellular respiration.
+2.4.1.4 Describe cellular respiration as an exothermic process.
+2.4.2 B4.2 How do we know about mitochondria and other cell structures?
+2.4.2.1 Explain how electron microscopy has increased our understanding of sub-cellular structures.
+2.4.2.2 In the context of cells and sub-cellular structures:
+2.4.2.2.1 Demonstrate an understanding of number, size and scale and the quantitative relationship between units.
+2.4.2.2.2 Use estimations and explain when they should be used.
+2.4.2.2.3 Calculate with numbers written in standard form.
+2.4.3 B4.3 How do organisms grow and develop?
+2.4.3.1 Describe the role of the cell cycle in growth, including interphase and mitosis.
+2.4.3.2 Describe cancer as the result of changes in cells that lead to uncontrolled growth and division.
+2.4.3.3 Explain the role of meiotic cell division in halving the chromosome number to form gametes, including the stages of interphase and two meiotic divisions.
+2.4.3.4 Describe the function of stem cells in embryonic and adult animals and meristems in plants.
+2.4.3.5 Explain the importance of cell differentiation, in which cells become specialised by switching genes off and on to form tissues with particular functions.
+2.4.4 B4.4 How is plant growth controlled?
+2.4.4.1 Explain how plant hormones are important in the control and coordination of plant growth and development, with reference to the role of auxins in phototropisms and gravitropisms.
+2.4.4.2 Describe some of the variety of effects of plant hormones, relating to gibberellins and ethene.
+2.4.4.3 Describe some of the different ways in which people use plant hormones to control plant growth.
+2.4.5 B4.5 Should we use stem cells to treat damage and disease?
+2.4.5.1 Discuss potential benefits, risks and ethical issues associated with the use of stem cells in medicine.
+2.5 B5: The human body – staying alive
+2.5.1 B5.1 How do substances get into, out of and around our bodies?
+2.5.1.1 Describe some of the substances transported into and out of the human body in terms of the requirements of cells, including oxygen, carbon dioxide, water, dissolved food molecules and urea.
+2.5.1.2 Explain how the partially-permeable cell membranes of animal cells are related to diffusion, osmosis and active transport.
+2.5.1.3 Describe the human circulatory system, including its relationships with the gaseous exchange system, the digestive system and the excretory system.
+2.5.1.4 Explain how the structure of the heart is adapted to its function, including cardiac muscle, chambers and valves.
+2.5.1.5 Explain how the structures of arteries, veins and capillaries are adapted to their functions, including differences in the vessel walls and the presence of valves.
+2.5.1.6 Explain how red blood cells and plasma are adapted to their functions in the blood.
+2.5.1.7 Explain the need for exchange surfaces and a transport system in multicellular organisms in terms of surface area:volume ratio.
+2.5.1.8 Calculate surface area:volume ratios.
+2.5.2 B5.2 How does the nervous system help us respond to changes?
+2.5.2.1 Explain how the components of the nervous system work together to enable it to function, including sensory receptors, sensory neurons, the CNS, motor neurons and effectors.
+2.5.2.2 Explain how the structures of nerve cells and synapses relate to their functions.
+2.5.2.3 Explain how the structure of a reflex arc, including the relay neuron, is related to its function.
+2.5.2.4 Describe the structure and function of the brain and roles of the cerebral cortex (intelligence, memory, language and consciousness), cerebellum (conscious movement) and brain stem (regulation of heart and breathing rate).
+2.5.2.5 Explain some of the difficulties of investigating brain function.
+2.5.3 B5.3 How do hormones control responses in the human body?
+2.5.3.1 Describe the principles of hormonal coordination and control by the human endocrine system.
+2.5.3.2 Explain the roles of thyroxine and adrenaline in the body, including thyroxine as an example of a negative feedback system.
+2.5.4 B5.4 Why do we need to maintain a constant internal environment?
+2.5.4.1 Explain the importance of maintaining a constant internal environment in response to internal and external change.
+2.5.4.2 Describe the function of the skin in the control of body temperature, including changes to sweating, hair erection and blood flow.
+2.5.4.3 Explain the response of the body to different temperature challenges, including receptors, processing, responses and negative feedback.
+2.5.4.4 Explain the effect on cells of osmotic changes in body fluids.
+2.5.4.5 Describe the function of the kidneys in maintaining the water balance of the body, including filtering water and urea from the blood into kidney tubules then reabsorbing as much water as required.
+2.5.4.6 Describe the effect of ADH on the permeability of the kidney tubules.
+2.5.4.7 Explain the response of the body to different osmotic challenges, including receptors, processing, response, and negative feedback.
+2.5.5 B5.5 What role do hormones play in human reproduction?
+2.5.5.1 Describe the role of hormones in human reproduction, including the control of the menstrual cycle.
+2.5.5.2 Explain the interactions of FSH, LH, oestrogen and progesterone in the control of the menstrual cycle.
+2.5.5.3 Explain the use of hormones in contraception and evaluate hormonal and non-hormonal methods of contraception.
+2.5.5.4 Explain the use of hormones in modern reproductive technologies to treat infertility.
+2.5.6 B5.6 What can happen when organs and control systems stop working?
+2.5.6.1 Explain how insulin controls the blood sugar level in the body.
+2.5.6.2 Explain how glucagon and insulin work together to control the blood sugar level in the body.
+2.5.6.3 Compare type 1 and type 2 diabetes and explain how they can be treated.
+2.5.6.4 Explain how the main structures of the eye are related to their functions, including the cornea, iris, lens, ciliary muscle and retina and to include the use of ray diagrams.
+2.5.6.5 Describe common defects of the eye, including short-sightedness, long-sightedness and cataracts, and explain how these problems may be overcome, including using ray diagrams to illustrate the effect of lenses.
+2.5.6.6 Explain some of the limitations in treating damage and disease in the brain and other parts of the nervous system.
+2.6 B6: Life on Earth – past, present and future
+2.6.1 B6.1 How was the theory of evolution developed?
+2.6.1.1 State that there is usually extensive genetic variation within a population of a species.
+2.6.1.2 Recall that genetic variants arise from mutations, and that most have no effect on the phenotype, some influence phenotype and a very few determine phenotype.
+2.6.1.3 Explain how evolution occurs through natural selection of variants that give rise to phenotypes better suited to their environment.
+2.6.1.4 Explain the importance of competition in a community, with regard to natural selection.
+2.6.1.5 Describe evolution as a change in the inherited characteristics of a population over a number of generations through a process of natural selection which may result in the formation of new species.
+2.6.1.6 Explain the impact of the selective breeding of food plants and domesticated animals.
+2.6.1.7 Describe how fossils provide evidence for evolution.
+2.6.1.8 Describe the work of Darwin and Wallace in the development of the theory of evolution by natural selection.
+2.6.1.9 Describe modern examples of evidence for evolution including antibiotic resistance in bacteria.
+2.6.1.10 Explain the impact of these ideas on modern biology and society.
+2.6.2 B6.2 How do sexual and asexual reproduction affect evolution?
+2.6.2.1 Explain some of the advantages and disadvantages of asexual and sexual reproduction in a range of organisms.
+2.6.3 B6.3 How does our understanding of biology help us classify the diversity of organisms on Earth?
+2.6.3.1 Describe the impact of developments in biology on classification systems, including the use of DNA analysis to classify organisms.
+2.6.4 B6.4 How is biodiversity threatened and how can we protect it?
+2.6.4.1 Describe both positive and negative human interactions within ecosystems and explain their impact on biodiversity.
+2.6.4.2 Evaluate evidence for the impact of environmental changes on the distribution of organisms, with reference to water and atmospheric gases.
+2.6.4.3 Describe some of the biological factors affecting levels of food security including increasing human population, changing diets in wealthier populations, new pests and pathogens, environmental change, sustainability and cost of agricultural inputs.
+2.6.4.4 Explain some of the benefits and challenges of maintaining local and global biodiversity.
+2.6.4.5 Extract and interpret information related to biodiversity from charts, graphs and tables.
+2.6.4.6 Describe and explain some possible biotechnological and agricultural solutions, including genetic modification, to the demands of the growing human population.
+2.7 B7: Ideas about Science
+2.7.1 IaS1 What needs to be considered when investigating a phenomenon scientifically?
+2.7.1.1 In given contexts use scientific theories and tentative explanations to develop and justify hypotheses and predictions.
+2.7.1.2 Suggest appropriate apparatus, materials and techniques, including the use of data-logging, for the collection of data.
+2.7.1.3 Suggest suitable variables to be controlled, and how to control them, in order to improve the quality of data.
+2.7.1.4 Identify possible sources of error in the data and suggest improvements to the method.
+2.7.1.5 Identify hazards and suggest appropriate safety precautions.
+2.7.2 IaS2 What conclusions can we make from data?
+2.7.2.1 Use a scatter diagram to identify a correlation between two variables.
+2.7.2.2 Use a line of best fit to make predictions.
+2.7.2.3 Identify anomalous data and suggest possible explanations for it.
+2.7.2.4 Use data to make conclusions, explaining how the data supports the conclusion.
+2.7.2.5 Evaluate the quality of data, identifying any limitations.
+2.7.3 IaS3 How are scientific explanations developed?
+2.7.3.1 Explain how scientific explanations are developed and tested.
+2.7.3.2 Explain how scientific explanations can be modified in light of new evidence.
+2.7.3.3 Explain how scientific explanations can be evaluated by considering the evidence and the explanation.
+2.7.3.4 Explain how scientific explanations can be accepted by the scientific community.
+2.7.4 IaS4 How do science and technology impact society?
+2.7.4.1 Explain how scientific and technological developments can have both positive and negative impacts on society.
+2.7.4.2 Explain how scientific and technological developments can lead to changes in society.
+2.7.4.3 Explain how society can influence scientific and technological developments.
+2.7.4.4 Explain how ethical considerations can influence scientific and technological developments.
+2.8 B8: Practical Skills
+2.8.1 Describe practical investigations into the effect of different substrates on the rate of respiration in yeast.
+2.8.2 Describe practical investigations into the effect of environmental factors on the rate of photosynthesis.
+2.8.3 Describe practical investigations into the effect of substrate concentration, temperature and pH on the rate of enzyme controlled reactions.
+2.8.4 Describe practical investigations into the effect of environmental factors on the rate of water uptake by a plant.
+2.8.5 Describe practical investigations into the response of the pupil in different light conditions.
+2.8.6 Describe practical investigations into reflex actions.
+2.8.7 Describe practical investigations into temperature control of the body.
+2.8.8 Describe practical investigations into the role of auxin in phototropism.
+2.8.9 Describe practical investigations into the requirements and products of photosynthesis.
+2.8.10 Describe practical investigations into the distribution and abundance of organisms in an ecosystem.
+2.8.11 Describe practical investigations into the response of the body to different temperature challenges.
+2.8.12 Describe practical investigations into the effect of different substrates on the rate of respiration in microorganisms.
+2.8.13 Describe practical investigations into the effect of environmental factors on the rate of photosynthesis.
+2.8.14 Describe practical investigations into the effect of substrate concentration, temperature and pH on the rate of enzyme controlled reactions.
+2.8.15 Describe practical investigations into the effect of environmental factors on the rate of water uptake by a plant.
+2.8.16 Describe practical investigations into the response of the pupil in different light conditions.
+2.8.17 Describe practical investigations into reflex actions.
+2.8.18 Describe practical investigations into temperature control of the body.
+2.8.19 Describe practical investigations into the role of auxin in phototropism.
+2.8.20 Describe practical investigations into the requirements and products of photosynthesis.
+2.8.21 Describe practical investigations into the distribution and abundance of organisms in an ecosystem.
+2.8.22 Describe practical investigations into the response of the body to different temperature challenges.

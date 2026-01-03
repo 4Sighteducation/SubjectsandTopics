@@ -84,9 +84,9 @@ class SpecificationExtractor:
         logger.info("Extracting selection constraints...")
         results['constraints'] = self._extract_constraints(full_text, subject, results['components'])
         
-        # 4. Topic Options
-        logger.info("Extracting topic options...")
-        results['options'] = self._extract_topic_options(full_text, subject, results['components'], exam_board, qualification)
+        # 4. ALL Topics (deep hierarchical extraction)
+        logger.info("Extracting ALL topics with deep hierarchy...")
+        results['options'] = self._extract_all_topics_deep(full_text, subject, results['components'], exam_board, qualification)
         
         # Add context to each option (for uploader)
         if results.get('options') and isinstance(results['options'], list):
@@ -215,9 +215,88 @@ SPECIFICATION TEXT (first 15000 chars):
         
         return self._call_ai(prompt, "constraints")
     
-    def _extract_topic_options(self, text: str, subject: str, components: List[Dict],
-                               exam_board: str, qualification: str) -> List[Dict]:
-        """Extract all topic options with metadata."""
+    def _extract_all_topics_deep(self, text: str, subject: str, components: List[Dict],
+                                 exam_board: str, qualification: str) -> List[Dict]:
+        """Extract COMPLETE topic hierarchy - ALL levels, ALL topics."""
+        
+        prompt = f"""You are analyzing a {exam_board} {subject} ({qualification}) specification PDF.
+
+CRITICAL: Extract the COMPLETE topic hierarchy with ALL levels of detail.
+
+The specification likely has this structure:
+- Main sections (e.g., "3.1 Criminal Law", "1A The Crusades")
+- Sub-sections within each (e.g., "Elements of a crime", "Defenses")
+- Detailed content points (specific topics students must learn)
+
+For EACH topic at EVERY level, extract:
+
+1. **Code/Number**: Topic identifier (e.g., "3.1", "1A", or descriptive name if no code)
+2. **Title**: Full topic name
+3. **Level**: 
+   - Level 0 = Main unit/module (e.g., "3.1 Criminal Law", "1A The Crusades")
+   - Level 1 = Major sub-sections (e.g., "Elements of a crime")
+   - Level 2 = Detailed topics (e.g., "Actus reus")
+   - Level 3 = Specific content points (if present)
+4. **Parent Code**: Which topic is this under? (null for Level 0)
+5. **Period**: Time period if applicable (e.g., "1485-1603")
+6. **Region**: Geographic region if applicable (British, European, etc.)
+7. **Component**: Which component/paper it belongs to
+8. **Content Description**: Brief description or key points
+
+IMPORTANT: 
+- Extract EVERYTHING - don't summarize!
+- Include all subtopics, not just main headings
+- Maintain parent-child relationships
+- For subjects with numbered sections (3.1, 3.2), extract ALL content within each
+- For subjects with option codes (1A, 2B), extract all sub-sections
+
+Return as JSON array:
+[
+  {{
+    "code": "3.1",
+    "title": "The nature of law and the English legal system",
+    "level": 0,
+    "parent_code": null,
+    "component": "All papers",
+    "content_points": ["Nature of law", "Law making", ...]
+  }},
+  {{
+    "code": "3.1.1",
+    "title": "Nature of law",
+    "level": 1,
+    "parent_code": "3.1",
+    "content_points": ["Law and society", "Law and morality", "Law and justice"]
+  }},
+  {{
+    "code": "3.1.1.1",
+    "title": "Law and society",
+    "level": 2,
+    "parent_code": "3.1.1",
+    "description": "The role law plays in society..."
+  }}
+]
+
+CRITICAL REQUIREMENTS:
+1. Extract content for EVERY section (3.1 AND 3.2 AND 3.3 AND 3.4 AND 3.5)
+2. Each section should have its own content_points array
+3. Don't stop after first section - continue through entire specification
+4. Look for tables with "Content" and "Additional information" columns
+5. Extract EVERY row from EVERY table
+
+Example for Law:
+- Section 3.1 should have 15+ content points
+- Section 3.2 should have 10+ content points (Criminal law topics)
+- Section 3.3 should have 8+ content points (Tort topics)
+- Etc.
+
+Full specification text (ENTIRE PDF to ensure all sections captured):
+{text}"""  # Send ENTIRE text, no truncation
+        
+        return self._call_ai(prompt, "all_topics_deep")
+    
+    def _extract_topic_options_old(self, text: str, subject: str, components: List[Dict],
+                              exam_board: str, qualification: str) -> List[Dict]:
+        """OLD METHOD - kept for reference."""
         
         # Get option codes from components
         all_codes = []
@@ -300,7 +379,7 @@ SPECIFICATION TEXT (sample):
         try:
             message = self.client.messages.create(
                 model="claude-3-5-sonnet-20241022",
-                max_tokens=8000,
+                max_tokens=8192,  # Maximum allowed by Claude
                 temperature=0.1,  # Low temperature for factual extraction
                 system="You are an expert at analyzing UK exam specifications. Always return ONLY valid JSON with no markdown formatting, no code blocks, no explanations - just the raw JSON.",
                 messages=[{"role": "user", "content": prompt}]

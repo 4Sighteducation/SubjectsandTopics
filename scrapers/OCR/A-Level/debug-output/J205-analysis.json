@@ -1,0 +1,44 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": false,
+        "compulsory": [],
+        "optional": []
+    },
+    "texts": {
+        "has_texts": false,
+        "text_locations": [],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": [
+            "Introduction to Economics",
+            "The role of markets and money",
+            "Economic objectives and the role of government",
+            "International trade and the global economy"
+        ],
+        "organization": "The content is organized into components focusing on different economic concepts and their applications.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "J205/01 - Introduction to Economics",
+            "J205/02 - National and International Economics"
+        ],
+        "content_mapping": {
+            "J205/01": "Introduction to Economics, The role of markets and money",
+            "J205/02": "Economic objectives and the role of government, International trade and the global economy"
+        },
+        "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting content related to the two main components and their subtopics, ensuring to capture the key economic concepts and their applications."
+}
+```

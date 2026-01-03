@@ -1,0 +1,63 @@
+# GCSE Computer Science Config
+
+subject:
+  code: "GCSE-ComputerScience"
+  name: "Computer Science"
+  qualification: "GCSE"
+  exam_board: "Edexcel"
+  pdf_url: "https://qualifications.pearson.com/content/dam/pdf/GCSE/Computer%20Science/2020/specification-and-sample-assessments/GCSE_L1_L2_Computer_Science_2020_Specification.pdf"
+
+# Main topics (Level 0)
+main_topics:
+  - code: "Topic1"
+    title: "Topic 1: Computational thinking"
+    level: 0
+    parent: null
+  
+  - code: "Topic2"
+    title: "Topic 2: Data"
+    level: 0
+    parent: null
+  
+  - code: "Topic3"
+    title: "Topic 3: Computers"
+    level: 0
+    parent: null
+  
+  - code: "Topic4"
+    title: "Topic 4: Networks"
+    level: 0
+    parent: null
+  
+  - code: "Topic5"
+    title: "Topic 5: Issues and impact"
+    level: 0
+    parent: null
+  
+  - code: "Topic6"
+    title: "Topic 6: Problem solving with programming"
+    level: 0
+    parent: null
+
+# Patterns for matching different elements
+patterns:
+  theme: '^Topic\s+([1-6]):\s*'  # "Topic 1:", "Topic 2:", etc.
+  section: null  # No section level for CS
+  topic: '^(\d+\.\d+)\s+(.+?)(?:\s+\d+\.\d+\.\d+|$)'  # "1.1 Decomposition", "2.1 Binary"
+  bullet: null  # No separate bullet level - learning outcomes go straight to Level 2
+
+# Patterns to skip
+skip_patterns:
+  - 'Paper \d+:'
+  - 'Assessment'
+  - 'Content overview'
+  - 'Pearson Edexcel'
+  - '© Pearson'
+  - 'Specification –'
+
+# Level names for output
+level_names:
+  0: "Main Topics"
+  1: "Subtopics"
+  2: "Learning Outcomes"
+

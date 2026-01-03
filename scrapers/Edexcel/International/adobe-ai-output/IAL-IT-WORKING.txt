@@ -1,0 +1,300 @@
+1. Unit 1: Information Technology Systems
+   1.1 Hardware and Software
+       1.1.1 Hardware
+           1.1.1.1 Features and functions of contemporary digital devices
+           1.1.1.2 Technologies used by digital devices
+           1.1.1.3 Technological convergence
+           1.1.1.4 Embedded systems
+           1.1.1.5 Firmware
+           1.1.1.6 Performance assessment of digital devices
+           1.1.1.7 Data file size and transmission time calculations
+           1.1.1.8 Binary and denary conversions
+           1.1.1.9 Selection of digital devices
+       1.1.2 Software
+           1.1.2.1 Purpose of systems and applications software
+           1.1.2.2 Role of the operating system
+           1.1.2.3 Sources of software and copyright types
+           1.1.2.4 Licensing options
+           1.1.2.5 Software updates management
+           1.1.2.6 Selection of software
+   1.2 Networks
+       1.2.1 Network models and protocols
+           1.2.1.1 Features and functions of network models
+           1.2.1.2 Network communication protocols
+           1.2.1.3 Network standards and protocols
+       1.2.2 Network design and implementation
+           1.2.2.1 Network transmission media
+           1.2.2.2 Network metrics
+           1.2.2.3 Network components
+           1.2.2.4 Network design
+           1.2.2.5 IP and MAC addressing
+       1.2.3 Network security
+           1.2.3.1 Network security issues
+           1.2.3.2 Securing a network
+   1.3 The Online Environment
+       1.3.1 The internet and the world wide web
+           1.3.1.1 Structure of the internet
+           1.3.1.2 Features and functions of the world wide web
+           1.3.1.3 Static and dynamic web page content
+           1.3.1.4 Client-side scripting
+           1.3.1.5 Server-side scripting
+       1.3.2 Operating online
+           1.3.2.1 Impact of online environments
+           1.3.2.2 Security risks and protection methods
+           1.3.2.3 Digital footprint
+       1.3.3 Online communities
+           1.3.3.1 Concept of online communities
+           1.3.3.2 Impact of online communities
+           1.3.3.3 Monetisation opportunities
+       1.3.4 The cloud
+           1.3.4.1 Cloud storage
+           1.3.4.2 Cloud computing
+   1.4 IT Systems
+       1.4.1 Systems design
+           1.4.1.1 Concept of an IT system
+           1.4.1.2 Decomposition of systems
+           1.4.1.3 Design of IT systems
+           1.4.1.4 Fitness for purpose
+       1.4.2 Dataflow
+           1.4.2.1 Concept and need for dataflow diagrams
+           1.4.2.2 Interpretation and creation of dataflow diagrams
+       1.4.3 Flowcharts
+           1.4.3.1 Concept and need for flowcharts
+           1.4.3.2 Interpretation and creation of flowcharts
+       1.4.4 Systems
+           1.4.4.1 Advantages and disadvantages of IT systems
+           1.4.4.2 Use of digital devices in IT systems
+   1.5 Data and Databases
+       1.5.1 Data and information
+           1.5.1.1 Difference between data and information
+           1.5.1.2 Sources of structured and unstructured data
+           1.5.1.3 Value of extracting information from data
+       1.5.2 Structured data
+           1.5.2.1 Use of databases to structure data
+           1.5.2.2 Structure of a relational database
+           1.5.2.3 Entities and relationships
+           1.5.2.4 Entity relationship diagrams
+       1.5.3 Structured query language (SQL)
+           1.5.3.1 Use of SQL to manipulate data
+           1.5.3.2 SQL commands, features, and functions
+   1.6 Wider Issues
+       1.6.1 Environmental
+           1.6.1.1 Environmental impact of IT equipment
+           1.6.1.2 Positive impact of IT on the environment
+       1.6.2 Legal, moral and ethical
+           1.6.2.1 Legal issues with IT systems
+           1.6.2.2 Moral and ethical issues with IT systems
+       1.6.3 Society
+           1.6.3.1 Impact of wireless access
+
+2. Unit 2: Coding for the Web
+   2.1 Understanding the Functionality of HTML
+       2.1.1 Document structure
+           2.1.1.1 Structure of web pages
+           2.1.1.2 Language declaration
+           2.1.1.3 Head element
+           2.1.1.4 Organised syntax
+           2.1.1.5 Global attributes
+       2.1.2 Structural markup
+           2.1.2.1 Block-level and inline elements
+           2.1.2.2 Content models
+           2.1.2.3 Key elements for text structure
+           2.1.2.4 Lists creation
+           2.1.2.5 Links creation
+       2.1.3 Page components
+           2.1.3.1 Adding images
+           2.1.3.2 Representing information in tables
+           2.1.3.3 Creating forms
+           2.1.3.4 Web forms functionality
+           2.1.3.5 Adding audio and video
+           2.1.3.6 Using inline frames
+   2.2 Understanding the Functionality of CSS
+       2.2.1 Writing CSS
+           2.2.1.1 Purpose of CSS
+           2.2.1.2 Referencing CSS
+           2.2.1.3 Writing CSS rules
+           2.2.1.4 CSS selectors
+           2.2.1.5 Efficient style sheets
+           2.2.1.6 CSS Box Model
+           2.2.1.7 CSS attribute selectors
+       2.2.2 Styling web pages
+           2.2.2.1 Specifying colours
+           2.2.2.2 Manipulating colour
+           2.2.2.3 Specifying length values
+           2.2.2.4 Adding styles to elements
+           2.2.2.5 Using the box model
+       2.2.3 Positioning content
+           2.2.3.1 Controlling position of elements
+           2.2.3.2 Using the box model for appearance
+           2.2.3.3 Designing for different screens
+           2.2.3.4 Responsive design techniques
+       2.2.4 CSS animations
+           2.2.4.1 Using CSS transitions and transforms
+   2.3 Understanding the Functions of JavaScript
+       2.3.1 Document Object Model
+           2.3.1.1 Accessing and updating web page content
+       2.3.2 Regular expressions
+           2.3.2.1 Understanding regular expressions
+           2.3.2.2 Validation checks
+           2.3.2.3 Constructing patterns
+       2.3.3 Programmed functionality
+           2.3.3.1 Adding JavaScript to web pages
+           2.3.3.2 Programming functionality
+           2.3.3.3 Using events to trigger functions
+           2.3.3.4 Combining JavaScript with HTML and CSS
+           2.3.3.5 Error handling and debugging
+   2.4 Designing Web Pages
+       2.4.1 Principles of design
+           2.4.1.1 Designing web pages
+           2.4.1.2 Using web typography
+           2.4.1.3 Design principles for page layout
+       2.4.2 Principles of accessibility
+           2.4.2.1 Making websites accessible
+       2.4.3 Principles of usability
+           2.4.3.1 Designing intuitive navigation systems
+           2.4.3.2 Targeting specific devices and browsers
+   2.5 The Semantic Web
+       2.5.1 Writing semantic code
+           2.5.1.1 Adding semantic markup
+           2.5.1.2 Using elements to define content
+           2.5.1.3 Grouping elements
+           2.5.1.4 Semantic code for SEO
+           2.5.1.5 Semantic markup for textual meaning
+           2.5.1.6 Semantic markup for self-contained content
+           2.5.1.7 Using WAI-ARIA for accessibility
+
+3. Unit 3: Data and Emerging Technologies
+   3.1 Manipulating Data
+       3.1.1 Data integrity
+           3.1.1.1 Importance and methods of data integrity
+           3.1.1.2 Data dictionary
+           3.1.1.3 Data validation
+           3.1.1.4 Validation rules
+       3.1.2 Relational databases
+           3.1.2.1 Data redundancy
+           3.1.2.2 Normalisation
+           3.1.2.3 Logical data model
+       3.1.3 Big Data
+           3.1.3.1 Concept and issues of Big Data
+           3.1.3.2 Infrastructure for Big Data
+           3.1.3.3 Impact of storing Big Data
+           3.1.3.4 Data mining, warehousing, and analytics
+           3.1.3.5 Uses of Big Data
+   3.2 Enabling Technologies
+       3.2.1 Virtualisation
+           3.2.1.1 Concept and reasons for virtualisation
+           3.2.1.2 Achieving virtualisation
+       3.2.2 Distributed systems
+           3.2.2.1 Concept and need for distributed systems
+           3.2.2.2 Issues with distributed systems
+       3.2.3 Human computer interaction
+           3.2.3.1 Importance and impact of human computer interaction
+           3.2.3.2 Implementation of human computer interaction
+           3.2.3.3 Ergonomic principles
+           3.2.3.4 Interface design
+       3.2.4 Storing and securing data
+           3.2.4.1 Data storage in the cloud
+           3.2.4.2 Data security
+           3.2.4.3 Database Management System (DBMS)
+       3.2.5 Encryption
+           3.2.5.1 Symmetric encryption
+           3.2.5.2 Asymmetric encryption
+           3.2.5.3 Certificate-based encryption
+   3.3 Using IT Systems in Organisations
+       3.3.1 Role of IT systems
+           3.3.1.1 Operational support
+           3.3.1.2 Transaction processing
+           3.3.1.3 Customer relationship management
+           3.3.1.4 Management information systems
+           3.3.1.5 Intelligent transportation systems
+           3.3.1.6 Expert systems
+       3.3.2 Operational issues
+           3.3.2.1 IT governance and policy
+           3.3.2.2 IT changeover management
+           3.3.2.3 System maintenance
+           3.3.2.4 Data archiving
+           3.3.2.5 Disaster recovery plans
+   3.4 Systems Development
+       3.4.1 Project management
+           3.4.1.1 Concept and need for project management
+           3.4.1.2 Characteristics of successful IT projects
+           3.4.1.3 Project outcomes using SMART targets
+           3.4.1.4 Tools of project management
+       3.4.2 Waterfall method
+           3.4.2.1 Concept and features of the waterfall method
+           3.4.2.2 Phases of the waterfall method
+           3.4.2.3 Activities in each phase of the waterfall method
+       3.4.3 Agile approach
+           3.4.3.1 Concept and features of an agile approach
+           3.4.3.2 Phases of an agile approach
+           3.4.3.3 Activities in an agile approach
+       3.4.4 Diagrams used in system design and development
+           3.4.4.1 Information flow diagrams
+   3.5 Emerging Technologies
+       3.5.1 Machine learning
+           3.5.1.1 Concept, features, and functions of machine learning
+           3.5.1.2 Impact and possibilities of machine learning
+       3.5.2 Virtual and augmented reality
+           3.5.2.1 Concept and uses of virtual reality
+           3.5.2.2 Concept and uses of augmented reality
+       3.5.3 Internet of Things
+           3.5.3.1 Concept of the Internet of Things
+           3.5.3.2 Impact of the Internet of Things
+           3.5.3.3 Infrastructure for the Internet of Things
+           3.5.3.4 Security issues related to the IoT
+           3.5.3.5 High-level designs for IoT systems
+
+4. Unit 4: Database Solutions
+   4.1 Use of Features of Database Solutions
+       4.1.1 Database applications
+           4.1.1.1 Use of database software
+           4.1.1.2 Features of a database
+           4.1.1.3 Evaluation of database features
+       4.1.2 User needs
+           4.1.2.1 Analysis of user needs
+           4.1.2.2 Development of database solutions
+           4.1.2.3 Evaluation of database design
+       4.1.3 User experience
+           4.1.3.1 User characteristics and database design
+           4.1.3.2 Design impact on user experience
+           4.1.3.3 Development of user experience
+           4.1.3.4 Evaluation of user experience
+   4.2 Relational Database Concepts
+       4.2.1 Structuring data
+           4.2.1.1 Constructing and amending relational databases
+           4.2.1.2 Use of data types
+           4.2.1.3 Formatting data types
+           4.2.1.4 Evaluation of data structure
+       4.2.2 Relational data structures
+           4.2.2.1 Need for relational data structures
+           4.2.2.2 Features and attributes of data relationships
+           4.2.2.3 Evaluation of relational data structure
+       4.2.3 Data entry and validation techniques
+           4.2.3.1 Ensuring data suitability
+           4.2.3.2 Validation techniques
+           4.2.3.3 Constructing error messages
+           4.2.3.4 Techniques to improve data entry
+           4.2.3.5 Evaluation of data accuracy techniques
+   4.3 Database Solutions
+       4.3.1 Using database software
+           4.3.1.1 Updating, inserting, modifying, and deleting data
+           4.3.1.2 Creating relational data structures
+           4.3.1.3 Retrieving data
+           4.3.1.4 Constructing calculated fields
+           4.3.1.5 Outputting data
+           4.3.1.6 Importing data
+           4.3.1.7 Exporting data
+           4.3.1.8 Evaluation of database tools and techniques
+       4.3.2 User interface
+           4.3.2.1 Creating data entry forms
+           4.3.2.2 Creating system outputs
+           4.3.2.3 Supporting users with interface components
+           4.3.2.4 Creating and using macros
+           4.3.2.5 Evaluation of user interface
+       4.3.3 Testing the solution
+           4.3.3.1 Need for testing solutions
+           4.3.3.2 Importance of testing during development
+           4.3.3.3 Designing and carrying out tests
+       4.3.4 Evaluation and enhancement
+           4.3.4.1 Evaluation of completed solution
+           4.3.4.2 Suggesting enhancements

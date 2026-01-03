@@ -114,3 +114,8 @@ WHERE exam_board_subject_id IN (
 )
 AND (component_code IS NOT NULL OR geographical_region IS NOT NULL);
 
+
+
+
+
+

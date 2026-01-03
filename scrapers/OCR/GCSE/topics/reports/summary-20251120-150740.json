@@ -1,0 +1,479 @@
+{
+  "timestamp": "2025-11-20T15:07:40.458859",
+  "total_subjects": 7,
+  "success_count": 7,
+  "fail_count": 0,
+  "success_rate": 100.0,
+  "reports": [
+    {
+      "subject_code": "J170",
+      "subject_name": "Art, Craft and Design",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T15:02:35.439007",
+      "success": true,
+      "topics_extracted": 89,
+      "levels": {
+        "0": 1,
+        "1": 4,
+        "2": 16,
+        "3": 68
+      },
+      "issues": [
+        "Missing topics compared to Content Overview",
+        "Potential structure misalignment"
+      ],
+      "warnings": [
+        "Check for missing options",
+        "Verify level assignments"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and starting points.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T15:02:35.439027"
+    },
+    {
+      "subject_code": "J171",
+      "subject_name": "Fine Art",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T15:03:22.054637",
+      "success": true,
+      "topics_extracted": 59,
+      "levels": {
+        "0": 1,
+        "1": 2,
+        "2": 10,
+        "3": 28,
+        "4": 18
+      },
+      "issues": [
+        "Missing topics compared to Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure problems due to unexpected depth"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and starting points.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T15:03:22.054651"
+    },
+    {
+      "subject_code": "J172",
+      "subject_name": "Graphic Communication",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T15:04:26.254529",
+      "success": true,
+      "topics_extracted": 79,
+      "levels": {
+        "0": 1,
+        "1": 6,
+        "2": 16,
+        "3": 46,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment in level 3"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and starting points.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T15:04:26.254543"
+    },
+    {
+      "subject_code": "J173",
+      "subject_name": "Photography",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T15:05:03.829307",
+      "success": true,
+      "topics_extracted": 70,
+      "levels": {
+        "0": 1,
+        "1": 2,
+        "2": 8,
+        "3": 24,
+        "4": 25,
+        "5": 10
+      },
+      "issues": [
+        "Missing topics compared to Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure issues with parent-child relationships"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and starting points.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T15:05:03.829316"
+    },
+    {
+      "subject_code": "J174",
+      "subject_name": "Textile Design",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T15:05:40.566771",
+      "success": true,
+      "topics_extracted": 57,
+      "levels": {
+        "0": 1,
+        "1": 2,
+        "2": 10,
+        "3": 34,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure issues with parent-child relationships"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and starting points.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T15:05:40.566783"
+    },
+    {
+      "subject_code": "J175",
+      "subject_name": "Three-Dimensional Design",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T15:06:44.230464",
+      "success": true,
+      "topics_extracted": 51,
+      "levels": {
+        "0": 1,
+        "1": 5,
+        "2": 11,
+        "3": 24,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics from Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure problems with parent-child relationships"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and starting points.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T15:06:44.230476"
+    },
+    {
+      "subject_code": "J176",
+      "subject_name": "Critical and Contextual Studies",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T15:07:40.456644",
+      "success": true,
+      "topics_extracted": 103,
+      "levels": {
+        "0": 1,
+        "1": 4,
+        "2": 17,
+        "3": 30,
+        "4": 51
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect tier handling"
+      ],
+      "warnings": [
+        "Potential misclassification in level distribution"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and starting points.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T15:07:40.456652"
+    }
+  ]
+}

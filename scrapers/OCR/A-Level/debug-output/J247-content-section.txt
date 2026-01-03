@@ -1,0 +1,274 @@
+2c. Content of topics B1 to B6
+Topic B1: Cell level systems
+B1.1 Cell structures
+Summary Common misconceptions
+Cells are the fundamental units of living organisms. Cells contain many sub- Learners commonly have difficulty understanding the concept of a cell as a
+cellular structures that are essential for the functioning of the cell as a whole. 3D structure, so this should be addressed during the teaching of this topic.
+Microscopy is used to examine cells and sub-cellular structures.
+Tiering
+Underlying knowledge and understanding Statements shown in bold type will only be tested in the Higher Tier papers.
+Learners should be familiar with cells as the fundamental unit of living organisms, All other statements will be assessed in both Foundation and Higher Tier papers.
+and with the use of light microscopes to view cells. They should also be familiar
+with some sub-cellular structures, and the similarities and differences between
+plant and animal cells.
+Reference Mathematical learning outcomes Mathematical skills
+BM1.1i demonstrate an understanding of number, size and scale and the quantitative relationship between units M2a and M2h
+BM1.1ii use estimations and explain when they should be used M1d
+BM1.1iii calculate with numbers written in standard form M1b
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+11
+Version
+3.5
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths scientifically
+B1.1a describe how light microscopes and lenses, stage, lamp, use of slides M1b, M1d, M2a, WS1.2c, WS1.4c, Investigation of a range of cells
+staining can be used to view cells and cover slips, and the use of M2h WS1.4d, WS1.4e, using pictures, light micrographs
+stains to view colourless specimens WS2a, WS2b, and diagrams. Measure the size
+or to highlight different structures/ WS2c, WS2d and magnification of the cells.
+tissues and calculation of (PAG B1, PAG B7)
+magnification
+Preparation of cheek cell slides.
+(PAG B7)
+Preparation of onion epidermis
+cells slides. (PAG B7)
+Use of light microscopes to view
+plant and animal cells. (PAG B7)
+B1.1b explain how the main sub-cellular nucleus, genetic material, WS1.4a, WS2a, Production of 3D model plant and
+structures of eukaryotic cells (plants chromosomes, plasmids, WS2b, WS2c, animal cells to illustrate their
+and animals) and prokaryotic cells mitochondria (contain enzymes for WS2d differences.
+are related to their functions cellular respiration), chloroplasts
+Investigation of cytoplasmic
+(contain chlorophyll) and cell
+streaming in Elodea spp.
+membranes (contain receptor
+(PAG B6, PAG B7)
+molecules, provides a selective
+barrier to molecules), ribosomes
+(site of protein synthesis)
+B1.1c explain how electron microscopy increased resolution in a M1b WS1.1a, WS1.4c, Comparison of a range of cells using
+has increased our understanding of transmission electron microscope WS1.4d pictures from light and electron
+sub-cellular structures micrographs.
+Comparison of the visible structures
+visible on light and electron
+micrographs.
+12
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+Version
+3.5
+©
+OCR
+2024
+2
+B1.2 What happens in cells (and what do cells need)?
+Summary Common misconceptions
+Life processes depend on biological molecules whose structure is related to Learners commonly hold the misconception that DNA is made of protein or
+their function. Inside every cell is genetic material and this is used as a code to sugar. Learners also think that all enzymes have an optimum temperature of 37°C
+make proteins. Enzymes are important proteins in biology. (human body temperature). The range of optimum temperatures of enzymes
+should be introduced through the teaching of this topic and further addressed
+Underlying knowledge and understanding when considering homeostatic mechanisms for controlling temperature.
+Learners should have a simple understanding of the double helix model
+of DNA. Learners should be familiar with the idea of enzymes as biological Tiering
+catalysts. Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+BM1.2i carry out rate calculations for chemical reactions M1a and M1c
+BM1.2ii understand and use simple compound measures such as the rate of a reaction M1a and M1c
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+13
+Version
+3.5
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+B1.2a describe DNA as a polymer WS1.4a Production of 3D models of
+DNA to illustrate its structure.
+B1.2b describe DNA as being made up of
+two strands forming a double helix
+B1.2c describe that DNA is made from the pairs of complementary bases WS1.4a, WS2a, Production of 3D models of
+ four different nucleotides; each (A-T and G-C) WS2b, WS2c, DNA to illustrate its structure.
+nucleotide consisting of a common WS2d
+Investigation of DNA extraction
+sugar and phosphate group with
+from a living organism (e.g. kiwi,
+one of four different bases attached
+leek, onion, wheat germ).
+to the sugar
+(PAG B2)
+B1.2d recall a simple description of the unzipping of the DNA molecule Comparison of transcription and
+ protein synthesis around the gene, copying to mRNA translation to a non-lending library.
+in nucleus (transcription),
+Use of kinaesthetic activities to
+(translation) of the nucleotide
+demonstrate transcription and
+sequence in the cytoplasm, tRNA
+translation.
+as the carrier of amino acids
+B1.2e explain simply how the structure triplet code and its use to
+ of DNA affects the proteins made determine amino acid order in a
+in protein synthesis protein
+14
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+Version
+3.5
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+B1.2f describe experiments that can be M1a, M1c, M2g WS1.1h, WS1.2b, Investigations of enzyme activity,
+used to investigate enzymatic WS1.2c, WS1.2e, including numerical analysis of
+reactions WS1.3a, WS1.3b, data and graphical representation
+WS1.3c, WS1.3d, of results. (PAG B2, PAG B4, PAG B6)
+WS1.3e, WS1.3f,
+WS1.3g,
+WS2a, WS2b,
+WS2c, WS2d
+B1.2g explain the mechanism of enzyme the role of enzymes in metabolism, M1a, M1c, M3d, WS2a, WS2b, Investigation into the effect of
+action the role of the active site, enzyme M4b WS2c, amylase on a baby rice paste.
+specificity (lock and key hypothesis) WS2d (PAG B2, PAG B4, PAG B6)
+and factors affecting the rate of
+Investigation of enzyme controlled
+enzyme controlled reactions
+reactions. (PAG B2, PAG B4,
+(pH, temperature, substrate and
+PAG B6)
+enzyme concentration)
+Work out rate equations using
+simple algebraic equations.
+(PAG B4)
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+15
+Version
+3.5
+©
+OCR
+2024
+2
+B1.3 Respiration
+Summary Common misconceptions
+Metabolic processes such as respiration are controlled by enzymes. Organic Learners commonly hold the misconception that ventilation is respiration.
+compounds are used as fuels in cellular respiration to allow the other chemical They can also get confused between the terms breakup and breakdown.
+reactions necessary for life.
+Tiering
+Underlying knowledge and understanding Statements shown in bold type will only be tested in the Higher Tier papers.
+Learners should also have some underpinning knowledge of respiration. This All other statements will be assessed in both Foundation and Higher
+should include that respiration involves the breakdown of organic molecules to Tier papers.
+enable all the other chemical processes necessary for life. Learners should
+be able to recall the word equation for respiration.
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+B1.3a describe cellular respiration WS1.2a
+as a universal chemical process,
+continuously occurring that
+supplies ATP in all living cells
+B1.3b describe cellular respiration as an WS1.2b Demonstration of an exothermic
+exothermic reaction reaction (e.g. heat pack).
+B1.3c compare the processes of aerobic in plants/fungi and animals the WS2a, WS2b, Research into whether plants respire.
+respiration and anaerobic different conditions, substrates, WS2c, WS2d (PAG B2, PAG B4, PAG B5, PAG B6)
+respiration products and relative yields of
+Investigation of fermentation in
+ATP
+fungi. (PAG B2, PAG B4, PAG B5,
+PAG B6)
+Investigation of respiration in yeast
+using alginate beads to immobilise
+the fungus. (PAG B2, PAG B4, PAG B5,
+PAG B6)
+16
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+Version
+3.5
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+B1.3d explain the importance of sugars in use of the terms monomer and Demonstration of the synthesis and
+the synthesis and breakdown of polymer breakdown of biological molecules
+carbohydrates (e.g. using Lego bricks). Qualitative
+testing of biological molecules PAG B2
+B1.3e explain the importance of amino use of the terms monomer and Qualitative testing of biological
+acids in the synthesis and polymer molecules PAG B2
+breakdown of proteins
+B1.3f explain the importance of fatty Qualitative testing of biological
+acids and glycerol in the synthesis molecules PAG B2
+and breakdown of lipids
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+17
+Version
+3.5
+©
+OCR
+2024
+2
+B1.4 Photosynthesis
+Summary Common misconceptions
+Life processes depend on photosynthesis. Green plants and algae trap light from Learners often think that plants do not respire.
+the Sun to fix carbon dioxide with hydrogen from water making organic
+compounds. Tiering
+Statements shown in bold type will only be tested in the Higher Tier
+Underlying knowledge and understanding papers. All other statements will be assessed in both Foundation and
+Learners should also have some underpinning knowledge of photosynthesis. They Higher Tier papers.
+should have an understanding that plants make carbohydrates in their leaves by
+photosynthesis, and be able to recall

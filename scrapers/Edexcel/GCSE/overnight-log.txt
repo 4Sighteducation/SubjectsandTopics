@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\tonyd\OneDrive - 4Sight Education Ltd\Apps\flash-curriculum-pipeline\scrapers\Edexcel\GCSE\overnight-gcse-batch-scraper.py", line 57, in <module>
+    spec.loader.exec_module(upload_module)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1159, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1217, in get_data
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\tonyd\\OneDrive - 4Sight Education Ltd\\Apps\\flash-curriculum-pipeline\\scrapers\\upload_papers_to_staging.py'

@@ -1,0 +1,538 @@
+{
+  "paper": {
+    "name": "OCR Biology A - June 2024 - Paper 3",
+    "url": "https://www.ocr.org.uk/Images/726692-question-paper-unified-biology.pdf",
+    "expected_marks": 70
+  },
+  "extraction": {
+    "questions": [
+      {
+        "full_question_number": "1(a)(i)",
+        "main_question_number": 1,
+        "question_text": "Name the structure labelled A.",
+        "context_text": "Escherichia coli is a bacterium that is used widely in scientific experiments and in biotechnology.",
+        "marks": 1,
+        "command_word": "Name",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Transmission electron micrograph of E. coli",
+        "image_page": 2,
+        "hierarchy": {
+          "main": 1,
+          "sub": "a",
+          "sub_sub": "i",
+          "full": "1(a)(i)"
+        }
+      },
+      {
+        "full_question_number": "1(a)(ii)",
+        "main_question_number": 1,
+        "question_text": "Based on your knowledge, estimate the diameter of the E. coli cell. Give your answer in μm.",
+        "context_text": "Escherichia coli is a bacterium that is used widely in scientific experiments and in biotechnology.",
+        "marks": 1,
+        "command_word": "Estimate",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Transmission electron micrograph of E. coli",
+        "image_page": 2,
+        "hierarchy": {
+          "main": 1,
+          "sub": "a",
+          "sub_sub": "ii",
+          "full": "1(a)(ii)"
+        }
+      },
+      {
+        "full_question_number": "1(b)(i)",
+        "main_question_number": 1,
+        "question_text": "Describe two improvements to the student's method, other than using different equipment, that could improve the accuracy of their population estimate.",
+        "context_text": "A student carries out a serial dilution of an E. coli culture.",
+        "marks": 2,
+        "command_word": "Describe",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 1,
+          "sub": "b",
+          "sub_sub": "i",
+          "full": "1(b)(i)"
+        }
+      },
+      {
+        "full_question_number": "1(b)(ii)",
+        "main_question_number": 1,
+        "question_text": "Calculate the total number of E. coli cells in the original 50cm³ culture. Give your answer in standard form.",
+        "context_text": "A student carries out a serial dilution of an E. coli culture.",
+        "marks": 3,
+        "command_word": "Calculate",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 1,
+          "sub": "b",
+          "sub_sub": "ii",
+          "full": "1(b)(ii)"
+        }
+      },
+      {
+        "full_question_number": "1(c)",
+        "main_question_number": 1,
+        "question_text": "State two other reasons why E. coli is a suitable microorganism to use in biotechnology.",
+        "context_text": "E. coli can be genetically modified to produce useful proteins.",
+        "marks": 2,
+        "command_word": "State",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 1,
+          "sub": "c",
+          "sub_sub": null,
+          "full": "1(c)"
+        }
+      },
+      {
+        "full_question_number": "2(a)",
+        "main_question_number": 2,
+        "question_text": "Describe two improvements to the student’s plan and explain why they would be improvements.",
+        "context_text": "Species biodiversity is affected by many factors. A student plans to sample the plant species in the area shown below to assess the area’s species biodiversity.",
+        "marks": 4,
+        "command_word": "Describe",
+        "question_type": "extended_response",
+        "has_image": true,
+        "image_description": "Diagram showing grassland with shrubs, bushes, and a river",
+        "image_page": 5,
+        "hierarchy": {
+          "main": 2,
+          "sub": "a",
+          "sub_sub": null,
+          "full": "2(a)"
+        }
+      },
+      {
+        "full_question_number": "2(b)(i)",
+        "main_question_number": 2,
+        "question_text": "Outline the differences between the bird and mammal results shown in the graph.",
+        "context_text": "The International Union for Conservation of Nature (IUCN) compiles a list of species and their conservation status, known as the Red List of Threatened Species.",
+        "marks": 2,
+        "command_word": "Outline",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Bar graph showing threat categories for birds vs mammals",
+        "image_page": 6,
+        "hierarchy": {
+          "main": 2,
+          "sub": "b",
+          "sub_sub": "i",
+          "full": "2(b)(i)"
+        }
+      },
+      {
+        "full_question_number": "2(b)(ii)",
+        "main_question_number": 2,
+        "question_text": "Evaluate this conclusion.",
+        "context_text": "A student looking at the graph concluded that ‘climate change is not a major threat to species biodiversity’.",
+        "marks": 4,
+        "command_word": "Evaluate",
+        "question_type": "extended_response",
+        "has_image": true,
+        "image_description": "Bar graph showing threat categories for birds vs mammals",
+        "image_page": 6,
+        "hierarchy": {
+          "main": 2,
+          "sub": "b",
+          "sub_sub": "ii",
+          "full": "2(b)(ii)"
+        }
+      },
+      {
+        "full_question_number": "2(c)",
+        "main_question_number": 2,
+        "question_text": "Describe one way in which timber can be produced sustainably.",
+        "context_text": "Timber can be produced sustainably to maintain biodiversity in woodland.",
+        "marks": 1,
+        "command_word": "Describe",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 2,
+          "sub": "c",
+          "sub_sub": null,
+          "full": "2(c)"
+        }
+      },
+      {
+        "full_question_number": "3(a)",
+        "main_question_number": 3,
+        "question_text": "Complete the sentences using the most appropriate words or phrases.",
+        "context_text": "Xylem vessels maintain the transpiration stream by transporting water up plant stems. The sentences describe the role of meristems in producing xylem vessels.",
+        "marks": 2,
+        "command_word": "Complete",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 3,
+          "sub": "a",
+          "sub_sub": null,
+          "full": "3(a)"
+        }
+      },
+      {
+        "full_question_number": "3(b)(i)",
+        "main_question_number": 3,
+        "question_text": "State and explain one safety precaution that the students should take when dissecting the vascular tissue.",
+        "context_text": "A pair of students dissect the vascular tissue of the primrose plant, Primula vulgaris.",
+        "marks": 2,
+        "command_word": "State",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 3,
+          "sub": "b",
+          "sub_sub": "i",
+          "full": "3(b)(i)"
+        }
+      },
+      {
+        "full_question_number": "3(b)(ii)",
+        "main_question_number": 3,
+        "question_text": "Calculate the actual diameter of the vascular bundle labelled V. Give your answer in mm and to 2 significant figures.",
+        "context_text": "This is a light micrograph of a transverse section through the stem of P. vulgaris.",
+        "marks": 2,
+        "command_word": "Calculate",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Light micrograph of a transverse section through the stem of P. vulgaris",
+        "image_page": 9,
+        "hierarchy": {
+          "main": 3,
+          "sub": "b",
+          "sub_sub": "ii",
+          "full": "3(b)(ii)"
+        }
+      },
+      {
+        "full_question_number": "3(c)(i)",
+        "main_question_number": 3,
+        "question_text": "Calculate the rate of transpiration, in mm³h⁻¹, during this preliminary trial.",
+        "context_text": "A scientist plans to investigate the effect of temperature on the rate of transpiration in P. vulgaris. The scientist uses a potometer in their investigation, as shown in the diagram below.",
+        "marks": 2,
+        "command_word": "Calculate",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Diagram of a potometer setup",
+        "image_page": 10,
+        "hierarchy": {
+          "main": 3,
+          "sub": "c",
+          "sub_sub": "i",
+          "full": "3(c)(i)"
+        }
+      },
+      {
+        "full_question_number": "3(c)(ii)",
+        "main_question_number": 3,
+        "question_text": "Describe how the scientist could use the potometer to collect the data needed to assess the effect of temperature on the rate of transpiration in P. vulgaris.",
+        "context_text": "A scientist plans to investigate the effect of temperature on the rate of transpiration in P. vulgaris.",
+        "marks": 6,
+        "command_word": "Describe",
+        "question_type": "extended_response",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 3,
+          "sub": "c",
+          "sub_sub": "ii",
+          "full": "3(c)(ii)"
+        }
+      },
+      {
+        "full_question_number": "3(d)",
+        "main_question_number": 3,
+        "question_text": "State and explain how the leaf of E. cinerea is adapted to limit water loss by transpiration.",
+        "context_text": "Many plants, such as Erica cinerea (bell heather), have evolved adaptations to limit water loss by transpiration.",
+        "marks": 2,
+        "command_word": "State",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Drawing of a leaf of E. cinerea",
+        "image_page": 12,
+        "hierarchy": {
+          "main": 3,
+          "sub": "d",
+          "sub_sub": null,
+          "full": "3(d)"
+        }
+      },
+      {
+        "full_question_number": "4(a)",
+        "main_question_number": 4,
+        "question_text": "Draw two circles on the diagram around the two parts of the molecule that bond to phosphate when phosphodiester bonds form in DNA.",
+        "context_text": "Respiration allows cells to carry out processes such as DNA replication.",
+        "marks": 2,
+        "command_word": "Draw",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Diagram showing a molecule of deoxyguanosine",
+        "image_page": 13,
+        "hierarchy": {
+          "main": 4,
+          "sub": "a",
+          "sub_sub": null,
+          "full": "4(a)"
+        }
+      },
+      {
+        "full_question_number": "4(b)",
+        "main_question_number": 4,
+        "question_text": "Outline why cellular respiration is necessary in cells that are carrying out DNA replication.",
+        "context_text": "Respiration allows cells to carry out processes such as DNA replication.",
+        "marks": 1,
+        "command_word": "Outline",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 4,
+          "sub": "b",
+          "sub_sub": null,
+          "full": "4(b)"
+        }
+      },
+      {
+        "full_question_number": "4(c)(i)",
+        "main_question_number": 4,
+        "question_text": "Explain what is likely to happen to the pH of the solution when light is shone on the chloroplasts.",
+        "context_text": "Chemiosmosis is a mechanism that is thought to occur in both respiration and photosynthesis.",
+        "marks": 2,
+        "command_word": "Explain",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 4,
+          "sub": "c",
+          "sub_sub": "i",
+          "full": "4(c)(i)"
+        }
+      },
+      {
+        "full_question_number": "4(c)(ii)",
+        "main_question_number": 4,
+        "question_text": "Explain what you would expect to observe in solution 2 and solution 3 after the transfer of the thylakoids.",
+        "context_text": "André Jagendorf provided evidence for chemiosmosis in an experiment carried out in the 1960s.",
+        "marks": 2,
+        "command_word": "Explain",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 4,
+          "sub": "c",
+          "sub_sub": "ii",
+          "full": "4(c)(ii)"
+        }
+      },
+      {
+        "full_question_number": "5(a)",
+        "main_question_number": 5,
+        "question_text": "Explain what conclusions can be drawn from the data in the table about the influence of the environment and genetics on the probability of developing diabetes.",
+        "context_text": "Type 1 diabetes mellitus is characterised by a lack of insulin production. Type 2 diabetes mellitus can involve reduced production of insulin and a decreased response to insulin.",
+        "marks": 6,
+        "command_word": "Explain",
+        "question_type": "extended_response",
+        "has_image": true,
+        "image_description": "Table showing percentage probability of both individuals in a pair of twins having the disease",
+        "image_page": 16,
+        "hierarchy": {
+          "main": 5,
+          "sub": "a",
+          "sub_sub": null,
+          "full": "5(a)"
+        }
+      },
+      {
+        "full_question_number": "5(b)",
+        "main_question_number": 5,
+        "question_text": "Identify the structures labelled A, B and C.",
+        "context_text": "Insulin is secreted from cells in the pancreas.",
+        "marks": 3,
+        "command_word": "Identify",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Photomicrograph of pancreatic tissue",
+        "image_page": 17,
+        "hierarchy": {
+          "main": 5,
+          "sub": "b",
+          "sub_sub": null,
+          "full": "5(b)"
+        }
+      },
+      {
+        "full_question_number": "5(c)",
+        "main_question_number": 5,
+        "question_text": "Plot the data from the table on the graph and draw a line of best fit.",
+        "context_text": "The graph shows the changes in the rate of insulin secretion in a person with type 2 diabetes after consuming glucose.",
+        "marks": 2,
+        "command_word": "Plot",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Graph and table showing changes in insulin secretion",
+        "image_page": 18,
+        "hierarchy": {
+          "main": 5,
+          "sub": "c",
+          "sub_sub": null,
+          "full": "5(c)"
+        }
+      },
+      {
+        "full_question_number": "5(d)",
+        "main_question_number": 5,
+        "question_text": "Complete the table by stating the level of protein structure (primary, secondary, tertiary or quaternary) to which the statement relates.",
+        "context_text": "The table lists statements about a molecule of insulin.",
+        "marks": 2,
+        "command_word": "Complete",
+        "question_type": "short_answer",
+        "has_image": true,
+        "image_description": "Table of statements and protein structure levels",
+        "image_page": 19,
+        "hierarchy": {
+          "main": 5,
+          "sub": "d",
+          "sub_sub": null,
+          "full": "5(d)"
+        }
+      },
+      {
+        "full_question_number": "5(e)(i)",
+        "main_question_number": 5,
+        "question_text": "State how a plasmid containing the gene coding for insulin can be transferred into a bacterial cell.",
+        "context_text": "Bacteria can be genetically modified to produce insulin.",
+        "marks": 1,
+        "command_word": "State",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 5,
+          "sub": "e",
+          "sub_sub": "i",
+          "full": "5(e)(i)"
+        }
+      },
+      {
+        "full_question_number": "5(e)(ii)",
+        "main_question_number": 5,
+        "question_text": "Suggest how bacterial cells can be screened to check if they have taken up a recombinant plasmid.",
+        "context_text": "Bacteria can be genetically modified to produce insulin.",
+        "marks": 1,
+        "command_word": "Suggest",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 5,
+          "sub": "e",
+          "sub_sub": "ii",
+          "full": "5(e)(ii)"
+        }
+      },
+      {
+        "full_question_number": "5(f)(i)",
+        "main_question_number": 5,
+        "question_text": "State a feature of stem cells that allows them to be used to produce pancreatic β-cells.",
+        "context_text": "In the future, type 1 diabetes could be treated by giving patients new pancreatic β-cells that have been produced in a laboratory from stem cells.",
+        "marks": 1,
+        "command_word": "State",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 5,
+          "sub": "f",
+          "sub_sub": "i",
+          "full": "5(f)(i)"
+        }
+      },
+      {
+        "full_question_number": "5(f)(ii)",
+        "main_question_number": 5,
+        "question_text": "Explain why patients receiving these new β-cells would still need to be given immunosuppressant drugs.",
+        "context_text": "In the future, type 1 diabetes could be treated by giving patients new pancreatic β-cells that have been produced in a laboratory from stem cells.",
+        "marks": 1,
+        "command_word": "Explain",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 5,
+          "sub": "f",
+          "sub_sub": "ii",
+          "full": "5(f)(ii)"
+        }
+      },
+      {
+        "full_question_number": "6(a)",
+        "main_question_number": 6,
+        "question_text": "Describe how artificial clones of plants are produced using micropropagation.",
+        "context_text": "Plants can be cloned and propagated in horticulture and agriculture.",
+        "marks": 4,
+        "command_word": "Describe",
+        "question_type": "extended_response",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 6,
+          "sub": "a",
+          "sub_sub": null,
+          "full": "6(a)"
+        }
+      },
+      {
+        "full_question_number": "6(b)",
+        "main_question_number": 6,
+        "question_text": "State one disease that can infect potato plants and state the type of pathogen that causes the disease.",
+        "context_text": "Potato plants can be naturally cloned from tubers. Many diseases can infect potato plants.",
+        "marks": 2,
+        "command_word": "State",
+        "question_type": "short_answer",
+        "has_image": false,
+        "image_description": "",
+        "image_page": null,
+        "hierarchy": {
+          "main": 6,
+          "sub": "b",
+          "sub_sub": null,
+          "full": "6(b)"
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 21849,
+      "completion_tokens": 3609,
+      "total_tokens": 25458
+    }
+  }
+}

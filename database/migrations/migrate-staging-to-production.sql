@@ -16,14 +16,15 @@ ON CONFLICT (code) DO UPDATE SET
 -- ========================================
 -- STEP 2: Ensure qualification types exist
 -- ========================================
-INSERT INTO qualification_types (code, full_name)
+INSERT INTO qualification_types (code, name)
 VALUES 
   ('A_LEVEL', 'A-Level'),
   ('GCSE', 'GCSE'),
   ('INTERNATIONAL_GCSE', 'International GCSE'),
-  ('INTERNATIONAL_A_LEVEL', 'International A-Level')
+  ('INTERNATIONAL_A_LEVEL', 'International A-Level'),
+  ('BTEC_NATIONALS_L3', 'BTEC Nationals (Level 3)')
 ON CONFLICT (code) DO UPDATE SET
-  full_name = EXCLUDED.full_name;
+  name = EXCLUDED.name;
 
 -- ========================================
 -- STEP 3: Migrate Subjects (staging → production)
@@ -56,6 +57,7 @@ SELECT
       WHEN 'GCSE' THEN 'GCSE'
       WHEN 'International-GCSE' THEN 'INTERNATIONAL_GCSE'
       WHEN 'International-A-Level' THEN 'INTERNATIONAL_A_LEVEL'
+      WHEN 'BTEC_NATIONALS_L3' THEN 'BTEC_NATIONALS_L3'
       ELSE 'A_LEVEL'
     END
   ),

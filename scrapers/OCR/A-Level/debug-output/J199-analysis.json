@@ -1,0 +1,50 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": true,
+        "compulsory": [],
+        "optional": [
+            "Myth and Religion (J199/11)",
+            "Women in the Ancient World (J199/12)",
+            "The Homeric World (J199/21)",
+            "Roman City Life (J199/22)",
+            "War and Warfare (J199/23)"
+        ]
+    },
+    "texts": {
+        "has_texts": true,
+        "text_locations": [
+            "Content of Myth and Religion (J199/11)"
+        ],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": [
+            "Thematic Study",
+            "Literature and Culture"
+        ],
+        "organization": "Components are organized into two main groups, each with optional components to choose from.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "Thematic Study",
+            "Literature and Culture"
+        ],
+        "content_mapping": {
+            "Thematic Study": "Myth and Religion or Women in the Ancient World",
+            "Literature and Culture": "The Homeric World, Roman City Life, or War and Warfare"
+        },
+        "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the structure of components and their respective content, ensuring optional components are clearly identified."
+}
+```

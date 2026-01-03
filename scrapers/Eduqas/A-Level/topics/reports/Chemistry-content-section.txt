@@ -1,0 +1,1803 @@
+Subject content is defined in three sections:
+ Core Ideas, Principles and Concepts (outlines the content required as the
+foundation on which deeper understanding is built in subsequent study)
+Topic C1 The language of chemistry and structure of matter
+Topic C2 Chemical change
+Topic C3 Chemistry of carbon compounds
+ Physical and Inorganic Chemistry
+Topic PI1 Electrochemistry
+Topic PI2 More complex patterns of the Periodic Table
+Topic PI3 Chemical kinetics
+Topic PI4 Energy changes
+Topic PI5 Equilibria
+ Organic Chemistry and Analysis
+Topic OA1 Higher concepts in organic chemistry
+Topic OA2 Organic compounds containing oxygen
+Topic OA3 Organic compounds containing nitrogen
+Topic OA4 Organic synthesis and analysis
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 7
+CORE IDEAS, PRINCIPLES AND CONCEPTS
+Topic C1 The language of chemistry and structure of matter
+C1.1 Formulae and equations
+C1.2 Basic ideas about atoms
+C1.3 Chemical calculations
+C1.4 Bonding
+C1.5 Solid structures
+C1.6 The Periodic Table
+C1.1 Formulae and equations
+Overview
+The ability to represent reactions using chemical formulae and equations is an essential part
+of communicating knowledge and understanding in chemistry. This skill is of course
+required throughout the specification.
+Mathematical Skills
+Leaners will develop their ability to use ratios by writing chemical formulae and constructing
+balanced chemical equations.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) formulae of common compounds and common ions and how to write formulae for
+ionic compounds
+(b) oxidation numbers of atoms in a compound or ion
+(c) how to construct balanced chemical equations, including ionic equations, with
+appropriate use of state symbols
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 8
+C1.2 Basic ideas about atoms
+Overview
+The study of the structure of the atom is essential to understanding chemical reactions and
+radioactivity. There is an opportunity here to consider how the model of the atom has
+developed over time and how different models can be useful in explaining different
+observations.
+Mathematical Skills
+Learners will develop their ability to:
+use ratios by solving problems on half-life of radioactive decay;
+use expressions in decimal and standard form, use powers, change the subject of an
+equation and substitute values into an equation in frequency/energy calculations.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+know that scientific knowledge and understanding develops over time;
+consider applications and implications of science and evaluate their associated benefits and
+risks;
+consider ethical issues in the treatment of humans, other organisms and the environment.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) nature of radioactive decay and the resulting changes in atomic number and mass
+number (including positron emission and electron capture)
+(b) behaviour of α-, β- and γ-radiation in electric and magnetic fields and their relative
+penetrating power
+(c) half-life of radioactive decay
+(d) adverse consequences for living cells of exposure to radiation and use of radioisotopes in
+many contexts, including health, medicine, radio-dating, industry and analysis
+(e) significance of standard molar ionisation energies of gaseous atoms and their
+variation from one element to another
+(f) link between successive ionisation energy values and electronic structure
+(g) shapes of s- and p-orbitals and order of s-, p- and d-orbital occupation for elements
+1-36
+(h) origin of emission and absorption spectra in terms of electron transitions between
+atomic energy levels
+(i) atomic emission spectrum of the hydrogen atom
+(j) relationship between energy and frequency (E = hf) and that between frequency and
+wavelength (f = c/λ)
+(k) order of increasing energy of infrared, visible and ultraviolet light
+(l) significance of the frequency of the convergence limit of the Lyman series and its
+relationship with the ionisation energy of the hydrogen atom
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 9
+C1.3 Chemical calculations
+Overview
+An understanding of the amount of substance is fundamental to all chemical reactions. The
+majority of calculations appearing here are relevant throughout the course.
+Mathematical Skills
+Learners will develop their ability to:
+find arithmetic means by calculating relative atomic mass from mass spectrum data
+use ratios and percentages by solving empirical formula problems and calculating atom
+economy and yield of a reaction;
+recognise and make use of units in calculations involving amounts of substance;
+use powers in calculations using the Avogadro constant;
+change the subject of an equation and substitute values into an equation in calculations
+relating to acid-base titrations and ideal gases;
+estimate approximate volume required to reach a titration end-point;
+select appropriate data to calculate mean titres;
+use an appropriate number of significant figures in all calculations;
+identify uncertainty in acid-base titration data.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) relative mass terms (atomic, isotopic, formula, molecular)
+(b) principles of the mass spectrometer and its use in determining relative atomic mass
+and relative abundance of isotopes
+(c) simple mass spectra, for example, that of chlorine gas
+(d) how empirical and molecular formulae can be determined from given data
+(e) relationship between the Avogadro constant, the mole and molar mass
+(f) relationship between grams and moles
+(g) concept of concentration and its expression in terms of grams or moles per unit
+volume (including solubility)
+(h) molar volume and correction due to changes in temperature and pressure
+(i) ideal gas equation (pV = nRT)
+(j) concept of stoichiometry and its use in calculating reacting quantities, including in
+acid-base titrations
+(k) concepts of atom economy and percentage yield
+(l) how to estimate the percentage error in a measurement and use this to express
+numeric answers to the appropriate number of significant figures
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 10
+C1.4 Bonding
+Overview
+An understanding of bonding is fundamental in explaining why chemical reactions happen.
+This topic considers the electronic changes that take place in the formation of stable
+structures. These ideas will be referred to throughout the specification.
+Mathematical Skills
+Leaners will develop their ability to predict bond angles and shapes of molecules and to
+represent these shapes in 2D and 3D.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) ionic bonding in terms of ion formation and the interaction between positive and
+negative ions in an ionic crystal
+(b) covalent bonding, including coordinate bonding, in terms of the sharing of electrons
+and the balance of forces of attraction and repulsion within the molecule
+(c) intermediate character of many bonds between purely ionic and purely covalent
+(d) concepts of electronegativity and bond polarity
+(e) forces between molecules being much weaker than covalent (and ionic) bonds
+(f) permanent and temporary dipoles and their relative effects on physical properties,
+such as boiling temperature and solubility
+(g) hydrogen bonding and its effect on physical properties, such as boiling temperature
+and solubility
+(h) VSEPR principle and its use in predicting the shapes of simple molecules and ions
+(i) bond angles associated with linear, trigonal planar, tetrahedral and octahedral
+molecules and ions
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 11
+C1.5 Solid structures
+Overview
+This section relates the structures and properties of different types of solids to the bonding
+present within them. A thorough understanding of the differences between atoms, ions and
+molecules and of the difference between interactions within and between molecules is
+essential. A broader understanding could be developed by looking at the structures and
+properties of novel materials such as smart materials and ‘bucky ball’ structures.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+communicate information and ideas in appropriate ways using appropriate terminology;
+evaluate the role of the scientific community in validating new knowledge and ensuring
+integrity.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) crystal structures of sodium chloride and caesium chloride
+(b) structures of diamond and graphite
+(c) structures of iodine and ice
+(d) ‘electron sea’ model for bonding in metals
+(e) relationship between physical properties (for example, melting temperature, solubility,
+hardness and electrical conductance) and structure and bonding in ionic compounds,
+giant molecular substances, simple molecular substances and metals
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 12
+C1.6 The Periodic Table
+Overview
+The location of the elements in the Periodic Table can be explained by their atomic structure,
+which in turn can be utilised to explain trends and patterns down groups and across periods.
+Consideration should be given to the fact that the modern form of the Periodic Table
+developed over time with separate advances made by several scientists. There are ample
+opportunities here to carry out a range of practical work, including qualitative and
+quantitative problem-solving tasks. Recall of reactions studied at GCSE is assumed prior
+knowledge, e.g., Group 1 metals with water and Group 2 metals with dilute acids.
+Mathematical Skills
+Learners will develop their ability to change the subject of an equation and substitute values
+into an equation in calculations relating to gravimetric analysis.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas;
+carry out experimental and investigative activities;
+know that scientific knowledge and understanding develops over time.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) elements being arranged according to atomic number in the Periodic Table
+(b) electronic structures of the elements relate to their position in the s-, p- and d-blocks
+of the Periodic Table
+(c) oxidation and reduction in terms of electron transfer in reactions of s-, p- and d-block
+elements/compounds/ions
+(d) general trends in ionisation energy, melting temperature and electronegativity across
+periods and down groups
+(e) reactions of Group 2 elements with oxygen and water/steam
+(f) reactions of the aqueous cations Mg2+, Ca2+ and Ba2+ with OH‒, CO 2‒ and SO 2‒ ions
+3 4
+(g) characteristic flame colours shown by compounds of Li, Na, K, Ca, Sr and Ba
+(Mg compounds show no colour)
+(h) trend in general reactivity of Group 1 and Group 2 metals
+(i) trend in thermal stability of the Group 2 carbonates and hydroxides
+(j) trends in solubility of Group 2 hydroxides and sulfates
+(k) basic character of the oxides and hydroxides of Group 1 and Group 2 metals
+(l) trend in volatility of Group 7 elements (halogens)
+(m) reactions of the halogens with metals
+(n) trend in reactivity of the halogens in terms of relative oxidising power
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 13
+(o) reaction between aqueous Ag+ and halide ions followed by dilute aqueous NH
+3
+(p) displacement reactions of halogens in terms of redox
+(q) use of chlorine and fluoride ions in water treatment and the related health and ethical
+issues
+(r) soluble salt formation and crystallisation, insoluble salt formation by precipitation and
+simple gravimetric analysis
+SPECIFIED PRACTICAL WORK
+ Gravimetric analysis, for example, by precipitation of a Group 2 metal carbonate or a
+metal chloride
+ Identification of unknown solutions by qualitative analysis
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 14
+Topic C2 Chemical change
+C2.1 Simple equilibria and acid-base reactions
+C2.2 Thermochemistry
+C2.3 Rates of reaction
+C2.4 The wider impact of chemistry
+C2.1 Simple equilibria and acid-base reactions
+Overview
+The concept of equilibrium could be introduced in the context of industrial processes such as
+the Haber and contact processes and developed in more depth by consideration of the
+effects of ocean acidification on the carbonate/hydrogencarbonate system. Acid-base
+reactions provide extensive opportunities for quantitative practical work linking with key
+chemical calculations. Recall of the reactions of dilute acids with bases and carbonates is
+assumed prior knowledge.
+Mathematical Skills
+Learners will develop their ability to:
+estimate results when evaluating the effect of changing temperature on the value of K ;
+c
+change the subject of an equation and substitute values into an equation in calculations
+relating to acid-base titrations and equilibrium constant, K ;
+c
+estimate approximate volume required to reach a titration end-point;
+select appropriate data to calculate mean titres;
+use an appropriate number of significant figures in all calculations;
+identify uncertainty in acid-base titration data;
+use a calculator to solve logarithmic functions in simple pH calculations.
+How Science Works
+There are opportunities here for learners to:
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas;
+use appropriate methodology, including information and communication technology, to
+answer scientific questions and solve scientific problems;
+carry out experimental and investigative activities, including appropriate risk management, in
+a range of contexts.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) reversible reactions and dynamic equilibrium
+(b) Le Chatelier’s principle in deducing the effect of changes in temperature,
+concentration and pressure
+(c) equilibrium constant (K ) and calculations involving given equilibrium concentrations
+c
+(d) acids as donors of H+(aq) and bases as acceptors of H+(aq)
+(e) relationship between pH and H+(aq) ion concentration (pH = ‒log[H+(aq)])
+(f) acid-base titrations
+(g) difference between strong acids and weak acids in terms of relative dissociation
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 15
+SPECIFIED PRACTICAL WORK
+ Preparation of a soluble salt by titration
+ Standardisation of an acid solution
+ Back titration, for example, determination of the percentage of calcium carbonate in
+limestone
+ Double titration, for example, analysis of a mixture of sodium hydroxide and sodium
+carbonate
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 16
+C2.2 Thermochemistry
+Overview
+A quantitative approach to the energy changes taking place during both chemical and
+physical processes is used to explain why some changes are exothermic and others
+endothermic. This is supported by a variety of practical work which offers opportunities for
+evaluation of methodology and data.
+Mathematical Skills
+Learners will develop their ability to:
+change the subject of an equation, substitute values into an equation and solve algebraic
+equations in Hess’s law calculations and in calculating enthalpy changes from experimental
+data;
+translate information between graphical and numerical data and plot data from simple
+procedures to determine enthalpy changes.
+How Science Works
+There are opportunities here for learners to:
+use appropriate methodology, including information and communication technology, to
+answer scientific questions and solve scientific problems;
+carry out experimental and investigative activities, including appropriate risk management, in
+a range of contexts;
+evaluate methodology, evidence and data, and resolve conflicting evidence.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) enthalpy change of reaction, enthalpy change of combustion and standard molar
+enthalpy change of formation, ΔHϴ
+f
+(b) Hess’s law and energy cycles
+(c) concept of average bond enthalpies and how they are used to carry out simple
+calculations
+(d) how to calculate enthalpy changes
+(e) simple procedures to determine enthalpy changes
+SPECIFIED PRACTICAL WORK
+ Indirect determination of an enthalpy change of reaction, for example, for magnesium
+oxide and carbon dioxide to form magnesium carbonate
+ Determination of an enthalpy change of combustion
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 17
+C2.3 Rates of reaction
+Overview
+Chemical reactions are monitored in various ways to determine rates of reaction. A particle
+approach is used to explain changes to rate during a reaction and changes occurring as a
+result of varying conditions. Practical work here presents the opportunity to plan a range of
+approaches and data collection methods and therefore good scope for evaluation.
+Mathematical Skills
+Learners will develop their ability to translate information between graphical and numerical
+data, plot data from simple procedures and find gradients in determining reaction rate.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas;
+use appropriate methodology, including information and communication technology, to
+answer scientific questions and solve scientific problems;
+carry out experimental and investigative activities, including appropriate risk management, in
+a range of contexts;
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships;
+evaluate methodology, evidence and data, and resolve conflicting evidence.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) collision theory in explaining the effects of changing conditions on reaction rate
+(b) how to calculate rates from experimental data and how to establish the relationship
+between reactant concentrations and rate
+(c) concepts of energy profiles and activation energy
+(d) rapid increase in rate with temperature in terms of changes in the Boltzmann energy
+distribution curve
+(e) characteristics of a catalyst
+(f) how catalysts increase reaction rates by providing alternative routes of lower
+activation energy
+(g) how colorimetry can be used in studies of some reaction rates
+(h) measurement of reaction rate by gas collection and precipitation methods and by an
+‘iodine clock’ reaction
+SPECIFIED PRACTICAL WORK
+ Investigation of a rate of reaction by a gas collection method
+ Study of an ‘iodine clock’ reaction
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 18
+C2.4 The wider impact of chemistry
+Overview
+This is an opportunity to reflect on how an understanding of chemical principles can be used
+to inform judgements on the correct balance between exploiting the Earth’s natural
+resources and ensuring that future generations will not be adversely affected by our
+decisions. Should we develop the technologies to extract shale gas reserves in order to
+satisfy energy needs or should low-carbon energy be the focus?
+How Science Works
+There are opportunities here for learners to:
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas;
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships;
+consider applications and implications of science and evaluate their associated benefits and
+risks;
+consider ethical issues in the treatment of humans, other organisms and the environment;
+evaluate the role of the scientific community in validating new knowledge and ensuring
+integrity.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) social, economic and environmental impact of chemical synthesis and the production
+of energy
+(b) role of green chemistry in improving sustainability in all aspects of developments
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 19
+Topic C3 Chemistry of carbon compounds
+C3.1 Organic compounds
+C3.2 Hydrocarbons
+C3.3 Halogenoalkanes
+C3.4 Alcohols and carboxylic acids
+C3.5 Instrumental analysis
+C3.1 Organic compounds
+Overview
+This topic provides the foundation skills and knowledge, including the representation and
+naming of organic structures, required to study organic chemistry.
+Mathematical Skills
+Learners will develop their ability to represent 3D forms in 2D and 3D in exploring structural
+isomerism.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) how to represent simple organic compounds using shortened, displayed and skeletal
+formulae
+(b) nomenclature rules relating to alkanes, alkenes, halogenoalkanes, alcohols and
+carboxylic acids
+(c) effect of increasing chain length and the presence of functional groups on
+melting/boiling temperature and solubility
+(d) concept of structural isomerism
+(e) description of species as electrophiles, nucleophiles and radicals and bond fission as
+homolytic or heterolytic
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 20
+C3.2 Hydrocarbons
+Overview
+This topic considers saturated and unsaturated hydrocarbons derived from the petroleum
+industry and their respective uses as fuels and in making plastics. Particular attention is
+given to understanding the very different ways is which alkanes and alkenes react.
+Mathematical Skills
+Learners will develop their ability to understand the symmetry of 3D shapes in studying E–Z
+isomerism.
+How Science Works
+There are opportunities here for learners to:
+communicate information and ideas in appropriate ways using appropriate terminology;
+consider applications and implications of science and evaluate their associated benefits and
+risks;
+consider ethical issues in the treatment of humans, other organisms and the environment
+evaluate the ways in which society uses science to inform decision making.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) combustion reaction of alkanes and benefits and drawbacks relating to the use of
+fossil fuels, including formation of carbon dioxide, acidic gases and carbon monoxide
+(b) C—C and C—H bonds in alkanes as σ-bonds
+(c) mechanism of radical substitution, such as the photochlorination of alkanes
+(d) difference in reactivity between alkanes and alkenes in terms of the C=C bond as a
+region of high electron density
+(e) C=C bond in ethene and other alkenes as comprising π-bond and σ-bond
+(f) E–Z isomerism in terms of restricted rotation about a carbon-carbon double bond
+(g) mechanism of electrophilic addition, such as in the addition of Br to ethene, as a
+2
+characteristic reaction of alkenes
+(h) bromine/bromine water and potassium manganate(VII) tests for alkenes
+(i) orientation of the normal addition of HBr to propene in terms of the relative stabilities
+of the possible carbocations involved
+(j) conditions required for the catalytic hydrogenation of ethene and relevance of this
+reaction
+(k) nature of addition polymerisation and the economic importance of the polymers of
+alkenes and substituted alkenes
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 21
+C3.3 Halogenoalkanes
+Overview
+Nucleophilic substitution, including the factors that affect its rate, is considered here as the
+characteristic reaction of halogenoalkanes. This type of reaction is an important step in
+chemical synthesis and is carried out in the laboratory by refluxing. Important properties of
+halogenoalkanes are also discussed.
+How Science Works
+There are opportunities here for learners to:
+carry out experimental and investigative activities, including appropriate risk assessments;
+communicate information and ideas in appropriate ways using appropriate terminology;
+consider applications and implications of science and evaluate their associated benefits and
+risks;
+consider ethical issues in the treatment of humans, other organisms and the environment
+evaluate the ways in which society uses science to inform decision making.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) elimination reaction of halogenoalkanes forming alkenes, for example, HBr
+eliminated from 1-bromopropane to form propene
+(b) mechanism of nucleophilic substitution, such as in reaction between OH‒(aq) and
+primary halogenoalkanes
+(c) effect of bond polarity and bond enthalpy on the ease of substitution of
+halogenoalkanes
+(d) hydrolysis/Ag+(aq) test for halogenoalkanes
+(e) halogenoalkanes as solvents, anaesthetics and refrigerants, and tight regulation of
+their use due to toxicity or adverse environmental effects
+(f) adverse environmental effects of CFCs and the relevance of the relative bond
+strengths of C‒H, C‒F and C‒Cl in determining their impact in the upper atmosphere
+(g) how to carry out a reflux (for example, for nucleophilic substitution reaction of
+halogenoalkanes with hydroxide ions)
+SPECIFIED PRACTICAL WORK
+ Nucleophilic substitution reaction, for example, 1-bromobutane with aqueous sodium
+hydroxide
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 22
+C3.4 Alcohols and carboxylic acids
+Overview
+Reactions of two groups of oxygen-containing compounds are considered here, including the
+oxidation of an alcohol to a carboxylic acid and the reaction of one with the other to form an
+ester. Each of these reactions can be carried out in the laboratory. This is the first
+opportunity to use a distillation apparatus.
+How Science Works
+There are opportunities here for learners to carry out experimental and investigative
+activities, including appropriate risk assessments.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) industrial preparation of ethanol from ethene
+(b) preparation of ethanol and other alcohols by fermentation followed by distillation, and
+issues relating to the use of biofuels
+(c) dehydration reactions of alcohols
+(d) classification of alcohols as primary, secondary and tertiary
+(e) oxidation of primary alcohols to aldehydes/carboxylic acids and secondary alcohols
+to ketones
+(f) dichromate(VI) test for primary/secondary alcohols and sodium hydrogencarbonate
+test for carboxylic acids
+(g) reactions of carboxylic acids with bases, carbonates and hydrogencarbonates
+forming salts
+(h) esterification reaction that occurs when a carboxylic acid reacts with an alcohol
+(i) separation by distillation
+SPECIFIED PRACTICAL WORK
+ Preparation of an ester and separation by distillation
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 23
+C3.5 Instrumental analysis
+Overview
+An introduction to the spectroscopic techniques that have replaced chemical tests in many
+applications in recent years, e.g. in the drivers’ breathalyser test. The focus here should be
+on data interpretation in order to identify a compound’s key characteristics and to draw
+conclusions together in finding its structure.
+Mathematical Skills
+Learners will develop their ability to translate information between graphical and numerical
+forms while analysing and interpreting spectra.
+How Science Works
+There are opportunities here for learners to:
+use appropriate methodology, including information and communication technology (ICT) to
+answer scientific questions and solve scientific problems
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) use of mass spectra in identification of chemical structure
+(b) use of IR spectra in identification of chemical structure
+(c) use of 13C and low resolution 1H NMR spectra in identification of chemical structure
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 24
+PHYSICAL AND INORGANIC CHEMISTRY
+Topic PI1 Electrochemistry
+PI1.1 Redox and standard electrode potential
+PI1.2 Redox reactions
+PI1.1 Redox and standard electrode potential
+Overview
+This topic develops the links between position in the Periodic Table, reactivity and redox
+reactions. There are opportunities here to consider developments in cell technologies and
+the corrosion of metals, including iron, and its economic impact.
+Mathematical Skills
+Learners will develop their ability to solve algebraic equations in calculating cell values for
+cell EMF.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas
+carry out experimental and investigative activities, including appropriate risk assessments;
+communicate information and ideas in appropriate ways using appropriate terminology;
+consider applications and implications of science and evaluate their associated benefits and
+risks;
+evaluate the role of the scientific community in validating new knowledge and ensuring
+integrity.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) redox reactions in terms of electron transfer
+(b) how to represent redox systems in terms of ion/electron half-equations and as half-
+cells in cell diagrams
+(c) concept of standard electrode potential and role of the standard hydrogen electrode
+(d) how simple electrochemical cells are formed by combining electrodes (metal/metal
+ion electrodes and electrodes based on different oxidation states of the same
+element)
+(e) concept of cell EMF and its significance in terms of the feasibility of reactions
+(f) principles of the hydrogen fuel cell and its benefits and drawbacks
+SPECIFIED PRACTICAL WORK
+ Construction of electrochemical cells and measurement of E
+cell
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 25
+PI1.2 Redox reactions
+Overview
+Further development of the understanding of redox reactions encompassing theoretical and
+practical aspects of titrimetric analysis. Many of these reactions are self-indicating as a
+result of involving d-block compounds. They are very useful in analysis in many
+environmental and industrial contexts.
+Mathematical Skills
+Learners will develop their ability to:
+recognise and make use of units in calculations involving amounts of substance;
+change the subject of an equation, substitute values into an equation and solve algebraic
+equations in calculations relating to redox titrations;
+estimate approximate volume required to reach a titration end-point;
+select appropriate data to calculate mean titres;
+use an appropriate number of significant figures in all calculations;
+identify uncertainty in redox titration data.
+How Science Works
+There are opportunities here for learners to:
+use appropriate methodology, including information and communication technology (ICT) to
+answer scientific questions and solve scientific problems
+carry out experimental and investigative activities, including appropriate risk assessments;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) how to construct ion/electron half-equations, for example, for the reduction of
+acidified Cr O 2‒ to Cr3+ and acidified MnO ‒ to Mn2+ and the oxidation of S O 2‒ to
+2 7 4 2 3
+S O 2‒
+4 6
+(b) how to combine half-equations to give a stoichiometric redox equation
+(c) redox reaction between Cu2+ and I‒ and the determination of the liberated iodine with
+S O 2‒
+2 3
+(d) how to carry out a redox titration
+SPECIFIED PRACTICAL WORK
+ Simple redox titration
+ Estimation of copper in copper(II) salts
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 26
+Topic PI2 More complex patterns of the Periodic Table
+PI2.1 Chemistry of the p-block
+PI2.2 Chemistry of the d-block transition metals
+PI2.1 Chemistry of the p-block
+Overview
+This topic develops a deeper understanding of the role of electronic configuration in trends in
+reactivity – from non-metallic behaviour at the top of groups to metallic behaviour at the
+bottom. The amphoteric nature of some elements can be seen in simple test tube reactions
+and are useful in exercises to identify unknown compounds.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+carry out experimental and investigative activities, including appropriate risk assessments;
+communicate information and ideas in appropriate ways using appropriate terminology;
+consider applications and implications of science and evaluate their associated benefits and
+risks.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) amphoteric behaviour of p-block elements as demonstrated by the reactions of
+Al3+/Al and Pb2+/Pb
+(b) increasing stability of the inert pair cations on descent of Groups 3, 4 and 5
+(c) how some Group 3 elements can form compounds with fewer than eight electrons in
+their valence shells and some elements of Groups 5, 6 and 7 can form compounds
+with more than eight
+(d) structure and bonding in Al Cl and formation of donor-acceptor compounds such as
+2 6
+NH .BF
+3 3
+(e) bonding and structure in hexagonal and cubic boron nitride and how these relate to
+their properties and uses
+(f) change in relative stability of oxidation states II and IV down Group 4 as shown by
+reactions of CO as a reducing agent with oxides and Pb(IV) as an oxidising agent in
+the reaction of PbO with concentrated hydrochloric acid
+2
+(g) nature, physical properties and acid-base properties of CO and PbO
+2
+(h) change in the types of bonding down Group 4 as shown by the chlorides CCl , SiCl
+4 4
+and PbCl and their reactions with water
+2
+(i) reactions of Pb2+(aq) with aqueous NaOH, Cl‒ and I‒
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 27
+(j) reactions of Cl with both cold and warm aqueous NaOH and the various
+2
+disproportionation reactions involved
+(k) bleaching and bactericidal action of Cl and chlorate(I) (ClO‒) resulting from their
+2
+oxidising power
+(l) differences in behaviour of NaCl, NaBr and NaI with concentrated sulfuric acid
+(formation and subsequent reactions of HX)
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 28
+PI2.2 Chemistry of the d-block transition metals
+Overview
+A study of the defining properties of transition metals and their compounds focusing on
+understanding the origin of colour in their complexes and their catalytic activity which is so
+important in industrial processes.
+Mathematical Skills
+Learners will develop their ability to predict bond angles in octahedral and tetrahedral
+complexes and to represent these shapes in 3D.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+communicate information and ideas in appropriate ways using appropriate terminology;
+consider applications and implications of science and evaluate their associated benefits and
+risks.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) how the d-block elements attain various oxidation states in their compounds
+(b) the most important oxidation states of Cr, Mn, Fe, Co and Cu and the colours of
+aqueous solutions of compounds containing Cr3+, CrO 2‒, Cr O 2‒, MnO ‒, Co2+, Fe2+,
+4 2 7 4
+Fe3+ and Cu2+
+(c) bonding in tetrahedral and octahedral complexes
+(d) origin of colour in transition metal complexes, as exemplified by octahedral 6-
+coordinate species such as [Cu(H O) ]2+ and [Fe(H O) ]3+, in terms of the splitting of
+2 6 2 6
+d-orbitals
+(e) idea of ligand exchange and how this can lead to a change in coordination number
+as exemplified by the reactions of [Cu(H O) ]2+ and [Co(H O) ]2+ with concentrated
+2 6 2 6
+HCl
+(f) colours and formulae of the approximately octahedral complex ions [Cu(H O) ]2+,
+2 6
+[Cu(NH ) (H O) ]2+ and [Co(H O) ]2+ and the approximately tetrahedral ions [CuCl ]2‒
+3 4 2 2 2 6 4
+and [CoCl ]2–
+4
+(g) catalytic properties of many transition metals and their compounds; heterogeneous
+catalysis as a result of surface adsorption and homogeneous catalysis as a result of
+variable oxidation state
+(h) nickel and iron as the catalysts used in the hydrogenation of alkenes and the Haber
+process respectively
+(i) vanadium(V) oxide as the catalyst used in the contact process and manganese(IV)
+oxide as an effective catalyst for the decomposition of hydrogen peroxide
+(j) reactions of Cr3+, Fe2+, Fe3+ and Cu2+ with excess aqueous OH‒
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 29
+Topic PI3 Chemical kinetics
+Overview
+This topic develops a quantitative approach to measurement of reaction rates and an
+understanding of the use of rate information in the wider context of reaction mechanism.
+Mathematical Skills
+Learners will develop their ability to:
+make use of appropriate units and decimal and standard form;
+use ratios to establish reaction order from experimental results;
+change the subject of an equation, substitute values into an equation and solve algebraic
+equations in using the general rate equation;
+translate information between graphical, numerical and algebraic forms, plot variables from
+experimental data, use the slope of a straight line and the tangent of a curve in rate
+calculations;
+determine the slope and intercept of a linear graph and use logarithms in problems based on
+the Arrhenius equation.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas
+use appropriate methodology, including information and communication technology (ICT) to
+answer scientific questions and solve scientific problems
+carry out experimental and investigative activities, including appropriate risk assessments;
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships;
+evaluate methodology, evidence and data, and resolve conflicting evidence;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) principles underlying the measurement of reaction rate by sampling and quenching
+(b) how reaction order is found from experimental results
+(c) the general rate equation and how it is used
+(d) concept of a rate determining step
+(e) link between reaction kinetics and mechanism
+(f) the Arrhenius equation to show the effect of changing temperature and the use of a
+catalyst on the rate constant, and to find the activation energy and frequency factor of
+a reaction
+SPECIFIED PRACTICAL WORK
+ Determination of the order of a reaction, for example, the oxidation of iodide ions by
+hydrogen peroxide in acid solution
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 30
+Topic PI4 Energy changes
+PI4.1 Enthalpy changes for solids and solutions
+PI4.2 Entropy and feasibility of reactions
+PI4.1 Enthalpy changes for solids and solutions
+Overview
+A more quantitative approach to the enthalpy changes involved in the formation of ionic
+compounds and in dissolving them in water. It leads on to asking why endothermic changes
+occur, e.g. why is ammonium chloride soluble?
+Mathematical Skills
+Learners will develop their ability to:
+substitute values into an equation and solve algebraic equations in calculations relating to
+solubility and Born-Haber cycles;
+translate information between graphical, numerical and algebraic forms in constructing and
+using Born-Haber cycles.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) enthalpy changes of atomisation, lattice formation and breaking, hydration and
+solution
+(b) how solubility of ionic compounds in water (enthalpy change of solution) depends on
+the balance between the enthalpy change of lattice breaking and the hydration
+enthalpies of the ions
+(c) processes involved in the formation of simple ionic compounds as described in a
+Born-Haber cycle
+(d) exothermicity or endothermicity of ΔHϴ as a qualitative indicator of a compound’s
+f
+stability
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 31
+PI4.2 Entropy and feasibility of reactions
+Overview
+This topic introduces entropy. It leads to an appreciation that both enthalpy and entropy
+influence the spontaneity of a reaction and that it is the value of the Gibbs free energy
+change that is required to predict whether or not a reaction occurs at a given temperature.
+Mathematical Skills
+Learners will develop their ability to:
+recognise and make use of appropriate units in calculating entropy and Gibbs energy;
+substitute values into an equation using appropriate units in calculating entropy and Gibbs
+energy;
+change the subject of an equation and solve algebraic equations in applying the Gibbs
+equation.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) entropy, S, of a system as a measure of the freedom possessed by particles within it
+and the increase in entropy towards a maximum for all natural changes
+(b) particles in a solid having much less freedom than those in a gas and that, other
+factors being equal, entropy increasing in the sequence S(gas) > S(liquid) > S(solid)
+(c) how to calculate an entropy change from absolute entropy values, ΔS = S – S
+final initial
+(d) concept of Gibbs free energy change and how it is calculated using the relationship,
+ΔG = ΔH – TΔS
+(e) spontaneous reactions having a negative value for ΔG and how the effect of entropy
+change explains the spontaneous occurrence of endothermic processes
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 32
+Topic PI5 Equilibria
+PI5.1 Equilibrium constants
+PI5.2 Acid-base equilibria
+PI5.1 Equilibrium constants
+Overview
+This topic introduces the quantitative approach to equilibria and gives the opportunity to use
+equilibrium constants to understand the manipulation of equilibrium positions in reactions
+occurring in industrial processes.
+Mathematical Skills
+Learners will develop their ability to:
+recognise and make use of appropriate units in calculating values of K and K ;
+p c
+change the subject of an equation, substitute values into an equation and solve algebraic
+equations in calculating values of K and K .
+p c
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+carry out experimental and investigative activities, including appropriate risk assessments;
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) effect of temperature on K and K for exothermic and endothermic reactions
+p c
+(b) how to calculate values of K and K and quantities present at equilibrium from given
+p c
+data
+(c) significance of the magnitude of an equilibrium constant and how this relates to the
+position of equilibrium
+SPECIFIED PRACTICAL WORK
+ Determination of an equilibrium constant, for example, for the equilibrium established
+when ethanol reacts with ethanoic acid
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 33
+PI5.2 Acid-base equilibria
+Overview
+This topic features the quantitative application of the principles of equilibria to acids and
+bases developing an understanding of the difference between strong and weak acids (and
+bases). Reactions involving living systems are pH dependent and buffer solutions of the
+required pH can be made by varying the concentrations of their components.
+Mathematical Skills
+Learners will develop their ability to:
+use expressions in decimal and standard form and use calculators to use power and
+logarithmic functions in simple pH calculations and in more complex calculations relating to
+strong and weak acids and strong bases;
+change the subject of an equation, substitute values into an equation and solve algebraic
+equations in simple and complex pH calculations.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use appropriate methodology, including information and communication technology (ICT) to
+answer scientific questions and solve scientific problems
+carry out experimental and investigative activities, including appropriate risk assessments;
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships;
+communicate information and ideas in appropriate ways using appropriate terminology;
+consider applications and implications of science and evaluate their associated benefits and
+risks.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) Lowry-Bronsted theory of acids and bases
+(b) differences in behaviour between strong and weak acids and bases in terms of the
+acid dissociation constant, K
+a
+(c) significance of the ionic product of water, K
+w
+(d) how to use pH, K , K and pK in calculations involving strong and weak acids and
+w a a
+pH and K in calculations involving strong bases
+w
+(e) shapes of the titration curves for strong acid/strong base, strong acid/weak base,
+weak acid/strong base and weak acid/weak base systems
+(f) mode of action of buffer solutions and how to use pH, K , K and pK in appropriate
+w a a
+calculations
+(g) importance of buffer solutions in living systems and industrial processes
+(h) concept of hydrolysis of salts of a strong acid/strong base, a strong acid/weak base
+and a weak acid/strong base
+(i) how suitable indicators are selected for acid-base titrations
+SPECIFIED PRACTICAL WORK
+ Titration using a pH probe, for example, titration of a weak acid against a weak base
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 34
+ORGANIC CHEMISTRY AND ANALYSIS
+Topic OA1 Higher concepts in organic chemistry
+OA1.1 Stereoisomerism
+OA1.2 Aromaticity
+OA1.1 Stereoisomerism
+Overview
+Optical isomerism is introduced as a second type of stereoisomerism, which gives the
+opportunity to explore 3D models in comparing isomers. The orientation of atoms about a
+chiral centre is critically important in the activity of biochemical compounds.
+Mathematical Skills
+Learners will develop their ability to visualise and represent 2D and 3D forms and
+understand the symmetry of 2D and 3D shapes in the study of E‒Z isomerism and optical
+isomerism.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships;
+communicate information and ideas in appropriate ways using appropriate terminology;
+consider applications and implications of science and evaluate their associated benefits and
+risks;
+consider ethical issues in the treatment of humans, other organisms and the environment
+evaluate the role of the scientific community in validating new knowledge and ensuring
+integrity
+evaluate the ways in which society uses science to inform decision making.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) how stereoisomerism is distinct from structural isomerism and that stereoisomerism
+encompasses E‒Z isomerism and optical isomerism
+(b) the terms chiral centre, enantiomer, optical activity and racemic mixture
+(c) optical isomerism in terms of an asymmetric carbon atom
+(d) effect of an enantiomer on plane-polarised light
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 35
+OA1.2 Aromaticity
+Overview
+This topic introduces the delocalisation of electrons leading to the energetically more stable
+aromatic structure found in benzene and similar compounds. Substitution by electrophiles is
+the characteristic reaction of benzene as this energy advantage is maintained.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas
+carry out experimental and investigative activities, including appropriate risk assessments;
+evaluate methodology, evidence and data, and resolve conflicting evidence;
+know that scientific knowledge and understanding develops over time;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) structure of and bonding in benzene and other arenes
+(b) resistance to addition reactions shown by aromatic compounds such as benzene
+(c) mechanism of electrophilic substitution, such as in the nitration, halogenation and
+Friedel-Crafts alkylation of benzene, as the characteristic reaction of arenes
+(d) interaction between benzene and substituent groups, as exemplified by the increase
+in C—Cl bond strength in chlorobenzene when compared with a chloroalkane
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 36
+Topic OA2 Organic compounds containing oxygen
+OA2.1 Alcohols and phenols
+OA2.2 Aldehydes and ketones
+OA2.3 Carboxylic acids and their derivatives
+OA2.1 Alcohols and phenols
+Overview
+This topic builds upon the previous introduction of alcohols and includes phenols.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+carry out experimental and investigative activities, including appropriate risk assessments;
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) methods of forming primary and secondary alcohols from halogenoalkanes and
+carbonyl compounds
+(b) reactions of primary and secondary alcohols with hydrogen halides and ethanoyl
+chloride and carboxylic acids
+(c) acidity of phenol and its reactions with bromine and ethanoyl chloride
+(d) FeCl (aq) test for phenols
+3
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 37
+OA2.2 Aldehydes and ketones
+Overview
+This topic introduces the preparation and reactions of aldehydes and ketones. Oxygen-
+containing compounds often undergo oxidation and reduction reactions and aldehydes are
+easily reduced and oxidised. There are ample opportunities to carry out a range of practical
+tests and preparations.
+How Science Works
+There are opportunities here for learners to:
+use appropriate methodology, including information and communication technology (ICT) to
+answer scientific questions and solve scientific problems;
+carry out experimental and investigative activities, including appropriate risk assessments;
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) formation of aldehydes and ketones by the oxidation of primary and secondary
+alcohols respectively
+(b) how aldehydes and ketones may be distinguished by their relative ease of oxidation
+using Tollens’ reagent and Fehling’s reagent
+(c) reduction of aldehydes and ketones using NaBH
+4
+(d) mechanism of nucleophilic addition, such as in the addition of HCN to ethanal and
+propanone, as a characteristic reaction of aldehydes and ketones
+(e) reaction of aldehydes and ketones with 2,4-dinitrophenylhydrazine and its use as a
+test for a carbonyl group and in identifying specific aldehydes and ketones
+(f) triiodomethane (iodoform) test and its use in identifying CH CO— groups or their
+3
+precursors
+SPECIFIED PRACTICAL WORK
+ Identification of aldehydes/ketones by their reaction with 2,4-dinitrophenylhydrazine
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 38
+OA2.3 Carboxylic acids and their derivatives
+Overview
+The relative acidity of various organic compounds is compared. Carboxylic acids undergo
+the same reactions as mineral acids as well as a range of further reactions to produce
+derivatives of synthetic importance.
+How Science Works
+There are opportunities here for learners to:
+use appropriate methodology, including information and communication technology (ICT) to
+answer scientific questions and solve scientific problems;
+carry out experimental and investigative activities, including appropriate risk assessments;
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships;
+evaluate methodology, evidence and data, and resolve conflicting evidence.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) order of relative acidity of carboxylic acids, phenols, alcohols and water and how
+these can be demonstrated
+(b) formation of carboxylic acids by the oxidation of alcohols and aldehydes
+(c) reduction of carboxylic acids using LiAlH
+4
+(d) formation of aromatic carboxylic acids by the oxidation of methyl side-chains
+(e) decarboxylation of carboxylic acids
+(f) conversion of carboxylic acids to esters and acid chlorides and the hydrolysis of
+these compounds
+(g) conversion of carboxylic acids to amides and nitriles
+(h) formation of nitriles from halogenoalkanes and hydroxynitriles from aldehydes and
+ketones
+(i) hydrolysis of nitriles and amides
+(j) reduction of nitriles using LiAlH
+4
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 39
+Topic OA3 Organic compounds containing nitrogen
+OA3.1 Amines
+OA3.2 Amino acids, peptides and proteins
+OA3.1 Amines
+Overview
+This topic includes the preparation and reactions of amines and explains their basicity.
+Amines are important starting materials for many synthetic routes, including in the dye
+industry.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas
+carry out experimental and investigative activities, including appropriate risk assessments;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) formation of primary aliphatic amines from halogenoalkanes and nitriles
+(b) formation of aromatic amines from nitrobenzenes
+(c) basicity of amines
+(d) ethanoylation of primary amines using ethanoyl chloride
+(e) reaction of primary amines (aliphatic and aromatic) with cold nitric(III) acid
+(f) coupling of benzenediazonium salts with phenols and aromatic amines
+(g) role of the —N=N— chromophore in azo dyes
+(h) origin of colour in terms of the wavelengths of visible light absorbed
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 40
+OA3.2 Amino acids, peptides and proteins
+Overview
+Amino acids, peptides and proteins are naturally-occurring nitrogen compounds and are the
+basis of living organisms. The importance of protein structure in understanding enzyme
+activity is considered. This is a good opportunity to link amino acid structure to optical
+isomerism.
+How Science Works
+There are opportunities here for learners to:
+use theories, models and ideas to develop scientific explanations;
+use knowledge and understanding to pose scientific questions, define scientific problems,
+present scientific arguments and scientific ideas;
+communicate information and ideas in appropriate ways using appropriate terminology.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) general formula and classification of α-amino acids
+(b) amphoteric and zwitterionic nature of amino acids and the effect on melting
+temperature and solubility
+(c) combination of α-amino acids to form dipeptides
+(d) formation of polypeptides and proteins
+(e) basic principles of primary, secondary and tertiary protein structure
+(f) essential role of proteins in living systems, for example, as enzymes
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 41
+Topic OA4 Organic synthesis and analysis
+Overview
+This topic provides the opportunity to draw together theoretical knowledge of organic
+chemistry and practical skills to carry out a range of preparations and other practical tasks.
+The industrial importance of condensation polymers is emphasised. It is also an opportunity
+for analysis and interpretation of more complex spectroscopic data and chemical tests to
+identify unknown compounds.
+Mathematical Skills
+Learners will develop their ability to translate information between graphical and numerical
+forms while analysing and interpreting spectra.
+How Science Works
+There are opportunities here for learners to:
+use appropriate methodology, including information and communication technology (ICT) to
+answer scientific questions and solve scientific problems
+carry out experimental and investigative activities, including appropriate risk assessments;
+analyse and interpret data to provide evidence, recognising correlations and causal
+relationships;
+evaluate methodology, evidence and data, and resolve conflicting evidence;
+communicate information and ideas in appropriate ways using appropriate terminology;
+consider applications and implications of science and evaluate their associated benefits and
+risks;
+consider ethical issues in the treatment of humans, other organisms and the environment
+evaluate the role of the scientific community in validating new knowledge and ensuring
+integrity
+evaluate the ways in which society uses science to inform decision making.
+Learners should be able to demonstrate and apply their knowledge and
+understanding of
+(a) synthesis of organic compounds by a sequence of reactions
+(b) principles underlying the techniques of manipulation, separation and purification used
+in organic chemistry
+(c) distinction between condensation polymerisation and addition polymerisation
+(d) how polyesters and polyamides are formed
+(e) use of melting temperature as a determination of purity
+(f) use of high resolution 1H NMR spectra (alongside the other spectral data specified in
+C3.5) in the elucidation of structure of organic molecules
+(g) use of chromatographic data from TLC/paper chromatography, GC and HPLC to find
+the composition of mixtures
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 42
+SPECIFIED PRACTICAL WORK
+ Synthesis of a liquid organic product, including separation using a separating funnel
+ Synthesis of a solid organic product, including recrystallisation and determination of
+melting temperature
+ Two-step synthesis, including purification and determination of melting temperature
+of product
+ Planning a sequence of tests to identify organic compounds from a given list
+ Paper chromatography separation, including two-way separation
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 43
+Below are the assessment objectives for this specification. Learners must:
+AO1
+Demonstrate knowledge and understanding of scientific ideas, processes,
+techniques and procedures
+AO2
+Apply knowledge and understanding of scientific ideas, processes,
+techniques and procedures:
+ in a theoretical context
+ in a practical context
+ when handling qualitative data
+ when handling quantitative data
+AO3
+Analyse, interpret and evaluate scientific information, ideas and evidence,
+including in relation to issues, to:
+ make judgements and reach conclusions (including in relation to issues);
+ develop and refine practical design and procedures.
+The table below shows the weighting of each assessment objective for each
+component and for the qualification as a whole.
+AO1 AO2 AO3
+Component 1 12 % 18 % 10 %
+Component 2 12 % 18 % 10 %
+Component 3 6.7 % 6.7 % 6.7 %
+Overall weighting 30.7 % 42.7 % 26.7 %
+For each series:
+ The weighting for the assessment of mathematical skills will be a minimum of 20 %.
+ The weighting for the indirect assessment of practical skills will be a minimum of 15 %.
+The ability to select, organise and communicate information and ideas coherently
+using appropriate scientific conventions and vocabulary will be tested across the
+assessment objectives.
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 44
+PRACTICAL ENDORSEMENT
+The assessment of practical skills is a compulsory requirement of the course of study
+for A level qualifications in Chemistry. It will appear on all learners’ certificates as a
+separately reported result, alongside the overall grade for the qualification. The
+arrangements for the assessment of practical skills will be common to all awarding
+organisations. These arrangements will include:
+ A minimum of 12 practical activities to be carried out by each learner which,
+together, meet the requirements of Appendix A part (b) (Practical skills
+identified for direct assessment and developed through teaching and learning)
+and Appendix A part (c) (Use of apparatus and techniques) from the
+prescribed subject content, published by the Department for Education.
+ Teachers will assess learners against Common Practical Assessment Criteria
+(CPAC) issued by the awarding organisations. The CPAC (see pages 47 and
+48) are based on the requirements of Appendix A parts (b) and (c) of the
+subject content requirements published by the Department for Education, and
+define the minimum standard required for the achievement of a pass.
+ Each learner will keep an appropriate record of their assessed practical
+activities.
+ Learners who demonstrate the required standard across all the requirements
+of the CPAC will receive a ‘pass’ grade.
+ The practical activities prescribed in this specification (the specified
+practicals) provide opportunities for demonstrating competence in all the skills
+identified, together with the use of apparatus and techniques for each subject.
+However, learners can also demonstrate these competences in any additional
+practical activity undertaken throughout the course of study which covers the
+requirements of Appendix A part (c).
+ There will be no separate assessment of practical skills for AS qualifications.
+ Learners will answer questions in the AS and A level examination papers that
+assess the requirements of Appendix A part (a) (Practical skills identified for
+indirect assessment and developed through teaching and learning) from the
+prescribed subject content, published by the Department for Education.
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 45
+Criteria for the assessment of practical competency in A level Chemistry (CPAC)
+Competency Practical Mastery:
+In order to achieve a pass, learners will need to have met the
+following expectations.
+Learners will be expected to develop these competencies
+through the acquisition of the technical skills specified in
+Appendix A part (c). Learners can demonstrate these
+competencies in any practical activity undertaken throughout
+the course of study. The practical activities prescribed in the
+subject specification, which cover the requirements of
+Appendix A part (c), will provide opportunities for
+demonstrating competence in all the skills identified together
+with the use of apparatus and practical techniques for each
+subject.
+Learners may work in groups but must be able to demonstrate
+and record independent evidence of their competency. This
+must include evidence of independent application of
+investigative approaches and methods to practical work.
+Teachers who award a pass to their learners need to be
+confident that the learner consistently and routinely exhibits the
+competencies listed below before completion of the A level
+course.
+1. Follows written Correctly follows written instructions to carry out the
+procedures experimental techniques or procedures.
+2. Applies Correctly uses appropriate instrumentation, apparatus and
+investigative materials (including ICT) to carry out investigative activities,
+approaches and experimental techniques and procedures with minimal
+methods when assistance or prompting.
+using instruments
+and equipment Carries out techniques or procedures methodically, in
+sequence and in combination, identifying practical issues and
+making adjustments when necessary.
+Identifies and controls significant quantitative variables where
+applicable, and plans approaches to take account of variables
+that cannot readily be controlled.
+Selects appropriate equipment and measurement strategies in
+order to ensure suitably accurate results.
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 46
+3. Safely uses a Identifies hazards and assesses risks associated with these
+range of practical hazards, making safety adjustments as necessary, when
+equipment and carrying out experimental techniques and procedures in the lab
+materials or field.
+Uses appropriate safety equipment and approaches to
+minimise risks with minimal prompting.
+4. Makes and records Makes accurate observations relevant to the experimental or
+observations investigative procedure.
+Obtains accurate, precise and sufficient data for experimental
+and investigative procedures and records this methodically
+using appropriate units and conventions.
+5. Researches, Uses appropriate software and/or tools to process data, carry
+references and out research and report findings.
+reports
+Cites sources of information are cited demonstrating that
+research has taken place, supporting planning and conclusions.
+Marking and Standardisation
+The practical work is assessed by teachers. WJEC Eduqas will support teachers in making
+judgements against the criteria for assessment.
+In co-ordination with other exam boards, WJEC Eduqas will monitor how centres provide
+learners with opportunities to develop and demonstrate the required practical skills and how
+they mark the assessments.
+Every centre will be monitored at least once in a two-year period in respect of at least one of
+the A level science subjects.
+In common with other exam boards, WJEC Eduqas will require centres to provide a
+statement annually confirming they have taken reasonable steps to ensure that learners:
+ have undertaken the minimum number of practical activities, and
+ have made a contemporaneous record of their work.
+If a centre fails to provide a statement, or provides a false statement, this will be treated as
+malpractice and/or maladministration. Learners will only get a certificate for the practical
+endorsement if they achieve at least a grade E in the examined part of the qualification.
+Practical endorsement results for each learner need to be submitted by centres to WJEC
+Eduqas by 15 May each year.
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 47
+This is a linear qualification in which all assessments must be taken at the end of the
+course. Assessment opportunities will be available in the months of May and June
+from 2017 until the end of the life of this specification.
+A qualification may be taken more than once. Candidates must resit all examination
+components in the same series.
+The endorsement grade for NEA may be carried forward for the life of the
+specification, even if it was awarded by a different awarding body. If a candidate
+resits an NEA component (rather than carrying forward the previous NEA
+endorsement grade), it is the new grade that will be used, even if this is 'Not
+Classified'.
+Where a candidate has certificated on two or more previous occasions, the most
+recent NEA endorsement grade is carried forward, even if this is 'Not Classified'.
+The entry code appears below.
+WJEC Eduqas A level Chemistry: A410QS
+The current edition of our Entry Procedures and Coding Information gives up-to-date
+entry procedures.
+A level qualifications are reported as a grade from A* to E. Results not attaining the
+minimum standard for the award will be reported as U (unclassified).
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 48
+WORKING SCIENTIFICALLY
+The practical skills can be split into those which can be assessed indirectly through written
+examinations (Part (a)) and those that will be assessed directly by teachers through
+appropriate practical activities (Part (b)).
+Part (a) – Practical skills identified for indirect assessment and developed through
+teaching and learning
+Question papers will assess learners’ abilities to:
+Independent thinking
+ solve problems set in practical contexts
+ apply scientific knowledge to practical contexts
+Use and application of scientific methods and practices
+ comment on experimental design and evaluate scientific methods
+ present data in appropriate ways
+ evaluate results and draw conclusions with reference to measurement uncertainties
+and errors
+ identify variables including those that must be controlled
+Numeracy and the application of mathematical concepts in a practical context
+ plot and interpret graphs
+ process and analyse data using appropriate mathematical skills as exemplified in the
+mathematical appendix (see Appendix C)
+ consider margins of error, accuracy and precision of data
+Instruments and equipment
+ know and understand how to use a wide range of experimental and practical
+instruments, equipment and techniques appropriate to the knowledge and
+understanding included in the specification
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 49
+Part (b) - Practical skills identified for direct assessment and developed through
+teaching and learning
+Practical work carried out throughout the course will enable learners to develop the following
+skills.
+Independent thinking
+ apply investigative approaches and methods to practical work
+Use and apply scientific methods and practices
+ safely and correctly use a range of practical equipment and materials
+ follow written instructions
+ make and record observations
+ keep appropriate records of experimental activities
+ present information and data in a scientific way
+ use appropriate software and tools to process data, carry out research and report
+findings
+Research and referencing
+ use online and offline research skills including websites, textbooks and other printed
+scientific sources of information
+ correctly cite sources of information
+Instruments and equipment
+ use a wide range of experimental and practical instruments, equipment and
+techniques appropriate to the knowledge and understanding included in the
+specification
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 50
+Part (c) – Use of apparatus and techniques
+The practical work specified in the subject content section has been chosen to facilitate
+learners in developing the skills and acquiring the techniques listed below.
+Practical techniques to be gained by learners
+ use appropriate apparatus to record a range of measurements (to include mass,
+time, volume of liquids and gases, temperature)
+ use water bath or electric heater or sand bath for heating
+ measure pH using pH charts, or pH meter, or pH probe on a data logger
+ use laboratory apparatus for a variety of experimental techniques including:
+ titration, using burette and pipette
+ distillation and heating under reflux, including setting up glassware using retort
+stand and clamps
+ qualitative tests for ions and organic functional groups
+ filtration, including use of fluted filter paper, or filtration under reduced pressure
+ use volumetric flask, including accurate technique for making up a standard solution
+ use acid-base indicators in titrations of weak/strong acids with weak/strong alkalis
+ purify:
+ a solid product by recrystallisation
+ a liquid product, including use of separating funnel
+ use melting point apparatus
+ use thin-layer or paper chromatography
+ set up electrochemical cells and measure voltages
+ safely and carefully handle solids and liquids, including corrosive, irritant, flammable
+and toxic substances
+ measure rates of reaction by at least two different methods, for example:
+ an initial rate method such as a clock reaction
+ a continuous monitoring method
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 51
+DEVELOPMENT OF PRACTICAL TECHNIQUES
+Technique Specified practical work
+Topic Description
+reference
+1 Use appropriate C1.6 Gravimetric analysis
+apparatus to record a C2.1 Preparation of a soluble salt by titration
+range of quantitative C2.1 Standardisation of an acid solution
+measurements (to C2.1 Back titration
+include mass, time, C2.1 Double titration
+volume of liquids and C2.2 Indirect determination of an enthalpy change of
+gases, temperature) reaction
+C2.2 Determination of an enthalpy change of
+combustion
+C2.3 Investigation of a rate of reaction by a gas
+collection method
+C2.3 Study of an ‘iodine clock’ reaction
+PI1.2 Simple redox titration
+PI1.2 Estimation of copper in copper(II) salts
+PI3 Determination of the order of a reaction
+PI5.1 Determination of an equilibrium constant
+2 Use water bath or C3.3 Nucleophilic substitution reaction
+electric heater or sand C3.4 Preparation of an ester and separation of the
+bath for heating product by distillation
+OA4 Synthesis of a liquid organic product, including
+separation using a separating funnel
+OA4 Synthesis of a solid organic product, including
+recrystallization and determination of melting
+temperature
+OA4 Two-step synthesis, including purification and
+determination of melting temperature
+3 Measure pH using pH PI5.2 Titration using a pH probe
+charts, or pH meter, or
+pH probe on a data
+logger
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 52
+4 Use laboratory C2.1 Preparation of a soluble salt by titration
+apparatus for a variety C2.1 Standardisation of an acid solution
+of experimental C2.1 Back titration
+techniques including: C2.1 Double titration
+C3.3 Nucleophilic substitution reaction
+titration, using burette C3.4 Preparation of an ester and separation by
+and pipette distillation
+PI1.2 Simple redox titration
+distillation and heating
+PI1.2 Estimation of copper in copper(II) salts
+under reflux, including
+PI5.1 Determination of an equilibrium constant
+setting up glassware
+PI5.2 Titration using a pH probe
+using retort stand and
+clamps OA4 Synthesis of a liquid organic product, including
+separation using a separating funnel
+qualitative tests for ions OA4 Synthesis of a solid organic product, including
+and organic functional recrystallisation and determination of melting
+groups temperature
+OA4 Two-step synthesis, including purification and
+filtration, including use determination of melting temperature
+of fluted filter paper, or C1.6 Identification of unknown solutions by qualitative
+filtration under reduced analysis
+pressure OA4 Planning a sequence of tests to identify organic
+compounds from a given list
+OA2.2 Identification of aldehydes/ketones by their
+reaction with
+2,4-dinitrophenylhydrazine
+OA4 Synthesis of a solid organic product, including
+recrystallisation and determination of melting
+temperature
+OA4 Two-step synthesis, including purification and
+determination of melting temperature
+5 Use volumetric flask, C2.1 Preparation of a soluble salt by titration
+including accurate
+C2.1 Standardisation of an acid solution
+technique for making up
+C2.1 Back titration
+a standard solution
+C2.1 Double titration
+PI1.2 Simple redox titration
+PI1.2 Estimation of copper in copper(II) salts
+6 Use acid-base C2.1 Preparation of a soluble salt by titration
+indicators in titrations of C2.1 Standardisation of an acid solution
+weak/strong acids with C2.1 Back titration
+C2.1 Double titration
+weak/strong alkalis
+7 Purify: OA4 Synthesis of a liquid organic product, including
+A solid product by separation using a separating funnel
+recrystallisation OA4 Synthesis of a solid organic product, including
+A liquid product, recrystallisation and determination of melting
+including use of temperature
+separating funnel OA4 Two-step synthesis, including purification and
+determination of melting temperature
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 53
+8 Use melting point OA2.2 Identification of aldehydes/ketones by their
+apparatus reaction with
+2,4-dinitrophenylhydrazine
+OA4 Synthesis of a solid organic product, including
+recrystallisation and determination of melting
+temperature
+OA4 Two-step synthesis, including purification and
+determination of melting temperature
+9 Use thin-layer or paper OA4 Paper chromatography separation, including two-
+chromatography way separation
+10 Set up electrochemical PI1.1 Construction of electrochemical cells and
+cells and measure measurement of E
+cell
+voltages
+11 Safely and carefully C2.1 Preparation of a soluble salt by titration
+handle solids and C2.1 Standardisation of an acid solution
+liquids, including C2.1 Back titration
+corrosive, irritant, C2.1 Double titration
+flammable and toxic C2.2 Indirect determination of an enthalpy change of
+substances reaction
+C2.2 Determination of an enthalpy change of
+combustion
+C3.3 Nucleophilic substitution reaction
+PI1.2 Simple redox titration
+PI1.2 Estimation of copper in copper(II) salts
+OA2.2 Identification of aldehydes/ketones by their
+reaction with 2,4-dinitrophenylhydrazine
+OA4 Planning a sequence of tests to identify organic
+compounds from a given list
+12 Measure rate of C2.3 Investigation of a rate of reaction by a gas
+reactions by at least two collection method
+different methods, for C2.3 Study of an ‘iodine clock’ reaction
+example:
+PI3 Determination of the order of a reaction
+An initial rate method
+such as a clock reaction
+A continuous monitoring
+method
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 54
+MATHEMATICAL REQUIREMENTS AND EXEMPLIFICATION
+Exemplification of
+mathematical skill in the Topic areas providing
+Mathematical context of A level opportunities to
+skills Chemistry (assessment is develop skill
+not limited to the
+examples given below)
+Arithmetic and
+numerical
+computation
+Recognise and Learners may be tested on their ability to:
+make use of  convert between units e.g. cm3 to C1.2(j)
+appropriate units dm3 as part of volumetric C1.3(e)(f)(g)(h)(i)(j)
+in calculation calculations PI3(a)(b)(c)
+ give units for an equilibrium PI4.2(c)(d)
+constant or a rate constant PI5.1(b)
+ understand that different units are
+used in similar topic areas, so that
+conversions may be necessary e.g.
+entropy in J mol-1 K-1 and enthalpy
+changes in kJ mol-1
+Recognise and Learners may be tested on their ability to:
+use expressions in  use an appropriate number of C1.2(j)
+decimal and decimal places in calculations e.g. PI3(a)(b)(c)
+ordinary form for pH PI5.2(d)
+ carry out calculations using
+numbers in standard and ordinary
+form e.g. use of Avogadro’s number
+ understand standard form when
+applied to areas such as (but not
+limited to) K
+w
+ convert between numbers in
+standard and ordinary form
+ understand that significant figures
+need retaining when making
+conversions between standard and
+ordinary form e.g. 0.0050 mol dm-3
+is equivalent to 5.0 × 10-3 mol dm-3
+Use ratios, Learners may be tested on their ability to:
+fractions and  calculate percentage yields C1.1(a)(c)
+percentages  calculate the atom economy of a C1.2(c)
+reaction C1.3(d)
+ construct and/or balance equations PI3(b)
+using ratios
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 55
+Estimate results Learners may be tested on their ability to:
+ evaluate the effect of changing C2.1(c)
+experimental parameters on PI1.2(d)
+measurable values e.g. how the
+value of K would change with
+c
+temperature given different
+specified conditions
+Use calculators to Learners may be tested on their ability to:
+find and use  carry out calculations using the C1.2(j)
+power, exponential Avogadro constant C1.3(e)
+and logarithmic  carry out pH and pK calculations C2.1(e)
+a
+functions  carry out calculations using the PI3(f)
+Arrhenius equation PI5.2(d)(f)
+ make appropriate mathematical
+approximations in buffer
+calculations
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 56
+Handling data
+Use an Learners may be tested on their ability to:
+appropriate  report calculations to an appropriate C1.3(e)(f)(g)(h)(i)(j)
+number of number of significant figures given C2.1(f)
+significant figures raw data quoted to varying numbers C2.2(e)
+of significant figures C2.3(h)
+ understand that calculated results PI1.2(d)
+can only be reported to the limits of
+the least accurate measurement
+Find arithmetic Learners may be tested on their ability to:
+means  calculate weighted means e.g. C1.3(b)(j)
+calculation of an atomic mass PI1.2(d)
+based on supplied isotopic
+abundances
+ select appropriate titration data (i.e.
+identification of outliers) in order to
+calculate mean titres
+Identify Learners may be tested on their ability to:
+uncertainties in  determine uncertainty when two C1.3(l)
+measurements burette readings are used to C2.1(f)
+and use simple calculate a titre value C2.2(e)
+techniques to C2.3(h)
+determine PI1.2(d)
+uncertainty when
+data are combined
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 57
+Algebra
+Understand and No exemplification required
+use the symbols:
+=, <, <<, >>, >, ∝,
+~, equilibrium sign
+Change the Learners may be tested on their ability to:
+subject of an  carry out structured and C1.2(j)
+equation unstructured mole calculations C1.3(e)(f)(g)(h)(i)(j)
+ use the ideal gas equation C1.6(r)
+ calculate a rate constant k from a C2.1(f)
+rate equation C2.2(b)(c)(d)
+PI1.2(d)
+ carry out calculations using the
+Arrhenius equation PI3(c)
+PI3(f)
+PI4.2(d)
+PI5.1(b)
+PI5.2(d)(f)
+Substitute Learners may be tested on their ability to:
+numerical values  carry out structured and C1.2(j)
+into algebraic unstructured mole calculations C1.3(e)(f)(g)(h)(i)(j)
+equations using  use the ideal gas equation C1.6(r)
+appropriate units  carry out rate calculations C2.1(f)
+for physical C2.2(b)(c)(d)(e)
+ calculate the value of an equilibrium
+quantities constant K PI1.2(d)
+C
+PI3(c)
+PI3(f)
+PI4.1(b)(c)
+PI4.2(c)(d)
+PI5.1(b)
+PI5.2(d)(f)
+Solve algebraic Learners may be tested on their ability to:
+equations  carry out Hess’s law calculations C2.2(b)(c)(d)
+ calculate a rate constant k from a PI1.1(e)
+rate equation PI1.2(d)
+ carry out calculations using the PI3(c)
+Arrhenius equation PI3(f)
+PI4.1(b)(c)
+PI4.2(d)
+PI5.1(b)
+PI5.2(d)(f)
+Use logarithms in Learners may be tested on their ability to:
+relation to  carry out pH and pK calculations C2.1(e)
+a
+quantities that  carry out calculations using the PI3(f)
+range over several Arrhenius equation PI5.2(d)(f)
+orders of
+magnitude
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 58
+Graphs
+Translate Learners may be tested on their ability to:
+information  interpret and analyse spectra C2.2(e)
+between graphical,  determine the order of a reaction C2.3(b)(g)(h)
+numerical and from a graph C3.5(a)(b)(c)
+algebraic forms  derive rate expression from a graph PI3(a)(c)
+PI3(f)
+ carry out calculations using the
+Arrhenius equation PI4.1(c)
+OA4(f)
+Plot two variables Learners may be tested on their ability to:
+from experimental  plot concentration–time graphs and C2.2(e)
+or other data draw an appropriate best-fit curve C2.3(b)(g)(h)
+PI3(a)(c)
+Determine the Learners may be tested on their ability to:
+slope and intercept  calculate the rate constant of a C2.3(h)
+of a linear graph zero-order reaction PI3(a)(c)
+ carry out calculations using the PI3(f)
+Arrhenius equation
+Calculate rate of Learners may be tested on their ability to:
+change from a  calculate the rate constant of a PI3(a)(c)
+graph showing a zero-order reaction
+linear relationship
+Draw and use the Learners may be tested on their ability to:
+slope of a tangent  determine the order of a reaction PI3(a)(c)
+to a curve as a using the initial rates method
+measure of rate of
+change
+Geometry and
+trigonometry
+Use angles and Learners may be tested on their ability to:
+shapes in regular  predict/identify shapes of and bond C1.4(h)(i)
+2D and 3D angles in molecules with and PI2.2(f)
+structures without a lone pair(s) for example
+NH , CH , H O etc.
+3 4 2
+Visualise and Learners may be tested on their ability to:
+represent 2D and  draw different forms of isomers C1.4(h)(i)
+3D forms including  identify chiral centres from a 2D or C3.1(d)
+two-dimensional 3D representation OA1.1(a)(b)
+representations of
+3D objects
+Understand the Learners may be tested on their ability to:
+symmetry of 2D  describe the types of C3.2(f)
+and 3D shapes stereoisomerism shown by OA1.1(a)(b)
+molecules/complexes
+ identify chiral centres from a 2D or
+3D representation
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 59
+HOW SCIENCE WORKS
+Sample of topic areas providing
+How Science Works skill
+opportunities to develop skill
+use theories, models and ideas to develop C1.1(c)
+scientific explanations C1.2(f)
+C1.4
+C1.5
+C2.3(a)
+PI2.2(d)
+PI4.2(e)
+PI5.2(b)
+OA1.2(a)(b)
+OA2.1(c)
+OA3.1(c)
+OA3.2(b)
+use knowledge and understanding to pose C1.6(d)
+scientific questions, define scientific problems, C2.1(b)
+present scientific arguments and scientific ideas C2.3(a)
+PI3(d)
+PI4.2(e)
+use appropriate methodology, including information C2.1(f)
+and communication technology (ICT), to answer C2.2(e)
+scientific questions and solve scientific problems C2.3(h)
+PI1.2(d)
+PI3(a)
+carry out experimental and investigative activities, C1.6(r)
+including appropriate risk management, in a range C2.1(f)
+of contexts C2.2(e)
+C2.3(h)
+C3.3(g)
+C3.4(i)
+PI1.2(d)
+OA1.2(c)
+OA2.2(e)
+OA2.3(f)
+OA4(a)
+analyse and interpret data to provide evidence, C2.3(h)
+recognising correlations and causal relationships C2.4(a)
+C3.5
+PI3(b)
+OA2.2(e)
+OA4(f)
+© WJEC CBAC Ltd.
+A LEVEL CHEMISTRY 60
+evaluate methodology, evidence and data, and C2.2(e)
+resolve conflicting evidence C2.3(h)
+PI3(a)
+know that scientific knowledge and understanding C1.2(f)
+develops over time C1.6(a)
+communicate information and ideas in appropriate C1.1(c)
+ways using appropriate terminology C1.4
+C1.5
+C3.1(a)(b)
+PI2.1(h)
+PI2.2(g)
+OA1.1(a)(b)
+OA2.1(c)
+OA3.1(c)
+consider applications and implications of science C1.2(d)
+and evaluate their associated benefits and risks C2.4(a)
+C3.2(a)
+C3.3(e)(f)
+PI1.1(f)
+PI2.2(g)
+PI5.2(g)
+consider ethical issues in the treatment of humans, C1.2(d)
+other organisms and the environment C2.4(a)
+C3.2(a)
+C3.3(e)(f)
+evaluate the role of the scientific community in C1.5(e)
+validating new knowledge and ensuring integrity C2.4(a)
+PI1.1(f)
+PI2.2(g)
+evaluate the ways in which society uses science to C3.2(a)
+inform decision making C3.3(e)(f)
+A level Chemistry specification for teaching from 2015/GH
+ED 28/1/15
+© WJEC CBAC Ltd.

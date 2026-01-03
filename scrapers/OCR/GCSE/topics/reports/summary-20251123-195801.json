@@ -1,0 +1,315 @@
+{
+  "timestamp": "20251123-195801",
+  "total_subjects": 3,
+  "success_count": 3,
+  "fail_count": 0,
+  "success_rate": 100.0,
+  "reports": [
+    {
+      "subject_name": "English Language",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/10ea1en0/eduqas-gcse-english-language-from-2015-e.pdf",
+      "start_time": "2025-11-23T19:56:11.290215",
+      "success": true,
+      "topics_extracted": 37,
+      "levels": {
+        "0": 3,
+        "1": 6,
+        "2": 6,
+        "3": 8,
+        "4": 14
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted"
+      ],
+      "success_grade": 90,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": false,
+        "components": [
+          {
+            "number": "3",
+            "name": "may be carried over"
+          },
+          {
+            "number": "2",
+            "name": "than on the literature and creative writing in Component 1, in order to"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 18.6258327960968,
+      "end_time": "2025-11-23T19:56:29.916050"
+    },
+    {
+      "subject_name": "Geography A",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/j0zo4wbh/eduqas-gcse-geography-a-spec-from-2016-e-24-01-20.pdf",
+      "start_time": "2025-11-23T19:56:34.918575",
+      "success": true,
+      "topics_extracted": 134,
+      "levels": {
+        "0": 3,
+        "1": 9,
+        "2": 23,
+        "3": 47,
+        "4": 52
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "8"
+          },
+          {
+            "number": "2",
+            "name": "14"
+          },
+          {
+            "number": "3",
+            "name": "21"
+          },
+          {
+            "number": "1",
+            "name": "Changing Physical and Human Landscapes"
+          },
+          {
+            "number": "2",
+            "name": "Environmental and Development Issues"
+          },
+          {
+            "number": "3",
+            "name": "Applied Fieldwork Enquiry"
+          },
+          {
+            "number": "1",
+            "name": "Changing Physical and Human Landscapes"
+          },
+          {
+            "number": "2",
+            "name": "Environmental and Development Issues"
+          },
+          {
+            "number": "3",
+            "name": "Applied Fieldwork Enquiry"
+          },
+          {
+            "number": "1",
+            "name": "Changing Physical and Human Landscapes"
+          },
+          {
+            "number": "1",
+            "name": "contains two core themes and two options. Learners should study both"
+          },
+          {
+            "number": "2",
+            "name": "Environmental and Development Issues"
+          },
+          {
+            "number": "2",
+            "name": "contains two core themes and two options. Learners should study both"
+          },
+          {
+            "number": "3",
+            "name": "Applied Fieldwork Enquiry"
+          },
+          {
+            "number": "3",
+            "name": "is a written examination in three parts:"
+          },
+          {
+            "number": "3",
+            "name": "Examples (in italics) are to aid understanding and suggest range, and these are not compulsory."
+          },
+          {
+            "number": "3",
+            "name": "will assess different approaches to fieldwork in each examination series. In"
+          },
+          {
+            "number": "1",
+            "name": "7.5% 10% 10% 7.5% 35%"
+          },
+          {
+            "number": "2",
+            "name": "7.5% 10% 10% 7.5% 35%"
+          },
+          {
+            "number": "3",
+            "name": "0 5% 15% (10%) 10% (5%) 30% (15%)"
+          },
+          {
+            "number": "1",
+            "name": "Changing Physical and Human Landscapes"
+          },
+          {
+            "number": "2",
+            "name": "Environmental and Development Issues"
+          },
+          {
+            "number": "3",
+            "name": "Applied Fieldwork Enquiry"
+          },
+          {
+            "number": "1",
+            "name": "Changing Physical and Human Landscapes"
+          },
+          {
+            "number": "2",
+            "name": "Environmental and Development Issues"
+          },
+          {
+            "number": "3",
+            "name": "Applied Fieldwork Enquiry"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 35.912516593933105,
+      "end_time": "2025-11-23T19:57:10.831091"
+    },
+    {
+      "subject_name": "Geography B",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/5ofdo23l/gcse-geog-b-spec.pdf",
+      "start_time": "2025-11-23T19:57:15.834412",
+      "success": true,
+      "topics_extracted": 176,
+      "levels": {
+        "0": 3,
+        "1": 13,
+        "2": 28,
+        "3": 59,
+        "4": 50,
+        "5": 23
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "7"
+          },
+          {
+            "number": "2",
+            "name": "17"
+          },
+          {
+            "number": "3",
+            "name": "18"
+          },
+          {
+            "number": "1",
+            "name": "Investigating Geographical Issues"
+          },
+          {
+            "number": "2",
+            "name": "Problem Solving Geography"
+          },
+          {
+            "number": "3",
+            "name": "Applied Fieldwork Enquiry"
+          },
+          {
+            "number": "3",
+            "name": "only."
+          },
+          {
+            "number": "1",
+            "name": "Investigating Geographical Issues"
+          },
+          {
+            "number": "1",
+            "name": "will assess content from all three compulsory themes of the"
+          },
+          {
+            "number": "2",
+            "name": "Problem Solving Geography"
+          },
+          {
+            "number": "1",
+            "name": "on pages 7 to 16:"
+          },
+          {
+            "number": "3",
+            "name": "Applied Fieldwork Enquiry"
+          },
+          {
+            "number": "3",
+            "name": "is a written examination in three parts."
+          },
+          {
+            "number": "3",
+            "name": "Examples (in italics) are to aid understanding and suggest range, and these are not compulsory."
+          },
+          {
+            "number": "3",
+            "name": "will assess different approaches to fieldwork in each examination series. In"
+          },
+          {
+            "number": "1",
+            "name": "10% 10% 10% 10% 40%"
+          },
+          {
+            "number": "2",
+            "name": "5% 10% 10% 5% 30%"
+          },
+          {
+            "number": "3",
+            "name": "0 5% 15% (10%) 10% (5%) 30% (15%)"
+          },
+          {
+            "number": "1",
+            "name": "Investigating Geographical Issues"
+          },
+          {
+            "number": "2",
+            "name": "Problem Solving Geography"
+          },
+          {
+            "number": "3",
+            "name": "Applied Fieldwork Enquiry"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 46.08221244812012,
+      "end_time": "2025-11-23T19:58:01.916625"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "subject_code": "J587",
+  "subject_name": "Physical Education",
+  "url": "https://www.ocr.org.uk/Images/234822-specification-accredited-gcse-physical-education-j587.pdf",
+  "start_time": "2025-11-20T13:54:13.832536",
+  "success": true,
+  "topics_extracted": 51,
+  "levels": {
+    "0": 1,
+    "1": 2,
+    "2": 5,
+    "3": 19,
+    "4": 24
+  },
+  "issues": [
+    "Missing options extraction",
+    "Potential missing topics"
+  ],
+  "warnings": [
+    "Check for missing content in level 0"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Physical factors affecting performance",
+        "Socio-cultural issues and sports psychology"
+      ],
+      "organization": "The content is organized into components, each with specific topic areas.",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "J587/01 Physical factors affecting performance",
+        "J587/02 Socio-cultural issues and sports psychology"
+      ],
+      "content_mapping": {
+        "J587/01 Physical factors affecting performance": "1.1 Applied anatomy and physiology, 1.2 Physical training",
+        "J587/02 Socio-cultural issues and sports psychology": "2.1 Socio-cultural influences, 2.2 Sports psychology, 2.3 Health, fitness and well-being"
+      },
+      "cross_component": false
+    },
+    "known_pattern": "pe",
+    "extraction_guidance": "Focus on extracting content from the two main written components, ensuring to capture the topic areas and their descriptions.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:54:13.832543"
+}

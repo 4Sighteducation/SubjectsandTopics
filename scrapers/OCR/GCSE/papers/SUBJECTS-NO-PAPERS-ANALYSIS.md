@@ -38,3 +38,23 @@ Re-run the batch script with the corrected qualification names. The scraper will
 - Select Level dropdown when needed
 - Use correct subject codes
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

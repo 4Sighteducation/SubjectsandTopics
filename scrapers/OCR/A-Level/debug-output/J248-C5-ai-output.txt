@@ -1,0 +1,46 @@
+1.1 C5.1 Monitoring chemical reactions
+1.1.1 C5.1a explain how the concentration of a solution in mol/dm³ is related to the mass of the solute and the volume of the solution
+1.1.2 C5.1b describe the technique of titration
+1.1.2.1 Acid/alkali titrations
+1.1.3 C5.1c explain the relationship between the volume of a solution of known concentration of a substance and the volume or concentration of another substance that react completely together
+1.1.3.1 titration calculations
+1.1.4 C5.1d describe the relationship between molar amounts of gases and their volumes and vice versa
+1.1.4.1 Measurement of gas volumes and calculating amount in moles
+1.1.5 C5.1e calculate the volumes of gases involved in reactions using the molar gas volume at room temperature and pressure (assumed to be 24dm³)
+1.1.6 C5.1f explain how the mass of a solute and the volume of the solution is related to the concentration of the solution
+1.1.7 C5.1g calculate the theoretical mass of a product from a given mass of reactant
+1.1.8 C5.1h calculate the percentage yield of a reaction product from the actual yield of a reaction
+1.1.9 C5.1i define the atom economy of a reaction
+1.1.10 C5.1j calculate the atom economy of a reaction to form a desired product from the balanced equation
+1.1.11 C5.1k explain why a particular reaction pathway is chosen to produce a specified product given appropriate data
+1.1.11.1 data such as atom economy (if not given calculated)
+1.1.11.2 yield
+1.1.11.3 rate
+1.1.11.4 equilibrium position
+1.1.11.5 usefulness of by-products
+
+1.2 C5.2 Controlling reactions
+1.2.1 C5.2a suggest practical methods for determining the rate of a given reaction
+1.2.1.1 Rate of reaction experiments
+1.2.1.2 Disappearing cross experiment
+1.2.1.3 Magnesium and acid, marble chip and acid
+1.2.2 C5.2b interpret rate of reaction graphs
+1.2.2.1 1/t is proportional to rate and gradients of graphs
+1.2.3 C5.2c describe the effect of changes in temperature, concentration, pressure, and surface area on rate of reaction
+1.2.4 C5.2d explain the effects on rates of reaction of changes in temperature, concentration and pressure in terms of frequency and energy of collision between particles
+1.2.5 C5.2e explain the effects on rates of reaction of changes in the size of the pieces of a reacting solid in terms of surface area to volume ratio
+1.2.6 C5.2f describe the characteristics of catalysts and their effect on rates of reaction
+1.2.7 C5.2g identify catalysts in reactions
+1.2.7.1 Catalysis of hydrogen peroxide with various black powders including MnO₂
+1.2.7.2 Catalysis of reaction of zinc with sulfuric acid using copper powder
+1.2.8 C5.2h explain catalytic action in terms of reaction profiles
+1.2.8.1 activation energy
+1.2.9 C5.2i recall that enzymes act as catalysts in biological systems
+
+1.3 C5.3 Equilibria
+1.3.1 C5.3a recall that some reactions may be reversed by altering the reaction conditions
+1.3.2 C5.3b recall that dynamic equilibrium occurs in a closed system when the rates of forward and reverse reactions are equal
+1.3.3 C5.3c predict the effect of changing reaction conditions on equilibrium position and suggest appropriate conditions to produce as much of a particular product as possible
+1.3.3.1 Le Chatelier’s principle concerning concentration
+1.3.3.2 temperature
+1.3.3.3 pressure

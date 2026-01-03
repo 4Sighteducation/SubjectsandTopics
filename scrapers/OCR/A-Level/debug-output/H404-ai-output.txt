@@ -1,0 +1,98 @@
+Here is the extracted hierarchy from the provided OCR Design & Technology specification section:
+
+1. Identifying requirements
+   1.1 Considerations
+      1.1.1 What can be learnt by exploring contexts that design solutions are intended for?
+         1.1.1.1 Understand that all design practice is context dependent and that investigations are required to identify what makes a context distinct in relation to environment and surroundings
+         1.1.1.2 user requirements
+         1.1.1.3 economic and market considerations
+         1.1.1.4 product opportunities
+      1.1.2 What can be learnt by undertaking stakeholder analysis?
+         1.1.2.1 Demonstrate an understanding of methods used for investigating stakeholder requirements
+         1.1.2.2 user-centred design and stakeholder analysis
+         1.1.2.3 SWOT analysis
+         1.1.2.4 focus groups
+         1.1.2.5 qualitative observations
+         1.1.2.6 market research to identify gaps for new products or opportunities to update existing products
+      1.1.3 How can usability be considered when designing prototypes?
+         1.1.3.1 Learners should be able to analyse and evaluate factors that may need consideration in relation to the user interaction of a design solution
+         1.1.3.2 the impact of a solution on a user’s lifestyle
+         1.1.3.3 the ease of use and inclusivity of products
+         1.1.3.4 ergonomic considerations and anthropometric data to support ease of use
+         1.1.3.5 aesthetic considerations
+
+2. Learning from existing products and practice
+   2.1 Considerations
+      2.1.1 Why is it important to analyse and evaluate products as part of the design and manufacturing process?
+         2.1.1.1 Analyse and evaluate the features and methods used in existing products and design solutions to inform opportunities and constraints that may influence design decisions to offer product enhancement
+         2.1.1.2 the context of the existing product and the context of future design decisions
+         2.1.1.3 the multiple materials and components used
+         2.1.1.4 methods of construction and manufacture
+         2.1.1.5 how functionality is achieved
+         2.1.1.6 the ease of use, including ergonomic and anthropometric considerations
+         2.1.1.7 inclusivity of products and appropriate consideration of application to a wide variety of users
+         2.1.1.8 fitness for purpose
+         2.1.1.9 the impact on user lifestyles
+         2.1.1.10 the effect of trends, taste and/or style
+         2.1.1.11 the effect of marketing and branding
+         2.1.1.12 the considerations of how to get a product to market
+      2.1.2 Why is it important to understand technological developments in design engineering?
+         2.1.2.1 Be able to critically evaluate how new and emerging technologies influence and inform the evolution and innovation of products and systems in both contemporary and potential future scenarios, including consideration of blue sky and incremental innovation
+
+3. Implications of wider issues
+   3.1 Considerations
+      3.1.1 What factors need to be considered when designing and manufacturing products to overcome possible conflicts between moral and commercial factors?
+         3.1.1.1 Understand how social, ethical and environmental issues have influenced and been impacted by past and present developments in design practice and thinking
+         3.1.1.2 consideration of lifecycle assessment (LCA) at all stages of a product’s life from raw material to disposal
+         3.1.1.3 the source and origin of materials and the ecological and social footprint of materials
+         3.1.1.4 the depletion and effects of using natural sources of energy and raw materials
+         3.1.1.5 planned obsolescence
+         3.1.1.6 buying trends
+         3.1.1.7 environmental incentives and directives
+
+4. Design thinking and communication
+   4.1 Considerations
+      4.1.1 How do designer engineers use annotated 2D and 3D sketching and digital tools to graphically communicate ideas?
+         4.1.1.1 Demonstrate an understanding of how to use annotated sketching and digital tools to graphically communicate ideas and sketch modelling to explore possible improvements, in terms of physical requirements
+         4.1.1.2 function, usability, construction, movement, stability, composition, strength
+         4.1.1.3 aesthetic qualities
+         4.1.1.4 manufacturing processes
+         4.1.1.5 suitability of materials and components
+
+5. Material and component considerations
+   5.1 Considerations
+      5.1.1 What factors influence the selection of materials that are used in products?
+         5.1.1.1 Understand that the selection of materials and components is influenced by a range of factors
+         5.1.1.2 functional performance
+         5.1.1.3 aesthetics
+         5.1.1.4 cost and availability
+         5.1.1.5 properties and characteristics
+         5.1.1.6 environmental considerations
+         5.1.1.7 social, cultural and ethical factors
+
+6. Technical understanding
+   6.1 Considerations
+      6.1.1 What considerations need to be made about the structural integrity of a design solution?
+         6.1.1.1 Learners should understand how and why some materials and/or system components need to be reinforced or stiffened to withstand forces and stresses to fulfil the structural integrity of products
+         6.1.1.2 Learners should understand processes that can be used to ensure the structural integrity of a product
+
+7. Manufacturing processes and techniques
+   7.1 Considerations
+      7.1.1 How can materials and processes be used to make iterative models?
+         7.1.1.1 Understand that 3D iterative models can be made from a range of materials and components to create block models and working prototypes to communicate and test ideas, moving parts and structural integrity
+         7.1.1.2 Demonstrate an understanding of simple processes that can be used to model ideas using hand tools and digital tools, such as rapid prototyping, or digital simulation packages
+
+8. Viability of design solutions
+   8.1 Considerations
+      8.1.1 How can design engineers assess whether a design solution meets its stakeholder requirements?
+         8.1.1.1 Critically evaluating how a design solution has met its intended requirements
+         8.1.1.2 functionality
+         8.1.1.3 ease of use and inclusivity of the solution
+         8.1.1.4 user needs
+
+9. Health and safety
+   9.1 Considerations
+      9.1.1 How can safety be ensured when working with materials in a workshop environment?
+         9.1.1.1 Demonstrate an understanding of safe working practices in the workshop situation
+         9.1.1.2 understanding the need for risk assessments
+         9.1.1.3 identifying hazards and implementing control measures to minimise risks

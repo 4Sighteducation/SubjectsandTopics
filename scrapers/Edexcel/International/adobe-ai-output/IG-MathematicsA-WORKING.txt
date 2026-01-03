@@ -1,0 +1,195 @@
+1. Foundation Tier
+   1.1 Numbers and the number system
+       1.1.1 Integers
+           1.1.1.1 Understand and use integers (positive, negative and zero)
+           1.1.1.2 Understand place value
+           1.1.1.3 Use directed numbers in practical situations
+           1.1.1.4 Order integers
+           1.1.1.5 Use the four rules of addition, subtraction, multiplication and division
+           1.1.1.6 Use brackets and the hierarchy of operations
+           1.1.1.7 Use the terms ‘odd’, ‘even’, ‘prime numbers’, ‘factors’ and ‘multiples’
+           1.1.1.8 Identify prime factors, common factors and common multiples
+       1.1.2 Fractions
+           1.1.2.1 Understand and use equivalent fractions, simplifying a fraction by cancelling common factors
+           1.1.2.2 Understand and use mixed numbers and vulgar fractions
+           1.1.2.3 Identify common denominators
+           1.1.2.4 Order fractions and calculate a given fraction of a given quantity
+           1.1.2.5 Express a given number as a fraction of another number
+           1.1.2.6 Use common denominators to add and subtract fractions and mixed numbers
+           1.1.2.7 Convert a fraction to a decimal or a percentage
+           1.1.2.8 Understand and use unit fractions as multiplicative inverses
+           1.1.2.9 Multiply and divide fractions and mixed numbers
+       1.1.3 Decimals
+           1.1.3.1 Use decimal notation
+           1.1.3.2 Understand place value
+           1.1.3.3 Order decimals
+           1.1.3.4 Convert a decimal to a fraction or a percentage
+           1.1.3.5 Recognise that a terminating decimal is a fraction
+       1.1.4 Powers and roots
+           1.1.4.1 Identify square numbers and cube numbers
+           1.1.4.2 Calculate squares, square roots, cubes and cube roots
+           1.1.4.3 Use index notation and index laws for multiplication and division of positive and negative integer powers including zero
+           1.1.4.4 Express integers as a product of powers of prime factors
+           1.1.4.5 Find highest common factors (HCF) and lowest common multiples (LCM)
+       1.1.5 Set language and notation
+           1.1.5.1 Understand the definition of a set
+           1.1.5.2 Use the set notation ∪, ∩ and ∈ and ∉
+           1.1.5.3 Understand the concept of the universal set and the empty set and the symbols for these sets
+           1.1.5.4 Understand and use the complement of a set
+           1.1.5.5 Use Venn diagrams to represent sets
+       1.1.6 Percentages
+           1.1.6.1 Understand that ‘percentage’ means ‘number of parts per 100’
+           1.1.6.2 Express a given number as a percentage of another number
+           1.1.6.3 Express a percentage as a fraction and as a decimal
+           1.1.6.4 Understand the multiplicative nature of percentages as operators
+           1.1.6.5 Solve simple percentage problems, including percentage increase and decrease
+           1.1.6.6 Use reverse percentages
+           1.1.6.7 Use compound interest and depreciation
+       1.1.7 Ratio and proportion
+           1.1.7.1 Use ratio notation, including reduction to its simplest form and its various links to fraction notation
+           1.1.7.2 Divide a quantity in a given ratio or ratios
+           1.1.7.3 Use the process of proportionality to evaluate unknown quantities
+           1.1.7.4 Calculate an unknown quantity from quantities that vary in direct proportion
+           1.1.7.5 Solve word problems about ratio and proportion
+       1.1.8 Degree of accuracy
+           1.1.8.1 Round integers to a given power of 10
+           1.1.8.2 Round to a given number of significant figures or decimal places
+           1.1.8.3 Identify upper and lower bounds where values are given to a degree of accuracy
+           1.1.8.4 Use estimation to evaluate approximations to numerical calculations
+       1.1.9 Standard form
+           1.1.9.1 Calculate with and interpret numbers in the form a × 10^n where n is an integer and 1 ≤ a < 10
+       1.1.10 Applying number
+           1.1.10.1 Use and apply number in everyday personal, domestic or community life
+           1.1.10.2 Carry out calculations using standard units of mass, length, area, volume and capacity
+           1.1.10.3 Understand and carry out calculations using time, and carry out calculations using money, including converting between currencies
+       1.1.11 Electronic calculators
+           1.1.11.1 Use a scientific electronic calculator to determine numerical results
+
+   1.2 Equations, formulae and identities
+       1.2.1 Use of symbols
+           1.2.1.1 Understand that symbols may be used to represent numbers in equations or variables in expressions and formulae
+           1.2.1.2 Understand that algebraic expressions follow the generalised rules of arithmetic
+           1.2.1.3 Use index notation for positive and negative integer powers (including zero)
+           1.2.1.4 Use index laws in simple cases
+       1.2.2 Algebraic manipulation
+           1.2.2.1 Evaluate expressions by substituting numerical values for letters
+           1.2.2.2 Collect like terms
+           1.2.2.3 Multiply a single term over a bracket
+           1.2.2.4 Take out common factors
+           1.2.2.5 Expand the product of two simple linear expressions
+           1.2.2.6 Understand the concept of a quadratic expression and be able to factorise such expressions
+       1.2.3 Expressions and formulae
+           1.2.3.1 Understand that a letter may represent an unknown number or a variable
+           1.2.3.2 Use correct notational conventions for algebraic expressions and formulae
+           1.2.3.3 Substitute positive and negative integers, decimals and fractions for words and letters in expressions and formulae
+           1.2.3.4 Use formulae from mathematics and other real-life contexts expressed initially in words or diagrammatic form and convert to letters and symbols
+           1.2.3.5 Derive a formula or expression
+           1.2.3.6 Change the subject of a formula where the subject appears once
+       1.2.4 Linear equations
+           1.2.4.1 Solve linear equations, with integer or fractional coefficients, in one unknown in which the unknown appears on either side or both sides of the equation
+           1.2.4.2 Set up simple linear equations from given data
+       1.2.5 Proportion (Higher Tier only)
+       1.2.6 Simultaneous linear equations
+           1.2.6.1 Calculate the exact solution of two simultaneous equations in two unknowns
+       1.2.7 Quadratic equations
+           1.2.7.1 Solve quadratic equations by factorisation
+       1.2.8 Inequalities
+           1.2.8.1 Understand and use the symbols >, <, ≥ and ≤
+           1.2.8.2 Understand and use the convention for open and closed intervals on a number line
+           1.2.8.3 Solve simple linear inequalities in one variable and represent the solution set on a number line
+           1.2.8.4 Represent simple linear inequalities on rectangular Cartesian graphs
+           1.2.8.5 Identify regions on rectangular Cartesian graphs defined by simple linear inequalities
+
+   1.3 Sequences, functions and graphs
+       1.3.1 Sequences
+           1.3.1.1 Generate terms of a sequence using term-to-term and position-to-term definitions of the sequence
+           1.3.1.2 Find subsequent terms of an integer sequence and the rule for generating it
+           1.3.1.3 Use linear expressions to describe the nth term of arithmetic sequences
+       1.3.2 Function notation (Higher Tier only)
+       1.3.3 Graphs
+           1.3.3.1 Interpret information presented in a range of linear and non-linear graphs
+           1.3.3.2 Understand and use conventions for rectangular Cartesian coordinates
+           1.3.3.3 Plot points (x, y) in any of the four quadrants or locate points with given coordinates
+           1.3.3.4 Determine the coordinates of points identified by geometrical information
+           1.3.3.5 Determine the coordinates of the midpoint of a line segment, given the coordinates of the two end points
+           1.3.3.6 Draw and interpret straight line graphs
+           1.3.3.7 Find the gradient of a straight line
+           1.3.3.8 Recognise that equations of the form y = mx + c are straight line graphs with gradient m and intercept on the y-axis at the point (0, c)
+           1.3.3.9 Recognise, generate points and plot graphs of linear and quadratic functions
+       1.3.4 Calculus (Higher Tier only)
+
+2. Higher Tier
+   2.1 Numbers and the number system
+       2.1.1 Integers (See Foundation Tier)
+       2.1.2 Fractions (See Foundation Tier)
+       2.1.3 Decimals
+           2.1.3.1 Convert recurring decimals into fractions
+       2.1.4 Powers and roots
+           2.1.4.1 Understand the meaning of surds
+           2.1.4.2 Manipulate surds, including rationalising a denominator
+           2.1.4.3 Use index laws to simplify and evaluate numerical expressions involving integer, fractional and negative powers
+       2.1.5 Set language and notation
+           2.1.5.1 Understand sets defined in algebraic terms, and understand and use subsets
+           2.1.5.2 Use Venn diagrams to represent sets and the number of elements in sets
+           2.1.5.3 Use the notation n(A) for the number of elements in the set A
+           2.1.5.4 Use sets in practical situations
+       2.1.6 Percentages
+           2.1.6.1 Use repeated percentage change
+           2.1.6.2 Solve compound interest problems
+       2.1.7 Ratio and proportion (See Foundation Tier)
+       2.1.8 Degree of accuracy
+           2.1.8.1 Solve problems using upper and lower bounds where values are given to a degree of accuracy
+       2.1.9 Standard form (See Foundation Tier)
+       2.1.10 Applying number (See Foundation Tier)
+       2.1.11 Electronic calculators (See Foundation Tier)
+
+   2.2 Equations, formulae and identities
+       2.2.1 Use of symbols
+           2.2.1.1 Use index notation involving fractional, negative and zero powers
+       2.2.2 Algebraic manipulation
+           2.2.2.1 Expand the product of two or more linear expressions
+           2.2.2.2 Understand the concept of a quadratic expression and be able to factorise such expressions
+           2.2.2.3 Manipulate algebraic fractions where the numerator and/or the denominator can be numeric, linear or quadratic
+           2.2.2.4 Complete the square for a given quadratic expression
+           2.2.2.5 Use algebra to support and construct proofs
+       2.2.3 Expressions and formulae
+           2.2.3.1 Understand the process of manipulating formulae or equations to change the subject, to include cases where the subject may appear twice or a power of the subject occurs
+       2.2.4 Linear equations (See Foundation Tier)
+       2.2.5 Proportion
+           2.2.5.1 Set up problems involving direct or inverse proportion and relate algebraic solutions to graphical representation of the equations
+       2.2.6 Simultaneous linear equations
+           2.2.6.1 Calculate the exact solution of two simultaneous equations in two unknowns
+           2.2.6.2 Interpret the equations as lines and the common solution as the point of intersection
+       2.2.7 Quadratic equations
+           2.2.7.1 Solve quadratic equations by factorisation
+           2.2.7.2 Solve quadratic equations by using the quadratic formula or completing the square
+           2.2.7.3 Form and solve quadratic equations from data given in a context
+           2.2.7.4 Solve simultaneous equations in two unknowns, one equation being linear and the other being quadratic
+       2.2.8 Inequalities
+           2.2.8.1 Solve quadratic inequalities in one unknown and represent the solution set on a number line
+           2.2.8.2 Identify harder examples of regions defined by linear inequalities
+
+   2.3 Sequences, functions and graphs
+       2.3.1 Sequences
+           2.3.1.1 Understand and use common difference (d) and first term (a) in an arithmetic sequence
+           2.3.1.2 Know and use nth term = a + (n−1)d
+           2.3.1.3 Find the sum of the first n terms of an arithmetic series (Sn)
+       2.3.2 Function notation
+           2.3.2.1 Understand the concept that a function is a mapping between elements of two sets
+           2.3.2.2 Use function notations of the form f(x) = … and f : x  …
+           2.3.2.3 Understand the terms ‘domain’ and ‘range’ and which values may need to be excluded from a domain
+           2.3.2.4 Understand and find the composite function fg and the inverse function f-1
+       2.3.3 Graphs
+           2.3.3.1 Recognise, plot and draw graphs with equation: y = Ax^3 + Bx^2 + Cx + D
+           2.3.3.2 Apply to the graph of y = f(x) the transformations y = f(x) + a, y = f(ax), y = f(x + a), y = af(x)
+           2.3.3.3 Interpret and analyse transformations of functions and write the functions algebraically
+           2.3.3.4 Find the gradients of non-linear graphs
+           2.3.3.5 Find the intersection points of two graphs, one linear and one non-linear
+           2.3.3.6 Calculate the gradient of a straight line given the coordinates of two points
+           2.3.3.7 Find the equation of a straight line parallel to a given line; find the equation of a straight line perpendicular to a given line
+       2.3.4 Calculus
+           2.3.4.1 Understand the concept of a variable rate of change
+           2.3.4.2 Differentiate integer powers of x
+           2.3.4.3 Determine gradients, rates of change, stationary points, turning points (maxima and minima) by differentiation and relate these to graphs
+           2.3.4.4 Distinguish between maxima and minima by considering the general shape of the graph only
+           2.3.4.5 Apply calculus to linear kinematics and to other simple practical problems

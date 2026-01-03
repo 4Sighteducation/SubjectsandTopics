@@ -1,0 +1,78 @@
+{
+  "subject_code": "J258",
+  "subject_name": "Chemistry B",
+  "url": "https://www.ocr.org.uk/Images/234599-specification-accredited-gcse-twenty-first-century-science-suite-chemistry-b-j258.pdf",
+  "start_time": "2025-11-20T13:36:27.634917",
+  "success": true,
+  "topics_extracted": 466,
+  "levels": {
+    "0": 2,
+    "1": 16,
+    "2": 73,
+    "3": 375
+  },
+  "issues": [
+    "Options not extracted",
+    "Potential missing topics due to high topic count"
+  ],
+  "warnings": [
+    "Check for missing content in level 0 and 1",
+    "Verify logical organization of topics"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": true,
+      "foundation_content": "Content is split into eight teaching chapters: Breadth in chemistry and Depth in chemistry. Both papers assess content from all eight chapters.",
+      "higher_content": "Content is split into eight teaching chapters: Breadth in chemistry and Depth in chemistry. Both papers assess content from all eight chapters.",
+      "differences": [
+        "Emboldened statements will only be assessed in Higher Tier papers."
+      ]
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "chapter-based",
+    "content_overview": {
+      "main_sections": [
+        "Chapter C1: Air and water",
+        "Chapter C2: Chemical patterns",
+        "Chapter C3: Chemicals of the natural environment",
+        "Chapter C4: Material choices",
+        "Chapter C5: Chemical analysis",
+        "Chapter C6: Making useful chemicals",
+        "Chapter C7: Ideas about Science",
+        "Chapter C8: Practical Skills"
+      ],
+      "organization": "Content is divided into eight chapters, each with an overview and a summary of knowledge and understanding.",
+      "expected_depth": 3
+    },
+    "assessment": {
+      "written_papers": [
+        "J258/01: Breadth in chemistry (Foundation Tier)",
+        "J258/02: Depth in chemistry (Foundation Tier)",
+        "J258/03: Breadth in chemistry (Higher Tier)",
+        "J258/04: Depth in chemistry (Higher Tier)"
+      ],
+      "content_mapping": {
+        "J258/01": "Chapters C1 to C8",
+        "J258/02": "Chapters C1 to C8",
+        "J258/03": "Chapters C1 to C8",
+        "J258/04": "Chapters C1 to C8"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting chapter-based content and assessment structure, ensuring differentiation between Foundation and Higher tiers.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:36:27.634933"
+}

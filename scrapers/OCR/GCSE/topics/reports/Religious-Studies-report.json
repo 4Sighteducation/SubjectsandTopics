@@ -1,0 +1,153 @@
+{
+  "subject_name": "Religious Studies",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/xqlaj4yq/eduqas-gcse-rs-spec-short-from-2016-e-1109.pdf",
+  "start_time": "2025-11-23T19:14:17.607938",
+  "success": true,
+  "topics_extracted": 211,
+  "levels": {
+    "0": 3,
+    "1": 9,
+    "2": 33,
+    "3": 113,
+    "4": 53
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": true,
+    "has_appendices": false,
+    "components": [
+      {
+        "number": "1",
+        "name": "– Issues of Life and Death all religion sections –"
+      },
+      {
+        "number": "3",
+        "name": "Buddhism – we have changed the wording from"
+      },
+      {
+        "number": "1",
+        "name": "6"
+      },
+      {
+        "number": "2",
+        "name": "19"
+      },
+      {
+        "number": "3",
+        "name": "21"
+      },
+      {
+        "number": "1",
+        "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+      },
+      {
+        "number": "2",
+        "name": "Study of Christianity"
+      },
+      {
+        "number": "3",
+        "name": "Study of a World Faith"
+      },
+      {
+        "number": "1",
+        "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+      },
+      {
+        "number": "2",
+        "name": "Study of Christianity"
+      },
+      {
+        "number": "3",
+        "name": "Study of a World Faith"
+      },
+      {
+        "number": "1",
+        "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+      },
+      {
+        "number": "2",
+        "name": "Study of Christianity"
+      },
+      {
+        "number": "3",
+        "name": "The compulsory nature of this component ensures that learners know and"
+      },
+      {
+        "number": "1",
+        "name": "25% 25%"
+      },
+      {
+        "number": "2",
+        "name": "12.5% 12.5%"
+      },
+      {
+        "number": "3",
+        "name": "12.5% 12.5%"
+      },
+      {
+        "number": "3",
+        "name": "Option 1: Buddhism C125P1"
+      },
+      {
+        "number": "3",
+        "name": "Option 2: Hinduism C125P2"
+      },
+      {
+        "number": "3",
+        "name": "Option 3: Islam C125P3"
+      },
+      {
+        "number": "3",
+        "name": "Option 4: Judaism C125P4"
+      },
+      {
+        "number": "3",
+        "name": "Option 5: Sikhism C125P5"
+      },
+      {
+        "number": "1",
+        "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+      },
+      {
+        "number": "2",
+        "name": "Study of Christianity"
+      },
+      {
+        "number": "3",
+        "name": "Study of a World Faith"
+      },
+      {
+        "number": "1",
+        "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+      },
+      {
+        "number": "2",
+        "name": "Study of Christianity"
+      },
+      {
+        "number": "3",
+        "name": "Study of a World Faith"
+      }
+    ],
+    "tiers": [],
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "appendices": [],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 60.238401651382446,
+  "end_time": "2025-11-23T19:15:17.846339"
+}

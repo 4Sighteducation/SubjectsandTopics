@@ -1,0 +1,67 @@
+{
+  "subject_code": "J309",
+  "subject_name": "Food Preparation and Nutrition",
+  "url": "https://www.ocr.org.uk/Images/234806-specification-accredited-gcse-food-preparation-and-nutrition-j309.pdf",
+  "start_time": "2025-11-20T13:46:15.967332",
+  "success": true,
+  "topics_extracted": 119,
+  "levels": {
+    "0": 5,
+    "1": 28,
+    "2": 34,
+    "3": 45,
+    "4": 7
+  },
+  "issues": [
+    "Missing topics in level 4",
+    "Incorrect level distribution"
+  ],
+  "warnings": [
+    "Potential structure misalignment",
+    "Possible missing options"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "topic-based",
+    "content_overview": {
+      "main_sections": [
+        "Section A: Nutrition",
+        "Section B: Food (food provenance and food choice)",
+        "Section C: Cooking and food preparation",
+        "Section D: Skills requirements"
+      ],
+      "organization": "The content is organized into sections based on topics related to food preparation and nutrition.",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "Food Preparation and Nutrition (01)"
+      ],
+      "content_mapping": {
+        "Food Preparation and Nutrition (01)": "Covers content from all sections: Nutrition, Food provenance and choice, Cooking and food preparation, Skills requirements"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting content from the main sections and the assessment structure, ensuring to capture the topic-based organization.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:46:15.967340"
+}

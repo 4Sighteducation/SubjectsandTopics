@@ -1,0 +1,79 @@
+{
+  "subject_code": "J249",
+  "subject_name": "Physics A",
+  "url": "https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf",
+  "start_time": "2025-11-20T13:55:02.050538",
+  "success": true,
+  "topics_extracted": 88,
+  "levels": {
+    "0": 6,
+    "1": 22,
+    "2": 60
+  },
+  "issues": [
+    "Options not extracted",
+    "Expected depth not fully achieved"
+  ],
+  "warnings": [
+    "Potential missing topics due to incomplete extraction"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": true,
+      "foundation_content": "Content is split into eight teaching topics P1-P8 and a practical activity skills topic P9.",
+      "higher_content": "Content is split into eight teaching topics P1-P8 and a practical activity skills topic P9.",
+      "differences": [
+        "Statements shown in bold type will only be tested in the Higher Tier papers. All other statements will be assessed in both Foundation and Higher Tier papers."
+      ]
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [
+        "Topics P1-P9"
+      ],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "topic-based",
+    "content_overview": {
+      "main_sections": [
+        "Topic P1: Matter",
+        "Topic P2: Forces",
+        "Topic P3: Electricity",
+        "Topic P4: Magnetism and magnetic fields",
+        "Topic P5: Waves in matter",
+        "Topic P6: Radioactivity",
+        "Topic P7: Energy",
+        "Topic P8: Global challenges",
+        "Topic P9: Practical skills"
+      ],
+      "organization": "Content is divided into topics P1-P9, each with sub-topics and specific learning outcomes.",
+      "expected_depth": 3
+    },
+    "assessment": {
+      "written_papers": [
+        "Paper 1: Topics P1-P4 and P9",
+        "Paper 2: Topics P5-P8 with assumed knowledge of Topics P1-P4 and P9",
+        "Paper 3: Topics P1-P4 and P9",
+        "Paper 4: Topics P5-P8 with assumed knowledge of Topics P1-P4 and P9"
+      ],
+      "content_mapping": {
+        "Paper 1": "Topics P1-P4 and P9",
+        "Paper 2": "Topics P5-P8 with assumed knowledge of Topics P1-P4 and P9",
+        "Paper 3": "Topics P1-P4 and P9",
+        "Paper 4": "Topics P5-P8 with assumed knowledge of Topics P1-P4 and P9"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting topic-based content and assessment structure, ensuring tier-specific content is identified.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:55:02.050550"
+}

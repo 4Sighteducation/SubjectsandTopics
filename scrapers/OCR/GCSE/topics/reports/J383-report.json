@@ -1,0 +1,73 @@
+{
+  "subject_code": "J383",
+  "subject_name": "Geography A (Geographical Themes)",
+  "url": "https://www.ocr.org.uk/Images/207306-specification-accredited-gcse-geography-a-j383.pdf",
+  "start_time": "2025-11-20T13:11:51.321692",
+  "success": true,
+  "topics_extracted": 72,
+  "levels": {
+    "0": 1,
+    "1": 3,
+    "2": 10,
+    "3": 58
+  },
+  "issues": [
+    "Missing options extraction",
+    "Potential missing topics"
+  ],
+  "warnings": [
+    "Check for correct tier handling",
+    "Verify logical organization"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [
+        "Living in the UK Today (01)",
+        "The World Around Us (02)",
+        "Geographical Skills (03)"
+      ],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Living in the UK Today",
+        "The World Around Us",
+        "Geographical Skills"
+      ],
+      "organization": "The content is organized into three main components, each focusing on different geographical themes and skills.",
+      "expected_depth": 3
+    },
+    "assessment": {
+      "written_papers": [
+        "Living in the UK Today (01)",
+        "The World Around Us (02)",
+        "Geographical Skills (03)"
+      ],
+      "content_mapping": {
+        "Living in the UK Today (01)": "Landscapes of the UK, People of the UK, UK Environmental Challenges",
+        "The World Around Us (02)": "Ecosystems of the Planet, People of the Planet, Environmental threats to our Planet",
+        "Geographical Skills (03)": "Geographical Skills, Fieldwork Assessment"
+      },
+      "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the three main components and their respective themes and skills. Ensure to capture the structure of key ideas, content, and scale.",
+    "content_found": true
+  },
+  "duration_seconds": 47.101253032684326,
+  "end_time": "2025-11-20T13:12:38.422947"
+}

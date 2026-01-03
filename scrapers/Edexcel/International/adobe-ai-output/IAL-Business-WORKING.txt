@@ -1,0 +1,360 @@
+1. Unit 1: Marketing and People
+   1.1 Meeting Customer Needs
+       1.1.1 The Market
+           1.1.1.1 Mass markets and niche markets
+           1.1.1.2 Dynamic markets
+           1.1.1.3 How competition affects the market
+           1.1.1.4 The difference between risk and uncertainty
+       1.1.2 Market Research
+           1.1.2.1 Primary and secondary market research data
+           1.1.2.2 Methods of primary market research
+           1.1.2.3 Methods of secondary market research
+           1.1.2.4 Sampling methods
+       1.1.3 Market Positioning
+           1.1.3.1 Product and market orientation
+           1.1.3.2 Market mapping
+           1.1.3.3 Market segmentation
+           1.1.3.4 Competitive advantage of a product or service
+           1.1.3.5 The purpose of product differentiation
+           1.1.3.6 Adding value to products/services
+   1.2 The Market
+       1.2.1 Demand
+           1.2.1.1 Factors leading to a change in demand
+       1.2.2 Supply
+           1.2.2.1 Factors leading to a change in supply
+       1.2.3 Markets
+           1.2.3.1 The interaction of demand and supply
+           1.2.3.2 The drawing and interpretation of demand and supply diagrams
+       1.2.4 Price Elasticity of Demand (PED)
+           1.2.4.1 Calculation of price elasticity of demand
+           1.2.4.2 Interpretation of numerical values of price elasticity of demand
+           1.2.4.3 The factors influencing price elasticity of demand
+           1.2.4.4 The significance of price elasticity of demand to businesses
+           1.2.4.5 Calculation and interpretation of the relationship between price elasticity of demand and total revenue
+       1.2.5 Income Elasticity of Demand (YED)
+           1.2.5.1 Calculation of income elasticity of demand
+           1.2.5.2 Normal and inferior goods
+           1.2.5.3 Interpretation of numerical values of income elasticity of demand
+           1.2.5.4 The factors influencing income elasticity of demand
+           1.2.5.5 The significance of income elasticity of demand to businesses
+   1.3 Marketing Mix and Strategy
+       1.3.1 Marketing Objectives and Strategy
+           1.3.1.1 Marketing objectives
+           1.3.1.2 The product life cycle and extension strategies
+           1.3.1.3 The Boston Matrix and the product portfolio
+           1.3.1.4 The concept of ‘marketing mix’
+           1.3.1.5 Marketing strategies appropriate for different types of market
+           1.3.1.6 Consumer behaviour
+       1.3.2 Product/Service Design
+           1.3.2.1 Design mix
+           1.3.2.2 Changes in the elements of the design mix to reflect social trends
+       1.3.3 Promotion and Branding
+           1.3.3.1 Types of promotion
+           1.3.3.2 Types of branding
+           1.3.3.3 The benefits of strong branding
+           1.3.3.4 Ways to build a brand
+           1.3.3.5 Changes in branding and promotion to reflect social trends
+       1.3.4 Pricing Strategies
+           1.3.4.1 Types of pricing strategy
+           1.3.4.2 Factors that determine the most appropriate pricing strategy
+           1.3.4.3 Changes in pricing to reflect social trends
+       1.3.5 Distribution
+           1.3.5.1 Distribution channels
+           1.3.5.2 Changes in distribution methods
+   1.4 Managing People
+       1.4.1 Approaches to Staffing
+           1.4.1.1 Staff as an asset; staff as a cost
+           1.4.1.2 Flexible workforce
+           1.4.1.3 Distinction between dismissal and redundancy
+           1.4.1.4 Employer/employee relationships
+       1.4.2 Recruitment, Selection and Training
+           1.4.2.1 Recruitment and selection process
+           1.4.2.2 Costs of recruitment, selection and training
+           1.4.2.3 Types of training
+       1.4.3 Organisational Design
+           1.4.3.1 Structure
+           1.4.3.2 Types of structure
+           1.4.3.3 Impact of different organisational structures
+       1.4.4 Motivation in Theory and Practice
+           1.4.4.1 The importance of employee motivation
+           1.4.4.2 Motivation theories
+           1.4.4.3 Financial methods to improve employee performance
+           1.4.4.4 Non-financial methods to improve employee performance
+       1.4.5 Leadership
+           1.4.5.1 Leadership
+           1.4.5.2 Types of leadership style
+           1.4.5.3 The difficulty of moving from entrepreneur to leader
+   1.5 Entrepreneurs and Leaders
+       1.5.1 Role of an Entrepreneur
+           1.5.1.1 Creating and setting up a business
+           1.5.1.2 Running and expanding/developing a business
+           1.5.1.3 Innovation within a business
+           1.5.1.4 Barriers to entrepreneurship
+           1.5.1.5 Anticipating risk and uncertainty in the business environment
+       1.5.2 Entrepreneurial Motives and Characteristics
+           1.5.2.1 Characteristics and skills required
+           1.5.2.2 Reasons why people set up businesses
+       1.5.3 Business Objectives
+           1.5.3.1 Survival
+           1.5.3.2 Profit maximisation
+           1.5.3.3 Other objectives
+       1.5.4 Business Choices
+           1.5.4.1 Opportunity cost
+           1.5.4.2 Trade-offs
+
+2. Unit 2: Managing Business Activities
+   2.1 Planning a Business and Raising Finance
+       2.1.1 Planning
+           2.1.1.1 Content of a business plan
+           2.1.1.2 Relevance and uses of a business plan
+       2.1.2 Internal Finance
+           2.1.2.1 Owner’s capital: personal savings
+           2.1.2.2 Retained profit
+           2.1.2.3 Sale of assets
+       2.1.3 External Finance
+           2.1.3.1 Sources of finance and their suitability
+           2.1.3.2 Methods of finance and their suitability
+       2.1.4 Forms of Business
+           2.1.4.1 Sole trader, partnership and private limited company
+           2.1.4.2 Franchising, social enterprise, lifestyle businesses, online businesses
+           2.1.4.3 Growth to public limited companies and stock market flotation
+       2.1.5 Liability
+           2.1.5.1 Implications of limited and unlimited liability
+           2.1.5.2 Finance appropriate for limited and unlimited liability businesses
+   2.2 Financial Planning
+       2.2.1 Sales, Revenue and Costs
+           2.2.1.1 Calculation of sales volume and sales revenue
+           2.2.1.2 Calculation of fixed, variable costs, total costs and average costs
+           2.2.1.3 Ways of improving sales volumes and sales revenues
+       2.2.2 Sales Forecasting
+           2.2.2.1 Purpose of sales forecasts
+           2.2.2.2 Factors affecting sales forecasts
+           2.2.2.3 Difficulties of sales forecasting
+       2.2.3 Break-even
+           2.2.3.1 Contribution
+           2.2.3.2 Break-even point
+           2.2.3.3 Using contribution to calculate the break-even point
+           2.2.3.4 Margin of safety
+           2.2.3.5 Interpretation of break-even charts
+           2.2.3.6 Limitations of break-even analysis
+       2.2.4 Cash Flow
+           2.2.4.1 Construction and interpretation of simple cash-flow forecasts
+           2.2.4.2 Use and limitations of cash-flow forecasts
+       2.2.5 Budgets
+           2.2.5.1 Purposes of budgets
+           2.2.5.2 Types of budget
+           2.2.5.3 Variance analysis
+           2.2.5.4 Difficulties of budgeting
+   2.3 Managing Finance
+       2.3.1 Profit
+           2.3.1.1 Calculation of profit
+           2.3.1.2 Ways to increase profits
+           2.3.1.3 Statement of comprehensive income
+       2.3.2 Liquidity
+           2.3.2.1 Distinction between profit and cash
+           2.3.2.2 Statement of financial position
+           2.3.2.3 Working capital and its management
+       2.3.3 Business Failure
+           2.3.3.1 Internal causes of business failure
+           2.3.3.2 External causes of business failure
+   2.4 Resource Management
+       2.4.1 Production, Productivity and Efficiency
+           2.4.1.1 Methods of production
+           2.4.1.2 Productivity
+           2.4.1.3 Efficiency
+           2.4.1.4 The distinction between labour- and capital-intensive production
+           2.4.1.5 Competitive advantage from short product lead-in times
+       2.4.2 Capacity Utilisation
+           2.4.2.1 Capacity utilisation
+           2.4.2.2 Implications of under- and over-utilisation of capacity
+           2.4.2.3 Ways of improving capacity utilisation
+       2.4.3 Inventory Control
+           2.4.3.1 Interpretation of inventory control diagram
+           2.4.3.2 Buffer inventory
+           2.4.3.3 Implications of poor inventory control
+           2.4.3.4 Just in time (JIT)
+           2.4.3.5 Waste minimisation
+           2.4.3.6 Competitive advantage from lean production
+       2.4.4 Quality Management
+           2.4.4.1 Quality
+           2.4.4.2 Total Quality Management (TQM)
+           2.4.4.3 Continuous improvement (Kaizen)
+           2.4.4.4 Competitive advantage from quality management
+   2.5 External Influences
+       2.5.1 Economic Influences
+           2.5.1.1 The effect on businesses of changes in economic factors
+       2.5.2 Legislation
+           2.5.2.1 The effects on businesses of legislation
+       2.5.3 The Competitive Environment
+           2.5.3.1 The effects on businesses of competition
+           2.5.3.2 Ways for a small business to compete in a competitive market
+
+3. Unit 3: Business Decisions and Strategy
+   3.1 Business Objectives and Strategy
+       3.1.1 Corporate Objectives
+           3.1.1.1 Development of corporate objectives
+           3.1.1.2 Critical appraisal of mission statements
+       3.1.2 Theories of Corporate Strategy
+           3.1.2.1 Development of corporate strategy
+           3.1.2.2 Aim of portfolio analysis
+           3.1.2.3 Effect of strategic and tactical decisions
+       3.1.3 SWOT Analysis
+           3.1.3.1 SWOT analysis
+       3.1.4 Impact of External Influences
+           3.1.4.1 PESTLE
+           3.1.4.2 The changing competitive environment
+           3.1.4.3 Porter’s five forces
+   3.2 Business Growth
+       3.2.1 Growth
+           3.2.1.1 Objectives of growth
+           3.2.1.2 The distinction between inorganic and organic growth
+       3.2.2 Organic Growth
+           3.2.2.1 Methods of growing organically
+           3.2.2.2 Advantages and disadvantages of organic growth
+       3.2.3 Inorganic Growth
+           3.2.3.1 Mergers and takeovers
+           3.2.3.2 Advantages and disadvantages of inorganic growth
+       3.2.4 Problems Arising from Growth
+           3.2.4.1 Diseconomies of scale
+           3.2.4.2 Internal communication
+           3.2.4.3 Overtrading
+   3.3 Decision-Making Techniques
+       3.3.1 Quantitative Sales Forecasting
+           3.3.1.1 Calculation of time-series analysis
+           3.3.1.2 Interpretation of scatter graphs and line of best fit
+           3.3.1.3 Limitations of quantitative sales forecasting techniques
+       3.3.2 Investment Appraisal
+           3.3.2.1 Simple payback
+           3.3.2.2 Average (accounting) rate of return
+           3.3.2.3 Discounted cash flow
+           3.3.2.4 Calculations and interpretations of figures generated by these techniques
+           3.3.2.5 Limitations of these techniques
+       3.3.3 Decision Trees
+           3.3.3.1 Construct and interpret simple decision-tree diagrams
+           3.3.3.2 Calculations and interpretations of figures generated by these techniques
+           3.3.3.3 Limitations of using decision trees
+       3.3.4 Critical Path Analysis
+           3.3.4.1 Nature and purpose of critical path analysis
+           3.3.4.2 Complete and interpret simple networks to identify the critical path
+           3.3.4.3 Calculate earliest start time, latest finish time, total float
+           3.3.4.4 Limitations of using critical path analysis
+       3.3.5 Contribution
+           3.3.5.1 Nature and purpose of contribution
+           3.3.5.2 Calculation and interpretation of contribution
+           3.3.5.3 Use of contribution as a decision-making technique
+   3.4 Influences on Business Decisions
+       3.4.1 Corporate Culture
+           3.4.1.1 Strong and weak cultures
+           3.4.1.2 Classification of company cultures
+           3.4.1.3 How corporate culture is formed
+           3.4.1.4 Difficulties in changing an established culture
+       3.4.2 Stakeholder Model versus Shareholder Model
+           3.4.2.1 Internal and external stakeholders
+           3.4.2.2 Stakeholder objectives
+           3.4.2.3 Stakeholder and shareholder influences
+           3.4.2.4 The potential for conflict between profit-based and wider objectives
+       3.4.3 Business Ethics
+           3.4.3.1 Ethics of strategic decisions
+           3.4.3.2 Pay and rewards
+           3.4.3.3 Corporate social responsibility (CSR)
+   3.5 Assessing Competitiveness
+       3.5.1 Interpretation of Financial Statements
+           3.5.1.1 Statement of comprehensive income
+           3.5.1.2 Statement of financial position
+       3.5.2 Ratio Analysis
+           3.5.2.1 Calculate profitability, liquidity, gearing ratio, return on capital employed (ROCE)
+           3.5.2.2 Interpret ratios to make business decisions
+           3.5.2.3 The limitations of ratio analysis
+       3.5.3 Human Resources
+           3.5.3.1 Calculate and interpret labour productivity, labour turnover and retention, absenteeism
+           3.5.3.2 Limitations of these calculations
+           3.5.3.3 Human resource strategies to increase productivity and retention and to reduce turnover and absenteeism
+   3.6 Managing Change
+       3.6.1 Key Factors in Change
+           3.6.1.1 Organisational culture
+           3.6.1.2 Size of organisation
+           3.6.1.3 Time/speed of change
+           3.6.1.4 Managing resistance to change
+           3.6.1.5 Transformative leadership
+       3.6.2 Contingency Planning
+           3.6.2.1 Identifying key risks through risk assessment
+           3.6.2.2 Planning for risk mitigation
+
+4. Unit 4: Global Business
+   4.1 Globalisation
+       4.1.1 Growing Economies
+           4.1.1.1 Characteristics of developed, developing and emerging economies
+           4.1.1.2 Growing economic power of countries within Asia, Africa and other parts of the world
+           4.1.1.3 Implications of economic growth for individuals and businesses
+           4.1.1.4 Indicators of growth
+       4.1.2 International Trade and Business Growth
+           4.1.2.1 Exports and imports
+           4.1.2.2 Implications of increasing specialisation by countries and businesses
+           4.1.2.3 Foreign direct investment (FDI) and link to business growth
+       4.1.3 Factors Contributing to Increased Globalisation
+           4.1.3.1 Trade liberalisation, the reduction of trade barriers and the role of the WTO
+           4.1.3.2 Political change
+           4.1.3.3 Reduced cost of transport and communication
+           4.1.3.4 Increased significance of global (multinational) corporations (MNCs)
+           4.1.3.5 Increased investment flows (FDI)
+           4.1.3.6 Migration within and between economies
+           4.1.3.7 Growth of the global labour force
+           4.1.3.8 Structural change
+           4.1.3.9 Impact on businesses of increased globalisation
+       4.1.4 Protectionism
+           4.1.4.1 Reasons for protectionism
+           4.1.4.2 Tariffs
+           4.1.4.3 Import quotas
+           4.1.4.4 Other trade barriers
+           4.1.4.5 Impact on businesses of protectionism
+       4.1.5 Trading Blocs
+           4.1.5.1 Expansion of trading blocs
+           4.1.5.2 The impact on businesses of trading blocs
+   4.2 Global Markets and Business Expansion
+       4.2.1 Conditions that Prompt Trade
+           4.2.1.1 Push factors
+           4.2.1.2 Pull factors
+           4.2.1.3 Cost competitiveness by off-shoring and outsourcing
+           4.2.1.4 Extending the product life cycle
+       4.2.2 Assessment of a Country as a Market
+           4.2.2.1 Factors to consider
+           4.2.2.2 Application of Porter’s five forces in assessing potential markets
+       4.2.3 Assessment of a Country as a Production Location
+           4.2.3.1 Factors to consider
+       4.2.4 Reasons for Global Mergers, Takeovers or Joint Ventures
+           4.2.4.1 Spreading risk and economies of scale
+           4.2.4.2 Entering new markets/trade blocs
+           4.2.4.3 Acquiring national/international brand names/patents
+           4.2.4.4 Securing resources/supplies
+           4.2.4.5 Maintaining/increasing global competitiveness
+           4.2.4.6 Reducing competition
+           4.2.4.7 Making use of local knowledge
+           4.2.4.8 Government or legal requirement
+           4.2.4.9 Accessing supply chains/distribution networks
+           4.2.4.10 Sharing costs/risks
+       4.2.5 Global Expansion and Uncertainty
+           4.2.5.1 The impact on businesses of movements in exchange rates
+           4.2.5.2 Skill shortages and their impact on international competitiveness
+   4.3 Global Marketing
+       4.3.1 Marketing
+           4.3.1.1 Global marketing strategy and global localisation (glocalisation)
+           4.3.1.2 Different marketing approaches
+           4.3.1.3 Application and adaptation of the marketing mix (4Ps) to global markets
+           4.3.1.4 Application of Ansoff’s matrix and Porter’s matrix to global marketing decisions
+       4.3.2 Niche Markets
+           4.3.2.1 Cultural diversity
+           4.3.2.2 Features of global niche markets
+           4.3.2.3 Application and adaptation of the marketing mix (4Ps) to suit global niches
+       4.3.3 Cultural/Social Factors
+           4.3.3.1 Considerations for businesses
+   4.4 Global Industries and Companies (Multinational Corporations)
+       4.4.1 The Impact of MNCs
+           4.4.1.1 Impact of MNCs on the local economy
+           4.4.1.2 Impact of MNCs on the national economy
+       4.4.2 International Business Ethics
+           4.4.2.1 Stakeholder conflicts
+           4.4.2.2 Environmental considerations
+           4.4.2.3 Supply chain considerations
+           4.4.2.4 Marketing considerations
+       4.4.3 Controlling MNCs
+           4.4.3.1 Factors to consider

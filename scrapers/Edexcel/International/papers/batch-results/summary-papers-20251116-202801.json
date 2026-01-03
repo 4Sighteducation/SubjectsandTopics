@@ -1,0 +1,194 @@
+{
+  "batch_name": "International GCSE Exam Papers Batch",
+  "start_time": "2025-11-16T20:28:01.802272",
+  "end_time": "2025-11-16T23:55:16.804277",
+  "elapsed_seconds": 12435.001300573349,
+  "elapsed_formatted": "207.3 minutes",
+  "summary": {
+    "total": 25,
+    "success": 23,
+    "failed": 2,
+    "total_paper_sets": 354
+  },
+  "results": [
+    {
+      "subject": "IG-Accounting",
+      "status": "success",
+      "paper_sets": 19,
+      "time_seconds": 65.38109588623047
+    },
+    {
+      "subject": "IG-Arabic",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 61.58910393714905
+    },
+    {
+      "subject": "IG-Biology",
+      "status": "success",
+      "paper_sets": 22,
+      "time_seconds": 66.26521110534668
+    },
+    {
+      "subject": "IG-Business",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 60.91864037513733
+    },
+    {
+      "subject": "IG-Chemistry",
+      "status": "success",
+      "paper_sets": 22,
+      "time_seconds": 66.17955899238586
+    },
+    {
+      "subject": "IG-Chinese",
+      "status": "success",
+      "paper_sets": 16,
+      "time_seconds": 66.38643312454224
+    },
+    {
+      "subject": "IG-Commerce",
+      "status": "success",
+      "paper_sets": 17,
+      "time_seconds": 67.1369616985321
+    },
+    {
+      "subject": "IG-ComputerScience",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 14.053418397903442
+    },
+    {
+      "subject": "IG-Economics",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 3478.146552801132
+    },
+    {
+      "subject": "IG-EnglishESL",
+      "status": "timeout",
+      "time_seconds": 300
+    },
+    {
+      "subject": "IG-EnglishLanguageA",
+      "status": "success",
+      "paper_sets": 25,
+      "time_seconds": 73.02991509437561
+    },
+    {
+      "subject": "IG-EnglishLanguageB",
+      "status": "success",
+      "paper_sets": 13,
+      "time_seconds": 68.5121579170227
+    },
+    {
+      "subject": "IG-EnglishLiterature",
+      "status": "success",
+      "paper_sets": 26,
+      "time_seconds": 67.34313559532166
+    },
+    {
+      "subject": "IG-French",
+      "status": "success",
+      "paper_sets": 13,
+      "time_seconds": 67.34189820289612
+    },
+    {
+      "subject": "IG-Geography",
+      "status": "success",
+      "paper_sets": 16,
+      "time_seconds": 67.32850337028503
+    },
+    {
+      "subject": "IG-German",
+      "status": "success",
+      "paper_sets": 12,
+      "time_seconds": 67.94734644889832
+    },
+    {
+      "subject": "IG-History",
+      "status": "success",
+      "paper_sets": 20,
+      "time_seconds": 66.68285059928894
+    },
+    {
+      "subject": "IG-HumanBiology",
+      "status": "success",
+      "paper_sets": 21,
+      "time_seconds": 66.49555134773254
+    },
+    {
+      "subject": "IG-ICT",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 62.10924696922302
+    },
+    {
+      "subject": "IG-MathematicsA",
+      "status": "success",
+      "paper_sets": 52,
+      "time_seconds": 68.0627589225769
+    },
+    {
+      "subject": "IG-MathematicsB",
+      "status": "success",
+      "paper_sets": 26,
+      "time_seconds": 67.07844424247742
+    },
+    {
+      "subject": "IG-FurtherPureMaths",
+      "status": "timeout",
+      "time_seconds": 300
+    },
+    {
+      "subject": "IG-Physics",
+      "status": "success",
+      "paper_sets": 22,
+      "time_seconds": 81.63781428337097
+    },
+    {
+      "subject": "IG-Spanish",
+      "status": "success",
+      "paper_sets": 12,
+      "time_seconds": 67.64804792404175
+    },
+    {
+      "subject": "IG-ScienceDoubleAward",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 66.54350781440735
+    }
+  ],
+  "checkpoint": {
+    "completed": [
+      "IG-Accounting",
+      "IG-Arabic",
+      "IG-Biology",
+      "IG-Business",
+      "IG-Chemistry",
+      "IG-Chinese",
+      "IG-Commerce",
+      "IG-ComputerScience",
+      "IG-Economics",
+      "IG-EnglishLanguageA",
+      "IG-EnglishLanguageB",
+      "IG-EnglishLiterature",
+      "IG-French",
+      "IG-Geography",
+      "IG-German",
+      "IG-History",
+      "IG-HumanBiology",
+      "IG-ICT",
+      "IG-MathematicsA",
+      "IG-MathematicsB",
+      "IG-Physics",
+      "IG-Spanish",
+      "IG-ScienceDoubleAward"
+    ],
+    "failed": [
+      "IG-EnglishESL",
+      "IG-FurtherPureMaths"
+    ]
+  }
+}

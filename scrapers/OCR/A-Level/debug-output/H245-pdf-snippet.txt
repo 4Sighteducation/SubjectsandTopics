@@ -1,0 +1,88 @@
+
+=== PAGE 17 ===
+Cambridge
+OCR
+Level
+3
+Advanced
+GCE
+in
+Further
+Mathematics
+A
+15
+Version
+2
+©
+Cambridge
+OCR
+2025
+2
+Content of Pure Core (Mandatory papers Y540 and Y541)
+When this course is being co-taught with OCR’s AS Level Further Mathematics A (H235) the ‘Stage 1’ column indicates the common content between the two specifications
+and the ‘Stage 2’ column indicates content which is particular to this specification. In each section the OCR Reference lists ‘Stage 1’ statements before ‘Stage 2’ statements.
+OCR Ref. Subject Content Stage 1 learners should… Stage 2 learners should additionally… DfE Ref.
+4.01 Proof
+4.01a Mathematical a) Be able to construct proofs using mathematical b) Be able to construct proofs of a more demanding A1
+4.01b induction induction. nature, including conjecture followed by proof.
+This topic may be tested using any relevant content This topic may be tested using any relevant content including
+including divisibility, powers of matrices and results on sums of series.
+powers, exponentials and factorials.
+n 1 n
+J1 0Nn J1 0N e.g. Prove that | = for all n ! Z.
+K K O O K K O O r r+1 n+1
+e.g. Prove that L K K K1 1 P O O O = L K K Kn 1 P O O O for n ! Z+. Prove that 3n > r n =1 3 fo ^ r n $ h 4, n ! Z.
+Prove that 7 n-3 n is divisible by 4 for n ! Z+.
+Prove that n!<nn for n$1, n! Z.
+Prove that 2n >2n for n $3, n ! Z.
+Prove that (1+x ) n $1+nx for any real number x>-1 and
+n ! Z+.
+Prove that the nth derivative of x2e x is x2+2 nx+n ( n-1) e x .
+^ h
+=== PAGE 18 ===
+16
+Cambridge
+OCR
+Level
+3
+Advanced
+GCE
+in
+Further
+Mathematics
+A
+Version
+2
+©
+Cambridge
+OCR
+2025
+2
+OCR Ref. Subject Content Stage 1 learners should… Stage 2 learners should additionally… DfE Ref.
+4.02 Complex Numbers
+4.02a The language of a) Understand the language of complex numbers. B2
+complex B5
+Know the meaning of “real part”, “imaginary part”,
+numbers B3
+“conjugate”, “modulus” and “argument” of a complex
+number.
+4.02b b) Be able to express a complex number z in either d) Understand and be able to use the exponential form, B9
+4.02d cartesian form z =x+iy, where r eii, of a complex number.
+i2 =-1
+, or modulus-argument form
+z =r (cosi+isini)=[ r ,i] =r cisi, where r $0
+is the modulus of z and i, measured in radians is
+the argument of z.
+4.02c c) Understand and be able to use the notation:
+Re Im arg
+z, z*, z , z , z , z .
+^ h ^ h ^ h
+Includes knowing that a complex number is zero if and
+only if both the real and imaginary parts are zero.
+The principal argument of a complex number, for
+uniqueness, will be taken to lie in either of the intervals
+0, 2r or -r,r . Learners may use either as
+6 h ^ @
+appropriate unless the interval is specified.
+In stage 1 knowledge of radians is assumed: see H240
+section 1.05d.

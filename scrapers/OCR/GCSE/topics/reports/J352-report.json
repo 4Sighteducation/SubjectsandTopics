@@ -1,0 +1,77 @@
+{
+  "subject_code": "J352",
+  "subject_name": "English Literature",
+  "url": "https://www.ocr.org.uk/Images/168995-specification-accredited-gcse-english-literature-j352.pdf",
+  "start_time": "2025-11-20T13:45:12.692841",
+  "success": true,
+  "topics_extracted": 64,
+  "levels": {
+    "0": 3,
+    "1": 6,
+    "2": 23,
+    "3": 32
+  },
+  "issues": [
+    "Missing topics in level 0",
+    "Incorrect level assignment for some topics"
+  ],
+  "warnings": [
+    "Potential structure misalignment in level 2"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": true,
+      "compulsory": [
+        "one studied modern prose or drama text",
+        "one studied 19th century prose text",
+        "one thematic poetry cluster from the OCR Poetry Anthology",
+        "one studied Shakespeare play"
+      ],
+      "optional": [
+        "Choice of one modern prose or drama text from a list",
+        "Choice of one poetry cluster from the OCR Poetry Anthology: Love and Relationships, Conflict, and Youth and Age"
+      ]
+    },
+    "texts": {
+      "has_texts": true,
+      "text_locations": [
+        "Section 2c: Content of Exploring modern and literary heritage texts (01)",
+        "Section A: Exploring modern and literary heritage texts (01)",
+        "Section B: Exploring modern and literary heritage texts (01)"
+      ],
+      "extraction_strategy": "separate_hierarchy"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Exploring modern and literary heritage texts",
+        "Exploring poetry and Shakespeare"
+      ],
+      "organization": "The content is organized into components with specific texts and themes to be studied.",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "Exploring modern and literary heritage texts (01)",
+        "Exploring poetry and Shakespeare (02)"
+      ],
+      "content_mapping": {
+        "Exploring modern and literary heritage texts (01)": "one studied modern prose or drama text, one studied 19th century prose text",
+        "Exploring poetry and Shakespeare (02)": "one thematic poetry cluster from the OCR Poetry Anthology, one studied Shakespeare play"
+      },
+      "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the components and their respective texts and themes. Pay attention to the optional choices within the components.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:45:12.692854"
+}

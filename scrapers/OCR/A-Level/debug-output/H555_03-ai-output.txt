@@ -1,0 +1,159 @@
+Here is the extracted hierarchy from the OCR Physical Education component "Socio-cultural issues in physical activity and sport (H555_03)" based on the provided structure and content:
+
+1 Socio-cultural issues in physical activity and sport
+1.1 Sport and society
+1.1.1 Emergence and evolution of modern sport
+1.1.1.1 how social and cultural factors shaped the characteristics of, and participation in, sports and pastimes in pre-industrial Britain:
+1.1.1.1.1 social class
+1.1.1.1.2 gender
+1.1.1.1.3 law and order
+1.1.1.1.4 education/literacy
+1.1.1.1.5 availability of time
+1.1.1.1.6 availability of money
+1.1.1.1.7 type and availability of transport
+1.1.1.2 how social and cultural factors shaped the characteristics of, and participation in, sport in post 1850 industrial Britain:
+1.1.1.2.1 social class
+1.1.1.2.1.1 amateurism and professionalism
+1.1.1.2.2 gender/changing status of women
+1.1.1.2.3 law and order
+1.1.1.2.4 education/literacy
+1.1.1.2.5 availability of time/changing work conditions
+1.1.1.2.6 availability of money
+1.1.1.2.7 transport notably the railways
+1.1.1.2.8 influence of public schools:
+1.1.1.2.8.1 on the promotion and organisation of sports and games
+1.1.1.2.8.2 on the promotion of ethics through sports and games
+1.1.1.2.8.3 the ‘cult’ of athleticism – meaning, nature and impact
+1.1.1.2.8.4 on the spread and export of games and the games ethic
+1.1.1.3 how social factors shaped the characteristics of, and participation in, sport in 20th century Britain:
+1.1.1.3.1 class
+1.1.1.3.1.1 amateurism and professionalism
+1.1.1.3.2 gender/changing role and status of women
+1.1.1.3.3 law and order
+1.1.1.3.4 education
+1.1.1.3.5 availability of time
+1.1.1.3.6 availability of money
+1.1.1.3.7 transport
+1.1.1.4 how contemporary factors are shaping the characteristics of, and participation in, sport in the 21st century:
+1.1.1.4.1 class
+1.1.1.4.1.1 amateurism and professionalism
+1.1.1.4.2 gender/changing role and status of women
+1.1.1.4.3 law and order
+1.1.1.4.4 education
+1.1.1.4.5 availability of time
+1.1.1.4.6 availability of money
+1.1.1.4.7 transport
+1.1.1.4.8 globalisation of sport
+1.1.1.4.8.1 media coverage
+1.1.1.4.8.2 freedom of movement for performers
+1.1.1.4.8.3 greater exposure of people to sport
+1.1.2 Global sporting events
+1.1.2.1 the modern Olympic Games
+1.1.2.1.1 background and aims (1896)
+1.1.2.1.2 political exploitation of the Olympic Games
+1.1.2.1.2.1 Berlin 1936, Third Reich Ideology
+1.1.2.1.2.2 Mexico City 1968 ‘Black Power’ demonstration
+1.1.2.1.2.3 Munich 1972 Palestinian terrorism
+1.1.2.1.2.4 Moscow 1980 boycott lead by USA
+1.1.2.1.2.5 Los Angeles 1984 boycott by Soviet Union
+1.1.2.2 hosting global sporting events
+1.1.2.2.1 positive and negative impacts on the host country/city of hosting a global sporting event (such as the Olympic Games or FIFA World Cup)
+1.1.2.2.1.1 sporting
+1.1.2.2.1.2 social
+1.1.2.2.1.3 economic
+1.1.2.2.1.4 political
+1.2 Contemporary issues in physical activity and sport
+1.2.1 Ethics and deviance in sport
+1.2.1.1 drugs and doping in sport
+1.2.1.1.1 legal supplements versus illegal drugs and doping
+1.2.1.1.2 reasons why elite performers use illegal drugs/doping
+1.2.1.1.3 consequences/implications to:
+1.2.1.1.3.1 society
+1.2.1.1.3.2 sport
+1.2.1.1.3.3 performers
+1.2.1.1.4 strategies to stop the use of illegal drugs and doping
+1.2.1.2 violence in sport
+1.2.1.2.1 causes in relation to players and spectators
+1.2.1.2.2 implications to:
+1.2.1.2.2.1 society
+1.2.1.2.2.2 sport
+1.2.1.2.2.3 performers
+1.2.1.2.3 strategies to prevent violence in relation to players and spectators
+1.2.1.3 gambling in sport
+1.2.1.3.1 match fixing/bribery
+1.2.1.3.2 illegal sports betting
+1.2.2 Commercialisation and media
+1.2.2.1 factors that influence the commercialisation of contemporary physical activity and sport:
+1.2.2.1.1 growing public interest and spectatorship
+1.2.2.1.2 more media interest
+1.2.2.1.3 professionalism
+1.2.2.1.4 advertising
+1.2.2.1.5 sponsorship
+1.2.2.2 positive and negative impacts of the commercialisation of physical activity and sport on
+1.2.2.2.1 society
+1.2.2.2.2 individual sports
+1.2.2.2.3 performers
+1.2.2.2.4 spectators
+1.2.2.3 coverage of sport by the media today and reasons for changes since the 1980s
+1.2.2.3.1 television
+1.2.2.3.1.1 terrestrial – free-to-air
+1.2.2.3.1.2 satellite – subscription
+1.2.2.3.1.3 pay-per-view
+1.2.2.3.2 radio
+1.2.2.3.2.1 dedicated sports stations
+1.2.2.3.2.2 local and national radio
+1.2.2.3.3 written press
+1.2.2.3.3.1 newspapers
+1.2.2.3.3.2 magazines
+1.2.2.3.4 internet
+1.2.2.4 positive and negative effects of the media on sport
+1.2.2.4.1 individual sports
+1.2.2.4.2 performers
+1.2.2.4.3 spectators
+1.2.2.5 relationship between sport and the media
+1.2.2.5.1 sport as a commodity
+1.2.2.5.2 links with advertising and sponsorship (‘golden triangle’)
+1.2.3 Routes to sporting excellence in the UK
+1.2.3.1 development routes from talent identification through to elite performance
+1.2.3.2 the role of school, clubs, universities in contributing to elite sporting success
+1.2.3.3 the role of UK Sport and National Institutes in developing sporting excellence/high performance sport
+1.2.3.4 strategies to address drop-out/failure rates from elite development programmes/at elite level
+1.2.4 Modern technology in Sport – its impact on Elite level sport, participation, fair outcomes and entertainment
+1.2.4.1 Elite performance:
+1.2.4.1.1 the extent to which modern technology has affected elite level sport including increased/improved:
+1.2.4.1.1.1 access
+1.2.4.1.1.2 facilities
+1.2.4.1.1.3 equipment
+1.2.4.1.1.4 monitoring of exercise
+1.2.4.1.1.5 safety
+1.2.4.2 General participation:
+1.2.4.2.1 the extent to which modern technology has increased participation including increased/improved:
+1.2.4.2.1.1 access
+1.2.4.2.1.2 facilities
+1.2.4.2.1.3 equipment
+1.2.4.2.1.4 monitoring of exercise
+1.2.4.2.1.5 safety
+1.2.4.2.2 the extent to which modern technology has limited or reduced participation including:
+1.2.4.2.2.1 cost
+1.2.4.2.2.2 the range of alternatives to physical activity and sport
+1.2.4.3 Fair outcomes:
+1.2.4.3.1 the extent to which modern technology has increased fair outcomes including:
+1.2.4.3.1.1 better timing devices
+1.2.4.3.1.2 increased accountability of officials
+1.2.4.3.1.3 more accurate decision making
+1.2.4.3.1.4 improved detection of foul play
+1.2.4.3.1.5 improved detection of doping
+1.2.4.3.2 the extent to which modern technology has limited or decreased fair outcomes including:
+1.2.4.3.2.1 access to modern technology can be limited
+1.2.4.3.2.2 performance enhancing drug testing technology cannot keep up with new drug development
+1.2.4.3.2.3 pressure on officials due to the exposure and scrutiny of their decisions
+1.2.4.4 Entertainment:
+1.2.4.4.1 the extent to which modern technology has increased entertainment including:
+1.2.4.4.1.1 action replays
+1.2.4.4.1.2 multiple camera angles
+1.2.4.4.1.3 slow motion technology
+1.2.4.4.1.4 improved analysis
+1.2.4.4.1.5 punditry
+1.2.4.4.2 the extent to which modern technology has reduced or limited entertainment including:
+1.2.4.4.2.1 interruption and delay
+1.2.4.4.2.2 reduced live attendances

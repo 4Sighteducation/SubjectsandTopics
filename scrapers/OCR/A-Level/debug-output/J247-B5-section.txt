@@ -1,0 +1,183 @@
+Topic B5: Genes, inheritance and selection
+B5.1 Inheritance
+Summary often have well-developed (although not necessarily scientifically accurate)
+Inheritance relies on the genetic information contained in the genome explanations for inheritance before undertaking GCSE study. Some examples
+being passed from one generation to the next, whether sexually or asexually. include that intra-specific variation is as a result of defects in development or
+The characteristics of a living organism are influenced by the genome and its that acquired characteristics can be inherited. Care must also be taken with the
+interaction with the environment. concept of dominant and recessive alleles. Whether an allele is dominant or
+recessive does not affect the mechanism of inheritance of the allele, but is an
+Underlying knowledge and understanding observed pattern in the phenotype of organisms. Many learners assume that the
+Learners should be familiar with the idea of heredity as the process by which dominant allele ‘dominates’ the recessive allele preventing its expression (which
+genetic information is passed from one generation to the next. They should is not the case) or that the recessive allele is actually just an absence of the
+have a simple model of chromosomes, genes and DNA. dominant allele (also not generally the case).
+Common misconceptions Tiering
+Learners commonly struggle to appreciate the physical relationships between Statements shown in bold type will only be tested in the Higher Tier
+the nucleus, genetic material, the genome, chromosomes and genes. Accurate papers. All other statements will be assessed in both Foundation and
+definitions of these terms will help learners’ explanations in this topic. Learners Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+BM5.1i understand and use direct proportions and simple ratios in genetic crosses M1c
+BM5.1ii understand and use the concept of probability in predicting the outcome of genetic M2e
+crosses
+BM5.1iii extract and interpret information from charts, graphs and tables M2c and M4a
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+35
+Version
+3.5
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+B5.1a explain the following terms: gamete, Use of alleles to work out
+chromosome, gene, allele/variant, the phenotype of progeny.
+dominant, recessive, homozygous,
+heterozygous, genotype and phenotype
+B5.1b describe the genome as the entire
+genetic material of an organism
+B5.1c describe that the genome, and its use of examples of discontinuous (e.g. eye
+interaction with the environment, colour) and continuous variation (e.g. weight
+influence the development of the and height)
+phenotype of an organism
+B5.1d Recall that all variants arise from
+mutations, and that most have no
+effect on the phenotype, some
+influence phenotype and a very few
+determine phenotype
+B5.1e describe how genetic variants may • in coding: DNA related to mutations
+ influence phenotype: affecting protein structure, including
+• in coding DNA by altering the active sites of enzymes
+activity of a protein • in non-coding: DNA related to stopping
+• in non-coding DNA by altering transcription of mRNA (use of terms
+how genes are expressed promoter, transcription factor not
+required)
+B5.1f explain some of the advantages and the number of live offspring per birth, how
+ disadvantages of asexual and sexual quickly the organisms can reproduce verses the
+reproduction in a range of organisms need for the introduction of variation in a
+population caused by environmental pressures
+B5.1g explain the terms haploid and diploid
+36
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+Version
+3.5
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+B5.1h explain the role of meiotic cell division that this maintains diploid cells when gametes
+in halving the chromosome number to combine and is a source of genetic variation
+form gametes
+B5.1i explain single gene inheritance the context of homozygous and heterozygous M2c, M4a Prediction of the probability
+crosses involving of phenotype for genetic
+dominant and recessive genes crosses.
+Investigation into
+probability by suitable
+example (e.g. coin toss
+or die roll).
+B5.1j predict the results of single gene crosses the use of Punnett squares M1c, M2c,
+M2e, M4a
+B5.1k describe sex determination in humans the use of Punnett squares M1c, M2c,
+using a genetic cross M2e, M4a
+B5.1l recall that most phenotypic features are
+the result of multiple genes rather than
+single gene inheritance
+B5.1m describe the development of our the work of Mendel WS1.1a,
+ understanding of genetics WS1.1d,
+WS1.1f,
+WS1.1i
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+37
+Version
+3.5
+©
+OCR
+2024
+2
+B5.2 Natural selection and evolution
+Summary Common misconceptions
+Variation in the genome and changes in the environment drive the process Learners are used to hearing the term evolution in everyday life but it is often
+of natural selection, leading to changes in the characteristics of populations. used for items that have been designed and gradually improved in order to fit a
+Evolution accounts for both biodiversity and how organisms are all related to purpose. They therefore find it difficult to grasp the idea that evolution by natural
+varying degrees. Key individuals have played important roles in the development selection relies on random mutations. Learners also tend to imply that individuals
+of our understanding of genetics. change by natural selection. Statements such as ‘a moth will change by natural
+selection in order to become better camouflaged’ include both of these common
+Underlying knowledge and understanding misconceptions.
+Learners should appreciate that changes in the environment can leave some
+individuals, or even some entire species, unable to compete and reproduce Tiering
+leading to extinction. Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Topic content Opportunities to cover:
+Practical suggestions
+Learning outcomes To include Maths Working scientifically
+B5.2a state that there is usually extensive genetic variation
+within a population of a species
+B5.2b describe the impact of developments in biology natural and artificial classification WS1.1b
+on classification systems systems and use of molecular
+phylogenetics based on DNA
+sequencing
+B5.2c explain how evolution occurs through the natural the concept of mutation
+selection of variants that have given rise to
+phenotypes best suited to their environment
+B5.2d describe evolution as a change in the inherited
+characteristics of a population over time, through
+a process of natural selection, which may result in
+the formation of new species
+B5.2e describe the evidence for evolution fossils and antibiotic resistance in WS1.1c, WS1.1d,
+bacteria WS1.1g
+38
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+Version
+3.5
+©
+OCR
+2024
+2
+Learning outcomes To include Maths Working scientifically Practical suggestions
+B5.2f describe the work of Darwin and Wallace in the seedbanks being used as a store WS1.1a, WS1.1d,
+ development of the theory of evolution by natural of biodiversity WS1.1g, WS1.1h,
+selection and explain the impact of these ideas on WS1.3i
+modern biology
+GCSE
+(9–1)
+in
+Biology
+A
+(Gateway
+Science)
+39
+Version
+3.5
+©
+OCR
+2024
+2

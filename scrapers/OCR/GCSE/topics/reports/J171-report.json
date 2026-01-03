@@ -1,0 +1,67 @@
+{
+  "subject_code": "J171",
+  "subject_name": "Fine Art",
+  "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+  "start_time": "2025-11-20T15:03:22.054637",
+  "success": true,
+  "topics_extracted": 59,
+  "levels": {
+    "0": 1,
+    "1": 2,
+    "2": 10,
+    "3": 28,
+    "4": 18
+  },
+  "issues": [
+    "Missing topics compared to Content Overview",
+    "Incorrect level assignment for some topics"
+  ],
+  "warnings": [
+    "Potential structure problems due to unexpected depth"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": true,
+      "compulsory": [
+        "Component 01: Portfolio",
+        "Component 02: Externally set task"
+      ],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Component 01: Portfolio",
+        "Component 02: Externally set task"
+      ],
+      "organization": "The content is organized into components with specific tasks and requirements.",
+      "expected_depth": 3
+    },
+    "assessment": {
+      "written_papers": [
+        "Component 02: Externally set task"
+      ],
+      "content_mapping": {
+        "Component 02: Externally set task": "Five themes with written and visual starting points"
+      },
+      "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting details of the externally set task, including themes and starting points.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T15:03:22.054651"
+}

@@ -1,0 +1,34 @@
+{
+  "completed": [
+    "AL-BiologyA",
+    "AL-HistoryA",
+    "AL-ArtDesign",
+    "AL-BiologyB",
+    "AL-ChemistryA",
+    "AL-ClassicalCivilisation",
+    "AL-ComputerScience",
+    "AL-DramaTheatre",
+    "AL-EnglishLanguage",
+    "AL-EnglishLiterature",
+    "AL-Geography",
+    "AL-PhysicalEducation",
+    "AL-PhysicsA",
+    "AL-PhysicsB",
+    "AL-Psychology",
+    "AL-Psychology2026",
+    "AL-ReligiousStudies",
+    "AL-Sociology",
+    "AL-Sociology2026"
+  ],
+  "failed": [
+    "AL-AncientHistory",
+    "AL-Business",
+    "AL-Business2026",
+    "AL-ChemistryB",
+    "AL-Economics",
+    "AL-Law",
+    "AL-MathematicsA",
+    "AL-FurtherMathematicsA",
+    "AL-MediaStudies"
+  ]
+}

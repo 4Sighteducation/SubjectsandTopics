@@ -1,0 +1,43 @@
+1. Geographical Skills
+1.1. Cartographic Skills
+1.1.1. Select, adapt and construct maps, using appropriate scales and annotations, to present information.
+1.1.2. Interpret cross-sections and transects.
+1.1.3. Use and understand coordinates, scale and distance.
+1.1.4. Extract, interpret, analyse and evaluate information.
+1.1.5. Use and understand gradient, contour and spot height (on OS and other isoline maps).
+1.1.6. Describe, interpret and analyse geo-spatial data presented in a GIS framework.
+1.1.7. Maps to be studied: Atlas maps, OS maps (1:50 000 and 1:25 000 scales), Base maps, Choropleth maps, Isoline maps, Flow line maps, Desire-line maps, Sphere of influence maps, Thematic maps, Route maps, Sketch maps.
+
+1.2. Graphical Skills
+1.2.1. Select, adapt and construct appropriate graphs and charts, using appropriate scales and annotations to present information.
+1.2.2. Effectively present and communicate data through graphs and charts.
+1.2.3. Extract, interpret, analyse and evaluate information.
+1.2.4. Graphs and charts to be studied: Bar graphs (horizontal, vertical and divided), Histograms (with equal class interval), Line graphs, Scatter graphs (including best fit line), Dispersion graphs, Pie charts, Climate graphs, Proportional symbols, Pictograms, Cross-sections, Population pyramids, Radial graphs, Rose charts.
+
+1.3. Numerical and Statistical Skills
+1.3.1. Demonstrate an understanding of number, area and scale.
+1.3.2. Demonstrate an understanding of the quantitative relationships between units.
+1.3.3. Understand and correctly use proportion, ratio, magnitude and frequency.
+1.3.4. Understand and correctly use appropriate measures of central tendency, spread and cumulative frequency including, median, mean, range, quartiles and inter-quartile range, mode and modal class.
+1.3.5. Calculate and understand percentages (increase and decrease) and percentiles.
+1.3.6. Design fieldwork data collection sheets and collect data with an understanding of accuracy, sample size and procedures, control groups and reliability.
+1.3.7. Interpret tables of data.
+1.3.8. Describe relationships in bivariate data.
+1.3.9. Sketch trend lines through scatter plots.
+1.3.10. Draw estimated lines of best fit.
+1.3.11. Make predictions; interpolate and extrapolate trends from data.
+1.3.12. Be able to identify weaknesses in statistical presentations of data.
+1.3.13. Draw and justify conclusions from numerical and statistical data.
+
+1.4. Visual and Written Source Skills
+1.4.1. Deconstruct, interpret, analyse and evaluate visual images including photographs, cartoons, pictures and diagrams.
+1.4.2. Analyse written articles from a variety of sources for understanding, interpretation and recognition of bias.
+1.4.3. Suggest improvements to, issues with or reasons for using maps, graphs, statistical techniques and visual sources, such as photographs and diagrams.
+
+1.5. Fieldwork Skills
+1.5.1. Understanding of the kinds of question capable of being investigated through fieldwork and an understanding of the geographical enquiry processes appropriate to investigate these.
+1.5.2. Understanding of the range of techniques and methods used in fieldwork, including observation and different kinds of measurement.
+1.5.3. Processing and presenting fieldwork data in various ways including maps, graphs and diagrams.
+1.5.4. Analysing and explaining data collected in the field using knowledge of relevant geographical case studies and theories.
+1.5.5. Drawing evidenced conclusions and summaries from fieldwork transcripts and data.
+1.5.6. Reflecting critically on fieldwork data, methods used, conclusions drawn and knowledge gained.

@@ -1,0 +1,581 @@
+
+2 SUBJECT CONTENT
+This specification promotes the integrated study of geology. It enables learners to
+develop a broad range of skills and techniques in the areas of analysis and
+interpretation of data, problem-solving and drawing conclusions. In addition, learners
+are able to acquire data collection and interpretation skills in the field.
+This specification covers all the requirements of GCSE Geology as outlined by the
+Department for Education. The knowledge, understanding, skills and techniques are
+set out in the two columns in the pages that follow. Learners should expect to be
+assessed on the details of both columns. The square brackets [ ] within pages 7-20
+provide further details of the extent of relevant content.
+The subject content for GCSE Geology is assessed across two components. The
+context in which the content is assessed across the two components differs.
+ In Component 1, the whole of the content of the specification is assessed in a
+theoretical way.
+ In Component 2 there is a more practical approach, with the assessment
+structured to investigate the geology of an area shown on an accompanying
+simplified geological map. This assessment is wholly based on the area
+covered by the geological map.
+Component 1: Geological Principles
+On-screen examination: 1 hour 15 minutes
+50% of the qualification
+80 marks
+Component 2: Investigative Geology
+Written examination: 1 hour 30 minutes
+50% of the qualification
+80 marks
+A data sheet is used in both components. Learners should become familiar with the
+use of this data sheet during their study of GCSE Geology.
+WJEC offers full support to centres for the administration of Component 1, the on-
+screen examination. All the necessary technical and practical advice is available from
+WJEC to enable centres to oversee the management of this examination.
+The content of the specification for WJEC Eduqas GCSE in Geology has a structure
+based on four key ideas. These provide a framework for the learner to appreciate the
+context and purpose of study of the content. The four key ideas are:
+ rock exposures contain evidence of how rocks were formed and subsequently
+deformed
+ major concepts and techniques underpin our current understanding of the
+Earth and its history
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 66
+ comparisons of the Earth with other planetary bodies within the Solar System
+provide evidence for the origin and evolution of both
+ human interaction with the Earth can increase or reduce risk of Earth
+hazards.
+Fieldwork has long been an attractive aspect of the study of geology and has been
+incorporated at the heart of this specification. Learners are required to undertake a
+minimum of two days of work in the field in order to develop their field observation
+and practical skills. Furthermore, to develop learners' problem solving skills, it is
+expected that during at least one of these days they should have at least one
+opportunity to carry out a directed investigation to answer a geological problem.
+Examples of appropriate directed investigations include:
+ an investigation to determine the environments of deposition of a sequence of
+sedimentary rocks
+ an investigation to determine the effects of tectonic stresses at a field location
+ an investigation to determine the geological history of an area using field
+observations.
+This list is by no means exhaustive and centres should feel able to devise alternative
+examples of directed investigations relevant to the field locations which are used.
+Each centre must provide a fieldwork statement to WJEC that details the fieldwork
+carried out by learners from the centre in each assessment cycle. Centres will be
+able to make their fieldwork statement by completing the form that will be available to
+download from the GCSE Geology subject page of the Eduqas website. The
+fieldwork statement must be submitted to WJEC by 15 May of the year in which
+candidates receive their award. Failure to provide a fieldwork statement will be
+treated as malpractice and/or maladministration by WJEC.
+Centres will be able to use the form to:
+ confirm that each learner has been provided with opportunities to undertake
+geological fieldwork on at least two occasions and in respect of each of
+those opportunities:
+ the date on which it was provided
+ the number of learners who participated
+ the location at which it was provided
+ a brief description of the fieldwork undertaken
+ confirm that each learner has been given a minimum of one opportunity to
+carry out a directed investigation to answer a geological problem and
+ give a brief description of any directed investigation(s).
+Safety is paramount in the field and it is essential that all centres adhere to
+‘The Geological Code of Conduct’ and the regulations of their centre
+concerning off-site activities.
+This specification encourages learners to take a practical approach to geology and
+the skills required for this (see Appendix B) should be developed through regular
+hands-on practical activities undertaken in the classroom and in the field.
+Learners who follow this specification will develop a wide range of mathematical skills
+as outlined in Appendix A. Calculators may be used in both components. Candidates
+are responsible for making sure that their calculators meet the relevant regulations
+for use in written examinations: information is found in the JCQ publications
+Instructions for conducting examinations and Information for candidates for written
+examinations.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 7
+Learners who follow this specification will also develop practical skills and techniques
+as outlined in Appendix B. Problem-solving is at the heart of this specification and as
+learners study the subject content they will also develop the skills outlined below.
+Alongside knowledge of the subject content learners will be assessed on their ability
+to:
+ use theories, models and ideas to develop geological explanations and
+present geological arguments
+ use appropriate methodology to answer geological questions and solve
+geological problems
+ evaluate methodology, evidence and partial data sets, and resolve conflicting
+evidence.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 88
+Key Idea 1: Rock exposures contain evidence of how rocks
+were formed and subsequently deformed
+This key idea enables candidates to analyse and interpret rock exposures from
+primary and secondary evidence. Key Idea 1 has been divided into five topics:
+ Minerals
+ Igneous rocks and processes
+ Sedimentary rocks and their fossil content
+ Metamorphic rocks and processes
+ Deformational structures.
+1.1 Minerals
+Knowledge and understanding Geological techniques and skills
+a. Minerals are formed by: Use appropriate tests of:
+ crystallisation from a melt [quartz,  physical properties of minerals
+feldspar, mica, olivine and augite] [observation of colour, hardness,
+ metamorphic recrystallisation [calcite, streak, cleavage, lustre]
+garnet]  [reaction with 0.5 mol dm-3
+ crystallisation from solution in hydrochloric acid]
+evaporating water [halite] to identify and distinguish between the
+ crystallisation as cement from flowing minerals on the data sheet.
+pore waters [quartz, calcite]
+ crystallisation from hydrothermal Interpret data from the data sheet.
+fluids [in veins and faults: gangue
+minerals - quartz, calcite; ore
+minerals - haematite, galena].
+b. Modern laboratory techniques can be
+used to image mineral samples on a
+small scale and determine their
+chemistry e.g. the scanning electron
+microscope and electron microprobe.
+N.B. Access to these techniques is not
+required.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 9
+1.2 Igneous Rocks and Processes
+Knowledge and understanding Geological techniques and skills
+a. Igneous rocks have diagnostic Identify the named igneous rocks in hand
+properties; colour and texture [crystal specimen/rock exposures, diagrams and
+size, equicrystalline, porphyritic and photomicrographs from observation of their
+orientation]. colour, crystal size [coarse >3 mm, fine
+<1mm], random crystal orientation of
+b. Igneous rocks [peridotite, basalt, phenocrysts/groundmass and mineralogy.
+andesite, granite] can be classified by:
+ texture
+ mineralogy.
+c. Crystal size in igneous rocks is related to
+the cooling rate of magma.
+d. Magma viscosity affects the type of Recognise and interpret the differing shapes
+volcanic activity and the shape of of volcanoes from diagrams/photographs.
+volcanoes - the differences between
+relatively passive [fissure] and violent Investigate factors affecting the length of
+eruptions [central vent]. lava flows using the 'Jelly lava flow'
+simulation experiment or equivalent. Factors
+investigated to include viscosity (related to
+temperature) and slope angle.
+e. Igneous bodies can be distinguished by: Identify the characteristics of igneous bodies
+ structure [columnar jointing, pillow [crystal size, structures, field relationships]
+lava] as seen in hand specimen/rock exposures,
+ form [lava flows, sills, dykes and diagrams and photographs. Analyse
+plutons] simplified geological maps and cross-
+ field relationships. sections to interpret their contrasting modes
+of formation.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 1010
+1.3 Sedimentary Rocks and their Fossil Content
+Knowledge and understanding Geological techniques and skills
+a. Rock is disaggregated by weathering and Distinguish between the processes of weathering
+erosion into particles of various sizes and and erosion and evaluate their significance in the
+dissolved materials that are transported and sedimentary characteristics and the geological
+deposited to form new sediments. history of sedimentary rock.
+b. The grain size, shape and sorting of the Interpret:
+resultant sediment is influenced by the energy  the distance of transport from the shape and
+of the transporting medium and the sorting of sediment
+depositional environment [screes, rivers,  the energy level of the environment of
+shallow/deep seas, wind-formed dunes]. deposition from sediment grain size.
+c. Porosity and permeability of sedimentary rock Distinguish permeable from impermeable rocks
+depends upon the characteristics of the by observing the effects of dropping water on
+original sediment and the degree of specimens and/or by immersing them in water.
+compaction and cementation.
+d. Sedimentary rocks [breccia, conglomerate, Identify the named sedimentary rocks in hand
+sandstone, shale, evaporites, limestone] have specimen, rock exposures and
+diagnostic properties [colour, texture, reaction diagrams/photographs from observation of their
+with acid] mineralogies and other diagnostic colour, texture [use of sediment comparators to
+features. determine grain size, shape and sphericity],
+[coarse >2 mm, fine <1/ mm], reaction with 0.5
+16
+mol dm-3 hydrochloric acid, mineralogy and other
+diagnostic features.
+Construct and apply a classification system/key to
+identify the named sedimentary rocks.
+e. Sedimentary rock type is dependent upon the Use the characteristics of sedimentary rocks,
+environment of deposition: including their distinctive sedimentary textures,
+ Shallow marine: structures, mineralogy and their fossil content, as
+[limestone, sandstone, conglomerate] seen in hand specimens, rock exposures,
+ Deep marine: diagrams and photographs to interpret their
+[turbidites, black shale] environments of deposition.
+ Terrestrial:
+1. deposited in rivers and deltas [shale, Analyse sedimentary rock formations on simple
+sandstone, conglomerate, coal] geological maps, cross-sections and graphic logs
+2. deposited by wind and water in deserts to interpret geological structure and the history of
+[breccia, desert sandstone] sedimentation.
+3. deposited by precipitation from saline
+water during evaporation [evaporites - Construct a simple graphic log from bed
+halite and gypsum] thickness and grain size data.
+4. deposited by ice [glacial till/tillite].
+f. Distinctive sedimentary structures
+[lamination/bedding, cross bedding, graded
+bedding, ripple marks, desiccation cracks] are
+characteristic of their environments of
+deposition.
+g. Fossils are indicators of past environments: Identify the following fossil groups on the basis of
+ reef-building corals [marine, shallow, their morphology [trilobite, ammonite, coral,
+warm] plants, trace fossils - burrows, footprints], as seen
+ trilobite [marine], ammonite [marine] in hand specimens, diagrams/photographs.
+ plants [terrestrial, indicating past climate]
+ trace fossils [tracks indicating terrestrial,
+burrows indicating shallow water].
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 11
+1.4 Metamorphic Rocks and Processes
+Knowledge and understanding Geological techniques and skills
+a. Metamorphic rocks are the result of Identify the named metamorphic rocks in
+increased temperature and/or pressure hand specimen from observation of their
+on pre-existing rocks causing crystal size [coarse, fine], crystal orientation
+recrystallisation to form new minerals [aligned, random] and reaction with 0.5 mol
+and textures. dm-3 hydrochloric acid.
+b. Metamorphic rocks [slate, schist, marble, Identify the characteristic features of a
+metaquartzite] have diagnostic textures metamorphic aureole on diagrams and
+[crystal size and orientation]: simplified geological maps and cross-
+ non-foliated texture sections.
+ foliated texture [slaty cleavage and
+schistosity]. Use the characteristics of metamorphic rocks
+[texture, mineralogy, acid reaction] as seen
+c. Metamorphic rocks [schist, marble and in hand specimens/rock exposures,
+metaquartzite] have diagnostic diagrams and photographs, simplified
+mineralogy. geological maps and cross-sections to
+interpret their contrasting modes of formation
+[contact and regional metamorphism].
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 1212
+1.5 Deformational Structures
+Knowledge and understanding Geological techniques and skills
+a. The rock record provides evidence of Describe safety precautions to be taken
+tectonic activity. when visiting field exposures.
+Measure strike and dip.
+Analyse strike and dip measurements to
+describe and interpret rock structures in 3D.
+b. Folding is caused by tectonic stress Interpret characteristic features of folding in
+[compressional]. field exposures, diagrams, photographs,
+simplified geological maps and cross-
+sections:
+ horizontal beds
+ dipping beds
+ folded beds [antiform, synform, axial
+plane trace, limb].
+c. Faulting is caused by tectonic stress Interpret features of rock deformation by
+[compressional, tensional, shear]. faulting in field exposures, diagrams,
+photographs, simplified geological maps and
+cross sections:
+ normal fault
+ reverse/thrust fault
+ strike-slip fault
+ fault displacement.
+d. Unconformities are gaps in the rock Identify unconformities in the field, in
+record. Angular unconformities are diagrams, photographs, geological maps and
+formed by a sequence of events cross-sections. Use unconformities in
+including deformation, uplift, erosion and interpreting the geological history of
+later deposition. exposures.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 13
+Key Idea 2: Major concepts and techniques underpin our
+current understanding of the Earth and its history
+This key idea enables candidates to demonstrate an understanding of the “big ideas”
+in geology. Key Idea 2 has been divided into five topics:
+ The rock cycle
+ Plate tectonics
+ Geochronological principles
+ Global climate and sea level change
+ The origin and development of life on Earth.
+2.1 The Rock Cycle
+Knowledge and understanding Geological techniques and skills
+a. Sedimentary, metamorphic and igneous Interpret rock cycle diagrams.
+processes and rocks are linked by the
+rock cycle [energy transfer] over
+geological time.
+b. Rock cycle processes take place at Distinguish between processes reflected in
+different rates, from seconds to millions the rock record that occurred at different
+of years [catastrophism v gradualism - rates.
+e.g. meteorite impact v river erosion].
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 1414
+2.2 Plate Tectonics
+Knowledge and understanding Geological techniques and skills
+a. The Earth has a concentric structure
+based on its:
+ chemical properties [crust, mantle
+and core]
+ mechanical behaviour [lithosphere,
+asthenosphere].
+b. The mechanical behaviour of the outer
+Earth involves the lithosphere [cold, rigid
+outer shell composed of crust and
+uppermost mantle]. It is underlain by the
+asthenosphere [weaker layer composed
+of upper mantle].
+c. The lithosphere is divided into a number
+of rigid ‘tectonic plates’ which move
+relative to one another by mechanisms
+not yet completely understood.
+d. With new evidence, plate tectonic theory Analyse the evidence for plate tectonics
+developed from continental drift. [jigsaw pattern fit, fossil distributions, heat
+ Continental drift was proposed by flow, magnetic stripes, age of the ocean
+Wegener (1915) floor, Global Positioning System (GPS)
+ Evidence for sea floor spreading was data].
+discovered by
+Hess (1960)
+Vine and Matthews (1963)
+J. Tuzo Wilson (1965).
+e. There is a range of evidence supporting Use maps to interpret the global distributions
+the theory of plate tectonics and the of present day earthquakes, volcanic activity
+direction and rate of plate movements. and mountain belts in the context of
+processes at or near to plate boundaries.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 15
+f. The relative movements between plates Interpret the relative movement of plates
+produce a range of magmatic types, from their plate boundary context shown in
+structures and topography identified at maps and diagrams.
+different types of plate boundary.
+ Divergent plate boundaries [basalt Interpret the type of plate boundaries from
+extrusion, sea floor spreading, the data [magmatic, seismic and topographic]
+origin of basaltic magma by partial provided in text, diagrams/photographs and
+melting of the upper mantle, ocean maps.
+ridges, high heat flow, rift valleys,
+abyssal plain]
+e.g. Mid-Atlantic Ridge.
+ Conservative plate boundaries
+[earthquake activity, transform faults]
+e.g. San Andreas fault zone.
+ Convergent plate boundaries:
+1. oceanic-oceanic [island
+arc/trench systems]
+e.g.Java-Sumatra/Caribbean.
+2. oceanic-continental [active
+continental margins; subduction
+zones, Benioff zone, partial
+melting producing andesitic and
+granitic magmas] e.g. the Andes.
+3. continental-continental [mountain
+building, folding, thrust faulting,
+partial melting of the crust
+producing granites, associated
+regional metamorphism] e.g. the
+Himalaya.
+g. Plate theory is being continually re-
+evaluated in the light of new evidence
+e.g. seismic tomography and ocean
+drilling - RRS James Cook, Joides
+Resolution 360 (2016).
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 1616
+2.3 Geochronological Principles
+Knowledge and understanding Geological techniques and skills
+a. Geological events are dated and Investigate the link between ancient and
+interpreted using stratigraphic principles: modern processes by applying the principle
+ uniformitarianism - the present is the of uniformitarianism.
+key to the past
+ the concepts of original horizontality, Apply the principles of relative dating to
+lateral continuity and superposition of interpret the evidence in rock exposures in
+strata the field, in diagrams/photographs and
+ the relative dating of rocks on the simplified maps and cross-sections for the
+basis of included fragments, cross sequence of geological events that
+cutting relationships. formed/deformed them.
+b. Rocks can be dated and correlated using
+the evolutionary change of zone fossils
+over time.
+c. The following zone fossil groups have Use the named fossils, as seen in
+morphological changes with time that are specimens and diagrams/photographs to
+used in dating/correlation: interpret the geological history of a rock
+ cephalopods [goniatites, ceratites, sequence.
+ammonites - suture line]
+ graptolites [stipes, thecae].
+d. The decay of radioactive materials Carry out a simple analysis of the age of a
+provides a method of absolute dating for radioactive mineral based on the half-life
+some rocks and minerals. concept [parent - daughter ratio, unstable
+parent, stable daughter].
+e. The development of the concept of Deep
+Time [Ussher (The Bible), Hutton, Kelvin,
+Joly and Holmes] has extended the age
+of the Earth back to around 4.6 billion
+years.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 17
+2.4 Global Climate and Sea Level Change
+Knowledge and understanding Geological techniques and skills
+a. There is evidence for global climate
+change through geological time
+[icehouse to greenhouse conditions].
+Deposition of glacial deposits in regions
+close to the equator [Carboniferous
+tillites], deposition of limestone in areas
+outside the Tropics [Cretaceous
+limestones/chalk].
+b. There is evidence for change in the Interpret the evidence from hand specimens
+climate of the British area caused by a of rocks and fossils, maps, diagrams/
+change in its latitude. photographs for the changes in latitude of
+the British area from the Lower Palaeozoic
+to the Cenozoic. Interpret data from the data
+sheet.
+c. There is evidence for changes in sea
+level [drowned forests].
+d. The major sources of carbon dioxide in Evaluate the relative roles of volcanic
+the atmosphere are volcanic emissions emissions and fossil fuels in current rates of
+and the burning of fossil fuels. climate change.
+e. There is evidence for changes in
+atmospheric carbon dioxide levels over
+geological time [ice cores and
+sedimentary rock].
+f. There is both positive [reduction of
+icecap albedo accelerating warming] and
+negative [carbon dioxide dissolved in sea
+water, absorption by organisms to form
+limestone] feedback on the carbon
+dioxide content of the atmosphere
+[subduction, volcanic emissions,
+chemical weathering and marine
+storage].
+g. Global warming/cooling affects Investigate the evidence from the internet,
+continental ice sheet dimensions and maps and aerial images for past and current
+global sea level. fluctuations in continental ice and the effect
+on global sea levels.
+h. Carbon sequestration/capture is a
+geological strategy for reducing
+atmospheric carbon dioxide.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 1818
+2.5 The Origin and Development of Life on Earth
+Knowledge and understanding Geological techniques and skills
+a. Life probably originated from the oceans
+or hydrothermal pools 3500 Ma [black
+smokers].
+b. The development of diversity in the Use simple evolutionary trees diagrams
+evolution of life [through single cells, [cladograms] to demonstrate evolutionary
+multicellular organisms, animals with trends. Interpret data from the data sheet.
+hard parts, fish, amphibians, reptiles,
+mammals, birds and humans] is
+identified from the fossil record.
+c. The development of life on Earth was
+punctuated by major extinction events
+[Cretaceous/Palaeogene (K/Pg) mass
+extinction].
+d. Major fossil finds show: Evaluate the significance of the incomplete
+ rare and exceptional preservation nature of the fossil record.
+[Burgess shale fauna]
+ the links in macro fossil evolution
+through the morphology of modern
+reptiles and birds [Archaeopteryx]
+ that complex fossil skeletons have to
+be interpreted from incomplete and
+disarticulated remains [dinosaurs]
+ features of early hominids [“Lucy”].
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 19
+Key Idea 3: Comparisons of the Earth with other planetary
+bodies within the Solar System provide evidence for the origin
+and evolution of both
+This key idea enables candidates to appreciate the links between natural processes
+on Earth and those on other planetary bodies within the Solar System.
+3.1 Planetary Geology
+Knowledge and understanding Geological techniques and skills
+a. There are similarities and differences Use the principle of uniformitarianism to
+between the Earth and its planetary interpret the geological processes operating
+neighbours [rocks, landscapes, on planetary bodies within the Solar System.
+atmosphere, temperature, pressure and
+gravity]. Use evidence from space imagery and other
+planetary exploration data [maps, diagrams/
+b. Meteorites provide evidence for the photographs] to interpret the landforms and
+composition of the Earth. processes operating on planetary bodies
+within the Solar System
+c. The relationship between landforms and e.g. Moon and Mars.
+geological processes on Earth provides
+an analogue for interpreting landforms on
+planetary bodies within the Solar
+System.
+d. Planetary landforms provide evidence for
+unseen Earth processes e.g. Moon
+impact craters.
+e. Impacts from meteorites/comets may
+have had a significant effect on the
+evolution of the Earth and its biosphere.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 2020
+Key Idea 4: Human interaction with the Earth can increase or
+reduce risk
+This key idea enables candidates to appreciate the cause and effect of human
+interactions with the natural environment. Key Idea 4 has been divided into two
+topics:
+ Earth hazards and their mitigation
+ Earth resources and engineering.
+4.1 Earth Hazards and their Mitigation
+Knowledge and understanding Geological techniques and skills
+a. Geological events can be hazardous: Investigate and interpret geological data
+ earthquakes [shaking triggering relating to the distribution, measurement and
+landslides] possible causes of earthquakes, volcanic
+ volcanic eruptions [lava, ash, eruptions, landslides and associated
+pyroclastic and mud flows] tsunamis.
+ landslides [and related subsidence]
+ tsunamis.
+b. The level of risk of a hazard is associated Use examples to contrast the risk of
+with life and property and relates to: naturally occurring hazards in areas of
+ population density contrasting development - LEDC and MEDC.
+ technology [buildings]
+ development [economic situation,
+education, communication].
+c. The level of accuracy of hazard
+prediction is limited.
+d. The methods of reducing risk include:
+ building design and regulation
+ prediction
+1. hazard interval patterns [seismic
+gaps]
+2. ground deformation [tiltmeters]
+3. groundwater changes
+4. gas emissions
+ warning schemes and evacuation.
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 21
+4.2 Earth Resources and Engineering
+Knowledge and understanding Geological techniques and skills
+a. There is a distinction between Earth’s:
+ resources - naturally occurring useful
+substances
+ reserves of a resource - the calculated
+amount that is economic to extract.
+b. Mineral resources are important in Investigate the uses of the following minerals
+construction, industrial manufacturing and  [Limestone for aggregate in construction
+energy generation.  Haematite in the steel industry
+ Uranium in energy generation].
+c. Geologists prospecting for new reserves use Interpret prospecting data [geological mapping,
+a variety of techniques: geophysical, geochemical] to identify possible
+ geological mapping valuable mineral resources.
+ borehole correlation [using microfossils]
+ geophysical [seismic, magnetic and
+ground penetrating radar]
+ geochemical [soil and river sediment
+analysis].
+d. There are characteristic structures and rock Interpret data from maps, cross-sections and
+properties associated with the migration and seismic surveys to identify possible gas/oilfields.
+accumulation of oil and gas in potential on-
+shore and off-shore gas/oilfield resources:
+ source rock
+ contrasting porosity and permeability of
+reservoir and cap rocks
+ the main types of trap for oil and gas
+[anticline, fault, unconformity, salt dome].
+e. There are technological difficulties and
+environmental issues involved in exploring for
+and extracting oil and natural gas [including
+fracking].
+f. Factors affecting the extraction of Analyse different rock types for their suitability as
+underground water from aquifers include: an aquifer.
+ height of the water table
+ porosity/permeability of the aquifer
+ the presence of natural springs
+ the distribution of wells.
+g. The impact of domestic and hazardous waste Use data from descriptions,
+disposal on vulnerable aquifers depends diagrams/photographs, maps and cross-sections
+upon: to:
+ geological factors [permeability]  investigate the suitability of a potential landfill
+ engineering factors [geomembranes] site for the disposal of domestic waste.
+ monitoring of potentially polluted water  investigate the suitability of a potential site for
+ restoration of contaminated ground. the long term storage of hazardous waste.
+h. Geological factors affect the siting of Use data from descriptions,
+engineering projects e.g. reservoirs, dams, diagrams/photographs, maps and cross-sections
+tunnels and cuttings [permeability, stability of to investigate the geological factors affecting the
+bedrock, dip of strata, the presence of faults siting of major engineering projects.
+and joints].
+© WJEC CBAC Ltd.
+GCSE GEOLOGY 2222

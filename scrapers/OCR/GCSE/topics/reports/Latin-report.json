@@ -1,0 +1,121 @@
+{
+  "subject_name": "Latin",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/1onbd1yb/eduqas-gcse-latin-spec-from-2016-e-170925.pdf",
+  "start_time": "2025-11-23T19:07:06.023751",
+  "success": true,
+  "topics_extracted": 139,
+  "levels": {
+    "0": 4,
+    "1": 9,
+    "2": 25,
+    "3": 33,
+    "4": 68
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "2",
+        "name": "– themes for assessment in 2021, 2022 and 6"
+      },
+      {
+        "number": "2",
+        "name": "– themes for assessment in 2024, 2025 and 6"
+      },
+      {
+        "number": "2",
+        "name": "– themes for assessment in 2021,2022 and 6"
+      },
+      {
+        "number": "1",
+        "name": "5"
+      },
+      {
+        "number": "2",
+        "name": "6"
+      },
+      {
+        "number": "3",
+        "name": "7"
+      },
+      {
+        "number": "1",
+        "name": "11"
+      },
+      {
+        "number": "1",
+        "name": "22"
+      },
+      {
+        "number": "1",
+        "name": "Latin Language"
+      },
+      {
+        "number": "2",
+        "name": "Latin Literature and Sources (Themes)"
+      },
+      {
+        "number": "1",
+        "name": "Latin Language"
+      },
+      {
+        "number": "2",
+        "name": "Latin Literature and Sources (Themes)"
+      },
+      {
+        "number": "3",
+        "name": "EITHER 3A: Latin Literature (Narratives)"
+      },
+      {
+        "number": "1",
+        "name": "50% - - 50%"
+      },
+      {
+        "number": "2",
+        "name": "- 15% 15% 30%"
+      },
+      {
+        "number": "1",
+        "name": "(Section A)"
+      },
+      {
+        "number": "1",
+        "name": "(Section B: English into Latin Translation)"
+      },
+      {
+        "number": "1",
+        "name": "Translation and comprehension of Latin (Section A)"
+      },
+      {
+        "number": "1",
+        "name": "Latin Language"
+      },
+      {
+        "number": "2",
+        "name": "Latin Literature and Sources (Themes)"
+      },
+      {
+        "number": "2",
+        "name": "15% 15% 30%"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix C"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 33.964041233062744,
+  "end_time": "2025-11-23T19:07:39.987795"
+}

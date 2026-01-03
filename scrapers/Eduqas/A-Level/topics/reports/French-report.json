@@ -1,0 +1,162 @@
+{
+  "subject_name": "French",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/pb5dz24v/eduqas-a-level-french-spec-from-2016-r.pdf",
+  "start_time": "2025-11-23T23:37:52.548322",
+  "success": true,
+  "topics_extracted": 40,
+  "levels": {
+    "0": 3,
+    "1": 7,
+    "2": 19,
+    "3": 4,
+    "4": 7
+  },
+  "issues": [],
+  "warnings": [
+    "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+    "Not all components extracted"
+  ],
+  "success_grade": 75,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "7"
+      },
+      {
+        "number": "2",
+        "name": "9"
+      },
+      {
+        "number": "3",
+        "name": "10"
+      },
+      {
+        "number": "1",
+        "name": "Speaking"
+      },
+      {
+        "number": "2",
+        "name": "Listening, Reading and Translation"
+      },
+      {
+        "number": "3",
+        "name": "Critical and analytical response in writing (closed-book)"
+      },
+      {
+        "number": "1",
+        "name": "is a speaking"
+      },
+      {
+        "number": "2",
+        "name": "combines listening, reading and translation. Component 3"
+      },
+      {
+        "number": "3",
+        "name": "can be found in section 2.3 of this"
+      },
+      {
+        "number": "1",
+        "name": "Component 1: Speaking"
+      },
+      {
+        "number": "2",
+        "name": "Component 2: Listening, Reading and Translation"
+      },
+      {
+        "number": "2",
+        "name": "candidates will be expected to demonstrate their competence in the"
+      },
+      {
+        "number": "3",
+        "name": "Component 3: Critical and analytical response in writing (closed-book)"
+      },
+      {
+        "number": "1",
+        "name": "5% 5% 10% 10% 30%"
+      },
+      {
+        "number": "2",
+        "name": "Listening,"
+      },
+      {
+        "number": "3",
+        "name": "Critical and analytical - - 10% 10% 20%"
+      },
+      {
+        "number": "1",
+        "name": "Speaking. All non-exam assessment"
+      },
+      {
+        "number": "1",
+        "name": "is indeed the candidate's own work. The non-exam assessment"
+      },
+      {
+        "number": "3",
+        "name": " all individual research projects are distinctly different from each other (See"
+      },
+      {
+        "number": "1",
+        "name": "Independent Research Project Pro-forma - online version available"
+      },
+      {
+        "number": "1",
+        "name": "task 1 is my"
+      },
+      {
+        "number": "1",
+        "name": "task 1 is the candidate’s own work and that no mock oral"
+      },
+      {
+        "number": "3",
+        "name": "Name of literary work(s) and / or film studied"
+      },
+      {
+        "number": "1",
+        "name": "Speaking"
+      },
+      {
+        "number": "2",
+        "name": "Listening, Reading and Translation"
+      },
+      {
+        "number": "3",
+        "name": "Critical and analytical response in writing (closed-book)"
+      },
+      {
+        "number": "1",
+        "name": "Speaking"
+      },
+      {
+        "number": "2",
+        "name": "Listening, Reading and Translation"
+      },
+      {
+        "number": "3",
+        "name": "Critical and analytical response in writing (closed-book)"
+      },
+      {
+        "number": "1",
+        "name": "Speaking. All non-exam assessment"
+      },
+      {
+        "number": "3",
+        "name": "Name of literary work(s) and / or film studied"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 13.698564767837524,
+  "end_time": "2025-11-23T23:38:06.246885"
+}

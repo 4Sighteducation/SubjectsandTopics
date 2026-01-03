@@ -1,0 +1,51 @@
+2 Module 2: Foundations in geology
+2.1 2.1 Minerals and rocks
+2.1.1 2.1.1 Minerals
+2.1.1.1 (a) minerals as naturally occurring elements and inorganic compounds whose composition can be expressed as a chemical formula
+2.1.1.2 (b) rock-forming silicate minerals as crystalline materials built up from silicon–oxygen tetrahedra to form frameworks, sheets or chains and which may have a range of compositions (qualitative only)
+2.1.1.3 (c) the diagnostic physical properties of rock-forming minerals in hand specimens
+2.1.1.3.1 (i) the diagnostic physical properties of rock-forming minerals in hand specimens
+2.1.1.3.2 (ii) the classification of samples, photographs and thin section diagrams of minerals using their diagnostic physical properties
+2.1.1.3.3 (iii) practical investigations to determine the density and hardness of mineral samples
+2.1.1.3.4 (iv) the techniques and procedures used to measure mass, length and volume
+2.1.1.4 (d) the classification of rocks, which are made up of one or more minerals, as igneous, sedimentary or metamorphic using their relationship to temperatures and pressures in the rock cycle
+2.1.2 2.1.2 Igneous rocks
+2.1.2.1 (a) the classification of igneous rocks on the basis of their composition (silicic, intermediate, mafic and ultramafic) and crystal grain size (coarse-crystals >5 mm diameter; medium-crystals 1–5 mm diameter; fine-crystals <1 mm diameter)
+2.1.2.1.1 (i) the classification of igneous rocks on the basis of their composition and crystal grain size
+2.1.2.1.2 (ii) the diagnostic properties of rocks to identify igneous rocks in samples, photographs and thin section diagrams
+2.1.2.2 (b) igneous textures, crystal shape and crystal size as evidence for depth of formation and rate of cooling of igneous rocks
+2.1.2.2.1 (i) igneous textures, crystal shape and crystal size as evidence for depth of formation and rate of cooling of igneous rocks
+2.1.2.2.2 (ii) the diagnostic properties of igneous textures and crystal shape in samples, photographs and thin section diagrams
+2.1.2.2.3 (iii) the representation using drawings and annotated diagrams of igneous textures and crystal shape in samples
+2.1.2.2.4 (iv) the techniques and procedures used to measure temperature
+2.1.3 2.1.3 Sedimentary rocks
+2.1.3.1 (a) weathering and erosion, the mechanical, chemical and biological processes that produce the sediments that form sedimentary rocks
+2.1.3.2 (b) the effect of the process of erosion on the characteristics and composition of modern sediments
+2.1.3.2.1 (i) the effect of the process of erosion on the characteristics and composition of modern sediments
+2.1.3.2.2 (ii) sieve analysis of sediments
+2.1.3.3 (c) the diagnostic properties of rocks to recognise and measure grain sizes in samples, photographs and thin section diagrams
+2.1.3.4 (d) the classification of siliciclastic rocks on the basis of their diagnostic properties (colour, composition, grain size and grain shape, sorting)
+2.1.3.4.1 (i) the classification of siliciclastic rocks on the basis of their diagnostic properties
+2.1.3.4.2 (ii) the classification of carbonate rocks on the basis of their diagnostic properties (grain size, cement, mineral composition and fossil content, and sorting)
+2.1.3.4.3 (iii) the diagnostic properties of rocks to identify siliciclastic and carbonate rocks in samples, photographs and thin section diagrams
+2.1.3.5 (e) the processes of diagenesis and lithification
+2.1.3.5.1 (i) mechanical compaction
+2.1.3.5.2 (ii) chemical compaction by pressure dissolution and recrystallisation
+2.1.3.5.3 (iii) growth of cements
+2.1.3.5.4 (iv) how these changes in rock texture modify the porosity and permeability of rocks
+2.1.4 2.1.4 Metamorphic rocks
+2.1.4.1 (a) metamorphism as a solid state isochemical process that changes the characteristics of rock
+2.1.4.2 (b) how the mineralogy and fabric of metamorphic rocks can be used to infer the composition of the parent rock
+2.1.4.3 (c) how as the intensity of metamorphism changes different minerals form which can be used to reconstruct the conditions of metamorphism
+2.2 2.2 Fossils and time
+2.2.1 2.2.1 Fossils
+2.2.1.1 (a) fossils as the preserved remains of living organisms or the traces of those organisms
+2.2.1.2 (b) the nature and the reliability of the fossil record and the morphological definition of species
+2.2.1.3 (c) the use and interpretation of fossils as palaeoenvironmental indicators
+2.2.1.3.1 (i) trace fossils to provide information on the behaviour of the organism that formed them and the palaeoenvironment
+2.2.1.3.2 (ii) body fossils to provide information on the behaviour of the fossilised organism and the palaeoenvironment
+2.2.2 2.2.2 Geological time
+2.2.2.1 (a) the use of radioactive decay rates of the radionuclides in minerals to give a numerical age of those minerals and rocks
+2.2.2.1.1 (i) the use of radioactive decay rates of the radionuclides in minerals to give a numerical age of those minerals and rocks
+2.2.2.1.2 (ii) the plotting and interpretation of half-life curves
+2.2.2.2 (b) the geochronological division of the geological column for the Phanerozoic into eras and periods using a biostratigraphic relative time sequence

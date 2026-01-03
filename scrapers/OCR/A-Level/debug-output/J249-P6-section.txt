@@ -1,0 +1,196 @@
+Topic P6: Radioactivity
+P6.1 Radioactive emissions
+Summary Common misconceptions
+Having considered the general characteristics of waves and particles, we now Learners tend to struggle with the concept that radioactivity is a random and
+move on to look at radioactive decay which combines these two ideas. The idea unpredictable process. The idea of half-life is another area that can lead to
+of isotopes is introduced, leading into looking at the different types of emissions confusion. Learners often find it difficult to understand that objects being
+from atoms. irradiated does not lead to them becoming radioactive.
+Underlying knowledge and understanding Tiering
+Learners should have prior understanding of the atomic model, chemical symbols Statements shown in bold type will only be tested in the Higher Tier papers.
+and formulae. An understanding of radioactivity is not expected and should be All other statements will be assessed in both Foundation and Higher Tier papers.
+taught as new content.
+Topic content Opportunities to cover:
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P6.1a recall that atomic nuclei are composed of M5b
+both protons and neutrons, that the nucleus
+of each element has a characteristic positive
+charge
+P6.1b recall that atoms of the same elements can
+differ in nuclear mass by having different
+numbers of neutrons
+P6.1c use the conventional representation for identities, charges and masses
+nuclei to relate the differences between
+isotopes
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+49
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P6.1d recall that some nuclei are unstable and may WS1.1a, Use of a Geiger-Müller tube
+emit alpha particles, beta particles, or WS1.1b, and radioactive sources to
+neutrons, and electromagnetic radiation as WS1.2a, investigate activity.
+gamma rays WS1.2d,
+WS1.3b,
+WS1.3f
+P6.1e relate the emission of alpha particles, beta
+particles, gamma radiation and neutrons to
+possible changes in the mass or the charge of
+the nucleus, or both
+P6.1f use names and symbols of common nuclei
+and particles to write balanced equations
+that represent radioactive decay
+P6.1g balance equations representing the emission M1b, M1c,
+of alpha, beta or gamma radiation in terms of M3c
+the masses, and charges of the atoms
+involved
+P6.1h recall that in each atom its electrons are knowledge that inner electrons can be
+arranged at different distances from the ‘excited’ when they absorb energy from
+nucleus, that such arrangements may radiation and rise to a higher energy
+change with absorption or emission of level. When this energy is lost by the
+electromagnetic radiation and that atoms can electron it is emitted as radiation. When
+become ions by loss of outer electrons outer electrons are lost this is called
+ionisation
+P6.1i recall that changes in atoms and nuclei can an understanding that these types of WS1.1b, Demonstration of fluorescence
+also generate and absorb radiations over a radiation may be from any part of the WS1.3e with a black light lamp and
+wide frequency range electromagnetic spectrum which includes tonic water.
+gamma rays
+50
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P6.1j explain the concept of half-life and how this is M1c, M3d, WS1.1b, Using dice to model random
+related to the random nature of radioactive M4a, M4c WS1.3a, decay and half-life.
+decay WS1.3b,
+Research how half-life can be
+WS1.3c,
+used in radioactive dating.
+WS1.3e,
+WS1.3f,
+WS1.3h, WS2a
+P6.1k calculate the net decline, expressed as a half-life graphs M1c, M3d
+ratio, during radioactive emission after a
+given (integral) number of half-lives
+P6.1l recall the differences in the penetration WS1.1b, Use of Geiger-Müller tube,
+properties of alpha particles, beta particles WS1.2a, sources and aluminium plates
+and gamma rays WS1.2b, of varying thicknesses to
+WS1.2c, investigate change in count
+WS1.3a, rate.
+WS1.3f,
+WS1.3g,
+WS1.3h
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+51
+Version
+4.2
+©
+OCR
+2024
+2
+P6.2 Uses and hazards
+Summary Common misconceptions
+We now address the hazards and applications of radioactive decay. The processes Learners tend to think that radioactivity will always cause physical mutations
+of fission and fusion as a source of energy are also considered. when humans or animals come into contact with it. They tend to only think of
+the negative impacts of radiation and not the positive uses.
+Underlying knowledge and understanding
+Learners may have prior understanding of the term radioactivity from the Tiering
+previous sub topic and may be familiar with some uses, but will not have Statements shown in bold type will only be tested in the Higher Tier papers.
+covered this content prior to this topic. All other statements will be assessed in both Foundation and Higher Tier papers.
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P6.2a recall the differences between contamination WS1.1a, Use of spark chamber to
+and irradiation effects and compare the WS1.1b, demonstrate a different type
+hazards associated with these two WS1.2a, of activity counter.
+WS1.2d,
+WS1.3b,
+WS1.3f
+P6.2b þ explain why the hazards associated with WS1.1a, Illustrate an everyday use of
+radioactive material differ according to the WS1.1c, radioactive sources in smoke
+half-life involved WS1.1d, detectors and discuss why they
+WS1.1e, might be suitable.
+WS1.1f,
+WS1.1h,
+WS1.1i
+52
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P6.2c þ describe the different uses of nuclear WS1.1a, Research the medical uses
+radiations for exploration of internal WS1.1c, of radioactive tracers and
+organs, and for control or destruction WS1.1d, radiotherapy.
+of unwanted tissue WS1.1e,
+WS1.1f,
+WS1.1h,
+WS1.1i
+P6.2d þ recall that some nuclei are unstable and may knowledge of the term nuclear
+split, and relate such effects to radiation fission
+which might emerge, to transfer of energy to
+other particles and to the possibility of chain
+reactions for fission to occur the unstable
+nucleus must usually first absorb a
+neutron
+P6.2e þ describe the process of nuclear fusion knowledge that mass may be
+converted into the energy of
+radiation
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+53
+Version
+4.2
+©
+OCR
+2024
+2

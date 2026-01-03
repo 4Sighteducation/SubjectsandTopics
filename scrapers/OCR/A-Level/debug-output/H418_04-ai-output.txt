@@ -1,0 +1,105 @@
+1 The nature of law and the law of contract (H418_04)
+1.1 Section A: The nature of law
+1.1.1 Introduction to the nature of law
+1.1.1.1 Law and rules: the difference between enforceable legal rules and principles and other rules and norms of behaviour
+1.1.1.1.1 the differences between civil and criminal law: procedure, purpose and outcomes, including the different court systems
+1.1.1.2 The connections between law, morality and justice
+1.1.1.2.1 the development and application of each area of law
+1.1.1.3 The differences between civil and criminal law
+1.1.1.3.1 understand the principle of the rule of law as an underpinning concept for justice, human rights and as a guiding principle of the law, including core elements of the rule of law
+1.1.1.4 An overview of the development of English Law: custom, common law, statute law
+1.1.1.5 The rule of law: definition and importance
+1.1.1.5.1 evaluation of the rule of law
+1.1.2 Law and morality
+1.1.2.1 The distinction between law and morals
+1.1.2.1.1 define morality and law; the function of morals and law
+1.1.2.2 The diversity of moral views in a pluralist society
+1.1.2.2.1 overlap and difference between immoral and illegal acts
+1.1.2.3 The relationship between law and morals and its importance
+1.1.2.3.1 the main legal theories underpinning the law; such as legal positivism and natural law
+1.1.2.4 The legal enforcement of moral values
+1.1.2.4.1 pluralism as a key factor in shaping the approach to morality in our society
+1.1.2.4.2 issues where morality and law have clashed in the courts
+1.1.2.4.3 the main arguments and issues in the Devlin-Hart debate and be able to apply the main arguments to specific areas and cases
+1.1.2.4.4 evaluation of law and morality
+1.1.3 Law and justice
+1.1.3.1 The meaning of justice
+1.1.3.1.1 the different types of justice within the law
+1.1.3.2 Theories of justice
+1.1.3.2.1 the different theories of justice which affect the way that the law is conducted
+1.1.3.3 The extent to which the law achieves justice
+1.1.3.3.1 the extent to which the legal system produces just outcomes
+1.1.3.3.2 evaluation of law and justice
+1.1.4 Law and society
+1.1.4.1 The role law plays in society
+1.1.4.1.1 the role that the law has in shaping society through social control
+1.1.4.2 The law as a social control mechanism
+1.1.4.2.1 the role of the media in creating moral panic as an agent of social change
+1.1.4.3 The way in which the law creates and deals with consensus and conflict
+1.1.4.3.1 the theories behind law as a social control mechanism; formal and informal mechanisms
+1.1.4.4 The realist approach to law making
+1.1.4.4.1 the different theories and how they are reflected in the legal system: consensus theory, conflict theory and labelling theory
+1.1.4.4.2 the different viewpoints within realism, such as left realism and right realism; the impact of the approaches on specific areas of the law
+1.1.4.4.3 evaluation of law and society
+1.2 Section B: The law of contract
+1.2.1 Rules and theory
+1.2.1.1 An outline of the rules of the law of contract
+1.2.1.1.1 the parties to the contract
+1.2.1.1.2 the burden of proof
+1.2.1.1.3 sources of contract law
+1.2.1.1.4 remedies
+1.2.1.1.5 freedom of contract
+1.2.1.1.6 acting on good faith
+1.2.1.1.7 consumer protection
+1.2.1.1.8 balancing interests and justice
+1.2.1.1.9 principle of fault
+1.2.1.1.10 inequality of bargaining power
+1.2.2 Formation
+1.2.2.1 Offer and acceptance, including the rules of communication and revocation
+1.2.2.1.1 key concepts: invitation to treat, bilateral offer, unilateral offer, counter offers
+1.2.2.2 Intention to create legal relations: domestic and commercial, presumptions and rebuttals
+1.2.2.2.1 what is the presumption in domestic contracts? When is it rebutted in domestic contracts?
+1.2.2.2.2 what is the presumption in commercial contracts? When is it rebutted in commercial contracts?
+1.2.2.3 Consideration: adequacy, sufficiency, past consideration, pre-existing duties
+1.2.2.3.1 rules of consideration
+1.2.2.4 Privity: the rights of third parties under the Contract (Rights of Third Parties) Act 1999 and common law exceptions
+1.2.2.4.1 privity: the rule itself, the common law exceptions to privity; Statutory exceptions
+1.2.3 Terms
+1.2.3.1 Express and implied terms, including the Consumer Rights Act 2015
+1.2.3.1.1 the concept of terms and incorporation; the difference between express and implied terms; implied terms through common law, by statute, by course of dealings
+1.2.3.2 Types of term: conditions, warranties, innominate terms
+1.2.3.2.1 terms which are implied by the Consumer Rights Act
+1.2.3.3 Exclusion and limitation clauses, including the Unfair Contract Terms Act 1977 and the Consumer Rights Act 2015
+1.2.3.3.1 term-based and breach-based approach; consequences for breach of each kind of term; problems with the term-based approach; situations where a term will be identified as a condition
+1.2.3.3.2 common law regulation of exclusion clauses, Statutory regulation of exclusion clause, Regulation of exclusion clauses in non-consumer contracts
+1.2.4 Vitiating factors
+1.2.4.1 Misrepresentation, including omission in consumer contexts and the Misrepresentation Act 1967
+1.2.4.1.1 fraudulent misrepresentation, negligent misstatement, statutory misrepresentation, innocent misrepresentation, remedies for each kind of misrepresentation
+1.2.4.2 Economic duress
+1.2.4.2.1 the nature of the threat, the consequences of the threat, extra criteria (Pao On v Lau Yiu Long), remedies and limits
+1.2.5 Discharge
+1.2.5.1 Performance
+1.2.5.1.1 discharged through performance; exceptions: tender of performance, severable contracts, substantial performance, acceptance of partial performance, delayed performance
+1.2.5.2 Frustration
+1.2.5.2.1 grounds for claiming frustration, limits to frustration and the financial consequences of a contract being frustrated
+1.2.5.3 Breach of contract: actual and anticipatory breach
+1.2.5.3.1 meaning of repudiatory breach; damages for repudiatory breach and for non-repudiatory breach; breach of a condition, an innominate term and a warranty
+1.2.5.3.2 nature of anticipatory breach; choices the other party has
+1.2.6 Remedies
+1.2.6.1 Damages: compensatory damages; causation and remoteness of damage; mitigation of loss
+1.2.6.1.1 basis for a claim in damages, Special situations, Foreseeability of the losses, mitigation, enforceability of liquidated damages clauses
+1.2.6.2 Equitable remedies
+1.2.6.2.1 specific performance
+1.2.6.2.2 injunctions
+1.2.6.3 Consumer remedies under the Consumer Rights Act 2015
+1.2.6.3.1 awareness of the remedies for breach of rights in the Consumer Rights Act: rejection and partial rejection of goods, how the right is exercised, time limit for short term right to reject, reduction in price and having work redone
+1.2.7 Evaluation
+1.2.7.1 Critical evaluation of:
+1.2.7.1.1 offer and acceptance
+1.2.7.1.2 intention to create legal relations
+1.2.7.1.3 consideration
+1.2.7.1.4 privity of contract
+1.2.7.1.5 incorporation of terms
+1.2.7.1.6 classification of terms
+1.2.7.1.7 exclusion clauses
+1.2.7.1.8 ideas for reform for the above areas

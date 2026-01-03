@@ -1,0 +1,101 @@
+1.1 B3.1 Coordination and control – the nervous system
+1.1.1 B3.1a describe the structure of the nervous system
+1.1.1.1 Central Nervous System
+1.1.1.2 sensory, motor and relay neurones
+1.1.1.3 sensory receptors
+1.1.1.4 synapse
+1.1.1.5 effectors
+1.1.1.6 details of the structure of sensory and motor neurones required
+1.1.2 B3.1b explain how the components of the nervous system can produce a coordinated response
+1.1.2.1 it goes to all parts of the body
+1.1.2.2 has many links
+1.1.2.3 has different sensory receptors
+1.1.2.4 is able to coordinate responses
+1.1.3 B3.1c explain how the structure of a reflex arc is related to its function
+1.1.4 B3.1d explain how the main structures of the eye are related to their functions
+1.1.4.1 cornea
+1.1.4.2 iris
+1.1.4.3 pupil
+1.1.4.4 lens
+1.1.4.5 retina
+1.1.4.6 optic nerve
+1.1.4.7 ciliary body
+1.1.4.8 suspensory ligaments
+1.1.5 B3.1e describe common defects of the eye and explain how some of these problems may be overcome
+1.1.5.1 colour blindness
+1.1.5.2 short-sightedness
+1.1.5.3 long-sightedness
+1.1.6 B3.1f describe the structure and function of the brain
+1.1.6.1 cerebrum
+1.1.6.2 cerebellum
+1.1.6.3 medulla
+1.1.6.4 hypothalamus
+1.1.6.5 pituitary
+1.1.7 B3.1g explain some of the difficulties of investigating brain function
+1.1.7.1 the difficulty in obtaining and interpreting case studies
+1.1.7.2 the consideration of ethical issues
+1.1.8 B3.1h explain some of the limitations in treating damage and disease in the brain and other parts of the nervous system
+1.1.8.1 limited ability to repair nervous tissue
+1.1.8.2 irreversible damage to the surrounding tissues
+1.1.8.3 difficulties with accessing parts of the nervous system
+
+1.2 B3.2 Coordination and control – the endocrine system
+1.2.1 B3.2a describe the principles of hormonal coordination and control by the human endocrine system
+1.2.1.1 use of chemical messengers
+1.2.1.2 transport in blood
+1.2.1.3 endocrine glands
+1.2.1.4 receptors
+1.2.2 B3.2b explain the roles of thyroxine and adrenaline in the body
+1.2.2.1 thyroxine as an example of a negative feedback system
+1.2.3 B3.2c describe the role of hormones in human reproduction including the control of the menstrual cycle
+1.2.3.1 oestrogen
+1.2.3.2 progesterone
+1.2.3.3 FSH
+1.2.3.4 testosterone
+1.2.4 B3.2d explain the interactions of FSH, LH, oestrogen and progesterone in the control of the menstrual cycle
+1.2.5 B3.2e explain the use of hormones in contraception and evaluate hormonal and non-hormonal methods of contraception
+1.2.5.1 relative effectiveness of the different forms of contraception
+1.2.6 B3.2f explain the use of hormones in modern reproductive technologies to treat infertility
+1.2.7 B3.2g explain how plant hormones are important in the control and coordination of plant growth and development, with reference to the role of auxins in phototropisms and gravitropisms
+1.2.7.1 unequal distribution of auxin
+1.2.8 B3.2h describe some of the variety of effects of plant hormones, relating to auxins, gibberellins and ethene
+1.2.8.1 controlling growth
+1.2.8.2 controlling germination
+1.2.8.3 fruit ripening
+1.2.8.4 flower opening
+1.2.8.5 shedding of leaves
+1.2.9 B3.2i describe some of the different ways in which people use plant hormones to control plant growth
+1.2.9.1 selective herbicides
+1.2.9.2 root cuttings
+1.2.9.3 seedless fruit (parthenocarpic fruit development)
+1.2.9.4 altering dormancy
+
+1.3 B3.3 Maintaining internal environments
+1.3.1 B3.3a explain the importance of maintaining a constant internal environment in response to internal and external change
+1.3.1.1 allowing metabolic reactions to proceed at appropriate rates
+1.3.2 B3.3b describe the function of the skin in the control of body temperature
+1.3.2.1 detection of external temperature
+1.3.2.2 sweating
+1.3.2.3 shivering
+1.3.2.4 change to blood flow in terms of vasoconstriction and vasodilation
+1.3.3 B3.3c explain how insulin controls blood sugar levels in the body
+1.3.4 B3.3d explain how glucagon interacts with insulin to control blood sugar levels in the body
+1.3.5 B3.3e compare type 1 and type 2 diabetes and explain how they can be treated
+1.3.6 B3.3f explain the effect on cells of osmotic changes in body fluids
+1.3.6.1 higher, lower or equal water potentials leading to lysis or shrinking (no mathematical use of water potentials required)
+1.3.7 B3.3g describe the function of the kidneys in maintaining the water balance of the body
+1.3.7.1 varying the amount and concentration of urine and hence water excreted
+1.3.8 B3.3h describe the gross structure of the kidney and the structure of the kidney tubule
+1.3.8.1 Bowman’s capsule
+1.3.8.2 proximal convoluted tubule
+1.3.8.3 loop of Henlé
+1.3.8.4 collecting duct
+1.3.9 B3.3i describe the effect of ADH on the permeability of the kidney tubules
+1.3.9.1 amount of water reabsorbed
+1.3.9.2 negative feedback
+1.3.10 B3.3j explain the response of the body to different temperature and osmotic challenges
+1.3.10.1 challenges to include high sweating and dehydration
+1.3.10.2 excess water intake
+1.3.10.3 high salt intake
+1.3.10.4 responses to include mechanism of kidney function
+1.3.10.5 thirst

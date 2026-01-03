@@ -1,0 +1,31 @@
+{
+  "completed": [
+    "IG-Accounting",
+    "IG-Arabic",
+    "IG-Biology",
+    "IG-Business",
+    "IG-Chemistry",
+    "IG-Chinese",
+    "IG-Commerce",
+    "IG-ComputerScience",
+    "IG-Economics",
+    "IG-EnglishLanguageA",
+    "IG-EnglishLanguageB",
+    "IG-EnglishLiterature",
+    "IG-French",
+    "IG-Geography",
+    "IG-German",
+    "IG-History",
+    "IG-HumanBiology",
+    "IG-ICT",
+    "IG-MathematicsA",
+    "IG-MathematicsB",
+    "IG-Physics",
+    "IG-Spanish",
+    "IG-ScienceDoubleAward"
+  ],
+  "failed": [
+    "IG-EnglishESL",
+    "IG-FurtherPureMaths"
+  ]
+}

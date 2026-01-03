@@ -1,0 +1,2988 @@
+{
+  "timestamp": "20251123-191742",
+  "total_subjects": 22,
+  "success_count": 19,
+  "fail_count": 3,
+  "success_rate": 86.36363636363636,
+  "reports": [
+    {
+      "subject_name": "Art and Design",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/ozvlit0g/eduqas-gcse-art-and-design-spec-from-2016-27-01-2020.pdf",
+      "start_time": "2025-11-23T18:52:54.195390",
+      "success": true,
+      "topics_extracted": 29,
+      "levels": {
+        "0": 2,
+        "1": 4,
+        "2": 5,
+        "3": 7,
+        "4": 11
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted",
+        "Not all components extracted"
+      ],
+      "success_grade": 75,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "13"
+          },
+          {
+            "number": "2",
+            "name": "14"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "‘Portfolio’ encourages"
+          },
+          {
+            "number": "2",
+            "name": "‘Externally Set Assignment’ enables"
+          },
+          {
+            "number": "1",
+            "name": "by producing an appropriate outcome within a set time frame to demonstrate"
+          },
+          {
+            "number": "1",
+            "name": "and"
+          },
+          {
+            "number": "2",
+            "name": "and beyond."
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "2",
+            "name": "work must be stored securely by the centre to"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "1",
+            "name": "is internally assessed and externally moderated. It will be marked out of"
+          },
+          {
+            "number": "1",
+            "name": "before the Externally Set Assignment is commenced in"
+          },
+          {
+            "number": "1",
+            "name": "to ensure that they"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "2",
+            "name": "is internally assessed and externally moderated. It will be marked out of 80:"
+          },
+          {
+            "number": "2",
+            "name": "It is essential that candidates’ responses are both personal and independent."
+          },
+          {
+            "number": "1",
+            "name": "and Component 2 internal marks must be submitted to WJEC by the"
+          },
+          {
+            "number": "1",
+            "name": "or component 2 and referring to the exemplar work available on the Eduqas"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio (Total Marks = 120)"
+          },
+          {
+            "number": "1",
+            "name": "or component 2 and referring to the exemplar work available on the Eduqas"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment (Total Marks = 80)"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio (Total Marks = 120)"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment (Total Marks = 80)"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 21.87681746482849,
+      "end_time": "2025-11-23T18:53:16.072207"
+    },
+    {
+      "subject_name": "Design and Technology",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/25tlhhbw/gcse-design-and-technology-specification.pdf",
+      "start_time": "2025-11-23T18:53:55.041970",
+      "success": true,
+      "topics_extracted": 84,
+      "levels": {
+        "0": 2,
+        "1": 3,
+        "2": 10,
+        "3": 23,
+        "4": 46
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Design and Technology in the 21st Century"
+          },
+          {
+            "number": "2",
+            "name": "Design and make task"
+          },
+          {
+            "number": "1",
+            "name": "and in Component 2. Learners are responsible for"
+          },
+          {
+            "number": "1",
+            "name": "'Design and Technology in the 21st Century'."
+          },
+          {
+            "number": "1",
+            "name": "- - 10% 40% 50%"
+          },
+          {
+            "number": "2",
+            "name": "10% 30% 10% 50%"
+          },
+          {
+            "number": "1",
+            "name": "assesses"
+          },
+          {
+            "number": "2",
+            "name": "assesses learners' ability to analyse and evaluate design decisions and outcomes including"
+          },
+          {
+            "number": "1",
+            "name": "Design and Technology in the 21st Century"
+          },
+          {
+            "number": "2",
+            "name": "Design and make task"
+          },
+          {
+            "number": "1",
+            "name": "- 10% 40% 50%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 29.509470462799072,
+      "end_time": "2025-11-23T18:54:24.551441"
+    },
+    {
+      "subject_name": "Drama",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/hydhvd02/eduqas-gcse-drama-spec-from-2016-e-270824.pdf",
+      "start_time": "2025-11-23T18:55:03.325786",
+      "success": true,
+      "topics_extracted": 76,
+      "levels": {
+        "0": 3,
+        "1": 7,
+        "2": 13,
+        "3": 16,
+        "4": 37
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "2",
+            "name": "and Component 3"
+          },
+          {
+            "number": "1",
+            "name": "Devising Workshop and Component 21 and 25"
+          },
+          {
+            "number": "3",
+            "name": "16"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre 6"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text 11"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre 16"
+          },
+          {
+            "number": "1",
+            "name": "27"
+          },
+          {
+            "number": "2",
+            "name": "43"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "1",
+            "name": "• guidance on the assessment of Component 1."
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "3",
+            "name": "to enable learners to gain a broad and varied"
+          },
+          {
+            "number": "2",
+            "name": "and Component 3 are listed below."
+          },
+          {
+            "number": "3",
+            "name": "text Selection of Component 2 text"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions, will be made"
+          },
+          {
+            "number": "2",
+            "name": "and a list of"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre"
+          },
+          {
+            "number": "3",
+            "name": "must be contrasting. The criteria for selecting appropriately contrasting texts for Com-"
+          },
+          {
+            "number": "3",
+            "name": "are listed below."
+          },
+          {
+            "number": "1",
+            "name": "20% 10% - 10% 40%"
+          },
+          {
+            "number": "2",
+            "name": "- 20% - - 20%"
+          },
+          {
+            "number": "3",
+            "name": "- - 30% 10% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "1",
+            "name": "is internally assessed and externally moderated."
+          },
+          {
+            "number": "1",
+            "name": "assesses AO1, AO2 and AO4. The maximum mark for Component 1 is"
+          },
+          {
+            "number": "1",
+            "name": "• The internal completion date is determined by the centre and the centre must"
+          },
+          {
+            "number": "1",
+            "name": "As a result of the moderation, the marks of learners may be adjusted to bring the"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "2",
+            "name": "is externally assessed by a visiting examiner."
+          },
+          {
+            "number": "2",
+            "name": "and Component 3 must be contrasting. Criteria to"
+          },
+          {
+            "number": "2",
+            "name": "WJEC should be contacted as soon as possible. Centres will be notified"
+          },
+          {
+            "number": "2",
+            "name": "assesses AO2 only. The total mark for Component 2 is 60."
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions to"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions)."
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "1",
+            "name": "• guidance for assessing Component 1."
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre – Assessment grid for performing candidates (Performance and supporting evidence)"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre – Assessment grid for design candidates (Design and supporting evidence)"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre: Assessment grid for evaluation"
+          },
+          {
+            "number": "1",
+            "name": "AO1"
+          },
+          {
+            "number": "2",
+            "name": "• a list of suitable texts for Component 2"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text – Assessment grid for performing candidates"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text – Assessment grid for design candidates"
+          },
+          {
+            "number": "2",
+            "name": "The following list of texts is suggested for study in Component 2 but learners may choose a"
+          },
+          {
+            "number": "2",
+            "name": "and Component 3 must be contrasting. Criteria to"
+          },
+          {
+            "number": "1",
+            "name": "Devising Workshop and Component 21 and 25"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre 6"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text 11"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre 16"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions, will be made"
+          },
+          {
+            "number": "2",
+            "name": "20% - - 20%"
+          },
+          {
+            "number": "3",
+            "name": "- 30% 10% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions to"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions)."
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre – Assessment grid for performing candidates (Performance and supporting evidence)"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre – Assessment grid for design candidates (Design and supporting evidence)"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre: Assessment grid for evaluation"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text – Assessment grid for performing candidates"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text – Assessment grid for design candidates"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 27.508508920669556,
+      "end_time": "2025-11-23T18:55:30.834296"
+    },
+    {
+      "subject_name": "Electronics",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/0phdotb0/eduqas-gcse-electronics-spec-from-2017-e-181224.pdf",
+      "start_time": "2025-11-23T18:56:09.036779",
+      "success": true,
+      "topics_extracted": 104,
+      "levels": {
+        "0": 3,
+        "1": 15,
+        "2": 29,
+        "3": 29,
+        "4": 28
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "6"
+          },
+          {
+            "number": "2",
+            "name": "13"
+          },
+          {
+            "number": "3",
+            "name": "19"
+          },
+          {
+            "number": "1",
+            "name": "Discovering Electronics"
+          },
+          {
+            "number": "2",
+            "name": "Application of Electronics"
+          },
+          {
+            "number": "3",
+            "name": "Extended system design and realisation task"
+          },
+          {
+            "number": "1",
+            "name": "Discovering Electronics"
+          },
+          {
+            "number": "2",
+            "name": "Application of Electronics"
+          },
+          {
+            "number": "3",
+            "name": "Extended system design and realisation task"
+          },
+          {
+            "number": "1",
+            "name": "17.5% 17.5% 5% 40%"
+          },
+          {
+            "number": "2",
+            "name": "17.5% 17.5% 5% 40%"
+          },
+          {
+            "number": "3",
+            "name": "- - 20% 20%"
+          },
+          {
+            "number": "1",
+            "name": "Discovering Electronics"
+          },
+          {
+            "number": "2",
+            "name": "Application of Electronics"
+          },
+          {
+            "number": "3",
+            "name": "Extended system design and realisation task"
+          },
+          {
+            "number": "3",
+            "name": "- 20% 20%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix C"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 27.831965923309326,
+      "end_time": "2025-11-23T18:56:36.868748"
+    },
+    {
+      "subject_name": "English Language",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/jiqhw5kd/gcse-english-language-spec-comparison.pdf",
+      "start_time": "2025-11-23T18:57:15.374316",
+      "success": false,
+      "topics_extracted": 0,
+      "levels": {},
+      "issues": [
+        "Subject Content section not found"
+      ],
+      "warnings": [],
+      "success_grade": 0,
+      "analysis": {
+        "content_found": false,
+        "has_components": false,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": false,
+        "components": [],
+        "tiers": [],
+        "options": [],
+        "appendices": [],
+        "structure_type": "standard"
+      },
+      "duration_seconds": 0,
+      "error": "Could not find Subject Content section"
+    },
+    {
+      "subject_name": "English Literature",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/x2zpzwgt/eduqas-gcse-english-lit-spec-from-2015-e.pdf",
+      "start_time": "2025-11-23T18:57:55.478863",
+      "success": true,
+      "topics_extracted": 77,
+      "levels": {
+        "0": 2,
+        "1": 5,
+        "2": 8,
+        "3": 39,
+        "4": 23
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "and"
+          },
+          {
+            "number": "1",
+            "name": "15 15 7.5 2.5 40"
+          },
+          {
+            "number": "2",
+            "name": "25 25 7.5 2.5 60"
+          },
+          {
+            "number": "1",
+            "name": "Section A (Shakespeare)"
+          },
+          {
+            "number": "1",
+            "name": "Section B"
+          },
+          {
+            "number": "2",
+            "name": "Section A (Post 1914 Prose/Drama)"
+          },
+          {
+            "number": "2",
+            "name": "Section B (19th Century Prose)"
+          },
+          {
+            "number": "2",
+            "name": "Section C (Unseen Poetry)"
+          },
+          {
+            "number": "1",
+            "name": "Section A (Shakespeare)"
+          },
+          {
+            "number": "1",
+            "name": "Section B"
+          },
+          {
+            "number": "2",
+            "name": "Section A (Post 1914 Prose/Drama)"
+          },
+          {
+            "number": "2",
+            "name": "Section B (19th Century Prose)"
+          },
+          {
+            "number": "2",
+            "name": "Section C (Unseen Poetry)"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "appendix B",
+          "prescribed texts"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 15.58279800415039,
+      "end_time": "2025-11-23T18:58:11.061664"
+    },
+    {
+      "subject_name": "Film Studies",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/oblk51zi/eduqas-gcse-film-studies-spec-from-2017-e-01.pdf",
+      "start_time": "2025-11-23T18:58:49.255378",
+      "success": true,
+      "topics_extracted": 82,
+      "levels": {
+        "0": 5,
+        "1": 4,
+        "2": 9,
+        "3": 28,
+        "4": 36
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": true,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Key Developments in US Film 13"
+          },
+          {
+            "number": "2",
+            "name": "Global Film - Narrative, Representation"
+          },
+          {
+            "number": "3",
+            "name": "Production 21"
+          },
+          {
+            "number": "3",
+            "name": "Marking grids 34"
+          },
+          {
+            "number": "1",
+            "name": "Key Developments in US Film"
+          },
+          {
+            "number": "2",
+            "name": "Global Film: Narrative, Representation and Film Style"
+          },
+          {
+            "number": "3",
+            "name": "Production"
+          },
+          {
+            "number": "1",
+            "name": "Key Developments in US Film"
+          },
+          {
+            "number": "2",
+            "name": "Global Film: Narrative, Representation and Film Style"
+          },
+          {
+            "number": "1",
+            "name": "Key Developments in US Film"
+          },
+          {
+            "number": "2",
+            "name": "Global Film: Narrative, Representation and Film Style"
+          },
+          {
+            "number": "3",
+            "name": "Production"
+          },
+          {
+            "number": "1",
+            "name": "15% 20% - 35%"
+          },
+          {
+            "number": "2",
+            "name": "15% 20% - 35%"
+          },
+          {
+            "number": "3",
+            "name": "- 10% 20% 30%"
+          },
+          {
+            "number": "3",
+            "name": "Marking grids"
+          },
+          {
+            "number": "1",
+            "name": "Key Developments in US Film 13"
+          },
+          {
+            "number": "2",
+            "name": "Global Film - Narrative, Representation"
+          },
+          {
+            "number": "3",
+            "name": "Production 21"
+          },
+          {
+            "number": "3",
+            "name": "Marking grids 34"
+          },
+          {
+            "number": "1",
+            "name": "Key Developments in US Film"
+          },
+          {
+            "number": "2",
+            "name": "Global Film: Narrative, Representation and Film Style"
+          },
+          {
+            "number": "3",
+            "name": "Production"
+          },
+          {
+            "number": "1",
+            "name": "Key Developments in US Film"
+          },
+          {
+            "number": "2",
+            "name": "Global Film: Narrative, Representation and Film Style"
+          },
+          {
+            "number": "3",
+            "name": "10% 20% 30%"
+          },
+          {
+            "number": "3",
+            "name": "Marking grids"
+          }
+        ],
+        "tiers": [],
+        "options": [
+          "• Dracula (Browning, USA, 1931), U and The Lost Boys (Schumacher,",
+          "• Juno (Reitman, USA, 2007), 12",
+          "• the opening of the film or"
+        ],
+        "appendices": [
+          "Appendix B"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 22.90407943725586,
+      "end_time": "2025-11-23T18:59:12.159457"
+    },
+    {
+      "subject_name": "Food Preparation and Nutrition",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/4zjdq104/eduqas-gcse-food-preparation-nutrition-spec-from-2016.pdf",
+      "start_time": "2025-11-23T18:59:50.364820",
+      "success": true,
+      "topics_extracted": 118,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 13,
+        "3": 21,
+        "4": 75
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "5"
+          },
+          {
+            "number": "2",
+            "name": "15"
+          },
+          {
+            "number": "1",
+            "name": "Principles of Food Preparation and"
+          },
+          {
+            "number": "2",
+            "name": "Food Preparation and Nutrition in Action"
+          },
+          {
+            "number": "1",
+            "name": "Principles of Food Preparation and Nutrition"
+          },
+          {
+            "number": "2",
+            "name": "Food Preparation and Nutrition in Action"
+          },
+          {
+            "number": "1",
+            "name": "20% 20% - 10% 50%"
+          },
+          {
+            "number": "2",
+            "name": "Task 1"
+          },
+          {
+            "number": "2",
+            "name": "accounts for 50% of this GCSE. Further details on arrangements for the"
+          },
+          {
+            "number": "1",
+            "name": "Principles of Food Preparation and"
+          },
+          {
+            "number": "2",
+            "name": "Food Preparation and Nutrition in Action"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 27.96324396133423,
+      "end_time": "2025-11-23T19:00:18.328065"
+    },
+    {
+      "subject_name": "French",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/0gqg4xeh/eduqas-gcse-french-spec-from-2016-e-01-08-23.pdf",
+      "start_time": "2025-11-23T19:00:56.962855",
+      "success": true,
+      "topics_extracted": 96,
+      "levels": {
+        "0": 2,
+        "1": 8,
+        "2": 21,
+        "3": 45,
+        "4": 20
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": true,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "4",
+            "name": "has been amended to 2"
+          },
+          {
+            "number": "4",
+            "name": "has been amended to 10"
+          },
+          {
+            "number": "4",
+            "name": "from 2024."
+          },
+          {
+            "number": "1",
+            "name": "8"
+          },
+          {
+            "number": "2",
+            "name": "9"
+          },
+          {
+            "number": "3",
+            "name": "9"
+          },
+          {
+            "number": "4",
+            "name": "10"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening"
+          },
+          {
+            "number": "3",
+            "name": "Reading"
+          },
+          {
+            "number": "4",
+            "name": "Writing"
+          },
+          {
+            "number": "1",
+            "name": "is a spoken non-"
+          },
+          {
+            "number": "2",
+            "name": "is a listening examination, Component 3 is a"
+          },
+          {
+            "number": "4",
+            "name": "is a written examination."
+          },
+          {
+            "number": "1",
+            "name": "Component 1: Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Component 2: Listening"
+          },
+          {
+            "number": "3",
+            "name": "Component 3: Reading"
+          },
+          {
+            "number": "4",
+            "name": "Component 4: Writing"
+          },
+          {
+            "number": "1",
+            "name": "- 25% - - 25%"
+          },
+          {
+            "number": "2",
+            "name": "25% - - - 25%"
+          },
+          {
+            "number": "3",
+            "name": "- - 25% - 25%"
+          },
+          {
+            "number": "4",
+            "name": "- - - 25% 25%"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessments must"
+          },
+          {
+            "number": "4",
+            "name": "from 2024"
+          },
+          {
+            "number": "4",
+            "name": "Writing assessment. In Summer 2024 and beyond, Component 4 will include:"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening"
+          },
+          {
+            "number": "3",
+            "name": "Reading"
+          },
+          {
+            "number": "4",
+            "name": "Writing"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening"
+          },
+          {
+            "number": "3",
+            "name": "Reading"
+          },
+          {
+            "number": "4",
+            "name": "Writing"
+          },
+          {
+            "number": "1",
+            "name": "25% - - 25%"
+          },
+          {
+            "number": "3",
+            "name": "- 25% - 25%"
+          },
+          {
+            "number": "4",
+            "name": "- - 25% 25%"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessments must"
+          }
+        ],
+        "tiers": [
+          "Foundation Tier",
+          "higher\ntier"
+        ],
+        "options": [],
+        "appendices": [
+          "Appendix D"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 30.456040859222412,
+      "end_time": "2025-11-23T19:01:27.418895"
+    },
+    {
+      "subject_name": "Geology",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/zhun0mwl/eduqas-gcse-geology-spec.pdf",
+      "start_time": "2025-11-23T19:02:24.559302",
+      "success": true,
+      "topics_extracted": 122,
+      "levels": {
+        "0": 2,
+        "1": 6,
+        "2": 19,
+        "3": 77,
+        "4": 18
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Geological Principles"
+          },
+          {
+            "number": "2",
+            "name": "Investigative Geology"
+          },
+          {
+            "number": "2",
+            "name": "there is a more practical approach, with the assessment"
+          },
+          {
+            "number": "1",
+            "name": "Geological Principles"
+          },
+          {
+            "number": "2",
+            "name": "Investigative Geology"
+          },
+          {
+            "number": "1",
+            "name": "24% 17% 9% 50%"
+          },
+          {
+            "number": "2",
+            "name": "16% 23% 11% 50%"
+          },
+          {
+            "number": "1",
+            "name": "Geological Principles"
+          },
+          {
+            "number": "2",
+            "name": "Investigative Geology"
+          },
+          {
+            "number": "1",
+            "name": "Geological Principles"
+          },
+          {
+            "number": "2",
+            "name": "Investigative Geology"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix B"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 37.2656946182251,
+      "end_time": "2025-11-23T19:03:01.824995"
+    },
+    {
+      "subject_name": "German",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/zefdynrq/eduqas-gcse-german-spec-from-2016-e-01-08-23.pdf",
+      "start_time": "2025-11-23T19:03:40.018762",
+      "success": true,
+      "topics_extracted": 119,
+      "levels": {
+        "0": 3,
+        "1": 11,
+        "2": 28,
+        "3": 57,
+        "4": 20
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": true,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "4",
+            "name": "has been amended to 2"
+          },
+          {
+            "number": "4",
+            "name": "has been amended to 10"
+          },
+          {
+            "number": "4",
+            "name": "from 2024."
+          },
+          {
+            "number": "1",
+            "name": "8"
+          },
+          {
+            "number": "2",
+            "name": "9"
+          },
+          {
+            "number": "3",
+            "name": "9"
+          },
+          {
+            "number": "4",
+            "name": "10"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening"
+          },
+          {
+            "number": "3",
+            "name": "Reading"
+          },
+          {
+            "number": "4",
+            "name": "Writing"
+          },
+          {
+            "number": "1",
+            "name": "is a spoken non-"
+          },
+          {
+            "number": "2",
+            "name": "is a listening examination, Component 3 is a"
+          },
+          {
+            "number": "4",
+            "name": "is a written examination."
+          },
+          {
+            "number": "1",
+            "name": "Component 1: Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Component 2: Listening"
+          },
+          {
+            "number": "3",
+            "name": "Component 3: Reading"
+          },
+          {
+            "number": "4",
+            "name": "Component 4: Writing"
+          },
+          {
+            "number": "1",
+            "name": "- 25% - - 25%"
+          },
+          {
+            "number": "2",
+            "name": "25% - - - 25%"
+          },
+          {
+            "number": "3",
+            "name": "- - 25% - 25%"
+          },
+          {
+            "number": "4",
+            "name": "- - - 25% 25%"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessments must"
+          },
+          {
+            "number": "4",
+            "name": "from 2024"
+          },
+          {
+            "number": "4",
+            "name": "Writing assessment. In Summer 2024 and beyond, Component 4 will include:"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening"
+          },
+          {
+            "number": "3",
+            "name": "Reading"
+          },
+          {
+            "number": "4",
+            "name": "Writing"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening"
+          },
+          {
+            "number": "3",
+            "name": "Reading"
+          },
+          {
+            "number": "4",
+            "name": "Writing"
+          },
+          {
+            "number": "1",
+            "name": "25% - - 25%"
+          },
+          {
+            "number": "3",
+            "name": "- 25% - 25%"
+          },
+          {
+            "number": "4",
+            "name": "- - 25% 25%"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessments must"
+          }
+        ],
+        "tiers": [
+          "Foundation Tier",
+          "higher\ntier"
+        ],
+        "options": [],
+        "appendices": [
+          "Appendix D"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 29.78954529762268,
+      "end_time": "2025-11-23T19:04:09.808309"
+    },
+    {
+      "subject_name": "History",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/qhsb4fdj/eduqas-gcse-history-spec-from-2016-e-160725.pdf",
+      "start_time": "2025-11-23T19:04:48.947512",
+      "success": true,
+      "topics_extracted": 386,
+      "levels": {
+        "0": 2,
+        "1": 4,
+        "2": 16,
+        "3": 112,
+        "4": 228,
+        "5": 24
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": true,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "11"
+          },
+          {
+            "number": "2",
+            "name": "19"
+          },
+          {
+            "number": "1",
+            "name": "Studies in Depth"
+          },
+          {
+            "number": "2",
+            "name": "Studies in Breadth"
+          },
+          {
+            "number": "1",
+            "name": "Studies in Depth"
+          },
+          {
+            "number": "2",
+            "name": "Studies in Breadth"
+          },
+          {
+            "number": "1",
+            "name": "Studies in Depth"
+          },
+          {
+            "number": "2",
+            "name": "Studies in Breadth"
+          },
+          {
+            "number": "1",
+            "name": "and a British-based Thematic Study in Component 2."
+          },
+          {
+            "number": "1",
+            "name": "Studies in Depth"
+          },
+          {
+            "number": "1",
+            "name": "BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "NON-BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "NON-BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "NON-BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "NON-BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "2",
+            "name": "Studies in Breadth"
+          },
+          {
+            "number": "2",
+            "name": "PERIOD STUDY"
+          },
+          {
+            "number": "2",
+            "name": "PERIOD STUDY"
+          },
+          {
+            "number": "2",
+            "name": "PERIOD STUDY"
+          },
+          {
+            "number": "2",
+            "name": "PERIOD STUDY"
+          },
+          {
+            "number": "2",
+            "name": "THEMATIC STUDY"
+          },
+          {
+            "number": "2",
+            "name": "THEMATIC STUDY"
+          },
+          {
+            "number": "2",
+            "name": "THEMATIC STUDY"
+          },
+          {
+            "number": "2",
+            "name": "THEMATIC STUDY"
+          },
+          {
+            "number": "1",
+            "name": "15% 8% 12% 15% 50%"
+          },
+          {
+            "number": "2",
+            "name": "20% 27% 3% - 50%"
+          },
+          {
+            "number": "1",
+            "name": "(from British Studies in Depth and Non-British"
+          },
+          {
+            "number": "2",
+            "name": "(from Period Studies and Thematic"
+          },
+          {
+            "number": "1",
+            "name": "STUDIES IN DEPTH"
+          },
+          {
+            "number": "2",
+            "name": "STUDIES IN BREADTH"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Component 2"
+          },
+          {
+            "number": "1",
+            "name": "Studies in Depth"
+          },
+          {
+            "number": "2",
+            "name": "Studies in Breadth"
+          },
+          {
+            "number": "1",
+            "name": "Studies in Depth"
+          },
+          {
+            "number": "2",
+            "name": "Studies in Breadth"
+          },
+          {
+            "number": "1",
+            "name": "Studies in Depth"
+          },
+          {
+            "number": "2",
+            "name": "Studies in Breadth"
+          },
+          {
+            "number": "1",
+            "name": "BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "NON-BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "NON-BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "NON-BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "1",
+            "name": "NON-BRITISH STUDY IN DEPTH"
+          },
+          {
+            "number": "2",
+            "name": "PERIOD STUDY"
+          },
+          {
+            "number": "2",
+            "name": "PERIOD STUDY"
+          },
+          {
+            "number": "2",
+            "name": "PERIOD STUDY"
+          },
+          {
+            "number": "2",
+            "name": "PERIOD STUDY"
+          },
+          {
+            "number": "2",
+            "name": "THEMATIC STUDY"
+          },
+          {
+            "number": "2",
+            "name": "THEMATIC STUDY"
+          },
+          {
+            "number": "2",
+            "name": "THEMATIC STUDY"
+          },
+          {
+            "number": "2",
+            "name": "THEMATIC STUDY"
+          },
+          {
+            "number": "1",
+            "name": "STUDIES IN DEPTH"
+          },
+          {
+            "number": "2",
+            "name": "STUDIES IN BREADTH"
+          }
+        ],
+        "tiers": [],
+        "options": [
+          "1D and 2D; 1G and 2B; and 1H and 2A. See Appendix A for a list of all"
+        ],
+        "appendices": [
+          "Appendix L"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 99.1150004863739,
+      "end_time": "2025-11-23T19:06:28.062512"
+    },
+    {
+      "subject_name": "Latin",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/1onbd1yb/eduqas-gcse-latin-spec-from-2016-e-170925.pdf",
+      "start_time": "2025-11-23T19:07:06.023751",
+      "success": true,
+      "topics_extracted": 139,
+      "levels": {
+        "0": 4,
+        "1": 9,
+        "2": 25,
+        "3": 33,
+        "4": 68
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "2",
+            "name": "– themes for assessment in 2021, 2022 and 6"
+          },
+          {
+            "number": "2",
+            "name": "– themes for assessment in 2024, 2025 and 6"
+          },
+          {
+            "number": "2",
+            "name": "– themes for assessment in 2021,2022 and 6"
+          },
+          {
+            "number": "1",
+            "name": "5"
+          },
+          {
+            "number": "2",
+            "name": "6"
+          },
+          {
+            "number": "3",
+            "name": "7"
+          },
+          {
+            "number": "1",
+            "name": "11"
+          },
+          {
+            "number": "1",
+            "name": "22"
+          },
+          {
+            "number": "1",
+            "name": "Latin Language"
+          },
+          {
+            "number": "2",
+            "name": "Latin Literature and Sources (Themes)"
+          },
+          {
+            "number": "1",
+            "name": "Latin Language"
+          },
+          {
+            "number": "2",
+            "name": "Latin Literature and Sources (Themes)"
+          },
+          {
+            "number": "3",
+            "name": "EITHER 3A: Latin Literature (Narratives)"
+          },
+          {
+            "number": "1",
+            "name": "50% - - 50%"
+          },
+          {
+            "number": "2",
+            "name": "- 15% 15% 30%"
+          },
+          {
+            "number": "1",
+            "name": "(Section A)"
+          },
+          {
+            "number": "1",
+            "name": "(Section B: English into Latin Translation)"
+          },
+          {
+            "number": "1",
+            "name": "Translation and comprehension of Latin (Section A)"
+          },
+          {
+            "number": "1",
+            "name": "Latin Language"
+          },
+          {
+            "number": "2",
+            "name": "Latin Literature and Sources (Themes)"
+          },
+          {
+            "number": "2",
+            "name": "15% 15% 30%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix C"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 33.964041233062744,
+      "end_time": "2025-11-23T19:07:39.987795"
+    },
+    {
+      "subject_name": "Mathematics",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/cosjcbs1/eduqas-gcse-maths-spec-from-2015-e.pdf",
+      "start_time": "2025-11-23T19:08:18.448091",
+      "success": true,
+      "topics_extracted": 229,
+      "levels": {
+        "0": 2,
+        "1": 4,
+        "2": 16,
+        "3": 83,
+        "4": 124
+      },
+      "issues": [],
+      "warnings": [],
+      "success_grade": 100,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": true,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "(Non-calculator Mathematics) or Component 2 (Calculator-"
+          },
+          {
+            "number": "2",
+            "name": "at both foundation and higher"
+          }
+        ],
+        "tiers": [
+          "foundation tier",
+          "higher tier"
+        ],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 84.7871687412262,
+      "end_time": "2025-11-23T19:09:43.235260"
+    },
+    {
+      "subject_name": "Media Studies",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/x3wbjgp1/eduqas-gcse-media-studies-spec-from-2017-e.pdf",
+      "start_time": "2025-11-23T19:10:21.606294",
+      "success": true,
+      "topics_extracted": 82,
+      "levels": {
+        "0": 3,
+        "1": 5,
+        "2": 11,
+        "3": 21,
+        "4": 42
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": true,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "– the set newspaper front page for Section A"
+          },
+          {
+            "number": "1",
+            "name": "- the set video game for Section B has been"
+          },
+          {
+            "number": "1",
+            "name": "– the web pages to be studied for Spectre have"
+          },
+          {
+            "number": "2",
+            "name": "– the set music video from the 1990s has been"
+          },
+          {
+            "number": "2",
+            "name": "– the set contemporary music video has been"
+          },
+          {
+            "number": "2",
+            "name": "– the corresponding website has been changed"
+          },
+          {
+            "number": "1",
+            "name": "– references to set products for assessment in"
+          },
+          {
+            "number": "1",
+            "name": "– the text has been amended to clarify that"
+          },
+          {
+            "number": "1",
+            "name": "– set products for assessment from 2024 have"
+          },
+          {
+            "number": "2",
+            "name": "– set products for assessment from 2024 have"
+          },
+          {
+            "number": "1",
+            "name": "– the set newspaper front pages for Section A"
+          },
+          {
+            "number": "1",
+            "name": "Exploring the Media 9"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Media Forms and"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products 23"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          },
+          {
+            "number": "1",
+            "name": "Exploring the Media"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Media Forms and Products"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          },
+          {
+            "number": "1",
+            "name": "Exploring the Media"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Media Forms and Products"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          },
+          {
+            "number": "3",
+            "name": "draws on the knowledge and"
+          },
+          {
+            "number": "1",
+            "name": "Exploring the Media"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Media Forms and Products"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          },
+          {
+            "number": "3",
+            "name": "is internally assessed and externally moderated. The total number of marks"
+          },
+          {
+            "number": "3",
+            "name": "may be carried forward. Should a learner choose"
+          },
+          {
+            "number": "1",
+            "name": "20% 20% - 40%"
+          },
+          {
+            "number": "2",
+            "name": "10% 20% - 30%"
+          },
+          {
+            "number": "3",
+            "name": "- - 30% 30%"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          },
+          {
+            "number": "3",
+            "name": "is internally assessed and externally moderated by WJEC Eduqas."
+          },
+          {
+            "number": "3",
+            "name": "is 60."
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          },
+          {
+            "number": "1",
+            "name": "the set video game for Section B has been"
+          },
+          {
+            "number": "1",
+            "name": "Exploring the Media 9"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Media Forms and"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products 23"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          },
+          {
+            "number": "1",
+            "name": "Exploring the Media"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Media Forms and Products"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          },
+          {
+            "number": "3",
+            "name": "- 30% 30%"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          },
+          {
+            "number": "3",
+            "name": "Creating Media Products"
+          }
+        ],
+        "tiers": [],
+        "options": [
+          "1"
+        ],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 31.097758054733276,
+      "end_time": "2025-11-23T19:10:52.704050"
+    },
+    {
+      "subject_name": "Music",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/akxduier/eduqas-gcse-music-spec-from-2016-e-050225.pdf",
+      "start_time": "2025-11-23T19:11:30.875822",
+      "success": true,
+      "topics_extracted": 58,
+      "levels": {
+        "0": 1,
+        "1": 4,
+        "2": 11,
+        "3": 26,
+        "4": 10,
+        "5": 6
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "3",
+            "name": "in the summary of"
+          },
+          {
+            "number": "1",
+            "name": "performances which fall below 4 minutes' duration has been"
+          },
+          {
+            "number": "2",
+            "name": "compositions which fall"
+          },
+          {
+            "number": "3",
+            "name": "have been changed"
+          },
+          {
+            "number": "1",
+            "name": "Performing 7"
+          },
+          {
+            "number": "2",
+            "name": "Composing 10"
+          },
+          {
+            "number": "3",
+            "name": "Appraising 12"
+          },
+          {
+            "number": "1",
+            "name": "assessment 25"
+          },
+          {
+            "number": "2",
+            "name": "assessment 40"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "3",
+            "name": "Appraising"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "1",
+            "name": "Learners may perform at any time during the academic year in which the assessment"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "2",
+            "name": "In both compositions, learners will be expected to display:"
+          },
+          {
+            "number": "3",
+            "name": "Appraising"
+          },
+          {
+            "number": "3",
+            "name": "The appraising examination will consist of eight questions, two on each area of"
+          },
+          {
+            "number": "1",
+            "name": "30% - - - 30%"
+          },
+          {
+            "number": "2",
+            "name": "- 30% - - 30%"
+          },
+          {
+            "number": "3",
+            "name": "- - 20% 20% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "1",
+            "name": "assesses AO1 in its entirety."
+          },
+          {
+            "number": "1",
+            "name": "is 72"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "2",
+            "name": "assesses AO2 in its entirety."
+          },
+          {
+            "number": "2",
+            "name": "is 72."
+          },
+          {
+            "number": "1",
+            "name": "Performing (AO1)"
+          },
+          {
+            "number": "1",
+            "name": "• assessment grid for Component 1"
+          },
+          {
+            "number": "1",
+            "name": "• table of adjustments for level of difficulty of pieces"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "1",
+            "name": "Performance"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "2",
+            "name": "• assessment grid for Component 2"
+          },
+          {
+            "number": "2",
+            "name": "• additional advice for composing within the areas of study."
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "1",
+            "name": "Performing 7"
+          },
+          {
+            "number": "2",
+            "name": "Composing 10"
+          },
+          {
+            "number": "3",
+            "name": "Appraising 12"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "3",
+            "name": "Appraising"
+          },
+          {
+            "number": "2",
+            "name": "30% - - 30%"
+          },
+          {
+            "number": "3",
+            "name": "- 20% 20% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "1",
+            "name": "Performing (AO1)"
+          },
+          {
+            "number": "1",
+            "name": "• assessment grid for Component 1"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "2",
+            "name": "• assessment grid for Component 2"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 23.756690979003906,
+      "end_time": "2025-11-23T19:11:54.632513"
+    },
+    {
+      "subject_name": "Physical Education",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/ukinjoyx/eduqas-gcse-physical-education-spec-from-2016-e-02-10-20.pdf",
+      "start_time": "2025-11-23T19:12:32.863214",
+      "success": true,
+      "topics_extracted": 251,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 44,
+        "3": 107,
+        "4": 91
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Introduction to physical education 5"
+          },
+          {
+            "number": "2",
+            "name": "The active participant in"
+          },
+          {
+            "number": "2",
+            "name": "assessment grids 22"
+          },
+          {
+            "number": "1",
+            "name": "Introduction to physical education"
+          },
+          {
+            "number": "2",
+            "name": "The active participant in physical education"
+          },
+          {
+            "number": "1",
+            "name": "as part of the written"
+          },
+          {
+            "number": "2",
+            "name": "as part of the analysis and evaluation of personal"
+          },
+          {
+            "number": "2",
+            "name": "learners will also have to present data,"
+          },
+          {
+            "number": "1",
+            "name": "Introduction to physical education"
+          },
+          {
+            "number": "2",
+            "name": "The active participant in physical education"
+          },
+          {
+            "number": "1",
+            "name": "25% 20% 15% 0% 60%"
+          },
+          {
+            "number": "2",
+            "name": "- - - 40% 40%"
+          },
+          {
+            "number": "2",
+            "name": "assesses assessment objective 4 in its entirety; it will be marked out of"
+          },
+          {
+            "number": "2",
+            "name": "Assessment Marks Weighting Assessment"
+          },
+          {
+            "number": "2",
+            "name": "assessment grids"
+          },
+          {
+            "number": "2",
+            "name": "assesses assessment objective 4 in its entirety; it will be marked out of 80 and"
+          },
+          {
+            "number": "1",
+            "name": "Introduction to physical education 5"
+          },
+          {
+            "number": "2",
+            "name": "The active participant in"
+          },
+          {
+            "number": "1",
+            "name": "Introduction to physical education"
+          },
+          {
+            "number": "2",
+            "name": "The active participant in physical education"
+          },
+          {
+            "number": "2",
+            "name": "- - 40% 40%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix C"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 64.42779040336609,
+      "end_time": "2025-11-23T19:13:37.291005"
+    },
+    {
+      "subject_name": "Religious Studies",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/xqlaj4yq/eduqas-gcse-rs-spec-short-from-2016-e-1109.pdf",
+      "start_time": "2025-11-23T19:14:17.607938",
+      "success": true,
+      "topics_extracted": 211,
+      "levels": {
+        "0": 3,
+        "1": 9,
+        "2": 33,
+        "3": 113,
+        "4": 53
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": true,
+        "has_appendices": false,
+        "components": [
+          {
+            "number": "1",
+            "name": "– Issues of Life and Death all religion sections –"
+          },
+          {
+            "number": "3",
+            "name": "Buddhism – we have changed the wording from"
+          },
+          {
+            "number": "1",
+            "name": "6"
+          },
+          {
+            "number": "2",
+            "name": "19"
+          },
+          {
+            "number": "3",
+            "name": "21"
+          },
+          {
+            "number": "1",
+            "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+          },
+          {
+            "number": "2",
+            "name": "Study of Christianity"
+          },
+          {
+            "number": "3",
+            "name": "Study of a World Faith"
+          },
+          {
+            "number": "1",
+            "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+          },
+          {
+            "number": "2",
+            "name": "Study of Christianity"
+          },
+          {
+            "number": "3",
+            "name": "Study of a World Faith"
+          },
+          {
+            "number": "1",
+            "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+          },
+          {
+            "number": "2",
+            "name": "Study of Christianity"
+          },
+          {
+            "number": "3",
+            "name": "The compulsory nature of this component ensures that learners know and"
+          },
+          {
+            "number": "1",
+            "name": "25% 25%"
+          },
+          {
+            "number": "2",
+            "name": "12.5% 12.5%"
+          },
+          {
+            "number": "3",
+            "name": "12.5% 12.5%"
+          },
+          {
+            "number": "3",
+            "name": "Option 1: Buddhism C125P1"
+          },
+          {
+            "number": "3",
+            "name": "Option 2: Hinduism C125P2"
+          },
+          {
+            "number": "3",
+            "name": "Option 3: Islam C125P3"
+          },
+          {
+            "number": "3",
+            "name": "Option 4: Judaism C125P4"
+          },
+          {
+            "number": "3",
+            "name": "Option 5: Sikhism C125P5"
+          },
+          {
+            "number": "1",
+            "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+          },
+          {
+            "number": "2",
+            "name": "Study of Christianity"
+          },
+          {
+            "number": "3",
+            "name": "Study of a World Faith"
+          },
+          {
+            "number": "1",
+            "name": "Religious, Philosophical and Ethical Studies in the Modern World"
+          },
+          {
+            "number": "2",
+            "name": "Study of Christianity"
+          },
+          {
+            "number": "3",
+            "name": "Study of a World Faith"
+          }
+        ],
+        "tiers": [],
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "appendices": [],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 60.238401651382446,
+      "end_time": "2025-11-23T19:15:17.846339"
+    },
+    {
+      "subject_name": "Sociology",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/jk2duibm/eduqas-gcse-sociology-spec-from-2017-eng.pdf",
+      "start_time": "2025-11-23T19:15:55.754656",
+      "success": true,
+      "topics_extracted": 214,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 29,
+        "3": 86,
+        "4": 90
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": false,
+        "components": [
+          {
+            "number": "1",
+            "name": "6"
+          },
+          {
+            "number": "2",
+            "name": "11"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Social Processes"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Social Structures"
+          },
+          {
+            "number": "1",
+            "name": "will be applied to an"
+          },
+          {
+            "number": "1",
+            "name": "Component 1: Understanding Social Processes"
+          },
+          {
+            "number": "2",
+            "name": "Component 2: Understanding Social Structures"
+          },
+          {
+            "number": "1",
+            "name": "will be reinforced by considering the research methods used to gather"
+          },
+          {
+            "number": "1",
+            "name": "20% 20% 10% 50%"
+          },
+          {
+            "number": "2",
+            "name": "20% 20% 10% 50%"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Social Processes"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Social Structures"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Social Processes"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Social Structures"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 42.27821063995361,
+      "end_time": "2025-11-23T19:16:38.032869"
+    },
+    {
+      "subject_name": "Spanish",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/2ryknb1s/eduqas-gcse-spanish-spec-from-2016-e-01-08-23.pdf",
+      "start_time": "2025-11-23T19:17:16.190341",
+      "success": true,
+      "topics_extracted": 104,
+      "levels": {
+        "0": 2,
+        "1": 8,
+        "2": 21,
+        "3": 55,
+        "4": 18
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": true,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "4",
+            "name": "has been amended to 2"
+          },
+          {
+            "number": "4",
+            "name": "has been amended to 10"
+          },
+          {
+            "number": "4",
+            "name": "from 2024."
+          },
+          {
+            "number": "1",
+            "name": "8"
+          },
+          {
+            "number": "2",
+            "name": "9"
+          },
+          {
+            "number": "3",
+            "name": "9"
+          },
+          {
+            "number": "4",
+            "name": "10"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening"
+          },
+          {
+            "number": "3",
+            "name": "Reading"
+          },
+          {
+            "number": "4",
+            "name": "Writing"
+          },
+          {
+            "number": "1",
+            "name": "is a spoken non-"
+          },
+          {
+            "number": "2",
+            "name": "is a listening examination, Component 3 is a"
+          },
+          {
+            "number": "4",
+            "name": "is a written examination."
+          },
+          {
+            "number": "1",
+            "name": "Component 1: Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Component 2: Listening"
+          },
+          {
+            "number": "3",
+            "name": "Component 3: Reading"
+          },
+          {
+            "number": "4",
+            "name": "Component 4: Writing"
+          },
+          {
+            "number": "1",
+            "name": "- 25% - - 25%"
+          },
+          {
+            "number": "2",
+            "name": "25% - - - 25%"
+          },
+          {
+            "number": "3",
+            "name": "- - 25% - 25%"
+          },
+          {
+            "number": "4",
+            "name": "- - - 25% 25%"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessments must"
+          },
+          {
+            "number": "4",
+            "name": "from 2024"
+          },
+          {
+            "number": "4",
+            "name": "Writing assessment. In Summer 2024 and beyond, Component 4 will include:"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening"
+          },
+          {
+            "number": "3",
+            "name": "Reading"
+          },
+          {
+            "number": "4",
+            "name": "Writing"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening"
+          },
+          {
+            "number": "3",
+            "name": "Reading"
+          },
+          {
+            "number": "4",
+            "name": "Writing"
+          },
+          {
+            "number": "1",
+            "name": "25% - - 25%"
+          },
+          {
+            "number": "3",
+            "name": "- 25% - 25%"
+          },
+          {
+            "number": "4",
+            "name": "- - 25% 25%"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessments must"
+          }
+        ],
+        "tiers": [
+          "Foundation Tier",
+          "higher\ntier"
+        ],
+        "options": [],
+        "appendices": [
+          "Appendix D"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 26.472082376480103,
+      "end_time": "2025-11-23T19:17:42.662425"
+    }
+  ]
+}

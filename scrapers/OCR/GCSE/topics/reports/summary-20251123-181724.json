@@ -1,0 +1,760 @@
+{
+  "timestamp": "20251123-181724",
+  "total_subjects": 5,
+  "success_count": 5,
+  "fail_count": 0,
+  "success_rate": 100.0,
+  "reports": [
+    {
+      "subject_name": "Art and Design",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/ozvlit0g/eduqas-gcse-art-and-design-spec-from-2016-27-01-2020.pdf",
+      "start_time": "2025-11-23T18:11:05.382229",
+      "success": true,
+      "topics_extracted": 48,
+      "levels": {
+        "0": 2,
+        "1": 3,
+        "2": 9,
+        "3": 34
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted",
+        "Not all components extracted"
+      ],
+      "success_grade": 75,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "13"
+          },
+          {
+            "number": "2",
+            "name": "14"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "‘Portfolio’ encourages"
+          },
+          {
+            "number": "2",
+            "name": "‘Externally Set Assignment’ enables"
+          },
+          {
+            "number": "1",
+            "name": "by producing an appropriate outcome within a set time frame to demonstrate"
+          },
+          {
+            "number": "1",
+            "name": "and"
+          },
+          {
+            "number": "2",
+            "name": "and beyond."
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "2",
+            "name": "work must be stored securely by the centre to"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "1",
+            "name": "is internally assessed and externally moderated. It will be marked out of"
+          },
+          {
+            "number": "1",
+            "name": "before the Externally Set Assignment is commenced in"
+          },
+          {
+            "number": "1",
+            "name": "to ensure that they"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "2",
+            "name": "is internally assessed and externally moderated. It will be marked out of 80:"
+          },
+          {
+            "number": "2",
+            "name": "It is essential that candidates’ responses are both personal and independent."
+          },
+          {
+            "number": "1",
+            "name": "and Component 2 internal marks must be submitted to WJEC by the"
+          },
+          {
+            "number": "1",
+            "name": "or component 2 and referring to the exemplar work available on the Eduqas"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio (Total Marks = 120)"
+          },
+          {
+            "number": "1",
+            "name": "or component 2 and referring to the exemplar work available on the Eduqas"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment (Total Marks = 80)"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "Portfolio (Total Marks = 120)"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment (Total Marks = 80)"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 22.644985914230347,
+      "end_time": "2025-11-23T18:11:28.027216"
+    },
+    {
+      "subject_name": "Business",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/qiobeu0d/eduqas-gcse-business-spec-from-2017.pdf",
+      "start_time": "2025-11-23T18:12:06.842517",
+      "success": true,
+      "topics_extracted": 426,
+      "levels": {
+        "0": 2,
+        "1": 13,
+        "2": 69,
+        "3": 183,
+        "4": 159
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Business Dynamics"
+          },
+          {
+            "number": "2",
+            "name": "Business Considerations"
+          },
+          {
+            "number": "1",
+            "name": "Business Dynamics Component 2: Business Considerations"
+          },
+          {
+            "number": "1",
+            "name": "25% 22.5% 15% 62.5%"
+          },
+          {
+            "number": "2",
+            "name": "10% 12.5% 15% 37.5%"
+          },
+          {
+            "number": "1",
+            "name": "Business Dynamics"
+          },
+          {
+            "number": "2",
+            "name": "Business Considerations"
+          },
+          {
+            "number": "1",
+            "name": "Business Dynamics Component 2: Business Considerations"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "appendix l"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 112.27022123336792,
+      "end_time": "2025-11-23T18:13:59.112739"
+    },
+    {
+      "subject_name": "Computer Science",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/tf3bvmxe/eduqas-gcse-computer-science-specification-10-02-2020.pdf",
+      "start_time": "2025-11-23T18:14:37.086598",
+      "success": true,
+      "topics_extracted": 144,
+      "levels": {
+        "0": 2,
+        "1": 12,
+        "2": 36,
+        "3": 94
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "5"
+          },
+          {
+            "number": "2",
+            "name": "14"
+          },
+          {
+            "number": "2",
+            "name": "on-screen examination 18"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Computer Science"
+          },
+          {
+            "number": "2",
+            "name": "Computer Programming"
+          },
+          {
+            "number": "1",
+            "name": "and Component 2, the context in which this content is assessed differs. In"
+          },
+          {
+            "number": "2",
+            "name": "it is"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Computer Science"
+          },
+          {
+            "number": "2",
+            "name": "Computer Programming"
+          },
+          {
+            "number": "1",
+            "name": "1. Hardware"
+          },
+          {
+            "number": "2",
+            "name": "Structure of assessment"
+          },
+          {
+            "number": "1",
+            "name": "and Component 2 and for the qualification as a whole."
+          },
+          {
+            "number": "1",
+            "name": "30% 15% 5%"
+          },
+          {
+            "number": "2",
+            "name": "0% 25% 25%"
+          },
+          {
+            "number": "2",
+            "name": "Some tasks in Component 2 will require work to be completed using Python 3, which"
+          },
+          {
+            "number": "2",
+            "name": "must be submitted to WJEC electronically, using"
+          },
+          {
+            "number": "2",
+            "name": "on-screen examination 18"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Computer Science"
+          },
+          {
+            "number": "2",
+            "name": "Computer Programming"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Computer Science"
+          },
+          {
+            "number": "2",
+            "name": "Computer Programming"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix B"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 35.655651807785034,
+      "end_time": "2025-11-23T18:15:12.742250"
+    },
+    {
+      "subject_name": "Design and Technology",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/25tlhhbw/gcse-design-and-technology-specification.pdf",
+      "start_time": "2025-11-23T18:15:51.005964",
+      "success": true,
+      "topics_extracted": 90,
+      "levels": {
+        "0": 2,
+        "1": 3,
+        "2": 5,
+        "3": 26,
+        "4": 54
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Design and Technology in the 21st Century"
+          },
+          {
+            "number": "2",
+            "name": "Design and make task"
+          },
+          {
+            "number": "1",
+            "name": "and in Component 2. Learners are responsible for"
+          },
+          {
+            "number": "1",
+            "name": "'Design and Technology in the 21st Century'."
+          },
+          {
+            "number": "1",
+            "name": "- - 10% 40% 50%"
+          },
+          {
+            "number": "2",
+            "name": "10% 30% 10% 50%"
+          },
+          {
+            "number": "1",
+            "name": "assesses"
+          },
+          {
+            "number": "2",
+            "name": "assesses learners' ability to analyse and evaluate design decisions and outcomes including"
+          },
+          {
+            "number": "1",
+            "name": "Design and Technology in the 21st Century"
+          },
+          {
+            "number": "2",
+            "name": "Design and make task"
+          },
+          {
+            "number": "1",
+            "name": "- 10% 40% 50%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 29.147246599197388,
+      "end_time": "2025-11-23T18:16:20.153207"
+    },
+    {
+      "subject_name": "Drama",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/hydhvd02/eduqas-gcse-drama-spec-from-2016-e-270824.pdf",
+      "start_time": "2025-11-23T18:16:58.558658",
+      "success": true,
+      "topics_extracted": 63,
+      "levels": {
+        "0": 3,
+        "1": 7,
+        "2": 14,
+        "3": 39
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "2",
+            "name": "and Component 3"
+          },
+          {
+            "number": "1",
+            "name": "Devising Workshop and Component 21 and 25"
+          },
+          {
+            "number": "3",
+            "name": "16"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre 6"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text 11"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre 16"
+          },
+          {
+            "number": "1",
+            "name": "27"
+          },
+          {
+            "number": "2",
+            "name": "43"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "1",
+            "name": "• guidance on the assessment of Component 1."
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "3",
+            "name": "to enable learners to gain a broad and varied"
+          },
+          {
+            "number": "2",
+            "name": "and Component 3 are listed below."
+          },
+          {
+            "number": "3",
+            "name": "text Selection of Component 2 text"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions, will be made"
+          },
+          {
+            "number": "2",
+            "name": "and a list of"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre"
+          },
+          {
+            "number": "3",
+            "name": "must be contrasting. The criteria for selecting appropriately contrasting texts for Com-"
+          },
+          {
+            "number": "3",
+            "name": "are listed below."
+          },
+          {
+            "number": "1",
+            "name": "20% 10% - 10% 40%"
+          },
+          {
+            "number": "2",
+            "name": "- 20% - - 20%"
+          },
+          {
+            "number": "3",
+            "name": "- - 30% 10% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "1",
+            "name": "is internally assessed and externally moderated."
+          },
+          {
+            "number": "1",
+            "name": "assesses AO1, AO2 and AO4. The maximum mark for Component 1 is"
+          },
+          {
+            "number": "1",
+            "name": "• The internal completion date is determined by the centre and the centre must"
+          },
+          {
+            "number": "1",
+            "name": "As a result of the moderation, the marks of learners may be adjusted to bring the"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "2",
+            "name": "is externally assessed by a visiting examiner."
+          },
+          {
+            "number": "2",
+            "name": "and Component 3 must be contrasting. Criteria to"
+          },
+          {
+            "number": "2",
+            "name": "WJEC should be contacted as soon as possible. Centres will be notified"
+          },
+          {
+            "number": "2",
+            "name": "assesses AO2 only. The total mark for Component 2 is 60."
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions to"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions)."
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "1",
+            "name": "• guidance for assessing Component 1."
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre – Assessment grid for performing candidates (Performance and supporting evidence)"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre – Assessment grid for design candidates (Design and supporting evidence)"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre: Assessment grid for evaluation"
+          },
+          {
+            "number": "1",
+            "name": "AO1"
+          },
+          {
+            "number": "2",
+            "name": "• a list of suitable texts for Component 2"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text – Assessment grid for performing candidates"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text – Assessment grid for design candidates"
+          },
+          {
+            "number": "2",
+            "name": "The following list of texts is suggested for study in Component 2 but learners may choose a"
+          },
+          {
+            "number": "2",
+            "name": "and Component 3 must be contrasting. Criteria to"
+          },
+          {
+            "number": "1",
+            "name": "Devising Workshop and Component 21 and 25"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre 6"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text 11"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre 16"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "3",
+            "name": "Interpreting Theatre"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions, will be made"
+          },
+          {
+            "number": "2",
+            "name": "20% - - 20%"
+          },
+          {
+            "number": "3",
+            "name": "- 30% 10% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions to"
+          },
+          {
+            "number": "2",
+            "name": "Artistic Intentions)."
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre – Assessment grid for performing candidates (Performance and supporting evidence)"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre – Assessment grid for design candidates (Design and supporting evidence)"
+          },
+          {
+            "number": "1",
+            "name": "Devising Theatre: Assessment grid for evaluation"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text – Assessment grid for performing candidates"
+          },
+          {
+            "number": "2",
+            "name": "Performing from a Text – Assessment grid for design candidates"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 26.01675820350647,
+      "end_time": "2025-11-23T18:17:24.575415"
+    }
+  ]
+}

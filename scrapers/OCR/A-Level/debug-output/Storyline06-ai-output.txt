@@ -1,0 +1,8 @@
+1. the Arrhenius equation and the determination of E and A for a reaction, given data on the rate constants at different temperatures
+2. the term rate-determining step; relation between rate-determining step and the orders and possible mechanism for a reaction
+3. the effect of changes of temperature and pressure (if any) on the magnitude of the equilibrium constant; the fact that addition of catalysts has no effect on the position of equilibrium or the magnitude of the equilibrium constant
+4. the determination of the most economical operating conditions for an industrial process using principles of equilibrium and rates of reaction
+5. calculations, including units, involving Kc and initial and equilibrium concentrations for homogeneous equilibria; techniques and procedures for experiments to determine equilibrium constants
+6. the chemical reactions occurring during industrial processes
+7. the following aspects of nitrogen chemistry: bonding in nitrogen gas, ammonia and the ammonium ion; the appearance and names of the oxides of nitrogen, N2O, NO, NO2; interconversion of the nitrate(V) ion, nitrate(III) ion, ammonium ion, oxides of nitrogen; tests for nitrate(V) and ammonium ions
+8. given examples of industrial processes: costs of raw materials, energy costs, costs associated with plant, co-products and by-products; the benefits and risks associated with the process in terms of benefits to society of the product(s) and hazards involved.

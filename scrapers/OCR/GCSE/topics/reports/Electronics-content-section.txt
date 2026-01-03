@@ -1,0 +1,544 @@
+
+2 SUBJECT CONTENT
+This section outlines the knowledge, understanding and skills to be developed by
+learners studying WJEC Eduqas GCSE in Electronics.
+Learners should be prepared to apply the knowledge, understanding and skills
+specified in a range of theoretical, practical, industrial and environmental contexts.
+Learners' understanding of the connections between the different aspects of the
+subject is a requirement of all GCSE specifications. In practice, this means that
+synoptic questions will be set in each component. These questions will require
+learners to draw upon knowledge from other parts of the specification.
+Practical work is an intrinsic part of this specification. It is vitally important in
+developing a conceptual understanding of many topics and it enhances the
+experience and enjoyment of electronics. The practical skills developed are also
+fundamentally important to learners going on to further study in electronics,
+engineering and related subjects, and are transferable to many careers.
+The specification content is organised in sections. Each section contains the
+following:
+Overview – summarises the content of each topic.
+Electronic skills – summarises how skills may be developed in the topic.
+Mathematical skills (where appropriate) – a summary of mathematical skills that
+should be developed in each topic. The mathematical statements in each topic are
+part of the assessed content. All of the mathematical skills in Appendix C are referred
+to at least once in one of these topics.
+Calculators may be used in both written examinations and in the NEA task.
+Candidates are responsible for making sure that their calculators meet the relevant
+regulations for use in written examinations: information is found in the JCQ
+publication Instructions for conducting examinations.
+Learners should be able to: – these statements clarify the breadth and depth of the
+content for each topic.
+Six appendices provide further details about:
+Appendix A – Equations in electronics
+Appendix B – SI units in electronics
+Appendix C – Mathematical requirements and exemplification
+Appendix D – Electronic symbols
+Appendix E – Independence in non-exam assessment task
+Appendix F – Assessment grid for non-exam assessment
+© WJEC CBAC Ltd.
+GCSE ELECTRONICS 6
+2.1 Component 1
+Discovering Electronics
+Written examination: 1 hour 30 minutes
+40% of qualification
+80 marks
+This component covers the following topics:
+1. Electronic systems and sub-systems
+2. Circuit concepts
+3. Resistive components in circuits
+4. Switching circuits
+5. Applications of diodes
+6. Combinational logic systems
+The assessment will also include synoptic questions.
+These questions will require learners to draw upon knowledge from other parts of the
+specification.
+© WJEC CBAC Ltd.
+1. ELECTRONIC SYSTEMS AND SUB-SYSTEMS
+Overview
+This topic explores how systems can be represented in terms of sensing, processing
+and output sub-systems. It investigates the types of components making up each
+sub-system and the need for transducer drivers.
+Electronic Skills
+In this topic learners will investigate electronic sensing, processing and output sub-
+systems and design and test systems made up of a range of components in each
+sub-system.
+Learners should be able to:
+(a) recognise that electronic systems are assembled from sensing, processing
+and output sub-systems, including:
+• sensing units: light, temperature, magnetic field, pressure, moisture, sound,
+rotation
+• signal processing: individual logic gates, latch, time delay, comparator
+• output devices: lamp, buzzer, solenoid, LED, actuator (servo), motor,
+loudspeaker
+(b) state the need for and use of transducer drivers
+(c) design and test electronic systems.
+© WJEC CBAC Ltd.
+GCSE ELECTRONICS 8
+2. CIRCUIT CONCEPTS
+Overview
+This topic covers the use of standard circuit symbols used to communicate electronic
+circuits. It investigates circuits in terms of voltage, current, resistance, energy and
+power and how they can be measured.
+Electronic Skills
+This topic develops the use of circuit symbols to communicate electronic circuits, by
+both drawing and analysing them. Learners will investigate circuits by measuring
+voltage, current and resistance and carry out calculations to predict or check these
+readings.
+Mathematical Skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using expressions in decimal and standard
+form; estimating results; using an appropriate number of significant figures; and
+changing the subject of an equation.
+Learners should be able to:
+(a) draw, communicate and analyse circuits using standard circuit symbols using
+standard convention
+(b) apply current and voltage rules in series and parallel circuits
+(c) use test equipment to make measurements to test electrical components and
+circuits including: multimeters (on voltage, current and resistance ranges),
+timing equipment, logic probes and oscilloscopes (or computers configured as
+oscilloscopes), including investigating current-voltage characteristics
+(d) analyse circuits in terms of voltage, current, resistance, energy and power and
+use the equations:
+voltage = current  resistance
+© WJEC CBAC Ltd.
+V = I R
+power = voltage  current P=VI
+power = (current)2  resistance P=I2R
+energy transfer = power  time E = P t
+and select and apply P =
+V
+R
+2
+3. RESISTIVE COMPONENTS IN CIRCUITS
+Overview
+This topic focuses on the use of resistors in series and parallel, including the E24
+code for values. It investigates the use of voltage dividers in sensing circuits with a
+range of input components and the use of current limiting resistors for output with
+LEDs.
+Electronic Skills
+This topic provides an opportunity for learners to explore the resistance of series and
+parallel resistors through calculation and by carrying out tests to measure resistance
+of simple resistor networks. Learners will investigate the use of voltage dividers in
+sensing circuits for a range of input components, by carrying out calculations and
+taking measurements. The use of current limiting resistors for LEDs will also be
+investigated determining the value of resistors needed.
+Mathematical Skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include; recognising and using expressions in decimal and standard
+form; estimating results; using an appropriate number of significant figures; and
+changing the subject of an equation.
+Learners should be able to:
+(a) describe the effect of adding resistors in series and parallel
+(b) use equations for series and parallel resistor combinations
+R =R +R resistors in series
+1 2
+© WJEC CBAC Ltd.
+R =
+R
+R
+1
+R
+1
++ R
+2
+2
+resistors in parallel
+(c) select resistors for use in a circuit by using the colour and E24 codes for
+values, tolerances and power ratings
+(d) use photosensitive devices, ntc thermistors, pressure, moisture and sound
+sensors, switches, potentiometers and pulse generators in circuits
+(e) design and test sensing circuits using these components by incorporating
+them into voltage dividers
+(f) design and use switches and pull-up or pull-down resistors to provide correct
+logic level/edge-triggered signals for logic gates and timing circuits
+(g) select and apply the voltage divider equation in sensing circuits
+R
+V = 2 V for a voltage divider
+OUT R +R IN
+1 2
+(h) determine the value of a current-limiting resistor for LEDs in DC circuits.
+GCSE ELECTRONICS 10
+4. SWITCHING CIRCUITS
+Overview
+This topic looks at the operation and use of n-channel enhancement mode
+MOSFETs, npn transistors and voltage comparator ICs in switching circuits.
+Electronic Skills
+This topic involves the learners investigating the use of n-channel enhancement
+mode MOSFETs, npn transistors and voltage comparator ICs in switching circuits
+through calculation, modelling and by comparing their action.
+Mathematical Skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using expressions in decimal and standard
+form; understanding and using the symbols =, <, ≤, ≥, >; estimating results; using an
+appropriate number of significant figures; and changing the subject of an equation.
+Learners should be able to:
+(a) describe and analyse the operation and use of n-channel enhancement mode
+MOSFETs and npn transistors in switching circuits, including those which
+interface to outputs
+(b) select and apply the MOSFET equation
+© WJEC CBAC Ltd.
+I
+D
+= g
+M
+( V
+G S
+− 3 )
+(c) use the following rules for an npn transistor circuit:
+for V < 0.7 V, the transistor is off, V = V and V = the supply voltage
+IN BE IN CE
+for V ≥ 0.7 V, the transistor is on, V = 0.7 V and V = 0 V
+IN BE CE
+and select and apply I
+C
+= h
+F E
+I
+B
+until saturation is reached
+(d) describe and analyse the operation and use of voltage comparator ICs
+(e) compare the action of switching circuits based on MOSFETs, npn transistors
+and voltage comparator ICs
+(f) use data sheets to design switching circuits using MOSFETs, npn transistors
+and comparators.
+5. APPLICATIONS OF DIODES
+Overview
+This topic studies the characteristics of silicon diodes and their use for component
+protection and as half-wave rectifiers for AC circuits. The use of zener diodes in
+voltage regulation circuits is also covered.
+Electronic Skills
+This topic provides opportunities for learners to model and simulate diode circuits,
+taking measurements with multimeters and oscilloscopes, and plotting results to
+demonstrate the operation of the diode.
+Mathematical Skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: translating information between graphical and numerical form;
+plotting two variables from experimental or other data; and interpreting data
+presented in graphical form.
+Learners should be able to:
+(a) describe the I-V characteristics of a silicon diode
+(b) describe the use of diodes for component protection in DC circuits and half-
+wave rectification of AC circuits
+(c) describe the use of zener diodes in voltage regulation circuits.
+© WJEC CBAC Ltd.
+GCSE ELECTRONICS 12
+6. COMBINATIONAL LOGIC SYSTEMS
+Overview
+This topic explores logic and the use of a range of logic gates to design systems to a
+given specification using truth tables and Boolean identities. Logic circuit
+simplification and NAND gate redundancy is also introduced.
+Electronic Skills
+This topic gives learners the opportunity to model and simulate logic systems from a
+range of logic gates, use truth tables and Boolean identities to simplify logic circuits
+and NAND gate redundancy. Learners also investigate the use of pull-up and pull-
+down resistors to provide correct logic levels at the input of gates.
+Mathematical Skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using truth tables and expressions in Boolean
+algebra; simplifying logic systems using Boolean algebra; and translating information
+between graphical, numerical and algebraic forms.
+Learners should be able to:
+(a) recognise 1/0 as two-state logic levels
+(b) identify and use NOT gates and 2-input AND, OR, NAND and NOR gates,
+singly and in combination
+(c) produce a suitable truth table from a given system specification and for a
+given logic circuit
+(d) use truth tables to analyse a system of gates
+(e) use Boolean algebra to represent the output of truth tables or logic gates and
+use the basic Boolean identities
+© WJEC CBAC Ltd.
+A . B = A + B and A + B = A . B
+(f) design processing systems consisting of logic gates to solve problems
+(g) simplify logic circuits using NAND gate redundancy
+(h) analyse and design systems from a given truth table to solve a given problem
+(i) use data sheets to select a logic IC for given applications and to identify pin
+connections.
+2.2 Component 2
+Application of Electronics
+Written examination: 1 hour 30 minutes
+40% of qualification
+80 marks
+This component covers the following topics:
+1. Operational amplifiers
+2. Timing circuits
+3. Sequential systems
+4. Interfacing digital to analogue circuits
+5. Control circuits
+The assessment will also include synoptic questions.
+These questions will require learners to draw upon knowledge from other parts of the
+specification.
+© WJEC CBAC Ltd.
+GCSE ELECTRONICS 14
+1. OPERATIONAL AMPLIFIERS
+Overview
+This topic covers how amplifiers work and their limitations. The topic also covers the
+circuits for non-inverting, inverting and summing operational amplifiers (op-amps).
+Electronic Skills
+The topic involves the learners investigating the characteristics of amplifiers and their
+limitations. Learners will draw non-inverting, inverting and summing operational
+amplifier (op-amp) circuits and calculate values of resistors to produce given gains.
+Mathematical Skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using expressions in decimal and standard
+form; estimating results; using an appropriate number of significant figures; changing
+the subject of an equation; translating information between graphical and numerical
+form; and interpreting data presented in graphical form.
+Learners should be able to:
+(a) state that amplifiers increase the power or voltage of signals and select and
+apply the equation
+© WJEC CBAC Ltd.
+G =
+V
+V
+O U
+IN
+T
+(b) draw a gain-frequency graph for an amplifier, measure the bandwidth from the
+graph and describe the trade-off between gain and bandwidth
+(c) produce and interpret voltage-time graphs for the input and output signals of
+amplifiers
+(d) draw and analyse circuits for non-inverting and inverting amplifiers based
+upon an op-amp
+(e) show graphically and explain how clipping distortion may affect the output
+signal of an amplifier
+(f) select and apply the equations G = 1 +
+R
+R
+F
+1
+and G = −
+R
+R
+F
+IN
+for op-amp
+circuits to select resistors to produce a given gain
+(g) draw and analyse circuits for mixers based on a summing op-amp circuit and
+select and apply the equation for output voltage
+V
+O U T
+= − R
+F
+ V
+R
+1
+1
++
+V
+R
+2
+2
++ ....
+
+summing amplifier output voltage
+(h) draw a block diagram of a typical amplifier system consisting of signal source,
+preamplifier, mixer, power amplifier and loudspeaker.
+2. TIMING CIRCUITS
+Overview
+This topic covers the use of RC networks to create time delays and the operation of a
+555 timer IC as a monostable and/or astable timer.
+Electronic Skills
+This topic gives the learners opportunities to explore the charging and discharging of
+a RC network and the operation of a 555 timer IC as a monostable and/or astable
+timer through calculation, modelling and simulation.
+Mathematical Skills
+There are a number of opportunities for the development of mathematical skills in this
+topic. These include: recognising and using expressions in decimal and standard
+form; estimating results; using an appropriate number of significant figures; making
+order of magnitude calculations; changing the subject of an equation; translating
+information between graphical and numerical form; and interpreting data presented in
+graphical form.
+Learners should be able to:
+(a) describe how a RC network can produce a time delay
+(b) describe how the voltage across a charging or discharging capacitor in a RC
+circuit varies with time, including the interpretation of decay graphs for RC
+networks
+(c) describe how the time delay may be changed by varying R and/or C, including
+interpretation of the voltage-time graph for monostable and astable timers
+(d) describe the action of a 555 monostable timer and then use the equation
+© WJEC CBAC Ltd.
+T = 1 .1 R C , where T is the pulse duration
+(e) describe the action of a 555 astable timer in terms of period and mark-space
+ratio
+(f) use an oscilloscope, (or a computer configured as an oscilloscope) to
+measure the amplitude and period of the output of an astable timer
+(g) select and apply equations for the frequency and mark-space ratio of a 555
+astable timer
+f =
+1
+T
+frequency, period relationship
+1.44
+f = frequency of an astable
+(R +2R )C
+1 2
+T R +R
+ON = 1 2 mark/space ratio of an astable
+T R
+OFF 2
+(h) draw and analyse the circuit diagrams for a monostable and/or astable timer
+based on a 555 IC.
+GCSE ELECTRONICS 16
+3. SEQUENTIAL SYSTEMS
+Overview
+This topic covers the action and design of latches, BCD and decade counters,
+including the use of timing diagrams.
+Electronic Skills
+This will involve the learners designing and drawing latches, BCD and decade
+counters, including timing diagrams for a range of purposes.
+Mathematical Skills
+There are some opportunities for the development of mathematical skills in this topic.
+These include: converting between binary, decimal and binary-coded decimal (BCD)
+number systems; and drawing and interpreting timing diagrams.
+Learners should be able to:
+(a) draw the circuit diagram and describe the action of rising-edge-triggered D-
+type flip-flops used in data transfer, latches, 1- bit and 2-bit binary up-counters
+(b) complete timing diagrams for D-type flip-flops used in data transfer, latches,
+1-bit and 2-bit binary up- counters
+(c) complete a truth table to show the signals needed to display a given character
+on a common cathode 7-segment display
+(d) describe the action of and draw timing diagrams for dedicated binary and
+BCD counters
+(e) recognise and analyse the block diagram and timing diagrams for a single
+digit decimal counting system consisting of: 4-bit BCD counter,
+decoder/driver and 7-segment display
+(f) design and analyse systems using counters (which reset at a given value) and
+combinational logic to produce a given sequence
+(g) design a sequencer using a 4017 decade counter and draw timing diagrams.
+© WJEC CBAC Ltd.
+4. INTERFACING DIGITAL TO ANALOGUE CIRCUITS
+Overview
+This topic covers an introduction to the interfacing of digital to analogue circuits. It
+develops the use of transistors, comparators and Schmitt inverters for interfacing
+between digital and analogue systems.
+Electronic Skills
+The topic gives learners opportunities to further explore circuits using npn transistors,
+MOSFETs, comparators and Schmitt inverters for interfacing.
+Learners should be able to:
+(a) describe the action of a Schmitt inverter and its use in debouncing signals
+produced by mechanical switches and analogue sensors
+(b) compare the properties of transistors, comparators and Schmitt inverters as
+interfaces between analogue and digital systems
+(c) design interface circuits using npn transistors, MOSFETs and comparators to
+interface input sensors to outputs.
+© WJEC CBAC Ltd.
+GCSE ELECTRONICS 18
+5. CONTROL CIRCUITS
+Overview
+This topic introduces the microcontroller as a programable integrated circuit and
+explores how it is interfaced and programed through flowcharts to perform tasks.
+Electronic Skills
+The learners will have the opportunity in this topic to work with microcontrollers, by
+interfacing them to inputs and outputs and by programing them to perform set tasks.
+The learners will also look at their application in vehicles and domestic appliances
+and the reason for their adoption.
+Mathematical Skills
+There are some opportunities for the development of mathematical skills in this topic.
+These include converting between binary and decimal number systems; and drawing
+and interpreting flowcharts.
+Learners should be able to:
+(a) define a microcontroller as a programable integrated circuit into which
+software can be loaded to carry out a range of different tasks
+(b) interface sensing circuits and output devices with microcontrollers
+(c) design and analyse flowchart programs to enable microcontrollers to perform
+tasks
+(d) describe applications of microcontrollers and the reasons for their adoption as
+standard technology in the vehicle and domestic appliance industry.
+© WJEC CBAC Ltd.
+2.3 Component 3
+Extended system design and realisation task
+Non-exam assessment (NEA)
+20% of qualification
+40 marks
+The NEA is an integral part of the WJEC Eduqas GCSE in Electronics and
+contributes 20% to the final assessment. This component requires each learner to
+produce a single extended system design and realisation task independently. The
+task builds on the systems developed throughout the specification and the
+requirement to relate practical circuit design and construction to knowledge and
+understanding within Components 1 and 2.
+This component requires learners, in the context of the knowledge and
+understanding in Components 1 and 2, to demonstrate their ability to:
+(a) analyse a problem1 to enable solutions to be developed
+(b) develop a design specification to solve a problem
+(c) propose an electronic system, composed of sub-systems, to satisfy a design
+specification
+(d) make predictions about the way that electronic systems behave
+(e) design and build an electronic system, model its performance against the
+design specification and modify as appropriate
+(f) plan tests to make measurements, to explore a problem and select
+appropriate techniques and instruments
+(g) evaluate practical risks in system development and application
+(h) carry out tests having due regard to the correct manipulation of apparatus,
+accuracy of measurement and Health and Safety considerations
+(i) take and record measurements on electrical circuits
+(j) report results using standard scientific conventions
+(k) evaluate the performance of the electronic system against the design
+specification
+(l) suggest improvements to the electronic system following evaluation.
+1 In the context of GCSE electronics skills, 'problem' is interpreted broadly, to embrace:
+• problem – difficulties in a situation e.g. a person with partial hearing cannot hear the doorbell
+• context – looking at situations for possible design openings e.g. a person crossing the road
+• opportunity – possibilities arising e.g. from a new improved component
+© WJEC CBAC Ltd.
+GCSE ELECTRONICS 20
+Task
+The task enables learners to carry out a design and realisation task based on an
+individually identified problem, context or opportunity. This will be researched and
+analysed by the learner to develop their own specification to clearly guide their
+system development. Learners will develop their system from a series of sub-
+systems which will be tested individually before assembly and testing as a complete
+system. Learners must evaluate the performance of their developed system against
+their specification and suggest improvements that could be made.
+Learners should be encouraged and supported to select tasks in which they are
+interested and which are neither under nor over ambitious. Each learner's task is to
+be signed off by the teacher. The teacher should discuss the proposed focus of the
+task with the learner, considering the requirements of the assessment and the ability
+and interests of the individual learner. The teacher must be satisfied that the
+suggested focus has the potential for the individual learner to:
+• analyse the problem and derive a design specification;
+• develop and test a range of sub-systems;
+• develop, realise and test a final physical system;
+• evaluate the final system against the design specification and suggest
+improvements.
+This will help ensure the task is at a suitable level for the learner concerned and will
+provide that individual with a level of challenge that is appropriate to their abilities, in
+the context of the requirements of a GCSE Electronics qualification.
+For projects that include microcontrollers programed using flowcharts, a sub-routine
+can be considered a sub-system as long as a specification is provided for it and it
+can be tested and evaluated in a similar fashion to a component based sub-system.
+The learner should fully document the development of the task in a report. It is the
+evidence contained within this report and the system produced upon which the NEA
+should be marked and assessed. The report should provide evidence for the
+following sections:
+• System planning – including analysis of the problem and a design specification
+• System development – including the development of the system in terms of sub-
+systems, annotated circuit diagrams and description of testing each sub-system
+and the recording of results
+• System realisation – including annotated block and circuit diagrams; evidence of
+layout planning; description of testing of complete systems and the recording of
+results and user guide
+• Evaluation – including a detailed evaluation of the system against the design
+specification and suggestions for improvement.
+and
+• be presented in a logical order that is clear to read and understand
+• contain an acknowledgement of all sources of information and help
+• include photographs of the complete physical system.
+© WJEC CBAC Ltd.
+Physical circuit
+Construction of the system may be on prototype board, strip board or printed circuit
+board. Whichever method of construction is chosen, the layout and mounting of
+components and wiring should be neat and logical, assist the design, testing and
+fault finding of the system. Pre constructed circuit boards such as PIC or Arduino
+development boards are not acceptable as the final circuit.
+Supervision
+The task must be appropriately supervised to ensure that teachers are able to
+confidently authenticate each learner’s work. Learners are allowed supervised
+access to resources that may include information gathered outside supervised time.
+Each learner must produce their system under 'immediate supervision'. This means
+the system has to be produced either:
+(i) with the simultaneous physical presence of the learner and the
+supervisor,
+or
+(ii) remotely by means of simultaneous electronic communication.
+In most cases supervision will be of the form described in (i), but in some
+circumstances, for example if the learner is carrying out a specialist process away
+from the centre, (ii) may be more appropriate.

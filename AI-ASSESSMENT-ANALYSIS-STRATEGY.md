@@ -641,3 +641,26 @@ Provide feedback that:
 ---
 
 **Want me to build the AI extraction pipeline?** I can have Phase 1 (3 subjects) ready in 30 minutes!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+1. Practical skills assessed in a written examination
+1.1 Planning
+1.1.1 Experimental design, including problem-solving
+1.1.2 Identification of variables to be controlled
+1.1.3 Evaluation of experimental method appropriateness
+
+1.2 Implementing
+1.2.1 Use of practical apparatus and techniques correctly
+1.2.2 Use of appropriate measurement units
+1.2.3 Presenting observations and data appropriately
+
+1.3 Analysis
+1.3.1 Processing and interpreting experimental results
+1.3.2 Using appropriate mathematical skills for data analysis
+1.3.3 Appropriate use of significant figures
+1.3.4 Plotting and interpreting graphs
+1.3.4.1 Selecting and labelling axes
+1.3.4.2 Measuring gradients and intercepts
+
+1.4 Evaluation
+1.4.1 Evaluating results and drawing conclusions
+1.4.2 Identifying experimental measurement anomalies
+1.4.3 Identifying limitations in experimental procedures
+1.4.4 Assessing precision and accuracy of measurements
+1.4.5 Suggesting improvements to experimental design
+
+2. Practical skills assessed in the practical endorsement
+2.1 Independent thinking and investigative approaches
+2.2 Safe use of equipment and materials
+2.3 Following written instructions
+2.4 Making and recording observations
+2.5 Keeping experimental records
+2.6 Presenting scientific information
+2.7 Using data processing tools
+2.8 Research and referencing skills
+2.9 Using scientific instruments and techniques
+2.10 Use of specific apparatus and techniques
+2.10.1 Analogue apparatus measurements
+2.10.2 Digital instrument measurements
+2.10.3 Accuracy improvement methods
+2.10.4 Timing techniques
+2.10.5 Precise distance measurement
+2.10.6 Circuit construction and testing
+2.10.7 Signal generation and measurement
+2.10.8 Wave generation and measurement
+2.10.9 Light and radiation investigation
+2.10.10 ICT and data collection
+2.10.11 Ionizing radiation detection

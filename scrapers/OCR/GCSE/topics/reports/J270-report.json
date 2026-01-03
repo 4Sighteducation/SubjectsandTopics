@@ -1,0 +1,72 @@
+{
+  "subject_code": "J270",
+  "subject_name": "Citizenship Studies",
+  "url": "https://www.ocr.org.uk/Images/234735-specification-accredited-gcse-citizenship-studies-j270.pdf",
+  "start_time": "2025-11-22T14:14:21.525930",
+  "success": true,
+  "topics_extracted": 193,
+  "levels": {
+    "0": 1,
+    "1": 3,
+    "2": 9,
+    "3": 35,
+    "4": 145
+  },
+  "issues": [
+    "Missing options extraction",
+    "Incorrect tier handling"
+  ],
+  "warnings": [
+    "Potential missing topics",
+    "Possible structure errors"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Democracy and government",
+        "Citizenship participation in democracy and society",
+        "Rights, the law and the legal system in England and Wales",
+        "The UK and its relations with the wider world",
+        "The economy, finance and money"
+      ],
+      "organization": "The content is organized into main sections that cover different aspects of citizenship studies.",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "Citizenship in perspective (01)",
+        "Citizenship in action (02)",
+        "Our rights, our society, our world (03)"
+      ],
+      "content_mapping": {
+        "Citizenship in perspective (01)": "Sections 1–3 of the specification",
+        "Citizenship in action (02)": "Rights, the law and the legal system in England and Wales, Democracy and government, Citizenship Action",
+        "Our rights, our society, our world (03)": "Rights, the law and the legal system in England and Wales, The UK and the wider world"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the main sections and their respective content, as well as the assessment structure and mapping.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-22T14:14:21.525941"
+}

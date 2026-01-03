@@ -1,0 +1,69 @@
+{
+  "subject_name": "English Language and Literature",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/ffqmxpr5/eduqas-a-english-lang-and-lit-spec-from-2015.pdf",
+  "start_time": "2025-11-23T23:34:38.881100",
+  "success": true,
+  "topics_extracted": 211,
+  "levels": {
+    "0": 5,
+    "1": 21,
+    "2": 157,
+    "3": 12,
+    "4": 16
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "10% 10% 7.5% 2.5%  30%"
+      },
+      {
+        "number": "2",
+        "name": "10% 10% 10%   30%"
+      },
+      {
+        "number": "3",
+        "name": "5.5% 7.5% 2% 5%  20%"
+      },
+      {
+        "number": "4",
+        "name": "2.5% 2.5% 2.5% 2.5% 10% 20%"
+      },
+      {
+        "number": "4",
+        "name": "Component 4 Advisory Word Count"
+      },
+      {
+        "number": "4",
+        "name": "Section B: Related Creative Writing"
+      },
+      {
+        "number": "1",
+        "name": "is set out below."
+      },
+      {
+        "number": "4",
+        "name": "Component 4 Advisory Word Count"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 30.4298095703125,
+  "end_time": "2025-11-23T23:35:09.310910"
+}

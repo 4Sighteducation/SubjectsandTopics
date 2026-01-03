@@ -1,0 +1,262 @@
+[
+  {
+    "code": "IG-Accounting",
+    "name": "Accounting",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Accounting/2017/Specification-and-sample-assessments/ig-accountancy-spec.pdf"
+  },
+  {
+    "code": "IG-Arabic",
+    "name": "Arabic as a first language",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Arabic%20as%20a%20first%20language/2017/specification-and-sample-assessments/International-GCSE-Arabic-Spec.pdf"
+  },
+  {
+    "code": "IG-Art",
+    "name": "Art and Design",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Art%20and%20Design/2017/specification-and-sample-assessments/art-design-spec-updated.pdf"
+  },
+  {
+    "code": "IG-Bangla",
+    "name": "Bangla",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Bangla/2017/Specification%20and%20Sample%20Assessment%20Material/international-gcse-bangla-specification.pdf"
+  },
+  {
+    "code": "IG-BangladeshStudies",
+    "name": "Bangladesh Studies",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Bangladesh%20Studies/2017/specification-and-sample-assessments/international-gcse-Bangladesh_Studies_Specification.pdf"
+  },
+  {
+    "code": "IG-Biology",
+    "name": "Biology",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Biology/2017/specification-and-sample-assessments/international-gcse-biology-2017-specification1.pdf"
+  },
+  {
+    "code": "IG-Business",
+    "name": "Business",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Business%20Studies/2017/specification-and-sample-assessment/9781446942765_International_GCSE_Business_Specification.pdf"
+  },
+  {
+    "code": "IG-Chemistry",
+    "name": "Chemistry",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/specification-and-sample-assessments/international-gcse-chemistry-2017-specification.pdf"
+  },
+  {
+    "code": "IG-Chinese",
+    "name": "Chinese",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chinese/2017/specification-and-sample-assessments/9781446944516-ig-chinese.pdf"
+  },
+  {
+    "code": "IG-Commerce",
+    "name": "Commerce",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Commerce/2017/specification-and-sample-assessments/international-gcse-Spec-Commerce.pdf"
+  },
+  {
+    "code": "IG-ComputerScience",
+    "name": "Computer Science",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/computer-science/2017/specification-and-sample-assessments/international-gcse-in-Computer-Science-Specification.pdf"
+  },
+  {
+    "code": "IG-Economics",
+    "name": "Economics",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/Specification%20and%20SAMS/international-gcse-spec-9781446942789.pdf"
+  },
+  {
+    "code": "IG-EnglishESL",
+    "name": "English (as 2nd language)",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20(as%202nd%20language)/2023/specification-and-sample-assessments/int-gcse-english-esl.pdf"
+  },
+  {
+    "code": "IG-EnglishLanguageA",
+    "name": "English Language A",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20A/2016/Specification%20and%20sample%20assessments/9781446954379-int-gcse-englang-a-iss6-02-02-2023.pdf"
+  },
+  {
+    "code": "IG-EnglishLanguageB",
+    "name": "English Language B",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Specification%20and%20sample%20assessments/international-gcse-english-lang-b-specification.pdf"
+  },
+  {
+    "code": "IG-EnglishLiterature",
+    "name": "English Literature",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Literature/2016/Specification%20and%20sample%20assessments/international-gcse-english-literature-specification.pdf"
+  },
+  {
+    "code": "IG-French",
+    "name": "French",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/French/2017/specification-and-sample-assessments/international-gcse-french-specification.pdf"
+  },
+  {
+    "code": "IG-MathematicsA",
+    "name": "Mathematics A",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20A/2016/Specification%20and%20sample%20assessments/international-gcse-in-mathematics-spec-a.pdf"
+  },
+  {
+    "code": "IG-MathematicsB",
+    "name": "Mathematics B",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20B/2016/Specification%20and%20sample%20assessments/international-gcse-in-mathematics-spec-b.pdf"
+  },
+  {
+    "code": "IG-FurtherPureMaths",
+    "name": "Further Pure Mathematics",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Further%20Pure%20Mathematics/2016/Specification%20and%20sample%20assessments/international-gcse-in-further-pure-mathematics-spec.pdf"
+  },
+  {
+    "code": "IG-Geography",
+    "name": "Geography",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Geography/2017/specification-and-sample-assessments/9781446958360-int-gcse-geog-issue-3.pdf"
+  },
+  {
+    "code": "IG-German",
+    "name": "German",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/German/2017/specification-and-sample-assessments/International-GCSE-German-Specification.pdf"
+  },
+  {
+    "code": "IG-GlobalCitizenship",
+    "name": "Global Citizenship",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Global%20Citizenship/2017/Specification%20and%20sample%20assessments/international-gcse-global-citizenship-spec.pdf"
+  },
+  {
+    "code": "IG-Greek",
+    "name": "Greek as a first language",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/greek-as-a-first-language/2017/specification-and-sample-assessments/international-gcse-greek-Spec.pdf"
+  },
+  {
+    "code": "IG-History",
+    "name": "History",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf"
+  },
+  {
+    "code": "IG-HumanBiology",
+    "name": "Human Biology",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Human%20Biology/2017/specification-and-sample-assessment/international-gcse-human-biology-2017-spec.pdf"
+  },
+  {
+    "code": "IG-ICT",
+    "name": "Information and Communication Technology",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Information%20and%20Communication%20Technology/2017/Specification%20and%20sample%20assessments/international-gcse-in-ict-spec.pdf"
+  },
+  {
+    "code": "IG-IslamicStudies",
+    "name": "Islamic Studies",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/islamic-studies/2017/specification-and-sample-assessments/international-gcse-islamic-Studies-Specification.pdf"
+  },
+  {
+    "code": "IG-PakistanStudies",
+    "name": "Pakistan Studies",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Pakistan%20Studies/2017/specification-and-sample-assessments/international-gcse-pakistan_Studies_Specification.pdf"
+  },
+  {
+    "code": "IG-Physics",
+    "name": "Physics",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Physics/2017/specification-and-sample-assessments/international-gcse-physics-2017-specification.pdf"
+  },
+  {
+    "code": "IG-ReligiousStudies",
+    "name": "Religious Studies",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Religious%20Studies/2017/Specification%20and%20sample%20assessments/international-gcse-in-religious-studies.pdf"
+  },
+  {
+    "code": "IG-ScienceDoubleAward",
+    "name": "Science (Double Award)",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Science%20(Double%20Award)/2017/specification-and-sample-assessments/international-gcse-science-double-award-2017-specification1.pdf"
+  },
+  {
+    "code": "IG-ScienceSingleAward",
+    "name": "Science (Single Award)",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Science%20(Single%20Award)/2017/specification-and-sample-assessments/9781446934302-int-gcse-science-sa-spec-web.pdf"
+  },
+  {
+    "code": "IG-Sinhala",
+    "name": "Sinhala",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Sinhala/2017/specification-and-sample-assessments/international-gcse-specification-sinhala.pdf"
+  },
+  {
+    "code": "IG-Spanish",
+    "name": "Spanish",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Spanish/2017/specification-and-sample-assessments/international-gcse-spanish-specification.pdf"
+  },
+  {
+    "code": "IG-Swahili",
+    "name": "Swahili",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Swahili/2017/specification-and-sample-assessments/international-gcse-swahili-specification.pdf"
+  },
+  {
+    "code": "IG-Tamil",
+    "name": "Tamil",
+    "qualification": "International GCSE",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Tamil/2017/specification-and-sample-assessments/international-gcse-in-tamil-specification.pdf"
+  }
+]
+

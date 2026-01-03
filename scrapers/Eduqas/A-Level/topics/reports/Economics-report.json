@@ -1,0 +1,68 @@
+{
+  "subject_name": "Economics",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/odmjnwaa/eduqas-a-economics-spec-from-2015.pdf",
+  "start_time": "2025-11-23T23:32:03.608905",
+  "success": false,
+  "topics_extracted": 0,
+  "levels": {},
+  "issues": [
+    "Exception: cannot access local variable 'subject_content_pos' where it is not associated with a value"
+  ],
+  "warnings": [],
+  "success_grade": 0,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "Economic Principles"
+      },
+      {
+        "number": "2",
+        "name": "Exploring Economic Behaviour"
+      },
+      {
+        "number": "3",
+        "name": "Evaluating Economic Models and Policies"
+      },
+      {
+        "number": "1",
+        "name": "6-8% 10-12% 5-7% 5-7%"
+      },
+      {
+        "number": "2",
+        "name": "4-6% 8-10% 7-9% 7-9%"
+      },
+      {
+        "number": "3",
+        "name": "14-16% 0% 12-14% 10-12%"
+      },
+      {
+        "number": "1",
+        "name": "Economic Principles"
+      },
+      {
+        "number": "2",
+        "name": "Exploring Economic Behaviour"
+      },
+      {
+        "number": "3",
+        "name": "Evaluating Economic Models and Policies"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 0,
+  "error": "cannot access local variable 'subject_content_pos' where it is not associated with a value",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\tonyd\\OneDrive - 4Sight Education Ltd\\Apps\\flash-curriculum-pipeline\\scrapers\\Eduqas\\A-Level\\topics\\eduqas-alevel-universal-scraper.py\", line 367, in _process_subject\n    topics_text = self._extract_hierarchy(subject, pdf_text, analysis)\n  File \"C:\\Users\\tonyd\\OneDrive - 4Sight Education Ltd\\Apps\\flash-curriculum-pipeline\\scrapers\\Eduqas\\A-Level\\topics\\eduqas-alevel-universal-scraper.py\", line 600, in _extract_hierarchy\n    prompt = self._build_extraction_prompt(subject, pdf_text, analysis)\n  File \"C:\\Users\\tonyd\\OneDrive - 4Sight Education Ltd\\Apps\\flash-curriculum-pipeline\\scrapers\\Eduqas\\A-Level\\topics\\eduqas-alevel-universal-scraper.py\", line 700, in _build_extraction_prompt\n    if subject_content_pos is not None:\n       ^^^^^^^^^^^^^^^^^^^\nUnboundLocalError: cannot access local variable 'subject_content_pos' where it is not associated with a value\n"
+}

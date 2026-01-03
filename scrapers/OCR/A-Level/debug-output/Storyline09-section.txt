@@ -1,0 +1,106 @@
+Developing metals (DM)
+(e) the action of an electrochemical cell in terms of
+half-equations and external electron flow and the
+ion flow in the salt bridge
+(f) the term standard electrode potential and its Details of the set-up of the hydrogen electrode are
+measurement using a hydrogen electrode; use of not required, just the equation for the reaction.
+standard electrode potentials to: Learners should know the standard conditions.
+2
+(i) calculate E • experiments in which electrode potentials are
+cell
+used to predict or interpret reactions
+(ii) predict the feasibility of redox reactions,
+and the reasons why a reaction may not
+• experiments on rusting
+occur
+(iii) explain rusting, and its prevention, in terms
+of electrochemical processes
+Inorganic chemistry and the periodic table
+(g) transition metals as d-block elements forming Learners should also be able to use given data about
+one or more stable ions which have incompletely transition metals and their compounds.
+filled d-orbitals;
+the common oxidation states of iron (+2 and +3)
+and copper (+1 and +2) and the colours of their
+aqueous ions, if any
+(h) electronic configurations, using sub-shells and The electron configurations of Cu and Cr may be
+atomic orbitals, for ions of the first row of the required.
+d-block elements; See also EL(f).
+the existence of variable oxidation states, in
+terms of the stability of d-orbital electron
+arrangements
+(i) the terms ligand, complex/complex ion and Learners should know the formulae of the following
+ligand substitution examples of complex ions from the chemistry of:
+iron: [Fe(H O) ]2+, [Fe(H O) ]3+;
+2 6 2 6
+and copper: [Cu(H O) ]2+, [Cu(NH ) ]2+, [CuCl ]2–.
+2 6 3 4 4
+They should be able to write similar formulae for
+other complexes, given suitable information.
+• test-tube or reduced scale reactions involving
+iron, copper and other transition metals and
+their compounds, including the formation of
+complex ions
+(j) the formation of complexes in terms of Learners should know the structure of ethanedioate
+coordinate (dative) bonding between ligand and and how it acts as a bidentate ligand.
+central metal ion; Formulae of other multidentate ligands will be
+ligand substitution equations; given.
+the terms bidentate and polydentate as applied
+to ligands • experiments to determine formulae of
+complexes of transition metals
+Version 3.0 © OCR 2025
+42 OCR Level 3 Advanced GCE in Chemistry B (Salters)
+Developing metals (DM)
+(k) the colour changes in, and ionic equations for, [Iron(II) hydroxide and iron(III) hydroxide do not
+the reactions of: Fe2+(aq), Fe3+(aq) and Cu2+(aq) form complexes with ammonia.]
+ions with sodium hydroxide solution and
+ammonia solution
+(l) the catalytic activity of transition metals and Homogeneous catalysis in terms of variable
+their compounds oxidation states.
+2
+Heterogeneous catalysis in terms of the ability of
+transition metals to use (3)d and (4)s electrons of
+the atoms on the catalyst surface to form weak
+bonds to reactants.
+• experiments involving catalysts
+(m) (i) the ions of transition metals in solution are Details of how the d-electrons split in a particular
+often coloured; complex are not required.
+(ii) the origins of colour in transition metal
+complexes in terms of the splitting of the
+d-orbitals by the ligands and transitions
+between the resulting electronic energy
+levels
+Energy and matter
+(n) techniques and procedures to measure M3.1, M3.2
+concentrations of solutions using a colorimeter
+or visible spectrophotometer. PAG9
+• using a colorimeter to measure the
+concentration of a coloured solution
+Version 3.0 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry B (Salters) 43
+Colour by design (CD)
+A study of dyes and dyeing and the use of chemistry to ends with reactions of carbonyl compounds, and case
+provide colour to order. The storyline begins by looking studies to illustrate the synthesis of organic molecules.
+at biological pigments, such as found in carrots, to
+examine the origins of colour in delocalised systems The chemical ideas in this module are:
+in organic molecules. This discussion moves into the
+• the chemical origins of colour in organic
+structure of benzene, where the storyline touches on
+compounds
+how scientific ideas develop.
+2
+• aromatic compounds and their reactions
+The storyline then moves on to synthetic dyes,
+including picric acid, chrysodin and mauveine. The • dyes and dyeing
+concepts explored in this context includes electrophilic
+• diazonium compounds
+substitution reactions of benzene, and formation of
+diazonium compounds. At this point, the storyline also
+• fats and oils
+takes a look at the overall structure of dye molecules
+and how dyes attach themselves to fibres. • gas–liquid chromatography
+• carbonyl compounds and their reactions
+Food dyes and food testing then form the context
+for studying the structure of fats and oils and the
+• organic synthesis and polyfunctional
+principles of gas–liquid chromatography. The storyline
+compounds.

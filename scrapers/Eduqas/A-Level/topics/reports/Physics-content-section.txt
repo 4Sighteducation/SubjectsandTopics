@@ -1,0 +1,669 @@
+subject content, published by the Department for Education.
+• Teachers will assess learners against Common Practical Assessment Criteria
+(CPAC) issued by the awarding organisations. The CPAC (see pages 61 and
+62) are based on the requirements of Appendix A parts (b) and (c) of the
+subject content requirements published by the Department for Education, and
+define the minimum standard required for the achievement of a pass.
+• Each learner will keep an appropriate record of their assessed practical
+activities.
+• Learners who demonstrate the required standard across all the requirements
+of the CPAC will receive a ‘pass’ grade.
+• The practical activities prescribed in this specification (the specified
+practicals) provide opportunities for demonstrating competence in all the skills
+identified, together with the use of apparatus and techniques for each subject.
+However, learners can also demonstrate these competences in any additional
+practical activity undertaken throughout the course of study which covers the
+requirements of Appendix A part (c).
+• There will be no separate assessment of practical skills for AS qualifications.
+• Learners will answer questions in the AS and A level examination papers that
+assess the requirements of Appendix A part (a) (Practical skills identified for
+indirect assessment and developed through teaching and learning) from the
+prescribed subject content, published by the Department for Education.
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 61
+Criteria for the assessment of practical competency in A level Physics (CPAC)
+Competency Practical Mastery:
+In order to achieve a pass, learners will need to have met the
+following expectations.
+Learners will be expected to develop these competencies
+through the acquisition of the technical skills specified in
+Appendix A part (c). Learners can demonstrate these
+competencies in any practical activity undertaken throughout
+the course of study. The practical activities prescribed in the
+subject specification, which cover the requirements of
+Appendix A part (c), will provide opportunities for
+demonstrating competence in all the skills identified together
+with the use of apparatus and practical techniques for each
+subject.
+Learners may work in groups but must be able to demonstrate
+and record independent evidence of their competency. This
+must include evidence of independent application of
+investigative approaches and methods to practical work.
+Teachers who award a pass to their learners need to be
+confident that the learner consistently and routinely exhibits the
+competencies listed below before completion of the A level
+course.
+1. Follows written Correctly follows written instructions to carry out the
+procedures experimental techniques or procedures.
+2. Applies Correctly uses appropriate instrumentation, apparatus and
+investigative materials (including ICT) to carry out investigative activities,
+approaches and experimental techniques and procedures with minimal
+methods when assistance or prompting.
+using instruments
+and equipment Carries out techniques or procedures methodically, in
+sequence and in combination, identifying practical issues and
+making adjustments when necessary.
+Identifies and controls significant quantitative variables where
+applicable, and plans approaches to take account of variables
+that cannot readily be controlled.
+Selects appropriate equipment and measurement strategies in
+order to ensure suitably accurate results.
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 62
+3. Safely uses a range Identifies hazards and assesses risks associated with these
+of practical hazards, making safety adjustments as necessary, when
+equipment and carrying out experimental techniques and procedures in the
+materials lab or field.
+Uses appropriate safety equipment and approaches to
+minimise risks with minimal prompting.
+4. Makes and records Makes accurate observations relevant to the experimental or
+observations investigative procedure.
+Obtains accurate, precise and sufficient data for
+experimental and investigative procedures and records this
+methodically using appropriate units and conventions.
+5. Researches, Uses appropriate software and/or tools to process data,
+references and carry out research and report findings.
+reports
+Cites sources of information are cited demonstrating that
+research has taken place, supporting planning and
+conclusions.
+Marking and Standardisation
+The practical work is assessed by teachers. WJEC Eduqas will support teachers in making
+judgements against the criteria for assessment.
+In co-ordination with other exam boards, WJEC Eduqas will monitor how centres provide
+learners with opportunities to develop and demonstrate the required practical skills and how
+they mark the assessments.
+Every centre will be monitored at least once in a two-year period in respect of at least one of
+the A level science subjects.
+In common with other exam boards, WJEC Eduqas will require centres to provide a
+statement annually confirming they have taken reasonable steps to ensure that learners:
+• have undertaken the minimum number of practical activities, and
+• have made a contemporaneous record of their work.
+If a centre fails to provide a statement, or provides a false statement, this will be treated as
+malpractice and/or maladministration. Learners will only get a certificate for the practical
+endorsement if they achieve at least a grade E in the examined part of the qualification.
+Practical endorsement results for each learner need to be submitted by centres to WJEC
+Eduqas by 15 May each year.
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 63
+This is a linear qualification in which all assessments must be taken at the end of the
+course. Assessment opportunities will be available in the months of May and June
+each year, from 2017, until the end of the life of this specification.
+A qualification may be taken more than once. Candidates must resit all examination
+components in the same series.
+The endorsement grade for NEA may be carried forward for the life of the
+specification, even if it was awarded by a different awarding body. If a candidate
+resits an NEA component (rather than carrying forward the previous NEA
+endorsement grade), it is the new grade that will be used, even if this is 'Not
+Classified'.
+Where a candidate has certificated on two or more previous occasions, the most
+recent NEA endorsement grade is carried forward, even if this is 'Not Classified'.
+The entry code appears below.
+WJEC Eduqas A level Physics: A420QS
+The current edition of our Entry Procedures and Coding Information gives up-to-date
+entry procedures.
+A level qualifications are reported as a grade from A* to E. Results not attaining the
+minimum standard for the award will be reported as U (unclassified).
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 64
+WORKING SCIENTIFICALLY
+The practical skills can be split into those which can be assessed indirectly through written
+examinations (part (a)) and those that will be assessed directly by teachers through
+appropriate practical activities (part (b)).
+Part (a) - Practical skills identified for indirect assessment and developed through
+teaching and learning
+Question papers will assess learners’ abilities to:
+Independent thinking
+• solve problems set in practical contexts
+• apply scientific knowledge to practical contexts
+Use and application of scientific methods and practices
+• comment on experimental design and evaluate scientific methods
+• present data in appropriate ways
+• evaluate results and draw conclusions with reference to measurement
+uncertainties and errors
+• identify variables including those that must be controlled
+Numeracy and the application of mathematical concepts in a practical context
+• plot and interpret graphs
+• process and analyse data using appropriate mathematical skills as exemplified in
+the mathematical appendix (see Appendix C)
+• consider margins of error, accuracy and precision of data
+Instruments and equipment
+• know and understand how to use a wide range of experimental and practical
+instruments, equipment and techniques appropriate to the knowledge and
+understanding included in the specification
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 65
+Part (b) - Practical skills identified for direct assessment and developed through
+teaching and learning
+Practical work carried out throughout the course will enable learners to develop the
+following skills.
+Independent thinking
+• apply investigative approaches and methods to practical work
+Use and apply scientific methods and practices
+• safely and correctly use a range of practical equipment and materials
+• follow written instructions
+• make and record observations
+• keep appropriate records of experimental activities
+• present information and data in a scientific way
+• use appropriate software and tools to process data, carry out research and report
+findings
+Research and referencing
+• use online and offline research skills including websites, textbooks and other
+printed scientific sources of information
+• correctly cite sources of information
+Instruments and equipment
+• use a wide range of experimental and practical instruments, equipment and
+techniques appropriate to the knowledge and understanding included in the
+specification
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 66
+Part (c) – Use of apparatus and techniques
+The practical work specified in the subject content section has been chosen to facilitate
+learners in developing the skills and acquiring the techniques listed below.
+Practical techniques to be gained by learners
+• use appropriate analogue apparatus to record a range of measurements (to
+include length/distance, temperature, pressure, force, angles, volume) and to
+interpolate between scale markings
+• use appropriate digital instruments, including electrical multimeters, to obtain a
+range of measurements (to include time, current, voltage, resistance, mass)
+• use methods to increase accuracy of measurements, such as timing over multiple
+oscillations, or use of fiducial marker, set square or plumb line
+• use stopwatch or light gates for timing
+• use calipers and micrometers for small distances, using digital or vernier scales
+• correctly construct circuits from circuit diagrams using D.C. power supplies, cells,
+and a range of circuit components, including those where polarity is important
+• design, construct and check circuits using D.C. power supplies, cells, and a
+range of circuit components
+• use signal generator and oscilloscope, including volts/division and time-base
+• generate and measure waves, using microphone and loudspeaker, or ripple tank,
+or vibration transducer, or microwave / radio wave source
+• use laser or light source to investigate characteristics of light, including
+interference and diffraction
+• use ICT such as computer modelling, or data logger with a variety of sensors to
+collect data, or use of software to process data
+• use ionising radiation, including detectors
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 67
+PRACTICAL TECHNIQUE REQUIREMENTS AND EXEMPLIFICATION
+Practical Technique Component Topic Specified practical work which
+exemplify the practical technique
+Use appropriate 1 Basic physics Measurement of the density of solids
+analogue apparatus 1 Basic physics Determination of unknown masses by
+to record a range of using the principle of moments
+measurements (to 1 Kinematics Measurement of g by freefall
+include 1 Dynamics Investigation of Newton’s 2nd Law
+length/distance, 2 Resistance Determination of resistivity of a metal
+temperature, 2 Resistance Investigation of the variation of
+pressure, force, resistance with temperature for a
+angles, volume) and metal wire
+to interpolate
+2 Solids under Determination of Young modulus of a
+between scale
+stress metal in the form of a wire
+markings
+2 Solids under Investigation of the force-extension
+stress relationship for rubber
+3 Wave properties Determination of wavelength using
+Young’s double slits
+3 Wave properties Determination of wavelength using a
+diffraction grating
+3 Wave properties Determination of the speed of sound
+using stationary waves
+3 Refraction of Measurement of the refractive index
+light of a material
+Use appropriate 1 Basic physics Measurement of the density of solids
+digital instruments, 1 Kinematics Measurement of g by freefall
+including electrical 1 Dynamics Investigation of Newton’s 2nd Law
+multimeters, to obtain 2 Resistance Investigation of the I-V characteristics
+a range of of the filament of a lamp and metal
+measurements (to wire at constant temperature
+include time, current, 2 Resistance Determination of resistivity of a metal
+voltage, resistance, 2 Resistance Investigation of the variation of
+mass) resistance with temperature for a
+metal wire
+2 D.C. circuits Determination of the internal
+resistance of a cell
+Use methods to 1 Kinematics Measurement of g by freefall
+increase accuracy of 2 Solids under Investigation of the force-extension
+measurements, such stress relationship for rubber
+as timing over
+multiple oscillations,
+or use of fiducial
+marker, set square or
+plumb line
+Use stopwatch or 1 Kinematics Measurement of g by freefall
+light gates for timing 1 Dynamics Investigation of Newton’s 2nd Law
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 68
+Use calipers and 2 Resistance Determination of resistivity of a metal
+micrometers for small 2 Solids under Determination of Young modulus of a
+distances, using stress metal in the form of a wire
+digital or vernier
+scales
+2 Resistance Investigation of the I-V characteristics
+of the filament of a lamp and metal
+wire at constant temperature
+2 Resistance Determination of resistivity of a metal
+2 Resistance Investigation of the variation of
+resistance with temperature for a
+metal wire
+2 D.C. circuits Determination of the internal
+resistance of a cell
+3 Lasers Determination of h using LEDs
+Correctly construct 2 Resistance Investigation of the I-V characteristics
+circuits from circuit of the filament of a lamp and metal
+diagrams using D.C. wire at constant temperature
+power supplies, cells, 2 Resistance Determination of resistivity of a metal
+and a range of circuit 2 Resistance Investigation of the variation of
+components, resistance with temperature for a
+including those where metal wire
+polarity is important 2 D.C. circuits Determination of the internal
+resistance of a cell
+3 Lasers Determination of h using LEDs
+3 Magnetic fields Investigation of the force on a current
+in a magnetic field
+Use signal generator 3 Wave properties Determination of the speed of sound
+and oscilloscope, using stationary waves
+including 3 Magnetic fields Investigation of magnetic flux density
+volts/division and using a Hall probe
+time-base 2 Capacitance Investigating the charging and
+discharging of a capacitor to
+determine the time constant
+2 Capacitance Investigation of the energy stored in a
+capacitor
+Generate and 3 The nature of Measurement of the intensity
+measure waves, waves variations for polarisation
+using microphone 3 Wave properties Determination of the speed of sound
+and loudspeaker, or using stationary waves
+ripple tank, or
+vibration transducer,
+or microwave / radio
+wave source
+Use laser or light 3 Wave properties Determination of wavelength using
+source to investigate Young’s double slits
+characteristics of 3 Wave properties Determination of wavelength using a
+light, including diffraction grating
+interference and 3 Refraction of Measurement of the refractive index
+diffraction light of a material
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 69
+Use ICT such as 1 Kinematics Measurement of g by freefall
+computer modelling, 1 Dynamics Investigation of Newton’s 2nd Law
+or data logger with a 1 Vibrations Measurement of g with a pendulum
+variety of sensors to 1 Vibrations Investigation of the damping of a
+collect data, or use of spring
+software to process 1 Thermal physics Estimation of absolute zero by use of
+data the gas laws
+1 Thermal physics Measurement of the specific heat
+capacity for a solid
+2 Resistance Determination of resistivity of a metal
+2 Resistance Investigation of the variation of
+resistance with temperature for a
+metal wire
+2 D.C. circuits Determination of the internal
+resistance of a cell
+2 Capacitance Investigation of the charging and
+discharging of a capacitor to
+determine the time constant
+2 Capacitance Investigation of the energy stored in a
+capacitor
+2 Solids under Determination of Young modulus of a
+stress metal in the form of a wire
+2 Solids under Investigation of the force-extension
+stress relationship for rubber
+3 Lasers Determination of h using LEDs
+3 Nuclear decay Investigation of radioactive decay – a
+dice analogy
+3 Nuclear decay Investigation of the variation of
+intensity of gamma radiation with
+distance
+3 Magnetic fields Investigation of the force on a current
+in a magnetic field
+3 Magnetic fields Investigation of magnetic flux density
+using a Hall probe
+Use ionising 3 Nuclear decay Investigation of the variation of
+radiation, including intensity of gamma radiation with
+detectors distance
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 70
+MATHEMATICAL REQUIREMENTS AND EXEMPLIFICATION
+Exemplification of
+mathematical skill in the Areas of the specification which
+context of A level Physics exemplify the mathematical skill
+Mathematical skills
+(assessment is not limited (assessment is not limited to the
+to the examples given examples below)
+below)
+Arithmetic and
+numerical
+computation
+Recognise and make Learners may be tested on their ability 1.1(c) 2.4(j)
+use of appropriate units to 1.2(c) 2.5(b)
+in calculations • identify the correct units for 1.2(d) 2.6(a)
+physical properties such as 1.3(f) 2.8(d)
+ms-1, the unit for velocity 1.4(c) 3.3(b)
+• convert between units with 1.6(d) 3.4(c)
+different prefixes for example, 1.7(e) 3.6(g)
+cm3 to m3 2.3(i) 3.9(f)
+Recognise and use Learners may be tested on their ability 1.1(k) 2.1(g) 3.1(g)
+expressions in decimal to 1.2(g) 2.2(h) 3.2(h)
+and standard form • use physical constants 1.3(f) 2.4(j) 3.4(m)
+expressed in standard form 1.4(c) 2.6(a) 3.6(g)
+such as c = 3.00 x 108 ms–1 1.7(a) 2.7(d) 3.9(b)
+Use ratios, fractions and Learners may be tested on their ability 1.4(c) 2.4(h)
+percenges to 1.7(f)
+• calculate efficiency of devices 1.8(c)
+• calculate percentage 2.1(g)
+uncertainties in measurements 2.3(d)
+Estimate results Learners may be tested on their ability 1.8(k) 2.8(l)
+to 2.2(i) 3.3(d)
+• estimate the effect of changing 2.2(m) 3.A(p)
+experimental parameters on 2.3(h) 3.B(q)
+measurable values 2.7(c) 3.D(b)(ii)
+Use calculators to find Learners may be tested on their ability 1.4(d) 3.B(d)
+and use power, to 1.5(g)
+exponential and • solve for unknowns in decay 2.2(f)
+logarithmic functions problems such as 2.4(j)
+N = N e−t 2.6(a)
+o 3.6(g)(h)
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 71
+Use calculators to Learners may be tested on their ability 1.1(e) 1.6(d) 3.3(b)
+handle sin x, cos x, tan x to 1.1(f) 1.6(g)
+when x is expressed in • calculate the direction of 1.1(j) 2.6(e)
+degrees or radians resultant vectors 1.4(e) 3.2(i)
+Handling data
+Use an appropriate Learners may be tested on their ability 1.1(i) 3.6(b)
+number of significant to 1.3(c) 3.9(b)
+figures • report calculations to an 1.6(j)
+appropriate number of 1.8(b)
+significant figures given raw 2.2(c)
+data quoted to varying numbers 2.2(h)
+of significant figures 2.4(g)
+• understand that calculated 2.5(b)
+results can only be reported to 3.2(o)
+the limits of the least accurate 3.3(a)
+measurement 3.4(c)
+Find arithmetic means Learners may be tested on their ability 1.1(g) 2.3(h)
+to 1.2(a) 2.4(i)
+• calculate a mean value for 1.6(i) 3.1(e)
+repeated experimental readings 2.2(c) 3.6(g)
+Understand simple Learners may be tested on their ability 3.4(b)
+probability to 3.6(d) – (h)
+• understand probability in the 3.8(d)
+context of radioactive decay
+Make order of Learners may be tested on their ability 1.5(g) 2.4(d) 3.2(h)
+magnitude calculations to 1.7(c) 2.5(b) 3.4(e)
+• evaluate equations with 1.8(c) 2.6(a) 3.6(g)
+variables expressed in different 2.1(g) 2.7(d) 3.B(k)
+orders of magnitude 2.2(h) 2.8(b) 3.C(i)
+Identify uncertainties in Learners may be tested on their ability 1.1(i)
+measurements and use to 1.6(j)
+simple techniques to • determine the uncertainty where 2.2(c)
+determine uncertainty two readings for length need to 2.3(i)
+when data are be added together 2.4(g)
+combined by addition, 2.5(b)
+subtraction, 3.2(i)
+multiplication, division 3.3(a)
+and raising to powers 3.9(b)
+Algebra
+Understand and use the Learners may be tested on their ability 1.1(c) 2.5(b)
+symbols: =, <, <<, >>, >, to 1.3(e) 2.6(f)
+∝, ≈, ∆ • recognise the significance of the 1.5(g) 2.8(h)
+symbols in the expression: 1.6(d) 3.2(h)
+p 1.8(g) 3.6(g)
+F 
+2.1(d) 3.9(b)
+t
+2.4(j) 3.10(c)
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 72
+Change the subject of Learners may be tested on their ability
+an equation, including to
+non-linear equations • rearrange
+© WJEC CBAC Ltd.
+E = m c 2
+1.2(d) 2.2(f) 3.1(g)
+1.3(c) 2.4(f) 3.3(e)
+to make m 1.5(g) 2.6(a) 3.6(h)
+the subject 1.7(f) 2.8(k) 3.A(e)
+Substitute numerical Learners may be tested on their ability
+values into algebraic to
+equations using • calculate the momentum p of an
+appropriate units for object by substituting the values
+physical quantities for mass m and velocity v into
+the equation p = m v
+1.1(g) 2.6(a) 3.10(a)
+1.2(g) 2.8(m) 3.A(i)
+1.3(d) 3.2(h) 3.B(k)
+1.4(c) 3.3(b) 3.C(d)
+1.6(f) 3.6(f) 3.D(d)
+2.4(c) 3.9(c)
+Solve algebraic Learners may be tested on their ability
+equations, including to
+quadratic equations • solve kinematic equations for
+constant acceleration such as:
+v = u + a t and s = u t + 12 a t 2
+1.3(e) 2.3(h) 3.2(o)
+1.4(d) 2.4(g) 3.3(b)
+1.6(b) 2.5(a) 3.6(h)
+1.7(a) 2.7(d) 3.C(g)
+1.8(c) 2.8(k) 3.D(b)
+Use logarithms in Learners may be tested on their ability 2.4(j)
+relation to quantities that to 3.6(g)
+range over several • recognise and interpret real
+orders of magnitude world examples of logarithmic
+scales
+Graphs
+Translate information Learners may be tested on their ability 1.2(c) 2.3(h) 3.4(d)
+between graphical, to 1.6(c) 2.5(c)
+numerical and algebraic • calculate Young modulus for 1.6(k) 2.6(a)
+forms materials using stress-strain 1.8(h) 2.8(l)
+graphs 2.2(h) 3.3(a)
+Plot two variables from Learners may be tested on their ability 1.3(c) 2.5(g) 3.9(b)
+experimental or other to 1.8(k) 3.2(h) 3.9(d)
+data • plot graphs of extension of a 1.2(c) 3.4(e)
+wire against force applied 2.4(g) 3.6(b)
+Understand that
+y = m x + c
+Learners may be tested on their ability
+represents a to
+linear relationship • rearrange and compare
+v=u+at with y = m x + c
+1.2(c) 3.4(e)
+1.3(c) 3.9(b)
+1.8(k)
+for a 2.2(h)
+2.3(h)
+velocity-time graph in constant
+2.5(a)
+acceleration problems
+Determine the slope and Learners may be tested on their ability 1.2(b) 2.5(b)
+intercept of a linear to 1.3(c) 3.3(a)
+graph • read off and interpret the 1.6(i) 3.4(d)
+intercept point from a graph for 2.2(h) 3.9(b)
+example, the initial velocity in a 2.3(h)
+velocity-time graph 2.4(g)
+Calculate rate of change Learners may be tested on their ability 1.2(b) 3.3(a)
+from a graph showing a to 1.3(c) 3.9(b)
+linear relationship • calculate acceleration from a 1.6(c)
+linear velocity-time graph 2.2(h)
+A LEVEL PHYSICS 73
+Draw and use the slope Learners may be tested on their ability 1.2(c)
+of a tangent to a curve to 1.6(h)
+as a measure of rate of • draw a tangent to the curve of a 2.2(c)
+change displacement–time graph and 2.6(a)
+use the gradient to approximate
+the velocity at a specific time
+Distinguish between Learners may be tested on their ability 1.2(c)
+instantaneous rate of to 1.6(h)
+change and mean rate • understand that the gradient of
+of change the tangent of a displacement–
+time graph gives the velocity at
+a point in time which is a
+different measure to the mean
+velocity
+Understand the possible Learners may be tested on their ability 1.8(h)
+physical significance of to 2.4(g)
+the area between a • recognise that for a capacitor 2.5(c)
+curve and the x-axis and the area under a voltage-charge
+be able to calculate it or graph is equivalent to the
+estimate it by graphical energy stored
+methods as appropriate
+Apply the concepts
+underlying calculus (but
+without requiring the
+explicit use of
+derivatives or integrals)
+by solving equations
+involving rates of
+change, for example
+© WJEC CBAC Ltd.
+x
+t
+x 
+
+
+= −
+Learners may be tested on their ability 1.2(e)
+to 1.2(g)
+• determine g from a distance- 1.6(c)
+time plot, projectile motion 1.6(h)
+3.6(g)
+3.10(c)
+using a graphical
+method or spreadsheet
+modelling
+Interpret logarithmic Learners may be tested on their ability 2.4(j)
+plots to 2.6(g)
+• obtain time constant for
+capacitor discharge by
+interpreting plot of log V against
+time
+Use logarithmic plots to Learners may be tested on their ability 2.4(j)
+test exponential and to 2.6(g)
+power law variations. • use logarithmic plots with the
+decay law of radioactivity /
+charging and discharging of a
+capacitor
+A LEVEL PHYSICS 74
+Sketch relationships
+which are modelled by:
+© WJEC CBAC Ltd.
+y =
+k
+x
+, y = k x 2
+k
+, y =
+x2
+, y = k x , y = s i n x ,
+y = c o s x , y = e  x and
+y = s i n 2 x , y = c o s 2 x
+Learners may be tested on their ability 1.2(e)
+to 1.6(h)
+• sketch relationships between 1.7(a)
+pressure and volume for an 2.2(c)
+ideal gas 2.6(a)
+3.6(g)
+as
+applied to physical
+relationships
+Geometry and
+trigonometry
+Use angles in regular Learners may be tested on their ability 1.1(f) 3.2(i) 3.10(a)
+2D and 3D structures to 1.1(k) 3.3(b) 3.A(b)
+• interpret force diagrams to solve 1.4(b) 3.3(d) 3.B(k)
+problems 1.5(c) 3.9(b)
+1.6(g) 3.9(c)
+Visualise and represent Learners may be tested on their ability 1.1(j) 3.3(f)
+2D and 3D forms to 1.1(k) 3.5(f)
+including 2D • draw force diagrams to solve 1.4(c) 3.9(i)
+representations of 3D mechanics problems 1.6(b) 3.10(e)
+objects 3.2(g) 3.C(b)
+Calculate areas of Learners may be tested on their ability 1.1(g) 3.A(e)
+triangles, to 2.1(g) 3.C(o)
+circumferences and • calculate the area of the cross 2.2(h) 3.D(b)
+areas of circles, surface section to work out the 2.4(d)
+areas and volumes of resistance of a conductor given 2.5(b)
+rectangular blocks, its length and resistivity 2.7(d)
+cylinders and spheres 3.10(a)
+Use Pythagoras’ Learners may be tested on their ability 1.1(e)
+theorem, and the angle to 1.1(k)
+sum of a triangle • calculate the magnitude of a 2.6(a)
+resultant vector, resolving 3.2(g)
+forces into components to solve 3.3(b)
+problems
+Use sin, cos and tan in Learners may be tested on their ability 1.1(f) 1.4(b) 3.2(i)
+physical problems to 1.1(j) 1.6(d) 3.3(e)
+• resolve forces into components 1.1(k) 2.6(a) 3.9(c)
+Use of small angle
+approximations
+including s i n    ,
+t a n   
+Learners may be tested on their ability 1.4(b)
+to 2.6(a)
+• calculate fringe separations in 3.2(i)
+,cos1for interference patterns
+small θ where
+appropriate
+A LEVEL PHYSICS 75
+Understand the Learners may be tested on their ability 1.5(b)
+relationship between to: 1.5(c)
+degrees and radians • convert angle in degrees to 1.6(d)
+and translate from one angle in radians 1.6(g)
+to the other 3.3(b)
+© WJEC CBAC Ltd.
+A LEVEL PHYSICS 76
+HOW SCIENCE WORKS
+How science works skill Areas of the specification which
+exemplify the how science works skill
+(assessment is not limited to the
+examples below)
+Use theories, models and ideas to develop 1.4(f) 1.6(q) 1.7(c) 2.1(f) 2.2(k) 2.5(e)
+scientific explanations 2.8(f) 3.4(m) 3.7(a)
+Use knowledge and understanding to pose 1.8(e) 2.2(n) 2.7(e) 2.8(e) 2.8(b) 3.4(e)
+scientific questions, define scientific 3.7(h) 3.8(e) 3.D(c)
+problems, present scientific arguments and
+scientific ideas
+Use appropriate methodology, including 1.2(f) 1.6(j) 1.8(k) 2.2(i) 2.4(i) 2.5(b)
+information and communication technology 3.2(f) 3.6(g) 3.C(d)
+(ICT), to answer scientific questions and
+solve scientific problems
+Carry out experimental and investigative 1.1(g) 1.1(i) 1.6(i) 2.2(h) 2.3(c) 2.4(i)
+activities, including appropriate risk 3.1(c) 3.2(o) 3.4(c)
+management, in a range of contexts
+Analyse and interpret data to provide 1.2(c) 1.4(d) 1.6(k) 1.8(i) 2.2(l) 2.3(h)
+evidence, recognising correlations and 2.6(a) 2.7(e) 2.8(d) 3.1(f) 3.4(j) 3.7(a)
+causal relationships
+Evaluate methodology, evidence and data, 2.8(l) 3.2(e) 3.4(m) 3.6(c) 3.7(a) 3.A(a)
+and resolve conflicting evidence
+Know that scientific knowledge and 2.2(k) – (n) 2.7(a) – (e) 2.8(e)(f) 3.2(e)
+understanding develops over time 3.4(e) 3.4(m) 3.7(a) – (k)
+Communicate information and ideas in 1.6(l) 1.8(i) 2.2(j) 2.5(e) – (g) 2.8(m)
+appropriate ways using appropriate 3.2(i) 3.5 3.9(d) 3.A(a) 3.C(l) 3.D(a)
+terminology
+Consider applications and implications of 1.6(o) 1.8(i) 2.5(e) – (g) 3.3(f) 3.5(a) – (g)
+science and evaluate their associated 3.8(d) 3.9(j) 3.A 3.B 3.C 3.D
+benefits and risks
+Consider ethical issues in the treatment of 3.6(a)(b)(d) 3.B(c)(o)(r) 3.D
+humans, other organisms and the
+environment
+Evaluate the role of the scientific community 2.2(e)(f) 3.4(m) 3.7 3.D(a)(b)
+in validating new knowledge and ensuring
+integrity
+Evaluate the ways in which society uses 1.6(n) 1.8(d)(f) 2.2(n) 3.6(a)(b) 3.8(e)
+science to inform decision making 3.B(n)(o) 3.D
+A Level Physics Specification teaching from 2015/GH
+ED/ 17.12.14.
+© WJEC CBAC Ltd.

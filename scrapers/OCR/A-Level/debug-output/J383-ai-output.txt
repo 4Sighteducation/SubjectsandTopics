@@ -1,0 +1,74 @@
+1 Geography A (Geographical Themes) (J383)
+1.1 Component 01: Living in the UK Today
+1.1.1 Section: Landscapes of the UK
+1.1.1.1 Topic: The physical landscapes of the UK have distinctive characteristics.
+1.1.1.2 Topic: There are a number of geomorphic processes which create distinctive landscapes.
+1.1.1.3 Topic: Rivers create a range of landforms which change with distance from their source within a river basin.
+1.1.1.4 Topic: There are a range of landforms within the coastal landscape.
+1.1.1.5 Topic: Landscapes are dynamic and differ depending on their geology, climate and human activity.
+1.1.2 Section: People of the UK
+1.1.2.1 Topic: The UK is connected to many other countries and places.
+1.1.2.2 Topic: The UK is a diverse and unequal society which has geographical patterns.
+1.1.2.3 Topic: There are different causes and consequences of development within the UK.
+1.1.2.4 Topic: The UK’s population is changing.
+1.1.2.5 Topic: There are causes for and consequences of urban trends in the UK.
+1.1.2.6 Topic: Cities have distinct challenges and ways of life, influenced by its people, culture and geography.
+1.1.3 Section: UK Environmental Challenges
+1.1.3.1 Topic: The UK has a unique climate for its latitude which can create extreme weather conditions.
+1.1.3.2 Topic: Extreme flood hazard events are becoming more commonplace in the UK.
+1.1.3.3 Topic: Humans use, modify and change ecosystems and environments to obtain food, energy and water.
+1.1.3.4 Topic: There are a range of energy sources available to the UK.
+1.1.3.5 Topic: Energy in the UK is affected by a number of factors and requires careful management and consideration of future supplies.
+
+1.2 Component 02: The World Around Us
+1.2.1 Section: Ecosystems of the Planet
+1.2.1.1 Topic: Ecosystems consist of interdependent components.
+1.2.1.2 Topic: Ecosystems have distinct distributions and characteristics.
+1.2.1.3 Topic: There are major tropical rainforests in the world.
+1.2.1.4 Topic: There are major coral reefs in the world.
+1.2.1.5 Topic: Bio-diverse ecosystems are under threat from human activity.
+1.2.2 Section: People of the Planet
+1.2.2.1 Topic: The world is developing unevenly.
+1.2.2.2 Topic: There are many causes of uneven development.
+1.2.2.3 Topic: Many factors contribute to a country’s economic development.
+1.2.2.4 Topic: The majority of the world’s population now live in urban areas.
+1.2.2.5 Topic: There are causes and consequences of rapid urbanisation in LIDCs.
+1.2.2.6 Topic: Cities have distinct challenges and ways of life, influenced by its people and culture.
+1.2.3 Section: Environmental threats to our Planet
+1.2.3.1 Topic: The climate has changed from the start of the Quaternary period.
+1.2.3.2 Topic: There are a number of possible causes of climate change.
+1.2.3.3 Topic: Climate change has consequences.
+1.2.3.4 Topic: The global circulation of the atmosphere controls weather and climate.
+1.2.3.5 Topic: Extreme weather conditions cause different natural weather hazards.
+1.2.3.6 Topic: Drought can be devastating for people and the environment.
+
+1.3 Component 03: Geographical Skills
+1.3.1 Section: Cartographic Skills
+1.3.1.1 Topic: Select, adapt and construct maps, using appropriate scales and annotations, to present information.
+1.3.1.2 Topic: Interpret cross-sections and transects.
+1.3.1.3 Topic: Use and understand coordinates, scale and distance.
+1.3.1.4 Topic: Extract, interpret, analyse and evaluate information.
+1.3.1.5 Topic: Use and understand gradient, contour and spot height (on OS and other isoline maps).
+1.3.1.6 Topic: Describe, interpret and analyse geo-spatial data presented in a GIS framework.
+1.3.2 Section: Graphical Skills
+1.3.2.1 Topic: Select, adapt and construct appropriate graphs and charts, using appropriate scales and annotations to present information.
+1.3.2.2 Topic: Effectively present and communicate data through graphs and charts.
+1.3.2.3 Topic: Extract, interpret, analyse and evaluate information.
+1.3.3 Section: Numerical and Statistical Skills
+1.3.3.1 Topic: Demonstrate an understanding of number, area and scale.
+1.3.3.2 Topic: Demonstrate an understanding of the quantitative relationships between units.
+1.3.3.3 Topic: Understand and correctly use proportion, ratio, magnitude and frequency.
+1.3.3.4 Topic: Understand and correctly use appropriate measures of central tendency, spread and cumulative frequency including, median, mean, range, quartiles and inter-quartile range, mode and modal class.
+1.3.3.5 Topic: Calculate and understand percentages (increase and decrease) and percentiles.
+1.3.3.6 Topic: Design fieldwork data collection sheets and collect data with an understanding of accuracy, sample size and procedures, control groups and reliability.
+1.3.3.7 Topic: Interpret tables of data.
+1.3.3.8 Topic: Describe relationships in bivariate data.
+1.3.3.9 Topic: Sketch trend lines through scatter plots.
+1.3.3.10 Topic: Draw estimated lines of best fit.
+1.3.3.11 Topic: Make predictions; interpolate and extrapolate trends from data.
+1.3.3.12 Topic: Be able to identify weaknesses in statistical presentations of data.
+1.3.3.13 Topic: Draw and justify conclusions from numerical and statistical data.
+1.3.4 Section: Other Skills
+1.3.4.1 Topic: Deconstruct, interpret, analyse and evaluate visual images including photographs, cartoons, pictures and diagrams.
+1.3.4.2 Topic: Analyse written articles from a variety of sources for understanding, interpretation and recognition of bias.
+1.3.4.3 Topic: Suggest improvements to, issues with or reasons for using maps, graphs, statistical techniques and visual sources, such as photographs and diagrams.

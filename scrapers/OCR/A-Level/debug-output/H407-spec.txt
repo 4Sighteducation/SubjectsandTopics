@@ -1,0 +1,1701 @@
+Qualification
+Accredited
+Specification
+A Level
+Ancient
+History
+Cambridge OCR Level 3 Advanced GCE
+in Ancient History
+H407
+For first assessment in 2019
+Version 2.0 (November 2025) ocr.org.uk/alevelancienthistory
+About our new name
+i
+As of September 2025, our name is Cambridge OCR.
+Students who sat an exam in summer 2025 will receive a Cambridge OCR branded exam certificate
+(our new brand), which will be the same for all future exam series.
+You’ll continue to see the OCR or Oxford Cambridge and RSA Examinations name while we work
+to update our material to our new name, Cambridge OCR. This will take some time, and you can still
+access all up-to-date qualification resources and materials via Teach Cambridge.
+Important: We’ll keep the OCR/Oxford Cambridge and RSA name on existing teaching resources
+while the content of these remains applicable to the specification being taught. New and refreshed
+resources will be produced using the Cambridge OCR name/logo.
+Are you using the latest version of this specification?
+The latest version of our specifications will always be on our website and may differ from printed versions.
+We will inform centres about changes to specifications.
+Tell us what you think
+Your feedback plays an important role in how we develop, market, support and resource qualifications now and
+into the future. We want you and your students to enjoy and get the best out of our qualifications and resources,
+but to do that we need your honest opinions to tell us whether we’re on the right track or not.
+You can email your thoughts to support@ocr.org.uk or visit our feedback page to learn more about how you can
+help us improve our qualifications.
+Designing and testing in collaboration with teachers and students
+Helping young people develop an ethical view of the world
+Equality, diversity, inclusion and belonging (EDIB) are part of everything we do
+Contents
+1 Why choose an OCR A Level in Ancient History? 2
+1a. Why choose an OCR qualification? 2
+1b. Why choose an OCR A Level in Ancient History? 3
+1c. What are the key features of this specification? 4
+1d. What is new in OCR A Level in Ancient History? 4
+1e. How do I find out more information? 4
+2 The specification overview 5
+2a. OCR’s A Level in Ancient History (H407) 5
+2b. Content of A Level in Ancient History (H407) 6
+2c. Content of Greek period study (H407/11–13 entry code determined by Greek
+depth study selected) 8
+Relations between Greek states and between Greek and non-Greek states, 492–404 BC 10
+2c. Content of Greek depth studies 11
+2c. Content of the Roman period study (H407/21–23 entry code is determined by Roman
+depth study) 15
+2c. Content of Roman depth studies 18
+2d. Prior knowledge, learning and progression 22
+3 Assessment of A Level in Ancient History (H407) 23
+3a. Forms of assessment 23
+3b. Assessment objectives (AO) 25
+3c. Total qualification time 25
+3d. Qualification availability outside of England 26
+3e. Language 26
+3f. Assessment availability 26
+3g. Retaking the qualification 26
+3h. Assessment of extended response 26
+3i. Synoptic assessment 26
+3j. Calculating qualification results 26
+4 Admin: what you need to know 27
+4a. Pre-assessment 27
+4b. Special consideration 28
+4c. External assessment arrangements 28
+4d. Results and certificates 29
+4e. Post-results services 29
+4f. Malpractice 29
+5 Appendices 30
+5a. Accessibility 30
+5b. Overlap with other qualifications 30
+5c. Ancient source material for the ‘Relations between Greek states and between Greek and
+non-Greek states, 492–404 BC’ period study 31
+5d. Ancient source material for ‘The Society and Politics of Sparta, 478–404 BC’ depth study 33
+5e. Ancient source material for ‘The Culture and Politics of Athens, c.460–399 BC’depth study 35
+5f. Ancient source material for ‘Rise of Macedon, 359–323 BC’ depth study 37
+5g. Ancient source material for ‘The Julio-Claudian emperors, 31 BC–AD 68’ period study 38
+5h. Ancient source material for ‘The Breakdown of the Late Republic, 88–31 BC’ depth study 40
+5i. Ancient source material for ‘The Flavians, AD 68–96’ depth study 42
+5j. Ancient source material for ‘Ruling Roman Britain, AD 43–128’ depth study 44
+Summary of updates 47
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 1
+1 Why choose an OCR A Level in Ancient History?
+1a. Why choose an OCR qualification?
+Choose OCR and you’ve got the reassurance that We provide a range of support services designed to
+you’re working with one of the UK’s leading exam help you at every stage, from preparation through to
+boards. Our new A Level in Ancient History has been the delivery of our specifications. This includes:
+developed in consultation with teachers, employers
+and higher education to provide learners with a • A wide range of high-quality creative resources
+qualification that’s relevant to them and meets their including:
+needs.
+•• Delivery Guides
+We’re part of the Cambridge Assessment Group,
+Europe’s largest assessment agency and a •• Transition Guides
+department of the University of Cambridge.
+Cambridge Assessment plays a leading role in •• Topic Exploration Packs
+developing and delivering assessments throughout
+the world, operating in over 150 countries. •• Lesson Elements
+We work with teachers, employers, and universities •• … and much more.
+to create qualifications that support the needs of all
+students and help them prepare for their future. We • Access to subject advisors to support you
+offer A levels, GCSEs, vocational courses, and other through the transition and throughout the
+academic options to schools, colleges, workplaces, lifetimes of the specifications.
+and other organisations.
+• CPD/Training for teachers to introduce the
+Our Specifications qualifications and prepare you for first teaching.
+We believe in developing specifications that help you • Active Results – our free results analysis service
+bring the subject to life and inspire your students to to help you review the performance of
+achieve more. individual learners or whole schools.
+We’ve created teacher-friendly specifications based All A Level qualifications offered by OCR are
+on extensive research and engagement with the accredited by Ofqual, the Regulator for qualifications
+teaching community. They’re designed to be offered in England. The accreditation number for
+straightforward and accessible so that you can tailor OCR’s A Level in Ancient History is QN: 603/0805/9.
+the delivery of the course to suit your needs. We aim
+to encourage learners to become responsible for their
+own learning, confident in discussing ideas,
+innovative and engaged.
+Version 2.0 © Cambridge OCR 2025
+2 Cambridge OCR Level 3 Advanced GCE in Ancient History
+1b. Why choose an OCR A Level in Ancient History?
+OCR’s A Level in Ancient History has been designed to United Kingdom to ensure that OCR’s A Level in Ancien t
+help learners develop their understanding of the History engages learners, develops a desire within them
+1
+ancient world and how its legacy affects today’s society. to continue learning about ancient history and helps
+develop a lifelong enthusiasm for the ancient world.
+We have designed this qualification with teachers and
+learners in mind, having consulted extensively across the
+Our A Level in Ancient History provides:
+• a personalised course – we have a range of • straightforward assessment – bespoke
+options in this specification, with no prohibited question papers for each topic area with simple
+routes, and flexibility in creating the course of rubrics and clear mark schemes, which will
+study that appeals to you and your learners provide clear assessments
+• engaging and exciting content – we have
+• an accessible route into studying Classics – our
+retained many of the popular topics from the
+specifications do not require any previous study
+current specification whilst new, exicitng topic
+of a classical subject or knowledge of Classical
+areas have been added to create an appealing
+Greek or Latin languages
+study of the ancient world
+• increased support and guidance – OCR will
+• clearly laid out requirements – the
+provide a range of high quality, creative
+specification clearly details the content that
+resources, which will grow throughout the
+you are required to cover to allow you to
+lifetime of the specification.
+prepare your learners with confidence
+Aims and learning outcomes
+OCR’s A Level in Ancient History will enable learners to:
+• develop a broad and extensive interest in the an understanding of historical periods studied
+military, political, religious, social and cultural and the methods used in the analysis and
+history of the ancient world evaluation of evidence. Students should
+develop an understanding of how the ancient
+• acquire in-depth knowledge and understanding past has been represented by ancient
+of selected periods of ancient history and use historians and how the ancient past has been
+this knowledge and understanding to formulate interpreted by modern historians
+coherent arguments with substantiated
+• develop an understanding of historical
+judgements
+concepts such as change, continuity, causation,
+• understand Greek and Roman history in the consequence and significance within the
+context of their neighbouring civilisations and context of the historical periods studied
+the interrelations of these civilisations
+• develop an awareness and understanding of
+relevant historical debates and how these can
+• explore and evaluate the significance of events,
+be investigated
+individuals, issues, identities and societies in
+the history of the ancient world • develop the ability to make connections and
+draw comparisons between different periods,
+• understand the nature of historical evidence
+individiuals, issues, identities and societies of
+from the ancient world and its scarcity to build
+the ancient past.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 3
+1c. What are the key features of this specification?
+The key features of OCR’s A Level in Ancient History for you and your learners are:
+1
+• a choice of familiar topics to study covering the • a straightforward specification with detailed
+most prominent parts of Greek and Roman guidance to support delivery
+history
+• a range of content options to meet your
+• a clear and balanced structure that will help centre’s expertise
+course planning
+• the first year of this course is co-teachable
+• a specification with options that provide a with our AS Level in Ancient History
+coherent course, no matter which options you specification.
+choose.
+1d. What is new in OCR A Level in Ancient History?
+This section is intended for teachers using OCR’s History (H442) and the new version for first teaching
+current A Level in Ancient History. It highlights the in September 2017:
+differences between the current A Level in Ancient
+What stays the same? What’s changing?
+• many of the topic areas have been retained • prescribed ancient sources for all parts of the
+• both Roman and Greek history must be source
+studied • requirement for analyse and evaluate
+• the course divides in to four separate sections: historians’ interpretations
+two period studies and two depth studies. • simplified assessment with fewer optional
+questions
+• outcomes in the AS Level no longer count
+towards performance in the A Level.
+1e. How do I find out more information?
+If you are already using OCR specifications you can Want to find out more?
+contact us at: www.ocr.org.uk
+Ask our subject advisors:
+If you are not already a registered OCR centre then
+you can find out more information on the benefits of Email: classics@ocr.org.uk
+becoming one at: www.ocr.org.uk
+Customer Contact Centre: 01223 553998
+If you are not yet an approved centre and would like
+Visit our Online Support Centre at support.ocr.org.uk
+to become one go to: www.ocr.org.uk
+Teacher support: www.ocr.org.uk
+Version 2.0 © Cambridge OCR 2025
+4 Cambridge OCR Level 3 Advanced GCE in Ancient History
+2 The specification overview
+2a. OCR’s A Level in Ancient History (H407)
+Learners must take two components, one from each of the two component groups, to be awarded the OCR A
+Level in Ancient History.
+Content Overview Assessment Overview
+2
+Greek period study
+25%
+Relations between Greek states and between Greek
+Component Group 1
+and non-Greek states, 492–404 BC
+of total
+Greek period study
+There is a compulsory period study focusing on the
+and
+A Level
+changing relationships between Greek states and
+Greek depth study
+between Greek states and non-Greek states.
+(H407/11, H407/12,
+Greek depth study
+H407/13)
+One from:
+98 marks total 25%
+• The Society and Politics of Sparta,
+478–404 BC 2 hours 30 minutes of total
+• The Culture and Politics of Athens, Written paper
+c.460–399 BC A Level
+• The Rise of Macedon, 359–323 BC
+Roman period study 25%
+Component Group 2
+The Julio-Claudian Emperors, 31 BC–AD 68 of total
+Roman period study
+There is a compulsory period study focusing on
+and A Level
+the reigns of Augustus, Tiberius, Gaius, Claudius
+Roman depth study
+and Nero.
+(H407/21, H407/22,
+Roman depth study
+H407/23)
+One from:
+98 marks total 25%
+• The Breakdown of the Late Republic,
+88–31 BC 2 hours 30 minutes of total
+• The Flavians, AD 68–96 Written paper
+A Level
+• Ruling Roman Britain, AD 43–c.128
+All components include synoptic assessment.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 5
+2b. Content of A Level in Ancient History (H407)
+Learners taking OCR’s A Level in Ancient History will Compared to the AS Level, learners should draw on a
+study significant events, individuals, societies, greater depth and range of content and evidence
+developments and issues within their broad historical from the ancient world, and evaluate with more
+context demonstrating both breadth and depth sophistication, demonstrating a deeper
+through the study. understanding of historical concepts, producing
+2 responses that are more analytical and judgements
+Learners will study two period studies, demonstrating that are more effectively substantiated.
+breadth, and two depth studies, as well as gaining an
+understanding of historians’ debates surrounding Component Group 1 is a source-based Greek period
+some of the events studied as part of the period study combined with a source-based Greek depth
+studies. study. The depth study is linked to the period study to
+create a substantial and coherent element of Greek
+The period study element will allow learners to study history. There is an embedded interpretative element
+the unfolding narrative of a substantial span of Greek focussing on historians’ interpretations of the key
+and Roman history of at least 75 years. The length of historical debates about the significant individuals,
+the period study will encourage learners to develop events, developments and issues studied as part of
+their interest in, and understanding of the important the period study.
+events, individuals, developments and issues and
+provides sufficient chronological range to be able to Centres should choose one component from the
+comment on change, both short-term and long-term. three available in Component Group 1. Centres can
+choose between:
+The depth study focuses on a substantial and
+coherent short time span and requires learners • H407/11: Sparta and the Greek World
+to understand the complexity of historical events Learners taking this component will study the
+and situations and the interplay of different factors Greek period study and ‘The Society and
+within it. Politics of Sparta’ depth study.
+Learners will be required to study a variety of • H407/12: Athens and the Greek World
+historical topics covering both Roman and Greek Learners taking this component will study the
+history from a chronological range of at least 400 Greek period study and ‘The Culture and
+years, in order to create a qualification that is both Politics of Athens’ depth study.
+broad and coherent.
+• H407/13: Macedon and the Greek World
+Centres have a free choice over how to combine Learners taking this component will study the
+components in order to maximise the potential to Greek period study and ‘The Rise of Macedon’
+exploit interest, expertise and resources. Coherence depth study.
+can be achieved in many ways, but is guaranteed by
+the nature of the different components, the different
+emphases and approaches, which collectively
+engender an understanding of the nature and
+purpose of ancient history as a discipline and of how
+historians work.
+Version 2.0 © Cambridge OCR 2025
+6 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Component Group 2 is a source-based Roman • H407/21: Republic and Empire
+period study combined with a source-based Roman Learners taking this component will study
+depth study. The depth study is linked to the period the Roman period study and ‘The Breakdown
+study to create a substantial and coherent element of of the Late Republic’ depth study.
+Roman history. There is an embedded interpretative
+element focusing on historians’ interpretations of the • H407/22: The Eleven Caesars
+key historical debates about the significant Learners taking this component will study the
+individuals, events, developments and issues Roman period study and ‘The Flavians’ depth 2
+studied as part of the period study. study.
+Centres should choose one component from the • H407/23: Emperors and Empire
+three available in Component Group 2. Centres can Learners taking this component will study the
+choose between: Roman period study and ‘Ruling Roman Britain’
+depth study.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 7
+2c. Content of Greek period study (H407/11–13 entry code determined
+by Greek depth study selected)
+Introduction to the Greek period study
+This period study will focus on the unfolding narrative relations between both Greek states and Greek states
+of the relations between the Greek city-states, and non-Greek states. Learners will study the main
+2
+particularly Athens and Sparta, and between Greek events and issues in order to understand how these
+city-states and the Persian Empire during the period events and issues shaped these developments.
+492–404 BC.
+The Greek period study will be worth 25% of the
+Learners will study the changes in relations between overall specification and should take between 70–80
+states and the substantial developments in interstate guided learning hours to teach.
+Knowledge, understanding and skills
+Learners will be required to demonstrate an Learners will be required to demonstrate the ability
+understanding of the key historical terms and to create their own evidence-based structured
+concepts relevant to the topics studied, including arguments, selecting, organising and communicating
+change, continuity, causation, consequence and their knowledge and understanding of both the
+significance. Learners will be required to demonstrate historical events and the ancient source material
+knowledge and understanding of, and the ability to studied to reach substantiated conclusions.
+analyse and evaluate the significance of, events,
+individuals, groups, developments and ideas in the There will always be one interpretation question set,
+topic studied in order to reach substantiated focusing on one of the three key historical debates
+judgements. listed in the specification. The quoted passage set for
+examination will provide learners with the
+Learners should be able to demonstrate an opportunity to analyse and evaluate a scholarly view
+understanding of the relationships between different in conjunction with their knowledge and
+aspects of the period studied. They should make understanding of the historical period, as well as their
+connections, draw contrasts and analyse trends, such knowledge and understanding of the ancient source
+as between economic, political, social, religious and material.
+military history, and between short and long-term
+timescales. The quoted passage that will appear in the
+assessment will be taken from the published work
+The period study requires the critical use of ancient from an academic historian, who was writing from
+source material in analysing and evaluating historical the start of the 18th century onwards, and will be
+questions, problems and issues. Different types of pitched at a level appropriate for this qualification.
+evidence need to be analysed and evaluated. The quoted passage will be fully attributed and will
+Learners need to understand the usefulness and only be edited for accessibility. Where the language
+limitations of the ancient source evidence studied of the passage has been adapted for accessibility, the
+and how this affects the conclusions that can be meaning or point of view expressed by the historian
+drawn. It will require learners to deal with the in the original will not be altered.
+contexts in which evidence was written or produced
+and assess the reliability of the evidence. When approaching the quoted passage, learners will
+be expected to be able to read and understand the
+Version 2.0 © Cambridge OCR 2025
+8 Cambridge OCR Level 3 Advanced GCE in Ancient History
+passage, identifying the argument(s) put forward by intrinsically linked to the analysis/evaluation/use of
+the historian. Learners should be able to analyse the the interpretation. There is no expectation that the
+argument into constituent parts and should be able interpretation will be evaluated in the context of the
+to place the argument(s) into the context of the wider methods or approach used by the historian, or how
+debate. Learners should evaluate the argument(s) put the interpretation may have been affected by the
+forward in terms of their validity based on their time in which they were writing, though credit can be
+knowledge of the historical events/situations and given for this approach to evaluation if done in a way
+how accurately the argument(s) represents the which is relevant to the question. 2
+evidence from the ancient sources. A learner’s
+knowledge and understanding of the ancient source A detailed assessment overview can be found in
+material will be credited as part of AO4 but only Section 3 of the specification.
+where it is presented in a way which is relevant and
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 9
+Relations between Greek states and between Greek and non-Greek states,
+492–404 BC
+Key time spans Learners should have studied the following content:
+The challenge of the Mardonius’ expedition of 492 BC; Persian approaches to the Greek states; the Battle
+Persian Empire of Marathon; Greek and Persian strategy; the threat of Greek medising; Sparta’s
+2
+492–479 response; Persian aims and intentions in 480s: Darius’ and Xerxes’ policies towards
+the Greek states; Greek and Persian preparations in 480s; differences in responses
+to the Persians among the Greek states, including medising; the formation of the
+Hellenic League and its leadership; the states involved in the Hellenic League; the
+involvement of Greek states in the events of 480–479, including examples of
+medising, co-operation and conflict, debates and differences of opinion before
+Salamis and Plataea on strategy.
+Greece in conflict The consequences of victory for the Greek states, especially relations between
+479–446 BC Sparta and Athens; the growth of Athenian power in the Delian League; Sparta’s
+concerns; the consequences for relations between Sparta and Athens and their
+respective allies of the earthquake and helot revolt 465–464 BC; the events of the
+First Peloponnesian War 461–446 BC that involved changing relationships between
+Greek states: Megara’s defection from the Peloponnesian League; Corinth’s
+relations with Megara, Sparta and Athens; the Battle of Tanagra; continued conflict
+with the Persians followed by the cessation of hostilities in 449 BC; the Spartan
+invasion of Attica 446 BC.
+Peace and Conflict The Peace of 446 BC; the balance of power outlined in the Peace of 446 BC and the
+446–431 BC relations between Athens and Sparta; the role of Corinth and Sparta in the revolt of
+Samos; the events leading up to, and the causes of, the outbreak of war in 431 BC.
+The Archidamian War Athenian and Spartan strategies in the Archidamian War 431–421 BC; the invasions of
+431–420 BC Attica and their effects on the states, including the plague in Athens; the course of the
+Archidamian War: Pylos and Sphacteria, and its effects on Spartan war effort and
+reputation, Brasidas in Thrace; differences within Athens and Sparta on the relations
+between the states and the move towards a peace settlement; the Peace of Nicias
+– the main terms and the aftermath: the failures of the peace and the refusals of
+allies of both Athens and Sparta to support the Peace; Spartan-Athenian alliance.
+The end of the The breakdown of relations: the alliance of Athens, Argos, Mantinea and Elis; the
+Peloponnesian War effect of the Battle of Mantinea 418 BC; the consequences of the Sicilian Expedition
+and its aftermath 415–413 BC for Athens and Sparta; occupation of Decelea; Sparta and Athens:
+419–404 BC relations with Persia in the final years of the war, and Persia’s aims and impact on
+the course of the war.
+Learners should have studied the historical debates surrounding the following issues for the interpretation
+question and the views historians have on these:
+• the reasons for the victory over the Persians in 480–479 BC
+• the cause of the Peloponnesian War in 431 BC
+• the reasons for Athenian failure in the Peloponnesian War.
+Appendix 5c lists the sources covering the contents of the period study.
+Version 2.0 © Cambridge OCR 2025
+10 Cambridge OCR Level 3 Advanced GCE in Ancient History
+2c. Content of Greek depth studies
+Introduction to the Greek depth studies
+Centres should choose one Greek depth study from a The Greek depth studies focus on a substantial and
+choice of three, which will be studied alongside the coherent shorter time span. They require learners to
+period study. study significant individuals, societies, events and
+issues within the complexity of a historical event or 2
+• Learners taking ‘The Society and Politics of situation, and the interplay of different factors such
+Sparta, 478–404 BC’ depth study must be as military, political, religious, social, technological
+entered for H407/11: Sparta and the Greek and cultural within that event or situation.
+World.
+The Greek depth studies all have clear links to the
+• Learners taking ‘The Culture and Politics of period study, making it easier for teachers to provide
+Athens, c. 460–c.399 BC’ depth study must be the historical background, context and awareness of
+entered for H407/12: Athens and the Greek how their option is located within the longer term
+World. developments of Greek history.
+• Learners taking ‘The Rise of Macedon, The Greek depth study will be worth 25% of the
+c. 359–323 BC’ depth study must be entered overall specification and should take between
+for H407/13: Macedon and the Greek World. 70–80 guided learning hours to teach.
+Knowledge, understanding and skills
+Learners will be required to demonstrate an the ancient source evidence studied and how this
+understanding of the key historical terms and concepts affects the conclusions that can be drawn. It will
+relevant to the topics studied. This includes change, require learners to deal with the contexts in which
+continuity, causation, consequence and significance. evidence was written or produced and assess the
+Learners will be required to demonstrate knowledge reliability of the evidence.
+and understanding of, and the ability to analyse and
+evaluate the significance of, events, individuals, groups, Learners will be required to demonstrate the ability
+developments and ideas in the topic studied in order to create their own evidence-based structured
+to reach substantiated judgements. arguments, selecting, organising and communicating
+their knowledge and understanding of both the
+Each depth study requires the critical use of ancient historical events studied and the ancient source
+source material in analysing and evaluating historical material to reach substantiated conclusions.
+questions, problems and issues. Different types of
+evidence should be analysed and evaluated. Learners A detailed assessment overview can be found in
+need to understand the usefulness and limitations of Section 3 of the specification.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 11
+Depth study in H407/11: The Society and Politics of Sparta, 478–404 BC
+This depth study enables learners to understand different groups and individuals in Spartan society
+the complexity of Spartan society and the interplay during this period.
+of social, political and military forces in Sparta
+between 478 and 404 BC. Learners will be able The topics in this depth study are all interrelated,
+to identify and describe the main features of and learners are encouraged to see the
+2
+5th century BC Sparta and develop an understanding connections between different topics to deepen
+of the lives, contributions and experiences of the their understanding of the period.
+Key topics Learners should have studied the following content:
+Education in The education of boys and men, including details of the organisation and content of
+Sparta the agoge; the education of girls; the values the agoge was intended to develop in the
+Spartans.
+The social The different status, roles and contributions of Spartiates, perioikoi and helots; the
+structure of effect the helots had on Spartan policy; helot revolts; the krypteia; the status and role
+Sparta of women in Sparta.
+The political The roles, duties and responsibilities of the kings, gerousia, ephors and assembly;
+structure of examples of debates and decisions from the specified period: the debate in the
+Sparta gerousia and assembly about Athenian sea-power in the 470s BC; the debate in Sparta
+about war with Athens in 432 BC; the influence individuals had on the political process:
+Pausanias, Hetoemaridas, Sthenelaidas, Archidamus, Alcibiades, Brasidas, Agis II,
+Lysander.
+The Spartan The contribution of the different social groups to the Spartan military; the organisation
+military culture of the army; reasons for the Spartan successes and failures in military action, including
+and its the helot revolt in 465–464 BC, Pylos (425 BC), Brasidas in Thrace (424–423 BC),
+importance in the Mantinea (418–417 BC); the organisation of the Spartan navy and its successes and
+society and failures during the latter part of the Peloponnesian War; the importance and influence
+politics of Sparta of individual military figures: Brasidas, Gylippus, Lysander.
+Other states’ What other states say about the Spartans in the prescribed sources: Corinth and
+views of Sparta Athens; the Peloponnesian League and its importance for Sparta; examples of when
+and the effect of Spartan action was constrained by her system: lack of leadership in the 470s, helot
+Spartan system revolts, fear of foreigners, slowness to act, use of commanders other than kings,
+on policy reluctance to commit Spartiate troops, shortage of manpower; the effects of
+oliganthropia; the decline of values in Sparta; the idea of the ‘Spartan mirage’,
+including the reputation gained from Thermopylae and the nature of the evidence.
+Appendix 5d lists the sources for this depth study.
+Version 2.0 © Cambridge OCR 2025
+12 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Depth study in H407/12: The Culture and Politics of Athens, c. 460–c.399 BC
+This depth study focuses on the interplay of political, freedom of speech and debate which were prized
+social, economic, cultural and religious factors in Athens.
+that led to this period being remembered as the
+Golden Age of Athens. There is a focus on the The topics in this depth study are all interrelated,
+development of the ideas which led to the cultural and learners are encouraged to see the connections
+activity during this period, in particular, looking at between different topics to deepen their 2
+the concept of democracy and the consequential understanding of the period.
+Key topics Learners should have studied the following content:
+Athenian political The concepts of democracy and oligarchy; the nature and level of participation in the
+and social culture democratic system by the population of Attica, including citizens, women, metics and
+slaves; the workings of the ecclesia (assembly), boule (the council), the role and
+function of archons (magistrates) and strategoi (generals); the use of ostracism; the
+courts and their role in democracy; critiques of this system; the importance of rhetoric;
+Athens as the leader of an empire, and her treatment of allied states; the changing
+nature of leadership in the 5th century, including the actions and significance of
+Pericles, Cleon, Nicias and Alcibiades; different elements of Athenian society, and their
+roles and duties: citizens, metics and slaves; the position and roles of women, both
+citizen and non-citizen.
+The influence of The Sophists and the development of rhetoric; the Sophists and their views of Athenian
+new thinking and society; the teachings of the Sophists; Socrates: his philosophical method, its effects, his
+ideas on Athenian critique of democracy, and his trial and execution.
+society
+Art and The significance of the Persian Wars in relation to the building programme, including
+Architecture and the use of Delian League funds; the main buildings of the building programme in the
+their significance 5th century on the Acropolis and in the Agora in Athens; developments outside Athens
+in the culture of in Attica, such as Sounion and Brauron; sculpture on the Acropolis and its
+Athens interpretation.
+Drama and The function and nature of dramatic festivals in Athens, with particular reference to the
+Dramatic Festivals City Dionysia and Lenaea; tragedy and comedy as genres and their significance;
+and their interaction between comedy and contemporary events.
+significance in the
+culture of Athens
+Religion and its Contemporary attitudes to religion in Athenian society; nature and significance of
+significance in the religious festivals in the Athenian calendar; the Panthenaea and its presentation on the
+culture of Athens Acropolis; changing ideas about the relationship between men and the divine; Sophists
+and their views on Athenian religion; the role and significance of Athena and Poseidon
+in Athenian religion.
+Appendix 5e lists the sources for this depth study.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 13
+Depth study in H407/13: The Rise of Macedon, c. 359–323 BC
+This depth study focuses on the interplay of political, and beliefs that motivated two of the most renowned
+military, social, economic, cultural and religious men in ancient history.
+factors that contributed to the rapid rise to pre-
+eminence of Macedonia from c. 359 BC. There The topics in this depth study are all interrelated,
+is a particular focus on Philip and thus placing the and learners are encouraged to see the
+2 campaigns of Alexander more fully in context. connections between different topics to deepen
+In doing so learners will gain insight into the factors their understanding of the period.
+Key topics Learners should have studied the following content:
+The growth in Philip’s opportunism and diplomacy; military reorganisation, practices, technology and
+Macedonian advantages; Philip’s court and patronage; the expansion of Macedon; organising and
+power and the securing an expanding Macedonia; Philip’s marriages; Philip’s influence on Greek
+role of Philip in institutions; the Peace of Philocrates and a potential common peace; the expeditions
+that process into Thrace and Greece; the significance of the sieges at Perinthus and Byzantium,
+including the roles of Athens and Persia; the Battle of Chaeronea, including its causes
+and aftermath; the creation of the League of Corinth; election as hegemon.
+The major events Alexander’s reassertion of control over Greece; appointment as hegemon; his actions at
+of Alexander’s Troy and Gordium; victories at the Granicus, Halicarnassus, Issus, Gaugamela; the nature
+career and their and role of his foundation cities; occupations of Babylon and Persepolis; the pursuits of
+significance Darius and Bessus; conspiracies against Alexander; the treatment of the Branchidae; the
+murder of Cleitus and opposition of Callisthenes; marriage to Roxane; the Indus valley
+campaign; mutiny at the Hyphasis, and conflict with the Mallians; the crossing of the
+Gedrosian Desert; return from the east and the purges; the marriages in Susa; the mutiny
+at Opis; the Exiles’ Decree; the death of Hephaestion; return to Babylon and death.
+Change and Alexander and Philip’s aims during their careers, including personal, political, military,
+continuity in the economic, exploratory and cultural considerations.
+aims of Philip and
+Alexander
+The character and Analysis of Philip’s character in connection with the major events of his career, including
+beliefs of Philip his treatment of those he defeated, attitude to diplomacy, attitude to the gods, role as a
+and Alexander figurehead and prosecution of warfare; analysis of Alexander’s character, including as a
+military leader, his treatment of his companions and those he defeated, adoption of
+Persian dress and customs, his beliefs towards his own divinity, his attitude towards the
+gods as well as mythological and historical precedents.
+The relationships The relationship between Alexander and Philip and the various Greek states and other
+between the peoples at different times; their treatment of Greeks in different contexts; Alexander’s
+monarchs and relationship with his army and companions; the changing status of the Greek and
+others, including Macedonian contingents of Alexander’s army; Alexander’s relationship with Persians,
+the army and including Darius’ family, the people of Persepolis, courtiers, the Epigonoi, the satraps
+Greek and appointed to manage the Empire, and in relation to the marriages at Susa; Alexander’s
+conquered states relationship with the leaders of the Indus valley; the portrayal of Greeks , Macedonians
+and Persians in the sources.
+Appendix 5f lists the sources for this depth study.
+Version 2.0 © Cambridge OCR 2025
+14 Cambridge OCR Level 3 Advanced GCE in Ancient History
+2c. Content of the Roman period study (H407/21–23 entry code is
+determined by Roman depth study)
+Introduction to the Roman period study
+This period study will focus on the unfolding of the emperors in Rome and the Empire and their
+narrative of the establishment and development treatment by the ancient sources.
+2
+of the principate under Augustus, Tiberius, Gaius,
+Claudius and Nero. The Roman period study will be worth 25% of the
+overall specification and should take between 70–80
+There will be a particular focus on the military, guided learning hours to teach.
+social, religious and political issues and developments
+Knowledge, understanding and skills
+Learners will be required to demonstrate an Learners will be required to demonstrate the ability
+understanding of the key historical terms and to create their own evidence-based structured
+concepts relevant to the topics studied, including arguments, selecting, organising and communicating
+change, continuity, causation, consequence and their knowledge and understanding of both the
+significance. Learners will be required to demonstrate historical events studied and the ancient source
+knowledge and understanding of, and the ability to material to reach substantiated conclusions.
+analyse and evaluate the significance of, events,
+individuals, groups, developments and ideas in the There will always be one interpretation question set,
+topic studied in order to reach substantiated focusing on one of the three key historical debates
+judgements. listed in the specification. The quoted passage set for
+examination will provide learners with the
+Learners should be able to demonstrate an opportunity to analyse and evaluate a scholarly view
+understanding of the relationships between different in conjunction with their knowledge and
+aspects of the period studied. They should make understanding of the historical period, as well as their
+connections, draw contrasts and analyse trends, such knowledge and understanding of the ancient source
+as between economic, political, social, religious and material.
+military history; and between short and long-term
+timescales. The quoted passage that will appear in the
+assessment will be taken from the published work
+The period study requires the critical use of ancient from an academic historian, who was writing from
+source material in analysing and evaluating historical the start of the 18th century onwards, and will be
+questions, problems and issues. Different types of pitched at a level appropriate for this qualification.
+evidence need to be analysed and evaluated. The quoted passage will be fully attributed and will
+Learners need to understand the usefulness and only be edited for accessibility. Where the language
+limitations of the ancient source evidence studied of the passage has been adapted for accessibility, the
+and how this affects the conclusions that can be meaning or point of view expressed by the historian
+drawn. It will require learners to deal with the in the original will not be altered.
+contexts in which evidence was written or produced
+and assess the reliability of the evidence. When approaching the quoted passage, learners will be
+expected to be able to read and understand the
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 15
+passage, identifying the argument(s) put forward by the a way which is relevant and intrinsically linked to the
+historian. Learners should be able to analyse the analysis / evaluation / use of the interpretation. There is
+argument into constituent parts and should be able to no expectation that the interpretation will be evaluated
+place the argument(s) into the context of the wider in the context of the methods or approach used by the
+debate. Learners should evaluate the argument(s) put historian, or how the interpretation may have been
+forward in terms of their validity based on their affected by the time in which they were writing, though
+knowledge of the historical events/situations and how credit can be given for this approach to evaluation if
+2 accurately the argument(s) represents the evidence done in a way which is relevant to the question.
+from the ancient sources. A learner’s knowledge and
+understanding of the ancient source material will be A detailed assessment overview can be found in
+credited as part of AO4 but only where it is presented in Section 3 of the specification.
+Version 2.0 © Cambridge OCR 2025
+16 Cambridge OCR Level 3 Advanced GCE in Ancient History
+The Julio-Claudian Emperors, 31 BC–AD 68
+Key time spans Learners should have studied the following content:
+Augustus The presentation of Augustus’ victory at Actium; the constitutional settlements of
+31 BC–AD 14 27 BC and 23 BC; Augustus military achievements; the depiction of Augustus and
+Augustan Rome in the poetry and coinage of the period; the importance of Livia,
+Agrippa, Tiberius and Germanicus; the restoration of the Republic and the revival of 2
+traditional Roman values and practices; Augustus’ attitude towards religion, including
+the Imperial Cult inside and outside Rome; administrative changes to Rome and the
+provinces; relations with the Senate, Equestrians and ordinary people of Rome;
+Augustus’ building programme; challenges to his rule including conspiracies; the
+establishment of the dynasty and issues of succession; the Res Gestae as an account
+of Augustus’ reign.
+Tiberius The views of classical authors on Tiberius’ reign; Tiberius’ relationships with Germanicus
+AD 14–37 and Sejanus; conspiracies and challenges to his reign, including mutinies and revolts;
+the treason trials; Tiberius’ attitude towards religion, including the Imperial Cult inside
+and outside Rome; relations with the Senate, Equestrians and ordinary people of Rome.
+Gaius The presentation of Gaius’ character and personality as emperor by the ancient sources;
+AD 37–41 the assassination in AD 41; his attitude towards religion, including the Imperial Cult
+inside and outside Rome; administrative changes to Rome; relations with the Senate,
+Equestrians and ordinary people of Rome.
+Claudius The difficulties of the accession; the presentation of Claudius’ role in, and motives
+AD 41–54 for the invasion of Britain; the importance of his wives and freedmen; Claudius’
+relationship with Nero and Britannicus; the events surrounding his death;
+administrative changes to Rome; relations with the Senate, Equestrians and
+ordinary people of Rome.
+Nero The presentation of Nero as emperor by the ancient sources; the early part of his
+AD 54–68 reign and the changing role of Agrippina; the importance of his wives; Piso conspiracy
+in AD 65; Tacitus’ and Suetonius’ accounts of the Great Fire of Rome in AD 64; the
+achievements of Corbulo in Armenia; the revolt of Vindex; death of Nero and the
+accession of Galba; Nero’s attitude towards religion, including the Imperial Cult inside
+and outside Rome; administrative changes to Rome; relations with the Senate,
+Equestrians and ordinary people of Rome.
+Learners should have studied the historical debates surrounding the following issues for the interpretation
+question and the views historians have on these:
+• the extent to which Augustus actually restored the Republic
+• the characters of Tiberius, Gaius, Claudius and Nero
+• the benefits of Imperial rule for the inhabitants of Rome.
+Appendix 5g lists the sources covering the contents of the period study.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 17
+2c. Content of Roman depth studies
+Introduction to the Roman depth studies
+Centres should choose one Roman depth study from The Roman depth studies focus on a substantial and
+a choice of three, which will be studied alongside the coherent shorter time span. They require learners to
+period study. study significant individuals, societies, events and
+2
+issues within the complexity of a historical event or
+• Learners taking ‘The Breakdown of the Late situation, and the interplay of different factors such
+Republic, 88–31 BC’ depth study must be as military, political, religious, social and cultural
+entered for H407/21: Republic and Empire. within that event or situation.
+• Learners taking ‘The Flavians, AD 68–96’ depth The Roman depth studies all have clear links to the
+study must be entered for H407/22: The Eleven period study, making it easier for teachers to provide
+Caesars. the historical background, context and awareness of
+how their option is located within the longer term
+• Learners taking the ‘Ruling Roman Britain, developments of Roman history.
+AD 43–c. 128’ depth study must be entered for
+H407/23: Emperors and Empire. The Roman depth study will be worth 25% of the
+overall specification and should take approximately
+70–80 guided learning hours to teach.
+Knowledge, understanding and skills
+Learners will be required to demonstrate an limitations of the ancient source evidence studied
+understanding of the key historical terms and and how this affects the conclusions that can be
+concepts relevant to the topics studied, including drawn. It will require learners to deal with the
+change, continuity, causation, consequence and contexts in which evidence was written or produced
+significance. Learners will be required to demonstrate and assess the reliability of the evidence.
+knowledge and understanding of, and the ability to
+analyse and evaluate the significance of, events, Learners will be required to demonstrate the
+individuals, groups, developments and ideas in ability to create their own evidence-based
+the topic studied in order to reach substantiated structured arguments, selecting, organising
+judgements. and communicating their knowledge and
+understanding of both the historical events
+Each depth study requires the critical use of ancient studied and the ancient source material to reach
+source material in analysing and evaluating historical substantiated conclusions.
+questions, problems and issues. Different types of
+evidence need to be analysed and evaluated. A detailed assessment overview can be found in
+Learners need to understand the usefulness and Section 3 of the specification.
+Version 2.0 © Cambridge OCR 2025
+18 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Depth study in H407/21: The Breakdown of the Late Republic, 88–31 BC
+This depth study focuses on the interplay of political, The topics in this depth study are all interrelated,
+military, social and economic factors that the late and learners are encouraged to see the
+Roman Republic faced, and ultimately brought about connections between different topics to deepen
+its disintegration and reformation under the sole rule their understanding of the period.
+of Octavian.
+2
+Key topics Learners should have studied the following content:
+The form of the The makeup, role and responsibilities of: the Senate including Senatus Consulta,
+Constitution assemblies (comitia centuriata, comitia plebis tributa, consilium plebis, comitia
+populi tributa) including law-making, magistrates, including the cursus honorum and
+the Electoral Process, the tribunes of the plebs; the place of the courts, including
+quaestiones perpetuae and extraordinary courts in the political process; the
+background to the problems in 88 BC, including an overview of the issues stemming
+from the Gracchi and Marius.
+The challenges to The reforms of Sulla as dictator; the undoing of Sulla’s reforms through the 70s
+the Constitution leading to Pompey and Crassus as consuls in 70 BC; the role of the tribunes; the
+Catilinarian Conspiracy; the First Triumvirate, its purposes and outcomes; unrest
+through the 50s BC; the reasons for the Civil War of 49 BC; Caesar’s dictatorship and
+social change; Caesar’s assassination; the aftermath of the assassination: Anthony
+against the Senate and The Second Triumvirate; Octavian’s successes: the unification
+of Italy, victory at Actium and in Egypt.
+The means by which Patron-client relationships; factions, including optimates and populares; land bills;
+politicians achieved largesse: games and donatives; intimidation during trials and elections; violence;
+success and their bribery; corruption; the military commands of Pompey, Caesar, Antony and Octavian;
+importance in the the threat of military action; army and veteran support; rhetoric / oratory; political
+breakdown of the marriages and scandals.
+Republic
+Social and Economic The social and economic standing of Senators (and Patrician and Plebeian
+relationships and distinctions), and Equestrians including the publicani; the changing role of the rural
+their importance and especially the urban poor – the Plebs; patron-client relationships; inequality in
+in the breakdown wealth; the reaction of possessores of ager publicus to land reform; migration of the
+of the Republic rural poor to Rome, buying the support of the poor through largesse, land bills and
+corn doles; Spartacus’ slave revolt.
+The roles and Sulla; Lepidus; Pompey; Cicero; Crassus; Catiline; Caesar; Cato; Clodius; Brutus and
+importance of Cassius; Antony; Lepidus; Sextus Pompeius; Octavian.
+individuals in the
+breakdown of the
+Republic
+Appendix 5h lists the sources for this depth study.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 19
+Depth study in H407/22: The Flavians, AD 68–96
+This depth study focuses on the interplay of political, The topics in this depth study are all interrelated,
+military, social, economic and religious factors that and learners should be encouraged to see the
+affected the reigns of the Flavian dynasty resulting in connections between different topics to deepen
+a different type of Principate to that of the preceding their understanding of the period.
+Julio-Claudian dynasty.
+2
+Key topics Learners should have studied the following content:
+The Year of the The failures of Galba, Otho and Vitellius and the reasons for these failures; the
+four Emperors: the actions of Vespasian and his supporters; the means by which Vespasian gained the
+establishment of principate, including his use of military, political, financial and popular support;
+the Flavian dynasty religious aspects to Vespasian’s accession; the role of the army, Senate, people of
+AD 68–69 Rome and provincials in the events of AD 68–69 and the accession of Vespasian.
+The nature of the The actions of Vespasian on his accession and the reasons for them; the
+Principate: the development of the role of the princeps under his rule; the political, economic and
+development of social factors and events which influenced the development of the principate; the
+the role and power ways in which Vespasian’s successors developed the role and power of the
+of the princeps during princeps, including the events of their reigns, and their policies and actions; their
+the dynasty impact on the nature of the principate and the relationship of the princeps to
+other organs of government and the different classes of citizens; the role of family
+members and supporters, and their importance in the course of events.
+The personalities of The main features of the reigns of each Emperor; the character of each of the
+Vespasian, Titus and Emperors displayed through their words, actions and policies in Rome and in the
+Domitian, their reigns Empire; actions taken by each Emperor which affected relations with the Senators,
+and their relations equestrians, ordinary people of Rome and the provincials; acts as censors, reform
+with citizens and of the orders, taxes; the importance and use of the army in Rome and in the
+non-citizens in both Empire; challenges and opposition including reasons for these and how effectively
+Rome and the they were dealt with; activities in the Empire dealing with the challenges to
+provinces Roman rule in Britain, Germany, on the Danube border, and in the East.
+Propaganda: its role The use of propaganda in the accession of Vespasian; the importance of
+in creating and presentation of the princeps and the achievements of each member of the
+supporting the dynasty dynasty; the ways in which the princeps is promoted including architecture, art
+and the extent to and sculpture, coins, inscriptions and literature; the events and policies of the
+which its affected the Emperors, and how and why these are presented; the use of building projects in
+popularity and support Rome and the Empire; the use of entertainment such as festivals, games, theatrical
+of the emperors events, triumphs.
+Religion: its role in the The status and importance of traditional Roman religious practices and rites in
+principate and Roman Roman society; the involvement of the Emperors in traditional Roman religion and
+Society and its their reasons for participation; the impact of the development of religion by the
+importance for the emperors on Roman society; development of alternatives to traditional religion
+dynasty including foreign cults; the role of the Emperors in these cults and the reasons for
+this; the development and role of the worship of the Imperial family and the
+Imperial cult in the dynasty; the attitudes of the Emperors towards religion.
+Appendix 5i lists the sources for this depth study.
+Version 2.0 © Cambridge OCR 2025
+20 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Depth study in H407/23: Ruling Roman Britain, AD 43–c. 128
+This depth study focuses on the interplay of political, The topics in this depth study are all interrelated,
+military, social, economic, cultural and religious and learners are encouraged to see the
+factors affecting the complex interactions between connections between different topics to deepen
+the Roman Empire and the British. their understanding of the period.
+2
+Key topics Learners should have studied the following content:
+Roman military The relations between Britain and the Roman Empire in AD 43; the reasons for the
+policy towards Roman conquest of Britain under Claudius; factors influencing Roman military policy
+Britain: conquest towards Britain and moves to expand the province and establish a frontier; military
+and expansion policy and its effectiveness under the governors of Britain; Agricola’s military
+campaigns.
+Frontier policy: The changes to frontier policy after Agricola’s governorship; reasons for Domitian’s
+consolidation and retrenchment after Agricola’s governorship; reasons for Trajan’s retrenchment and
+retrenchment the establishment of the Stanegate Road system; the decision to build Hadrian’s
+AD 85–c.128 Wall; the features and functions of Hadrian’s Wall.
+Resistance to The reasons for British resistance to Roman invasion and rule; the nature of the
+Roman rule resistance and its effectiveness; the role of Caratacus against Plautius and Ostorius;
+the reasons for the Boudiccan Revolt; the consequences of Boudicca’s actions and the
+impact of the revolt on Roman policy; unrest in Brigantia under Venutius; the role of
+Calgacus against Agricola; the presentation of British leaders by Roman writers: the
+construct of the noble savage and primitive barbarian.
+Roman control The role and duties of the governor and the procurator in the Roman province; the
+effectiveness of these roles in securing and stabilising Roman control; the reasons
+for British collaboration with Roman rule; the use of client rulers (Prasutagus,
+Cartimandua and Cogidubnus) and its effectiveness; the role of the Roman Army in
+dealing with unrest and protecting the province; the deployment of the army, both
+legionaries and auxiliaries, within the province; the army’s role in building and
+patrolling Hadrian’s Wall.
+Effects of Economic exploitation: the extent of Roman influences on the British economy
+Roman rule at the time of Claudius’ invasion of AD 43; evidence for exploitation of economic
+resources during the Claudian period; changes to agricultural production; trade and
+infrastructure, with particular reference to roads; the impact of the Roman Army
+on the British economy; urbanisation: reasons for the development of towns; the
+different types of towns (coloniae, civitates, municipia, vici) and their functions;
+the development of towns as economic centres during the 1st century AD; leisure and
+public facilities provided by towns; towns as agents of Romanisation; the emergence
+of a Romanised elite; the importance of Fishbourne Palace and its reflection of new
+cultural tastes and attitudes; the extent of Romanisation.
+Appendix 5j lists the sources for this depth study.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 21
+2d. Prior knowledge, learning and progression
+Learners in England who are beginning an A Level Classics courses in further and higher education.
+course are likely to have followed a Key Stage 4 At the same time, it also offers a worthwhile course
+programme of study. This specification builds on of study for learners who do not wish to progress
+the knowledge, understanding and skills specified for further in the subject. The key skills required by the
+GCSE (9–1) Ancient History, however, prior attainment specification provide opportunities for progression
+2 of a GCSE (9–1) qualification in Ancient History is not directly into employment.
+required.
+There are a number of Classics specifications at OCR.
+OCR’s A Level in Ancient History provides a suitable Find out more at: www.ocr.org.uk
+foundation for the study of Ancient History or other
+Version 2.0 © Cambridge OCR 2025
+22 Cambridge OCR Level 3 Advanced GCE in Ancient History
+3 Assessment of A Level in Ancient History (H407)
+3a. Forms of assessment
+OCR’s A Level in Ancient History consists of two components that are both externally assessed.
+Component Group 1: Sparta and the Greek World (H407/11), Athens and the Greek
+World (H407/12), Macedon and the Greek World (H407/13)
+This component group is an externally assessed, There are two sections to this component. Section A
+written examination testing AO1, AO2, AO3 and is worth 50 marks and Section B is worth 48 marks.
+AO4. Learners must study one component from Learners answer both sections.
+3
+this group.
+In Section A, learners will answer questions on the
+It is worth 98 marks, which represents 50% of the content of the period study. The questions in this
+total marks for the A Level. section will be common across all three components.
+In Section B, learners will answer questions on the
+The examination lasts for 2 hours 30 minutes. content of the depth study.
+Component Group 2: Republic and Empire (H407/21), The Eleven Caesars (H407/22),
+Emperors and Empire (H407/23)
+This component group is an externally assessed, There are two sections to this component. Section A
+written examination testing AO1, AO2, AO3 and is worth 50 marks and Section B is worth 48 marks.
+AO4. Learners must study one component from Learners answer both sections.
+this group.
+In Section A, learners will answer questions on the
+It is worth 98 marks, which represents 50% of the content of the period study. The questions in this
+total marks for the A Level. section will be common across all three components.
+In Section B, learners will answer questions on the
+The examination lasts for 2 hours 30 minutes. content of the depth study.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 23
+The question papers in each component group have exactly the same structure. The structure of H407/11,
+H407/12, H407/13, H407/21, H407/22 and H407/23 will follow this pattern:
+Section A
+Question Type of question AO1 marks AO2 marks AO3 marks AO4 marks Total marks
+1 and 2 Essay 5 10 15 – 30
+3 Interpretations 5 – – 15 20
+Section A assesses the material studied in the period In Question 3, learners will answer a question
+3 study. addressing a key historical debate from the
+period study. Learners will be provided with
+We recommend that learners spend around 1 hour one unseen extract from an academic historian,
+15 minutes on Section A. writing from the start of the 18th century onwards.
+This question will be worth 20 marks. Learners
+Learners will have a choice between answering will be required to analyse and evaluate the extract
+Question 1 or Question 2. These will be essay in the context of the historical debate including
+questions each worth 30 marks requiring learners the views of other historians, and within the context
+to use, analyse and evaluate the ancient source of their own knowledge and understanding of the
+material they have studied to answer the issues historical event.
+addressed in the question.
+Section B
+Question Type of question AO1 marks AO2 marks AO3 marks AO4 marks Total marks
+4 Source utility 6 – 6 – 12
+5 and 6 Essay 6 12 18 – 36
+Section B assesses the material studied as part of the candidates are expected to address the utility of
+depth study. these sources as a set of evidence for a particular
+historical event or situation. This question will be
+We recommend that learners spend around 1 hour worth 12 marks.
+15 minutes on Section B.
+Learners will have a choice between answering
+In Question 4, learners will answer a stimulus-based Question 5 or Question 6. These will be essay
+question focusing on an issue relating to a historical questions each worth 36 marks, requiring learners to
+event or situation. Learners will need to assess the use, analyse and evaluate the ancient source material
+source’s utility. The stimulus material will vary they have studied to answer the issues addressed in
+between one and four different ancient sources and the question.
+Version 2.0 © Cambridge OCR 2025
+24 Cambridge OCR Level 3 Advanced GCE in Ancient History
+3b. Assessment objectives (AO)
+There are four Assessment Objectives in OCR A Level in Ancient History. These are detailed in the table below.
+Learners are expected to:
+Assessment Objective
+AO1 Demonstrate knowledge and understanding of the key features and characteristics of the
+historical periods studied.
+AO2 Analyse and evaluate historical events and historical periods to arrive at substantiated
+judgements.
+3
+AO3 Use, analyse and evaluate ancient sources within their historical context to make judgements and
+reach conclusions about:
+• historical events and historical periods studied
+• how the portrayal of events by ancient writers/sources relates to the historical contexts in
+which they were written/produced.
+AO4 Analyse and evaluate, in context, modern historians’ interpretations of the historical events and
+topics studied.
+AO weightings in OCR’s A Level in Ancient History
+The relationship between the assessment objectives and the components are shown in the following table:
+% of OCR A Level in Ancient History (H407)
+Component
+AO1 AO2 AO3 AO4
+Sparta and the Greek World (H407/11)
+Athens and the Greek World (H407/12) 11.25% 11.25% 20% 7.5%
+Macedon and the Greek World (H407/13)
+Republic and Empire (H407/21)
+The Eleven Caesars (H407/22) 11.25% 11.25% 20% 7.5%
+Emperors and Empire (H407/23)
+Total 22.5% 22.5% 40% 15%
+3c. Total qualification time
+Total qualification time (TQT) is the total amount of A Level Ancient History is 360 hours. The total guided
+time, in hours, expected to be spent by a learner to learning time is 360 hours.
+achieve a qualification. It includes both guided
+learning hours and hours spent in preparation, study
+and assessment. The total qualification time for
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 25
+3d. Qualification availability outside of England
+This qualification is available in England. For Wales Northern Ireland Entitlement Framework
+and Northern Ireland please check the Qualifications Qualifications Accreditation Number (NIEFQAN) list to
+in Wales Portal (QIW) or the Northern Ireland see current availability.
+Department of Education Performance Measures /
+3e. Language
+This qualification is available in English only. All
+assessment materials are available in English only and
+3 all candidate work must be in English.
+3f. Assessment availability
+There will be one examination series available each This specification will be certificated from the June
+year in May / June to all learners. 2019 examination series onwards.
+All examined components must be taken in the same
+examination series at the end of the course.
+3g. Retaking the qualification
+Learners can retake the qualification as many times as They retake all components of the qualification.
+they wish.
+3h. Assessment of extended response
+The assessment materials for this qualification coherent line of reasoning and marks for extended
+provide learners with the opportunity to demonstrate responses are integrated into the marking criteria.
+their ability to construct and develop a sustained and
+3i. Synoptic assessment
+Synoptic assessment is the learners understanding of The emphasis of synoptic assessment is to encourage
+the connections between different elements of the the understanding of Ancient History as a discipline.
+subject. It involves the explicit drawing together of
+knowledge, skills and understanding within different Synoptic assessment draws together all four of the
+parts of the A Level course. distinct assessment objectives in OCR’s A Level in
+Ancient History. Synoptic assessment can be found in
+Component Group 1 and Component Group 2.
+3j. Calculating qualification results
+A learner’s overall qualification grade for A Level in compared to the qualification level grade boundaries
+Ancient History will be calculated by adding together for the relevant exam series to determine the
+their marks from the two components taken to give learner’s overall qualification grade.
+their total weighted mark. This mark will then be
+Version 2.0 © Cambridge OCR 2025
+26 Cambridge OCR Level 3 Advanced GCE in Ancient History
+4 Admin: what you need to know
+The information in this section is designed to give an More information about the processes and deadlines
+overview of the processes involved in administering involved at each stage of the assessment cycle can be
+this qualification so that you can speak to your exams found in the Administration area of the OCR website.
+officer. All of the following processes require you to
+submit something to OCR by a specific deadline. OCR’s Admin overview is available on the OCR
+website at http://www.ocr.org.uk/administration
+4a. Pre-assessment
+Estimated entries
+Estimated entries are your best projection of the should be submitted to OCR by the specified
+number of learners who will be entered for a deadline. They are free and do not commit your
+qualification in a particular series. Estimated entries centre in any way.
+Final entries 4
+Final entries provide OCR with detailed data for each Final entries must be submitted to OCR by the
+learner, showing each assessment to be taken. It is published deadlines or late entry fees will apply.
+essential that you use the correct entry code,
+considering the relevant entry rules. All learners taking an A Level in Ancient History must
+be entered for one of the following entry options:
+Entry option Components
+Entry
+Title Code Title Assessment type
+code
+11 Sparta and the Greek World External Assessment
+Ancient History
+H407 A
+Option A
+21 Republic and Empire External Assessment
+11 Sparta and the Greek World External Assessment
+Ancient History
+H407 B
+Option B
+22 The Eleven Caesars External Assessment
+11 Sparta and the Greek World External Assessment
+Ancient History
+H407 C
+Option C
+23 Emperors and Empire External Assessment
+12 Athens and the Greek World External Assessment
+Ancient History
+H407 D
+Option D
+21 Republic and Empire External Assessment
+12 Athens and the Greek World External Assessment
+Ancient History
+H407 E
+Option E
+22 The Eleven Caesars External Assessment
+12 Athens and the Greek World External Assessment
+Ancient History
+H407 F
+Option F
+23 Emperors and Empire External Assessment
+13 Macedon and the Greek World External Assessment
+Ancient History
+H407 G
+Option G
+21 Republic and Empire External Assessment
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 27
+Entry option Components
+Entry
+Title Code Title Assessment type
+code
+13 Macedon and the Greek World External Assessment
+Ancient History
+H407 H
+Option H
+22 The Eleven Caesars External Assessment
+13 Macedon and the Greek World External Assessment
+Ancient History
+H407 J
+Option J
+23 Emperors and Empire External Assessment
+Collecting evidence of student performance to ensure resilience in the qualifications system
+Regulators have published guidance on collecting For more detailed information on collecting evidence
+4 evidence of student performance as part of long-term of student performance please visit our website at:
+contingency arrangements to improve the resilience https://www.ocr.org.uk/administrationgeneral-
+of the qualifications system. You should review and qualifications/assessment/
+consider this guidance when delivering this
+qualification to students at your centre.
+4b. Special consideration
+Special consideration is a post-assessment Detailed information about eligibility for special
+adjustment to marks or grades to reflect temporary consideration can be found in the JCQ publication
+injury, illness or other indisposition at the time the A guide to the special consideration process.
+assessment was taken.
+4c. External assessment arrangements
+Regulations governing examination arrangements are contained in the JCQ Instructions for conducting
+examinations.
+Head of centre annual declaration
+The Head of Centre is required to provide a Any failure by a centre to provide the Head of Centre
+declaration to the JCQ as part of the annual NCN Annual Declaration will result in your centre status
+update, conducted in the autumn term, to confirm being suspended and could lead to the withdrawal of
+that the centre is meeting all of the requirements our approval for you to operate as a centre.
+detailed in the specification.
+Private Candidates
+Private candidates may enter for OCR assessments. A private candidate may be a part-time student,
+someone taking a distance learning course, or
+A private candidate is someone who pursues a course someone being tutored privately. They must be
+of study independently but takes an examination based in the UK.
+or assessment at an approved examination centre.
+Version 2.0 © Cambridge OCR 2025
+28 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Private candidates need to contact OCR approved arrangement is made early in the course.
+centres to establish whether they are prepared to
+host them as a private candidate. The centre may Further guidance for private candidates may be found
+charge for this facility and OCR recommends that the on the OCR website: http://www.ocr.org.uk
+4d. Results and certificates
+Grade Scale
+A Level qualifications are graded on the scale: A*, A, Unclassified (U). Only subjects in which grades A*
+B, C, D, E, where A* is the highest. Learners who to E are attained will be recorded on certificates.
+fail to reach the minimum standard for E will be
+Results
+4
+Results are released to centres and learners for The following supporting information will be available:
+information and to allow any queries to be resolved
+• raw mark grade boundaries for each component
+before certificates are issued.
+• weighted mark grade boundaries for the
+Centres will have access to the following results
+qualification.
+information for each learner:
+Until certificates are issued, results are deemed to be
+• the grade for the qualification
+provisional and may be subject to amendment.
+• the raw mark for each component
+• the total weighted mark for the qualification.
+4e. Post-results services
+A number of post-results services are available: • Missing and incomplete results – This service
+should be used if an individual subject result
+• Review of marking – If you are not happy with for a learner is missing, or the learner has been
+the outcome of a learner’s results, centres may omitted entirely from the results supplied.
+request a review of marking. Full details of the
+post-results services are provided on the OCR • Access to scripts – Centres can request access
+website. to marked scripts.
+4f. Malpractice
+Any breach of the regulations for the conduct of Detailed information on malpractice can be
+examinations and non-exam assessment work found in the JCQ publication Suspected Malpractice
+may constitute malpractice (which includes in Examinations and Assessments: Policies and
+maladministration) and must be reported to Procedures.
+OCR as soon as it is detected.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 29
+5 Appendices
+5a. Accessibility
+Reasonable adjustments and access arrangements The A Level qualification and subject criteria have
+allow learners with special educational needs, been reviewed in order to identify any feature which
+disabilities or temporary injuries to access the could disadvantage learners who share a protected
+assessment and show what they know and can do, Characteristic as defined by the Equality Act 2010.
+without changing the demands of the assessment. All reasonable steps have been taken to minimise any
+Applications for these should be made before the such disadvantage.
+examination series. Detailed information about
+eligibility for access arrangements can be found in
+the JCQ Access Arrangements and Reasonable
+Adjustments.
+5b. Overlap with other qualifications
+There is a small degree of overlap between this specification and the A Level in Classical Civilisation.
+5
+Version 2.0 © Cambridge OCR 2025
+30 Cambridge OCR Level 3 Advanced GCE in Ancient History
+5c. Ancient source material for the ‘Relations between Greek states and
+between Greek and non-Greek states, 492–404 BC’ period study
+Literary evidence
+LACTOR 1, The Athenian Empire (ISBN-13 978-0903625172)
+Andokides 3.29 (No. 61)
+Aristophanes, Akharnians 61–71 (No. 58); 524–539 (No. 99)
+Aristophanes, Peace 619–622 (No. 110); 639–648 (No. 202)
+Aristotle Politics 1284a38 (No. 84)
+Diodorus 11.46–47 (No. 19); 11.50 (No. 28); 12.2.1–2 (No. 52); 12 4.4–6; (No. 53); 12.38.2 (No. 113)
+Harpokration s.v. Attikois grammasin (No. 54)
+Plutarch, Aristeides 23 (No. 10); 24.1–5 (No. 20)
+Plutarch, Cimon 11–12.4 (No. 33); 13.4–5 (No. 51)
+Plutarch, Pericles 23.1–2 (No. 71); 28.1–3 (No. 89)
+OCR source booklet 5
+Plutarch, Pericles 30–31
+Herodotus, Histories (Penguin Classics) (ISBN-13: 978-0140449082)
+6.42–49; 6.94–117, 6.120–124
+7.1; 7.5–10h; 7.49–50; 7.102; 7.131–133; 7.138–139; 7.141–145; 7.151–152; 7.174–175; 7.207, 7.219–222;
+7.228.2
+8.1–3; 8.49–50; 8.56–63; 8.74; 8.94; 8.100–103; 8.143–144
+9.1–3; 9.6–8; 9.16–18; 9.40; 9.62–64; 9.71; 9.98–99; 9.105–106
+Thucydides, The History of the Peloponnesian War (Penguin Classics) (ISBN-13: 978-0140440393)
+1.23; 1.33; 1.35; 1.40–1.41; 1.44, 1.55–1.58; 1.60–1.61, 1.66–1.69; 1.75–1.77, 1.86–1.88; 1.89–1.118,
+1.121–1.122; 1.139–1.140
+2.8; 2.11; 2.13; 2.63; 2.65
+4.19–4.20; 4.40–4.41; 4.50, 4.80–4.81; 4.108; 4.117
+5.13–5.18; 5.25–5.26; 5.43
+6.8, 6.12–6.13, 6.15, 6.24, 6.31; 6.76, 6.82–6.83, 6.89–6.91
+7.18; 7.27–7.28
+8.2; 8.6; 8.9; 8.17–8.18; 8.29; 8.37; 8.52, 8.87
+Xenophon, History of My Times (Penguin Classics) (ISBN-13: 978-0140441758)
+1.4.1–7; 1.5.1–3; 1.6.6–11; 2.1.7–14; 2.1.20–32
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 31
+Archaeological evidence
+Serpent column
+LACTOR 1, The Athenian Empire (ISBN-13 978-0903625172)
+Chalkis Decree (No. 78)
+Thoudippos decree (No. 138)
+LACTOR 16, The Persian Empire from Cyrus II to Artaxerxes I (ISBN-13: 978-0903625288)
+Naqs-e Rustam inscription No. 1 and 2 (No. 48 and 103)
+Xerxes’ inscription (No. 63)
+Centres are free to study the sources from any translation.
+5
+Version 2.0 © Cambridge OCR 2025
+32 Cambridge OCR Level 3 Advanced GCE in Ancient History
+5d. Ancient source material for ‘The Society and Politics of Sparta,
+478–404 BC’ depth study
+Literary evidence
+LACTOR 1, The Athenian Empire (ISBN-13: 978-0903625172)
+Plutarch, Aristides 23 (No. 10)
+LACTOR 21, Sparta (ISBN-13: 978-0903625401)
+Alcman, 1–3 (A14–A16)
+Aelian, Miscellaneous History 12.43 (D31)
+Aristophanes, Lysistrata 79–84 (D66); 1241–1321 (G7)
+Aristotle, Politics, 2.9 (1269a29–1271b19) (D47, D27, D69, D54, D28, D18, D13, D1, D62, D98, D84, D55)
+Diodorus, 11.50 (E28); 11.63.1–4 (E63)
+Kritias, 81B37 in H. Diels & W. Kranz, Fragmente der Vorsokratiker (D40)
+Kritias, Governance of the Spartans, fr. 6, in Athenaios, Scholars at Dinner, 432d-433b /11.41 (D60)
+Myron of Priene, FGrH 106 F2 = Athenaios 14.74 (D41) 5
+Pausanias, Description of Greece 3.14.9–10 (D81)
+Phylarchos, FGrH 81 F43 in Athenaios, Scholars at Dinner 6.102 (D30)
+Plato, Alcibiades 1.122d-123b (E72)
+Plato, Laws 633b-c (C74)
+Plato, Protagoras 342d (D72)
+Plutarch, Agesilaos 1 (E82)
+Plutarch, Lycurgus 5.6 (D14); 6–10 (D48, D17, D57, D58, D63); 12–18 (D63, D49, D70, D71, D73, D76, D78,
+D80); 21–22 (D97, D90, D93–D95); 26 (D15); 28 (D44); 29.6 (F6); 30 (E76, D82)
+Plutarch, Lysander 17.1–17.2 & 17.4–17.5 (E75)
+Plutarch, Moralia 219D (Brasidas 4) = 190B (Brasidas 3) = 240C (Argileonis 1) (F33)
+Plutarch, Moralia 241F = Sayings of Spartan Women, ‘Unknown women’ 16 (F35)
+Sayings of the Spartans: Agis, 2–6 (F32); Gorgo 2 (F30.2), ‘Saying of Gorgo 6 = ‘Saying of Leonidas 2’ (F31.2)
+‘School of Aristotle’ Spartan Constitution, excerpted by Herakleides Lembos 373.10 Dilts (D43)
+Strabo, Geography 8.5.4 (D35 & H3)
+Tyrtaeus, 6 (A6), 10–12 (A7–A9)
+Xenophon, Constitution of the Spartans (D68, D74, D77, D79, D61, D50, D53, D19, D96, D12, D51, F1, D88,
+D89, D7, E70, D9)
+Xenophon, Hellenica 2.1.6–7 (E125); 2.1.13–14 (E126); 2.1.23–24 (E127); 2.1.27–28 (E128); 2.2.19–20
+(E144)
+LACTOR website
+Plutarch, Lysander 3–11, 16; https://www.cambridge.org/download_file/1064977
+Plutarch, Lycurgus 19–20, 24, 25, 27; https://www.cambridge.org/download_file/1064978
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 33
+Herodotus, Histories (Penguin Classics) (ISBN-13: 978-0140449082)
+5.75; 6.56–60; 7.3; 7.104.4; 7.228; 7.234.2; 8.3; 9.28
+Thucydides, The History of the Peloponnesian War (Penguin Classics) (ISBN-13: 978-0140440393)
+1.6; 1.10; 1.68–71; 1.79–87; 1.101–103; 1.119.1; 1.128–135;
+2.9.2; 2.25; 2.91–92;
+3.31; 3.79;
+4.8; 4.15–16; 4.23; 4.26; 4.33–35; 4.38; 4.80–81; 4.117;
+5.16–17; 5.23; 5.34; 5.57; 5.63–74;
+6.93;
+7.11–12;
+8.3.2; 8.5
+Archaeological evidence
+LACTOR 21, Sparta (ISBN-13: 978-0903625401)
+Spartan epitaph (IG 5.1.1124) (B43)
+5
+Bronze figurine of a woman, British Museum [BM: 1876,0510.1] (D64)
+Centres are free to study the sources from any translation, however where a passage is printed on a question
+paper it will be taken from the editions listed, with such modifications as seem appropriate to the examiners.
+Version 2.0 © Cambridge OCR 2025
+34 Cambridge OCR Level 3 Advanced GCE in Ancient History
+5e. Ancient source material for ‘The Culture and Politics of Athens,
+c.460–399 BC’ depth study
+Literary evidence
+Aristotle, The Athenian Constitution (Penguin Classics) (ISBN-13: 978-0140444315)
+23–28
+Thucydides, The History of the Peloponnesian War (Penguin Classics) (ISBN-13: 978-0140440393)
+2.34–2.46 (Pericles’ Funeral Oration)
+3.36–3.50 (Mytilene Debate)
+The Old Oligarch (Pseudo–Xenophon), Constitution of Athenians, LACTOR 2, trans R. Osborne
+(ISBN-13: 978-0903625318)
+Gorgias, Encomium of Helen, in The Greek Sophists, trans Dillon/Gergel, (ISBN-13: 978-0140436891)
+Plutarch, The Rise and Fall of Athens: Nine Greek Lives (Penguin Classics) (ISBN-13: 978-0140441024)
+5
+Pericles, 4–6, 11–16, 30–32, 36–37
+Nicias, 3.1–2, 11
+Alcibiades, 10, 16, 19, 20.2–4, 34
+Plato, Republic, trans. Lane, (ISBN-13: 978-0140455113)
+6.488–6.489; 6.493
+Plato, Apology, The Last Days of Socrates, trans. Tredennick, (ISBN-13: 978-0140449280)
+OCR Source booklet
+Aristophanes, Wasps 891–1008
+Aristophanes, Knights 147–395
+Aristophanes, Lysistrata and Other Plays, trans. Sommerstein, (ISBN-13: 9780140448146)
+Clouds lines 92–118, 365–381, 814–1302
+LACTOR 12: The Culture of Athens
+Aristophanes, Thesmophoriazusae 786–800, 830–842
+Aristotle, Rhetoric 1402b (CA404)
+Isocrates 5.117 (CA222)
+Pausanias 1.28.2 (CA358), 1.24.5, 7 (CA360)
+Plato, Gorgias 452d–e (CA399), 459b–c (CA400)
+Plato, Hippias Major 282b–e (CA214)
+Plato, Protagoras 316d–e (CA209)
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 35
+Xenophon, Memorabilia 1.1.16 (CA26), 2.2.2 (CA49), 1.6.13 (CA216), 1.1.3 (CA 258) 3.7.6 (CA35), 1.2.62
+(CA173)
+Xenophon, Poroi 2.1–2, 5
+Euripides, Hippolytus, in Three Plays trans. Vellacott, (ISBN-13: 978-0140440317)
+Archaeological evidence
+Buildings on the Acropolis and in the Athenian Agora built as part of the Periclean Building Programme; the
+Odeon of Pericles
+Temple at Sounion
+Centres are free to study the sources from any translation, however where a passage is printed on a question
+paper it will be taken from the editions listed, with such modifications as seem appropriate to the examiners.
+5
+Version 2.0 © Cambridge OCR 2025
+36 Cambridge OCR Level 3 Advanced GCE in Ancient History
+5f. Ancient source material for ‘Rise of Macedon, 359–323 BC’
+depth study
+Literary evidence
+Arrian, The Campaigns of Alexander, (Penguin Classics) (ISBN-13: 978-0140442533)
+1.7–1.8; 1.10–1.13; 1.16; 1.20–1.23; 1.29
+2.6–2.7; 2.12; 2.14–2.15
+3.8.7–10; 3.13–3.16; 3.18–3.21; 3.28.8–3.30.5
+4.7–4.14; 4.18–4.19
+5.25–5.29
+6.8–6.11.2; 6.12–6.13; 6.27; 6.29.9–30
+7.4; 7.6; 7.8–7.12; 7.14; 7.22–7.23; 7.25–7.26
+Curtius Rufus, The History of Alexander (Penguin Classics) (ISBN-13: 978-0140444124)
+5.6.1–8; 5.7.1–11
+7.5.28–35 5
+Demosthenes, Selected Speeches (Oxford World's Classics) (ISBN: 978-0199593774)
+2.6–8; 2.15–20; 5.20–25; 8.5–8, 8.11–15; 9.7–12; 9.32–35; 19.39–41
+Diodorus Siculus, The Library, Books 16–20 (Oxford World's Classics) (ISBN: 978-0198759881)
+Book 16, 1–4, 7.3, 8, 22.3, 34.3–5, 35, 38.1–2, 52.1–3, 53–55, 58.1–3, 59–60, 71–72.1, 74–77.1–2, 84–89,
+91–92
+OCR Source Booklet for H407/13
+Justin, Epitome of Trogus 8.1–6; 9.4–5
+Plutarch, The Age of Alexander: Nine Greek Lives, (Penguin Classics) (ISBN-13: 978-0140442861)
+Alexander 1; 7–16; 18; 23; 27–28; 45; 47–55; 59–62
+Archaeological evidence
+Gold coin of Philip (BM: 1911,0208.2)
+Porus Medallion (BM: 1887,0609.1)
+The Alexander Sarcophagus
+Silver tetradrachm minted by Lysimachus showing Alexander with horns, Zeus Ammon and Athena (BM:
+1919,0820.1)
+Silver tetradrachm minted by Ptolemy I showing Alexander with elephant scalp headdress (BM: 1987,0649.508)
+Centres are free to study the sources from any translation, however where a passage is printed on a question
+paper it will be taken from the editions listed, with such modifications as seem appropriate to the examiners.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 37
+5g. Ancient source material for ‘The Julio-Claudian emperors,
+31 BC–AD 68’ period study
+Literary evidence
+Suetonius, The Twelve Caesars, R. Graves Penguin (ISBN-13: 978-0140455168)
+Augustus, 17–23, 26–28, 30–31, 34–37, 39–40, 64–66, 93, 98–101
+Tiberius, 23–24, 26–27, 29–33, 36, 39–41, 47–48, 61–63, 65, 75
+Gaius, 13–14, 18–20, 22, 27–33, 37, 56–59
+Claudius, 10–14, 17–18, 20–22, 25, 29, 36, 44–45
+Nero, 10–11, 20–23, 26–27, 31–32, 34, 38, 40–49, 53
+Tacitus, The Annals of Imperial Rome (Penguin Classics) (ISBN-13: 978-0140440607)
+1.16–1.18; 1.21–1.25; 1.28–1.35; 1.38–1.43; 1.46–1.47; 1.49; 1.52; 1.61–1.62; 1.72; 2.52; 2.53; 2.55; 2.57;
+2.59–2.60; 2.69–2.71; 2.73; 3.20–3.21; 3.32; 3.50; 3.55; 3.65; 3.70; 3.73–3.74; 4.1–4.3; 4.20; 4.30–4.31;
+4.39–4.41; 4.74; 6.18–6.19; 11.24; 12.25–12.26; 12.41; 12.65–12.69; 14.1–14.16; 15.37–15.44;
+15.48–15.74
+5
+Dio, The Roman History: The Reign of Augustus (Penguin Classics) (ISBN-13: 978-0140444483)
+51:21; 52:4; 53:11–13, 16–17
+LACTOR 15: Dio: The Julio-Claudians (ISBN-13: 978-0903625210)
+58:4.1–4 (A3), 5 (A4), 6–7.3 (A5), 8.4–11 (A7); 59:3.1–5.5 (B3), 9.4–7 (B7), 16.1–11 (B12); 26.5–27.1 (B20),
+28.1–11 (B22), 29.1–30.3 (B23); 60:3.1.7 (C3), 6.1–7.4 (C5), 14.1–16.4 (C8), 17.8–18.4 (C10);
+63:22.1–26.1 (D6), 26.3–27.1 (D7), 27.2–29.3 (D8)
+LACTOR 17: The Age of Augustus (ISBN-13: 978-0903625364)
+Res Gestae Divi Augusti
+Tacitus, Annals, 1: 2.1–4.5, 6.1–15.3 (Section F); 4:37 (L16); 3:56 (H26); 3:29 (J34); 4:57 (J66); 6:10–11 (K7);
+12:23 (K10); 2:59 (M6); 3:24 (P16); 2:37 (T27).
+Velleius Paterculus, 2: 88.1–91.4, 93.1–100.1, 103.1–104.1, 121.1–123.2
+Virgil, Aeneid 1.257–1.296 (G36); 6.752–6.806 (G37); 8.671–8.731 (G38)
+Horace, Odes 1.2 (G21); Odes 1.37 (G24); Odes 3.6 (G28); Odes 4.15 (G45)
+Ovid, Fasti 1.1–14 (G49); 2.55–66 (L4); 5.140–158 (L13), 2.119–144 (H38)
+Macrobius, Saturnalia 1.11.21 (P9), 2.4.23 (T26)
+Strabo, Geography 7.7.6 (H9), 5.3.7 (K6), 17.3.25 (M2), 4.3.2 (M18), 3.2.15 (M24), 5.3.8 (T9)
+Suetonius, Tiberius 8.1 (PIO)
+Pliny, Natural History 7.147–150 (P1), 36.121 (T8)
+Younger Seneca On Clemency, 1.9.2–1.9.12 (P11)
+LACTOR 19: Tiberius to Nero (ISBN-13: 978-0903625342)
+Velleius Paterculus, 2:125.1–130.5 (C2–7)
+Josephus, Jewish Antiquities 19.1–3 (E2), 4–11 (E3), 17–27 (E6), 100–114 (E16), 158–164 (E21), 201–211
+Version 2.0 © Cambridge OCR 2025
+38 Cambridge OCR Level 3 Advanced GCE in Ancient History
+(E24), 227–236 (E26), 254–262 (E29), 20.148, 151–2 (P9a)
+Pliny, Natural History 36.124 (K21), 36.122–3 (K24), 36.111 (K42), 34.45–46 (K44), 33.134 (S25)
+Younger Seneca, On Anger 3.19.1–5 (T6), On Benefits 3.26.1–2 (T1), On Consolation to Polybius 17.3–5
+(J22e), On the Shortness of Life 18.5–6 (K12), On Firmness of Purpose 18.3 (P6b)
+Archaeological evidence
+LACTOR 17: The Age of Augustus (ISBN-13: 978-0903625364)
+aurei (H18, H21, H33, J41, N15, N24, J58); denarii (H27, N31, L1, L10, N5); as (J24).
+Inscriptions: Triumphal Arch, Rome (H17); Inscription from Nikopolis (H10); Augustan Lares (L12); altar to
+numen of Augustus (L17); laudatio Agrippae (T14); Edicts of Cyrene (M60)
+LACTOR 19: Tiberius to Nero (ISBN-13: 978-0903625342)
+Coins: aurei (J3b, J12b, J21b, J30a, L25, N22); denarii (J7n, P13b, P13f); sestertii (K4, N51, Q14); as (Q13);
+dupondius (K13), quadrans (J19h).
+Inscriptions: Claudius’ harbour (K16), Procurator of Ostia (K17), Emperor Worship at Gytheion (L4), Genius
+of Tiberius, Rome (L6), letter of Claudius to the Alexandrians (L17), Pomerium extension (N24)
+5
+Centres are free to study the sources from any translation.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 39
+5h. Ancient source material for ‘The Breakdown of the Late Republic,
+88–31 BC’ depth study
+Literary evidence
+LACTOR 3: A Short Guide to Electioneering (ISBN: 0903625229)
+Q. Cicero, Commentariolum Petitionis 13–24
+LACTOR 7: Late Republican Rome, 88–31 BC (ISBN: 978-0903625418)
+Caesar, The Civil War, 1.1–1.5; 1.7 (B142)
+Cicero, de lege agraria II.7–10 (L5)
+Cicero, in Cat II.17–23 (B64c)
+Cicero, in Cat IV.7–10 (B76a), 20–22 (B76b)
+Cicero, in Verrem I.1.35–47 (G42)
+Cicero, pro Sestio 96–105 (L7)
+Sallust, Histories [2.82] {2.98M} (B37), [3.34] {3.48M} (B33)
+5 Cicero, Selected Letters, trans. D. R. Shackleton Bailey, Penguin (ISBN: 978-0140444582)
+Cicero, Letters
+No 3 (ad Att 1.1)
+No 10 (ad Att 1.16)
+No 15 (ad Att 2.19)
+No 16 (ad Att 2.21)
+No 22 (ad Att 4.3)
+No 25 (ad Quint frat 2.3)
+No 59 (ad Att 7.6)
+No 67 (ad Att 8.13)
+No 68 (ad Att C 9.7C)
+No 113 (ad Att 14.1)
+No 114 (ad Att 14.12)
+No 118 (ad Att 15.11)
+OCR source booklet
+Appian, The Civil Wars, 3.43–3.51, 3.74–3.75, 3.80–3.81, 3.86–3.94, 5.12–5.13; 5.127–5.132
+Cicero, Second Philippic 88–97
+Sallust, The Catiline Conspiracy 10–16, 18–19, 20–21, 33–39, 51–54
+Plutarch, Antony 54–56
+Plutarch, Sulla 7–10, 31
+Plutarch, Pompey 14–15, 20, 47–48
+Plutarch, Caesar 6–7, 13–14, 29–32, 57–58
+Suetonius, Deified Julius 28–33, 38–43
+Suetonius, Deified Augustus 26–28.
+Version 2.0 © Cambridge OCR 2025
+40 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Archaeological evidence
+Denarius of Sulla 84–83 BC (Ghey, Leins & Crawford 2010 359.2.1)
+Denarius of Sulla 82 BC (Ghey, Leins & Crawford 2010 367.3.1)
+Denarius of Caesar 48–47 BC (Ghey, Leins & Crawford 2010 452.4.1)
+Denarius of Caesar 47–46 BC (Ghey, Leins & Crawford 2010 458.1.1)
+Denarius of Brutus 43–42 BC (Ghey, Leins & Crawford 2010 508.3.1)
+Denarius of Antony 43 BC (Ghey, Leins & Crawford 2010 488.1.1)
+Denarius of Octavian and Antony 39 BC (Ghey, Leins & Crawford 2010 529.2.1)
+Denarius of Octavian with Agrippa 38 BC (Ghey, Leins & Crawford 2010 534.3.1)
+Centres are free to study the sources from any translation, however where a passage is printed on a question
+paper it will be taken from the editions listed, with such modifications as seem appropriate to the examiners.
+5
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 41
+5i. Ancient source material for ‘The Flavians, AD 68–96’ depth study
+Literary evidence
+Suetonius, The Twelve Caesars, R. Graves Penguin (ISBN-13: 978-0140455168)
+Galba 11–17, 19, 22
+Otho 5–9
+Vitellius 8, 10–12, 15
+Vespasian 1, 4–19, 23–25
+Titus 4–11
+Domitian 1–17, 23
+Tacitus, Histories, K. Wellesley, Penguin (ISBN-13: 978-0140449648)
+1.1–1.14; 1.18–1.22; 1.27–1.28; 1.33–1.36; 1.41–1.43; 1.46; 1.50–1.53; 1.62; 1.74–1.78; 1.86; 1.89
+2.1–2.2; 2.4–2.7; 2.74–2.75; 2.79; 2.83–2.86; 2.90–2.91; 2.100–2.101
+3.47–3.48; 3.71; 3.84–3.86
+5
+4.2–4.4; 4.10; 4.68; 4.80–4.82; 4.85–4.86
+5.1
+LACTOR 20: The Flavians, (ISBN-13: 978-0903625388)
+Chronicle of 354 part 16 (K2)
+Dio Cassius 66.2, 3.4, 8–10, 12–13, 14.3–5, 15.1, 16.3–4, 18–20, 24–26.4 (C2–3, C8–10, C12–15, C16b,
+C18–20, C24–26); 66.10.1–2 (H24)
+Dio Cassius 67.1–4, 6, 8–11, 12–17 (D1–4, D6, D8–11, D12–17); 67.4.7 (T10)
+Epitome de Caesaribus 11.6–8 (J10g)
+Josephus Jewish War 7.119–125, 148–152 (E6b, E6f), 158–62 (K64); 4.592–600 (H16), 4.601–607 (H17);
+7.63–74 (H22)
+Juvenal Satire 4. 72–135 (G1)
+Martial Epigram 9.1 (K54); 8.49 (N49)
+Plutarch Life of Publicola 15 (K27); Life of Aemilius Paullus 25.3–4 (P8d)
+Silius Italicus, Punic Wars 3.593–629 (H62)
+Statius Silvae, 3.3.85–110 (S9a)
+Tacitus Histories 3.74 (L50); 4.5–6 (P1d); 4.38 and 4.52 (K82)
+Tacitus, Annals 3.55 (J4j); 11.11.1 (L17)
+Tacitus, Agricola 2.1–2 (P11a), 2.3–3.2 (T23), 39.1–3 (T25); 40 (T26), 41.2–3 (N36), 42.1 (P7), 43.3–4 (T29),
+44.5–45.2 (P11b)
+Orosius Histories against the Pagans 7.3.7 (H42)
+Version 2.0 © Cambridge OCR 2025
+42 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Archaeological evidence
+LACTOR 20: The Flavians, (ISBN-13: 978-0903625388)
+Inscription AD 69/70 (ILS 244) (H20)
+Inscription from Rome (MW 51) (H56)
+Inscription AD 71 and 81 (ILS 218) (K74)
+Aureus of AD 69/70 (H25)
+Denarius of AD 69 (H27)
+As of AD 70 (H28)
+Aureus of AD 70 (H35)
+Aureus of AD 71 (H41)
+Sestertius of AD 71 (H46)
+Sestertius of AD 72 (H51)
+Aureus (H60)
+Sestertius of AD 81/2 (J11c)
+Aureus of AD 82/3 (J13a)
+5
+As of AD 84 (K10)
+Sestertius of AD 95/6 (K23)
+Sestertius of AD 95/6 (K35)
+Aureus of Septimius Severus AD 201–210 (K51)
+Dupondius of AD 85 (K85)
+Denarius of AD 71 (L1)
+As of AD 88 (L20)
+Sestertius of AD 71 (L24)
+Sestertius of AD 85 (N25)
+Centres are free to study the sources from any translation, however where a passage is printed on a question
+paper it will be taken from the editions listed, with such modifications as seem appropriate to the examiners.
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 43
+5j. Ancient source material for ‘Ruling Roman Britain, AD 43–128’
+depth study
+Literary evidence
+LACTOR 11: Literary Sources for Roman Britain (ISBN-13: 978-0903625357)
+Dio, 60.19.1–60.22.2, 60.23.1–60.23.6, 60.30.2, 62.1.1–62.3.4, 62.7.1–62.9.2, 62.12.1–62.12.6
+Josephus, Jewish War 3.4–3.5
+Pomponius Mela, Geography 3.49–53 (E1)
+SHA (Scriptores Historiae Augustae), Hadrian 5.1–5.2, 11.2
+Strabo, Geography 4.5.1–2, 4.5.4
+Suetonius, Caligula, 44.2, 46.1
+Suetonius, Claudius, 13.2, 17.1–17.3, 21.6, 24.3
+Suetonius, Nero, 18, 39.1
+Suetonius, Vespasian, 4.1–4.2
+5 Suetonius, Titus, 4.1
+Tacitus, Annals 11.19, 12.23, 12.31–12.40, 14.29–14.39
+Tacitus, Histories 1.2, 1.9, 1.59–1.60, 2.65, 2.66, 3.44–3.45
+Tacitus, Agricola and Germania (ISBN-13: 978-0140455403)
+Agricola
+Suetonius, The Twelve Caesars, R. Graves Penguin (ISBN-13: 978-0140455168):
+Domitian, 12.1
+LACTOR 19: Tiberius to Nero (ISBN-13: 978-0903625342)
+Josephus, Jewish War 2.378 (N1i)
+Archaeological evidence
+LACTOR 4: Inscriptions of Roman Britain
+Gold stater of Verica (Mack 125)
+Gold stater of Cunobelinus (Mack 206))
+Bronze coin of Cunobelius (Mack 246)
+Aureus of Claudius (RIC Claudius 9 = BMC Claudius 32)
+Sestertius of Hadrian (RIC Hadrian 845)
+Longinus Sdapeze (RIB 201)
+Dannicus (RIB 108)
+Sex. Valerius Genialis (RIB 109)
+Rufus Sita (RIB 121)
+M Favonius Facilis (RIB 200)
+Version 2.0 © Cambridge OCR 2025
+44 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Claudius to the athletes (British Museum collection 111)
+Julius Classicanus, procurator (RIB 12)
+Arch of Claudius (ILS 216))
+Mendip lead pig (RIB 2.1.2404.1)
+Chester lead water-pipe (RIB 2.3.2434.1)
+Verulamium forum inscription (JRS 46 146–7)
+Demetrius of York (RIB 662–3)
+Caerleon stone of Trajan (RIB 330)
+Commemorative tablet from York (RIB 665)
+Altars to Neptune and Oceanus (RIB 1319 and 1320)
+Milecastle 38 building inscription (RIB 1638)
+Halton Chesters dedication slab (RIB 1427)
+Chichester dedication to Nero (RIB 92)
+Chichester dedication slab (RIB 91)
+Gaius Saufeius tombstone (RIB 255)
+M. Petronius tombstone (RIB 294) 5
+As of Hadrian (RIC Hadrian 577a)
+Benwell classis Britannica building inscription (RIB 1427)
+A. Platorius Nepos (ILS 1052)
+A speculator at London (RIB 19))
+A beneficiarius at Wroxeter
+Wroxeter forum dedication (RIB 288)
+An auxiliary standard-bearer (RIB 1172)
+Invitation to a birthday party (Tab. Vindol 2.291)
+T. Valerius Pudens (RIB 258)
+C. Calventius Celer (RIB 475)
+Titus Pontius Sabinus (ILS 2726))
+Vindolanda tablet military strength report (Tab. Vindol. 2.154)
+Vindolanda tablet about British cavalry (Tab. Vindol. 2.164)
+Stanley Ireland, Roman Britain, a sourcebook (ISBN-13: 978-0415131346)
+Vindolanda tablet of accounts for journey from Vindolanda to York (Bowman & Thomas 185)
+Archaeological sites
+Learners must be prepared to answer commentary questions on plans or reconstructions of the archaeological
+sites listed below.
+Guy de la Bedoyere, Roman Britain: A New History, (ISBN-13: 978-0500291146)
+Fishbourne Palace reconstruction (p.200)
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 45
+H.H. Scullard, Roman Britain: Outpost of the Empire, (ISBN-13: 978-0500274057)
+Colchester (C1st town and temple to Claudius) (Plan of town and reconstruction of temple to Claudius
+Inchtuthil fort plan
+Silchester baths plan
+Vindolanda fort (Plan of fort available at Vindolanda Tablets Online website)
+Centres are free to study the sources from any translation, however where a passage is printed on a question paper
+it will be taken from the editions listed, with such modifications as seem appropriate to the examiners.
+Version 2.0 © Cambridge OCR 2025
+46 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Summary of updates
+Date Version Section Title of section Change
+April 2018 1.1 Multiple Changes to generic
+wording and OCR website
+links throughout the
+specification. No changes
+have been made to any
+assessment requirements
+August 2018 1.2 Change of prescribed
+editions for the ancient
+sources
+5d Ancient source material
+for ‘Politics and Society of
+Sparta, 478–404 BC’ depth
+study
+5h Ancient source material
+for ‘The Breakdown of the
+Late Republic, 88–31 BC’
+depth study
+December 1.3 1e How do I find out more information? Remove link to Social
+2019 forum and replace with
+link for Online Support
+Centre
+February 1.4 Cover Update to specification
+2021 covers to meet digital
+accessibility standards
+August 2022 1.5 5h Change of prescribed
+editions for the ancient
+sources
+Ancient source material
+for ‘The Breakdown of the
+Late Republic, 88–31 BC’
+depth study
+December 1.6 3c Total qualification time Insertion of new section
+2022
+February 1.7 3d, 3e Qualification availability, Language Inclusion of disclaimer
+2024 regarding availability and
+language
+4a Pre-assessment Update to include
+resilience guidance
+Checklist Inclusion of Teach
+Cambridge
+Version 2.0 © Cambridge OCR 2025
+Cambridge OCR Level 3 Advanced GCE in Ancient History 47
+Date Version Section Title of section Change
+September 1.8 Multiple Clarity of names of the
+2025 depth studies
+5d Source Material Removed link to LACTOR
+website and replaced with
+links to documents
+5f Source Material Confirming prescribed
+editions for the
+Demosthenes and
+Diodorus Siculus texts and
+creation of source booklet
+for Justin, Epitome of
+Trogus.
+5g and 5j Source Material Updating ISBN numbers
+November 2.0 Covers, Updated covers, footers
+2025 page and certificate title to
+footers, reflect the new
+section Cambridge OCR brand.
+1a and 4d Inside cover includes
+statement: 'About our
+new name'. Minor
+rewording in generic
+section 1a.
+Version 2.0 © Cambridge OCR 2025
+48 Cambridge OCR Level 3 Advanced GCE in Ancient History
+Contact the team at:
+01223 553998
+classics@ocr.org.uk
+ocr.org.uk
+To stay up to date with all the relevant news about our qualifications, register
+for email updates at ocr.org.uk/updates
+Visit our Online Support Centre at support.ocr.org.uk
+Sign up for Teach Cambridge to access your planning, teaching and
+assessment support material.
+Cambridge OCR is part of Cambridge University Press & Assessment, a department of the University of Cambridge.
+Cambridge OCR is a Company Limited by Guarantee and an exempt charity. Registered in England.
+Registered office: The Triangle Building, Shaftesbury Road, Cambridge, CB2 8EA. Registered company number: 3484466.
+We operate academic and vocational qualifications regulated by Ofqual, Qualifications Wales and CCEA as listed in their qualifications registers.
+We are committed to providing a fully accessible experience across all our products, platforms, and websites. Find out more about our accessibility standards.
+© Cambridge OCR 2025. All rights reserved. We retain the copyright on all our publications. However, our registered centres are permitted to copy and distribute our material for their
+own internal use, in line with any specific restrictions detailed in the publication. Find out more about our copyright policies.
+We update our publications regularly so please check you have the most up-to-date version.
+We cannot be held responsible for the persistence or accuracy of URLs for external or third-party internet websites referred to in this publication and do not guarantee that any
+content on such websites is, or will remain, accurate or appropriate.
+When we update our specifications, you’ll see a new version number and a summary of the changes. While we do our best to reflect these changes in all associated resources on
+Teach Cambridge, if you notice any discrepancies, please refer to the latest specification on our website and let us know.
+Our resources do not represent any teaching method we expect you to use. We cannot be held responsible for any errors or omissions in our resources.

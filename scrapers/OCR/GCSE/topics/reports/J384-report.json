@@ -1,0 +1,74 @@
+{
+  "subject_code": "J384",
+  "subject_name": "Geography B (Geography for Enquiring Minds)",
+  "url": "https://www.ocr.org.uk/Images/737448-specification-accredited-gcse-geography-b-j384.pdf",
+  "start_time": "2025-11-20T13:47:26.793686",
+  "success": true,
+  "topics_extracted": 76,
+  "levels": {
+    "0": 1,
+    "1": 3,
+    "2": 9,
+    "3": 18,
+    "4": 45
+  },
+  "issues": [
+    "Missing options extraction",
+    "Tiers not handled correctly"
+  ],
+  "warnings": [
+    "Potential missing topics",
+    "Possible structure misalignment"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [
+        "Our Natural World (01)",
+        "People and Society (02)",
+        "Geographical Exploration (03)"
+      ],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Our Natural World",
+        "People and Society",
+        "Geographical Exploration"
+      ],
+      "organization": "The content is organized into components with topics and sub-questions.",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "Our Natural World (01)",
+        "People and Society (02)",
+        "Geographical Exploration (03)"
+      ],
+      "content_mapping": {
+        "Our Natural World (01)": "Global Hazards, Changing Climate, Distinctive Landscapes, Sustaining Ecosystems, Fieldwork, Geographical Skills",
+        "People and Society (02)": "Urban Futures, Dynamic Development, UK in the 21st Century, Resource Reliance, Fieldwork, Geographical Skills",
+        "Geographical Exploration (03)": "Geographical Skills, Decision Making Exercise"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the main components and their associated topics and sub-questions. Ensure to capture the assessment structure and content mapping for each written paper.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:47:26.793699"
+}

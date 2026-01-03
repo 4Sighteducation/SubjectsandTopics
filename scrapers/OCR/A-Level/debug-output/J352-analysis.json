@@ -1,0 +1,54 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": true,
+        "compulsory": [
+            "one studied modern prose or drama text",
+            "one studied 19th century prose text",
+            "one thematic poetry cluster from the OCR Poetry Anthology",
+            "one studied Shakespeare play"
+        ],
+        "optional": [
+            "Choice of one modern prose or drama text from a list",
+            "Choice of one poetry cluster from the OCR Poetry Anthology: Love and Relationships, Conflict, and Youth and Age"
+        ]
+    },
+    "texts": {
+        "has_texts": true,
+        "text_locations": [
+            "Section 2c: Content of Exploring modern and literary heritage texts (01)",
+            "Section A: Exploring modern and literary heritage texts (01)",
+            "Section B: Exploring modern and literary heritage texts (01)"
+        ],
+        "extraction_strategy": "separate_hierarchy"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": [
+            "Exploring modern and literary heritage texts",
+            "Exploring poetry and Shakespeare"
+        ],
+        "organization": "The content is organized into components with specific texts and themes to be studied.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "Exploring modern and literary heritage texts (01)",
+            "Exploring poetry and Shakespeare (02)"
+        ],
+        "content_mapping": {
+            "Exploring modern and literary heritage texts (01)": "one studied modern prose or drama text, one studied 19th century prose text",
+            "Exploring poetry and Shakespeare (02)": "one thematic poetry cluster from the OCR Poetry Anthology, one studied Shakespeare play"
+        },
+        "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the components and their respective texts and themes. Pay attention to the optional choices within the components."
+}
+```

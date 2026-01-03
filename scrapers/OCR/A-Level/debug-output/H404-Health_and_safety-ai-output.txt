@@ -1,0 +1,16 @@
+Certainly! Here is the extracted content from the provided section, renumbered starting from 9:
+
+```
+9. Health and safety
+9.1 Experiencing learning through practical activity, (both designing and technical principles) is fundamental to the delivery of this specification, as is the importance of the contextual relevance of design and technology practice.
+9.1.1 Learners should, as a result, be given increased autonomy to make decisions in order to justify their reasoning when solving problems in their own way.
+9.1.1.1 At the centre of any iterative process is the need to develop critical-creative thinking skills to manage and organise opportunities that are identified.
+9.1.1.2 This learning will equip learners with life-long skills of problem spotting and problem solving, and enable them to apply their learning to different social, moral and commercial contexts.
+9.1.2 The enquiry nature of this specification’s content will encourage learners to make links between topics and to explore, create and evaluate a range of outcomes.
+9.2 It encourages a creative approach supported by subject knowledge in order to design and make prototypes that solve authentic, real-world problems and have real potential to become viable products.
+9.2.1 The ‘Iterative Design Project’ is a substantial design, make and evaluate project that allows learners to reposition or develop further an existing product in relation to a given context.
+9.2.1.1 The experience of this will be supported by and support their learning for the ‘Principles’ written exam.
+9.2.2 Design and technology requires learners to apply mathematical skills and understand related science.
+9.2.2.1 This reflects the importance of Design and Technology as a pivotal STEM subject.
+9.2.2.2 This specification along with prior learning in Design and Technology and other subjects offers the opportunity for learners to build on and apply their learning at Key Stage 4 and Key Stage 5.
+```

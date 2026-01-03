@@ -1,0 +1,37 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": false,
+        "compulsory": ["Living in the UK Today (01)", "The World Around Us (02)", "Geographical Skills (03)"],
+        "optional": []
+    },
+    "texts": {
+        "has_texts": false,
+        "text_locations": [],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": ["Living in the UK Today", "The World Around Us", "Geographical Skills"],
+        "organization": "The content is organized into three main components, each focusing on different geographical themes and skills.",
+        "expected_depth": 3
+    },
+    "assessment": {
+        "written_papers": ["Living in the UK Today (01)", "The World Around Us (02)", "Geographical Skills (03)"],
+        "content_mapping": {
+            "Living in the UK Today (01)": "Landscapes of the UK, People of the UK, UK Environmental Challenges",
+            "The World Around Us (02)": "Ecosystems of the Planet, People of the Planet, Environmental threats to our Planet",
+            "Geographical Skills (03)": "Geographical Skills, Fieldwork Assessment"
+        },
+        "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the three main components and their respective themes and skills. Ensure to capture the structure of key ideas, content, and scale."
+}
+```

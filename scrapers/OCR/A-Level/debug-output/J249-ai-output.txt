@@ -1,0 +1,89 @@
+0 Foundation Tier
+1 Content Overview
+1.1 Topic P1: Matter
+1.1.1 P1.1 The particle model
+1.1.2 P1.2 Changes of state
+1.1.3 P1.3 Pressure
+1.2 Topic P2: Forces
+1.2.1 P2.1 Motion
+1.2.2 P2.2 Newton’s laws
+1.2.3 P2.3 Forces in action
+1.3 Topic P3: Electricity
+1.3.1 P3.1 Static and charge
+1.3.2 P3.2 Simple circuits
+1.4 Topic P4: Magnetism and magnetic fields
+1.4.1 P4.1 Magnets and magnetic fields
+1.4.2 P4.2 Uses of magnetism
+1.5 Topic P5: Waves in matter
+1.5.1 P5.1 Wave behaviour
+1.5.2 P5.2 The electromagnetic spectrum
+1.5.3 P5.3 Wave interaction
+1.6 Topic P6: Radioactivity
+1.6.1 P6.1 Radioactive emissions
+1.6.2 P6.2 Uses and hazards
+1.7 Topic P7: Energy
+1.7.1 P7.1 Work done
+1.7.2 P7.2 Power and efficiency
+1.8 Topic P8: Global challenges
+1.8.1 P8.1 Physics on the move
+1.8.2 P8.2 Powering Earth
+1.8.3 P8.3 Beyond Earth
+1.9 Topic P9: Practical skills
+1.9.1 Practical Activity Group (PAG) P1: Materials
+1.9.2 Practical Activity Group (PAG) P2: Forces
+1.9.3 Practical Activity Group (PAG) P3: Motion
+1.9.4 Practical Activity Group (PAG) P4: Measuring waves
+1.9.5 Practical Activity Group (PAG) P5: Energy
+1.9.6 Practical Activity Group (PAG) P6: Circuit components
+1.9.7 Practical Activity Group (PAG) P7: Series and parallel circuits
+1.9.8 Practical Activity Group (PAG) P8: Interactions of waves
+2 Assessment Overview
+2.1 Paper 1
+2.1.1 Content from Topics P1-P4 and P9
+2.2 Paper 2
+2.2.1 Content from Topics P5-P8, with assumed knowledge of Topics P1-P4 and P9
+
+0 Higher Tier
+1 Content Overview
+1.1 Topic P1: Matter
+1.1.1 P1.1 The particle model
+1.1.2 P1.2 Changes of state
+1.1.3 P1.3 Pressure
+1.2 Topic P2: Forces
+1.2.1 P2.1 Motion
+1.2.2 P2.2 Newton’s laws
+1.2.3 P2.3 Forces in action
+1.3 Topic P3: Electricity
+1.3.1 P3.1 Static and charge
+1.3.2 P3.2 Simple circuits
+1.4 Topic P4: Magnetism and magnetic fields
+1.4.1 P4.1 Magnets and magnetic fields
+1.4.2 P4.2 Uses of magnetism
+1.5 Topic P5: Waves in matter
+1.5.1 P5.1 Wave behaviour
+1.5.2 P5.2 The electromagnetic spectrum
+1.5.3 P5.3 Wave interaction
+1.6 Topic P6: Radioactivity
+1.6.1 P6.1 Radioactive emissions
+1.6.2 P6.2 Uses and hazards
+1.7 Topic P7: Energy
+1.7.1 P7.1 Work done
+1.7.2 P7.2 Power and efficiency
+1.8 Topic P8: Global challenges
+1.8.1 P8.1 Physics on the move
+1.8.2 P8.2 Powering Earth
+1.8.3 P8.3 Beyond Earth
+1.9 Topic P9: Practical skills
+1.9.1 Practical Activity Group (PAG) P1: Materials
+1.9.2 Practical Activity Group (PAG) P2: Forces
+1.9.3 Practical Activity Group (PAG) P3: Motion
+1.9.4 Practical Activity Group (PAG) P4: Measuring waves
+1.9.5 Practical Activity Group (PAG) P5: Energy
+1.9.6 Practical Activity Group (PAG) P6: Circuit components
+1.9.7 Practical Activity Group (PAG) P7: Series and parallel circuits
+1.9.8 Practical Activity Group (PAG) P8: Interactions of waves
+2 Assessment Overview
+2.1 Paper 3
+2.1.1 Content from Topics P1-P4 and P9
+2.2 Paper 4
+2.2.1 Content from Topics P5-P8, with assumed knowledge of Topics P1-P4 and P9

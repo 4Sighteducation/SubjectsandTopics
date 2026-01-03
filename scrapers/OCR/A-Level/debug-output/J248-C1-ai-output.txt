@@ -1,0 +1,17 @@
+1.1 C1.1 The particle model
+1.1.1 C1.1a describe the main features of the particle model in terms of states of matter and change of state
+1.1.2 C1.1b explain in terms of the particle model the distinction between physical changes and chemical changes
+1.1.3 C1.1c explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres (e.g. like bowling balls)
+1.1.3.1 that it does not take into account the forces of attraction between particles
+1.1.3.2 the size of particles and the space between them
+
+1.2 C1.2 Atomic structure
+1.2.1 C1.2a describe how and why the atomic model has changed over time
+1.2.1.1 the models of Dalton, Thomson, Rutherford, Bohr, Geiger and Marsden
+1.2.2 C1.2b describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+1.2.3 C1.2c recall the typical size (order of magnitude) of atoms and small molecules
+1.2.3.1 the concept that typical atomic radii and bond length are in the order of 10–10m
+1.2.4 C1.2d recall relative charges and approximate relative masses of protons, neutrons and electrons
+1.2.5 C1.2e calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+1.2.5.1 definitions of an ion, atomic number, mass number and an isotope
+1.2.5.2 the standard notation to represent these

@@ -1,0 +1,231 @@
+{
+  "batch_name": "OCR A-Level Topics Batch",
+  "start_time": "2025-11-17T11:06:15.013432",
+  "end_time": "2025-11-17T11:22:47.770665",
+  "elapsed_seconds": 992.7567629814148,
+  "elapsed_formatted": "16.5 minutes",
+  "summary": {
+    "total": 26,
+    "success": 17,
+    "failed": 9,
+    "total_topics": 1032
+  },
+  "results": [
+    {
+      "subject": "AL-AncientHistory",
+      "name": "Ancient History",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 14.771256685256958
+    },
+    {
+      "subject": "AL-ArtDesign",
+      "name": "Art and Design",
+      "status": "success",
+      "topics": 4,
+      "time_seconds": 30.329554796218872
+    },
+    {
+      "subject": "AL-BiologyB",
+      "name": "Biology B (Advancing Biology)",
+      "status": "success",
+      "topics": 260,
+      "time_seconds": 134.27058386802673
+    },
+    {
+      "subject": "AL-Business",
+      "name": "Business",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 18.510902166366577
+    },
+    {
+      "subject": "AL-Business2026",
+      "name": "Business (2026+)",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 19.120744228363037
+    },
+    {
+      "subject": "AL-ChemistryA",
+      "name": "Chemistry A",
+      "status": "success",
+      "topics": 200,
+      "time_seconds": 107.96140789985657
+    },
+    {
+      "subject": "AL-ChemistryB",
+      "name": "Chemistry B (Salters)",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 15.486082792282104
+    },
+    {
+      "subject": "AL-ClassicalCivilisation",
+      "name": "Classical Civilisation",
+      "status": "success",
+      "topics": 5,
+      "time_seconds": 16.78107213973999
+    },
+    {
+      "subject": "AL-ComputerScience",
+      "name": "Computer Science",
+      "status": "success",
+      "topics": 11,
+      "time_seconds": 29.474936485290527
+    },
+    {
+      "subject": "AL-DramaTheatre",
+      "name": "Drama and Theatre",
+      "status": "success",
+      "topics": 21,
+      "time_seconds": 27.053072690963745
+    },
+    {
+      "subject": "AL-Economics",
+      "name": "Economics",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 15.237793207168579
+    },
+    {
+      "subject": "AL-EnglishLanguage",
+      "name": "English Language",
+      "status": "success",
+      "topics": 11,
+      "time_seconds": 23.003553867340088
+    },
+    {
+      "subject": "AL-EnglishLiterature",
+      "name": "English Literature",
+      "status": "success",
+      "topics": 16,
+      "time_seconds": 18.13335394859314
+    },
+    {
+      "subject": "AL-Geography",
+      "name": "Geography",
+      "status": "success",
+      "topics": 18,
+      "time_seconds": 30.768266677856445
+    },
+    {
+      "subject": "AL-Law",
+      "name": "Law",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 14.855699300765991
+    },
+    {
+      "subject": "AL-MathematicsA",
+      "name": "Mathematics A",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 15.529541969299316
+    },
+    {
+      "subject": "AL-FurtherMathematicsA",
+      "name": "Further Mathematics A",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 14.912889242172241
+    },
+    {
+      "subject": "AL-MediaStudies",
+      "name": "Media Studies",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 15.127737283706665
+    },
+    {
+      "subject": "AL-PhysicalEducation",
+      "name": "Physical Education",
+      "status": "success",
+      "topics": 13,
+      "time_seconds": 17.526921272277832
+    },
+    {
+      "subject": "AL-PhysicsA",
+      "name": "Physics A",
+      "status": "success",
+      "topics": 380,
+      "time_seconds": 165.50340175628662
+    },
+    {
+      "subject": "AL-PhysicsB",
+      "name": "Physics B (Advancing Physics)",
+      "status": "success",
+      "topics": 25,
+      "time_seconds": 19.655481815338135
+    },
+    {
+      "subject": "AL-Psychology",
+      "name": "Psychology",
+      "status": "success",
+      "topics": 9,
+      "time_seconds": 17.568633317947388
+    },
+    {
+      "subject": "AL-Psychology2026",
+      "name": "Psychology (2026+)",
+      "status": "success",
+      "topics": 16,
+      "time_seconds": 20.195573329925537
+    },
+    {
+      "subject": "AL-ReligiousStudies",
+      "name": "Religious Studies",
+      "status": "success",
+      "topics": 20,
+      "time_seconds": 17.836520433425903
+    },
+    {
+      "subject": "AL-Sociology",
+      "name": "Sociology",
+      "status": "success",
+      "topics": 12,
+      "time_seconds": 22.255422830581665
+    },
+    {
+      "subject": "AL-Sociology2026",
+      "name": "Sociology (2026+)",
+      "status": "success",
+      "topics": 11,
+      "time_seconds": 20.765430688858032
+    }
+  ],
+  "checkpoint": {
+    "completed": [
+      "AL-BiologyA",
+      "AL-HistoryA",
+      "AL-ArtDesign",
+      "AL-BiologyB",
+      "AL-ChemistryA",
+      "AL-ClassicalCivilisation",
+      "AL-ComputerScience",
+      "AL-DramaTheatre",
+      "AL-EnglishLanguage",
+      "AL-EnglishLiterature",
+      "AL-Geography",
+      "AL-PhysicalEducation",
+      "AL-PhysicsA",
+      "AL-PhysicsB",
+      "AL-Psychology",
+      "AL-Psychology2026",
+      "AL-ReligiousStudies",
+      "AL-Sociology",
+      "AL-Sociology2026"
+    ],
+    "failed": [
+      "AL-AncientHistory",
+      "AL-Business",
+      "AL-Business2026",
+      "AL-ChemistryB",
+      "AL-Economics",
+      "AL-Law",
+      "AL-MathematicsA",
+      "AL-FurtherMathematicsA",
+      "AL-MediaStudies"
+    ]
+  }
+}

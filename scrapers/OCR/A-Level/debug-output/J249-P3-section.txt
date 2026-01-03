@@ -1,0 +1,297 @@
+Topic P3: Electricity
+P3.1 Static and charge
+Summary Common misconceptions
+Having established the nature of matter, consideration is now given to the Learners commonly have difficulty classifying materials as insulators or
+interactions between matter and electrostatic fields. These interactions are conductors. They find it difficult to remember that positive charge does not move
+derived from the structure of matter which was considered in Topic P1. The to make a material positive, rather it is the movement of electrons.
+generation of charge is considered. Charge is a fundamental property of matter.
+There are two types of charge which are given the names ‘positive’ and ‘negative’. Tiering
+Statements shown in bold type will only be tested in the Higher Tier papers.
+Underlying knowledge and understanding All other statements will be assessed in both Foundation and Higher Tier papers.
+Learners should be aware of electron transfer leading to objects becoming
+statically charged and the forces between them. They should also be aware of
+the existence of an electric field.
+Reference Mathematical learning outcomes Mathematical skills
+PM3.1i recall and apply: charge flow (C) = current (A) × time (s) M1a, M2a, M3a, M3b, M3c, M3d
+30
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P3.1a describe that charge is a property of all matter the understanding that in WS1.1b, Use of charged rods to repel or
+and that there are positive and negative most bodies there are an WS1.1e, attract one another.
+charges equal number of positive and WS1.2a,
+Use of a charged rod to deflect
+negative charges resulting in WS1.3e,
+water or pick up paper.
+the body having zero net WS2a
+charge Discussion of why charged balloons
+are attracted to walls.
+P3.1b describe the production of static electricity, the understanding that static WS1.1b, Use of a Van de Graaff generator.
+and sparking, by rubbing surfaces, and charge only builds up on WS1.1e,
+evidence that charged objects exert forces of insulators WS1.2a,
+attraction or repulsion on one another when WS1.3e
+not in contact
+P3.1c explain how transfer of electrons between WS1.1b, Use of the gold leaf electroscope
+objects can explain the phenomena of static WS1.3e, and a charged rod to observe and
+electricity WS1.3f, discuss behaviour.
+WS2a
+P3.1d þ explain the concept of an electric field and how electric fields relate to M5b WS1.3e Demonstration of semolina on
+how it helps to explain the phenomena of the forces of attraction and castor oil to show electric fields.
+static electricity repulsion
+P3.1e recall that current is a rate of flow of charge conditions for charge to flow:
+(electrons) and the conditions needed for source of potential difference
+charge to flow and a closed circuit
+P3.1f recall that current has the same value at any
+point in a single closed loop
+P3.1g recall and use the relationship between M1a, M2a,
+quantity of charge, current and time M3a, M3b,
+M3c, M3d
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+31
+Version
+4.2
+©
+OCR
+2024
+2
+P3.2 Simple circuits
+Summary awareness of the relationship between potential difference, current and
+Electrical currents depend on the movement of charge and the interaction of resistance and the units in which they are measured.
+electrostatic fields. Electrical current, potential difference and resistance are all
+discussed in this section. The relationship between them is considered and Common misconceptions
+learners will investigate this using circuits. Learners find the concept of potential difference very difficult to grasp. They
+find it difficult to understand the behaviour of charge in circuits and through
+Underlying knowledge and understanding components and how this relates to energy or work done within a circuit.
+Learners should have been introduced to the measurement of conventional
+current and potential difference in circuits. They will have an understanding of Tiering
+how to assemble series and parallel circuits and of how they differ with respect to Statements shown in bold type will only be tested in the Higher Tier papers.
+conventional current and potential difference. Learners are expected to have an All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+PM3.2i recall and apply: potential difference (V) = current (A) × resistance (Ω) M1a, M2a, M3a, M3b, M3c, M3d
+PM3.2ii recall and apply: energy transferred (J) = charge (C) × potential difference (V) M1a, M2a, M3a, M3b, M3c, M3d
+PM3.2iii recall and apply: power (W) = potential difference (V) × current (A) M1a, M2a, M3a, M3b, M3c, M3d
+recall and apply: power (W) = (current (A))2 × resistance (Ω)
+PM3.2iv recall and apply: energy transferred (J, kW h) = power (W, kW) × time (s, h) M1a, M2a, M3a, M3b, M3c, M3d
+32
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P3.2a describe the differences between series and parallel positioning of measuring WS1.1b, Building of circuits to measure
+circuits instruments in circuits WS1.2a, potential difference and current in
+and descriptions of the WS1.2b, both series and parallel circuits.
+behaviour of energy, current WS1.2c, (PAG P7)
+and potential difference WS1.3a,
+WS1.3b,
+WS1.3e,
+WS1.3f,
+WS1.3h,
+WS1.4a,
+WS2a, WS2b,
+WS2c, WS2d
+P3.2b represent d.c. circuits with the conventions of cells, power supply, diodes, WS1.1b, Building circuits from diagrams.
+positive and negative terminals, and the symbols LDRs, NTC thermistors, WS1.2a, (PAG P7)
+that represent common circuit elements filament lamps, ammeter, WS1.2b,
+voltmeter, fixed and variable WS1.2c,
+resistors and switch WS1.3a,
+WS1.3b,
+WS1.3e,
+WS1.3f,
+WS1.3h,
+WS1.4a, WS2a,
+WS2b, WS2c,
+WS2d
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+33
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P3.2c recall that current, I, depends on both resistance, R, the definition of potential WS1.1b, Recording of p.d. across and
+and potential difference, V, and the units in which difference WS1.2a, current through different
+these are measured WS1.2b, components and calculate
+WS1.2c, resistances. (PAG P6)
+WS1.3a,
+WS1.3b,
+WS1.3c,
+WS1.3e,
+WS1.3f,
+WS1.3h,
+WS1.4a, WS2a,
+WS2b, WS2c,
+WS2d
+P3.2d recall and apply the relationship between I, R and V, M1a, M2a, WS1.1b, Investigation of resistance in a
+and that for some resistors the value of R remains M3a, M3b, WS1.2a, wire. (PAG P6)
+constant but that in others it can change as the M3c, M3d WS1.2b, WS1.2c,
+Investigation of the effect of
+current changes WS1.3a,
+length on resistance in a wire.
+WS1.3b, WS1.3c,
+(PAG P7)
+WS1.3e, WS1.3f,
+WS1.3h,
+WS1.4a, WS2a,
+WS2b, WS2c,
+WS2d
+P3.2e explain that for some resistors the value of R remains
+constant but that in others it can change as the
+current changes
+P3.2f explain the design and use of circuits to explore such components such as wire of Building circuits and measurement
+effects varying resistance, filament of current and potential
+lamps, diodes, NTC difference.
+thermistors and LDRs
+34
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestion
+scientifically
+P3.2g use graphs to explore whether circuit elements are M4c, M4d WS1.1b, Investigation of I-V characteristics
+linear or non-linear WS1.2a, of circuit elements. (PAG P6)
+WS1.2b,
+WS1.2c,
+WS1.3a,
+WS1.3b,
+WS1.3c,
+WS1.3e,
+WS1.3f,
+WS1.3h,
+WS1.4a,
+WS2a,
+WS2b,
+WS2c, WS2d
+P3.2h use graphs and relate the curves produced to the components such as wire M4c, M4d WS1.1b, Use of wires, filament lamps,
+function and properties of circuit elements of varying resistance, WS1.2a, diodes, in simple circuits. Alter
+filament lamps, diodes, NTC WS1.2b, p.d. and keep current same using
+thermistors and LDRs WS1.2c, variable resistor. Record and plot
+WS1.3a, results. (PAG P6)
+WS1.3b,
+WS1.3c,
+WS1.3e,
+WS1.3f,
+WS1.3h,
+WS1.4a, WS2a,
+WS2b, WS2c,
+WS2d
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+35
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P3.2i explain why, if two resistors are in series the net M1c WS1.1b, Investigation of the brightness
+resistance is increased, whereas with two in parallel WS1.2a, of bulbs in series and parallel.
+the net resistance is decreased (qualitative WS1.2b, WS1.2c, (PAG P7)
+explanation only) WS1.3a,
+WS1.3b,
+WS1.3e, WS1.3f,
+WS1.3h,
+WS1.4a, WS2a,
+WS2b, WS2c,
+WS2d
+P3.2j calculate the currents, potential differences and components such as wire of M1a, M2a, WS1.1b, Investigation of resistance of a
+resistances in d.c. series and parallel circuits varying resistance, filament M3a, M3b, WS1.2a, thermistor in a beaker of water
+lamps, diodes, NTC M3c, M3d WS1.2b, WS1.2c, being heated. (PAG P6)
+thermistors and LDRs WS1.3a,
+Investigation of resistance of an
+WS1.3b, WS1.3c,
+LDR with exposure to different
+WS1.3e, WS1.3f,
+light intensities. (PAG P6)
+WS1.3h,
+WS1.4a, WS2a, Investigation of how the power of
+WS2b, WS2c, a photocell depends on its surface
+WS2d area and its distance from the
+light source. (PAG P6)
+P3.2k explain the design and use of d.c. circuits for
+measurement and testing purposes
+P3.2l explain how the power transfer in any circuit device
+is related to the potential difference across it and the
+current, and to the energy changes over a given time
+P3.2m apply the equations relating potential difference, M1c, M3b,
+current, quantity of charge, resistance, power, M3c, M3d
+energy, and time, and solve problems for circuits
+which include resistors in series, using the concept of
+equivalent resistance
+36
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2

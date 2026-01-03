@@ -1,0 +1,32 @@
+{
+  "Art and Design - GCSE": {
+    "subject": "Art and Design",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/art-and-design-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/ozvlit0g/eduqas-gcse-art-and-design-spec-from-2016-27-01-2020.pdf"
+  },
+  "Art and Design - A-Level": {
+    "subject": "Art and Design",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/art-and-design-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/a3ndenvr/eduqas-a-level-art-and-design-spec-from-2015-e-090119.pdf"
+  },
+  "Business - GCSE": {
+    "subject": "Business",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/business-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/qiobeu0d/eduqas-gcse-business-spec-from-2017.pdf"
+  },
+  "Business - A-Level": {
+    "subject": "Business",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/business-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/h4mljngz/eduqas-a-business-spec-from-2015.pdf"
+  },
+  "Computer Science - GCSE": {
+    "subject": "Computer Science",
+    "level": "GCSE",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/computer-science-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/tf3bvmxe/eduqas-gcse-computer-science-specification-10-02-2020.pdf"
+  }
+}

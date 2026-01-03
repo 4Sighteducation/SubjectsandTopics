@@ -1,0 +1,272 @@
+Topic C5: Monitoring and controlling chemical reactions
+C5.1 Monitoring chemical reactions
+Summary Common misconceptions
+This topic tackles the relationship of moles to the concentration of a solution The most common problem learners’ encounter with these calculations is their lack
+and the volume of a gas. It also tackles the calculation of the mass of a substance of understanding of ratios. Also most learners think that the mole and mass are the
+in terms of its molarity. The topic then moves on to look at using equations to same thing. This is reinforced by use of phrases such as ‘1 mole is 12 g of carbon,
+make predictions about yield by calculations and to calculate atom economy. ‘1 mole is the relative atomic mass in grammes’ or ‘1 mol = 12 g C’ in teaching and
+in textbooks equating amount of substance to mass, portion of substance, number
+Underlying knowledge and understanding of particles (Avogadro’s number) or number of moles. All these phrases reinforce
+Learners should be familiar with the mole from Topic C3 and know that it the idea that amount of substance is a measure of mass or a number.
+measures the amount of substance. They should be familiar with representing
+chemical reactions using formulae and using equations. Tiering
+Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+CM5.1i þ calculations with numbers written in standard form when using the Avogadro constant M1b
+CM5.1ii þ provide answers to an appropriate number of significant figures M2a
+CM5.1iii þ convert units where appropriate particularly from mass to moles M1c
+CM5.1iv þ arithmetic computation, ratio, percentage and multistep calculations permeates quantitative chemistry M1a, M1c, M1d
+CM5.1v þ arithmetic computation when calculating yields and atom economy M1a, M1c
+CM5.1vi þ change the subject of a mathematical equation M3b, M3c
+38
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C5.1a þ explain how the concentration of a M1b WS1.3c, Making standard solutions.
+solution in mol/dm3 is related to the WS1.4a,
+mass of the solute and the volume of WS1.4c
+the solution
+C5.1b þ describe the technique of titration Acid/alkali titrations.
+(PAG C6)
+C5.1c þ explain the relationship between the titration calculations M2a, M1c WS1.3c,
+volume of a solution of known WS1.4a,
+concentration of a substance and the WS1.4b,
+volume or concentration of another WS1.4c
+substance that react completely
+together
+C5.1d þ describe the relationship between M1c WS1.3c, Measurement of gas volumes
+molar amounts of gases and their WS1.4a, and calculating amount in
+volumes and vice versa WS1.4c, moles. (PAG C8)
+WS1.4d,
+WS1.4f
+C5.1e þ calculate the volumes of gases involved M1b, M1c
+in reactions using the molar gas
+volume at room temperature and
+pressure (assumed to be 24dm3)
+C5.1f explain how the mass of a solute and M1b, M1c WS1.3c,
+(Combined the volume of the solution is related to WS1.4a,
+Science the concentration of the solution WS1.4c
+C3.1j)
+C5.1g þ calculate the theoretical mass of a M1a, M1c, WS1.3c
+product from a given mass of reactant. M1d
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+39
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C5.1h þ calculate the percentage yield of a reaction M1a, M1c, WS1.2a,
+product from the actual yield of a reaction M1d WS1.2b,
+WS1.2c,
+WS1.2d,
+WS1.3c,
+WS2a, WS2b
+C5.1i þ define the atom economy of a reaction
+C5.1j þ calculate the atom economy of a reaction to M1a, M1c WS1.3c
+form a desired product from the balanced
+equation
+C5.1k þ explain why a particular reaction pathway is data such as atom economy (if not M3b, M3c WS1.3c,
+chosen to produce a specified product given calculated), yield, rate, equilibrium WS1.3f
+appropriate data position and usefulness of by-products
+40
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+C5.2 Controlling reactions
+Summary Common misconceptions
+The rate and yield of a chemical reaction can be altered by changing the physical Learners often misinterpret rate graphs and think that catalysts take part in
+conditions. reactions and run out/get used up.
+Underlying knowledge and understanding Tiering
+Learners should be familiar with the action of catalysts in terms of rate of Statements shown in bold type will only be tested in the Higher Tier papers.
+reaction. They should know the term surface area and what it means. All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+CM5.2i arithmetic computation, ratio when measuring rates of reaction M1a, M1c
+CM5.2ii drawing and interpreting appropriate graphs from data to determine rate of reaction M4b, M4c
+CM5.2iii determining gradients of graphs as a measure of rate of change to determine rate M4d, M4e
+CM5.2iv proportionality when comparing factors affecting rate of reaction M1c
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+41
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C5.2a suggest practical methods for determining M1a, M1c WS1.2b, Rate of reaction experiments.
+the rate of a given reaction WS1.2c, (PAG C1, PAG C8)
+WS1.2d,
+Disappearing cross experiment. (PAG C8)
+WS2a, WS2b
+Magnesium and acid, marble chip and
+acid. (PAG C1, PAG C8)
+C5.2b interpret rate of reaction graphs 1/t is proportional to rate and M4b, M4c WS1.3a, Marble chip and acid or magnesium and
+gradients of graphs WS1.3b, acid experiments either measuring
+WS1.3c, reaction time or the volume of gas over
+(not order of reaction)
+WS1.3d, time. (PAG C1, PAG C7, PAG C8)
+WS1.3e,
+WS1.3f,
+WS1.3g,
+WS1.3h,
+WS1.3i,
+WS2b
+C5.2c describe the effect of changes in M4d, M4e WS1.4c Varying surface area with marble chips
+temperature, concentration, pressure, and and hydrochloric acid. (PAG C1, PAG C8)
+surface area on rate of reaction
+C5.2d explain the effects on rates of reaction of WS1.4c Reaction of magnesium and acid with
+changes in temperature, concentration and different temperatures of acid – measure
+pressure in terms of frequency and energy reaction times. (PAG C1, PAG C8)
+of collision between particles
+C5.2e explain the effects on rates of reaction of M1c
+changes in the size of the pieces of a
+reacting solid in terms of surface area to
+volume ratio
+42
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C5.2f describe the characteristics of catalysts
+and their effect on rates of reaction
+C5.2g identify catalysts in reactions WS1.4a Catalysis of hydrogen peroxide with
+various black powders including MnO .
+2
+(PAG C1, PAG C8)
+Catalysis of reaction of zinc with sulfuric
+acid using copper powder. (PAG C1, PAG C8)
+C5.2h explain catalytic action in terms of reaction profiles
+activation energy
+C5.2i recall that enzymes act as catalysts in
+biological systems
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+43
+Version
+3.6
+©
+OCR
+2024
+2
+C5.3 Equilibria
+Summary Common misconceptions
+In a reaction, when the rate of the forward reaction equals the rate of the Learners often do not recognise that when a dynamic equilibrium is set up in a
+backwards reaction, the reaction in a closed system is said to be in equilibrium. reaction the concentration of the reactants and products remain constant.
+They think that the concentrations of all substances are equal. Learners also
+Underlying knowledge and understanding sometimes perceive a dynamic equilibrium as two reactions.
+Learners will be familiar with representing chemical reactions using formulae and
+using equations. Tiering
+Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+CM5.3i arithmetic computation, ratio when measuring rates of reaction M1a, M1c
+CM5.3ii drawing and interpreting appropriate graphs from data to determine rate of reaction M4b, M4c
+CM5.3iii determining gradients of graphs as a measure of rate of change to determine rate M4d, M4e
+CM5.3iv proportionality when comparing factors affecting rate of reaction M1c
+44
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C5.3a recall that some reactions may be reversed by M1a, M4b,
+altering the reaction conditions M4c
+C5.3b recall that dynamic equilibrium occurs in a closed M4b, M4c
+system when the rates of forward and reverse
+reactions are equal
+C5.3c predict the effect of changing reaction conditions Le Chatelier’s principle concerning M1a, M4d, WS1.2a,
+on equilibrium position and suggest appropriate concentration, temperature and M4e, M1c WS1.2b,
+conditions to produce as much of a particular pressure WS1.2c,
+product as possible WS1.4c,
+WS2a, WS2b
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+45
+Version
+3.6
+©
+OCR
+2024
+2

@@ -1,0 +1,3169 @@
+Specification
+Pearson Edexcel Level 1/Level 2 GCSE (9 - 1) in Drama (1DR0)
+First teaching from September 2016
+First certification from 2018 Issue 6
+GCSE (9-1)
+Drama
+
+ 
+ 
+About Pearson 
+We are the world’s leading learning company operating in countries all around the world. We 
+provide content, assessment and digital services to learners, educational institutions, 
+employers, governments and other partners globally. We are committed to helping equip 
+learners with the skills they need to enhance their employability prospects and to succeed in 
+the changing world of work. We believe that wherever learning flourishes so do people. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party materials made in this specification are made in good faith. Pearson 
+does not endorse, approve or accept responsibility for the content of materials, which may 
+be subject to change, or any opinions expressed therein. (Materials may include textbooks, 
+journals, magazines and other publications and websites.) 
+All information in this specification is correct at time of publication. 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 92631 4 
+All the material in this publication is copyright 
+© Pearson Education Limited 2025 
+ 
+ 
+ 
+Summary of changes for Pearson Edexcel 
+Level 1/Level 2 GCSE (9-1) in Drama (1DR0) 
+specification Issue 6 
+ 
+Summary of changes made between previous issue and this current 
+issue 
+Page 
+number 
+The following sentence has changed from: 
+Centres are free to make these live theatre arrangements at any time during the 
+delivery of the qualification before Component 3 is taken. 
+To: 
+Centres are free to make these live theatre arrangements at any time during the 
+delivery of the qualification before submission of the live performance statement. 
+7 
+The word “extreme” has been added before extenuating circumstances. 7 
+The statements “please note that international centres have no obligation to fulfil 
+this live theatre requirement” has been removed.  
+7 
+The following sentence has changed from: 
+To ensure that this requirement is met, centres are required to submit a live 
+performance statement. This must be submitted to Pearson by 15th May  
+(see page 6). 
+To: 
+To ensure that this requirement is met, centres are required to submit a live 
+performance statement. From September 2025 and onwards, for the lifetime of 
+the qualification, this must be submitted to Pearson by 1st May.  
+7 
+We have updated Component 1 to include the option of performing as part of  
+a duologue. As a result, all references to a "group" performance (within 
+component 1 only) have been revised to "group/duologue" performance. Full 
+details of this addition can be found on pages 10 and 10 of the specification. 
+9 and 10 
+The statement below is an amendment which correctly verifies that Component 2 
+is externally assessed. 
+The proportional time penalty will be applied by Pearson Edexcel after the work 
+has been marked by the examiner, using the conversion tables in Appendix 6. 
+32 
+The following sentence has been removed (the option is for UK centres only. 
+International centres do not have visiting examiner options) 
+37 
+The following statement has been added in:  
+Permission must be sought from Pearson in advance for the inclusion of non-
+assessed individuals. Please email your requests to 
+drama.assessment@pearson.com. Please upload to Learner Work Transfer when 
+submitting assessment materials. 
+38 
+Remove the following statement from the bottom of the page: 
+Students should consider the potential for staging the text. They must explore 
+and develop an understanding of how performers, directors and designers 
+influence performance style, design elements and staging, to communicate 
+meaning to an audience. 
+47 
+ 
+ 
+Summary of changes made between previous issue and this current 
+issue 
+Page 
+number 
+The sentence “watching a recorded live performance or live stream of a 
+performance.” has been removed and the clearer definition of live theatre has 
+been updated with: 
+For the purposes of this qualification, live theatre means being a member of the 
+audience in the same performance space as the performers.  
+48 
+The following sentence has been changed:  
+Students will reflect on their experience as an informed member watching a live 
+theatre performance 
+To 
+Students will reflect on their experience as an informed member of an audience 
+at a live theatre performance. 
+48 The following statement has been added:  
+Centres are reminded that they must submit a live performance statement to 
+Pearson (please see page 8 for details) 
+If there are extreme extenuating circumstances regarding the access to live 
+theatre for this component, then centres are required to contact 
+drama.assessment@pearson.com. 
+49 
+The following statement has been replaced: 
+Students must answer all questions related to the performance text they have 
+studied for Section A. For Section B they answer both questions on the 
+performance they have seen either in person or via recorded or streamed live 
+theatre. 
+To 
+Students must answer all questions related to the performance text they have 
+studied for Section A. For Section B they answer both questions on the 
+performance they have seen. 
+50 
+ 
+ 
+ 
+Contents 
+1 Introduction 1 
+Why choose Edexcel GCSE Drama? 1 
+Supporting you in planning and implementing this qualification 2 
+Qualification at a glance 3 
+Prescribed texts at a glance 5 
+2 Subject content and assessment information 8 
+Component 1: Devising 9 
+Component 2: Performance from Text 29 
+Component 3: Theatre Makers in Practice 46 
+Assessment Objectives 51 
+3 Administration and general information 52 
+Entries 52 
+Access arrangements, reasonable adjustments, special consideration 
+and malpractice 52 
+Student recruitment and progression 56 
+Appendix 1: Non-examination assessment authentication sheet 
+(Component 1) 58 
+Appendix 2: Live theatre evaluation notes form (Component 3) 59 
+Appendix 3: Design roles minimum resource guidance for centres 60 
+Appendix 4: Best practice when recording performance 61 
+Appendix 5: Guidance on selecting suitable material for students 63 
+Appendix 6: Mark penalty tables for performances/design realisations 
+not meeting the minimum assessment time – Component 2 64 
+Appendix 7: Diversity and Inclusion statement 66 
+Appendix 8: The context for the development of this qualification 68 
+Appendix9: Transferable skills 70 
+Appendix 10: Codes 71 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+1 
+ 
+1 Introduction 
+Why choose Edexcel GCSE Drama? 
+We have listened to feedback from all parts of the drama community, including higher 
+education, teachers and subject groups.  
+We have used this opportunity of curriculum change to redesign a qualification that will 
+engage students through encouraging creativity, focusing on practical work which reflects 
+twenty-first century theatre practice and developing skills that will support progression to 
+further study of drama and a wide range of other subjects.  
+Clear and coherent structure – our qualification has a straightforward structure with three 
+components, one that focuses on devising, one that focuses on performing in or designing for 
+a performance from a text and one that focuses on practical understanding of a performance 
+text.  
+Practical focus – this new qualification focuses on the practical exploration of performance 
+texts. The performance text that will be studied for the examination will require students to 
+articulate how they would perform in certain roles, and direct and design for certain extracts, 
+putting practical work at the heart of the qualification. 
+Engaging prescribed texts – we have selected a list of performance texts that will engage 
+students and will inspire teachers and students. Our selection ensures that texts which have 
+been popular in the past are still available to centres for performance in the non-examination 
+assessment components.  
+Free choice of performance texts – this new qualification will continue to allow you the 
+freedom to choose performance texts that will best suit your students, their ability to access 
+the work, their interests and their performance skills.  
+Clear and straightforward question papers – we have focused on ensuring that our 
+question papers are clear and accessible for students and that mark schemes are 
+straightforward and make the requirements clear.  
+Performance and design skills – we will continue to assess student’s performance and 
+design skills through visiting examiners ensuring students skills are assessed in a live 
+context. 
+Develops transferable skills for progression to A level – students will develop a 
+multitude of skills, including collaboration, communication and an understanding of how to 
+amend and refine work in order to make a smooth transition to the next level of study.  
+Supports progression to A level – we have developed this GCSE at the same time as our 
+A level qualifications. This ensures sensible progression of knowledge, understanding and 
+skills from GCSE to A level and similar approaches to assessment, so that students will have 
+a coherent experience of drama if they take Pearson Edexcel GCSE in Drama, and A level in 
+Drama and Theatre. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+2 
+Supporting you in planning and implementing this 
+qualification 
+Planning  
+● Our Getting Started Guide gives you an overview of the new GCSE qualification to help 
+you get to grips with the changes to content and assessment and to help you understand 
+what these changes mean for you and your students. 
+● We will give you an editable course planner and scheme of work that you can adapt to 
+suit your department.  
+● Our mapping documents highlight key differences between this new qualification and 
+the 2009 qualification.  
+Teaching and learning  
+There will be lots of free teaching and learning support to help you deliver the new 
+qualification, including: 
+● a guide to devising work for performance 
+● a guide to interpreting texts for performance.  
+Preparing for exams  
+We will also provide a range of resources to help you prepare your students for assessments, 
+including: 
+● additional assessment materials to support formative assessments and mock exams 
+● marked examples of student work with examiner commentaries.  
+Results Plus 
+Results Plus provides the most detailed analysis available of your students’ exam 
+performance. It can help you identify the topics and skills where further learning would 
+benefit your students.  
+Get help and support 
+Our subject advisor service and our online community will ensure you receive help and 
+guidance from us and that you can share ideas and information with other teachers. You can 
+sign up to receive e-newsletters by emailing TeachingPerformingArts@pearson.com for 
+qualification updates and product and service news.  
+Learn more on our website. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+3 
+Qualification at a glance 
+Content and assessment overview 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Drama consists of two non-examination 
+assessment components and one externally examined paper.  
+Students must complete all assessment by May/June in any single year. 
+Details of the Assessment Objectives (AO) are on page 52. 
+ 
+Component 1: Devising (*Component code: 1DR0/01) 
+Non-examination assessment  
+40% of the qualification – 60 marks 
+Content overview 
+● Create and develop a devised piece from a stimulus (free choice for centre). 
+● Performance of this devised piece or design realisation for this performance. 
+● Analyse and evaluate the devising process and performance. 
+● Performer or designer routes available.  
+Assessment overview 
+● AO1, AO2 and AO4 are assessed.  
+● Internally assessed and externally moderated. 
+● There are two parts to the assessment:  
+1) a portfolio covering the creating and developing process and analysis and evaluation 
+of this process (45 marks, 30 marks assessing AO1 and 15 marks assessing AO4). 
+The portfolio submission recommendations are:  
+- can be handwritten/typed evidence between 1500–2000 words  
+or 
+- can be recorded/verbal evidence between 8–10 minutes  
+or 
+- can be a combination of handwritten/typed evidence (between 750–1000 words) 
+and recorded/verbal evidence (between 4–5 minutes) 
+2) a devised performance/design realisation (15 marks, assessing AO2). 
+ 
+*See Appendix 10: Codes for a description of this code and all other codes relevant to this 
+qualification. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+4 
+ 
+Component 2: Performance from Text (*Component code: 1DR0/02)  
+Non-examination assessment  
+20% of the qualification – 48 marks 
+Content overview 
+● Students will either perform in and/or design for two key extracts from a performance 
+text. 
+● Centre choice of performance text. 
+● Performer or designer routes available.  
+Assessment overview 
+● AO2 is assessed. 
+● Externally assessed either by visiting examiner or by examiner assessing the recorded 
+live performance. Centres are free to cover the performance/designing of the two key 
+extracts in any way. This freedom caters for centres with different cohort sizes and 
+allows them to choose group, solo and/or partner-based routes for assessment. 
+● Performance/design realisation covering both key extracts is worth 48 marks. 
+● If two separate performances are done covering two key extracts, then each 
+performance/design realisation is worth 24 marks. 
+ 
+Component 3: Theatre Makers in Practice (*Paper code: 1DR0/3A or 3B)  
+Written examination: 1 hour 45 minutes 
+40% of the qualification – 60 marks 
+Content overview 
+● Practical exploration and study of one complete performance text. 
+● Choice of 12 performance texts. 
+● Live theatre evaluation. 
+Assessment overview 
+3A – covers the List A performance text choices. 
+3B – covers the List B performance text choices. 
+Section A: Bringing Texts to Life 
+● 45 marks, assessing AO3. 
+● This section consists of one question broken into five parts (short and extended 
+responses) based on an unseen extract from the chosen performance text.  
+● Performance texts are not allowed in the examination as the extracts will be provided. 
+Section B: Live Theatre Evaluation   
+● 15 marks, assessing AO4. 
+● This section consists of two questions requiring students to analyse and evaluate a live 
+theatre performance they have seen. 
+● Students are allowed to bring in theatre evaluation notes of up to a maximum of 
+500 words.  
+ 
+*See Appendix 10: Codes for a description of this code and all other codes relevant to this 
+qualification. These options will be operational in 2022 to cover the new performance text 
+additions. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+5 
+Prescribed texts at a glance 
+Students must study one complete and substantial performance text (Component 3) and a 
+minimum of two key extracts from a second contrasting performance text (Component 2).  
+Contrasting text requirement 
+In order to ensure that centres meet the requirement to study contrasting performance 
+texts, the prescribed texts lists for Component 3 have been grouped into two time periods 
+and categorised by genre and playwright. List A consists of pre-1954 texts and List B 
+represents post-2000 texts. 
+For Component 3 centres must study a performance text from one of the following lists. 
+For Component 2 centres must ensure they meet all three contrast rules of time, genre 
+and playwright as shown below. Examples of how this might work are given on pages 7 
+and 8. 
+To ensure that this contrast requirement is met, centres are required to submit their text 
+choices via an online form. This form must be submitted to Pearson at the beginning of 
+the year of certification. Details are on our website: qualifications.pearson.com 
+Centres are reminded that if they do not submit their text choices then this may result in 
+malpractice/maladministration. 
+List A (pre-1954) one from: 
+Component 3: performance text 
+for written examination 
+Genre Component 2: performance 
+text 
+A Doll’s House, Henrik Ibsen 
+(adapted by Tanika Gupta)* 
+Historical drama  Free choice of any 
+post-1954 text (excluding 
+any text on lists A and B) that 
+has a different playwright 
+and genre 
+An Inspector Calls, J B Priestley Social thriller/ 
+mystery 
+Antigone, Sophocles (adapted by 
+Roy Williams)* 
+Tragedy 
+Government Inspector, Nikolai 
+Gogol (adapted by David Harrower) 
+Black comedy 
+The Crucible, Arthur Miller  Historical drama  
+Twelfth Night, William Shakespeare Romantic comedy 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+6 
+OR 
+List B (post-2000) one from: 
+Component 3: performance text 
+for written examination 
+Genre Component 2: performance 
+text 
+100, Diene Petterle, Neil Monaghan 
+and Christopher Heimann 
+Ensemble story-
+telling 
+Free choice of any pre-2000 
+text (excluding any text on 
+lists A and B) that has a 
+different playwright and 
+genre 
+1984, George Orwell, Robert Icke 
+and Duncan Macmillan 
+Political satire 
+Blue Stockings, Jessica Swale Historical drama 
+DNA, Dennis Kelly Black comedy 
+The Free9, In-Sook Chappell* Tragedy/ensemble 
+story-telling  
+Gone Too Far!, Bola Agbaje* Social drama 
+ 
+*These texts are for first teaching from September 2021 and first assessment will be 2022. 
+Achieving a contrast in practice – examples 
+List A (pre-1954) 
+Component 3 text choice Contrast requirement Example Component 2 
+text choice 
+The Crucible, Arthur Miller 
+(historical drama) 
+Centres must choose for 
+Component 2: one  
+post-1954 text that is not by 
+Arthur Miller or a historical 
+drama 
+A Taste of Honey,  
+Shelagh Delaney  
+(1958 – kitchen sink drama) 
+or 
+Missing Dan Nolan,  
+Mark Wheeller  
+(2005 – verbatim drama) 
+Twelfth Night, William 
+Shakespeare (romantic 
+comedy) 
+Centres must choose for 
+Component 2: one  
+post-1954 text that is not by 
+William Shakespeare or a 
+romantic comedy 
+One Man, Two Guvnors, 
+Richard Bean (2011 – 
+physical comedy) 
+or 
+Curious Incident of the Dog 
+in the Night-Time,  
+Simon Stephens  
+(2012 – comic mystery) 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+7 
+List B (post-2000) 
+Component 3 text choice Contrast requirement Example Component 2 
+text choice 
+Blue Stockings, Jessica 
+Swale (historical drama) 
+Centres must choose for 
+Component 2: one pre-2000 
+text that is not by Jessica 
+Swale or a historical drama 
+Collected Grimm Tales, 
+Carol Ann Duffy and Tim 
+Supple (1994 – fairy tale) 
+or 
+Blood Brothers, Willy Russell 
+(1983 – tragi-comedy) 
+DNA, Dennis Kelly (black 
+comedy) 
+Centres must choose for 
+Component 2: one pre-2000 
+text that is not by Dennis 
+Kelly or a black comedy 
+Noises Off, Michael Frayn 
+(1982 – British farce) 
+or 
+Medea, Euripides  
+(431 BC – Greek tragedy) 
+ 
+Texts will be reviewed regularly throughout the lifetime of the qualification to ensure that all 
+prescribed texts remain fit for purpose. Therefore, texts may be subject to change and the 
+list revised. In the event that a change is required, centres will be notified and, if required, a 
+list of the appropriate alternative(s) will be posted on our website 
+(qualifications.pearson.com) a year in advance. 
+Please note that while resources are checked at the time of publication, materials may be 
+withdrawn from circulation at any time. A list of appropriate alternatives will be provided on 
+our website (qualifications.pearson.com) in the event that a named edition goes out of print. 
+Live performance statement 
+It is a requirement of this qualification for students to experience live theatre in person as a 
+member of the audience in the same performance space as the performers. Centres must 
+make every effort possible for students to see live performance in this manner and confirm 
+that they have done so to Pearson. Centres are free to make these live theatre arrangements 
+at any time during the delivery of the qualification before submission of the live performance 
+statement.  
+To ensure that this requirement is met, centres are required to submit a live performance 
+statement. From September 2025 and onwards, for the lifetime of the qualification this must be 
+submitted to Pearson by 1st May. 
+If there are extreme extenuating circumstances regarding the access to live theatre, centres 
+need to contact 
+drama.assessment@pearson.com. 
+For more details on all of the above please go to the subject page of our website – and click 
+on the ‘Performance text choices and live performance statement’ section. 
+Centres should be aware that if they do not submit a statement then it may result in 
+malpractice/maladministration (see page 55). 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+8 
+2 Subject content and assessment 
+information 
+Qualification aims and objectives 
+The aims and objectives of this qualification are to enable students to:  
+● apply knowledge and understanding when making, performing and responding to drama  
+● explore performance texts, understanding their social, cultural and historical context 
+including the theatrical conventions of the period in which they were created  
+● develop a range of theatrical skills and apply them to create performances  
+● work collaboratively to generate, develop and communicate ideas  
+● develop as creative, effective, independent and reflective students able to make informed 
+choices in process and performance  
+● contribute as an individual to a theatrical performance  
+● reflect on and evaluate their own work and that of others  
+● develop an awareness and understanding of the roles and processes undertaken in 
+contemporary professional theatre practice  
+● adopt safe working practices.  
+Core skills 
+The core skills developed in this qualification are: 
+● the ability to recognise and understand the roles and responsibilities of performer, 
+designer and director 
+● the study and exploration of texts and extracts must include the relevant social, historical 
+and cultural contexts 
+● the ability to analyse and evaluate their own work and the work of others 
+● the ability to understand how performance texts can be interpreted and performed. 
+Performance and designer routes 
+Students may complete Components 1 and 2 as a performer or designer or do any 
+combination of both of these roles. 
+Option 1 
+Component 1 Component 2 
+Student completes as a performer or 
+designer  
+Student studies both key extracts as a 
+performer or designer 
+ 
+Option 2 
+Component 1 Component 2 
+Student completes as a performer or 
+designer 
+Student studies one extract as a designer 
+and the second extract as a performer (or 
+vice versa) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+9 
+Component 1: Devising  
+Overview 
+This component deals with devising, which is an exciting and challenging opportunity to work 
+collaboratively with others to explore a range of stimuli in order to create an original 
+performance piece.  
+Devising is essential for the development of new theatre and performance; it allows for 
+personal development and exploration. It allows both performer and designer the 
+opportunity to stretch the limits of their creativity and imagination, while exploring a theme 
+or topic of interest to them and their intended audience.  
+Students will develop skills in creative collaboration, research and negotiation, while also 
+developing creativity, performance and design skills. Students will consider the impact that 
+they can make on an audience, as they develop the ideas that they want to communicate. 
+Content 
+There are three areas of focus. 
+1) Creating and developing a devised piece from stimuli. 
+2) A performance/design realisation of the devised piece. 
+3) Analysing and evaluating the creative process for a devised performance. 
+Students may complete this component as part of a duologue performance (2 performers) or 
+a group performance (3–6 performers). NB: The duologue performance option will be for first 
+teaching September 2025, first assessment 2027. 
+Students may complete this component either as a performer or designer.  
+The design roles are: 
+● costume design 
+● lighting design 
+● set design 
+● sound design.  
+Centres wanting to offer design roles to students should refer to Appendix 3: Design roles 
+minimum resource requirements for centres. 
+Choice of stimuli 
+Centres have a free choice of stimuli, but the stimuli must ensure that students can: 
+● work collaboratively to create and develop the performance  
+● apply the necessary performance or design skills  
+● analyse and evaluate both the process and the performance 
+● meet the Assessment Objectives. 
+Teachers should choose between 1–3 pieces of stimuli and these may be one or a 
+combination of the following: 
+● textual, for example a novel, poem, story, letter or factual material 
+● visual, for example a painting, photograph, film or artefact 
+● aural, for example a piece of music, a soundscape or a recording 
+● abstract, for example a word, a theme or a mood. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+10 
+Stimuli material should avoid any unnecessary offence to students – also please see 
+Appendix 5 for further guidance on selection. Stimuli material should: 
+● be age appropriate 
+● not cause, racial, religious or gender offence 
+● not include performance texts or recordings of live theatre. 
+Duologue / Group Requirements  
+Duologue time limits  
+A duologue must contain 2 performance students. In addition, there can be up to one 
+designer per role, per duologue.   
+All students must be assessed as individuals.  
+The regulatory requirements are that duologues must complete a minimum performance 
+time of 3 minutes for this component.  
+The recommended minimum performance times have been provided to ensure that each 
+student within the duologue has sufficient time to access all levels of the assessment criteria.  
+Group sizes and time limits 
+A group must contain between three and six performance students. In addition, there can 
+be up to one designer per role, per group.  
+All students must be assessed as individuals. 
+The regulatory requirements are that groups must complete a minimum performance time of 
+4 minutes for this component.  
+The recommended minimum performance times have been provided to ensure that each 
+student within the group has sufficient time to access all levels of the assessment criteria. 
+ 
+Group size Recommended 
+minimum performance 
+times 
+Maximum performance 
+times 
+2 performance students (duologue) 6 minutes 8 minutes 
+3–4 performance students (group) 10 minutes 15 minutes 
+5–6 performance students (group) 20 minutes 25 minutes 
+ 
+Centres should be aware that performance times that are between the regulatory minimum 
+(4 minutes) and the recommended minimum (10 or 20 minutes) may not allow students to 
+evidence their skills fully in order to access all levels of the assessment criteria. 
+Meeting the performance timings 
+Students (performance and design) who do not meet the regulatory minimum performance 
+requirement of 4 minutes will be assessed by teachers against the assessment criteria on 
+pages 25-28; however they will not be able to achieve beyond Level 2. 
+Teachers will be required to stop marking after the maximum performance time has passed. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+11 
+Failure to accurately record the performance times on the authentication sheet (see 
+Appendix 1) may result in staff/centre malpractice. For further information about this, please 
+see the Administration and general information section in this specification. 
+1) Creating and developing a devised piece from stimuli 
+Students must select stimuli and then be able to demonstrate how they have been used to 
+create and develop a performance piece, this should include how they have rehearsed and 
+refined their work with clear intent. This process must be recorded over the course of the 
+development from inception to performance.  
+Performers and designers must work collaboratively and keep an individual record of their 
+contribution throughout the process.  
+Students are required to know and understand the following:  
+● characteristics of dramatic work including genre, structure, character, form, style, and 
+language  
+● how meaning is communicated and interpreted through: 
+o performance conventions 
+o use of space and spatial relationships on stage 
+o relationships between performer and audience. 
+All students must explore the processes by which devised performance is developed and 
+demonstrate the following skills to create and communicate meaning through:  
+● research  
+● developing ideas and intentions  
+● rehearsing, refining and amending work in progress for performance.  
+Centres may practically explore stimuli using a variety of methods such as:  
+● whole class exploration  
+● small group improvisations  
+● creating tableaux, role on the wall, hot seating, etc.   
+● developing movement/physical sequences 
+● developing soundscapes 
+● forum theatre. 
+Students’ research should include (where relevant) an investigation of:   
+● social, historical and cultural contexts  
+● theatrical conventions 
+● current themes and trends  
+● issues and controversies.  
+The creative process should be done practically by students. Significant time should be spent 
+developing and rehearsing the work for an audience. Students should also be aware of any 
+relevant health and safety considerations. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+12 
+ 
+2) Group/duologue-devised performances/design realisations  
+All students must contribute to the realisation of artistic intentions. They will demonstrate 
+skills as a performer and/or designer in a performance for a live audience.  
+All performances must be recorded and centres are free to identify their own suitable 
+audience and venue for the performance. This could include: 
+● performance to the rest of the class or another class within the centre 
+● performance to an invited external audience. 
+Performers must develop skills in: 
+● rehearsing and learning lines; adapting work in response to rehearsals (to be done 
+collaboratively) 
+● voice: use of clarity, pace, inflection, pitch and projection  
+● physicality: use of space, gesture, stillness and stance 
+● ability to combine and apply vocal and physical skills 
+● characterisation  
+● communication with other performers and with the audience 
+● understanding of style, genre and theatrical conventions. 
+For design skills, please see section below. 
+Teachers should adopt a facilitating role in this component. They can give support and 
+guidance at the development stage of the performance(s) but not during the performance(s). 
+When in a facilitating role, teachers are allowed to: 
+● help students with interpreting information, e.g. explaining assessment criteria and the 
+requirements of the component 
+● intervene if a health and safety issue arises 
+● intervene if a risk to security of evidence arises 
+● undertake a management role in relation to managing time, space, resources 
+● ask questions to stimulate independent thought without leading students. 
+When in a facilitating role, teachers are not allowed to: 
+● offer coaching 
+● direct students 
+● undertake an artistic/creative role 
+● give solutions to artistic/creative problems 
+● make artistic/creative decisions. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+13 
+●  
+3) Analysing and evaluating the creative process and  
+Group/duologue-devised performance 
+All students must reflect on and evaluate the effectiveness of the devising process. Students 
+must analyse and evaluate: 
+● ideas explored and research undertaken 
+● decisions made and the rationale behind them  
+● their collaborative involvement 
+● content, genre, structure, character, form, style, and language  
+● the final performance and the effectiveness of their contribution to it 
+● the realisation of their intentions.  
+All students must also be aware of, and be able to use, appropriate subject-specific 
+terminology.  
+Design roles 
+Designers must work collaboratively within a group of performers within their chosen area of 
+design to realise artistic intentions. They must be aware of any relevant health and safety 
+considerations. 
+Where a student is assessed in a design role, it is their design skill that is the focus of the 
+assessment, rather than their technical competence in the operation or use of equipment. 
+The devised piece should provide sufficient opportunity for designers to meet the demands of 
+this component. Designs should take into consideration performer/audience relationships and 
+any health and safety implications and performer usage as appropriate.   
+There is a maximum of one designer per role, per group/duologue.  
+Designers must develop skills in: 
+● making appropriate judgements during the development process  
+● creating clear and practical design (e.g. creating plans/plots/diagrams/sketches) with 
+consideration to practical application of materials and production elements 
+● adapting designs in response to rehearsals (to be done collaboratively) 
+● using visual/aural elements to create mood and atmosphere and style 
+● using, applying and combining design skills to contribute and support the performance as 
+a whole 
+● demonstrating the ability to apply design skills effectively within the context of the 
+performance  
+● communicating intention and creating impact to an audience. 
+There is a list of the requirements for each design skill for this component on the next page.  
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+14 
+Component 1 - Requirements for design skills 
+Requirements Costume design Lighting design Set design Sound design 
+Design skill Final costume designs for two 
+characters in the production, 
+incorporating hair, makeup and 
+mask considerations if 
+appropriate.  
+All sourcing must be based wholly 
+on the student’s design(s). 
+Final lighting design 
+incorporating grid plans and a 
+lantern schedule that indicates 
+the use of at least four different 
+lighting states.  
+Drawings of the final design 
+to be realised in the 
+performance space and any 
+relevant props.  
+Source sheet showing at 
+least four sound cues –
+original, live or found sound 
+effects as appropriate.  
+Additional 
+documentation  
+A costume plot or list of 
+costumes/accessories worn by 
+each performer indicating any 
+changes as appropriate. 
+A lighting plot or cue sheet 
+showing at least four different 
+lighting states as appropriate.  
+A ground plan of the 
+performance space, including 
+entrances and exits, audience 
+positioning and stage furniture 
+(as appropriate). 
+A cue sheet showing the 
+source, order, length and 
+output level of each cue.  
+Supervision The student must supervise the 
+construction and/or sourcing of 
+the designed costumes as 
+appropriate. 
+The student must supervise the 
+rigging, focusing, programming 
+(if applicable) and operating of 
+the design as appropriate. 
+The student must supervise the 
+construction, painting, hiring 
+and /or finding of scenic 
+elements needed to meet the 
+requirements of their design as 
+appropriate. 
+The student must supervise 
+the production of the final 
+sound design which they 
+have created and recorded 
+using live and/or sampled 
+material as appropriate.  
+Performance A realisation of the costume 
+design in the performance. 
+A realisation of the lighting 
+design in the performance. 
+A realisation of the set design in 
+the performance. 
+A realisation of the sound 
+design in the performance. 
+ 
+NB: Centres are reminded that any appropriate evidence produced in line with the requirements above should also be sent to the moderator as part of the 
+design students’ portfolio.  
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+15 
+Assessment information 
+This component is internally assessed and externally moderated. It is worth 60 marks and 
+AO1, AO2 and AO4 are assessed. 
+First assessment: 2018 
+There are two parts to the assessment. 
+1) A portfolio containing evidence of: 
+• creating and developing the group/duologue devised performance/design realisation  
+• analysing and evaluating this creation and development   
+• analysing and evaluating the group/duologue devised performance/design realisation.  
+2) A recording of the group/duologue devised final performance.  
+The portfolio 
+All students must document the practical creation and development of ideas, along with the 
+analysis and evaluation of this process and their performance of the devised work.  
+The portfolio is worth 45 marks. AO1 and AO4 are assessed – AO1 is worth 30 marks and 
+AO4 is worth 15 marks.  
+The portfolio is marked by the teacher and sent to the moderator if requested as part of the 
+sample, along with the accompanying performance recording(s). 
+The portfolio must be the student’s own work.  
+For each student the portfolio must cover the following: 
+● their contribution to the creation, development and realisation  
+● consideration of genre, structure, character, form, style, and language  
+● successful communication of intentions 
+● health and safety issues. 
+Each student must include a response to the following questions.   
+● What was your initial response to the stimuli and what were the intentions of the piece?  
+● What work did your group do in order to explore the stimuli and start to create ideas for 
+performance?  
+● What were some of the significant moments during the development process and when 
+rehearsing and refining your work? 
+● How did you consider genre, structure, character, form, style, and language throughout 
+the process?  
+● How effective was your contribution to the final performance?  
+● Were you successful in what you set out to achieve? 
+Portfolios may include any of the following elements:  
+● annotations and notes 
+● audio and/or video evidence 
+● annotated drawings and sketches 
+● annotated photographs 
+● extended written responses. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+16 
+It is recommended that the portfolio submitted is: 
+● handwritten/typed evidence between 1500 and 2000 words  
+or  
+● recorded/verbal evidence between 8 and 10 minutes  
+or 
+● a combination of handwritten/typed evidence (between 750 and 1000 words) and 
+recorded/verbal evidence (between 4 and 5 minutes). 
+It is strongly advisable that the upper word/time limits are adhered to by students to enable 
+them to satisfy the requirement to produce a concise and coherently structured response. 
+When students are working on producing their portfolio teachers must follow these rules: 
+● students must be directly supervised for a sufficient portion of the creation of the portfolio 
+to allow teachers to confidently authenticate each student’s work 
+● teachers should not write any part of a student’s portfolio 
+● teachers may help students to understand the assessment requirements of the task (e.g. 
+length of the task) 
+● teachers can provide feedback once on one draft version for the portfolio before it is 
+handed in to be marked 
+● the focus of this feedback must only be on the requirements of the portfolio and the 
+Assessment Objectives 
+● any additional feedback must be recorded on the Non-examination assessment 
+authentication sheet (see Appendix 1). 
+The group/duologue-devised performance  
+The recorded and unedited devised performance is marked by the teacher and moderated by 
+Pearson. Please refer to Appendix 4: Best practice when recording performance. 
+The performance/design realisation is worth 15 marks. AO2 is assessed. 
+The recorded evidence must be sent to the moderator if requested as part of the sample 
+along with the accompanying portfolios. 
+A realisation of design candidates’ work must be seen and assessed in the performance.  
+Teachers should adopt a facilitating role in this component and they are not allowed to direct 
+performance(s). They can give guidance during the practical work and the preparation for 
+the devised performance but not during the performance itself
+. 
+When in a facilitating role, teachers are allowed to: 
+● help students with interpreting assessment information, e.g. explaining the assessment 
+criteria and the requirements of the component 
+● intervene if a health and safety issue arises 
+● intervene if a risk to security of evidence arises 
+● undertake a management role in relation to managing time, space, resources 
+● ask questions to stimulate independent thought without leading students. 
+When in a facilitating role, teachers are not allowed to: 
+● offer coaching 
+● direct students 
+● undertake an artistic/creative role 
+● give solutions to artistic/creative problems 
+● make artistic/creative decisions.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+17 
+Performers will be assessed on their ability to realise artistic intentions through the: 
+● use of vocal and physical skills 
+● creation of character 
+● communication of creative intent to an audience 
+● understanding of style, genre and theatrical conventions. 
+Designers will be assessed on their ability to realise artistic intentions through the: 
+● use of design skills 
+● use of design skills to contribute to and support the performance as a whole 
+● communication of creative intent to audience 
+● understanding of practical application and production elements. 
+Non-assessed individuals 
+Non-assessed individuals should be used only when: 
+● the total number of students in the cohort does not meet the minimum group size 
+requirement  
+● a student has withdrawn from the performance near to the assessment date 
+● a student is absent on the day of the assessment. 
+Non-assessed individuals may be used to read out the lines of the absent student(s) to 
+support the performance group/duologue. Please note that a non-assessed individual may be 
+a class peer, student from a different year group or a member of staff. Assessed and non-
+assessed individuals must be clearly identified at the start of the recorded evidence to aid 
+moderation. 
+Permission must be sought from Pearson in advance for the inclusion of non-assessed 
+individuals. Please email your requests to drama.assessment@pearson.com.  
+A copy of the email from our Drama Assessment team must be included with the work sent 
+to the moderator. 
+Resources  
+Students must have equal access to IT resources and other equipment, as appropriate. 
+Students must have access to a range of resources to enable them to make choices as 
+required for this component. 
+Authenticity  
+Students and teachers must sign the Non-examination assessment authentication sheet 
+(please see Appendix 1). All sources must be acknowledged. 
+Teachers can give support and guidance in the development of the performance but not 
+during the performance itself. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+18 
+Marking, standardisation and moderation 
+Teachers should mark this component using the assessment criteria on the following pages. 
+Teachers may annotate students’ work but should also include any comments on the 
+Appendix 1: Non-examination assessment authentication sheet to justify the marks awarded. 
+Any annotations made by the teacher are to be left on the portfolio. 
+Where marking has been carried out by more than one teacher in a centre, there must be a 
+process of internal standardisation carried out to ensure that there is a consistent application 
+of the assessment criteria. 
+Marks awarded by the centre will be subject to external moderation by Pearson. Moderation 
+will ensure consistency with national standards and will include a review of assignments to 
+ensure that the assignment-setting rules have been correctly applied by centres. Pearson will 
+notify centres of the students whose work has been selected for moderation. This sample will 
+take cohort size into account. Detailed instructions will be made available for teacher-
+assessed non-examination assessment and this will include instructions regarding:  
+● internal standardisation 
+● materials required for submission (such as timesheets and authentication forms, or 
+additional design skills documentation submitted as part of the design students’ portfolio) 
+● the required sample of candidates (the highest and lowest scoring candidates and a range 
+in between). 
+In addition to this, centre marking training will be organised by Pearson and will include 
+training on the administrative requirements and best practice. 
+Moderators of non-examination assessment components will be trained in the administrative 
+arrangements that are required of centres and will be instructed to inform Pearson of any 
+maladministration or malpractice concerns during the process of moderation. 
+If the moderation indicates that centre assessment does not reflect national standards, an 
+adjustment will be made to students’ final marks to compensate.  
+For further information please refer to the Joint Council for Qualifications (JCQ) document 
+Instructions for Conducting Non-examination assessment (new GCE and GCSE specifications) 
+available on the JCQ website: www.jcq.org.uk 
+The assessment of this qualification must comply with these instructions. 
+Consortium arrangements 
+If you are a centre that will be part of a consortium, your students will be treated as a single 
+group for the purposes of non-examination assessment moderation. 
+You need to identify a consortium coordinator who must ensure that internal standardisation 
+is carried out by all the teachers involved in each component. 
+We will allocate the same moderator to every centre within the consortium for a particular 
+component, with confirmation or adjustment of marks being applied to all centres within the 
+consortium. 
+Centres must register their consortium arrangements using the JCQ centre consortium form 
+available at www.jcq.org.uk/exams-office/forms/centre-
+ consortium-arrangements-form 
+which then must be sent to Pearson. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+19 
+Assessment criteria 
+Teachers must mark students’ work using the following assessment criteria. Each mark grid 
+identifies which Assessment Objective is being targeted.  
+Marking guidance 
+● All students must receive the same treatment. Teachers must mark the last student in 
+exactly the same way as they mark the first. 
+● The assessment criteria should be applied positively. Students must be rewarded for what 
+they have shown they can do rather than be penalised for omissions. 
+● All the marks on the assessment criteria are designed to be awarded. Teachers should 
+always award full marks if deserved, i.e. if the work matches the assessment criteria. 
+Teachers should be prepared to award zero marks if the student’s work is not worthy of 
+credit according to the assessment criteria. 
+Placing a mark within a level 
+● Teachers should first decide which descriptor most closely matches the work and place it 
+in that level. The mark awarded within the level will be decided based on the quality of the 
+work and will be modified according to how securely all bullet points are displayed at that 
+level. 
+● In cases of uneven performance, the points above will still apply. Students will be placed 
+in the level that best describes their work according to the descriptors in that level.  
+● If work meets the requirements fully, markers should be prepared to award full marks 
+within the level. The top mark in the level is used for work that is as good as can 
+realistically be expected within that level. 
+● If work only barely meets the requirements of the level, markers should consider awarding 
+marks at the bottom of the level. The bottom mark in the level is used for work that is the 
+weakest that can be expected within that level. 
+● The middle marks of the level are used for work that is a reasonable match to the 
+descriptor. This might represent a balance between some characteristics of the level that 
+are fully met and others that are only barely met. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+20 
+Assessment criteria for the portfolio 
+ 
+Level Mark Descriptor (AO1) Create and develop ideas to communicate 
+meaning for theatrical performance 
+ 0 No rewardable material 
+Level 1 1–6 Low (1–2 marks) 
+Qualities of level are 
+partially met 
+● Offers basic and underdeveloped 
+explanations of the creative intentions for 
+the performance. 
+● Underdeveloped practical creation, 
+development and refinement of ideas from 
+the stimuli to communicate meaning. 
+● Demonstrates tentative engagement with the 
+process of collaboration, rehearsal and 
+refinement. 
+● Limited and inconsistent use of drama 
+terminology, which may not always be 
+appropriate. 
+Mid (3–4 marks) 
+Qualities of level are 
+mostly met 
+High (5–6 marks) 
+Qualities of level are 
+convincingly met 
+Level 2 7–12 Low (7–8 marks) 
+Qualities of level are 
+partially met 
+● Offers adequate explanations of the creative 
+intentions for the performance. 
+● Some sound practical creation, development 
+and refinement of ideas from the stimuli to 
+communicate meaning. 
+● Demonstrates some adequate engagement 
+with the process of collaboration, rehearsal 
+and refinement. 
+● Generally adequate use of drama 
+terminology which is sometimes appropriate.  
+Mid (9–10 marks) 
+Qualities of level are 
+mostly met 
+High (11–12 marks) 
+Qualities of level are 
+convincingly met 
+Level 3 13–18 Low (13–14 marks)  
+Qualities of level are 
+partially met 
+● Offers coherent explanations of the creative 
+intentions for the performance. 
+● Competent practical creation, development 
+and refinement of ideas from the stimuli to 
+communicate meaning. 
+● Demonstrates clear engagement throughout 
+the process of collaboration, rehearsal and 
+refinement. 
+● Coherent use of drama terminology, which is 
+mostly appropriate. 
+Mid (15–16 marks) 
+Qualities of level are 
+mostly met 
+High (17–18 marks) 
+Qualities of level are 
+convincingly met 
+Level 4 19–24 Low (19–20 marks) 
+Qualities of level are 
+partially met 
+● Offers sustained explanations of the creative 
+intentions for the performance. 
+● Effective and sustained practical creation, 
+development and refinement of ideas from 
+the stimuli to communicate meaning. 
+● Demonstrates secure engagement with the 
+process of collaboration, rehearsal and 
+refinement. 
+● Secure and consistent use of appropriate 
+drama terminology. 
+Mid (21–22 marks) 
+Qualities of level are 
+mostly met 
+High (23–24 marks) 
+Qualities of level are 
+convincingly met 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+21 
+ 
+Level Mark Descriptor (AO1) Create and develop ideas to communicate 
+meaning for theatrical performance 
+Level 5 25–30 Low (25–26 marks) 
+Qualities of level are 
+partially met 
+● Offers comprehensive explanations of the 
+creative intentions for the performance. 
+● Assured and comprehensive practical 
+creation, development and refinement of 
+ideas from the stimuli to communicate 
+meaning. 
+● Demonstrates confident engagement with 
+the process of collaboration, rehearsal and 
+refinement. 
+● Confident and accomplished use of 
+appropriate drama terminology. 
+Mid (27–28 marks) 
+Qualities of level are 
+mostly met 
+High (29-30 marks) 
+Qualities of level are 
+convincingly met 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+22 
+ 
+Marking instructions 
+In AO4, analysis is required in order to reach evaluative judgements and conclusions in the 
+context of the student’s own work. 
+Evidence presented should show a balanced consideration between analysis and evaluation, 
+and marks are equally distributed across these two elements. 
+Responses that demonstrate isolated analysis without leading to evaluation can achieve a 
+maximum of 5 marks only. 
+Level Mark Descriptor (AO4) Analyse and evaluate own work 
+ 0 No rewardable material 
+Level 1 1–3 ● Limited analysis and evaluation of personal contribution to the 
+creation, development and refinement process. 
+● Limited analysis and evaluation of decisions made regarding content, 
+genre, structure, character, form, style, and language. 
+● Underdeveloped analysis and evaluation of individual 
+performance/design skills demonstrated in the performance. 
+● Demonstrates limited ability to analyse and evaluate personal 
+contribution and realisation of creative intentions within the 
+performance. 
+Level 2 4–6 ● Generally adequate analysis with basic evaluation of personal 
+contribution to the creation, development and refinement process. 
+● Generally adequate analysis with basic evaluation of decisions made 
+regarding content, genre, structure, character, form, style, and 
+language. 
+● Adequate analysis with basic evaluation of individual 
+performance/design skills demonstrated in the performance. 
+● Demonstrates adequate ability to analyse and evaluate the realisation 
+of creative intentions within the performance, however analysis does 
+not always lead to evaluation. 
+Level 3 7–9 ● Coherent and generally balanced analysis and evaluation of personal 
+contribution to the creation, development and refinement process. 
+● Coherent and generally balanced analysis and evaluation of decisions 
+made regarding content, genre, structure, character, form, style, and 
+language. 
+● Competent and generally balanced analysis and evaluation of 
+individual performance/design skills demonstrated in the performance. 
+● Demonstrates clear ability to analyse and evaluate the realisation of 
+creative intentions within the performance, with a general balance 
+between analysis and evaluation. 
+Level 4 10–12 ● Secure and balanced analysis and evaluation of personal contribution 
+to the creation, development and refinement process. 
+● Secure and balanced analysis and evaluation of decisions made 
+regarding content, genre, structure, character, form, style, and 
+language. 
+● Effective and balanced analysis and evaluation of individual 
+performance/design skills demonstrated in the performance. 
+● Demonstrates effective and sustained ability to analyse and evaluate 
+the realisation of creative intentions within the performance, with a 
+balance between analysis and evaluation. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+23 
+ 
+Level Mark Descriptor (AO4) Analyse and evaluate own work 
+Level 5 13–15 ● Assured, fully-balanced and considered analysis and evaluation of 
+personal contribution to the creation, development and refinement 
+process. 
+● Assured, fully-balanced and considered analysis and evaluation of 
+decisions made regarding content, genre, structure, character, form, 
+style, and language. 
+● Comprehensive, fully-balanced and considered analysis and evaluation 
+of individual performance/design skills demonstrated in the 
+performance. 
+● Demonstrates accomplished comprehensive ability to analyse and 
+evaluate the realisation of creative intentions within the performance, 
+with fully-balanced analysis and evaluation. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+24 
+Assessment criteria for the devised performance − performers 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (performers) 
+ 0 No rewardable material 
+Level 1 1–3 ● Creates a basic individual performance, demonstrating limited ability to 
+combine and apply vocal and physical skills. Delivery is often 
+inappropriate and inconsistent. 
+● Inconsistent vocal control demonstrated when applying use of clarity, 
+pace, inflection, pitch and projection. 
+● Inconsistent physical control when applying use of space, gesture, 
+stillness and stance. 
+● Limited ability to create character(s)/role(s) that supports the 
+communication of creative intent to the audience, with obvious lapses 
+in focus, energy and confidence that detract from the overall 
+performance. Characterisation is uneven and lacks development and 
+range. 
+● Individual performance demonstrates limited understanding of style, 
+genre, and theatrical conventions. 
+Level 2 4–6 ● Creates a generally sound individual performance, demonstrating 
+emerging ability to combine and apply vocal and physical skills. 
+Delivery is generally appropriate and consistent. 
+● Adequate vocal control demonstrated when applying use of clarity, 
+pace, inflection, pitch and projection. 
+● Adequate physical control demonstrated when applying use of space, 
+gesture, stillness and stance. 
+● Sound ability to create character(s)/role(s) that supports the 
+communication of creative intent to the audience, with adequate focus, 
+energy and confidence that generally contributes to the overall 
+performance. Characterisation is partially developed and shows an 
+emerging range of mood and emotions. 
+● Individual performance demonstrates generally sound understanding 
+of style, genre, and theatrical conventions. 
+Any performance under the regulatory minimum performance 
+time cannot progress beyond the top of Level 2. 
+Level 3 7–9 ● Creates a coherent individual performance, demonstrating clear ability 
+to combine and apply vocal and physical skills. Delivery is appropriate, 
+consistent and purposeful. 
+● Competent vocal control demonstrated when applying use of clarity, 
+pace, inflection, pitch and projection. 
+● Competent physical control demonstrated when applying use of space, 
+gesture, stillness and stance. 
+● Clear ability to create character(s)/role(s) that supports the 
+communication of creative intent to the audience, with coherent focus, 
+energy and confidence that contributes to the overall performance. 
+Characterisation is developed and shows a range of mood and 
+emotions. 
+● Individual performance demonstrates coherent understanding of style, 
+genre, and theatrical conventions. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+25 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (performers) 
+Level 4 10–12 ● Creates a secure individual performance, demonstrating convincing 
+ability to combine and apply vocal and physical skills. Delivery is 
+engaging and effective throughout. 
+● Secure and sustained vocal control demonstrated when applying use of 
+clarity, pace, inflection, pitch and projection. 
+● Secure and sustained physical control demonstrated when applying 
+use of space, gesture, stillness and stance. 
+● Effective ability to create character(s)/role(s) that supports the 
+communication of creative intent to the audience, with sustained 
+focus, energy and confidence that enhance the overall performance. 
+In-depth characterisation shows effective refinement and a convincing 
+range of moods and emotions. 
+● Individual performance demonstrates secure understanding of style, 
+genre, and theatrical conventions. 
+Level 5 13–15 ● Creates an assured individual performance, demonstrating 
+accomplished ability to combine and apply vocal and physical skills. 
+Delivery is highly engaging, dynamic, and skilful throughout. 
+● Comprehensive and skilful vocal control demonstrated when applying 
+use of clarity, pace, inflection, pitch and projection. 
+● Comprehensive and skilful physical control demonstrated when 
+applying use of space, gesture, stillness and stance. 
+● Accomplished ability to create character(s)/role(s) that supports the 
+communication of creative intent to the audience, with comprehensive 
+focus, energy, confidence and commitment that are integral to the 
+overall performance. Assured characterisation shows an accomplished 
+level of refinement and range of moods and emotions. 
+● Individual performance demonstrates comprehensive understanding of 
+style, genre, and theatrical conventions. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+26 
+Assessment criteria for the devised design realisation: designers 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (designers) 
+ 0 No rewardable material 
+Level 1 1–3 ● Creates a basic design, demonstrating limited ability to combine and 
+apply design skills. Design often inappropriate and inconsistent. 
+● Inconsistent use of visual/audio elements to enhance mood, 
+atmosphere and style and create impact. 
+● Limited ability to design creatively within time and resource 
+constraints. 
+● Limited ability to create a design that supports the performers and the 
+communication of creative intent to the audience, with obvious lapses 
+in design considerations that detract from the production value. Design 
+is uneven and lacks development and creativity. 
+● Design shows basic consideration of the practical application of 
+materials and production elements in performance. 
+Level 2 4–6 ● Creates a generally sound design, demonstrating emerging ability to 
+combine and apply skills. Design is generally appropriate and 
+consistent. 
+● Adequate use of visual/audio elements to enhance mood, atmosphere 
+and style and create impact. 
+● Adequate ability to design creatively within time and resource 
+constraints. 
+● Sound ability to create a design that supports the performers and 
+communication of creative intent to the audience, with adequate 
+attention to design considerations that generally contribute to the 
+production value. Design is partially developed and shows emerging 
+creativity.  
+● Design shows generally sound understanding of the practical 
+application of materials and production elements in performance. 
+Any design realisation under the regulatory minimum 
+performance time cannot progress beyond the top of Level 2. 
+Level 3 7–9 ● Creates a coherent design, demonstrating a clear ability to combine 
+and apply skills. Design is appropriate, consistent and purposeful. 
+● Competent use of visual/audio elements to enhance mood, 
+atmosphere and style and create impact. 
+● Competent ability to design creatively within time and resource 
+constraints. 
+● Clear ability to create a design that supports the performers and the 
+communication of creative intent to the audience, with consistent 
+attention to design considerations that contribute to the production 
+value. Design is developed and creative. 
+● Design shows coherent understanding of the practical application of 
+materials and production elements in performance. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+27 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (designers) 
+Level 4 10–12 ● Creates a secure design, demonstrating a convincing ability to employ 
+and combine skills. All aspects of design are engaging and effective. 
+● Secure and sustained use of visual/audio elements to enhance mood, 
+atmosphere and style and create impact. 
+● Secure and sustained ability to design creatively within time and 
+resource constraints. 
+● Effective ability to create a design that supports the communication 
+of creative intent to the audience, with consistent attention to design 
+considerations that enhance the production value. In-depth design 
+shows effective refinement and convincing creativity. 
+● Design shows secure understanding of the practical application of 
+materials and production elements in performance. 
+Level 5 13–15 ● Creates an assured design, demonstrating an accomplished ability to 
+employ and combine skills. All aspects of design are highly engaging, 
+dynamic and skilful. 
+● Comprehensive and skilful use of visual/audio elements to enhance 
+mood, atmosphere and style and create impact. 
+● Comprehensive and skilful ability to design creatively within time and 
+resource constraints. 
+● Accomplished ability to create a design that supports the 
+communication of creative intent to the audience, with 
+comprehensive attention to design considerations that that are 
+integral to the production value. Assured design shows an 
+accomplished level of refinement and innovation. 
+● Design shows a comprehensive understanding of the practical 
+application of materials and production elements in performance. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+28 
+Security and backups 
+It is the centre’s responsibility to keep the work that students have submitted for 
+assessment secure. 
+Secure storage is defined as a securely-locked cabinet or cupboard. Where students are 
+producing artefacts, secure storage is defined as a classroom studio or workshop that is 
+locked or supervised from the end of one session to the start of the next.  
+The rules on storage also apply to electronic data. For example, centres should collect 
+memory sticks for secure storage between sessions or restrict student access to specific 
+areas of the centre’s IT network. 
+For materials stored electronically, centres are strongly advised to utilise firewall protection 
+and virus-checking software, and to employ an effective backup strategy, so that an  
+up-to-date archive of students’ evidence is maintained. 
+Further information 
+For up-to-date advice on teacher involvement and administration of non-examination 
+assessments, please refer to the Joint Council for Qualifications (JCQ) document Instructions 
+for conducting non-examination assessments (new GCE and GCSE specifications) available 
+on the JCQ website: www.jcq.org.uk 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+29 
+Component 2: Performance from Text 
+Overview 
+Performance texts have been at the core of drama since the inception of theatre. The need 
+to hand down stories has been fundamental to human development and for thousands of 
+years, people have written, performed, watched and enjoyed innumerable plays.  
+Understanding a performance text is fundamental to the subject, as this provides students 
+with opportunities to explore plot, structure, narrative and stories from around the world and 
+from different time periods. It encourages them to develop empathy skills, as they consider 
+different characters and develop methods of communicating ideas and themes.  
+This component deals with developing knowledge, understanding and skills in exploring and 
+performing from a performance text. Students will interpret this text and rehearse and refine 
+two key extracts, leading to a final performance. They will demonstrate and use a wide range 
+of acting and/or design skills to communicate their interpretation in performance.  
+Content 
+There are two areas of focus. 
+1) Interpreting and exploring two key extracts from a chosen performance text. 
+2) Performing or realising a design of two key extracts from this text. 
+Students may complete this component as a performer or designer or as a combination of 
+both.  
+The design roles are: 
+● costume design 
+● lighting design 
+● set design 
+● sound design. 
+Centres wanting to offer design roles to students should refer to Appendix 3: Design roles 
+minimum resource requirements for centres. 
+Text and extract choice 
+Centres can choose any performance text as long as it meets the following criteria. 
+● It must have been professionally commissioned or professionally produced and be at least 
+45 minutes in length. 
+● It offers students the opportunity to demonstrate exploratory range and depth. 
+● It offers students the opportunity to access the demands of this component as a 
+performer and/or designer. 
+● It must have a degree of a challenge, in terms of appropriateness of content, themes and 
+contexts to enable students to achieve at GCSE and access the Assessment Objective. 
+● It must provide a contrast to the text studied for Component 3 (see pages 6–8) and 
+cannot be any prescribed text from the Component 3 lists. 
+Centres are reminded that they must complete a form regarding the text choices, please 
+refer to page 6 for details. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+30 
+Key extracts 
+Students must study two key extracts from their chosen performance text.  
+For the purposes of this qualification, a key extract is defined as a scene or a moment that 
+is significant to the text as a whole and at least 10 minutes in length when performed.  
+Students may participate in the two key extracts as a performer or designer or as a 
+combination of both.  
+For each extract students may perform/design in a monologue, duologue or group – the 
+choice is open to centres. The approaches that could be followed are, for example: 
+ 
+Student A Example approach 
+Extract 1 Performs a monologue 
+Extract 2 Performs in group  
+ 
+Student B Example approach 
+Extract 1 Performs in group 
+Extract 2 Performs in group  
+ 
+Student C Example approach 
+Extract 1 Designs for a monologue 
+Extract 2 Performs in a duologue  
+ 
+Students are not required to perform the same character or role in both key extracts. 
+Whole cohorts do not need to use the same performance texts. 
+Selecting a key extract 
+This can take the form of a continuous dialogue/scene, or edited extracts, for example 
+abridging the extract to match the number of performers taking part. 
+For the monologue/duologue, the extract chosen may be edited to provide the required 
+amount of material, but must provide a coherent monologue or duologue.  
+NB: Text can be edited through removal of characters/content/lines, as long as the meaning 
+and shape/sequence of the text is maintained. Dialogue cannot be added or altered in the 
+text. 
+Each selected extract will be assessed independently and it should be clear where each 
+extract begins and ends. 
+Students are required to perform/realise a design for all or part of these key extracts, 
+following the extract timings requirements below.  
+Centres must choose one of the approaches listed below when selecting the two key 
+extracts. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+31 
+ 
+Approach Example 
+1. Select two separate key 
+moments/scenes from the same text. 
+ 
+Too Much Punch For Judy, Mark Wheeller 
+Extract 1:  
+The crash and immediate aftermath. 
+Extract 2:  
+PC Caton informs Vi of the crash. 
+2. S elect two consecutive key 
+moments/scenes from the same text. 
+Blood Brothers, Willy Russell 
+Extract 1:  
+Mrs Lyon’s breakdown and demand to move 
+away to the countryside. 
+Extract 2:  
+Mickey and Eddie say their goodbyes; Mrs 
+Johnstone says a private goodbye to Eddie. 
+ 
+Requirements per key extract 
+Each student needs to participate in two key extracts as a performer/designer. The timings 
+given below are for one key extract performance/design realisation. 
+Monologue and duologue 
+The regulatory requirements for monologue and duologue performances are that they must 
+complete a minimum monologue performance time of 2 minutes and a minimum duologue 
+performance time of 3 minutes per key extract. 
+ 
+Number of performers Minimum performance 
+time per key extract 
+Maximum performance 
+time per key extract 
+1 performance student 
+(monologue) 
+2 minutes 3 minutes 
+2 performance students 
+(duologue) 
+3 minutes 5 minutes 
+ 
+Group performance 
+A group must be between three and six performance students. In addition, there can be up 
+to one designer per role, per group.  
+The regulatory requirements for groups are that they must complete a minimum 
+performance time of 4 minutes per key extract.  
+The recommended minimum performance times have been provided to ensure that each 
+student within the group has sufficient time to access all levels of the assessment criteria. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+32 
+ 
+Group size Recommended 
+minimum performance 
+time per key extract 
+Maximum performance 
+time per key extract 
+3–4 performance students (group) 10 minutes 12 minutes 
+5–6 performance students (group) 13 minutes 15 minutes 
+ 
+Centres should be aware that performance times that are between the regulatory minimum 
+(4 minutes) and the recommended minimum (10 or 13 minutes) may not allow students to 
+evidence their skills fully in order to access all levels of the assessment criteria. 
+All students will be assessed as individuals. 
+Meeting the performance timings 
+For students (performance and design) who do not meet the regulatory minimum 
+performance requirement of 2, 3 and/or 4 minutes, the examiner will use their professional 
+judgement against the AO2 assessment criteria based on what the student has achieved and 
+then the total mark will be reduced proportionally according to how many seconds the work 
+is under length. 
+The proportional time penalty will be applied by Pearson Edexcel after the work has been 
+marked by the examiner, using the conversion tables in Appendix 6. 
+Examiners will be required to stop marking after the maximum performance time has 
+passed. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+33 
+Requirements for performances/design realisations 
+All performances/design realisations should take place in front of an appropriate audience 
+and must be recorded. Centres are free to identify their own suitable audience and venue for 
+the performance, this could include: 
+● performance to the rest of the class or another class within the centre 
+● performance to an invited external audience. 
+Teachers should adopt a facilitating role and may direct. They may direct and give guidance 
+during the practical work and the preparation for performance(s) but not during the 
+performance(s). 
+When directing, teachers are allowed to: 
+● interpret and structure the text as written to meet the demands of the examination 
+(time limits etc.) 
+● suggest solutions to artistic and creative problems referring to the assessment criteria if 
+appropriate 
+● make artistic and creative decisions referring to the assessment criteria if appropriate 
+(however, they should not make direct judgements about the assessment criteria or 
+allocate marks). 
+Performance roles 
+Performers must gain knowledge and understanding to explore how meaning is 
+communicated through:  
+● themes, issues, performance conventions 
+● genre, structure, form, style, language and stage directions  
+● character relationships  
+● character development. 
+Performers must develop skills in: 
+● how meaning is communicated and interpreted through: 
+o the use of voice, physical and non-verbal techniques (such as facial expression and 
+gesture) 
+o use of space and spatial relationships  
+o the presentation of characters/roles 
+o relationships between performer and audience 
+o production elements, such as set (including props), costume, lighting and sound. 
+Also: 
+● characterisation  
+● voice: use of clarity, pace, inflection, pitch and projection  
+● physicality: use of space, gesture, facial expression, stillness and stance  
+● communicating creative intent to audience 
+● communication with other performers and/or with the audience. 
+Performers must understand how performance is created from a text. They should 
+demonstrate the skills through:  
+● developing interpretations independently and collaboratively 
+● the development of specific artistic intentions  
+● learning lines, rehearsing, amending and refining text extracts in progress for 
+performance  
+● performing to an audience. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+34 
+Students should take into consideration any health and safety implications as appropriate. 
+Design roles 
+Designers must work collaboratively within a group of performers within their chosen area of 
+design.  
+Where a student is assessed in a design role, it is their design skill that is the focus of the 
+assessment, rather than their technical competence in the operation or use of equipment. 
+The performance(s) must provide sufficient opportunity for design students to meet the 
+demands of this component.  
+There is a maximum of one designer per role, per group.  
+Designers must gain knowledge and understanding to explore how meaning is communicated 
+through: 
+● genre, structure, character, form, style, and language  
+● performance conventions 
+● use of space and spatial relationships  
+● relationship between performer and audience 
+● production elements. 
+Designers must understand how text-based performance is created. They should 
+demonstrate the skills through:  
+● developing interpretations independently and collaboratively 
+● the development of specific artistic intentions 
+● rehearsing, amending and refining text extracts in progress for performance.  
+Designers must also develop skills in: 
+● making appropriate judgements during the development process  
+● interpreting content, narrative, style and form  
+● responding and adapting designs in response to rehearsal work (to be done collaboratively 
+with the teacher-director) 
+● using and applying design skills to contribute to the performance as a whole 
+● demonstrating the ability to apply design skills effectively within the context of the 
+performance  
+● communicating intention to an audience. 
+Designs should take into consideration performer/audience relationships and any health and 
+safety implications and performer usage as appropriate.   
+A list of the requirements for each design skill for this component is given on the next page. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+35 
+ 
+Component 2 - Requirements for design skills 
+Requirements  Costume design Lighting design Set design Sound design 
+Requirements 
+per extract 
+ 
+Group: final costume designs for 
+one character, incorporating 
+hair, makeup and mask 
+considerations if appropriate.  
+This should take into 
+consideration performer/ 
+audience relationships, health 
+and safety implications and 
+performer usage as appropriate. 
+All sourcing must be based 
+wholly on the student’s 
+design(s). 
+Group: final lighting design 
+incorporating grid plans and a 
+lantern schedule that indicates 
+the use of at least two different 
+lighting states.  
+This should take into 
+consideration performer/ 
+audience relationships, health 
+and safety implications and 
+performer usage as appropriate. 
+Group: drawings of the final 
+design to be realised in the 
+performance space including any 
+relevant props.  
+This should take into 
+consideration performer/ 
+audience relationships, health 
+and safety implications and 
+performer usage as appropriate.  
+Group: source sheet 
+showing at least two sound 
+cues –original, live or found 
+sound effects as 
+appropriate.  
+This should take into 
+consideration performer/ 
+audience relationships, 
+health and safety 
+implications and performer 
+usage as appropriate. 
+Mono or duo: final costume 
+design for one character, 
+incorporating hair, makeup and 
+mask considerations if 
+appropriate.  
+This should take into 
+consideration performer/ 
+audience relationships, health 
+and safety implications and 
+performer usage as appropriate. 
+Mono or duo: final lighting 
+design incorporating grid plans 
+and a lantern schedule that 
+indicates the use of at least two 
+different lighting states.  
+This should take into 
+consideration performer/ 
+audience relationships, health 
+and safety implications and 
+performer usage as appropriate. 
+Mono or duo: drawings of the 
+final designs to be realised in 
+the performance space.  
+This should take into 
+consideration performer/ 
+audience relationships, health 
+and safety implications and 
+performer usage as appropriate.   
+Mono or duo: source sheet 
+showing the at least two 
+sound cues –original, live or 
+found sound effects as 
+appropriate. 
+This should take into 
+consideration performer/ 
+audience relationships, 
+health and safety 
+implications and performer 
+usage as appropriate. 
+Additional 
+documentation  
+For both performances: a 
+costume plot or list of 
+costumes/accessories worn by 
+each performer indicating any 
+changes as appropriate. 
+For both performances: a 
+lighting plot or cue sheet 
+showing at least four different 
+lighting states as appropriate.  
+For both performances: a ground 
+plan of the performance space, 
+including entrances and exits, 
+audience positioning and stage 
+furniture (as appropriate).  
+For both performances: a 
+cue sheet showing the 
+source, order, length and 
+output level of each cue.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+36 
+ 
+Component 2 - Requirements for design skills 
+continued 
+Requirements  Costume design Lighting design Set design Sound design 
+Supervision The student must supervise the 
+construction and/or sourcing of 
+the designed costumes as 
+appropriate. 
+The student must supervise the 
+rigging, focusing, programming 
+(if applicable) and operating of 
+the design as appropriate. 
+The student must supervise the 
+construction, painting, hiring  
+and/or finding of scenic elements 
+required to meet the 
+requirements of their design as 
+appropriate. 
+The student must 
+supervise the production 
+of the final sound design 
+which they have created 
+and recorded using live 
+and/or sampled material 
+as appropriate.  
+Performance A realisation of the costume 
+design in both performances. 
+A realisation of the lighting 
+design in both performances. 
+A realisation of the set design in 
+both performances. 
+A realisation of the sound 
+design in both 
+performances. 
+ 
+NB: Centres are reminded that any appropriate evidence produced in line with the requirements above should also be made available to the visiting 
+examiner when they make their visit.  
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+37 
+Assessment information 
+This component is externally assessed by a visiting examiner or by an examiner assessing 
+the recorded live performance. It is worth 48 marks and AO2 is assessed. 
+First assessment: 2018 
+The performance(s) must be recorded by the centre and unedited. Please refer to 
+Appendix 4: Best practice when recording performance. This recorded evidence is to be sent 
+to the examiner. 
+Centres must select two key extracts and each extract is worth 24 marks each. Each 
+selected extract will be assessed independently and it should be clear where each extract 
+begins and ends. 
+Teachers can give support and guidance at the development stage but not during the 
+performance(s). 
+All centres must provide their examiner, before the visit/date of recording, with the following 
+information: 
+● a declaration that all key extracts studied by students meet the requirements to be from a 
+scene or a moment that is significant to the text as a whole and at least 10 minutes in 
+length when performed. 
+● indication of group numbers and performance lengths 
+● character/design role information for each student to be assessed 
+● the performance text(s) chosen for Component 3 (in order for the contrasting text 
+requirement to be checked) 
+● a brief written explanation by each student of the intention for each performance or 
+design.  
+For guidance, the explanation must include the following: 
+for performance students (100–200 words per character played) 
+● what role(s) are you playing? 
+● what is happening to your character(s) in the key extract? 
+● what are your character’s objectives/motivations/feelings? 
+● how are you interpreting this character(s) in performance? (i.e. vocal, physical, 
+communication of intent). 
+For design students (100–200 words per extract designed for) 
+● what design role are you fulfilling? 
+● what is your central design concept in the key extract? 
+● how have you interpreted this key extract through your design? 
+● what are you hoping to communicate to the audience? 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+38 
+Non-assessed individuals 
+Non-assessed individuals should be used only when: 
+● the total number of students in the cohort does not meet the minimum group size 
+requirement  
+● a student has withdrawn from the performance near to the assessment date 
+● a student is absent on the day of the assessment. 
+Non-assessed individuals may be used to read out the lines of the absent student(s) to 
+support the performance group. Please note that a non-assessed individual may be a class 
+peer, student from a different year group or a member of staff. Assessed and non-assessed 
+individuals must be clearly identified at the start of the recorded evidence to aid assessment. 
+Permission must be sought from Pearson in advance for the inclusion of non-assessed 
+individuals. Please email your requests to drama.assessment@pearson.com. Please upload to 
+Learner Work Transfer when submitting assessment materials.  
+Assessment criteria 
+Visiting examiners will use the following assessment criteria to mark students’ work. Each 
+mark grid identifies which Assessment Objective is being targeted. 
+The visiting examiner will mark each extract out of 24, using the following criteria and add 
+these marks together to give a total out of 48. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+39 
+Assessment criteria for performers 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (performers) 
+Vocal and physical skills 
+ 0 No rewardable material or performances below the regulatory minimum 
+time 
+Level 1 1–2 ● Vocal skills are underdeveloped, demonstrating limited understanding 
+of how creative choices communicate meaning to the audience. Vocal 
+delivery is often inappropriate and inconsistent. 
+● Basic technical control in the use of vocal techniques (clarity, pace, 
+inflection, pitch, projection). Vocal performance lacks variation and 
+range. 
+● Physical skills are underdeveloped, demonstrating limited 
+understanding of how creative choices communicate meaning to the 
+audience. Physical delivery is often inappropriate and inconsistent. 
+● Basic technical control in the use of physical techniques (gesture, 
+facial expression, stillness, stance, contact, use of space and spatial 
+relationships). Physical performance lacks variation and range. 
+Level 2 3–4 ● Vocal skills are sound, demonstrating an adequate understanding of 
+how creative choices communicate meaning to the audience. Vocal 
+delivery is generally appropriate and consistent. 
+● Sound technical control in the use of vocal techniques (clarity, pace, 
+inflection, pitch, projection). Vocal performance shows general 
+variation and range. 
+● Physical skills are sound, demonstrating an adequate understanding 
+of how creative choices communicate meaning to the audience. 
+Physical delivery is generally appropriate and consistent. 
+● Sound technical control in the use of physical techniques (gesture, 
+facial expression, stillness, stance, contact, use of space and spatial 
+relationships). Physical performance shows general variation and 
+range. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+40 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (performers) 
+Vocal and physical skills 
+Level 3 5–6 ● Vocal skills are secure, demonstrating an effective understanding of 
+how creative choices communicate meaning to the audience. Vocal 
+delivery is appropriate and consistent throughout. 
+● Secure technical control in the use of vocal techniques (clarity, pace, 
+inflection, pitch, projection). Vocal performance shows competent 
+variation and range. 
+● Physical skills are secure, demonstrating an effective understanding 
+of how creative choices communicate meaning to the audience. 
+Physical delivery is appropriate and consistent throughout. 
+● Secure technical control in the use of physical techniques (gesture, 
+facial expression, stillness, stance, contact, use of space and spatial 
+relationships). Physical performance shows competent variation and 
+range. 
+Level 4 7–8 ● Vocal skills are assured, demonstrating a comprehensive 
+understanding of how creative choices communicate meaning to the 
+audience. Vocal delivery is engaging and dynamic throughout. 
+● Accomplished technical control in the use of vocal techniques (clarity, 
+pace, inflection, pitch, projection). Vocal performance shows 
+comprehensive variation and range. 
+● Physical skills are assured, demonstrating a comprehensive 
+understanding of how creative choices communicate meaning to the 
+audience. Physical delivery is engaging and dynamic throughout. 
+● Accomplished technical control in the use of physical techniques 
+(gesture, facial expression, stillness, stance, contact, use of space 
+and spatial relationships). Physical performance shows 
+comprehensive variation and range. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+41 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (performers) 
+Characterisation and communication 
+ 0 No rewardable material or performances below the regulatory minimum 
+time 
+Level 1 1–2 ● Characterisation demonstrates basic understanding of the role and its 
+context within the performance. 
+● Characterisation is uneven and lacks clarity, with obvious lapses in 
+focus and confidence. 
+● Limited rapport and communication with audience/other performers. 
+Level 2 3–4 ● Characterisation demonstrates a sound understanding of the role and 
+its context within the performance. 
+● Characterisation is generally consistent and sound, demonstrating 
+adequate focus and confidence. 
+● Sound rapport and communication with audience/other performers. 
+Level 3 5–6 ● Characterisation demonstrates a secure understanding of the role and 
+its context within the performance. 
+● Characterisation is consistent and secure, demonstrating effective 
+focus and confidence. 
+● Effective rapport and communication with audience/other performers. 
+Level 4 7–8 ● Characterisation demonstrates a comprehensive understanding of the 
+role and its context within the performance. 
+● Characterisation is accomplished, skilful and highly engaging, 
+demonstrating comprehensive and assured focus, confidence and 
+commitment. 
+● Assured rapport and communication with audience/other performers. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+42 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (performers) 
+Artistic intention and style/genre/theatrical conventions 
+ 0 No rewardable material or performances below the regulatory minimum 
+time 
+Level 1 1–2 ● Basic contribution to the realisation of the artistic intention in 
+performance. 
+● Performance demonstrates limited control and understanding in 
+relation to style, genre and theatrical conventions. 
+● Demonstrates a basic interpretation of the text in performance. 
+● Individual performance is undeveloped and has limited impact, 
+lacking energy and ease. 
+Level 2 3–4 ● Clear contribution to the realisation of the artistic intention in 
+performance. 
+● Performance demonstrates clear control and understanding in relation 
+to style, genre and theatrical conventions. 
+● Demonstrates a coherent interpretation of the text in performance. 
+● Individual performance is generally developed and has clear impact, 
+showing emerging energy and ease. 
+Level 3 5–6 ● Effective contribution to the realisation of the artistic intention in 
+performance. 
+● Performance demonstrates secure control and understanding in 
+relation to style, genre and theatrical conventions. 
+● Demonstrates a convincing and sustained interpretation of the text in 
+performance. 
+● Individual performance is developed, thoughtful and sympathetic, 
+creating effective impact and showing sustained energy and ease. 
+Level 4 7–8 ● Assured contribution to the realisation of the artistic intention in 
+performance. 
+● Performance demonstrates assured and sustained control and 
+understanding in relation to style, genre and theatrical conventions. 
+● Demonstrates an accomplished and comprehensive interpretation of 
+the text in performance. 
+● Individual performance is refined, articulate and dynamic, creating 
+significant impact with ability to drive the piece, showing 
+accomplished energy and ease. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+43 
+Assessment criteria for designers 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (designers) 
+Design skills 
+ 0 No rewardable material or designs below the regulatory minimum time 
+Level 1 1–2 ● Creates an underdeveloped and often inappropriate and inconsistent 
+design, demonstrating limited understanding of how creative choices 
+communicate meaning to the audience. 
+● Basic use of visual/audio elements to enhance mood, atmosphere and 
+style and create impact. 
+● Basic ability to combine and apply design skills to design creatively 
+within time and resource constraints.  
+● Design shows limited understanding of the practical application of 
+materials and production elements in performance. 
+Level 2 3–4 ● Creates a sound and generally appropriate and consistent design, 
+demonstrating adequate understanding of how creative choices 
+communicate meaning to the audience. 
+● Sound use of visual/audio elements to enhance mood, atmosphere 
+and style and create impact.  
+● Sound ability to combine and apply design skills to design creatively 
+within time and resource constraints. 
+● Design shows adequate understanding of the practical application of 
+materials and production elements in performance. 
+Level 3 5–6 ● Creates a secure, appropriate and consistent design, demonstrating 
+effective understanding of how creative choices communicate 
+meaning to the audience. 
+● Secure use of visual/audio elements to enhance mood, atmosphere 
+and style and create impact.  
+● Secure ability to combine and apply design skills to design creatively 
+within time and resource constraints. 
+● Design shows effective understanding of the practical application of 
+materials and production elements in performance. 
+Level 4 7–8 ● Creates an assured, engaging and dynamic design, demonstrating 
+comprehensive understanding of how creative choices communicate 
+meaning to the audience. 
+● Accomplished use of visual/audio elements to enhance mood, 
+atmosphere and style and create impact.  
+● Assured ability to combine and apply design skills to design creatively 
+within time and resource constraints. 
+● Design shows comprehensive understanding of the practical 
+application of materials and production elements in performance. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+44 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (designers) 
+Communication and contribution to performance as whole 
+ 0 No rewardable material or designs below the regulatory minimum time 
+Level 1 1–2 ● Design shows a basic understanding of its context and purpose within 
+the performance. 
+● Design concept is uneven and lacks clarity, demonstrating 
+inappropriate connections and choices made in relation to content of 
+performance. 
+● Design lacks cohesion with content of performance, demonstrating 
+limited communication and collaboration with performers. 
+Level 2 3–4 ● Design shows a sound understanding of its context and purpose 
+within the performance. 
+● Design concept is generally consistent, demonstrating sound 
+connections and choices made in relation to content of performance. 
+● Design has adequate cohesion with content of performance, 
+demonstrating sound communication and collaboration with 
+performers. 
+Level 3 5–6 ● Design shows a secure understanding of its context and purpose 
+within the performance. 
+● Design concept is consistent and secure demonstrating effective 
+connections and choices made in relation to content of performance. 
+● Design has sustained cohesion with content of performance, 
+demonstrating effective communication and collaboration with 
+performers. 
+Level 4 7–8 ● Design shows a comprehensive understanding of its context and 
+purpose within the performance. 
+● Design concept is accomplished, skilful and highly engaging, 
+demonstrating comprehensive connections and assured choices made 
+in relation to content of performance. 
+● Design has comprehensive cohesion with content of performance, 
+demonstrating assured communication and collaboration with 
+performers. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+45 
+ 
+Level Mark Descriptor (AO2) Apply theatrical skills to realise artistic 
+intentions in live performance (designers) 
+Artistic intentions and style/genre/theatrical conventions 
+ 0 No rewardable material or designs below the regulatory minimum time 
+Level 1 1–2 ● Design makes a basic contribution to the realisation of artistic 
+intentions. 
+● Design demonstrates limited control and understanding in relation to 
+style, genre and theatrical conventions. 
+● Design demonstrates basic interpretation of the text, inconsistently 
+supporting the performance of the extract. 
+● Design is underdeveloped with obvious lapses in design 
+considerations that detract from the overall production value. 
+Level 2 3–4 ● Design makes a clear contribution to the realisation of artistic 
+intentions. 
+● Design shows clear control and understanding in relation to style, 
+genre and theatrical conventions. 
+● Design demonstrates coherent interpretation of the text, and is 
+generally consistent in supporting the performance of the extract. 
+● Design is generally developed with coherent design considerations 
+that have clear impact on the overall production value. 
+Level 3 5–6 ● Design makes an effective contribution to the realisation of artistic 
+intentions. 
+● Design shows secure control and understanding in relation to style, 
+genre and theatrical conventions. 
+● Design demonstrates convincing and sustained interpretation of the 
+text, consistently supporting the performance of the extract. 
+● Design is developed and thoughtful with secure design considerations 
+that have an effective impact on the overall production value. 
+Level 4 7–8 ● Design makes an assured and sustained contribution to the 
+realisation of artistic intentions. 
+● Design shows assured control and understanding in relation to style, 
+genre and theatrical conventions. 
+● Design demonstrates an accomplished and comprehensive 
+interpretation of the text, showing sustained and assured support for 
+the performance of the extract. 
+● Design is refined and dynamic with design considerations that have a 
+significant impact and enhance the overall production value. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+46 
+Component 3: Theatre Makers in Practice 
+Overview 
+This component focuses on the work of theatre makers and the theatrical choices that are 
+made by crucial members of the creative and production team in order to communicate ideas 
+to an audience. As theatre makers, students will develop their knowledge and understanding 
+of the ways in which drama can create meaning for an audience through performance. 
+Students will explore practically how a complete performance text might be interpreted and 
+realised from ‘page to stage’. This exploration will give students an insight into how texts 
+may be brought to life for an audience and the creative roles within this process.  
+Students will also analyse and evaluate their experience of a live theatre performance as 
+informed members of the audience. They will develop skills to recognise the meaning created 
+in the theatre space in order to communicate ideas to an audience. This will give them a 
+more critical and varied approach to their own work as theatre makers. 
+Content 
+There are two areas of focus. 
+1. S tudy of one complete performance text. 
+2. A live theatre evaluation. 
+Text choice 
+Centres have a choice when selecting what live theatre visits to make. However, for Section 
+A they must select one performance text. The texts have been grouped into two time 
+periods and categorised by genre and playwright. List A consists of pre-1954 texts and List B 
+represents post-2000 texts.  
+List A (pre-1954) 
+Performance text Genre Prescribed edition* 
+A Doll’s House, Henrik Ibsen 
+(adapted by Tanika Gupta) 
+Historical drama Methuen Drama (Bloomsbury) 
+ISBN 9781350261075 
+An Inspector Calls,  
+J B Priestley 
+Social thriller/mystery Heinemann 
+ISBN 9780435232825 
+Antigone, Sophocles (adapted 
+by Roy Williams) 
+Tragedy Methuen Drama (Bloomsbury) 
+ISBN 9781350260849 
+Government Inspector,  
+Nikolai Gogol (adapted by 
+David Harrower) 
+Black comedy Faber & Faber 
+ISBN 9780571280490 
+The Crucible, Arthur Miller Historical drama Methuen Drama Student Edition  
+ISBN 9781350245778 
+Twelfth Night,  
+William Shakespeare 
+Romantic comedy New Longman Shakespeare 
+ISBN 9780582365780 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+47 
+List B (post-2000) 
+Performance text Genre Prescribed edition* 
+100, Diene Petterle,  
+Neil Monaghan and  
+Christopher Heimann 
+Ensemble story-telling Nick Hern Books 
+ISBN 9781854597373 
+1984, George Orwell,  
+Robert Icke and  
+Duncan Macmillan 
+Political satire Oberon Plays 
+ISBN 9781783190614 
+Blue Stockings, Jessica Swale  Historical drama Nick Hern Books 
+ISBN 9781848423299 
+DNA, Dennis Kelly Black comedy Oberon Plays 
+ISBN 9781840029529  
+(school edition)/ 
+9781350188044 (student edition)
+†  
+The Free9, In-Sook Chappell Tragedy/ensemble 
+story-telling 
+Methuen Drama (Bloomsbury) 
+ISBN 9781350261037 
+Gone Too Far!, Bola Agbaje Social drama Methuen Drama (Bloomsbury) 
+ISBN 9781350258433 
+*The prescribed editions will be used to reproduce extracts for examination purposes. Centres are free 
+to choose a different edition for teaching purposes. 
+† The 9781350188044 student edition will replace the current 9781840029529 school edition in terms of 
+reproduction of extracts for examination purposes. 
+Contrast requirement 
+The performance text chosen for this component must be in contrast with the text used for 
+performance in Component 2 and centres must inform Pearson of their choices, please see 
+pages 6–8 for more details. 
+The study of one performance text 
+Students must study a complete performance text and then will respond to an unseen 
+extract from their chosen performance text in the exanimation. The unseen extract will be 
+from a scene or moment that is significant to the text as whole. Extracts will be between  
+80–100 lines long (this includes spoken dialogue and stage directions). Please note 
+performance texts are not permitted in the examination.  
+Students must practically consider the ways and develop ideas in which performers, directors 
+and designers create impact and meaning through the elements of performance, including: 
+● acting style and purpose, including vocal and physical skills 
+● set and props, including stage furniture and personal props 
+● lighting and sound, including colour and music 
+● costume, makeup and masks as appropriate 
+● use of stage space and spatial relationships, including levels and entrance points  
+● intended impact and meaning for the audience. 
+Students must contribute to exploration of the performance text, so that they are able to 
+offer possible interpretations from the perspective of performer, director or designer.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+48 
+Practical work should involve gaining knowledge and understanding to explore: 
+● the playwright’s use of meaning, genre, structure, character, form, style, language and 
+stage directions for communication between performer and audience 
+● vocal and physical interpretation of character 
+● design elements, including staging and visual communication, costume, lighting, set and 
+sound  
+● sketches and drawings to represent stage space 
+● performance style and theatrical devices. 
+Knowledge and understanding 
+Students are required to: 
+● understand the practices used in twenty-first century theatre-making 
+● understand production elements and theatrical conventions 
+● understand the role of theatre makers in contemporary practice including performers, 
+directors and designers 
+● understand how the meaning of a text might be interpreted and communicated to an 
+audience 
+● understand social, historical and/or cultural contexts including the theatre conventions of 
+the period which the text was created and performed*  
+● use appropriate vocabulary and subject-specific terminology. 
+Skills 
+Students must develop the ability to: 
+● analyse and evaluate the work of theatre-makers 
+● recognise specific challenges for performers, directors and designers based on their own 
+experiences in exploring the chosen text  
+● analyse and evaluate the ways in which different performance and production elements 
+are brought together to create theatre 
+● use subject-specific terminology in discussing their work as theatre makers. 
+Students must also be aware of, and be able to use appropriate subject-specific terminology.  
+Live theatre evaluation 
+Students will reflect on their experience as an informed member of an audience at a live 
+theatre performance, enabling them to demonstrate knowledge and understanding of 
+performance through analysis and evaluation.  
+When choosing a performance the following should be taken into consideration: 
+● it must not be a prescribed text from Component 3 
+● it should ideally demonstrate a range of production elements, for example costume, set, 
+sound, lighting 
+● it should present opportunities for students to analyse and evaluate the work of key 
+theatre makers, performers, directors and designers 
+● it must provide opportunities for students to use subject-specific terminology. 
+For the purposes of this qualification, live theatre means being a member of the audience in 
+the same performance space as the performers. It does not include any performance that is 
+sung-through in its entirety. 
+*For those List A texts that have been adapted, namely: A Doll’s House, Antigone, and 
+Government Inspector we require students to consider the theatrical conventions of the 
+period in relation to the original text. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+49 
+The performance can be an amateur or professional production as long as the choice enables 
+students to access the demands of this component. 
+It is desirable for students to see as much live theatre as possible throughout the course, 
+although only one performance will be written about in the examination. 
+Centres are reminded that they must submit a live performance statement to Pearson 
+(please see page 8 for details). If there are extreme extenuating circumstances regarding 
+the access to live theatre for this component, then centres are required to contact 
+drama.assessment@pearson.com. 
+Notes 
+Students are allowed to bring in theatre evaluation notes of up to a maximum of 500 words. 
+These notes must be focused on one performance only and include the details of the title, 
+venue and date seen. These notes should help them to demonstrate knowledge and 
+understanding as an informed member of the audience. 
+These notes may include reference to: 
+● performers, including performers in specific roles 
+● design considerations, including the use of costume, set, lighting and sound  
+● the director’s concept/interpretation and the chosen performance style 
+● impact on the audience, including, specifically, on the student, and how this was achieved 
+● the use of the theatre space 
+● how ideas were communicated during the performance. 
+Sketches, drawings and diagrams may also be included in the notes and used to support the 
+response to the question if required. 
+No pre-published material, including programmes and photographs, may be taken into the 
+examination or form part of the notes.  
+Notes may be handwritten or word processed but the total word limit must not be exceeded. 
+Notes must not be submitted with the examination paper, but retained by the centre and 
+kept until after post-results services deadline. 
+The notes must be attached to the form provided in Appendix 2. 
+Knowledge and understanding 
+Students are required to: 
+● recognise and understand how theatrical choices are used by theatre makers to create 
+impact  
+● understand how the meaning of a text can be interpreted and communicated to an 
+audience 
+● use appropriate vocabulary and subject-specific terminology. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+50 
+Skills 
+Students must develop the ability to: 
+● analyse and evaluate the work of theatre makers 
+● form critical judgements about live theatre based on their understanding of drama and 
+theatre 
+● analyse and evaluate the ways in which different performance and production elements 
+are brought together to create theatre 
+● analyse and evaluate the work of others. 
+Assessment information 
+● First assessment: May/June 2018.  
+● The written examination is 1 hour and 45 minutes. 
+● The assessment is out of 60 marks. 
+● Students must answer all questions related to the performance text they have studied for 
+Section A. For Section B they answer both questions on the performance they have seen. 
+● Section A: Bringing Texts to Life 
+o Consists of one question in five parts that students must answer based on an unseen 
+extract from the chosen performance text. Students answer from the perspective of 
+performer, director and designer. 
+o Worth 45 marks.  
+o AO3 is assessed. 
+o All extracts will be provided in a source booklet. 
+o Performance texts are not allowed in the examination as extracts will be provided. 
+● Section B: Live Theatre Evaluation  
+o Consists of two questions that students must answer on the live theatre performance 
+they have seen.  
+o Worth 15 marks.  
+o AO4 is assessed. 
+o Students may take in notes, however these notes must be attached to the form 
+provided in Appendix 2. 
+● Option 3A covers the List A performance texts and option 3B covers the List B 
+performance texts.  
+● These optional codes will be operational in 2022 to cover the new performance text 
+additions. Centres will need to use the correct entry code to ensure that they receive the 
+correct Question Paper. 
+Synoptic assessment  
+Synoptic assessment requires students to work across different parts of a qualification and to 
+show their accumulated knowledge and understanding of a topic or subject area. 
+Synoptic assessment enables students to show their ability to combine their skills, knowledge 
+and understanding with breadth and depth of the subject.  
+This component assesses synopticity, drawing on the knowledge, understanding and skills 
+learnt from the Components 1 and 2. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+51 
+Sample assessment materials  
+A sample paper and mark scheme for this component can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in Drama Sample Assessment Materials (SAMs) document. 
+Assessment Objectives 
+ 
+Students must: % in 
+GCSE 
+AO1 Create and develop ideas to communicate meaning for theatrical 
+performance. 
+20 
+AO2 Apply theatrical skills to realise artistic intentions in live 
+performance. 
+30 
+AO3 Demonstrate knowledge and understanding of how drama and 
+theatre is developed and performed. 
+30 
+AO4 Analyse and evaluate their own work and the work of others. 20 
+Total 100 
+ 
+Breakdown of Assessment Objectives 
+Component Assessment Objectives Total for all 
+Assessment 
+Objectives AO1% AO2% AO3% AO4% 
+Component 1: Devising  20 10 0 10 40% 
+Component 2: 
+Performance from Text 
+0 20 0 0 20% 
+Component 3: Theatre 
+Makers in Practice 
+0 0 30 10 40% 
+Total for GCSE 20 30 30 20 100% 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+52 
+3 Administration and general information 
+Entries 
+Details of how to enter students for the examinations for this qualification can be found in 
+our UK Information Manual. A copy is made available to all examinations officers and is 
+available on our website: qualifications.pearson.com 
+Discount code and performance tables 
+Centres should be aware that students who enter for more than one GCSE, or other Level 2 
+qualifications with the same discount code, will have only the grade for their ‘first entry’ 
+counted for the purpose of the school and college performance tables (please see 
+Appendix 10: Codes). For further information about what constitutes ‘first entry’ and full 
+details of how this policy is applied, please refer to the DfE website: 
+www.gov.uk/government/organisations/department-for-education 
+Students should be advised that if they take two GCSEs with the same discount code, 
+schools and colleges they wish to progress to are likely to take the view that this 
+achievement is equivalent to only one GCSE. The same view may be taken if students take 
+two GCSEs or other Level 2 qualifications that have different discount codes but have 
+significant overlap of content. Students or their advisers who have any doubts about their 
+subject combinations should check with the institution they wish to progress to before 
+embarking on their programmes. 
+Access arrangements, reasonable adjustments, 
+special consideration and malpractice 
+Equality and fairness are central to our work. Our equality policy requires all students to 
+have equal opportunity to access our qualifications and assessments, and our qualifications 
+to be awarded in a way that is fair to every student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by the Equality Act 2010) are not, 
+when they are undertaking one of our qualifications, disadvantaged in comparison to 
+students who do not share that characteristic 
+● all students achieve the recognition they deserve for undertaking a qualification and that 
+this achievement can be compared fairly to the achievement of their peers. 
+Language of assessment 
+Assessment of this qualification will be available in English. All student work must be in 
+English.  
+Access arrangements 
+Access arrangements are agreed before an assessment. They allow students with special 
+educational needs, disabilities or temporary injuries to:  
+● access the assessment 
+● show what they know and can do without changing the demands of the assessment.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+53 
+The intention behind an access arrangement is to meet the particular needs of an individual 
+student with a disability, without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding bodies comply with the duty under the 
+Equality Act 2010 to make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the start of the course. Students will 
+then know what is available and have the access arrangement(s) in place for assessment.  
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to make reasonable adjustments 
+where a person with a disability would be at a substantial disadvantage in undertaking an 
+assessment. The awarding organisation is required to take reasonable steps to overcome 
+that disadvantage. 
+A reasonable adjustment for a particular person may be unique to that individual and 
+therefore might not be in the list of available access arrangements. 
+Whether an adjustment will be considered reasonable will depend on a number of factors, 
+which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with the disability and other students. 
+An adjustment will not be approved if it involves unreasonable costs to the awarding 
+organisation, timeframes or affects the security or integrity of the assessment. This is 
+because the adjustment is not ‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a student’s mark or grade to 
+reflect temporary injury, illness or other indisposition at the time of the examination/ 
+assessment, which has had, or is reasonably likely to have had, a material effect on a 
+candidate’s ability to take an assessment or demonstrate their level of attainment in  
+an assessment. 
+In relation to live theatre access for Component 3, any extenuating circumstances requests 
+which come through via special arrangement, will be dealt with on a case by case basis. 
+Further information 
+For up-to-date advice on teacher involvement and administration of non-examination 
+assessments, please refer to the Joint Council for Qualifications (JCQ) document Instructions 
+for conducting non-examination assessments (new GCE and GCSE specifications) available 
+on the JCQ website: www.jcq.org.uk 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+54 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that compromises or seeks to 
+compromise the process of assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered before the candidate has signed 
+the declaration of authentication form does not need to be reported to Pearson. 
+Candidate malpractice found in non-examined assessment after the declaration of 
+authenticity has been signed, and in examinations must be reported to Pearson on a JCQ 
+Form M1 (available at www.jcq.org.uk/exams-office/malpractice). The form should be 
+emailed to candidatemalpractice@pearson.com. Please provide as much information and 
+supporting documentation as possible. Note that the final decision regarding appropriate 
+sanctions lies with Pearson. 
+Failure to report candidate malpractice constitutes staff or centre malpractice.  
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate malpractice and maladministration of 
+our qualifications. As with candidate malpractice, staff and centre malpractice is any act that 
+compromises or seeks to compromise the process of assessment or undermines the integrity 
+of the qualifications or the validity of results/certificates. Centres should be aware that if they 
+do not submit the online forms relating to contrasting text requirements or the live 
+performance statement, then this may result in centre malpractice/maladministration. If there 
+are extenuating circumstances that prevent students from seeing live theatre performance, 
+centres need to apply for special arrangements and if centres fail to do this, it may result in 
+centre malpractice/maladministration. 
+All cases of suspected staff malpractice and maladministration must be reported 
+immediately, before any investigation is undertaken by the centre, to Pearson on a  
+JCQ Form M2(a) (available at www.jcq.org.uk/exams-office/malpractice). The form, 
+supporting documentation and as much information as possible should be emailed to 
+pqsmalpractice@pearson.com. Note that the final decision regarding appropriate sanctions 
+lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More detailed guidance on malpractice can be found in the latest version of the document 
+General and Vocational Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at www.jcq.org.uk/exams-office/malpractice. 
+Centre marking training will be organised by Pearson and will include training on the 
+administrative requirements and best practice so as to avoid potential maladministration 
+and/or malpractice. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+55 
+Examiners and moderators for the non-examination assessment components will be trained 
+in the administrative arrangements that are required of centres. The following examples of 
+possible centre maladministration or malpractice should be brought to the attention of 
+Pearson: 
+● incorrect group sizes 
+● incorrect times allocated to groups 
+● recordings not being made 
+● recordings not sent to examiner 
+● recordings sent in unusable format 
+● candidate costume making candidates hard to identify 
+● candidates not identified on recordings 
+● inappropriate use of non-assessed candidates 
+● extremely small roles allocated to candidates. 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to comply with the requirements of 
+Ofqual’s General Conditions of Recognition. 
+The raw marks for Components 1, 2 and 3 in this qualification will be scaled by Pearson to 
+represent the relative weighting of 40% for Component 1, 20% for Component 2 and 40% 
+for Component 3.  Any marks submitted by the centre should be in raw marks based on the 
+assessment grids for Component 1. 
+ 
+Component Weighting Raw marks Scaling factor Scaling mark 
+Component 1 40% 60 1.6 96 
+Component 2 20% 48 1.0 48 
+Component 3 40% 60 1.6 96 
+ 
+This GCSE qualification will be graded and certificated on a nine-grade scale from 9 to 1 
+using the total subject mark where 9 is the highest grade. Individual components are not 
+graded.  
+Students whose level of achievement is below the minimum judged by Pearson to be of 
+sufficient standard to be recorded on a certificate will receive an unclassified U result.  
+The first certification opportunity for this qualification will be 2018. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+56 
+Student recruitment and progression 
+Pearson follows the JCQ policy concerning recruitment to our qualifications in that: 
+● they must be available to anyone who is capable of reaching the required standard 
+● they must be free from barriers that restrict access and progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this qualification. 
+Progression 
+Students can progress from this qualification to: 
+● A Level in Drama and Theatre  
+● related vocational qualifications such as BTEC Level 3 Performing Arts 
+● Extended Project Level 3 Unit 3 Performance.  
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+57 
+Appendices 
+Appendix 1: Non-examination assessment authentication sheet 
+(Component 1) 58 
+Appendix 2: Live theatre evaluation notes form (Component 3) 59 
+Appendix 3: Design roles minimum resource guidance for centres 60 
+Appendix 4: Best practice when recording performance 61 
+Appendix 5: Guidance on selecting suitable material for students 63 
+Appendix 6: Mark penalty tables for performances/design realisations 
+not meeting the minimum assessment time – Component 2 64 
+Appendix 7: Diversity and Inclusion statement 66 
+Appendix 8: The context for the development of this qualification 68 
+Appendix9: Transferable skills 70 
+Appendix 10: Codes 71 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+58 
+Appendix 1: Non-examination assessment 
+authentication sheet (Component 1) 
+ 
+The authentication form must be completed and submitted digitally along with the portfolio. 
+Please scan it and then insert at the front of each candidate’s portfolio. The form requires 
+information on the portfolio produced by each candidate and the performance/design 
+realisation undertaken for Component 1. The form also requires the marks awarded for the 
+portfolio and for the performance/design realisation. There is a section for teacher and 
+candidate declarations in relation to the work submitted. 
+Please see our website for the most up-to-date version of this form.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+59 
+Appendix 2: Live theatre evaluation notes 
+form (Component 3) 
+ 
+This form must be completed and attached to the live theatre evaluation notes produced by 
+each candidate. The form provides instructions on how to complete the notes and what 
+happens after the notes are completed and what to do with them on the day of the 
+examination. There is a section for teacher and candidate declarations in relation to the notes 
+submitted. 
+Please see our website for the most up-to-date version of this form:  
+https://qualifications.pearson.com/en/qualifications/edexcel-gcses/drama-2016.html 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+60 
+Appendix 3: Design roles minimum resource 
+guidance for centres 
+Centres intending to offer design routes to students need to ensure they have the resources 
+and appropriate equipment to support these students, so that they can meet the demands of 
+this qualification.  
+Centres must provide a performance space appropriate to the performance which has 
+adequate space for technicians and well as performers and audience. 
+The student is in the role of the designer – not the technician, wardrobe manager, costume 
+maker, carpenter or craftsperson – though they will have to be involved in the execution of 
+the design. 
+To ensure compliance with safety standards, health and safety risk assessments should be 
+completed. 
+ 
+Design role Resource guidance 
+Costume design ● Students will have to work within specified budget constraints to 
+realise their design. 
+● Students should have access to an appropriate range of construction 
+materials and, if required, the equipment needed to manufacture the 
+costumes. The ability to manufacture the costume is not a 
+specification requirement but students need to be involved in the 
+execution of the design. 
+● Students may source individual elements for their costume 
+design(s), however no complete costume can be sourced. 
+Lighting design Students need access to: 
+● a minimum of three different types of lantern 
+● lighting bars or stands with T bars from which to hang lanterns 
+● a minimum of 12 independently controllable channels 
+● a lighting console – this may be manual or programmable but should 
+allow for cross fading and facilitate two pre-set operations. 
+Set design   ● Students will have to work within specified budget constraints to 
+realise their design. 
+● They should have access to an appropriate range of construction 
+materials and, if required, the equipment needed to manufacture the 
+set. The ability to manufacture the set is not a specification 
+requirement, although students need to be involved in the execution 
+of the design. 
+● Set and construction materials may come from the centre’s stock or 
+can be hired or purchased. 
+Sound design Students need access to: 
+● a sound reproduction system 
+● sound-processing devices 
+● at least two different types of microphone 
+● access to pre-recorded sound sources. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+61 
+Appendix 4: Best practice when recording 
+performance  
+The following guidance applies for the non-examination assessment component when 
+recorded evidence is required for assessment purposes.  
+The purpose of the recording is to evidence all marks awarded, therefore all recordings must 
+be made under examination conditions.  
+It must be understood that the performances and the recording of these are for examination 
+purposes only. Any performances or recordings of performances undertaken by centres 
+outside of the context of the examination must seek copyright permission for works in 
+copyright.  
+1. All recordings must be complete and unedited for each performance. 
+2. The camera must be positioned to ensure the best possible and unobstructed recording 
+is made of the performance, as it would be seen by the marker/examiner.  
+3. Each student should introduce themselves at the start of each recording. They should 
+provide the following information: 
+• name and candidate number 
+• details of the performance or design role. 
+Before the assessment: 
+4. Check resources for the recording. 
+• ensure that the camera being used has appropriate facilities for adjusting recorded 
+sound levels – particularly if the camera is to be positioned some distance from the 
+students.  
+• check that the picture recorded by the camera is clear enough to identify individual 
+students.  
+• ensure that memory cards have sufficient space for each recording. 
+• check the camera battery is charged and a power lead is plugged in/available if 
+needed. 
+5. Clear student identification. 
+• plan with students costumes that will support identification on the recording, for 
+example, different coloured t-shirts or jackets; distinct costume or prop items. 
+• test how these costumes look on camera from an identification point of view, 
+particularly for students in large groups.  
+• when watching work prior to the marking, check that students’ use of stage space can 
+be captured by the camera. 
+• make any preparation for identification needed, for example: 
+- A4 sheets stating student name and number in a large font for students to hold up 
+to camera as part of the introduction 
+- full length group photographs or static shot of students in costume (for visiting 
+examiner assessment) 
+- labelled screen shots of students in performance (for moderator assessment) 
+• ensure that students have had an opportunity to practice giving clear, well-paced 
+introductions stating both name and candidate number. 
+• make a note on the appropriate paperwork of costume/costume changes for each 
+candidate. 
+NB: Centres must not allow students to be costumed very similarly for example, all in black, 
+as this is not supportive of the assessment process.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+62 
+Students are assessed as individuals and as such, it is vital that they can be identified 
+individually throughout all assessed performances. 
+6. Test the camera. 
+• record a small section of work (perhaps a dress rehearsal) using the actual camera 
+needed for the performance with students speaking in the performance space. 
+• check that an audio signal has been recorded and that students can be seen without 
+obstruction and heard clearly. 
+• adjust camera position and/or recording levels as needed. 
+At the beginning of the assessment: 
+7. Position the camera as practised. 
+8. Recording must begin with all students in a full length group shot, as they appear in 
+performance. 
+9. Film each performance, beginning with the student introductions. Each student must 
+then introduce themselves, with a clear pace and at audible volume, stating name, 
+student number and role(s). Students must also describe and/or show any costume 
+changes. 
+NB: The performance for that group must follow the introductions in a single recording. 
+During the performance: 
+10. Check that recording is taking place for each group and that students are fully visible 
+on screen. 
+11. Check available power/battery/memory as needed in between the examination 
+performances. 
+After the examination: 
+12. Check the recordings, ensuring that each group has been recorded with audio. 
+13. Ensure that all recordings are backed up as well as transferred to the appropriate 
+format for assessment. 
+14. Recording should be saved with the centre number, qualification title and the relevant 
+component number. 
+15. Ensure that the recordings are kept secure until sent to Pearson and any backups kept 
+safely until after EARs (enquiries about results). 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+63 
+Appendix 5: Guidance on selecting suitable 
+material for students 
+The following guidance is to be taken into consideration when selecting stimuli material(s) for 
+Component 1: Devising, and performance text(s) for Component 2: Performance from Text. 
+In selecting material, centres are advised that the following is deemed inappropriate for this 
+age group: 
+● violence acted out against another character that dwells on the infliction of pain or injury 
+● gratuitous violence 
+● frequent use of strong language and swearing 
+● explicit portrayals of sexual activity 
+● scenes of sexual violence 
+● nudity 
+● scenes promoting drug taking 
+● material that could be considered offensive on the grounds of race, religion or gender. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+64 
+Appendix 6: Mark penalty tables for 
+performances/design realisations not 
+meeting the minimum assessment time – 
+Component 2  
+The proportional time penalty will be applied, by Pearson Edexcel, after the work has been 
+marked by the examiner, using the conversion tables below.  
+Examiners will be required to only apply the assessment criteria as presented on pages  
+40–46. 
+The penalty is proportional to the performance length. 
+ 
+2-minute minimum for 
+monologue 
+Total time 
+(minutes and 
+seconds) 
+Percentage 
+applied to 
+final mark 
+1:45 to 1:59 87.50% 
+1:30 to 1:44 75.00% 
+1:15 to 1:29 62.50% 
+1:00 to 1:14 50.00% 
+0:45 to 0:59 37.50% 
+0:30 to 0:44 25.00% 
+0:15 to 0:29 12.50% 
+0:00 to 0:14 0.00% 
+ 
+3-minute minimum for 
+duologue 
+Total time 
+(minutes and 
+seconds) 
+Percentage 
+applied to 
+final mark 
+2:45 to 2:59 91.67% 
+2:30 to 2:44 83.33% 
+2:15 to 2:29 75.00% 
+2:00 to 2:14 66.67% 
+1:45 to 1:59 58.33% 
+1:30 to 1:44 50.00% 
+1:15 to 1:29 41.67% 
+1:00 to 1:14 33.33% 
+0:45 to 0:59 25.00% 
+0:30 to 0:44 16.67% 
+0:15 to 0:29 8.33% 
+0:00 to 0:14 0.00% 
+  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+65 
+ 
+4-minute minimum for group 
+performance 
+Total time 
+(minutes and 
+seconds) 
+Percentage 
+applied to 
+final mark 
+3:45 to 3:59 93.75% 
+3:30 to 3:44 87.50% 
+3:15 to 3:29 81.25% 
+3:00 to 3:14 75.00% 
+2:45 to 2:59 68.75% 
+2:30 to 2:44 62.50% 
+2:15 to 2:29 56.25% 
+2:00 to 2:14 50.00% 
+1:45 to 1:59 43.75% 
+1:30 to 1:44 37.50% 
+1:15 to 1:29 31.25% 
+1:00 to 1:14 25.00% 
+0:45 to 0:59 18.75% 
+0:30 to 0:44 12.50% 
+0:15 to 0:29 6.25% 
+0:00 to 0:14 0.00% 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+66 
+Appendix 7: Diversity and Inclusion 
+statement 
+We are committed to listening, learning and working together with all of you to support the 
+delivery of a broad and inclusive drama curriculum. We are proud to work with students, 
+teachers and the drama community to help drive change. To join the conversation and share 
+your feedback, please get in touch with our subject advisor via 
+TeachingPerformingArts@pearson.com.  
+The following external partners have helped shape our qualification content and support our 
+commitment to ensuring students have the opportunity to study a representative and 
+inclusive drama curriculum. 
+ 
+Bola Agbaje 
+Playwright and screenwriter 
+Carolyn Bradley 
+Head of Drama and education consultant 
+In-Sook Chappell 
+Playwright 
+Sam Cairns and Lizzie Crump 
+Co-Directors, Cultural Learning Alliance 
+Clint Dyer 
+Deputy Artistic Director, National Theatre 
+mezze eade 
+Drama consultant 
+Nadia Fall 
+Artistic Director, Theatre Royal Stratford  
+East 
+Romana Flello 
+Participation Manager, Royal Court Theatre 
+Tanika Gupta MBE 
+Playwright and screenwriter 
+Simeilia Hodge-Dallaway 
+Founder and CEO at Beyond The Canon 
+Founder and Former Artistic Director at 
+Artistic Directors of the Future 
+Co-Founder at Black Lives Black Words 
+International Project and Curatorial Consultant 
+at Manchester International Festival. 
+Chris Lawson 
+Artistic Director, Oldham Coliseum Theatre 
+Karen Latto 
+Co-Founder, Open Drama UK 
+Rufus Norris 
+Artistic Director, National Theatre 
+Chris Lawson  
+Artistic Director, Oldham Coliseum Theatre  
+Rachel O’Riordan 
+Artistic Director and CEO, Lyric  
+Hammersmith Theatre 
+Matthew Nichols   
+Drama education consultant and author  
+Roy Williams 
+Playwright 
+National Drama  
+Subject association for Drama teachers and 
+theatre educators.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+67 
+ 
+London Theatre Consortium 
+This is a partnership of 14 of following London’s not-for-profit producing theatres: 
+● Almeida Theatre 
+● Battersea Arts Centre 
+● Bush Theatre 
+● Donmar Warehouse 
+● Gate Theatre 
+● Hampstead Theatre 
+● Kiln Theatre 
+● Lyric Hammersmith Theatre 
+● Royal Court Theatre 
+● Soho Theatre 
+● Stratford East 
+● Unicorn Theatre 
+● The Yard 
+● Young Vic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+68 
+ 
+Appendix 8: The context for the 
+development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] and our 
+ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+● reviewing other curricula and qualifications to ensure that it is comparable with those 
+taken in high-performing jurisdictions overseas 
+● consulting with key stakeholders on content and assessment, including subject 
+associations, higher-education academics and teachers to ensure this qualification is 
+suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in their 
+documents GCSE (9 to 1) Qualification Level Conditions and Requirements and GCSE Subject 
+Level Conditions and Requirements for Drama, published in May 2015. 
+ 
+ 
+[1] Pearson’s World Class Qualification Principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep learning and 
+measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing reliable and valid 
+assessment tasks and processes, and generating confidence in end users of the knowledge, skills and 
+competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that students develop at 
+different rates and have different learning needs, and focusing on progression 
+● empowering, through promoting the development of transferable skills, see Appendix 9. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+69 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+May 2014 
+“ The reform of the qualifications system in England is a profoundly important change to the 
+education system. Teachers need to know that the new qualifications will assist them in 
+helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an ‘Expert 
+Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or because of 
+our experience in reforming qualifications in other systems around the world as diverse as 
+Singapore, Hong Kong, Australia and a number of countries across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification development 
+process that has included: 
+● extensive international comparability of subject content against the highest-performing 
+jurisdictions in the world 
+● benchmarking assessments against UK and overseas providers to ensure that they are at 
+the right level of demand 
+● establishing External Subject Advisory Groups, drawing on independent subject-specific 
+expertise to challenge and validate our qualifications 
+● subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future oriented. The 
+design has been guided by what is called an ‘Efficacy Framework’, meaning learner outcomes 
+have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a learner’s 
+success in education. As a result of our work as a panel we are confident that we have 
+supported the development of qualifications that are outstanding for their coherence, 
+thoroughness and attention to detail and can be regarded as representing world-class best 
+practice. 
+”    
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong  
+Director, National Institute of Education, 
+Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+All titles correct as of May 2014 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+70 
+Appendix9: Transferable skills 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently flagged the 
+need for students to develop a range of transferable skills to enable them to respond with 
+confidence to the demands of undergraduate study and the world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines skills, or 
+competencies, as ‘the bundle of knowledge, attributes and capacities that can be learned and 
+that enable individuals to successfully and consistently perform an activity or task and can be 
+built upon and extended through learning.’ [1] 
+To support the design of our qualifications, the Pearson Research Team selected and 
+evaluated seven global 21st-century skills frameworks. Following on from this process, we 
+identified the National Research Council’s (NRC) framework as the most evidence-based and 
+robust skills framework. We adapted the framework slightly to include the Program for 
+International Student Assessment (PISA) ICT Literacy and Collaborative Problem Solving 
+(CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: [2]  
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve general 
+cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and communicate. [3]  
+Interpersonal skills 
+● Communication – active listening, oral communication, written communication, assertive 
+communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, service 
+orientation, self-presentation, social influence, conflict resolution and negotiation. 
+● Collaborative problem solving – establishing and maintaining shared understanding, 
+taking appropriate action, establishing and maintaining team organisation. 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work stress, 
+adapting to different personalities, communication styles and cultures, and physical 
+adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual teams, 
+work autonomously, be self-motivating and self-monitoring, willing and able to acquire 
+new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher education, 
+as well as the demands of the workplace, and are important in the teaching and learning of 
+this qualification. We will provide teaching and learning materials, developed with 
+stakeholders, to support our qualifications. 
+ 
+[1]  OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+[2]  Koenig, J. A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop 
+(National Academies Press, 2011) 
+[3]  PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Drama 
+Specification – Issue 6 – August 2025 © Pearson Education Limited 2025 
+71 
+Appendix 10: Codes 
+ 
+Type of code Use of code Code 
+Discount codes Every qualification eligible for 
+performance tables is assigned a discount 
+code indicating the subject area to which 
+it belongs. 
+Discount codes are published by the DfE. 
+Please see the GOV.UK 
+website* 
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes 
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a Qualification 
+Number (QN). This is the code that 
+features in the DfE Section 96 and on the 
+LARA as being eligible for 16–18 and 19+ 
+funding, and is to be used for all 
+qualification funding purposes. The QN 
+will appear on students’ final certification 
+documentation. 
+The QN for this 
+qualification is: 
+601/8491/7 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. Centres 
+will need to use the entry codes only 
+when claiming students’ qualifications. 
+GCSE – 1DR0 
+ 
+Component codes These codes are provided for reference 
+purposes. Students do not need to be 
+entered for individual components. 
+Component 1: 1DR0/01 
+Component 2: 1DR0/02 
+Component 3: 1DR0/3A 
+1DR0/3B 
+ 
+* GOV.UK website 
+ 
+DB200225 9781446926314_GCSE2016_L12_DRAMA_ISSUE_6.DOC.1–79/0 
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office: 80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121

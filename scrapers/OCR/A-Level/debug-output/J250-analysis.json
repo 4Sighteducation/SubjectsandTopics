@@ -1,0 +1,68 @@
+```json
+{
+    "tiers": {
+        "has_tiers": true,
+        "foundation_content": "Foundation Tier, grades 5–5 to 1–1",
+        "higher_content": "Higher Tier, grades 9–9 to 4–4",
+        "differences": [
+            "Foundation Tier covers Papers 1-6",
+            "Higher Tier covers Papers 7-12",
+            "Content is similar but assessed at different levels"
+        ]
+    },
+    "options": {
+        "has_options": false,
+        "compulsory": [],
+        "optional": []
+    },
+    "texts": {
+        "has_texts": false,
+        "text_locations": [],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "chapter-based",
+    "content_overview": {
+        "main_sections": [
+            "Biology Topics B1-B6",
+            "Chemistry Topics C1-C6",
+            "Physics Topics P1-P6",
+            "Practical Skills CS7"
+        ],
+        "organization": "Content is organized by subject (Biology, Chemistry, Physics) and further divided into topics.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "Paper 1 (Biology)",
+            "Paper 2 (Biology)",
+            "Paper 3 (Chemistry)",
+            "Paper 4 (Chemistry)",
+            "Paper 5 (Physics)",
+            "Paper 6 (Physics)",
+            "Paper 7 (Biology)",
+            "Paper 8 (Biology)",
+            "Paper 9 (Chemistry)",
+            "Paper 10 (Chemistry)",
+            "Paper 11 (Physics)",
+            "Paper 12 (Physics)"
+        ],
+        "content_mapping": {
+            "Paper 1": "Biology Topics B1-B4, Practical skills",
+            "Paper 2": "Biology Topics B5-B6, Practical skills",
+            "Paper 3": "Chemistry Topics C1-C4, Practical skills",
+            "Paper 4": "Chemistry Topics C5-C6, Practical skills",
+            "Paper 5": "Physics Topics P1-P4, Practical skills",
+            "Paper 6": "Physics Topics P5-P6, Practical skills",
+            "Paper 7": "Biology Topics B1-B4, Practical skills",
+            "Paper 8": "Biology Topics B5-B6, Practical skills",
+            "Paper 9": "Chemistry Topics C1-C4, Practical skills",
+            "Paper 10": "Chemistry Topics C5-C6, Practical skills",
+            "Paper 11": "Physics Topics P1-P4, Practical skills",
+            "Paper 12": "Physics Topics P5-P6, Practical skills"
+        },
+        "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting content by subject and topic, ensuring to capture tier differences and practical skills integration."
+}
+```

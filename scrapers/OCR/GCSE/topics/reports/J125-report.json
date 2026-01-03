@@ -1,0 +1,12 @@
+{
+  "subject_code": "J125",
+  "subject_name": "Religious Studies Short Course",
+  "success": false,
+  "error": "PDF download failed",
+  "topics_extracted": 0,
+  "levels": {},
+  "issues": [
+    "PDF download failed"
+  ],
+  "success_grade": 0
+}

@@ -1,0 +1,74 @@
+# Edexcel GCSE Mathematics Configuration
+
+subject:
+  code: "GCSE-Maths"
+  name: "Mathematics"
+  qualification: "GCSE"
+  exam_board: "Edexcel"
+  pdf_url: "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf"
+
+scraping:
+  page_range: "5-50"  # Pages 5-50 contain content (54 total pages, last few are appendices)
+  table_flavor: "stream"  # Mathematics may not have bordered tables
+  custom_scraper: "mathematics"  # Use custom scraper for this format
+
+# Level 0: Tiers (Foundation and Higher)
+components:
+  - code: "Foundation"
+    title: "Foundation tier knowledge, skills and understanding"
+  
+  - code: "Higher"
+    title: "Higher tier knowledge, skills and understanding"
+
+# Level 1: Topics (IDENTICAL in both tiers)
+topics:
+  # Foundation tier topics
+  - code: "Foundation_Number"
+    title: "Number"
+    parent: "Foundation"
+  
+  - code: "Foundation_Algebra"
+    title: "Algebra"
+    parent: "Foundation"
+  
+  - code: "Foundation_Ratio"
+    title: "Ratio, Proportion and Rates of change"
+    parent: "Foundation"
+  
+  - code: "Foundation_Geometry"
+    title: "Geometry and Measures"
+    parent: "Foundation"
+  
+  - code: "Foundation_Statistics"
+    title: "Statistics & Probability"
+    parent: "Foundation"
+  
+  # Higher tier topics (same structure)
+  - code: "Higher_Number"
+    title: "Number"
+    parent: "Higher"
+  
+  - code: "Higher_Algebra"
+    title: "Algebra"
+    parent: "Higher"
+  
+  - code: "Higher_Ratio"
+    title: "Ratio, Proportion and Rates of change"
+    parent: "Higher"
+  
+  - code: "Higher_Geometry"
+    title: "Geometry and Measures"
+    parent: "Higher"
+  
+  - code: "Higher_Statistics"
+    title: "Statistics & Probability"
+    parent: "Higher"
+
+# Topic mapping for scraper
+topic_mapping:
+  "N": "Number"  # N1, N2, etc. map to Number topic
+  "A": "Algebra"  # A1, A2, etc. map to Algebra topic
+  "R": "Ratio"  # R1, R2, etc. map to Ratio topic
+  "G": "Geometry"  # G1, G2, etc. map to Geometry topic
+  "S": "Statistics"  # S1, S2, etc. map to Statistics topic
+

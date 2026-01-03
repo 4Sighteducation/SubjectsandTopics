@@ -1,0 +1,119 @@
+{
+  "batch_name": "IAL Retry Failed Subjects",
+  "start_time": "2025-11-16T19:56:06.309391",
+  "end_time": "2025-11-16T20:11:35.505596",
+  "elapsed_seconds": 929.1961433887482,
+  "elapsed_formatted": "15.5 minutes",
+  "summary": {
+    "total": 11,
+    "success": 11,
+    "failed": 0,
+    "total_topics": 1801
+  },
+  "results": [
+    {
+      "code": "IAL-Economics",
+      "name": "Economics",
+      "status": "success",
+      "topics": 115,
+      "time_seconds": 48.80156183242798
+    },
+    {
+      "code": "IAL-EnglishLanguage",
+      "name": "English Language",
+      "status": "success",
+      "topics": 109,
+      "time_seconds": 83.21131539344788
+    },
+    {
+      "code": "IAL-EnglishLiterature",
+      "name": "English Literature",
+      "status": "success",
+      "topics": 132,
+      "time_seconds": 88.33287167549133
+    },
+    {
+      "code": "IAL-French",
+      "name": "French",
+      "status": "success",
+      "topics": 96,
+      "time_seconds": 105.12651991844177
+    },
+    {
+      "code": "IAL-Law",
+      "name": "Law",
+      "status": "success",
+      "topics": 214,
+      "time_seconds": 77.79439616203308
+    },
+    {
+      "code": "IAL-Mathematics",
+      "name": "Mathematics",
+      "status": "success",
+      "topics": 341,
+      "time_seconds": 170.0969045162201
+    },
+    {
+      "code": "IAL-FurtherMaths",
+      "name": "Further Mathematics",
+      "status": "success",
+      "topics": 98,
+      "time_seconds": 43.5915002822876
+    },
+    {
+      "code": "IAL-PureMaths",
+      "name": "Pure Mathematics",
+      "status": "success",
+      "topics": 342,
+      "time_seconds": 119.92543029785156
+    },
+    {
+      "code": "IAL-Physics",
+      "name": "Physics",
+      "status": "success",
+      "topics": 75,
+      "time_seconds": 54.96704840660095
+    },
+    {
+      "code": "IAL-Psychology",
+      "name": "Psychology",
+      "status": "success",
+      "topics": 183,
+      "time_seconds": 67.020343542099
+    },
+    {
+      "code": "IAL-Spanish",
+      "name": "Spanish",
+      "status": "success",
+      "topics": 96,
+      "time_seconds": 37.26950979232788
+    }
+  ],
+  "checkpoint": {
+    "completed": [
+      "IAL-Accounting",
+      "IAL-Arabic",
+      "IAL-Biology",
+      "IAL-Business",
+      "IAL-Chemistry",
+      "IAL-Geography",
+      "IAL-German",
+      "IAL-Greek",
+      "IAL-History",
+      "IAL-IT",
+      "IAL-Economics",
+      "IAL-EnglishLanguage",
+      "IAL-EnglishLiterature",
+      "IAL-French",
+      "IAL-Law",
+      "IAL-Mathematics",
+      "IAL-FurtherMaths",
+      "IAL-PureMaths",
+      "IAL-Physics",
+      "IAL-Psychology",
+      "IAL-Spanish"
+    ],
+    "failed": [],
+    "skipped": []
+  }
+}

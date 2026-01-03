@@ -1,0 +1,69 @@
+Here is the complete hierarchy for Module 3: Global tectonics, including all content from the "Learning outcomes" column:
+
+3 Module 3: Global tectonics
+3.1 Earth structure
+3.1.1 The physical structure of the Earth
+3.1.1.1 (a) the layered structures of the Earth as defined by the rheological properties of the layers
+3.1.1.2 (b) how the variation in P and S wave velocities provides indirect evidence to identify layers within the Earth and how their paths through the Earth produce the P wave and S wave shadow zones
+3.1.1.3 (c) the lithosphere as a rigid, brittle layer made of the crust and part of the upper mantle, which is divided into plates
+3.1.1.4 (d) how evidence from gravity anomalies and isostasy provides indirect evidence to determine the behaviour of the lithosphere and asthenosphere
+3.1.1.5 (e) how indirect evidence from electromagnetic (EM) surveys may be used to identify the lithosphere and asthenosphere at mid-ocean ridges
+3.1.1.6 (f) the nature of the asthenosphere as a rheid, plastic layer with 1–5% partial melting
+3.1.1.7 (g) how the density of the whole Earth and the rocks at the surface provide indirect evidence to infer the density of the core and mantle rocks
+3.1.1.8 (h) the probable geodynamo origin of the Earth’s magnetic field which provides indirect evidence for the subdivision of the core
+3.1.2 The origin of the Earth’s structure
+3.1.2.1 (a) the bulk composition of the Earth and how it is inferred from the composition of meteorites (chondrites) and the Sun
+3.1.2.2 (b) a qualitative explanation of the nebular hypothesis for the formation of the solar system and the Earth
+3.1.2.3 (c) the transfer of geothermal energy from:
+3.1.2.3.1 (i) heat of formation by the Earth
+3.1.2.3.2 (ii) radioactive decay within the Earth
+3.1.2.4 (d) the Goldschmidt classification of elements into four groups and a qualitative understanding of the preferred formation of states of substances (oxides and sulfides)
+3.1.2.5 (e) the differentiation of the Earth into layers of distinct composition and density by the partitioning of each of the Goldschmidt groups between the crust, mantle, core, and atmosphere and hydrosphere
+3.1.2.6 (f) the geochemical layered structure of the Earth as defined by the mineral composition of the layers and how the composition of these layers is inferred from direct evidence
+3.2 Plate tectonics
+3.2.1 The plate tectonics paradigm
+3.2.1.1 (a) the transfer of energy from within the Earth which drives the Earth’s internal geological processes
+3.2.1.2 (b) 
+3.2.1.2.1 (i) the evidence from earthquake seismology data for the nature of lithospheric plates (aseismic interiors and boundaries defined by seismic activity)
+3.2.1.2.2 (ii) the evidence for structure in the mantle from seismic tomography data
+3.2.1.2.3 (iii) the interpretation and analysis of seismograms
+3.2.1.3 (c) the nature of lithospheric plates: aseismic interiors and boundaries defined by seismic activity
+3.2.1.4 (d) how the global distribution of geological features of the same age provides evidence to reconstruct historical plate movement
+3.2.1.5 (e) the evidence for mantle plumes
+3.2.1.6 (f) how the resolution and precision of the direct measurement of relative movement of points on different plates using global positioning systems (GPS) allow accurate measurement of the current relative movement of lithospheric plates
+3.2.1.7 (g) subduction zones, lithospheric plates (cold thermal boundary) and mantle plumes which act as the active limbs of the convection cells which transfer energy from within the Earth
+3.2.1.8 (h) how gravity and differences in density result in ridge push at mid-ocean ridges
+3.2.1.9 (i) the relative importance of slab pull at subduction zones and ridge push at mid-ocean ridges as mechanisms driving the movement of tectonic plates
+3.2.1.10 (j) 
+3.2.1.10.1 (i) how the plate tectonic paradigm emerged from previous, gradually more sophisticated models (geosynclines, continental drift, active mantle convection carrying passive tectonic plates)
+3.2.1.10.2 (ii) interpretation of these and other examples of such developing models
+3.2.2 Plate boundaries and igneous processes
+3.2.2.1 (a) the generation of mafic magma by partial melting which results from upwelling of the mantle at divergent plate boundaries and intraplate hot spot settings
+3.2.2.2 (b) the generation of intermediate and silicic magmas at convergent plate boundaries where crustal material is carried downward resulting in partial melting
+3.2.2.3 (c) the processes of intrusion which cause a body of magma to ascend through the crust and how these affect the country rock
+3.2.2.4 (d) 
+3.2.2.4.1 (i) the characteristics of major and minor intrusive bodies and the settings under which they form
+3.2.2.4.2 (ii) the use of geodetic and geophysical data to identify the subsurface intrusion of magma
+3.2.2.5 (e) 
+3.2.2.5.1 (i) how changes in the properties of magma can affect buoyancy forces such that the magma can make its way to the surface producing a volcanic eruption
+3.2.2.5.2 (ii) practical investigations to model the properties of magma and how changes to conditions can affect buoyancy forces
+3.2.2.6 (f) the diagnostic geological characteristics of dykes, sills and lava flows
+3.2.2.7 (g) how the composition (percentage silica) and temperature of the erupting lava controls its viscosity and its ability to exsolve volatiles
+3.2.2.8 (h) how the composition and physical characteristics of the erupted material control the volcanic landforms produced by both explosive and effusive activity
+3.2.2.9 (i) the nature of volcanic hazards and their relation to the composition and properties of the source magma
+3.3 Geological structures
+3.3.1 Rock mechanics
+3.3.1.1 (a) 
+3.3.1.1.1 (i) the geological structures produced by rock deformation as a result of tectonic stresses (tension, compression and shear forces)
+3.3.1.1.2 (ii) the identification, measurement and description of these geological structures on photographs, maps, cross-sections and in the field, including production of labelled field sketches
+3.3.1.1.3 (iii) the construction of geological cross-sections from geological maps
+3.3.1.1.4 (iv) use of a compass-clinometer
+3.3.1.2 (b) 
+3.3.1.2.1 (i) how tectonic stress and strain vary due to temperature, confining pressure and time, resulting in the plastic or brittle deformation of rocks
+3.3.1.2.2 (ii) the use of stress and strain diagrams
+3.3.1.3 (c) how compressive forces can lead to the formation of a slaty cleavage
+3.3.2 Structural geology and plate boundaries
+3.3.2.1 (a) how earthquakes occur when elastic strain energy stored in rocks is released (elastic rebound theory)
+3.3.2.2 (b) how plate movement at transform boundaries causes shear dominated tectonic environments, which can lead to rock deformation as a result of tectonic induced stresses
+3.3.2.3 (c) how plate movement at convergent boundaries causes compressive and shear dominated tectonic environments, which can lead to rock deformation as a result of tectonic or gravity induced stresses
+3.3.2.4 (d) how plate movement at divergent boundaries causes tensional dominated tectonic environments, which can lead to rock deformation as a result of tectonic or gravity induced stresses

@@ -62,3 +62,26 @@ else:
         print("  'sanity' NOT in HTML - PDFs not loaded!")
 
 scraper.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

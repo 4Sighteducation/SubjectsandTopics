@@ -1,0 +1,52 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": true,
+        "compulsory": [
+            "The Persian Empire, 559–465 BC",
+            "The foundations of Rome: from kingship to republic, 753–440 BC"
+        ],
+        "optional": [
+            "From Tyranny to Democracy, 546–483 BC",
+            "Athens in the Age of Pericles, 462–429 BC",
+            "Alexander the Great, 356–323 BC",
+            "Hannibal and the Second Punic War, 218–201 BC",
+            "Cleopatra: Rome and Egypt, 69–30 BC",
+            "Britannia: from conquest to province, AD 43–c.84"
+        ]
+    },
+    "texts": {
+        "has_texts": false,
+        "text_locations": [],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": [
+            "The Persian Empire, 559–465 BC",
+            "The foundations of Rome: from kingship to republic, 753–440 BC"
+        ],
+        "organization": "The content is organized into compulsory period studies and optional depth studies.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "J198/01: Greece and Persia",
+            "J198/02: Rome and its neighbours"
+        ],
+        "content_mapping": {
+            "J198/01": "The Persian Empire, 559–465 BC and one depth study from Greek options",
+            "J198/02": "The foundations of Rome: from kingship to republic, 753–440 BC and one depth study from Roman options"
+        },
+        "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the compulsory period studies and the optional depth studies, ensuring to map them to their respective written papers."
+}
+```

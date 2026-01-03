@@ -1,0 +1,105 @@
+{
+  "subject_name": "Electronics",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/iuphdsc3/eduqas-a-level-electronics-spec-from-2017-e.pdf",
+  "start_time": "2025-11-23T23:32:43.808037",
+  "success": true,
+  "topics_extracted": 193,
+  "levels": {
+    "0": 3,
+    "1": 9,
+    "2": 35,
+    "3": 146
+  },
+  "issues": [],
+  "warnings": [
+    "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+    "Not all components extracted"
+  ],
+  "success_grade": 70,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "13"
+      },
+      {
+        "number": "2",
+        "name": "26"
+      },
+      {
+        "number": "3",
+        "name": "37"
+      },
+      {
+        "number": "1",
+        "name": "Principles of Electronics"
+      },
+      {
+        "number": "2",
+        "name": "Application of Electronics"
+      },
+      {
+        "number": "3",
+        "name": "Extended system design and realisation tasks"
+      },
+      {
+        "number": "1",
+        "name": "COMPONENT 2 COMPONENT 3"
+      },
+      {
+        "number": "1",
+        "name": "Principles of Electronics"
+      },
+      {
+        "number": "2",
+        "name": "Application of Electronics"
+      },
+      {
+        "number": "3",
+        "name": "Extended system design and realisation tasks"
+      },
+      {
+        "number": "1",
+        "name": "15% 20% 5% 40%"
+      },
+      {
+        "number": "2",
+        "name": "15% 20% 5% 40%"
+      },
+      {
+        "number": "3",
+        "name": "- - 20% 20%"
+      },
+      {
+        "number": "1",
+        "name": "Principles of Electronics"
+      },
+      {
+        "number": "2",
+        "name": "Application of Electronics"
+      },
+      {
+        "number": "3",
+        "name": "Extended system design and realisation tasks"
+      },
+      {
+        "number": "3",
+        "name": "- 20% 20%"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix B"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 36.76782822608948,
+  "end_time": "2025-11-23T23:33:20.575865"
+}

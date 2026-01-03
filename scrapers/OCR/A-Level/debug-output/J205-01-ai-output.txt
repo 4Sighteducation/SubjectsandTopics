@@ -1,0 +1,59 @@
+1. Introduction to Economics
+1.1. Main economic groups and factors of production
+1.1.1. Explain the role of the main economic groups: consumers, producers, and the government, including their interdependence.
+1.1.2. Explain the factors of production: land, labour, capital, and enterprise, including how they might be combined.
+1.2. The basic economic problem
+1.2.1. Explain what is meant by scarce resources and unlimited wants.
+1.2.2. Explain the economic problem, including the questions of how resources should be allocated, what, for whom, and how goods and services should be produced.
+1.2.3. Explain what is meant by opportunity cost.
+1.2.4. Evaluate the costs and benefits of economic choices, including the impact on economic, social, and environmental sustainability.
+
+2. The role of markets and money
+2.1. The role of markets
+2.1.1. Explain what is meant by a market.
+2.1.2. Explain the features of the primary, secondary, and tertiary sectors, including the difference between the production of goods and services.
+2.1.3. Explain the difference between factor and product markets, including their interdependence.
+2.1.4. Evaluate the costs and benefits of specialisation and exchange in markets, including for producers, workers, regions, and countries.
+2.2. Demand
+2.2.1. Explain what is meant by demand.
+2.2.2. Draw and explain a demand curve using data, including individual and market demand.
+2.2.3. Draw shifts of, and movements along, the demand curve.
+2.2.4. Analyse the causes and consequences for consumers and producers, of shifts of, and movements along, the demand curve.
+2.2.5. Explain price elasticity of demand.
+2.2.6. Draw demand curves of different elasticity.
+2.2.7. Evaluate the importance of price elasticity of demand for consumers and producers.
+2.3. Supply
+2.3.1. Explain what is meant by supply.
+2.3.2. Draw and explain a supply curve using data, including individual and market supply.
+2.3.3. Draw shifts of, and movements along, the supply curve.
+2.3.4. Analyse the causes and consequences for consumers and producers, of shifts of, and movements along, the supply curve.
+2.3.5. Explain price elasticity of supply.
+2.3.6. Draw supply curves of different elasticity.
+2.3.7. Evaluate the importance of price elasticity of supply for consumers and producers.
+2.4. Price
+2.4.1. Explain price as a reflection of worth and its role in determining an efficient distribution of resources.
+2.4.2. Explain what is meant by equilibrium price and quantity.
+2.4.3. Draw and analyse the interaction of demand and supply.
+2.4.4. Explain the role of markets in the determination of price and the allocation of resources.
+2.4.5. Analyse how the market forces of demand and supply affect equilibrium price and quantity.
+2.5. Competition
+2.5.1. Explain competition between producers in a market economy, including the reasons why producers compete.
+2.5.2. Analyse how competition affects price.
+2.5.3. Evaluate the economic impact of competition on producers and consumers.
+2.5.4. Explain the meaning of monopoly and oligopoly and how they differ from competitive markets.
+2.6. Production
+2.6.1. Explain the role of producers, including individuals, firms, and the government.
+2.6.2. Evaluate the importance of production and productivity for the economy.
+2.6.3. Calculate and explain total cost, average cost, total revenue, average revenue, profit, and loss.
+2.6.4. Evaluate the importance of cost, revenue, profit, and loss for producers, including how costs and revenues affect profit and supply.
+2.6.5. Explain what is meant by economies of scale.
+2.7. The labour market
+2.7.1. Explain the role and operation of the labour market, including the interaction between workers and employers.
+2.7.2. Analyse the determination of wages through supply and demand, including factors affecting the supply and demand of labour.
+2.7.3. Explain and calculate gross and net pay, including deductions through income tax, national insurance, and pension contributions.
+2.8. The role of money and financial markets
+2.8.1. Explain the role of money as a medium of exchange.
+2.8.2. Explain the role of the financial sector for the economy, including financial institutions such as banks, building societies, and insurance companies.
+2.8.3. Evaluate the importance of the financial sector for consumers, producers, and government.
+2.8.4. Analyse how different interest rates affect the levels of saving, borrowing, and investment.
+2.8.5. Calculate the effect on savings and borrowings of changes in the rate of interest.

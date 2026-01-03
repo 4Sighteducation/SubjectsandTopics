@@ -1,0 +1,24 @@
+1. the action of an electrochemical cell in terms of half-equations and external electron flow and the ion flow in the salt bridge
+2. the term standard electrode potential and its measurement using a hydrogen electrode; use of standard electrode potentials to calculate E_cell
+3. experiments in which electrode potentials are used to predict or interpret reactions
+4. predict the feasibility of redox reactions, and the reasons why a reaction may not occur
+5. explain rusting, and its prevention, in terms of electrochemical processes
+6. transition metals as d-block elements forming one or more stable ions which have incompletely filled d-orbitals
+7. the common oxidation states of iron (+2 and +3) and copper (+1 and +2) and the colours of their aqueous ions, if any
+8. electronic configurations, using sub-shells and atomic orbitals, for ions of the first row of the d-block elements
+9. the existence of variable oxidation states, in terms of the stability of d-orbital electron arrangements
+10. the terms ligand, complex/complex ion and ligand substitution
+11. test-tube or reduced scale reactions involving iron, copper and other transition metals and their compounds, including the formation of complex ions
+12. the formation of complexes in terms of coordinate (dative) bonding between ligand and central metal ion
+13. ligand substitution equations
+14. the terms bidentate and polydentate as applied to ligands
+15. experiments to determine formulae of complexes of transition metals
+16. the colour changes in, and ionic equations for, the reactions of: Fe2+(aq), Fe3+(aq) and Cu2+(aq) ions with sodium hydroxide solution and ammonia solution
+17. the catalytic activity of transition metals and their compounds
+18. homogeneous catalysis in terms of variable oxidation states
+19. heterogeneous catalysis in terms of the ability of transition metals to use (3)d and (4)s electrons of the atoms on the catalyst surface to form weak bonds to reactants
+20. experiments involving catalysts
+21. the ions of transition metals in solution are often coloured
+22. the origins of colour in transition metal complexes in terms of the splitting of the d-orbitals by the ligands and transitions between the resulting electronic energy levels
+23. techniques and procedures to measure concentrations of solutions using a colorimeter or visible spectrophotometer
+24. using a colorimeter to measure the concentration of a coloured solution

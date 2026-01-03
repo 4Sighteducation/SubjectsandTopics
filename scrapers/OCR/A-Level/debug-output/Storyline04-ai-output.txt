@@ -1,0 +1,19 @@
+1. the effect of concentration and pressure on the rate of a reaction, explained in terms of the collision theory
+2. use of the concept of activation enthalpy and the Boltzmann distribution to explain the qualitative effect of temperature changes and catalysts on rate of reaction
+3. the role of catalysts in providing alternative routes of lower activation enthalpy
+4. the term homogeneous catalysis and the formation of intermediates
+5. calculations, from given data, of values for composition by volume of a component in a gas mixture measured in percentage concentration and in parts per million (ppm)
+6. the recognition of and formulae for examples of members of the following homologous series: haloalkanes, including systematic nomenclature; amines
+7. the characteristic properties of haloalkanes, comparing fluoro-, chloro-, bromo- and iodo-compounds, considering boiling points and nucleophilic substitution
+8. the terms substitution and nucleophile
+9. the use of the S_N2 mechanism as a model to explain nucleophilic substitution reactions of haloalkanes using ‘curly arrows’ and partial charges
+10. the possible dependence of the relative reactivities of the haloalkanes on either bond enthalpy or bond polarity and how experimental evidence determines that the bond enthalpy is more important
+11. homolytic and heterolytic bond fission
+12. the formation, nature and reactivity of radicals, including the explanation of the mechanism of a radical chain reaction involving initiation, propagation and termination
+13. the radical mechanism for the reaction of alkanes with halogens
+14. use of ‘half curly arrows’ in radical mechanisms
+15. the chemical basis of the depletion of ozone in the stratosphere due to haloalkanes; the ease of photodissociation of the haloalkanes in terms of bond enthalpy
+16. the formation and destruction of ozone in the stratosphere and troposphere; the effects of ozone in the atmosphere
+17. the principal radiations of the Earth and the Sun in terms of the following regions of the electromagnetic spectrum: infrared, visible, ultraviolet
+18. the effect of UV and visible radiation promoting electrons to higher energy levels, sometimes causing bond breaking
+19. calculation of values for frequency, wavelength and energy of electromagnetic radiation from given data.

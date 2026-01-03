@@ -1,0 +1,106 @@
+{
+  "timestamp": "20251124-082120",
+  "total_subjects": 1,
+  "success_count": 1,
+  "fail_count": 0,
+  "success_rate": 100.0,
+  "reports": [
+    {
+      "subject_name": "Computer Science",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/zhpapwjj/eduqas-a-level-computer-science-spec-from-2015-e-24-01-2020.pdf",
+      "start_time": "2025-11-24T08:20:57.327899",
+      "success": true,
+      "topics_extracted": 86,
+      "levels": {
+        "0": 6,
+        "1": 16,
+        "2": 35,
+        "3": 29
+      },
+      "issues": [],
+      "warnings": [
+        "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+        "Not all components extracted"
+      ],
+      "success_grade": 70,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "17.5% 16% 6.5%"
+          },
+          {
+            "number": "2",
+            "name": "17.5% 16% 6.5%"
+          },
+          {
+            "number": "3",
+            "name": "- 3% 17%"
+          },
+          {
+            "number": "3",
+            "name": "for the A level examination requires the candidate to discuss,"
+          },
+          {
+            "number": "3",
+            "name": "must include the development of software in either a"
+          },
+          {
+            "number": "3",
+            "name": "should be submitted to WJEC electronically. The"
+          },
+          {
+            "number": "3",
+            "name": "as much work as possible must be"
+          },
+          {
+            "number": "3",
+            "name": "remaining"
+          },
+          {
+            "number": "1",
+            "name": "100 2 200 40"
+          },
+          {
+            "number": "2",
+            "name": "100 2 200 40"
+          },
+          {
+            "number": "3",
+            "name": "100 1 100 20"
+          },
+          {
+            "number": "3",
+            "name": "– Programmed solution to a problem"
+          },
+          {
+            "number": "3",
+            "name": "will take a variety of forms depending on the scenario chosen by the"
+          },
+          {
+            "number": "3",
+            "name": "– Programmed Solution to a Problem"
+          },
+          {
+            "number": "3",
+            "name": "3% 17%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix C"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 23.573217153549194,
+      "end_time": "2025-11-24T08:21:20.901115"
+    }
+  ]
+}

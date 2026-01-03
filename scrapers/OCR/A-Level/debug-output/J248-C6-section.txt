@@ -1,0 +1,285 @@
+Topic C6: Global challenges
+This topic seeks to integrate learners’ knowledge and understanding of challenges are considered in this topic. It therefore provides opportunities to
+chemical systems and processes, with the aim of applying it to global challenges. draw together the concepts covered in earlier topics, allowing synoptic treatment
+Applications of chemistry can be used to help humans improve their own lives of the subject of chemistry.
+and strive to create a sustainable world for future generations, and these
+C6.1 Improving processes and products
+Summary the reactivity series. Learners should have met the method of using carbon to
+Historically, new materials have been developed through trial and error, obtain metals from metal oxides. They should also be aware that the Earth has
+experience etc. but as our understanding of the structure of materials and limited resources and the benefits of recycling materials.
+chemical processes has improved we are increasing our ability to manipulate
+and design new materials. Industry is continually looking to make products that Common misconceptions
+have a better performance and are sustainable to produce. This section also Learners often think that chemical reactions will continue until all the reactants
+explores the extraction of raw materials and their use in making new products. are exhausted. They also think that equilibrium is a static condition.
+Underlying knowledge and understanding Tiering
+Learners should be familiar with the properties of ceramics, polymers and Statements shown in bold type will only be tested in the Higher Tier papers.
+composites. They should have knowledge of the order of metals and carbon in All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+CM6.1i arithmetic computation, ratio when measuring rates of reaction M1a, M1c
+CM6.1ii drawing and interpreting appropriate graphs from data to determine rate of reaction M4b, M4c
+CM6.1iii þ determining gradients of graphs as a measure of rate of change to determine rate M4d, M4e
+CM6.1iv þ proportionality when comparing factors affecting rate of reaction M1c
+46
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C6.1a explain, using the position of carbon in the the principles of using carbon to M1a, M1c WS1.4a Extraction of copper by
+reactivity series, the principles of industrial extract iron and other metals heating copper oxide with
+processes used to extract metals, including from their ores carbon. (PAG C1)
+extraction of a non-ferrous metal
+C6.1b explain why and how electrolysis is used to extract M4b, M4c WS1.3a, Electrolysis of aqueous
+some metals from their ores WS1.3b, sodium chloride solution.
+WS1.3c, (PAG C2)
+WS1.3d,
+Electrolysis of aqueous
+WS1.3e,
+copper sulfate solution.
+WS1.3g,
+(PAG C2)
+WS1.3h,
+WS1.3i,
+WS1.4, WS2b
+C6.1c evaluate alternative biological methods of metal bacterial and phytoextraction WS1.1a,
+extraction WS1.1e
+C6.1d þ explain the trade-off between rate of production the Haber process and Contact M4d, M4e WS1.3f
+of a desired product and position of equilibrium process
+in some industrially important processes
+C6.1e þ interpret graphs of reaction conditions versus M1c WS1.3e
+rate
+C6.1f þ explain how the commercially used conditions for WS1.1d
+an industrial process are related to the availability
+and cost of raw materials and energy supplies,
+control of equilibrium position and rate
+C6.1g þ explain the importance of the Haber process in WS1.4a
+agricultural production
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+47
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C6.1h þ compare the industrial production of fertilisers with laboratory WS1.2a, Preparation of
+syntheses of the same products WS1.2b, potassium sulfate or
+WS1.2c, ammonium sulfate
+WS1.2d, using a titration
+WS1.2e, method. (PAG C6)
+WS2a, WS2b
+C6.1i þ recall the importance of nitrogen, phosphorus and potassium WS1.4a
+compounds in agricultural production
+C6.1j þ describe the industrial production of fertilisers as several integrated ammonium nitrate WS1.2a,
+processes using a variety of raw materials and ammonium WS1.2b,
+sulfate WS1.2c,
+WS1.2e,
+WS2a, WS2b
+C6.1k describe the basic principles in carrying out a life-cycle assessment the use of resources
+of a material or product and impact on the
+environment of all
+stages of a life-cycle
+assessment:
+• making materials
+for a product from
+raw materials
+through to the
+process used to
+make the product
+• the use of the
+product
+• transport of the
+product
+• the method used
+for its disposal at
+the end of its life
+48
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C6.1l interpret data from a life-cycle assessment of a material or product
+C6.1m describe a process where a material or product is recycled for a WS1.1f,
+different use, and explain why this is viable WS1.1g
+C6.1n evaluate factors that affect decisions on recycling WS1.1f,
+WS1.1g
+C6.1o þ describe the composition of some important alloys in relation to steel, brass, bronze,
+their properties and uses solder, duralumin
+C6.1p þ describe the process of corrosion and the conditions which cause iron and other metals
+corrosion
+C6.1q þ explain how mitigation of corrosion is achieved by creating a
+physical barrier to oxygen and water and by sacrificial protection
+C6.1r þ compare quantitatively the physical properties of glass and clay
+ceramics, polymers, composites and metals
+C6.1s þ explain how the properties of materials are related to their uses WS1.1e,
+and select appropriate materials given details of the usage required WS1.3f
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+49
+Version
+3.6
+©
+OCR
+2024
+2
+C6.2 Organic chemistry
+Summary Common misconceptions
+Carbon chemistry is the basis of life on Earth. Organic chemistry is the basis of Learners tend not to bring the concepts from general chemistry in their study of
+many of the materials we produce. Organic compounds are covalent in nature organic chemistry. They have difficulty identifying functional groups and naming
+and react in a predictable pattern. Crude oil forms the basis of many useful and drawing the compounds.
+by-products.
+Tiering
+Underlying knowledge and understanding Statements shown in bold type will only be tested in the Higher Tier papers.
+Learners should be familiar with reactions and displayed formula. All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+CM6.2i þ represent three-dimensional shapes in two dimensions and vice versa when looking at chemical M5b
+structures, e.g. allotropes of carbon
+50
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C6.2a þ recognise functional groups and identify homologous series, of alkanes, alkenes,
+members of the same homologous alcohols and carboxylic acids
+series
+C6.2b þ name and draw the structural formulae, M5b WS1.4a Use of models.
+using fully displayed formulae, of the
+first four members of the straight chain
+alkanes, alkenes, alcohols and carboxylic
+acids
+C6.2c þ predict the formulae and structures of combustion; addition of bromine and
+products of reactions of the first four hydrogen across a double bond;
+and other given members of the oxidation of alcohols to carboxylic acids
+homologous series of alkanes, alkenes using potassium manganate(VII)
+and alcohols
+C6.2d þ recall the basic principles of addition
+polymerisation by reference to the
+functional group in the monomer and
+the repeating units in the polymer
+C6.2e þ explain the basic principles of reference to the functional groups of WS1.4a
+condensation polymerisation the monomers, the minimum number
+of functional groups within a
+monomer, the number of repeating
+units in the polymer, and simultaneous
+formation of a small molecule, e.g. a
+polyester or polyamide, using block
+diagrams to represent polymers
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+51
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C6.2f þ describe practical techniques to make a WS1.2a, Making nylon.
+polymer by condensation WS1.2b,
+WS1.2c,
+WS1.4a,
+WS2a, WS2b
+C6.2g þ deduce the structure of an addition polymer the following representation WS1.4a
+from a simple alkene monomer and vice versa of a polymer [repeat unit]
+n
+C6.2h þ recall that DNA is a polymer made from four the names of the nucleotides WS1.4a
+different monomers called nucleotides and that
+other important naturally-occurring polymers
+are based on sugars and amino-acids
+C6.2i þ recall that it is the generality of reactions of WS1.4a
+functional groups that determine the reactions
+of organic compounds
+C6.2j describe the separation of crude oil by fractional the names of the fractions WS1.3f,
+distillation WS1.4a
+C6.2k explain the separation of crude oil by fractional molecular size and
+distillation intermolecular forces
+C6.2l describe the fractions as largely a mixture of WS1.4a
+compounds of formula C H which are
+n 2n+2
+members of the alkane homologous series
+C6.2m recall that crude oil is a main source of WS1.4a
+hydrocarbons and is a feedstock for the
+petrochemical industry
+C6.2n explain how modern life is crucially dependent WS1.1c,
+upon hydrocarbons and recognise that crude oil WS1.1f,
+is a finite resource WS1.1e,
+WS1.4a
+52
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C6.2o describe the production of materials conditions and reasons for cracking and
+that are more useful by cracking some of the usef

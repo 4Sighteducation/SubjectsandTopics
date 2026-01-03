@@ -1,0 +1,35 @@
+{
+  "subject_name": "Computer Science",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/zhpapwjj/eduqas-a-level-computer-science-spec-from-2015-e-24-01-2020.pdf",
+  "start_time": "2025-11-24T11:56:58.513754",
+  "success": false,
+  "topics_extracted": 0,
+  "levels": {},
+  "issues": [
+    "Subject Content section not found"
+  ],
+  "warnings": [],
+  "success_grade": 0,
+  "analysis": {
+    "content_found": false,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "3",
+        "name": "for the A level examination requires the candidate to discuss,"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix C"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 0,
+  "error": "Could not find Subject Content section"
+}

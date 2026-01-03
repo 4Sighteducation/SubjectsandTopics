@@ -1,0 +1,1844 @@
+
+Component 1: Geological Investigations
+Written examination: 2 hours 15 minutes
+35% of qualification
+Section A: Two stimulus response questions requiring short and structured answers.
+Section B: An investigation of the geology of an area shown on an accompanying
+simplified geological map, involving
+• the interpretation of hand specimens and photographs of minerals, rocks and fossils
+• map interpretation and cross-section construction
+• the completion of questions using short, structured and extended answers.
+Component 2: Geological Principles and Processes
+Written examination: 1 hour 45 minutes
+30% of qualification
+Six stimulus response questions requiring short, structured and extended answers.
+Component 3: Geological Applications
+Written examination: 2 hours
+35% of qualification
+Section A: Geohazards. Two stimulus response questions requiring short and structured
+answers.
+Section B: Geological map applications. An investigation of the geology of an area
+shown on a Geological Survey map extract using stimulus response questions requiring
+short, structured and extended answers.
+Section C: Learners answer questions on one option from a choice of three. Each
+comprises three questions requiring short, structured and extended answers.
+• Quaternary Geology
+• Geological Evolution of Britain
+• Geology of the Lithosphere
+Practical Endorsement
+Non-exam assessment
+Assessment of practical competency.
+Reported separately and not contributing to final grade.
+This linear qualification will be available for assessment in May/June each year. It will be
+awarded for the first time in summer 2019.
+Ofqual Qualification Number (listed on The Register): 603/0859/X
+Qualifications Wales Designation Number (listed on QiW): C00/1174/5
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 3
+GCE A LEVEL GEOLOGY
+1 INTRODUCTION
+1.1 Aims and objectives
+The WJEC Eduqas A level in Geology provides a comprehensive coverage of the
+knowledge and understanding required for the study of the Earth, its structures,
+evolution and dynamics. The core aspects of this specification introduce eight
+geological concepts:
+• elements, minerals and rocks
+• surface and internal processes of the rock cycle
+• time and change
+• Earth structure and global tectonics
+• rock forming processes
+• rock deformation
+• past life and past climates
+• Earth materials and natural resources.
+There are five themes which develop and apply the knowledge and understanding of
+the core content. These are:
+• geohazards
+• geological map applications
+• Quaternary geology
+• geological evolution of Britain
+• geology of the lithosphere.
+Learners following this specification are introduced to Key Ideas which provide a
+framework for study.
+This specification encourages learners to:
+• develop essential knowledge and understanding of different areas of geology and
+how they relate to each other, to include civil engineering, engineering geology,
+hydrogeology, mining geology and petroleum geology
+• develop through critical practice the skills, knowledge and understanding of
+scientific methods as applied in geology through a practical endorsement
+• develop competence and confidence in selecting, using and evaluating a range of
+quantitative and qualitative skills and approaches, (including observing, collecting
+and analysing geo-located field data, and investigative, mathematical and
+problem solving skills) and applying them as an integral part of their geological
+studies
+• understand how society makes decisions about geological issues and how
+geology contributes to the success of the economy and society.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 4
+This specification contains both core and non-core content as specified by the
+Department for Education (DfE) GCE A level subject content for geology. The
+purpose of the non-core content is for learners to:
+• develop and apply their core knowledge and understanding
+• use their core and non-core knowledge and understanding synoptically
+• enrich their understanding of core concepts through an exploration of the chosen
+non-core areas
+• be introduced to the wider context of geoscience in preparation for progression to
+higher education
+• be exposed to current areas of research where new discoveries may revise our
+understanding of geological phenomena.
+The WJEC Eduqas A level in Geology places problem solving at the heart of
+learning. Learners are encouraged to respond to geological information in both
+familiar and novel situations in the laboratory and in the field. Learners should be
+able to apply their knowledge and understanding of the contents of this specification
+by exploring contexts and situations that are not explicitly indicated in the
+specification, reflecting the skills demanded by those engaged in the study of
+geology, and other disciplines, beyond A level.
+The specification lends itself to a variety of teaching and learning styles and offers
+learners of all abilities an enjoyable and positive learning experience. Practical work
+within the specification is vitally important in developing a conceptual understanding
+of many topics and it enhances the experience and enjoyment of geology.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 5
+1.2 Prior learning and progression
+Any requirements set for entry to a course following this specification are at the
+discretion of centres. It is reasonable to assume that many learners will have
+achieved qualifications equivalent to Level 2 at KS4. Skills in
+Numeracy/Mathematics, Literacy/English and Information Communication
+Technology will provide a good basis for progression to this Level 3 qualification.
+This specification builds on the knowledge, understanding and skills established at
+GCSE. Some learners may have already gained knowledge, understanding and
+skills through their study of geology at AS.
+This specification provides a suitable foundation for the study of geology or a related
+area through a range of higher education courses. It also provides a good basis for
+many vocations, not just geological, which require initiative in thought and problem
+solving. In addition, the specification provides a coherent, satisfying and worthwhile
+course of study for learners who do not progress to further study in this subject.
+This specification is not age specific and, as such, provides opportunities for learners
+to extend their life-long learning.
+1.3 Equality and fair access
+This specification may be followed by any learner, irrespective of gender, ethnic,
+religious or cultural background. It has been designed to avoid, where possible,
+features that could, without justification, make it more difficult for a learner to achieve
+because they have a particular protected characteristic.
+The protected characteristics under the Equality Act 2010 are age, disability, gender
+reassignment, pregnancy and maternity, race, religion or belief, sex and sexual
+orientation.
+The specification has been discussed with groups who represent the interests of a
+diverse range of learners, and the specification will be kept under review.
+Reasonable adjustments are made for certain learners in order to enable them to
+access the assessments (e.g. candidates are allowed access to a Sign Language
+Interpreter, using British Sign Language). Information on reasonable adjustments is
+found in the following document from the Joint Council for Qualifications (JCQ):
+Access Arrangements and Reasonable Adjustments: General and Vocational
+Qualifications.
+This document is available on the JCQ website (www.jcq.org.uk). As a consequence
+of provision for reasonable adjustments, very few learners will have a complete
+barrier to any part of the assessment.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 6
+2 SUBJECT CONTENT
+Integrated Study
+The WJEC Eduqas A level in Geology promotes the integrated study of geology. It
+enables learners to develop a broad range of skills and techniques in the areas of
+analysis and interpretation of data, problem-solving and drawing conclusions. In
+addition it enables learners to acquire data collection and interpretation skills in the
+field.
+This specification provides knowledge of the main aspects of geology as a science
+through three overarching concepts which link all topics studied:
+• a scientific understanding of the Earth, its evolution and its sustainable
+development
+• the central paradigms in geology: uniformitarianism (“the present is the key to
+the past”); the extent of geological time; and plate tectonics
+• the cycling of matter and the flows of energy into, between and within the
+solid Earth, the Earth's surface, the hydrosphere, the atmosphere and the
+biosphere.
+Fieldwork
+Fieldwork has long been an attractive aspect of the study of geology and has been
+incorporated at the heart of this specification. Learners are required to undertake a
+minimum of four days of work in the field in order to develop field observation and
+practical skills.
+Each centre must provide a fieldwork statement to WJEC that details the fieldwork
+carried out by learners from the centre in each assessment cycle. Centres will be
+able to make their fieldwork statement by completing the form that will be available to
+download from the AS/A level Geology subject page of the Eduqas website. The
+fieldwork statement must be submitted to WJEC by 15 May of the year of the award.
+Centres will be able to use the form to:
+• confirm that each learner has been provided with opportunities to undertake
+geological fieldwork on at least four occasions and in respect of each of those
+opportunities:
+• the date on which it was provided
+• the number of learners who participated
+• the location at which it was provided
+• a brief description of the fieldwork undertaken
+• confirm that each learner has been provided with the opportunity to undertake the
+compulsory fieldwork skills and techniques indicated in Appendix A, part 3.
+It is recommended that centres adopt an investigative approach to fieldwork involving
+learners answering geological questions during their field days. Examples of suitable
+geological questions include:
+• What does the evidence from these localities reveal about the relative time
+sequence of geological events in this area?
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 7
+• What do the sedimentological evidence and palaeontological evidence indicate
+about the changes in the environments of deposition of the sedimentary rocks at
+this locality?
+• What does the evidence of rock deformation reveal about the tectonic history of
+this area?
+These examples are by no means the only geological questions that could be asked
+and centres should feel able to devise other examples of geological questions
+relevant to the field locations which are used. Centres must ensure that learners have
+been given the opportunity to complete all of the specified practical activities,
+including those involving fieldwork, listed in Appendix B.
+Safety is paramount in the field and it is essential that all centres adhere to
+‘The Geological Code of Conduct’ and the regulations of their centre
+concerning off-site activities.
+This specification requires learners to:
+• undertake fieldwork in different contexts: virtual fieldwork, local fieldwork
+outside the classroom and fieldwork on unfamiliar outcrop geology
+• experience and develop competency in the skills and techniques contained
+in Appendix A
+• apply knowledge and concepts to identify and understand field observations
+• be given opportunities to develop increasing independence in their
+application of the investigative and practical skills and techniques in
+Appendix A over the A level course through progression from scaffolded to
+unscaffolded tasks and from familiar contexts to unfamiliar outcrop geology.
+Practical work
+Practical work is an intrinsic part of this specification. The practical skills developed
+are also fundamentally important to learners going on to further study in geology and
+related subjects, and are transferable to many careers.
+Learners who follow this specification will develop a wide range of mathematical skills
+as outlined in Appendix C. Calculators may be used in all components. Candidates
+are responsible for making sure that their calculators meet the relevant regulations
+for use in written examinations: information is found in the JCQ publications
+Instructions for conducting examinations and Information for candidates for written
+examinations.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 8
+The column featuring geological techniques and skills of the subject content includes
+activities that must be undertaken by learners in order to ensure that they are suitably
+prepared for the written examinations. Items labelled SP in the column headed
+'Geological techniques and skills' of the subject content, represent specified practical
+activities to fulfil the practical endorsement (see Appendix B).
+Learners must complete the specified practical activities listed in Appendix B, which
+will develop the practical skills listed in Appendix A, in order to meet the requirements
+of the practical endorsement. These requirements are detailed in Section 3.2.
+For each assessment series each centre is required to submit the Annual Head of
+Centre Declaration to confirm that all reasonable steps have been or will be taken to
+provide all candidates with the opportunity to undertake the prescribed practical
+activities for A Level Sciences designed for use in England.
+Scientific skills
+All content in the specification should be introduced in such a way that it develops
+learners' ability to apply the following scientific skills:
+• use theories, models and ideas to develop geological explanations
+• use knowledge and understanding to pose scientific questions, define
+geological problems, present scientific arguments and geological ideas
+ use appropriate methodology, including information and communication
+technology (ICT), to answer geological questions and solve geological
+problems
+ carry out fieldwork, experimental and investigative activities in a range of
+contexts to include the collection, compilation and analysis of Earth science
+data from the field and subsurface, and appropriate risk management
+ manipulate and extrapolate these sometimes incomplete data sets in both two
+and three-dimensions
+ evaluate methodology, evidence and partial data sets, and resolve
+conflicting evidence
+ communicate information and ideas in appropriate ways (including geological
+maps and cross-sections) using appropriate terminology, SI units and their
+prefixes and the ability to express in standard form
+ know that scientific knowledge and understanding develops over time,
+consider applications and implications of science in geology, and evaluate
+their associated benefits and risks
+ evaluate the role of geology within the scientific community in validating
+new knowledge and ensuring integrity.
+Areas of the specification which exemplify the scientific skills are shown in
+Appendix D.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 9
+Summary of content
+This specification covers all the requirements of A level Geology as specified by the
+DfE. The knowledge, understanding, skills and techniques are set out in the two
+columns in the pages that follow. Learners should expect to be assessed on the
+details of both columns and also to answer questions that set the content in novel
+situations not explicit in the specification.
+The specification is structured in three sections:
+• Fundamentals of Geology
+F1 Elements, minerals and rocks
+F2 Surface and internal processes
+F3 Time and change
+F4 Earth structure and global tectonics
+• Interpreting the Geological Record
+G1 Rock forming processes
+G2 Rock deformation
+G3 Past life and past climates
+G4 Earth materials and natural resources
+• Geological Themes
+T1 Geohazards
+T2 Geological map applications
+T3 Quaternary geology*
+T4 Geological evolution of Britain*
+T5 Geology of the lithosphere*
+Learners study one of the options T3, T4 and T5, indicated with an asterisk.
+Items labelled SP in the column headed 'Geological techniques and skills' of the
+subject content, represent specified practical activities to fulfil the practical
+endorsement (see Appendix B).
+Items in italics in the geological techniques and skills column represent opportunities
+for the development of required mathematical skills (see Appendix C which lists the
+mathematical requirements with exemplification in the context of A level Geology).
+This A level specification is designed to be co-teachable with the specification for the
+WJEC Eduqas AS in Geology. The content within the Fundamentals of Geology
+section forms the entire content required in the AS specification, with the exception of
+some additional exemplification of mathematical skills required at A level but not at
+AS.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 10
+Details of the components
+The subject content for A level Geology is assessed across three components. The
+context in which the content is assessed across the three components differs.
+Component 1: Geological Investigations
+Written examination: 2 hours 15 minutes
+35% of the qualification
+105 marks
+Questions in Component 1 are based on knowledge and understanding outlined in
+the sections Fundamentals of Geology and Interpreting the Geological Record.
+Section A: Two stimulus response questions requiring short and structured answers.
+Section B: A practical investigation confined to the geology of an area on a simplified
+geological map given on a resource sheet. The component involves the
+interpretation of hand specimens (sent to centres by WJEC) and photographs of
+minerals, rocks and fossils. In addition this assessment includes the interpretation of
+the simplified geological map and the construction of a geological cross-section.
+A mineral data sheet accompanies Component 1. Learners should become familiar
+with the use of this during their study of A level Geology.
+Component 2: Geological Principles and Processes
+Written examination: 1 hour 45 minutes
+30% of the qualification
+90 marks
+Questions in Component 2 are based on knowledge and understanding outlined in
+the sections Fundamentals of Geology and Interpreting the Geological Record.
+This component involves questions which require learners to respond to aspects of
+geology shown in photographs, maps, diagrams and graphs. Learners are required
+to complete compulsory data and stimulus response questions using short,
+structured and extended answers.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 11
+Component 3: Geological Applications
+Written examination: 2 hours
+35% of the qualification
+105 marks
+Section A: Geohazards: Two stimulus response questions requiring short and
+structured answers. Questions are based on knowledge and understanding outlined
+in topic T1 within the section Geological Themes in addition to an understanding of
+the content within Fundamentals of Geology and Interpreting the Geological Record.
+Section B: Geological map applications. An investigation of the geology of an area
+shown on a Geological Survey map extract, using stimulus response questions
+requiring short, structured and extended answers. Questions are based on content
+from the topics T1 and T2 within the section Geological Themes in addition to an
+understanding of the content within Fundamentals of Geology and Interpreting the
+Geological Record.
+Section C: Learners answer questions on one option from a choice of three:
+• T3 Quaternary geology
+• T4 Geological evolution of Britain
+• T5 Geology of the lithosphere
+Each option comprises three questions requiring short, structured and extended
+answers. Questions are based on content from the relevant option topic T3, T4 or T5
+within the section Geological Themes, and also require an understanding of the
+content within Fundamentals of Geology and Interpreting the Geological Record.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 12
+FUNDAMENTALS OF GEOLOGY
+This section comprises four compulsory topics
+F1 Elements, minerals and rocks
+F2 Surface and internal processes of the rock cycle
+F3 Time and change
+F4 Earth structure and global tectonics
+Topic F1: ELEMENTS, MINERALS AND ROCKS
+Key Idea 1: The Earth is composed of rocks which have
+distinctive mineralogies and textures
+Geological techniques and
+Knowledge and understanding
+skills
+a. The Earth’s elements may be classified
+according to the Goldschmidt system
+(lithophile, siderophile, chalcophile,
+atmophile) which aids subdivision of the
+Earth on the basis of geochemistry
+(atmosphere, hydrosphere, crust, mantle
+and core).
+b. The bulk composition of the Earth is
+comparable with that of undifferentiated
+meteorites (chondrites).
+c. The Earth's crust is composed of eight Recognition of the relative abundance of O,
+main elements. Si, Al, Fe, Ca, Na, K and Mg in the crust
+and the role of the silicates as rock-forming
+minerals.
+d. Silicates are the commonest rock-
+Simple analysis of silicate mineral
+forming minerals and are built from
+structures from models and diagrams.
+silicon-oxygen tetrahedra (single, chain,
+sheet and framework silicates).
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 13
+Knowledge and understanding Geological techniques and skills
+e. Minerals are naturally occurring SP1: Investigation of diagnostic properties of
+inorganic chemical compounds or minerals: colour, crystal shape, cleavage,
+fracture, hardness, relative density, streak,
+elements with compositions that may
+lustre, reaction with cold dilute (0.5 mol dm-3)
+be expressed as chemical formulae.
+hydrochloric acid.
+Minerals have distinct chemical
+compositions, atomic structures and
+SP2: Measurement of the density of
+physical properties by which they may minerals.
+be identified.
+Recognition, using appropriate tests, of the
+following rock-forming minerals (as specified
+on the mineral data sheet available for use
+in the examination) from their diagnostic
+properties: quartz, calcite, feldspars
+(orthoclase, plagioclase), augite,
+hornblende, olivine, micas (biotite,
+muscovite), haematite, galena, pyrite,
+chalcopyrite, fluorite, barite, halite, gypsum,
+garnet, chiastolite/andalusite.
+SP3: Application of classification systems
+using distinguishing characteristics to
+identify unknown minerals.
+f. Rocks are composed of aggregates of
+minerals, pre-existing rocks or fossils.
+g. Igneous, sedimentary and
+Observation and investigation of hand
+metamorphic rocks display differences
+specimens of a variety of rocks (including
+of composition and texture that reflect sampling in the field) in order to:
+their mode of origin. • identify and interpret component
+composition
+• interpret colour and textures
+(crystalline/clastic; crystal or grain
+size/shape; sorting; foliation; mineral
+alignment/bedding/crystalline banding)
+and hence
+• deduce the mode of origin of the rock as
+igneous, metamorphic or sedimentary.
+SP4: Production of scaled annotated
+scientific drawings of rock samples from
+hand samples using a light microscope, or
+hand lens observation.
+• Use and manipulation of the
+magnification formula
+magnification = size of image
+size of real object
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 14
+Topic F2: SURFACE AND INTERNAL PROCESSES OF THE
+ROCK CYCLE
+Key Idea 1: The mineralogy and texture of sedimentary rocks are the
+result of the surface process part of the rock cycle, driven
+by external energy sources
+Knowledge and understanding Geological techniques and skills
+a. External energy: solar heating of the Earth's
+surface drives the water cycle and
+influences weathering and erosional
+processes.
+b. Physical and chemical weathering of rocks
+occurs at the Earth's surface and provides
+the raw materials for new sedimentary
+rocks:
+• physical weathering, (insolation,
+freeze/thaw) breaks rock down into
+smaller fragments
+• chemical weathering of silicate and
+carbonate rocks (hydrolysis,
+carbonation, solution and oxidation)
+produces a range of new minerals and
+solutions together with residual,
+resistant minerals
+• biological weathering involves physical
+and chemical changes.
+Recognition and use of appropriate units in
+c. Surface materials are transported by a calculations.
+range of erosional agents and are
+deposited as sediments: Construction and interpretation of frequency
+tables and diagrams, bar charts and
+• erosion (abrasion, attrition)
+histograms.
+• transport (traction, saltation,
+suspension, solution)
+Finding of arithmetic means.
+• deposition selectively concentrates
+products in particular environments -
+Understanding of the principles of sampling as
+grain size related to energy of
+applied to scientific data.
+depositional environment; dominance of
+quartz and muscovite in coarse fraction
+Understanding of the measures of dispersion,
+and clay minerals in fine fraction;
+including standard deviation and interquartile
+flocculation; precipitation.
+range.
+Selection and use of a statistical test.
+Description of sedimentary rocks in hand
+d. Different sedimentary environments may be
+specimen, rock exposures and
+identified by diagnostic sedimentary
+diagrams/photographs from observation of their
+structures, rock textures, mineralogy and
+colour, texture (use of sediment comparators to
+fossil content.
+determine grain size, shape and sphericity),
+(coarse >2 mm, fine <1/16 mm), reaction with
+0.5 mol dm-3 hydrochloric acid, mineralogy and
+other diagnostic features.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 15
+Knowledge and understanding Geological techniques and skills
+e. A study of fluvial, marine, and aeolian Investigation of textures of sediments from
+sediments demonstrates these differences. different depositional environments.
+SP5: Production of full rock description of macro
+and micro features from hand specimens and
+unfamiliar field exposures of sedimentary rocks in
+order to interpret component composition, colour
+and textures, to identify rock types and to deduce
+their environment of deposition.
+SP6: Construction of graphic logs using
+appropriate scale and symbol sets for unfamiliar
+geological sequences and exposures to record
+data relevant to an investigation.
+SP7: Use of photomicrographs to identify minerals
+and rock textures of sedimentary rocks in order to
+identify rock types and to deduce their
+environment of deposition.
+Interpretation of maps, photographs and graphic
+logs showing the following sedimentary features:
+bedding, cross-bedding, graded bedding,
+laminations, desiccation features, ripple marks
+(symmetrical and asymmetrical), sole structures
+(load/flame, flute cast).
+Identification in hand specimen of the following
+sedimentary rocks from their composition, texture
+and other diagnostic features: sandstones
+(orthoquartzite, arkose, greywacke),
+shale/mudstone, limestones (shelly, oolitic, chalk),
+conglomerate, breccia.
+Investigation of contrasts between fluvial, marine
+and aeolian sediments.
+Use of logarithms in relation to quantities that
+range over several orders of magnitude.
+Construction and interpretation of frequency
+tables and diagrams, bar charts and histograms.
+Knowledge of the characteristics of normal and
+skewed distribution.
+Plotting of variables from experimental or other
+circular data.
+Understanding of the terms mean, median and
+mode.
+Selection and use of a statistical test.
+Plotting of two variables from experimental or
+other linear data.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 16
+Knowledge and understanding Geological techniques and skills
+f. Sedimentary rocks may result from the Analysis of biogenic components in sedimentary
+accumulation of organic material rocks.
+(limestone, coal) or by precipitation of solid
+material from solution (evaporites).
+g. Sedimentary rocks exhibit differences in Investigation of the concept of ‘sediment
+texture which influences porosity and maturity’. Immature sedimentary rocks
+permeability: grain angularity, sphericity, characterised by a wide range of mineral
+size, sorting, which reflects: compositions and/or lithic clasts; mature
+• the nature of rocks from which they sedimentary rocks with restricted mineralogies
+were derived dominated by mineral species resistant to
+weathering and erosional processes.
+• conditions of climate, weathering,
+erosion and deposition operating during
+Understanding that y = mx + c represents a linear
+their formation
+relationship.
+• post-depositional factors as sediments
+are formed into sedimentary rocks:
+diagenesis and lithification (compaction,
+recrystallisation, cementation, pressure
+solution).
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 17
+Topic F2: SURFACE AND INTERNAL PROCESSES OF THE
+ROCK CYCLE
+Key Idea 2: The formation and alteration of igneous and
+metamorphic rocks result from the Earth’s internal
+energy
+Knowledge and understanding Geological techniques and skills
+a. Internal energy: The Earth’s internal Interpretation of evidence for surface heat
+geological processes result from the flow and temperature variation with depth
+transfer of energy derived from through simple analysis of the geothermal
+radiogenic and primordial heat sources. gradient (geotherm).
+Heat is transferred from the mantle to the
+surface by conduction and convection, Solving of algebraic equations.
+with temperatures of rocks remaining
+below melting point (except locally). Calculation of the rate of change from a
+graph showing a linear relationship.
+b. Igneous rocks are the products of cooling The recognition of plutons, dykes, sills, lava
+of magma in bodies of various sizes and flows and pyroclastic deposits by
+shapes and pyroclastic events. interpretation of maps, sections and
+photographs. Observation and investigation
+of igneous rocks to deduce the cooling
+history:
+• crystal size: coarse (>3 mm), medium (1-
+3 mm), fine (<1 mm)
+• crystal shape: euhedral, subhedral,
+anhedral
+• texture: equicrystalline, porphyritic,
+vesicular, glassy, fragmental (tuff)
+• structure: pillow structure, aa/pahoehoe
+surfaces, columnar joints.
+SP8: Production of full rock description of
+macro and micro features from hand
+specimens and/or unfamiliar field exposures of
+igneous rocks in order to interpret component
+composition, colour and textures, to identify
+rock type and to deduce their cooling history.
+Identification in hand specimen of the
+following igneous rocks from their
+composition, texture and other diagnostic
+features:
+• Silicic: granite
+• Mafic: gabbro, dolerite, basalt
+• Ultramafic: peridotite.
+SP9: Use of photomicrographs to identify
+minerals and rock textures of igneous rocks
+to identify rock type and to deduce their
+cooling history.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 18
+Knowledge and understanding Geological techniques and skills
+Use of ratios, fractions and percentages.
+Calculation of the circumferences, surface
+areas and volumes of regular shapes.
+Construction and interpretation of frequency
+tables and diagrams, bar charts and
+histogram.
+Knowledge of the characteristics of normal
+and skewed distributions.
+c. Partial melting of rock at depth to form
+magma occurs in a number of different
+interplate and intraplate tectonic settings:
+• beneath divergent plate margins - Investigation of the role of rising convection
+partial melting of mantle rocks cells in decompression melting.
+generates basaltic magma
+• near to convergent plate margins -
+partial melting of subducted oceanic
+lithosphere and overlying lithospheric
+wedge generates andesitic magma
+• in mantle plumes (hotspots) - partial Investigation of global distribution of mantle
+melting of mantle rocks generates plumes from maps.
+basaltic magma
+• in deeply buried lower continental
+crust during orogeny – melting and
+assimilation of crustal material
+generates granitic magma.
+d. Volcanic hazards result from: Investigation, using geological data from a
+wide variety of volcanic monitoring
+• blast/explosion
+techniques (including ground deformation,
+• ash fall, pyroclastic flows (nuées
+gravity and thermal anomalies, gas emissions
+ardentes) and gases
+and seismic activity), of the risk of volcanic
+• lava flows
+hazards and the extent to which they can be
+• debris flows and mudflows (lahars).
+managed and controlled in order to reduce
+risk.
+e. The nature of the volcanic hazard is
+linked to the composition, viscosity and
+gas content of the magma.
+f. Metamorphism involves mineralogical Interpretation of the following metamorphic
+and/or textural change of pre-existing features using simplified geological maps and
+rocks in response to changes in photographs: contact aureoles, metamorphic
+temperature and/or pressure. foliations.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 19
+Knowledge and understanding Geological techniques and skills
+g. Contact (thermal) and regional Understanding that y = mx + c represents a
+metamorphism produce distinctive linear relationship.
+mineralogical and textural changes:
+• non-foliated in contact metamorphism SP10: Production of full rock description of
+• foliation (slaty cleavage, schistosity macro and micro features from hand
+and gneissose banding) in regional specimens and/or unfamiliar field exposures of
+metamorphism. metamorphic rocks in order to interpret
+component composition, colour and textures,
+to identify rock type and to deduce the
+temperature and pressure conditions of their
+formation.
+SP11: Use of photomicrographs to identify
+minerals and rock textures of metamorphic
+rocks to identify rock type and to deduce the
+temperature and pressure conditions of their
+formation.
+Identification in hand specimen of the
+following metamorphic rocks from their
+composition, texture and other diagnostic
+features: marble, metaquartzite, spotted rock,
+hornfels, slate, schist, gneiss.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 20
+Topic F2: SURFACE AND INTERNAL PROCESSES OF THE
+ROCK CYCLE
+Key Idea 3: Deformation results when rocks undergo permanent
+strain in response to applied tectonic stresses and can
+be interpreted using geological maps
+Knowledge and understanding Geological techniques and skills
+a. Rock deformation can be interpreted by
+reference to Hooke’s Law: Simple stress
+- strain curves showing elastic/brittle and
+ductile/plastic behaviour; elastic limit,
+permanent strain and fracture point.
+b. Evidence of rock deformation includes Measurement and description of evidence
+dipping beds, folding, faulting and obtained by sampling of rock deformation in
+unconformities. the field (or from photographs). Use of simple
+calculations to establish the amount of
+deformation (percentage of crustal
+shortening).
+Use of sin, cos and tan in physical problems.
+Recognition and interpretation of structural
+features through study of photographs,
+diagrams, sections, geological maps and in
+the field.
+SP12: Location of geological features onto a
+base map.
+SP13: Identification of the location of
+geological features in the field using six figure
+grid references on maps.
+SP14: Production of scaled, annotated field
+sketches at unfamiliar field exposures to
+record data relevant to an investigation.
+SP15: Measurement of dip and strike
+elements: dip angle, dip and strike directions
+of planar surfaces, including valid sampling,
+relevant to an investigation.
+c. Dipping beds are the results of
+tectonic/gravity induced stresses, caused
+by plate movement, that distort beds from
+the horizontal.
+d. Folding results when compressional Recognition of fold elements: limb, hinge,
+stresses exceed the yield strength of a axis, axial plane trace, fold symmetry (as a
+rock. function of limb length), antiform, synform,
+anticline, syncline.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 21
+Knowledge and understanding Geological techniques and skills
+e. Faulting results when applied Recognition of fault characteristics:
+compressional, tensional or shear • dip-slip: normal, reverse, thrust; throw -
+tectonic stresses, caused by plate amount, relative movement of
+movement, exceed the fracture strength
+footwall/hanging wall
+of a rock.
+• strike-slip: left/ sinistral, right/dextral
+• fault displacement (= net slip).
+Recognition of unconformities and their use
+f. Unconformities represent a hiatus in the
+in relative dating.
+geological record resulting from a
+combination of Earth movements, erosion
+and sea level changes.
+Use of geological maps, block diagrams,
+g. The nature of outcrop patterns formed by
+boreholes, cross-sections and photographs to
+the intersection of geological structures
+interpret the geology of an area.
+with a topographic surface are displayed
+on geological maps.
+Construction of geological cross-sections
+from simplified geological maps.
+Ordering the geological sequence of events
+in an area from the study of a simplified
+geological map and/or section.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 22
+Topic F3: TIME AND CHANGE
+Key Idea 1: Study of present day processes and organisms enables
+understanding of changes in the geological past
+Knowledge and understanding Geological techniques and skills
+a. Much of the rock record can be Investigation of the development of
+interpreted in terms of geological uniformitarianism and the rock cycle model
+processes that are operating today by over time and the contributions of James
+applying the Principle of Hutton and William Smith.
+Uniformitarianism: the present is the key
+to the past.
+b. The study of modern environments
+enables an interpretation of the
+sedimentary rock record within the rock
+cycle model.
+c. The basic unit of sedimentary geology is
+the facies which reflects the depositional
+environment: lithofacies, biofacies.
+d. Fossils are evidence of former life Appreciation of the basic distinctions between
+preserved in rocks. They provide the following fossil groups based on their
+information on the nature of ancient hard parts:
+organisms and palaeoenvironmental • brachiopods (marine): shell shape and
+conditions. symmetry, pedicle and brachial valves,
+foramen, hinge line, muscle scars
+• bivalves (marine/freshwater): shape
+and symmetry of valves, number and size
+of muscle scars, hinge line, teeth and
+sockets, gape, pallial line and sinus,
+umbones
+• cephalopods (marine): suture line,
+coiled and chambered shell
+• corals (marine): colonial, solitary, septa
+• trilobites (marine): cephalon, glabella,
+genal spines, eyes, thorax, number of
+thoracic segments, pygidium
+• graptolites (marine): stipes, thecae
+• plants (terrestrial): leaf, stem, root
+• trace fossils (tracks and trails, burrows,
+coprolites).
+SP16: Application of classification systems
+using distinguishing characteristics to identify
+unknown fossils.
+SP17: Production of scaled, annotated
+scientific drawings of fossils, using a light
+microscope, or hand lens observation.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 23
+Knowledge and understanding Geological techniques and skills
+e. Fossil morphology is used to interpret
+function/mode of life:
+• bivalves (burrowers/non burrowers)
+• trilobites (benthonic/pelagic).
+f. Preservation can give rise to a wide
+range of fossil materials: actual remains,
+hard parts, petrification by mineral
+replacement (calcification, silicification,
+pyritisation), carbonisation, moulds/casts.
+g. Fossils accumulations may be preserved Analysis of modern and fossil assemblages
+without appreciable transportation (life to interpret the degree of transportation prior
+assemblages) or preserved after to burial.
+transportation (death assemblages), or
+as derived fossils re-deposited in later
+sediment.
+h. The fossil record is:
+• biased, in favour of marine
+organisms, with body parts resistant
+to decay, that lived in low energy
+environments, and suffered rapid
+burial
+• incomplete, as natural processes can
+distort or destroy fossil evidence
+(predation, scavenging, diagenesis,
+bacterial decay, weathering, erosion,
+metamorphism)
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 24
+Topic F3: TIME AND CHANGE
+Key Idea 2: Geological events can be placed in relative and
+absolute time scales
+Knowledge and understanding Geological techniques and skills
+a. Geological events can be placed in relative Interpretation of age relations of rocks and rock
+time scales using criteria of relative age: sequences using maps, cross-sections and in
+evolutionary change in fossils, the field.
+superposition of strata, unconformities,
+cross-cutting relationships, included
+fragments, 'way-up' criteria.
+b. Some rocks and minerals can be dated Simple use of the principles of radiometric
+radiometrically to give an absolute age. dating (decay rates and the half-life concept) to
+This involves radioactive decay and the calculate the absolute age of a sample.
+principles of radiometric dating; radioactive
+series and radioactive half-life; radiometric Evaluation of the assumptions, accuracy and
+dating as exemplified by Potassium – limitations inherent in the radiometric dating
+Argon (40K– 40Ar), Samarium – Neodymium method.
+(147Sm –143Nd).
+c. Fossils are used in relative dating. Observation and identification of appropriate
+morphological features and their changes
+through time:
+• graptolites - number and position of stipes,
+thecal shape in the Early Palaeozoic.
+• cephalopods - suture lines in the Late
+Palaeozoic and Mesozoic (goniatite,
+ceratite and ammonite).
+d. The factors contributing to good zone
+fossils for relative dating/correlation are:
+wide and plentiful distribution, ready
+preservation, rapid evolutionary change, a
+high degree of facies independence, easy
+identification of index fossils.
+• the utility of graptolites and
+cephalopods as zone fossils assessed
+in relation to the above factors.
+e. The geological column provides a means
+Interpretation of the ages of geological events
+of:
+using the geological column.
+• placing geological events in their
+correct time sequence
+• defining the absolute age of some
+events.
+f. The rock record indicates changing
+conditions and rates of processes with long
+periods of slow change interrupted by
+sudden catastrophism causing mass
+extinctions through geological time.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 25
+Topic F4: EARTH STRUCTURE AND GLOBAL TECTONICS
+Key Idea 1: The Earth has a concentrically zoned structure and
+composition
+Knowledge and understanding Geological techniques and skills
+a. The Earth has a layered structure: crust, Analysis of seismological evidence for the
+mantle, outer and inner core. Each layer internal structure of Earth: P and S body
+has a distinctive composition and/or waves, surface waves, time-distance curves,
+rheological properties. Direct and indirect shadow zones, velocity-depth models of
+evidence is derived from meteorite Earth structure, density distribution with
+(stony, iron) compositions, mantle depth.
+xenoliths, mean density calculations and
+geophysical measurements (seismology, Translation of information between graphical,
+geomagnetism, gravity, conductivity). numerical and algebraic forms.
+SP18: Measurement of the densities of
+representative samples of Earth layers (e.g.
+granite, basalt).
+Simple analysis of geomagnetic evidence for
+core composition and processes.
+b. The crust is a thin layer of distinctive Interpretation of geophysical data on crustal
+composition overlying the mantle; structure (seismic, gravity, magnetic) from
+continental and oceanic crust can be continental and oceanic areas.
+recognised and distinguished by their
+differing thicknesses, composition and Analysis of ocean drilling data to re-interpret
+structure. the Mohorovičić discontinuity
+(Moho) at the base of the crust (e.g. Joides
+Resolution 360).
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 26
+Topic F4: EARTH STRUCTURE AND GLOBAL TECTONICS
+Key Idea 2: The Earth’s internal heat is the underlying cause of
+lithospheric plate motions that control global geological
+processes
+Knowledge and understanding Geological techniques and skills
+a. The uppermost part of the mantle and the Investigation of how the plate tectonics
+overlying crust form a rigid outer shell of paradigm developed over time, from
+the Earth known as the lithosphere, continental drift, through active mantle
+forming tectonic plates, underlain by a convection carrying passive tectonic plates,
+weaker upper mantle zone known as the to modern theories of the causes of plate
+asthenosphere. The asthenosphere is movement (slab pull and ridge push).
+evidenced by the seismological low
+velocity zone (LVZ).
+b. The lithosphere consists of several plates Interpretation of the evidence for plate
+in relative motion. Three types of plate tectonic theory from:
+boundary are recognised; divergent, • direct measurement – ocean floor drilling,
+convergent (involving subduction) and relative movement using GPS
+conservative. There is a relationship • global maps of the distribution of
+between seismicity, volcanicity and plate continents, volcanoes, earthquake
+boundaries. epicentres/foci, ocean trenches and
+ridges, orogenic belts and
+palaeoecological /palaeoenvironmental
+zones.
+• seismic tomography
+• an investigation of the
+geomagnetic/geoelectrial properties of
+rocks and minerals.
+• geothermal data (hot spots, heat flow).
+SP19: Investigation of the relationships
+between earthquake data (focal depth,
+magnitude and distance from plate
+boundaries) using data on Google EarthTM.
+Use of a scatter diagram to identify a
+correlation between two variables.
+Evaluation of the possible mechanisms for
+c. Forces driving plates are a matter of
+plate movement (role of mantle convection,
+current debate involving thermal
+slab pull, ridge push).
+convection of the mantle together with
+gravitational forces and ocean
+lithosphere density differences at
+subduction zones.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 27
+Knowledge and understanding Geological techniques and skills
+d. Some rocks contain a record of the
+direction of the Earth's magnetic field at
+the time of their formation, known as
+remanent magnetism. This is linked to
+ferromagnetism in some iron minerals
+and their Curie temperatures.
+e. Palaeomagnetism can be used to
+determine changes of latitude as different
+continents moved through geological
+time, indicating continental drift. Ocean
+floor magnetic anomalies indicate sea
+floor spreading.
+f. The various elements of the rock cycle
+may be linked directly to plate tectonic
+processes:
+• igneous - basaltic magmatism at
+oceanic spreading centres; basaltic
+and andesitic magmatism at
+convergent margins; granitic magmas
+in orogenic belts
+• sedimentary - erosional processes
+and depositional environments
+influenced by tectonic movements
+• regional metamorphism in subduction
+zones and orogenic belts at plate
+boundaries.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 28
+INTERPRETING THE GEOLOGICAL RECORD
+This section comprises four compulsory topics
+G1 Rock forming processes
+G2 Rock deformation
+G3 Past life and past climates
+G4 Earth materials and natural resources
+Topic G1 : ROCK FORMING PROCESSES
+Key Idea 1: The generation and evolution of magma involves
+different processes
+Knowledge and understanding Geological techniques and skills
+a. Igneous rock composition at interplate Evaluation of the role of temperature,
+and intraplate settings depends on: pressure and water content in determining
+• origin of the parent magma (mantle or the melting points of rocks.
+crust)
+• magma evolution: Differentiation and Simple calculation of depth of formation of
+fractionation (continuous and granite magma by crustal melting through
+discontinuous reaction series - interpretation of graphs showing continental
+Bowen); gravity settling to give geotherm and melting temperatures of wet
+cumulates and dry lower crustal material.
+• magma contamination: incorporation
+of rock material (xenoliths); magma Calculation of the age of a mineral sample
+mixing, during rise and emplacement, using the decay rate equation
+leading to change of composition and -λt
+N = N0e
+physical properties (enclaves).
+Use of logarithms in relation to quantities
+that range over several orders of magnitude.
+Interpretation of logarithmic plots.
+Calculation of percentage error in
+radiometric dating results.
+Investigation of magma crystallisation and
+b. The substitution of one element for
+differentiation processes using phase
+another in the crystal structure of a
+diagrams (plagioclase feldspar, olivine).
+mineral depends upon atomic radius and
+valency; solid solution as exemplified by
+olivine and plagioclase feldspar.
+Analysis of ocean survey data to investigate
+c. The formation of magma chambers under
+current models of how oceanic ridges
+ocean ridges and rises can be interpreted
+(particularly mid ocean ridges - MORs) are
+from models.
+formed (e.g. RRS James Cook -2016).
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 29
+Topic G1 : ROCK FORMING PROCESSES
+Key Idea 2: The mineralogy and texture of metamorphic rocks are
+determined by the composition of the parent rock and
+the conditions of metamorphism
+Knowledge and understanding Geological techniques and skills
+a. Igneous and sedimentary rocks contain Analysis of simple pressure - temperature -
+minerals that are stable or metastable at time paths involved in contact and regional
+the temperature and pressure of their metamorphism.
+formation. Changes in temperature
+and/or directed stress over time lead to Simple analysis of phase diagrams showing
+the growth of new minerals with different stability fields of selected metamorphic
+stability fields. minerals: kyanite/ sillimanite/andalusite.
+b. Mineralogical changes during SP20: Investigation of contact
+metamorphism depend on the metamorphism using the 'Metamorphic
+composition of the parent rock and the Aureole' simulation experiment.
+temperature/pressure field.
+c. Contact and regional metamorphism of
+mudstone/shale lead to the growth of
+new minerals indicative of the type and
+grade of metamorphism: low to high
+grade metamorphism.
+d. Contact, regional and dynamic Study of diagrams/photomicrographs to
+metamorphism result from different identify and analyse the following
+pressure/temperature conditions and metamorphic textures: granoblastic;
+produce characteristic textural changes porphyroblastic; mylonitic.
+associated with recrystallization, ductile
+flow and shear deformation.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 30
+Topic G1: ROCK FORMING PROCESSES
+Key Idea 3: Sedimentary processes can be understood using
+scientific modelling
+Knowledge and understanding Geological techniques and skills
+a. Sedimentary processes which are Application of the Hjulstrom graph.
+infrequent and/or difficult to observe (e.g.
+turbidity currents) can be understood and Determination of the slope and intercept of a
+explained using scientific models. linear graph.
+Application of Walther’s Law to extend
+b. The distribution of environments
+interpretation from two-dimensional data
+represented by rocks in a vertical
+(borehole logs, cliff sections, graphic logs) to
+stratigraphic column is related to the
+three-dimensions.
+distribution of those environments
+laterally (Walther's Law); marine
+transgressions and regressions,
+diachronous stratigraphic boundaries.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 31
+Topic G2: ROCK DEFORMATION
+Key Idea 1: Geological structures are formed when rock material
+undergoes deformation
+Knowledge and understanding Geological techniques and skills
+a. The nature of rock deformation is Recognition of the differences in deformation
+determined by the competence of the of competent and incompetent rocks.
+parent rock and conditions during
+deformation (temperature, confining
+pressure, strain rate).
+b. Fold characteristics; amplitude, Identification of plunge direction (of axis) and
+wavelength, interlimb angle (open, tight, axial planar cleavage.
+isoclinal), axial plane attitude (upright,
+inclined, overturned, recumbent), Represent limb dip and strike data on a polar
+plunging folds. equal area stereonet (polar plots only not
+projections or great circles).
+Plotting of variables from experimental or
+other circular data.
+c. Fault type is determined by the Analysis of the relationship between fault
+orientation of the principal stresses. type (normal, reverse/thrust, strike-slip) and
+Technical terms to describe fault the orientation of the principal stress
+elements: slickensides, fault gouge, fault components ( max,  int,  min).
+breccia.
+d. Structural reactivation: earlier-formed Recognition of evidence for fault reactivation
+faults can be reactivated during later on geological maps, cross-sections, diagrams
+tectonism; folds may be refolded. and photographs.
+Structural inversion: reactivation of
+normal faults in compression or reverse
+faults/thrusts in extension.
+e. The nature of outcrop patterns formed by Calculations involving measurements of:
+the intersection of geological structures • true bed thickness
+with a topographic surface are displayed
+• vertical bed thickness
+on geological maps.
+• width of outcrop
+• angle of dip.
+Use of sin, cos and tan in physical problems.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 32
+Topic G3: PAST LIFE AND PAST CLIMATES
+Key Idea 1: Fossils provide evidence for the increasing diversity of
+life through geological time
+Knowledge and understanding Geological techniques and skills
+a. The fossil record provides evidence of Interpretation of evolutionary diagrams.
+changes in floras and faunas through
+geological time and the development of
+higher life forms:
+• Precambrian life: life possibly evolved
+early in Earth history (3.8 billion years
+ago). The Ediacaran fauna represents
+the oldest diverse set of multicellular,
+soft bodied organisms (565 Ma)
+• The Cambrian Explosion: the Analysis of the possible causes of faunal
+development of mineralised skeletons diversification at the Precambrian-Cambrian
+led to a wide variety of advanced boundary.
+marine invertebrates by the early
+Cambrian
+• Life in the ocean diversified in stages Interpretation of simple diversity curves
+identified by separate fauna: a basic (Sepkoski’s curves).
+understanding of the difference
+between Cambrian, Palaeozoic and
+modern faunas
+• The Phanerozoic was marked by the Analysis of the morphology of fossil
+migration of organisms onto the land vertebrates (including dinosaurs) to interpret
+during the Palaeozoic. Vertebrate function/mode of life.
+development of amphibians from fish,
+reptiles from amphibians and
+mammals and birds from reptiles.
+Colonisation by of the land by plants.
+b. Diversity increased through the Evaluation of contrasting hypotheses
+Phanerozoic punctuated by many regarding mass extinctions.
+declines caused by mass extinction
+events. Mass extinctions may result from
+a variety of causes including:
+• asteroid impact (Alvarez)
+• large scale volcanicity (flood basalts)
+• changes in land/sea levels
+• rapid climate change.
+c. Mass extinctions are exemplified by the
+end-Permian (P-T) and Cretaceous-
+Paleogene (K-Pg) boundary events.
+d. There are alternative interpretations of Evaluation of alternative interpretations of
+evolutionary patterns based on the fossil evolutionary patterns.
+record. Gradual change (gradualism) vs
+stability interrupted by sudden change
+(punctuated equilibrium).
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 33
+Topic G3: PAST LIFE AND PAST CLIMATES
+Key Idea 2: A combination of global factors contributes to climate
+change through geological time
+Knowledge and understanding Geological techniques and skills
+a. Long-term changes to the global climate, Analysis of present day oceanic and
+composition of the atmosphere, sea level atmospheric circulation in relation to climatic
+and distribution of the continents are effects.
+recorded in the Phanerozoic rock record.
+The J. Tuzo Wilson Cycle provides a
+framework for understanding these long Analysis of data used to determine past
+term changes. climatic regimes.
+b. Changes in the atmospheric composition Evaluation of the contribution of naturally
+of greenhouse gases (especially CO
+2
+and produced CO
+2
+and methane to climate
+methane) result from natural processes change with time.
+(volcanic activity, rock weathering,
+warming of methane hydrates)
+throughout geological time.
+c. There have been climate changes Analyses of graphs showing different rates
+throughout geological time. The current of climate change.
+rate of change appears to differ from
+those in the past.
+d. The Anthropocene is a proposed epoch Evaluation of the arguments in the debate
+that began when human activities for the inclusion of the Anthropocene as a
+changed the Earth’s surface environment new epoch.
+on a scale comparable with the major
+events of the geological past. There is
+currently a lack of consensus for the
+proposed epoch.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 34
+Topic G3: PAST LIFE AND PAST CLIMATES
+Key Idea 3: Evidence for global climate change is interpreted from
+the geological record and the geochemistry of rocks
+Knowledge and understanding Geological techniques and skills
+a. Evidence for global climate changes can Investigation of the evidence for climatic
+be interpreted from both the geological extremes in the rock record.
+record and the isotope geochemistry of
+ocean-floor sediments.
+b. The fossil record provides evidence of
+different climatic zones, as exemplified
+by:
+• land plants
+• corals.
+c. Sedimentary sequences provide evidence
+of palaeoenvironments related to
+particular climatic zones.
+• Ancient icehouse deposits (e.g
+Carboniferous).
+• Tropical greenhouse deposits (e.g.
+Cretaceous).
+d. Oxygen isotope ratios (18O/16O) in fossil Simple analysis of oxygen isotope curves.
+shells are indicative of the temperature of
+ancient ocean waters.
+e. The “Snowball Earth” hypothesis Assessment of the validity of the evidence
+proposes that the Earth's surface became for the “Snowball Earth” hypothesis in
+entirely or nearly entirely frozen at least Neoproterozoic rocks.
+once, sometime earlier than 650 Ma.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 35
+Topic G4 : EARTH MATERIALS AND NATURAL RESOURCES
+Key Idea1: Geological processes lead to the concentration and
+accumulation of natural resources in deposits that can
+be exploited; economic deposits can be concentrated
+by igneous and sedimentary processes
+Knowledge and understanding Geological techniques and skills
+a. Processes of formation of metalliferous Geological map interpretation (ore body
+ores. geometry, field relations); section-drawing
+• Igneous associations of ores - through ore bodies.
+magmatic segregation, hydrothermal
+activity. Calculation of the circumferences, surface
+• Sedimentary associations of ores - areas and volumes of regular shapes.
+placer deposits; residual deposits;
+precipitated deposits. Recognition and making use of appropriate
+units in calculations.
+Use of ratios, fractions and percentages.
+Geological map interpretation; section
+drawing through industrial mineral deposits.
+b. Processes of formation of non-metallic
+minerals of economic importance: china
+clay.
+c. Formation of sedimentary deposits of
+economic importance as "bulk minerals"
+for aggregate: sand and gravel.
+d. Origin of hydrocarbons and coals: Simple analysis of maturity: depth
+hydrocarbons and coals result from the (temperature) graphs showing oil and
+thermal alteration of organic material due natural gas windows.
+to burial.
+• Hydrocarbons: source rocks; Identification of coal types.
+sediment burial and the temperature Simple assessment of reserves (e.g.
+and pressure conditions of oil and tonnage of coal in a given area).
+natural gas formation.
+Calculation of the circumferences, surface
+• Coal-forming environments; peat,
+areas and volumes of regular shapes.
+lignite, bituminous coal, anthracite;
+coal rank.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 36
+Topic G4 : EARTH MATERIALS AND NATURAL RESOURCES
+Key Idea 2: Permeable rocks offer pathways for oil and gas
+migration; highly porous rocks can act as natural
+reservoirs for underground supplies of oil and gas
+Geological techniques and
+Knowledge and understanding
+skills
+a. Porosity and permeability of rock and Analysis of rock textures in terms of
+sediments affects the presence, porosity and permeability (grain size,
+distribution and migration of fluids (water shape, packing, sorting; cementation);
+oil and natural gas): primary/secondary primary and secondary porosity.
+porosity in rock; factors that affect
+porosity and permeability.
+b. Fluid flows in rocks and sediment can be Application of Darcy’s Law to model fluid
+modelled using Darcy’s Law. flow:
+h −h 
+Q = −kA 2 1
+ L 
+Analysis of geological cross-sections
+c. Oil and gas migration are controlled by
+through oil and natural gas bearing
+geological factors: migration paths -
+structures.
+relative buoyancy of oil and natural gas;
+structural and stratigraphic traps for
+hydrocarbons; reservoir rocks and cap
+rocks.
+Analysis of the controls on groundwater
+d. The characteristics of subsurface
+quality which result from geochemistry
+geology which control the flow of
+(carbonates and sulfates), aquifer filtration,
+groundwater (hydrogeology) include
+residence time and sources of pollution.
+confined and unconfined aquifers,
+aquicludes, aquitards, the water table,
+piezometric surfaces, cones of
+depression and recharge zones.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 37
+Topic G4 : EARTH MATERIALS AND NATURAL RESOURCES
+Key Idea 3: A wide range of prospecting techniques can be
+employed to explore for mineral resources
+Knowledge and understanding Geological techniques and skills
+a. Techniques used to prospect for Geological map interpretation; simple
+mineral resources. analysis of geophysical and geochemical
+• geophysical surveying - gravity data related to mineral exploration.
+(Bouguer), seismic, magnetic,
+electrical. Selection of appropriate geophysical
+• geochemical prospecting - river methods for different mineral searches,
+water, river sediment and soil depending upon the geometry and physical
+sampling. properties of the target body.
+Each method has particular Interpretation of seismic reflection sections
+applications and limitations. to identify potential oil and natural gas-
+bearing structures.
+Construction of geological cross-sections
+b. Microfossils are used for correlation in from borehole data, including dating and
+prospecting for oil and natural gas. correlation using microfossils.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 38
+GEOLOGICAL THEMES
+This section comprises two compulsory topics
+T1 Geohazards
+T2 Geological map applications
+and one option topic from
+T3 Quaternary geology
+T4 Geological evolution of Britain
+T5 Geology of the lithosphere
+Topic T1 : GEOHAZARDS
+Key Idea 1: Natural geohazards have a worldwide impact on
+human populations including in the British Isles
+Knowledge and understanding Geological techniques and skills
+a. Seismic hazards. Analysis of geological data from appropriate
+• There is a relationship between case studies of each the following:
+earthquakes and active fault zones. • a major earthquake
+• The magnitude of an earthquake • a mass movement event
+event is measured on the Moment to compare and contrast the nature of the
+Magnitude scale (M ). The intensity geological hazards.
+W
+of earthquake damage around an
+event is measured on the modified
+Mercalli scale and is related to
+earthquake size, depth, distance,
+local ground conditions and building
+standards.
+• Seismic hazards include ground
+shaking, liquefaction.
+• Tsunamis can cause devastation in
+coastal areas following an undersea
+earthquake (landslide or volcanic Investigation of the factors that affect the
+eruption). impact of earthquakes and mass movements
+b. Mass movement hazards.
+• The mechanism and triggering of
+rock avalanches, landslides and
+debris flows are linked to angle of
+slope, lithology, weathering, load,
+groundwater regime, rainfall, ground
+vibration, vegetation cover.
+c. The British Isles is prone to local natural
+Analysis of the causes and effects of
+geohazards at different scales
+geohazards in the British Isles from
+associated with: earthquakes, landslides,
+appropriate data sets.
+shrinking and swelling clays and
+subsidence (including sink holes).
+d. There is evidence that significant
+tsunamis have affected the British coast
+in the recent geological past.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 39
+Topic T1 : GEOHAZARDS
+Key Idea 2: Geohazard management attempts to predict and
+manage hazardous geological events with only limited
+success
+Knowledge and understanding Geological techniques and skills
+a. Geohazard and risk are intimately linked.
+• Geohazard: the probability of a change
+in the geological environment of a given
+magnitude within a specific time period
+in a given area.
+• Risk: the consequent threat of loss of
+life or damage to property and
+infrastructure.
+Understanding of simple probability.
+b. The risk assessment of geohazards
+involves an analysis of:
+• the nature of the hazard
+• the probability of occurrence and the
+return period of the hazard
+• communication of the risk to the
+vulnerable population.
+An investigation of the monitoring of:
+c. Attempts to predict earthquakes include • a major earthquake
+monitoring changes in: seismic activity, • a mass movement event
+groundwater levels and pressure, ground evaluating the level of success in hazard
+deformation (creep meters, strain meters, tilt prediction.
+meters), radon gas emissions and electrical
+resistivity.
+d. Sites of potential slope failure can be
+monitored by:
+• ground levelling and surveying;
+monitoring of micro-seismic events and
+borehole distortion; ground deformation
+(creep, strain, tilt) and groundwater
+pressures
+• Use of electronic distance
+measurement (EDM), satellite and GPS
+techniques.
+e. The destructive effects of earthquakes and
+mass movements can, to some extent, be
+managed and controlled by engineering
+geology applications.
+• Earthquakes: reducing of the impact of
+ground accelerations; aseismic building
+design; tsunamis defences.
+• Mass movement: slope stabilisation
+methods, drainage control, retaining
+structures.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 40
+Topic T1 : GEOHAZARDS
+Key Idea 3: Engineering activities can have a major impact on the
+natural environment
+Knowledge and understanding Geological techniques and skills
+a. Extraction of geological raw materials
+and economic storage of waste products
+involves interference with the surface
+and/or subsurface environment.
+• Quarrying and mining. Problems Analysis of the methods of extraction of
+associated with the extraction of rock geological raw materials to identify potential
+and minerals – stability of working environmental problems and the ways by
+faces, rock falls, ground subsidence, which these may be minimised.
+flooding, surface/groundwater
+pollution and waste tipping.
+• Waste disposal. Problems of ground Analysis of landfill engineering data for the
+contamination, including groundwater disposal of domestic waste or underground
+pollution and methane gas sites for the disposal of highly toxic chemical
+production, can be ameliorated by and radioactive waste.
+good geological site selection and
+engineering practice. There are
+special problems with the disposal of
+highly toxic chemical and radioactive
+waste.
+• Contaminated land. Problems with Analysis of the issues associated with the
+the management and remediation of remediation of one industrial brownfield site.
+industrial brownfield sites associated
+with toxic chemical materials, ground
+instability, subsidence and
+groundwater pollution.
+b. Civil engineering work should take
+account of geological factors to avoid: Simple analysis of rock slope stability
+• problems of ground instability involving friction angle and orientation of rock
+associated with weathering, dip of discontinuities.
+strata, folding, faulting, rock cleavage,
+joint patterns and fracture density Analysis of the suitability of sites using a
+variety of geological and geotechnical data.
+• interference with the hydrological
+system: pore water pressure, surface
+and underground drainage (porosity,
+permeability, water table, aquifers)
+• radon gas - sources and pathways to
+surface, surface geology of high-risk
+areas.
+c. In building major structures geological
+factors and geological rock properties
+must be taken into account (e.g. dams
+and reservoirs, cuttings and tunnels,
+buildings).
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 41
+Topic T2 : GEOLOGICAL MAP APPLICATIONS
+Key Idea 1: Outcrop patterns on geological maps can be used to
+identify and interpret structural elements
+Knowledge and understanding Geological techniques and skills
+a. Outcrop patterns of dipping strata and Interpretation of relationships between
+faults in relation to topography: structural features, outcrops and topography
+direction of closure of V-shaped on geological maps.
+outcrops in valleys as an indication of
+dip direction; close parallelism of Identification of fold types using outcrop
+geological boundaries and topographic patterns on geological maps.
+contours as a sign of near horizontal
+dip; linear geological boundaries Identification of fault types and
+crossing topographic relief as an measurement of displacements using offsets
+indication of steep dip. of geological boundaries across faults.
+Identification of unconformities based on
+field relationships displayed on geological
+maps.
+Analysis of the 3D nature of geological maps
+and cross-sections using block diagrams
+and/or GIS systems (including Google
+EarthTM).
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 42
+Topic T2 : GEOLOGICAL MAP APPLICATIONS
+Key Idea 2: Geological maps contain information relevant to a
+wide range of geological applications
+Knowledge and understanding Geological techniques and skills
+a. Geological maps provide an essential Use of geological maps at various scales to
+database of detailed information about identify from outcrop patterns and other data
+the distribution of rocks at the surface on geological maps:
+that can be used to interpret or predict • conformable and unconformable
+subsurface geological conditions. sedimentary formations
+• metamorphic sequences and igneous
+bodies (and any associated
+metamorphic effects)
+• structural features.
+b. Geological maps provide an essential
+Use of geological maps at various scales to:
+database for geological applications:
+assess the potential of surface sites for a
+• design of construction projects range of engineering projects on the basis of
+the prevailing geology
+identify geological hazards (landslides,
+• identification of geological hazards subsidence) at defined surface sites on the
+basis of the prevailing geology
+interpret subsurface geology in connection
+• location of resources - with groundwater (water table, springs,
+groundwater, fossil fuels; aquifers, artesian wells), coal, oil, natural
+alternative energy sources
+gas and geothermal energy
+identify the environmental issues specific to
+• identification of environmental
+extraction of resources from the map area
+issues from extraction of these
+resources
+assess the suitability for sustainable waste
+disposal/contaminated land remediation in a
+• assessment of suitability for given area.
+sustainable waste disposal or
+brownfield remediation.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 43
+Option T3: QUATERNARY GEOLOGY
+Key Idea 1: A combination of global factors contributes to climate
+change through geological time
+Knowledge and understanding Geological techniques and skills
+a. Milankovitch cycles are regarded as a
+contributory cause of climatic
+fluctuations during the Quaternary.
+b. The distribution of continents and Analysis of present day oceanic and
+mountain belts affects oceanic and atmospheric circulation in relation to climatic
+atmospheric circulation, influencing effects.
+past and present global climate.
+c. The switch from a global greenhouse to
+icehouse climate is moderated by the
+efficiency of heat transfer from
+equatorial to polar latitudes; possible
+influence of the opening of the Drake
+Passage and rise of the Himalayan
+mountains.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 44
+Option T3: QUATERNARY GEOLOGY
+Key Idea 2: The wide range of Quaternary deposits and
+landforms provides a fragmentary record of former
+glacial and interglacial stages in Britain
+Knowledge and understanding Geological techniques and skills
+a. The wide range of glacial, periglacial,
+fluvioglacial and interglacial deposits
+and landforms in Britain provides an
+incomplete record of climatic
+fluctuations and varying sedimentary
+environments. Information may be
+deduced on ice sheet dimensions and
+ice movement patterns.
+b. There is geological evidence for glacial
+and interglacial stages, and for shorter-
+term climatic cycles superimposed on
+the dominant pattern of glacial and
+interglacial stages.
+c. There is a link between continental ice Analysis of evidence for Quaternary sea
+sheets and sea level: low sea levels level changes (e.g. raised beaches, drowned
+during glacials, high sea levels during valleys).
+interglacials. Isostatic response to ice
+loading and unloading. Simple calculations of amount of rebound
+caused by ice unloading. Analysis of
+evidence for relative changes in sea level
+caused by ice loading.
+d. The fragmentary terrestrial record of
+climate change contrasts with a near
+complete oceanic record: oxygen
+isotope evidence (18O/16O) from ocean
+sediments provides evidence of climate
+fluctuations through the Quaternary.
+e. Ice core evidence for atmospheric
+change.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 45
+Option T3: QUATERNARY GEOLOGY
+Key Idea 3: Fossils provide evidence of environmental and climate
+changes in the Quaternary to which dating techniques
+can be applied
+Knowledge and understanding Geological techniques and skills
+a. Fossils provide evidence for climatic Analysis of pollen diagrams. Analysis of the
+fluctuations in Britain during the vertebrate /invertebrate record. (e.g. woolly
+Quaternary period. mammoths, beetles).
+b. Environmental change and climate Evaluation of fossil evidence for hominin
+instability over the past six million years evolution (up to Homo sapiens) compared to
+may have been responsible for shaping the evidence for environmental and climatic
+human evolution and the ability to change.
+adapt to changing conditions.
+c. A variety of techniques are available to
+date Quaternary events including:
+• Radiocarbon (14C) dating (organic
+material)
+• Incremental dating (varves, tree
+rings)
+• Isochronous marker beds (volcanic
+ash layers).
+Each method has particular applications
+and limitations.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 46
+Option T4: GEOLOGICAL EVOLUTION OF BRITAIN
+Key Idea 1: The Neoproterozoic and Phanerozoic stratigraphy of the
+British area has been determined largely by the
+assembly of lithotectonic terranes during three orogenic
+events
+Knowledge and understanding Geological techniques and skills
+a. Rocks from all the major subdivisions of Study of geological maps at various scales
+geological time occur in Britain and including maps linking onshore and offshore
+surrounding shelf areas: Precambrian, areas.
+Early and Late Palaeozoic, Mesozoic,
+Cenozoic. Use of maps and related data to investigate
+major geological processes operating in
+different parts of the British area from the
+Precambrian to the Quaternary.
+b. Information used to investigate the Application of remote sensing and subsurface
+geological history of the British Isles also data collection to help interpret the
+includes remote sensing techniques that Palaeozoic and Neoproterozoic geology of
+provide an indirect way to investigate the the British area.
+subsurface geology. The principles
+associated with:
+• potential field measurements gravity
+(Bouguer anomaly) and magnetic
+surveys
+• borehole analysis; as exemplified by
+the Mochras Borehole.
+• seismic reflection surveys; onshore
+and offshore.
+c. A number of orogenic events have Interpretation of geological maps to identify
+affected the British area: location and outcrop patterns associated with large-scale
+large-scale geology. Ages, main geological features of orogenic belts; fold
+structures and dominant trends of the shapes and descriptors, plunging folds; fault
+Caledonian and Variscan orogenic belts; descriptors; regional structural trends as
+Alpine orogenic influences in Britain. displayed by major folds and faults.
+d. Study of the geology (plutonic/volcanic Collation and evaluation of geological
+and metamorphic rocks) of these evidence to interpret the Caledonian and
+orogenic belts aids the reconstruction of Variscan orogenic belts and Palaeogene
+the plate tectonic regimes in which they Igneous Province in plate tectonic terms.
+developed.
+e. The Palaeogene Igneous Province of NW Interpretation of the geological characteristics
+Britain provides evidence of the early of the Palaeogene Igneous Province in plate
+history of the opening of the North tectonic terms.
+Atlantic Ocean, with associated basaltic
+volcanicity.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 47
+Option T4: GEOLOGICAL EVOLUTION OF BRITAIN
+Key Idea 2: The evidence for the northward drift of the British area
+through the Neoproterozoic and Phanerozoic
+Knowledge and understanding Geological techniques and skills
+a. The palaeomagnetic field direction in The use of palaeomagnetic data to calculate
+some British rocks provides evidence of palaeolatitudes for the British area, and
+latitude at the time of magnetisation. interpretation of apparent polar wandering
+curves to determine palaeolatitude changes
+through time.
+b. Rocks in Britain show evidence of major
+climatic change through Phanerozoic
+time as a result of the northward drift of
+the British area, exemplified by:
+• Devonian and Permo-Triassic - semi-
+arid and desert terrestrial and
+hypersaline marine deposits.
+• Carboniferous, Jurassic and
+Cretaceous - tropical, shallow marine
+and terrestrial (coal) deposits.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 48
+Option T4: GEOLOGICAL EVOLUTION OF BRITAIN
+Key Idea 3: The northward drift of the British area as controlled by
+plate tectonic motions has resulted in the deposition of
+a wide range of sedimentary facies during the
+Neoproterozoic and Phanerozoic (from 1000Ma to
+2.6Ma)
+NB: This key idea is intended to provide "snapshots" of the geological past to
+develop an appreciation of the global plate tectonic controls underlying regional
+geology and to increase understanding of changing plate environments within and
+beyond the British area. Detailed stratigraphical development is not required.
+Knowledge and understanding Geological techniques and skills
+a. Sedimentary rocks deposited in Britain Interpretation of maps, fossils, sedimentary
+are related to the interplay of global rocks and structures to evaluate the evidence
+plate tectonics and associated climatic for changing depositional with particular
+changes: reference to:
+1. Neoproterozoic. The break-up of 1. an evaluation of the “Snowball Earth”
+the super-continent, Rodinia. Link to hypothesis with evidence from Britain:
+the cooling of the global climate diamictites of the Port Askaig
+around 700 Ma. formation; rapid evolution of primitive
+2. Early Palaeozoic. Northern and life in the Ediacaran fauna – Charnia.
+southern parts of Britain in different 2. shallow seas: Cambrian and Silurian
+continents separated by the Iapetus sandstones, shales and limestones
+Ocean. Deep and shallow marine with shallow water fossil assemblages
+environments. including corals, brachiopods,
+3. Mid Palaeozoic. Caledonian trilobites; deep seas: Ordovician black
+Orogeny and fusion of Euramerica. graptolitic shales and turbidites.
+4. Late Palaeozoic. Britain drifted 3. continental red beds: Devonian
+north across the equator with sandstones; breccias; conglomerates;
+possible destruction of a tract of mudstones.
+oceanic lithosphere during the 4. equatorial rain forest conditions:
+Variscan Orogeny. Carboniferous coal measures with
+5. Early Mesozoic. Separation of sandstones, shale, freshwater
+Laurasia and Gondwana by the bivalves and plant remains. Coal
+Tethys ocean in southern Europe. seams and seat-earths with rootlets.
+Rifting and subsidence in the North 5. continental red beds and evaporites.
+Sea area related to the opening of Permo-Triassic - semi-arid and desert
+the Atlantic Ocean. terrestrial; hypersaline marine
+6. Late Mesozoic. During the deposits; Jurassic shallow marine
+Cretaceous, continued opening of shelf deposits.
+the Atlantic and continued 6. open marine Cretaceous chalk
+subsidence of the North Sea area. deposits recording a period of high
+7. Cenozoic. Formation of the Alps global temperatures and sea levels.
+with related tectonic uplift in the 7. shallow and non-marine Paleogene
+British area. Ongoing subsidence in deposits recording transgressive-
+North Sea area. regressive cycles.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 49
+Option T5: GEOLOGY OF THE LITHOSPHERE
+Key Idea 1: The Earth’s heat loss leads to cooling and the
+development of a strong outer shell (lithosphere)
+underlain by a layer of lower strength
+(asthenosphere)
+Knowledge and understanding Geological techniques and skills
+a. The Earth loses heat through its Graphical comparison of continental and
+surface, leading to the formation of a oceanic geotherms with the mantle solidus
+cold, rigid outer layer known as the curve to explain lithosphere/asthenosphere
+lithosphere: surface heat flow and distinction.
+temperature variation with depth, rock
+strength related to temperature.
+b. The base of the lithosphere is defined
+as the 1300 oC isotherm; lithospheric
+thickness differs between continents
+and oceans.
+c. Global seismology provides evidence Ray path modelling to show refraction of
+for the distinction between lithosphere earthquake body waves through low velocity
+and asthenosphere: seismic low zone.
+velocity zone in upper mantle.
+Interpretation of P- and S- wave velocity-
+depth curves and identification of low
+velocity zone.
+d. The crust is a surface layer of Simple interpretation of seismic refraction
+distinctive composition at the top of the data to define crustal layering and reflection
+lithosphere: seismological estimates of data to investigate the internal structure of
+crustal thickness; Mohorovičić the crust.
+discontinuity (Moho).
+e. The generation of magma in different Interpretation of heat flow variation across
+geological settings results in a range of an ocean basin.
+igneous bodies and products: oceanic
+ridge systems (including mid-ocean Evaluation of the evidence for the existence
+ridge basalts (MORBs)), large igneous of mantle plumes.
+provinces (LIPs), island arcs and
+cordilleran mountain belts.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 50
+Option T5: GEOLOGY OF THE LITHOSPHERE
+Key Idea 2: Oceanic lithosphere is formed at divergent plate
+boundaries and reabsorbed by subduction at
+convergent plate boundaries
+Knowledge and understanding Geological techniques and skills
+a. The ocean crust has a layered Geological interpretation of seismic layers 1,
+structure: seismic layers 1, 2 and 3. 2 and 3 (sediments, pillow lavas, sheeted
+dykes and gabbro) using evidence from
+ophiolites and ocean drilling.
+b. Ophiolites and ocean drilling provide Investigation of an ophiolite complex.
+evidence for the origin and composition
+of the oceanic crust and upper mantle.
+c. Ocean basin evolution can be traced Analysis of the evidence for ocean growth
+from continental rifts through narrow and destruction as a cyclic event.
+seas to mature ocean basins: the J.
+Tuzo Wilson cycle.
+d. Rates and directions of seafloor Interpretation of ocean magnetic anomaly
+spreading may be calculated from the profiles and maps and ocean floor age
+dating of oceanic crust and from the distribution maps; calculation of rates of
+patterns of ocean magnetic anomalies seafloor spreading from magnetic anomaly
+caused by field reversals: use of and mantle plume (hotspot) data – plumes
+radiometric dating and ocean drilling to as frames of reference for absolute plate
+date magnetic anomalies. movements.
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 51
+Option T5: GEOLOGY OF THE LITHOSPHERE
+Key Idea 3: A wide range of lithospheric processes contributes to
+the formation of continental crust
+Knowledge and understanding Geological techniques and skills
+a. Supercontinents have assembled and Investigation of the concept of a
+dispersed multiple times in the geologic supercontinent and the limitation in evidence
+past and takes place in cycles on a beyond 200 Ma.
+global scale: e.g. Rodinia, Pangea.
+b. Being of relatively low density, Investigation of the age distribution of rocks
+continental lithosphere resists in continental areas using geological maps.
+subduction and tends to avoid
+destruction during plate tectonic cycles,
+hence the Earth's oldest crustal rocks
+are found in continental areas.
+c. Orogenic belts are sites of major Identification of large scale features of
+lithospheric thickening. continental geology and interpretation of
+• continent- continent collision. their origin and tectonic setting.
+• continent-island arc collision.
+• cordilleran mountain belts. Investigation of isostasy in continental and
+• incorporation of oceanic lithosphere oceanic lithosphere.
+into orogenic belts; ophiolites and
+accretionary prisms.
+• partial melting and granite.
+• magmatism; delamination.
+• isostatic uplift and gravitational
+collapse.
+d. Forces acting on the continental crust Field interpretation of folds and faults in
+(plate boundary forces and terms of applied stresses, and their
+gravitational spreading) give rise to relationship to the regional structural setting.
+tectonic stresses that cause brittle and
+ductile deformation on all scales in
+crustal rocks.
+e. Regional structures.
+• fold and thrust belts.
+• nappe structures occur in
+compressive tectonic settings and
+may include large-scale
+recumbent folds together with
+shearing along low angle, thrust
+faults.
+f. Major sedimentary basins are Investigation of the origin and structural
+controlled by lithospheric extension control of major sedimentary basins using
+(extensional basins) and lithospheric maps and sections.
+loading (foreland basins).
+© WJEC CBAC Ltd.
+A LEVEL GEOLOGY 52

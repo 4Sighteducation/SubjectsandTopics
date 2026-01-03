@@ -1,0 +1,219 @@
+{
+  "subject_name": "Media Studies",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/x3wbjgp1/eduqas-gcse-media-studies-spec-from-2017-e.pdf",
+  "start_time": "2025-11-23T19:10:21.606294",
+  "success": true,
+  "topics_extracted": 82,
+  "levels": {
+    "0": 3,
+    "1": 5,
+    "2": 11,
+    "3": 21,
+    "4": 42
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": true,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "– the set newspaper front page for Section A"
+      },
+      {
+        "number": "1",
+        "name": "- the set video game for Section B has been"
+      },
+      {
+        "number": "1",
+        "name": "– the web pages to be studied for Spectre have"
+      },
+      {
+        "number": "2",
+        "name": "– the set music video from the 1990s has been"
+      },
+      {
+        "number": "2",
+        "name": "– the set contemporary music video has been"
+      },
+      {
+        "number": "2",
+        "name": "– the corresponding website has been changed"
+      },
+      {
+        "number": "1",
+        "name": "– references to set products for assessment in"
+      },
+      {
+        "number": "1",
+        "name": "– the text has been amended to clarify that"
+      },
+      {
+        "number": "1",
+        "name": "– set products for assessment from 2024 have"
+      },
+      {
+        "number": "2",
+        "name": "– set products for assessment from 2024 have"
+      },
+      {
+        "number": "1",
+        "name": "– the set newspaper front pages for Section A"
+      },
+      {
+        "number": "1",
+        "name": "Exploring the Media 9"
+      },
+      {
+        "number": "2",
+        "name": "Understanding Media Forms and"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products 23"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      },
+      {
+        "number": "1",
+        "name": "Exploring the Media"
+      },
+      {
+        "number": "2",
+        "name": "Understanding Media Forms and Products"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      },
+      {
+        "number": "1",
+        "name": "Exploring the Media"
+      },
+      {
+        "number": "2",
+        "name": "Understanding Media Forms and Products"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      },
+      {
+        "number": "3",
+        "name": "draws on the knowledge and"
+      },
+      {
+        "number": "1",
+        "name": "Exploring the Media"
+      },
+      {
+        "number": "2",
+        "name": "Understanding Media Forms and Products"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      },
+      {
+        "number": "3",
+        "name": "is internally assessed and externally moderated. The total number of marks"
+      },
+      {
+        "number": "3",
+        "name": "may be carried forward. Should a learner choose"
+      },
+      {
+        "number": "1",
+        "name": "20% 20% - 40%"
+      },
+      {
+        "number": "2",
+        "name": "10% 20% - 30%"
+      },
+      {
+        "number": "3",
+        "name": "- - 30% 30%"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      },
+      {
+        "number": "3",
+        "name": "is internally assessed and externally moderated by WJEC Eduqas."
+      },
+      {
+        "number": "3",
+        "name": "is 60."
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      },
+      {
+        "number": "1",
+        "name": "the set video game for Section B has been"
+      },
+      {
+        "number": "1",
+        "name": "Exploring the Media 9"
+      },
+      {
+        "number": "2",
+        "name": "Understanding Media Forms and"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products 23"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      },
+      {
+        "number": "1",
+        "name": "Exploring the Media"
+      },
+      {
+        "number": "2",
+        "name": "Understanding Media Forms and Products"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      },
+      {
+        "number": "3",
+        "name": "- 30% 30%"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      },
+      {
+        "number": "3",
+        "name": "Creating Media Products"
+      }
+    ],
+    "tiers": [],
+    "options": [
+      "1"
+    ],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 31.097758054733276,
+  "end_time": "2025-11-23T19:10:52.704050"
+}

@@ -1,0 +1,51 @@
+{
+  "subject_name": "Physics",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/1gjjlldz/eduqas-a-level-physics-spec-from-2015-e-2310.pdf",
+  "start_time": "2025-11-23T23:45:59.846124",
+  "success": true,
+  "topics_extracted": 38,
+  "levels": {
+    "0": 3,
+    "1": 13,
+    "2": 18,
+    "3": 4
+  },
+  "issues": [],
+  "warnings": [
+    "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+    "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)"
+  ],
+  "success_grade": 75,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": true,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "9.4% 14.1% 7.8%"
+      },
+      {
+        "number": "2",
+        "name": "9.4% 14.1% 7.8%"
+      },
+      {
+        "number": "3",
+        "name": "11.2% 16.8% 9.4%"
+      }
+    ],
+    "tiers": [],
+    "options": [
+      "Alternating"
+    ],
+    "appendices": [
+      "Appendix C"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 21.390578508377075,
+  "end_time": "2025-11-23T23:46:21.236703"
+}

@@ -1,0 +1,4265 @@
+This draft qualification has not yet been accredited by Ofqual. It is published to enable teachers to have early sight of our 
+proposed approach to Pearson Edexcel Level 1/Level 2 GCSE (9 - 1) in Music (1MU0). Further changes may be required 
+and no assurance can be given at this time that the proposed qualification will be made available in its current form, or 
+that it will be accredited in time for first teaching in September 2016 and first award in 2018.
+Specification 
+Pearson Edexcel Level 1/Level 2 GCSE (9 - 1) in Design and Technology (1DT0)
+First teaching from September 2017
+First certification from 2019 Issue 4
+GCSE (9-1)
+Design and 
+Technology
+ 
+ 
+ 
+Summary of Pearson Edexcel Level 1/Level 2 GCSE (9–1) 
+in Design and Technology (1DT0) specification 
+Issue 4 changes  
+ 
+Summary of changes made between previous issue and this current issue  Page 
+number  
+1.15.2 The work of past and present designers and companies has been updated to: 
+Centres should choose a selection of designers for study.  
+Suggestions for designers and companies for study can be found on the Pearson 
+Edexcel website. 
+17 
+ 
+Earlier issues 2 and 3 show previous changes. 
+If you need further information on these changes or what they mean, contact us via our website at: 
+qualifications.pearson.com/en/support/contact-us.html. 
+ 
+
+ 
+ 
+Contents 
+1 Introduction 2 
+Why choose the Edexcel GCSE in Design and Technology? 2 
+Supporting you in planning and implementing this qualification 3 
+Qualification at a glance 4 
+2 Subject content and assessment information 6 
+Component 1 8 
+Component 2 55 
+Assessment Objectives 72 
+3 Administration and general information 73 
+Entries 73 
+Access arrangements, reasonable adjustments, special consideration and 
+malpractice 73 
+Student recruitment and progression 76 
+Appendix 1: Mathematical skills 79 
+Appendix 2: Calculators 80 
+Appendix 3: Scientific skills, knowledge and understanding 81 
+Appendix 4: Links to other relevant subjects 83 
+Appendix 5: Command word taxonomy 85 
+Appendix 6: The context for the development of this qualification 86 
+Appendix 7: Transferable skills 88 
+Appendix 8: Codes 89 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+2 
+ 
+1 Introduction 
+Why choose the Edexcel GCSE in Design and 
+Technology? 
+We’ve listened to feedback from all parts of the design and technology subject community, 
+including teachers, subject associations, professional bodies and higher education. We’ve 
+used this opportunity of curriculum change to redesign a qualification that is engaging and 
+inspiring, and that reflects the demands of a truly modern and evolving society – a 
+qualification that enables your students to apply themselves and develop the practical skills 
+needed to succeed in their chosen pathway. 
+Building innovative design skills 
+Clear routes through the specification – we’ve listened to your feedback and developed a 
+new specification that provides clear routes for specialism in the material areas your students 
+enjoy, and where you already have the resources and equipment in place. 
+Breadth and depth in our exam papers – our exam paper will assess the breadth of 
+design and technology knowledge in the Core section, and assess the depth of knowledge in 
+the chosen material category for the Specialist section to enable students to fully 
+demonstrate their own particular strengths or specialism. 
+Creative design and making at the heart – the contextual challenges provided in our 
+qualification, for example extending human capacity, will give students the freedom to take 
+design risks and to innovate in a situation where it is safe to test and refine ideas. 
+Progression to AS and A Level – we’ve designed the GCSE and AS/A Level qualifications 
+together to ensure clear progression of knowledge, understanding and design/making skills 
+so that students will have a coherent experience of moving from the breadth of the GCSE to 
+the specialisation of AS and A Level. 
+Support with the new content – to help you plan for first teaching with confidence, we’ll 
+be running a range of training events to support you with the new qualification and the new 
+requirements. We’ll also give you practical free resources to minimise your lesson planning 
+and allow more productive time in the classroom with your students. 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+3 
+Supporting you in planning and implementing this 
+qualification 
+Planning 
+● Our Getting Started guide gives you an overview of the new GCSE qualification to help 
+you to get to grips with the changes to content and assessment and to help you 
+understand what these changes mean for you and your students. 
+● We will give you editable course planners and schemes of work that you can adapt to 
+suit your department. 
+● Our mapping documents highlight key differences between the new and current 
+qualifications. 
+Teaching and learning 
+There will be lots of free teaching and learning support to help you deliver the new 
+qualification, including: 
+● a guide on teaching the properties and characteristics content for different material 
+categories 
+● guidance on contextual challenges within NEA 
+● guidance on delivering mathematical skills. 
+Preparing for exams 
+We will also provide a range of resources to help you prepare your students for the 
+assessments, including: 
+● additional assessment materials to support formative assessments and mock exams 
+● marked exemplars of student work with examiner commentaries. 
+ResultsPlus 
+ResultsPlus provides the most detailed analysis available of your students’ exam 
+performance. It can help you identify the topics and skills where further learning would 
+benefit your students. 
+Get help and support 
+Our support line will ensure you receive help and guidance from us and that you can share 
+ideas and information with other teachers. The Design and Technology team can be 
+contacted via: 
+● teachingdesignandtechnology@pearson.com  
+● +44 (0) 207 010 2166  
+● @PearsonTeachDT 
+Learn more at qualifications.pearson.com 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+4 
+Qualification at a glance 
+Content and assessment overview 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Design and Technology consists of one 
+externally-examined paper and one non-examined assessment component. 
+Students must complete all assessment in May/June in any single year. 
+ 
+Component 1 (*Paper code: 1DT0/1A, 1B, 1C, 1D, 1E, 1F) 
+Written examination: 1 hour and 45 minutes 
+50% of the qualification 
+100 marks 
+Content overview 
+1 – Core content 
+and any one from the following material categories: 
+2 – Metals 
+3 – Papers and boards 
+4 – Polymers 
+5 – Systems 
+6 – Textiles 
+7 – Timbers 
+Assessment overview 
+The paper consists of two sections. Section A is assessed on the core content and  
+Section B is assessed on the material category students have chosen. 
+1DT0/1A – Metals, 1DT0/1B – Papers and boards, 1DT0/1C – Polymers,  
+1DT0/1D – Systems, 1DT0/1E – Textiles, 1DT0/1F – Timbers 
+Calculators may be used in the examination. Information on the use of calculators during 
+the examinations for this qualification can be found in Appendix 2: Calculators. 
+Section A: Core 
+This section is 40 marks and contains a mixture of different question styles, including 
+open-response, graphical, calculation and extended-open-response questions. There will 
+be 10 marks of calculation questions in Section A. 
+Section B: Material categories 
+This section is 60 marks and contains a mixture of different question styles, including 
+open-response, graphical, calculation and extended-open-response questions. There will 
+be 5 marks of calculation questions in Section B. 
+ 
+*See Appendix 8: Codes for a description of this code and all other codes relevant to this 
+qualification. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+5 
+ 
+Component 2 (Paper code: 1DT0/02) 
+Non-examined assessment 
+50% of the qualification 
+100 marks 
+Content overview 
+There are four parts to the assessment: 
+1 – Investigate 
+This includes investigation of needs and research, and a product specification 
+2 – Design 
+This includes producing different design ideas, review of initial ideas, development of 
+design ideas into a chosen design, communication of design ideas and review of the 
+chosen design 
+3 – Make 
+This includes manufacture, and quality and accuracy 
+4 – Evaluate 
+This includes testing and evaluation. 
+Assessment overview 
+● Students will undertake a project based on a contextual challenge released by us a year 
+before certification.  
+● This will be released on 1st June and will be available on our website. 
+● The project will test students’ skills in investigating, designing, making and evaluating a 
+prototype of a product. 
+● Task will be internally assessed and externally moderated. 
+● The marks are awarded for each part as follows. 
+o 1 – Investigate (16 marks) 
+o 2 – Design (42 marks) 
+o 3 – Make (36 marks) 
+o 4 – Evaluate (6 marks) 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+6 
+2 Subject content and assessment 
+information 
+The GCSE in Design and Technology enables students to understand and apply iterative 
+design processes through which they explore, create and evaluate a range of outcomes. The 
+qualification enables students to use creativity and imagination to design and make 
+prototypes (together with evidence of modelling to develop and prove product concept and 
+function) that solve real and relevant problems, considering their own and others’ needs, 
+wants and values. It gives students opportunities to apply knowledge from other disciplines, 
+including mathematics, science, art and design, computing and the humanities. 
+Students will acquire subject knowledge in design and technology that builds on Key Stage 3, 
+incorporating knowledge and understanding of different materials and manufacturing 
+processes in order to design and make, with confidence, prototypes in response to issues, 
+needs, problems and opportunities. Students learn how to take design risks, helping them to 
+become resourceful, innovative and enterprising citizens. They should develop an awareness 
+of practices from the creative, engineering and manufacturing industries. Through the 
+critique of the outcomes of design and technology activity, both historic and present day, 
+students should develop an understanding of its impact on daily life and the wider world and 
+understand that high-quality design and technology is important to the creativity, culture, 
+sustainability, wealth and wellbeing of the nation and the global community. 
+In the context of this document, the term ‘prototype’ refers to a functioning design outcome. 
+A final prototype could be a highly-finished product, made as proof of concept before 
+manufacture, or working scale models of a system where a full-size product would be 
+impractical. 
+Qualification aims and objectives 
+The study of design and technology seeks to prepare students to participate confidently and 
+successfully in an increasingly technological world. It helps students to be aware of, and 
+learn from, wider influences on design and technology, including historical, social/cultural, 
+environmental and economic factors. 
+The aims and objectives of this qualification are to enable students to: 
+● demonstrate their understanding that all design and technological activity takes place in 
+contexts that influence the outcomes of design practice 
+● develop realistic design proposals as a result of the exploration of design opportunities and 
+users’ needs, wants and values 
+● use imagination, experimentation and combine ideas when designing 
+● develop the skills to critique and refine their own ideas while designing and making 
+● communicate their design ideas and decisions using different media and techniques, as 
+appropriate for different audiences at key points in their designing 
+● develop decision-making skills, including the planning and organisation of time and 
+resources when managing their own project work 
+● develop a broad knowledge of materials, components and technologies and practical skills 
+to develop high-quality, imaginative and functional prototypes 
+● be ambitious and open to explore and take design risks in order to stretch the 
+development of design proposals, avoiding clichéd or stereotypical responses 
+● consider the costs, commercial viability and marketing of products 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+7 
+● demonstrate safe working practices in design and technology 
+● use key design and technology terminology, including those related to: designing, 
+innovation and communication; materials and technologies; making, manufacture and 
+production; critiquing, values and ethics. 
+Mathematics 
+Maths skills are fundamental to design and technology. These skills will be embedded in the 
+examination for this qualification. Please see Appendix 1: Mathematical skills for full details 
+of these maths skills and examples of their application.  
+Please see Appendix 2: Calculators for information on the use of calculators in the 
+assessments of this qualification.  
+Scientific skills, knowledge and understanding 
+Science skills, knowledge and understanding underpin the theory and practice of design and 
+technology. These skills will be embedded in the examination for this qualification. Please see 
+Appendix 3: Science skills, knowledge and understanding for full details of these skills and 
+examples of their application. 
+Links to other relevant subjects 
+In addition to maths and science, the GCSE in Design and Technology embeds knowledge, 
+techniques and practices from a wide range of subjects, including art and design, business, 
+computer science and geography (see Appendix 4). As part of the teaching of the 
+qualification, teachers should use Appendix 4 with the identified links to the subject content, 
+to ensure that students gain an awareness and appreciation of the ways in which these 
+subject areas relate to and inform decisions in design. 
+ 
+ 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+8 
+Component 1 
+Overview 
+The content is divided into two sections: core content and material categories. The core 
+content provides students with a breadth of study and the material categories provides 
+students with a depth of study.  
+All students must study the Core content plus at least one material category. 
+All topics within the core content and the chosen material category must be covered but can 
+be delivered in any order or in an integrated approach.  
+1 – Core content 
+Key idea What students need to learn: 
+1.1 The impact of 
+new and 
+emerging 
+technologies 
+To apply a breadth of technical knowledge and understanding of 
+the characteristics, advantages and disadvantages of the following 
+in relation to new and emerging technologies. 
+1.1.1 Industry: 
+a unemployment 
+b workforce skill set 
+c demographic movement 
+d science and technology parks. 
+1.1.2 Enterprise: 
+a privately-owned business 
+b crowd funding 
+c government funding for new business start-ups 
+d not-for-profit organisations. 
+1.1.3 Sustainability: 
+a transportation costs 
+b pollution 
+c demand on natural resources 
+d waste generated. 
+1.1.4 People: 
+a workforce 
+b consumers 
+c children 
+d people with disabilities 
+e wage levels 
+f highly-skilled workforce 
+g apprenticeships. 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+9 
+ 
+Key idea What students need to learn: 
+ 1.1.5 Culture: 
+a population movement within the EU 
+b social segregation/clustering within ethnic minorities. 
+1.1.6 Society: 
+a changes in working hours and shift patterns 
+b Internet of Things (IoT) 
+c remote working  
+d use of video conference meetings. 
+1.1.7 Environment: 
+a pollution 
+b waste disposal 
+c materials separation 
+d transportation of goods around the world 
+e packaging of goods. 
+1.1.8 Production techniques and systems: 
+a standardised design and components 
+b just-in-time (JIT)  
+c lean manufacturing 
+d batch 
+e continuous 
+f one off 
+g mass. 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+10 
+ 
+Key idea What students need to learn: 
+1.2  How the critical 
+evaluation of 
+new and 
+emerging 
+technologies 
+informs design 
+decisions; 
+considering 
+contemporary 
+and potential 
+future 
+scenarios from 
+different 
+perspectives, 
+such as ethics 
+and the 
+environment 
+To recognise the importance of the evaluative process and 
+respective criteria when considering the impact of new and 
+emerging technologies to a range of scenarios. 
+1.2.1 How to critically evaluate new and emerging technologies 
+that inform design decisions: 
+a budget constraints 
+b timescale 
+c who the product is for 
+d the materials used 
+e manufacturing capabilities. 
+1.2.2 How critical evaluations can be used to inform design 
+decisions, including the consideration of contemporary 
+and potential future scenarios: 
+a natural disasters 
+b medical advances 
+c travel 
+d global warming 
+e communication. 
+1.2.3 Ethical perspectives when evaluating new and emerging 
+technologies: 
+a where it was made  
+b who was it made by 
+c who will it benefit 
+d fair trade products. 
+1.2.4 Environmental perspectives when evaluating new and 
+emerging technologies: 
+a use of materials 
+b carbon footprint 
+c energy usage and consumption during manufacture and 
+transportation 
+d life cycle analysis (LCA). 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+11 
+ 
+Key idea What students need to learn: 
+1.3 How energy is 
+generated and 
+stored in order 
+to choose and 
+use 
+appropriate 
+sources to 
+make products 
+and power 
+systems 
+The processes, applications, characteristics, advantages and 
+disadvantages of the following, in order to be able to discriminate 
+between them and to select appropriately. 
+1.3.1 Sources, generation and storage of energy: 
+a fossil fuels – oil, gas, coal 
+b biofuels – biodiesel and biomass 
+c tidal 
+d wind 
+e solar 
+f hydroelectric. 
+1.3.2 Powering systems: 
+a batteries and cells 
+b solar cells 
+c mains electricity 
+d wind power. 
+1.3.3 Factors to consider when choosing appropriate energy 
+sources to make products and power systems: 
+a portability of the power source 
+b environmental impact 
+c power output 
+d circuit/system connections 
+e cost. 
+1.4 Developments 
+in modern and 
+smart 
+materials, 
+composite 
+materials and 
+technical 
+textiles 
+To apply technical knowledge and understanding of the 
+characteristics, applications, advantages and disadvantages of the 
+following. 
+1.4.1 Modern and smart materials: 
+a shape-memory alloys (SMAs) 
+b nanomaterials 
+c reactive glass 
+d piezoelectric materials 
+e temperature-responsive polymers 
+f conductive inks. 
+1.4.2 Composites: 
+a concrete 
+b plywood 
+c fibre/carbon/glass  
+d reinforced polymers 
+e robotic materials. 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+12 
+ 
+Key idea What students need to learn: 
+ 1.4.3 Technical textiles: 
+a agro-textiles 
+b construction textiles 
+c geo-textiles 
+d domestic textiles 
+e environmentally friendly textiles 
+f protective textiles 
+g sports textiles. 
+1.5 The functions 
+of mechanical 
+devices used to 
+produce 
+different sorts 
+of movements, 
+including the 
+changing of 
+magnitude and 
+the direction of 
+forces 
+The performance, principles, applications and the influence on the 
+design of products of the following. 
+1.5.1 Types of movement: 
+a linear 
+b reciprocation 
+c rotary  
+d oscillation. 
+1.5.2 Classification of levers: 
+a class 1, 2 and 3 
+b calculations related to mechanical advantage (MA), 
+velocity ratio (VR), load, effort and efficiency. 
+1.5.3 Linkages: 
+a bell crank 
+b reverse motion linkages. 
+1.5.4 Cams: 
+a pear shaped 
+b eccentric (circular) 
+c drop (snail). 
+1.5.5 Followers: 
+a roller 
+b knife 
+c flat followers. 
+1.5.6 Pulleys and belts: 
+a V-belt 
+b velocity ratio (VR) 
+c input and output speeds. 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+13 
+ 
+Key idea What students need to learn: 
+ 1.5.7 Cranks and sliders. 
+1.5.8 Gear types: 
+a simple and compound gear train 
+b idler gear 
+c revolutions per minute (RPM) calculations 
+d bevel gears 
+e rack and pinion. 
+1.6 How electronic 
+systems 
+provide 
+functionality to 
+products and 
+processes, 
+including 
+sensors and 
+control devices 
+to respond to a 
+variety of 
+inputs, and 
+devices to 
+produce a 
+range of 
+outputs 
+Recognise and apply knowledge and understanding of the working 
+characteristics, applications, advantages and disadvantages of the 
+following. 
+1.6.1 Sensors, including: 
+a the role of sensors in electronic systems 
+b light-dependent resistors (LDRs) 
+c thermistor. 
+1.6.2 Control devices and components, including: 
+a the role of switches in electronic systems 
+b transistors  
+c resistors. 
+1.6.3 Outputs, including: 
+a the role of outputs in electronic systems 
+b buzzers 
+c light-emitting diodes (LEDs). 
+1.7 The use of 
+programmable 
+components to 
+embed 
+functionality 
+into products 
+in order to 
+enhance and 
+customise their 
+operation 
+The performance and functionality of using programmable 
+components. 
+1.7.1 How to make use of flowcharts. 
+1.7.2 How to switch outputs on/off in relation to inputs and 
+decisions. 
+1.7.3 How to process and respond to analogue inputs. 
+1.7.4 How to use simple routines to control outputs with delays, 
+loops and counts. 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+14 
+ 
+Key idea What students need to learn: 
+1.8 The 
+categorisation 
+of the types, 
+properties and 
+structure of 
+ferrous and 
+non-ferrous 
+metals 
+To apply knowledge and understanding of working properties, 
+characteristics, applications, advantages and disadvantages of the 
+following types of materials, in order to be able to discriminate 
+between them and select appropriately. 
+1.8.1 Ferrous metals, including: 
+a mild steel 
+b stainless steel 
+c cast iron. 
+1.8.2  Non-ferrous metals, including: 
+a aluminium 
+b copper 
+c brass. 
+1.8.3  Properties, including: 
+a ductility 
+b malleability 
+c hardness. 
+1.9 The 
+categorisation 
+of the types, 
+properties and 
+structure of 
+papers and 
+boards 
+To apply knowledge and understanding of working properties, 
+characteristics, applications, advantages and disadvantages of the 
+following types of materials, in order to be able to discriminate 
+between them and select appropriately. 
+1.9.1 Paper, including: 
+a copier paper 
+b cartridge paper 
+c tracing paper. 
+1.9.2 Board, including: 
+a folding boxboard 
+b corrugated board 
+c solid white board. 
+1.9.3 Properties, including: 
+a flexibility 
+b printability 
+c biodegradability. 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+15 
+ 
+Key idea What students need to learn: 
+1.10 The 
+categorisation 
+of the types, 
+properties and 
+structure of 
+thermoforming 
+and 
+thermosetting 
+polymers 
+To apply knowledge and understanding of working properties, 
+characteristics, applications, advantages and disadvantages of the 
+following types of materials, in order to be able to discriminate 
+between them and select appropriately. 
+1.10.1 Thermoforming polymers, including: 
+a acrylic 
+b high impact polystyrene (HIPS) 
+c biodegradable polymers – Biopol®. 
+1.10.2 Thermosetting polymers, including: 
+a polyester resin 
+b urea formaldehyde. 
+1.10.3 Properties, including: 
+a insulator of heat 
+b insulator of electricity 
+c toughness. 
+1.11 The 
+categorisation 
+of the types, 
+properties and 
+structure of 
+natural, 
+synthetic, 
+blended and 
+mixed fibres, 
+and woven, 
+non-woven and 
+knitted textiles 
+To apply knowledge and understanding of working properties, 
+characteristics, applications, advantages and disadvantages of the 
+following types of materials, in order to be able to discriminate 
+between them and select appropriately. 
+1.11.1 Natural, including: 
+a animal – wool 
+b vegetable – cotton. 
+1.11.2 Synthetic, including: 
+a polyester 
+b acrylic. 
+1.11.3 Woven, including: 
+a plain – calico 
+b twill – denim. 
+1.11.4 Non-woven, including: 
+a felted wool fabric 
+b bonded fibres/webs. 
+1.11.5 Knitted, including: 
+a weft-knitted fabrics 
+b warp-knitted fabrics. 
+1.11.6 Properties, including: 
+a elasticity 
+b resilience 
+c durability. 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+16 
+ 
+Key idea What students need to learn: 
+1.12 The 
+categorisation 
+of the types, 
+properties and 
+structure of 
+natural and 
+manufactured 
+timbers 
+To apply knowledge and understanding of working properties, 
+characteristics, applications, advantages and disadvantages of the 
+following types of materials, in order to be able to discriminate 
+between them and select appropriately. 
+1.12.1 Natural timbers – hardwoods, including: 
+a oak 
+b mahogany 
+c beech 
+d balsa. 
+1.12.2 Natural timbers – softwoods, including: 
+a pine 
+b cedar. 
+1.12.3 Manufactured timbers, including: 
+a plywood 
+b medium density fibreboard (MDF). 
+1.12.4 Properties, including: 
+a hardness 
+b toughness 
+c durability. 
+1.13 All design and 
+technological 
+practice takes 
+place within 
+contexts which 
+inform 
+outcomes 
+Performance characteristics of a wide range of materials, 
+components and manufacturing processes, in order to be able to 
+discriminate between them and select appropriately. 
+1.13.1 A wide range of materials, components and manufacturing 
+processes for a range of contexts, to inform outcomes, 
+including: 
+a the properties of materials and or components 
+b the advantages and disadvantages of materials and 
+components and manufacturing processes 
+c justification of the choice of materials and components 
+and manufacturing processes. 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+17 
+ 
+Key idea What students need to learn: 
+1.14 Investigate 
+environmental, 
+social and 
+economic 
+challenges 
+when 
+identifying 
+opportunities 
+and constraints 
+that influence 
+the processes 
+of designing 
+and making 
+Implications for designers and manufacturers of the following 
+when developing designs and manufacturing products. 
+1.14.1 Respect for different social, ethnic and economic groups 
+who have different needs and values when identifying new 
+design opportunities. 
+1.14.2 An appreciation of the environmental, social and economic 
+issues relating to the design and manufacture of products, 
+including, fair trade, carbon offsetting, product 
+disassembly and disposal. 
+1.14.3 The main factors relating to ‘Green Designs’. 
+1.14.4 The main factors relating to recycling and reusing 
+materials or products. 
+1.14.5 Human capability. 
+1.14.6 Cost of materials. 
+1.14.7 Manufacturing capability. 
+1.14.8 Environmental impact – life cycle analysis (LCA). 
+1.15 Investigate 
+and analyse 
+the work of 
+past and 
+present 
+professionals 
+and companies 
+in order to 
+inform design 
+Strategies, techniques and approaches employed when 
+investigating and analysing the work of others. 
+1.15.1 Analysing a product to the following specification criteria: 
+a form 
+b function 
+c client and user requirements 
+d performance requirements 
+e materials and components/systems 
+f scale of production and cost 
+g sustainability 
+h aesthetics 
+i marketability 
+j consideration of innovation. 
+1.15.2 The work of past and present designers and companies: 
+Centres should choose a selection of designers for study.  
+ Suggestions for designers and companies for study can be 
+found on the Pearson Edexcel website. 
+CORE 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+18 
+ 
+Key idea What students need to learn: 
+1.16 Use different 
+design 
+strategies to 
+generate initial 
+ideas and avoid 
+design fixation 
+Strategies, techniques and approaches employed when generating 
+design ideas. 
+1.16.1 Use of different design strategies, including: 
+a collaboration 
+b user-centred design 
+c systems thinking. 
+1.17 Develop, 
+communicate, 
+record and 
+justify design 
+ideas, applying 
+suitable 
+techniques 
+Techniques employed when communicating and recording design 
+ideas. 
+1.17.1 Develop and use a range of communication techniques 
+and media to present the design ideas, including: 
+a freehand sketching (2D and/or 3D) 
+b annotated sketches 
+c cut and paste techniques 
+d digital photography/media 
+e 3D models 
+f isometric and oblique projection 
+g perspective drawing  
+h orthographic and exploded views 
+i assembly drawings  
+j system and schematic diagrams 
+k computer-aided design (CAD) and other specialist 
+computer drawing programs. 
+1.17.2 Record and justify design ideas clearly and effectively 
+using written techniques. 
+ 
+METALS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+19 
+Material categories 
+2 – Metals 
+Key idea What students need to learn: 
+2.1 Design 
+contexts 
+2.1.1 When designing or modifying a product, students should be 
+able to apply their knowledge and understanding of metals, 
+components and manufacturing processes. 
+2.2 The sources, 
+origins, 
+physical and 
+working 
+properties of 
+ferrous and 
+non-ferrous 
+metals and 
+their social 
+and ecological 
+footprint 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following materials, in order 
+to be able to discriminate between them and select appropriately. 
+2.2.1 Ferrous metals: 
+a mild steel (in topic 1) 
+b stainless steel (in topic 1) 
+c cast iron (in topic 1) 
+d high carbon steel 
+e tungsten steel. 
+2.2.2 Non-ferrous metals: 
+a aluminium (in topic 1) 
+b copper (in topic 1) 
+c brass (in topic 1) 
+d tin 
+e 7000 series aluminium 
+f titanium. 
+2.2.3 Sources and origins – where ferrous and non-ferrous 
+metals are resourced/manufactured and their geographical 
+origin: 
+a USA, Russia, Sweden – iron ore 
+b China – steel 
+c USA, France, Australia – bauxite (aluminium) 
+d USA, Chile, Zambia, Russia – copper 
+e Indonesia, China – tin. 
+2.2.4 The physical characteristics of each ferrous and  
+non-ferrous metal: 
+a conductivity 
+b magnetism 
+c density. 
+METALS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+20 
+ 
+Key idea What students need to learn: 
+ 2.2.5 Working properties – the way in which each material 
+behaves or responds to external sources: 
+a ductility (in topic 1) 
+b malleability (in topic 1) 
+c hardness (in topic 1) 
+d durability 
+e toughness 
+f elasticity 
+g tensile strength 
+ h compressive strength. 
+2.2.6 Social footprint: 
+a trend forecasting 
+b impact of extraction and material production on 
+communities and wildlife 
+c ease and difficulty of recycling and disposal. 
+2.2.7 Ecological footprint: 
+a sustainability 
+b extraction and erosion of the landscape 
+c processing 
+d transportation 
+e wastage 
+f pollution. 
+2.3 The way in 
+which the 
+selection of 
+ferrous and 
+non-ferrous 
+metals is 
+influenced 
+The influence of the following factors when selecting materials for 
+a specific application. 
+2.3.1 Aesthetic factors: 
+a form 
+b colour 
+c texture. 
+2.3.2 Environmental factors: 
+a sustainability 
+b pollution 
+c energy consumption in the production of steel 
+d corrosion and decay. 
+2.3.3 Availability factors: 
+a use of stock materials 
+b use of specialist materials 
+c impact of market price on world consumption and 
+demand. 
+METALS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+21 
+ 
+Key idea What students need to learn: 
+ 2.3.4 Cost factors: 
+a quality of material 
+b manufacturing processes necessary 
+c commodity price on the London Metal Exchange 
+d cost of recycling in comparison to cost of producing new 
+steel. 
+2.3.5 Social factors: 
+a use for different social groups 
+b trends/fashion 
+c popularity. 
+2.3.6 Cultural and ethical factors: 
+a avoiding offence 
+b suitability for intended market 
+c the consumer society 
+d the effects of mass production 
+e built-in product obsolescence. 
+2.4 The impact of 
+forces and 
+stresses on 
+ferrous and 
+non-ferrous 
+metals and 
+how they can 
+be reinforced 
+and stiffened 
+An awareness of the influence of forces and stresses that act on 
+materials and the methods that can be employed to resist them. 
+2.4.1 Forces and stresses: 
+a compression 
+b tension 
+c shear 
+d electrical 
+e magnetic. 
+2.4.2 Reinforcement/stiffening techniques: 
+a hardening 
+b tempering 
+c the effect of carbon content 
+d work hardening 
+e I, U, T and C beams. 
+METALS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+22 
+ 
+Key idea What students need to learn: 
+2.5 Stock forms, 
+types and 
+sizes in order 
+to calculate 
+and determine 
+the quantity of 
+ferrous and 
+non-ferrous 
+metals 
+required 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following forms/sizes of 
+materials, in order to be able to discriminate between them and 
+select appropriately. 
+2.5.1 Stock forms/types: 
+a bar 
+b sheet 
+c plate 
+d pipe/tube 
+e castings 
+f extrusions 
+g wire 
+h powder metallurgy. 
+2.5.2 Sizes: 
+a gauge 
+b cross-sectional area 
+c diameter 
+d wall thickness of tubes. 
+2.6 Alternative 
+processes that 
+can be used to 
+manufacture 
+ferrous and 
+non-ferrous 
+metal 
+products to 
+different 
+scales of 
+production 
+Application, advantages and disadvantages, of the following 
+processes, scales of production and techniques when 
+manufacturing products, in order to be able to discriminate 
+between them and select appropriately for use. 
+2.6.1 Processes: 
+a forging 
+b casting 
+c powder metallurgy 
+d stamping 
+e welding 
+f extrusion 
+g hardening. 
+2.6.2 Scales of production: 
+a one off 
+b batch 
+c mass production 
+d continuous. 
+METALS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+23 
+ 
+Key idea What students need to learn: 
+ 2.6.3 Techniques for quantity production – methods that are 
+employed when making products in quantity: 
+a marking-out methods (use of reference points, lines and 
+surfaces) 
+b jigs 
+c fixtures 
+d templates 
+e patterns 
+f moulds 
+g sub-assembly 
+h computer-aided manufacturing (CAM) 
+i quality control 
+j working within tolerance 
+k efficient cutting to minimise waste. 
+2.7 Specialist 
+techniques, 
+tools, 
+equipment 
+and processes 
+that can be 
+used to shape, 
+fabricate, 
+construct and 
+assemble a 
+high-quality 
+ferrous and/or 
+non-ferrous 
+metal 
+prototype 
+Application, advantages and disadvantages of the following 
+specialist techniques when manufacturing products, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+2.7.1 Tools and equipment: 
+a hand tools 
+b machinery 
+c digital design and manufacture. 
+2.7.2 Shaping: 
+a filing 
+b cutting/shearing 
+c drilling 
+d turning 
+e milling 
+f bending 
+g abrading/grinding 
+h casting 
+i deforming and reforming. 
+2.7.3 Fabricating/constructing: 
+a welding 
+b brazing 
+c soldering 
+d stamping 
+e punching 
+f riveting snap and pop 
+g sheet metalwork 
+h wastage 
+i addition. 
+METALS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+24 
+ 
+Key idea What students need to learn: 
+ 2.7.4 Assembling: 
+a tapping/threading 
+b fastening – use of nuts, bolts and washers 
+c machine screws 
+d use of adhesives – contact adhesive, epoxy resin. 
+2.8 Appropriate 
+surface 
+treatments 
+and finishes 
+that can be 
+applied to 
+ferrous and 
+non-ferrous 
+metals for 
+functional and 
+aesthetic 
+purposes 
+Application, advantages and disadvantages of the following 
+finishing techniques and methods of preservation, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+2.8.1 Surface finishes and treatments: 
+a paint 
+b dip coating 
+c electroplating 
+d anodising 
+e galvanising 
+f powder coating 
+g lacquering 
+h polishing. 
+ 
+ 
+PAPERS AND BOARDS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+25 
+3 – Papers and boards 
+Key idea What students need to learn 
+3.1 Design 
+contexts 
+3.1.1 When designing or modifying a product, students should be 
+able to apply their knowledge and understanding of papers 
+and boards, components and manufacturing processes. 
+3.2 The sources, 
+origins, 
+physical and 
+working 
+properties of 
+papers and 
+boards and 
+their social 
+and ecological 
+footprint 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following materials, in order 
+to be able to discriminate between them and select appropriately. 
+3.2.1 Paper: 
+a copier paper (in topic 1) 
+b cartridge paper (in topic 1) 
+c tracing paper (in topic 1) 
+d bond 
+e heat transfer printing paper (sublimation printing). 
+3.2.2 Board: 
+a folding boxboard (in topic 1) 
+b corrugated board (in topic 1) 
+c solid white board (in topic 1) 
+d foil-lined board. 
+3.2.3 Packaging laminate (including Tetra Pak™): 
+a paperboard 
+b polyethylene 
+c aluminium foil. 
+3.2.4 Sources and origins – where paper and boards are 
+resourced/manufactured and their geographical origin: 
+a China, USA, Japan – pulp, paper and cardboard 
+b Eastern Asia – rice paper. 
+3.2.5 The physical characteristics of each type of paper and 
+board: 
+a density 
+b transparency 
+c texture. 
+3.2.6 Working properties – the way in which each material 
+behaves or responds to external sources: 
+a flexibility (in topic 1) 
+b printability (in topic 1) 
+c biodegradability (in topic 1) 
+d weight 
+e surface finish 
+f printability 
+g absorbency. 
+PAPERS AND BOARDS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+26 
+ 
+Key idea What students need to learn: 
+ 3.2.7 Social footprint: 
+a trend forecasting 
+b impact of material production on communities and 
+wildlife 
+c impact of logging and material production on 
+communities and wildlife 
+d recycling/disposal – ethical responsibility 
+e reduction of packaging materials – reduction in 
+litter/waste/energy use 
+f brand identity – consumerism, changing the packaging 
+of products over time. 
+3.2.8 Ecological footprint: 
+a sustainability 
+b harvesting and erosion of the landscape 
+c processing 
+d transportation 
+e wastage 
+f pollution. 
+3.3 The way in 
+which the 
+selection of 
+papers and 
+boards is 
+influenced 
+The influence of the following factors when selecting materials for 
+a specific application. 
+3.3.1 Aesthetic factors: 
+a form 
+b colour 
+c texture 
+d surface graphics (across all areas). 
+3.3.2 Environmental factors: 
+a sustainability 
+b pollution 
+c genetic engineering. 
+3.3.3 Availability factors: 
+a use of stock materials 
+b use of specialist materials. 
+3.3.4 Cost factors: 
+a quality of material 
+b decorative techniques 
+c manufacturing processes necessary 
+d commodity price  
+e cost of recycling in comparison to cost of production 
+from raw materials. 
+PAPERS AND BOARDS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+27 
+ 
+Key idea What students need to learn: 
+ 3.3.5 Social factors: 
+a use for different social groups 
+b trends/fashion 
+c popularity. 
+3.3.6 Cultural and ethical factors: 
+a avoiding offence 
+b suitability for intended market 
+c use of colour and language 
+d the consumer society 
+e the effects of mass production 
+f built-in product obsolescence. 
+3.4 The impact of 
+forces and 
+stresses on 
+papers and 
+boards and 
+how they can 
+be reinforced 
+and stiffened 
+An awareness of the influence of forces and stresses that act on 
+materials and the methods that can be employed to resist them. 
+3.4.1 Forces and stresses: 
+a bending 
+b torsion 
+c shear 
+d compression. 
+3.4.2 Reinforcement/stiffening techniques: 
+a laminating 
+b encapsulation 
+c corrugation 
+d additions of layers and ribs 
+e sandwich construction 
+f packaging laminates. 
+3.5 Stock forms, 
+types and 
+sizes in order 
+to calculate 
+and determine 
+the quantity of 
+papers and 
+boards 
+required 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following forms/sizes of 
+materials, in order to be able to discriminate between them and 
+select appropriately. 
+3.5.1 Stock forms/types: 
+a weights 
+b bond 
+c laminates. 
+PAPERS AND BOARDS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+28 
+ 
+Key idea What students need to learn: 
+ 3.5.2 Sizes: 
+a common A sizes 
+b foolscap 
+c B series 
+d letter 
+e envelope 
+f area 
+g diameter. 
+3.6 Alternative 
+processes that 
+can be used to 
+manufacture 
+paper and 
+board 
+products to 
+different 
+scales of 
+production 
+Application, advantages and disadvantages, of the following 
+processes, scales of production and techniques when 
+manufacturing products, in order to be able to discriminate 
+between them and select appropriately for use. 
+3.6.1 Processes: 
+a printing 
+b cutting 
+c intermediate modelling of paper and card prototypes 
+d frame modelling 
+e test modelling. 
+3.6.2 Scales of production: 
+a one off 
+b batch 
+c mass production 
+d continuous. 
+3.6.3 Techniques for quantity production: 
+a marking-out methods (use of reference points, lines and 
+surfaces) 
+b jigs for folding 
+c fixtures 
+d templates 
+e patterns 
+f stencils 
+g photocopying 
+h computer-aided manufacturing (CAM) 
+i quality control 
+j working within tolerance 
+k efficient cutting to minimise waste. 
+PAPERS AND BOARDS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+29 
+ 
+Key idea What students need to learn: 
+3.7 Specialist 
+techniques, 
+tools, 
+equipment 
+and processes 
+that can be 
+used to shape, 
+fabricate, 
+construct and 
+assemble a 
+high-quality 
+paper and 
+board 
+prototype 
+Application, advantages and disadvantages, of the following 
+specialist techniques when manufacturing products, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+3.7.1 Tools and equipment: 
+a hand tools 
+b machinery 
+c digital design and manufacture. 
+3.7.2 Shaping: 
+a cutting 
+b folding  
+c notching 
+d modelling 
+e manipulation. 
+3.7.3 Fabricating/assembling/constructing: 
+a strengthening 
+b addition of dissimilar materials – windows, inserts, 
+stickers, temporary components 
+c lamination 
+d use of split pins 
+e use of mapping pins 
+f stapling 
+g taping 
+h paper engineering 
+i use of adhesives 
+j lettering 
+k binding 
+l marking-out tools. 
+3.8 Appropriate 
+surface 
+treatments 
+and finishes 
+that can be 
+applied to 
+papers and 
+boards for 
+functional and 
+aesthetic 
+purposes 
+Application, advantages and disadvantages of the following 
+finishing techniques and methods of preservation, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+3.8.1 Surface finishes and treatments: 
+a varnishing 
+b hot foil blocking 
+c edge staining 
+d embossing 
+e UV varnishes 
+f packaging laminates and films. 
+POLYMERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+30 
+4 – Polymers 
+Key idea What students need to learn: 
+4.1 Design 
+contexts 
+4.1.1 When designing or modifying a product, students should 
+be able to apply their knowledge and understanding of 
+polymers, components and manufacturing processes. 
+4.2 The sources, 
+origins, 
+physical and 
+working 
+properties of 
+thermoforming 
+and 
+thermosetting 
+polymers and 
+their social and 
+ecological 
+footprint 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following materials, in order 
+to be able to discriminate between them and select appropriately. 
+4.2.1 Thermoforming polymers: 
+a acrylic (in topic 1) 
+b high impact polystyrene (HIPS) (in topic 1) 
+c biodegradable polymers – Biopol® (in topic 1) 
+d polystyrene (PS) rigid (high density polystyrene) and 
+expanded polystyrene  
+e Styrofoam™  
+f polyvinyl chloride 
+g acrylonitrile-butadiene-styrene (ABS) 
+h polyethylene terephthalate (PET) 
+i urethane/polyurethane  
+j fluoroelastomer. 
+4.2.2 Thermosetting polymers: 
+a polyester resin (in topic 1) (when used to reinforce 
+glass and carbon fibre matting) 
+b urea formaldehyde (in topic 1). 
+4.2.3 Sources and origins – where thermoforming and 
+thermosetting polymers are resourced/manufactured and 
+their geographical origin: 
+a Russia, UAE, Saudi Arabia – crude oil. 
+4.2.4 The physical characteristics of each polymer: 
+a density 
+b durability. 
+4.2.5 Working properties – the way in which each material 
+behaves or responds to external sources: 
+a insulator of heat (in topic 1) 
+b insulator of electricity (in topic 1) 
+c toughness (in topic 1) 
+d plasticity  
+e hardness 
+f tensile strength 
+g compressive strength. 
+ 
+POLYMERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+31 
+ 
+Key idea What students need to learn: 
+ 4.2.6 Social footprint: 
+a trend forecasting 
+b impact of extraction and material production on the 
+environment 
+c impact of extraction and material production on wildlife 
+d ease and difficulty of recycling and disposal. 
+4.2.7 Ecological footprint: 
+a sustainability 
+b oil exploration and extraction 
+c wildlife loss 
+d processing 
+e transportation 
+f wastage 
+g pollution. 
+4.3 The way in 
+which the 
+selection of 
+thermoforming 
+and 
+thermosetting 
+polymers is 
+influenced 
+The influence of the following factors when selecting materials for 
+a specific application. 
+4.3.1 Aesthetic factors: 
+a form 
+b colour 
+c texture. 
+4.3.2 Environmental factors: 
+a sustainability 
+b pollution 
+c biodegradable polymers – Biopol® 
+4.3.3 Availability factors: 
+a use of stock materials 
+b use of specialist materials 
+c effect of global oil supply. 
+4.3.4 Cost factors: 
+a quality of material 
+b manufacturing processes necessary 
+c treatments: fire proofing, additives 
+d commodity price – world oil price. 
+4.3.5 Social factors: 
+a use for different social groups 
+b trends/fashion 
+c popularity. 
+ 
+POLYMERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+32 
+ 
+Key idea What students need to learn: 
+ 4.3.6 Cultural and ethical factors: 
+a avoiding offence 
+b suitability for intended market  
+c use of colour and language 
+d the consumer society 
+e the effects of mass production 
+f built-in product obsolescence. 
+4.4 The impact of 
+forces and 
+stresses on 
+thermoforming 
+and 
+thermosetting 
+polymers and 
+how they can 
+be reinforced 
+and stiffened 
+An awareness of the influence of forces and stresses that act on 
+materials and the methods that can be employed to resist them. 
+4.4.1 Forces and stresses: 
+a compression 
+b tension 
+c shear 
+d flexibility. 
+4.4.2 Reinforcement/stiffening techniques: 
+a frame structures 
+b triangulation 
+c suitable fabrication/assembly/construction processes 
+d use of additives. 
+4.5 Stock forms, 
+types and sizes 
+in order to 
+calculate and 
+determine the 
+quantity of 
+thermoforming 
+and 
+thermosetting 
+polymers 
+required 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following forms/sizes of 
+materials, in order to be able to discriminate between them and 
+select appropriately. 
+4.5.1 Stock forms/types: 
+a bar 
+b sheet 
+c pipe/tube 
+d mouldings 
+e resin 
+f granules/powder 
+g film. 
+4.5.2 Sizes: 
+a thickness 
+b cross-sectional area 
+c sheet size 
+d diameter. 
+POLYMERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+33 
+ 
+Key idea What students need to learn: 
+4.6 Alternative 
+processes that 
+can be used to 
+manufacture 
+thermoforming 
+and 
+thermosetting 
+polymers 
+products to 
+different scales 
+of production 
+Application, advantages and disadvantages, of the following 
+processes, scales of production and techniques when 
+manufacturing products, in order to be able to discriminate 
+between them and select appropriately for use. 
+4.6.1 Processes: 
+a blow moulding 
+b press moulding 
+c extrusion 
+d injection moulding 
+e polymer welding 
+f line bending. 
+4.6.2 Scales of production: 
+a one off 
+b batch 
+c mass production 
+d continuous. 
+4.6.3 Techniques for quantity production: 
+a marking-out methods (use of reference points, lines 
+and surfaces) 
+b jigs 
+c templates 
+d patterns 
+e moulds  
+f computer-aided manufacturing (CAM) 
+g quality control 
+h working within tolerance 
+i efficient cutting to minimise waste. 
+POLYMERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+34 
+ 
+Key idea What students need to learn: 
+4.7 Specialist 
+techniques, 
+tools, 
+equipment and 
+processes that 
+can be used to 
+shape, 
+fabricate, 
+construct and 
+assemble a 
+high-quality 
+thermoforming 
+and 
+thermosetting 
+polymers 
+prototype 
+Application, advantages and disadvantages, of the following 
+specialist techniques when manufacturing products, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+4.7.1 Tools and equipment: 
+a hand tools 
+b machinery 
+c digital design and manufacture. 
+4.7.2 Shaping: 
+a laser cutting and engraving 
+b cutting 
+c filing 
+d bending 
+e abrading 
+f vacuum forming 
+g deforming and reforming. 
+4.7.3 Fabricating/constructing/assembling: 
+a tapping/threading 
+b fastening – use of nuts, bolts and washers 
+c use of adhesives – contact adhesive, epoxy resin, 
+Tensol® cement, liquid cement (dichloromethane) 
+d wastage 
+e addition. 
+4.8 Appropriate 
+surface 
+treatments and 
+finishes that 
+can be  
+applied to 
+thermoforming 
+and 
+thermosetting 
+polymers for 
+functional and 
+aesthetic 
+purposes 
+Application, advantages and disadvantages of the following 
+finishing techniques and methods of preservation, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+4.8.1 Surface finishes and treatments: 
+a polishing 
+b use of textured moulds or moulds with a fine surface 
+finish 
+c laser engraving 
+d vinyl stickers 
+e GRP pigments. 
+ 
+ 
+SYSTEMS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+35 
+5 – Systems 
+Key idea What students need to learn: 
+5.1 Design 
+contexts 
+5.1.1 When designing or modifying a product, students should be 
+able to apply their knowledge and understanding of 
+materials, components and manufacturing processes. 
+5.2 The sources, 
+origins, 
+physical and 
+working 
+properties of 
+components 
+and systems 
+and their 
+social and 
+ecological 
+footprint 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following components, in 
+order to be able to discriminate between them and select 
+appropriately. 
+5.2.1 Sensors: 
+a light-dependent resistors (LDRs) (in topic 1) 
+b thermistor (in topic 1) 
+c moisture sensor  
+d piezoelectric sensor. 
+5.2.2 Control devices and components: 
+a rocker switch (on/off) (in topic 1) 
+b resistors (in topic 1) 
+c push to make switch (PTM) 
+d micro switch 
+e reed switch 
+f variable resistors 
+g transistor (bipolar) 
+h microprocessor 
+i microcontroller/PIC 
+j relay. 
+5.2.3 Outputs: 
+a buzzers (in topic 1) 
+b light-emitting diodes (LEDs) (in topic 1) 
+c loudspeakers 
+d motors. 
+SYSTEMS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+36 
+ 
+Key idea What students need to learn: 
+ 5.2.4 Sources and origins – where components and systems are 
+resourced/manufactured and their geographical origin: 
+a Russia, Saudi Arabia, United States: polymers from 
+crude oil – acrylic, high impact polystyrene (HIPS), 
+acrylonitrile butadiene styrene (ABS) 
+b China, Russia, USA – silicon 
+c China, Australia, Russia – gold 
+d Chile, China, Peru – copper 
+e Australia, Chile, Argentina – lithium 
+f China, Russia, Canada – aluminium 
+g China, Australia, USA – Rare Earth Elements (REEs) 
+h Philippines, Indonesia, Russia, Canada and Australia – 
+nickel. 
+5.2.5 The physical characteristics of each component and 
+system: 
+a tolerances, ratings and values – resistor colour codes 
+b material selection for case construction – 
+physical/working properties, sustainability, 
+manufacturing processes. 
+5.2.6 Working properties – the way in which each material 
+behaves or responds to external sources: 
+a conductors, insulators – thermal, electrical 
+b polymers used for cases – durability, hardness, 
+toughness, elasticity. 
+5.2.7 Social footprint: 
+a relying on scarce and/or hazardous elements used in 
+components and systems – cobalt, tantalum, lithium 
+b effects of using components and systems, including 
+modern communications – mobile phones, computers, 
+games consoles, social media networks. 
+5.2.8 Ecological footprint: 
+a effects of material extraction and processing of elements 
+b effects of built-in obsolescence 
+c effects of use 
+d the effects of disposal of components and systems – 
+toxicity of metals and polymers. 
+SYSTEMS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+37 
+ 
+Key idea What students need to learn: 
+5.3 The way in 
+which the 
+selection of 
+components 
+and systems is 
+influenced 
+The influence of the following factors when selecting 
+materials/components for a specific application. 
+5.3.1 Aesthetic factors – the selection of materials and finishes 
+for enclosures and cases: 
+a form 
+b colour 
+c texture. 
+5.3.2 Environmental factors: 
+a the principles of the Restriction of Hazardous Substances 
+(RoHS) Directive for selection 
+b the principles of the Waste Electrical and Electronic 
+Equipment (WEEE) Directive for disposal. 
+5.3.3 Availability factors: 
+a use of stock materials 
+b use of specialist materials  
+c use of scarce elements. 
+5.3.4 Cost factors: 
+a quality of component – tolerances 
+b manufacturing processes necessary. 
+5.3.5 Social factors: 
+a use for different social groups 
+b trends/fashion 
+c popularity. 
+5.3.6 Cultural and ethical factors: 
+a avoiding offence 
+b suitability for intended market 
+c use of colour and language 
+d the consumer society 
+e the effects of mass production 
+f built-in product obsolescence. 
+SYSTEMS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+38 
+ 
+Key idea What students need to learn: 
+5.4 The impact of 
+forces and 
+stresses on 
+objects and 
+how they can 
+be reinforced 
+and stiffened 
+An awareness of the influence of forces and stresses that act on 
+materials and the methods that can be employed to resist them. 
+5.4.1 Forces and stresses: 
+a tension 
+b compression 
+c torsion 
+d shear. 
+5.4.2 Reinforcement/stiffening techniques: 
+a using composite materials 
+b ribbing to strengthen case structures. 
+5.5 Stock forms, 
+types and 
+sizes in order 
+to calculate 
+and determine 
+the quantity of 
+components 
+required 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following stock forms/sizes, 
+in order to be able to discriminate between them and select and 
+apply appropriately. 
+5.5.1 Stock forms/types: 
+a tolerances, ratings and values – such as E12 series 
+resistors 
+b surface-mount technology (SMT) 
+c through-hole components. 
+5.5.2 Sizes: 
+a unit of current (amp) 
+b unit of resistance (ohm) 
+c unit of potential difference (volt) 
+d applications of Ohm’s Law: V = I × R 
+e resistors in series: Rtotal = R1 + R2 + R3 etc. 
+f resistors in parallel: 1/Rtotal = 1/R1 + 1/R2 + 1/R3 etc. 
+g área 
+h diameter. 
+5.6 Alternative 
+processes that 
+can be used to 
+manufacture 
+components 
+and systems 
+to different 
+scales of 
+production 
+Application, advantages and disadvantages, of the following 
+processes, scales of production and techniques when 
+manufacturing products, in order to be able to discriminate 
+between them and select appropriately for use. 
+5.6.1 Processes: 
+a photo etching 
+b PCB population – PCB drilling and soldering. 
+5.6.2 Scales of production: 
+a one-off prototyping (breadboard) 
+b batch 
+c mass production 
+d continuous. 
+SYSTEMS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+39 
+ 
+Key idea What students need to learn: 
+ 5.6.3 Techniques for quantity production: 
+a pick and place technology 
+b surface-mount technology (SMT) 
+c quality control 
+d marking-out methods (use of reference points, lines and 
+surfaces) 
+e templates 
+f patterns 
+g sub-assembly 
+h working within tolerance 
+i efficient cutting to minimise waste. 
+5.7 Specialist 
+techniques, 
+tools, 
+equipment 
+and processes 
+that can be 
+used to shape, 
+fabricate, 
+construct and 
+assemble a 
+high-quality 
+systems 
+prototype 
+Application, advantages and disadvantages, of the following 
+specialist techniques when manufacturing products, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+5.7.1 Tools and equipment: 
+a hand tools 
+b machinery 
+c digital design and manufacture. 
+5.7.2 Shaping: 
+a vacuum forming 
+b CNC laser cutting 
+c 3D printing 
+d drilling. 
+5.7.3 Fabricating/constructing/assembling: 
+a PCB mounting methods – through hole, surface mount 
+b cable management – looms, sleeving, ties 
+c wastage 
+d addition. 
+SYSTEMS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+40 
+ 
+Key idea What students need to learn: 
+5.8 Appropriate 
+surface 
+treatments 
+and finishes 
+that can be 
+applied to 
+components 
+and systems 
+for functional 
+and aesthetic 
+purposes 
+Application, advantages and disadvantages of the following 
+finishing techniques and methods of preservation, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+5.8.1 Surface finishes and treatments: 
+a metal plating to enhance the functionality and 
+performance of electronic connections  
+b insulating coatings and coverings for functionality/safety 
+c resistor colour code bands to identify values and 
+tolerance 
+d finishes applied to cases – anodising, painting, screen 
+printing. 
+ 
+ 
+TEXTILES 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+41 
+6 – Textiles 
+Key idea What students need to learn: 
+6.1 Design 
+contexts 
+6.1.1 When designing or modifying a product, students should be 
+able to apply their knowledge and understanding of 
+textiles, components and manufacturing processes. 
+6.2 The sources, 
+origins, 
+physical and 
+working 
+properties of 
+natural, 
+synthetic, 
+woven and 
+non-woven, 
+knitted, 
+blended and 
+mixed-fibre 
+textiles and 
+their social 
+and ecological 
+footprint 
+ 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following materials, in order 
+to be able to discriminate between them and select appropriately. 
+6.2.1 Natural: 
+a animal 
+i. wool (in topic 1) 
+ii. silk 
+b vegetable 
+i. cotton (in topic 1) 
+ii. linen. 
+6.2.2 Synthetic: 
+a polyester (in topic 1) 
+b acrylic (in topic 1) 
+c regenerated cellulosic – viscose, acetate, Tencel® 
+d polyamide 
+e elastane 
+f nylon. 
+6.2.3 Woven: 
+a plain – calico (in topic 1) 
+b twill – denim (in topic 1) 
+c satin – jacquard 
+d pile – velvet. 
+6.2.4  Non-woven: 
+a felted wool fabric (in topic 1) 
+b bonded fibres/webs (in topic 1) . 
+6.2.5  Knitted: 
+a weft-knitted fabrics (in topic 1) 
+b warp-knitted fabrics (in topic 1). 
+ 
+TEXTILES 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+42 
+ 
+Key idea What students need to learn: 
+ 6.2.5 Sources and origins – where natural, synthetic, woven and 
+non-woven, knitted, blended and mixed-fibre textiles are 
+resourced/manufactured and their geographical origin: 
+a China, India, USA, Pakistan – cotton 
+b China, India, Uzbekistan – silk 
+c Russia, Canada, Ukraine, Europe (France and Belgium) – 
+(flax) linen 
+d Australia, New Zealand, China, USA, United Kingdom – 
+wool 
+e Alpine Forests – cellulose and wood pulp – cotton linters, 
+pine, spruce, or hemlock trees – soft wood – acetate 
+f European Forest – oak and birch – hard wood – Lyocell™ 
+g Russia, UAE, Saudi Arabia – crude oil – polyester, nylon, 
+acrylic. 
+6.2.6 The physical characteristics of each natural, synthetic, 
+woven and non-woven, knitted, blended and mixed-fibre 
+textile: 
+a allergenic 
+b texture 
+c density. 
+6.2.7 Working properties – the way in which each material 
+behaves or responds to external sources: 
+a elasticity (in topic 1) 
+b resilience (in topic 1) 
+c durability (in topic 1) 
+d tensile strength 
+e breathability and absorbency 
+f electrical conductivity 
+g heat conductivity. 
+6.2.8 Social footprint: 
+a trend forecasting 
+b impact of material production on communities and 
+wildlife 
+c impact of farming and material production on 
+communities and wildlife 
+d recycling/disposal – ethical responsibility 
+e reduction of chemical finishes – surface and aftercare 
+treatments 
+f reduction of packaging materials – reduction in 
+litter/waste/energy use 
+g brand identity – consumerism, changing the packaging 
+of products over time. 
+TEXTILES 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+43 
+ 
+Key idea What students need to learn: 
+ 6.2.9 Ecological footprint: 
+a sustainability 
+b processing 
+c transportation 
+d wastage 
+e pollution 
+f deforestation 
+g oil exploration and extraction 
+h wildlife loss. 
+6.3 The way in 
+which the 
+selection of 
+natural, 
+synthetic, 
+blended and 
+mixed-fibre 
+textiles is 
+influenced by 
+ 
+The influence of the following factors when selecting materials for 
+a specific application. 
+6.3.1 Aesthetic factors: 
+a form 
+b colour 
+c texture 
+d lustre, sheen, shine. 
+6.3.2 Environmental factors: 
+a sustainability 
+b pollution 
+c upcycling. 
+6.3.3 Availability factors: 
+a use of stock materials 
+b use of specialist materials. 
+6.3.4 Cost factors: 
+a quality of material 
+b manufacturing processes necessary 
+c treatments: fire proofing, stain resist, water proofing 
+d transportation – costs of moving materials around the 
+world from country of origin. 
+6.3.5 Social factors: 
+a use for different social groups 
+b trends/fashion 
+c popularity. 
+ 
+TEXTILES 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+44 
+ 
+Key idea What students need to learn: 
+ 6.3.6 Cultural and ethical factors: 
+a avoiding offence 
+b suitability for intended market  
+c use of colour and language 
+d the consumer society 
+e the effects of mass production 
+f built-in product obsolescence. 
+6.4 The impact of 
+forces and 
+stresses on 
+natural, 
+synthetic, 
+woven and 
+non-woven, 
+knitted, 
+blended and 
+mixed-fibre 
+textiles and 
+how they can 
+be reinforced 
+and stiffened 
+An awareness of the influence of forces and stresses that act on 
+materials and the methods that can be employed to resist them. 
+6.4.1 Forces and stresses: 
+a compression 
+b tension 
+c shear 
+d natural forces within the fibre as it grows – shape 
+e flexibility. 
+6.4.2 Reinforcement/stiffening techniques: 
+a ribs and boning 
+b suitable fabrication/assembly/construction processes 
+c lamination 
+d embedding composite materials 
+e stay stitching. 
+6.5 Typical stock 
+forms, types 
+and sizes used 
+in order to 
+calculate and 
+determine the 
+required 
+quantity of 
+natural, 
+synthetic, 
+woven and 
+non-woven, 
+knitted, 
+blended and 
+mixed-fibre 
+textiles 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following forms/sizes of 
+materials, in order to be able to discriminate between them and 
+select appropriately. 
+6.5.1 Stock forms/types: 
+a rolls 
+b blocks 
+c denier 
+d weights – single, double 
+e laminates. 
+6.5.2 Sizes: 
+a standard width – 90 cm, 137 cm, 154 cm 
+b yarn weight 
+c area 
+d diameter. 
+TEXTILES 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+45 
+ 
+Key idea What students need to learn: 
+6.6 Alternative 
+processes that 
+can be used to 
+manufacture 
+typical 
+products of 
+natural, 
+synthetic, 
+woven and 
+non-woven, 
+knitted, 
+blended and 
+mixed-fibre 
+textiles to 
+different 
+scales of 
+production 
+Application, advantages and disadvantages, of the following 
+processes, scales of production and techniques when 
+manufacturing products, in order to be able to discriminate 
+between them and select appropriately for use. 
+6.6.1 Processes that can be used to cut and shape materials: 
+a shears 
+b stamp 
+c laser cut 
+d heating element – soldering iron 
+e extrusion. 
+6.6.2 Scales of production: 
+a one off 
+b batch 
+c mass production 
+d continuous. 
+6.6.3 Techniques for quantity production – methods that are 
+employed when making products in quantity: 
+a marking-out methods (use of reference points, lines and 
+surfaces) 
+b templates 
+c patterns 
+d sub-assembly 
+e computer-aided manufacturing (CAM) 
+f quality control 
+g working within tolerance 
+h efficient cutting to minimise waste. 
+TEXTILES 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+46 
+ 
+Key idea What students need to learn: 
+6.7 Specialist 
+techniques, 
+tools, 
+equipment and 
+processes that 
+can be used on 
+natural, 
+synthetic, 
+woven and 
+non-woven, 
+knitted, 
+blended and 
+mixed-fibre 
+textiles to 
+shape, 
+fabricate, 
+construct and 
+assemble a 
+high-quality 
+prototype 
+Application, advantages and disadvantages, of the following 
+specialist techniques when manufacturing products, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+6.7.1 Tools and equipment: 
+a hand tools 
+b machinery 
+c digital design and manufacture. 
+6.7.2 Shaping: 
+a adding and reducing fullness – pleat, gather, dart, tucks, 
+shirring, ease, godet, under stitching 
+b moulding – steam, heat, adhesive 
+c adding structure – interfacing, boning. 
+6.7.3 Fabricating/constructing/assembling: 
+a draping 
+b seams – plain, felled, French, double stitching, 
+topstitching 
+c finishing raw edges – zig zagged, bound, rolled, turned 
+under and sewn, blind hemming, invisible stitching 
+d fusing – sealed seams, taping, bonding 
+e component linkage 
+f overlocking – 2, 3 or 4 thread – raw edges and joining 
+g pressing, moulding 
+h wastage 
+i addition. 
+TEXTILES 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+47 
+ 
+Key idea What students need to learn: 
+6.8 Appropriate 
+surface 
+treatments and 
+finishes that 
+can be applied 
+to natural, 
+synthetic, 
+woven and 
+non-woven, 
+knitted, 
+blended and 
+mixed fibre 
+textiles for 
+functional and 
+aesthetic 
+purposes 
+Application, advantages and disadvantages of the following 
+finishing techniques and methods of preservation, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+6.8.1 Surface finishes and treatments: 
+a fabric painting (including silk) 
+b batik 
+c laminating 
+d couching 
+e embroidery 
+f appliqué 
+g printing 
+h resist dyeing 
+i patchwork 
+j quilting 
+k chemical – bleaching, easy-care, mercerising, 
+carbonising, laminating, coating, fire proofing, stain 
+resist, shrink resist water proofing, antistatic 
+l physical – calendering, raising, heat-setting, desizing, 
+singeing, emerising, milling, fulling, walking 
+m biological – biostoning, biopolishing 
+n smart – thermochromic, photochromic, solvation 
+chromism, electrochromic, anti-bacterial, micro 
+encapsulation. 
+ 
+ 
+ 
+TIMBERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+48 
+7 – Timbers 
+Key idea What students need to learn: 
+7.1 Design 
+contexts 
+7.1.1 When designing or modifying a product, students should be 
+able to apply their knowledge and understanding of 
+timbers, components and manufacturing processes. 
+7.2 The sources, 
+origins, 
+physical and 
+working 
+properties of 
+each natural 
+and 
+manufactured 
+timber and 
+their social 
+and ecological 
+footprint 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following materials, in order 
+to be able to discriminate between them and select appropriately. 
+7.2.1 Natural timbers – hardwoods: 
+a oak (in topic 1) 
+b mahogany (in topic 1) 
+c beech (in topic 1) 
+d balsa (in topic 1) 
+e jelutong 
+f birch 
+g ash. 
+7.2.2 Natural timbers – softwoods: 
+a pine (in topic 1) 
+b cedar (in topic 1) 
+c larch. 
+7.2.3 Manufactured timber: 
+a plywood (in topic 1) 
+b medium density fibreboard (MDF) (in topic 1) 
+c chipboard. 
+7.2.4 Sources and origins – where natural and manufactured 
+timbers are resourced/manufactured and their 
+geographical origin: 
+a Alpine forests – pine, cedar, larch 
+b European forests – oak, beech, ash, birch 
+c Amazonian forests – mahogany. 
+7.2.5 The physical characteristics of each timber: 
+a knots 
+b colour 
+c grain structure 
+d density. 
+TIMBERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+49 
+ 
+Key idea What students need to learn: 
+ 7.2.6 Working properties – the way in which each material 
+behaves or responds to external sources: 
+a hardness (in topic 1) 
+b toughness (in topic 1) 
+c durability (in topic 1) 
+d elasticity 
+e tensile strength 
+f compressive strength. 
+7.2.7 Social footprint: 
+a trend forecasting 
+b impact of logging on communities 
+c ease and difficulty of recycling and disposal. 
+7.2.8 Ecological footprint: 
+a sustainability 
+b deforestation 
+c habitat destruction and loss 
+d processing 
+e transportation 
+f wastage 
+g pollution. 
+7.3 The way in 
+which the 
+selection of 
+each natural 
+and 
+manufactured 
+timber is 
+influenced 
+The influence of the following factors when selecting materials for 
+a specific application. 
+7.3.1 Aesthetic factors: 
+a form 
+b colour 
+c texture. 
+7.3.2 Environmental factors: 
+a sustainability 
+b genetic engineering 
+c seasoning 
+d upcycling. 
+7.3.3 Availability factors: 
+a use of stock materials 
+b use of specialist materials 
+c environmental impact of hurricanes, storms and disease. 
+7.3.4 Cost factors: 
+a quality of material 
+b manufacturing processes necessary 
+c treatments: fire proofing, tanilized. 
+TIMBERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+50 
+ 
+Key idea What students need to learn: 
+ 7.3.5 Social factors: 
+a use for different social groups 
+b trends/fashion 
+c popularity. 
+7.3.6 Cultural and ethical factors: 
+a avoiding offence 
+b suitability for intended market 
+c the consumer society 
+d the effects of mass production 
+e built-in product obsolescence. 
+7.4 The impact of 
+forces and 
+stresses on 
+each natural 
+and 
+manufactured 
+timber and 
+how they can 
+be reinforced 
+and stiffened 
+An awareness of the influence of forces and stresses that act on 
+materials and the methods that can be employed to resist them. 
+7.4.1 Forces and stresses: 
+a compression 
+b tension 
+c shear 
+d natural forces within the timber as it grows 
+e pre-stressed construction beams. 
+7.4.2 Reinforcement/stiffening techniques: 
+a frame structures 
+b suitable fabrication/assembly/construction processes 
+c lamination 
+d use of braces and tie bars 
+e embedding composite materials. 
+7.5 Typical stock 
+forms, types 
+and sizes used 
+in order to 
+calculate and 
+determine the 
+required 
+quantity of 
+each natural 
+and 
+manufactured 
+timber 
+To apply knowledge and understanding of the advantages, 
+disadvantages and applications of the following forms/sizes of 
+materials, in order to be able to discriminate between them and 
+select appropriately. 
+7.5.1 Stock forms/types: 
+a regular sections 
+b mouldings 
+c dowels 
+d sheets. 
+7.5.2 Sizes: 
+a PAR/PSE/imperial and metric 
+b cross-sectional area 
+c diameter 
+d board sizes – 2440 mm × 1220 mm, 1220 mm × 610 mm. 
+TIMBERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+51 
+ 
+Key idea What students need to learn: 
+7.6 Alternative 
+processes that 
+can be used to 
+manufacture 
+typical 
+products of 
+each natural 
+and 
+manufactured 
+timber to 
+different 
+scales of 
+production 
+Application, advantages and disadvantages, of the following 
+processes, scales of production and techniques when 
+manufacturing products, in order to be able to discriminate 
+between them and select appropriately for use. 
+7.6.1 Processes that can be used to cut and shape materials: 
+a routing 
+b sawing 
+c use of a mortise 
+d use of a bag press. 
+7.6.2 Scales of production: 
+a one off 
+b batch 
+c mass production 
+d continuous. 
+7.6.3 Techniques for quantity production – methods that are 
+employed when making products in quantity: 
+a marking-out methods (use of reference points, lines and 
+surfaces) 
+b jigs 
+c fixtures 
+d templates 
+e patterns 
+f sub-assembly 
+g computer-aided manufacturing (CAM) 
+h quality control 
+i working within tolerance 
+j efficient cutting to minimise waste. 
+TIMBERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+52 
+ 
+Key idea What students need to learn: 
+7.7 Specialist 
+techniques, 
+tools, 
+equipment 
+and processes 
+that can be 
+used on each 
+natural and 
+manufactured 
+timber to 
+shape, 
+fabricate, 
+construct and 
+assemble a 
+high-quality 
+prototype 
+Application, advantages and disadvantages, of the following 
+specialist techniques when manufacturing products, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+7.7.1 Tools and equipment: 
+a hand tools 
+b machinery 
+c digital design and manufacture. 
+7.7.2 Shaping: 
+a drilling 
+b cutting 
+c planing 
+d chiselling 
+e turning – face plate and between centres 
+f abrading – glass paper 
+g carving 
+h use of rasps/surforms. 
+7.7.3 Fabricating/constructing: 
+a lamination 
+b veneering 
+c use of screws 
+d nailing 
+e use of adhesives – PVA, contact adhesive 
+f jointing – butt, dowel, lap, housing, mitre, mortise and 
+tenon, dovetail 
+g wastage 
+h addition. 
+7.7.4 Assembling: 
+a knock-down fittings 
+b hinges 
+c ironmongery. 
+TIMBERS 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+53 
+ 
+Key idea What students need to learn: 
+7.8 Appropriate 
+surface 
+treatments 
+and finishes 
+that can be 
+applied to 
+each natural 
+and 
+manufactured 
+timber for 
+functional and 
+aesthetic 
+purposes 
+Application, advantages and disadvantages of the following 
+finishing techniques and methods of preservation, in order to be 
+able to discriminate between them and select appropriately for 
+use. 
+7.8.1 Surface finishes and treatments: 
+a painting 
+b staining 
+c varnishing 
+d wax 
+e oil 
+f shellac 
+g veneering. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+54 
+Assessment information 
+● First assessment: May/June 2019. 
+● The assessment is 1 hour and 45 minutes. 
+● There are two sections to the paper: Section A – Core content and Section B – either 
+Metals, Papers and Boards, Polymers, Systems, Textiles or Timbers. 
+● Section A – students must answer all questions. This section has four questions with a 
+total of 40 marks. 
+● Section B – students must answer all questions. This section has four questions with a 
+total of 60 marks. 
+● Each question is set in a context. 
+● The paper will include open-response, graphical, calculations and extended-open-response 
+questions. 
+● The paper will include questions that target mathematics. 
+● Calculators may be used in the examination. Information regarding the use of calculators 
+during the examinations for this qualification can be found in Appendix 2: Calculators. 
+Synoptic assessment 
+Synoptic assessment requires students to work across different parts of a qualification and to 
+show their accumulated knowledge and understanding of a topic or subject area. 
+Synoptic assessment enables students to show their ability to combine their skills, knowledge 
+and understanding with breadth and depth of the subject. 
+This component assesses synopticity. 
+Sample assessment materials 
+A sample paper and mark scheme for this component can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in Design and Technology Sample Assessment Materials (SAMs) 
+document. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+55 
+Component 2 
+Overview 
+Students will undertake a project as part of their non-examination assessment. The project 
+will test students’ skills in investigating, designing, making and evaluating a prototype of a 
+product that will allow them to apply the skills they have acquired and developed throughout 
+their study. We provide three themes, each with two contextual challenges. Students are 
+required to choose one of these challenges and analyse it on an individual basis. Having 
+selected a contextual challenge to work within, students should develop a range of potential 
+ideas and then realise one through practical making activities. The project must allow 
+students to apply knowledge and understanding in a product development process to 
+investigate, design, make and evaluate their prototype. 
+This project will require students to follow an iterative design process rather than a linear 
+process requiring them to continually test, evaluate and refine ideas. The content and 
+assessment criteria are set out in a linear format to show what is required at each stage of 
+the total project, but following an iterative process students will do work on different stages 
+at a variety of points throughout their project. 
+Content 
+1 – Investigate 
+Stage What students need to do: 
+1.1  Investigation 
+of needs and 
+research 
+ 
+1.1a Identify the needs of the end user. 
+1.1b Outline a design problem from the context provided and 
+identify a need for a product that could solve the problem. 
+1.1c Investigate existing products to inform the product 
+specification for the prototype, from past and present 
+designers. 
+1.1d Carry out a range of research strategies to gather relevant 
+information, to inform the design specification for the 
+prototype, including: 
+a market research 
+b research into the context in which the prototype will be 
+used 
+c research into other possible materials 
+d any sustainability issues that will be considered relevant 
+to the intended prototype. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+56 
+ 
+Stage What students need to do: 
+1.2 Product 
+specification 
+1.2a Production of a design brief, that addresses all needs 
+previously identified. 
+1.2b Production of a product specification that includes 
+statements that are technical, measurable and justified, 
+and include consideration of: 
+a form 
+b function 
+c user requirements 
+d performance requirements 
+e material and component requirements 
+f scale of production 
+g cost 
+h sustainability. 
+1.2c Identification of criteria, which will be used to evaluate the 
+success of the prototype. 
+ 
+2 – Design 
+Stage What students need to do: 
+2.1 Design ideas 2.1a  Production of a range of design ideas that address the 
+criteria in the design brief and product specification. 
+2.1b Consideration of a range of issues when producing the 
+design ideas, including: 
+a budget 
+b aesthetics 
+c cultural issues 
+d sustainability issues. 
+2.1c Exploration of different design approaches, including: 
+a materials 
+b components 
+c processes 
+d techniques. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+57 
+ 
+Stage What students need to do: 
+2.2 Review of 
+initial ideas 
+2.2a Analysis and evaluation of how each design idea meets the 
+design brief and product specification. 
+2.2b Determine which designs follow the design brief and product 
+specification and should be taken forward for development. 
+2.2c Modification of design ideas to fit the design brief and 
+product specification. 
+2.3 Development of 
+design ideas 
+into a chosen 
+design 
+2.3a Consideration of user group needs and preferences, of design 
+ideas, conducting further research where necessary. 
+2.3b Consideration of the design as a whole, rather than 
+focussing on component parts in isolation. 
+2.3c Modelling/simulation used to test the features of the 
+design ideas. 
+2.3d Analysis and evaluation of the design ideas, to inform 
+choice as to the chosen design to take forward. 
+2.3e Modification of design ideas to produce the chosen design, 
+which meets the design brief and product specification. 
+2.3f Use of calculations to determine all material quantities and 
+technical details of materials, processes and components 
+that could be interpreted by a third party. 
+2.4 Communication 
+of design ideas 
+2.4a Use a range of communication techniques and media to 
+present the design ideas, including: 
+a freehand sketching (2D and/or 3D) 
+b annotated sketches 
+c cut and paste techniques 
+d digital photography/media 
+e 3D models 
+f isometric and oblique projection 
+g perspective drawing  
+h orthographic and exploded views 
+i assembly drawings  
+j system and schematic diagrams 
+k computer-aided design (CAD) and other specialist 
+computer drawing programs. 
+2.4b Communicate the design ideas clearly and effectively 
+using written techniques. 
+2.5 Review of 
+chosen design  
+2.5a Produce a chosen design solution for the product that 
+meets the design brief and product specification. 
+2.5b Consideration given to the materials, techniques and 
+processes required to produce the chosen design solution. 
+2.5c Incorporation of feedback from research into the chosen 
+design. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+58 
+3 – Make 
+Stage What students need to do: 
+3.1 Manufacture 3.1a Production of a prototype that meets the requirements of 
+the design brief and product specification, showing a wide 
+range of making skills with precision and accuracy. 
+3.1b Selection and application of: 
+a material 
+b range of tools, including marking-out tools, hand tools 
+and machinery 
+c range of techniques 
+d fixtures, templates, jigs and/or patterns 
+e components 
+f surface treatments and finishes 
+ used in the manufacture of the prototype. 
+3.1c Demonstration of safe working practice, for themselves and 
+others. 
+3.2 Quality and 
+accuracy 
+3.2a Measuring the degree to which the prototype performs as 
+intended. 
+3.2b The prototype is accurately assembled and finished to a 
+high quality. 
+ 
+4 – Evaluate 
+Stage What students need to do: 
+4.1 Testing and 
+evaluation 
+4.1a Analyse the prototype against the product specification by 
+conducting a variety of tests under realistic conditions, to 
+ensure fitness for purpose. 
+4.1b Analyse the results of the prototype testing. 
+4.1c Evaluate whether the prototype meets the product 
+specification. 
+4.1d Evaluate the sustainability of the final prototype by carrying 
+out a life cycle assessment (LCA), in order to assess its 
+impact on the environment. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+59 
+Assessment information 
+● Students will undertake a project based on a contextual challenge released by us a year 
+before certification. This will be released on 1st June and will available on our website. 
+● This non-examined assessment will be carried out under controlled conditions, as specified 
+on pages 60–62. 
+● First assessment: June 2019. 
+● The NEA consists of 100 marks. 
+● The project consists of a portfolio and a prototype.  
+● The teacher responsible for overseeing the student’s work must ensure that a Candidate 
+Assessment Booklet* (CAB) is completed for each student. 
+● The portfolio and CAB for each student in the sample must be sent to Pearson, in May in the 
+year of assessment. Please see our UK Information Manual for the submission deadline date. 
+● Centres must ensure that the NEA submitted is valid for the series in which they are 
+entered. 
+*Further information about how to complete the CAB is provided in the Project setting, 
+taking and marking section. 
+Contextual challenge 
+The contextual challenge will provide a basis from which students will undertake an 
+investigate, design, make and evaluate project. We will release this on 1st June, in the year 
+before certification. We will provide three themes, each with two contextual challenges. 
+Students are required to choose one of these challenges, with advice from the teacher, and 
+analyse it on an individual basis. 
+Synoptic assessment 
+Synoptic assessment requires students to work across different parts of a qualification and to 
+show their accumulated knowledge and understanding of a topic or subject area. 
+Synoptic assessment enables students to show their ability to combine their skills, knowledge 
+and understanding with breadth and depth of the subject. 
+This component assesses synopticity. 
+Project setting, taking and marking 
+Project setting 
+Pearson will communicate a contextual challenge to centres in June of the calendar year 
+preceding the year in which the qualification is to be awarded. Students will be expected to 
+undertake a small-scale project in response to this realistic contextual challenge, taking into 
+account the needs and wants of the user. 
+Project research 
+Teaching and learning 
+Teachers should cover the content of this assessment, which covers: 
+● investigate 
+● design 
+● make 
+● evaluate. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+60 
+Project controls relating to student independence and teacher guidance to 
+students 
+Teachers 
+Can: 
+● provide broad parameters for students’ design contexts (including areas for investigation, 
+availability of equipment, time constraints) 
+● explain what a commercial design methodology is 
+● advise on health and safety considerations, the use of equipment and potential ethical 
+concerns of certain types of materials 
+● discuss with students their initial design problems and students' initial approaches to solve 
+the problems. 
+Must: 
+● confirm that the project has the potential to meet the assessment criteria and offer 
+general guidance on any necessary amendments 
+● review each student’s design brief to ensure that the proposed design brief can suitably 
+access the specification requirements and give general guidance on the methodology and 
+design tools that the student plans to use 
+● promote good practice such as referencing and using a bibliography system 
+● store work securely once it is handed in for formal assessment 
+● ensure that students keep photographic records of the manufacturing process to evidence 
+the quality of manufacturing 
+● give students guidance on the safe use of unfamiliar tools and equipment. 
+Must not: 
+● give students a choice of titles or tasks to choose from 
+● give detailed feedback to individual students about how to improve work to meet the 
+assessment criteria. The guidance provided before final submission should enable students 
+only to take the initiative in making amendments, rather than detailing what amendments 
+should be made. This means that teachers must not provide templates and model answers 
+for the work of specific students 
+● mark work provisionally and share that mark so that students may then improve it 
+● return work to students after it has been submitted and marked 
+● give guidance on how to make improvements to the portfolio in order to meet the 
+assessment criteria so that students are no longer engaged in independent learning. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+61 
+If teachers give any assistance which goes beyond general advice, they must 
+then record this assistance on the CAB and take it into account when marking 
+the work, for example1:  
+● providing detailed specific guidance on how to improve design ideas to meet the 
+assessment criteria 
+● giving detailed specific guidance on errors and omissions that limits a student’s 
+opportunity to show initiative themselves 
+● intervening personally to improve the presentation, manufacture or content of work. 
+Learning hours are not specified because the process of producing the design portfolio is 
+iterative and undertaken by the student, on their own, at the school/college. The prototype is 
+manufactured under immediate guidance (under direct supervision of a teacher) in 
+school/college. Where specialist processes or equipment are required beyond the 
+school/college capabilities they may be utilised but this must be documented and 
+authenticated in the appropriate section of the Pearson Edexcel Level 1/Level 2 GCSE (9–1) 
+in Design and Technology Candidate Assessment Booklet (CAB). 
+Annotation should be used to explain how marks were applied in the context of the additional 
+assistance given. 
+If teachers give specific guidance that goes beyond general guidance and do not take it into 
+account when marking the work, this will be considered as malpractice. If malpractice is 
+suspected, the awarding organisation will investigate. If malpractice is found to have taken 
+place a penalty will be applied dependent on the circumstances and severity of the 
+malpractice. 
+For full information regarding malpractice please see the JCQ document Suspected 
+Malpractice in Examinations and Assessments. 
+Project writing 
+Authenticity 
+Teachers and centres must be satisfied that the work is the student’s own and should sign 
+the Candidate Assessment Booklet. 
+Health and safety 
+Centres should develop their own mechanisms so that students know the importance of 
+ensuring their own safety and that of others. This should include developing risk 
+assessments as part of the manufacturing process, for example by using model risk 
+assessments or HSE pro forma to assess likely hazards and risk. Students who might be lone 
+working should be given additional information and guidance and the centre must have 
+suitable policies and procedures for lone working. Practical making activities must be 
+supervised at all times at school/college. 
+Resources 
+Students should have equal access to resources. Students should have access to a range of 
+resources, literature and sources of information to enable them to make choices as required 
+for their design and make task. Students should have access to the tools and equipment that 
+they will require in order to manufacture their final prototype with a high degree of accuracy 
+and skill. 
+ 
+1 First three bullet points as per the JCQ Instructions for conducting non-examination assessment, 
+section 4.2. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+62 
+Portfolio guidance 
+It is recommended that students produce an electronic portfolio equivalent of approximately 
+20-30 sides of A3 paper, for their design, make and evaluate project along with any models 
+and their prototype. Electronic portfolios must use either Adobe or Power Point and be 
+submitted electronically. Students will not be penalised specifically on the basis of the 
+amount of work that they produce. However, excessively high or low amounts of work may 
+restrict student’s ability to evidence the skills outlined in the marking criteria.  
+Photographic evidence 
+As proof of the quality of students’ making skills it is important that all stages of the 
+manufacturing process are photographed in order to evidence that the product is an 
+appropriate working solution to a need or want that is sufficiently developed to be tested and 
+evaluated (for example, full sized products, scaled working models or functioning systems). 
+Photographic evidence should also demonstrate that the final prototype/product is fit for 
+purpose and in addition to being a working solution; addresses the needs/wants of the 
+intended user and is successful in meeting the criteria of the specification. Images should 
+show fully the details of the prototype/product, which will require photographs being taken 
+from a range of angles to show details of all sides and features of a 3D outcome. 
+Photographs should be coloured, well lit, and of a high resolution in order to clearly show 
+details of the final outcome. Photographs should be submitted as jpegs, with a maximum 
+individual file size of 3 MBs. There should be sufficient photographic evidence to support the 
+award of marks, however a maximum quantity of 20 photographs per project is suggested. 
+Marking, standardisation and moderation 
+Once work has been submitted for marking it may not be given back to students. 
+Teachers should mark the project using the assessment criteria grids on the following pages. 
+Please refer to the ‘General Marking Guidance’ provided in the CAB for further information on 
+how to apply these assessment criteria grids accurately.  
+Teachers may annotate students’ work but should also include comments on the CAB to 
+justify the marks awarded.  
+Where marking has been carried out by more than one teacher in a centre, there must be a 
+process of internal standardisation carried out to ensure that there is a consistent application 
+of the assessment criteria. 
+Marks awarded by the centre will be subject to external moderation by Pearson. Moderation 
+will ensure consistency with national standards. Pearson will notify centres of the students 
+whose work has been selected for moderation. This sample will take cohort size into account. 
+The portfolio and CAB for each student in the sample must be sent to Pearson, in May in the 
+year of assessment. Please see our UK Information Manual for the submission deadline date. 
+A copy is made available to all examinations officers and is available on our website: 
+qualifications.pearson.com 
+If the moderation indicates that centre assessment does not reflect national standards, an 
+adjustment will be made to students’ final marks to compensate. 
+For further information please refer to the Joint Council for Qualifications (JCQ) document 
+Instructions for conducting non-examination assessments (new GCE and GCSE 
+specifications) on the JCQ website: www.jcq.org.uk. The assessment of this qualification 
+must comply with these instructions. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+63 
+Non-examined assessment criteria 
+Teachers must mark students’ work using the following assessment criteria grids. Please 
+refer to the ‘General Marking Guidance’ provided in the CAB for further information on how 
+to apply these assessment criteria grids accurately. 
+Please note that the numbering in the assessment grids does not correlate exactly with the 
+numbering used in the content section on pages 55 to 58. 
+1 – Investigate 
+Please refer to the information given on pages 55 to 56 relating to the content outlined for 
+this grid.  
+Level Mark 1.1 Investigation of needs and research (AO1 8 marks) 
+ 0 No rewardable material. 
+Level 1 1–3 ● Evidence of limited investigation and identification of partially 
+relevant design possibilities, which are partially justified in 
+relation to the contextual challenge. 
+● Basic assessment of user needs and wants and the 
+requirements of the prototype in response to the contextual 
+challenge, with limited appropriate reference to form and 
+function. 
+● Superficial evidence of links between the design requirements 
+and the research undertaken in relation to the contextual 
+challenge. 
+Level 2 4–6 ● Evidence of adequate investigation and identification of some 
+relevant design possibilities, which are mostly justified in 
+relation to the contextual challenge. 
+● Mostly developed assessment of user needs and wants and the 
+requirements of the prototype in response to the contextual 
+challenge, with some appropriate reference to form and 
+function. 
+● Some developed evidence of links between the design 
+requirements and the research undertaken in relation to the 
+contextual challenge. 
+Level 3 7–8 ● Evidence of developed investigation and identification of 
+relevant design possibilities, which are fully justified in relation 
+to the contextual challenge. 
+● Developed assessment of user needs and wants and the 
+requirements of the prototype in response to the contextual 
+challenge, with fully appropriate reference to form and function. 
+● Fully developed evidence of links between the design 
+requirements and the research undertaken in relation to the 
+contextual challenge. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+64 
+ 
+Level Mark 1.2 Specification (AO1 8 marks) 
+ 0 No rewardable material. 
+Level 1 1–3 ● Basic design brief that demonstrates a simplistic response to 
+the contextual challenge, addressing some of the investigated 
+needs and wants of the user. 
+● Limited range of specification points that are basic and partially 
+measurable, based on a superficial investigation of research in 
+relation to the contextual challenge. 
+● Basic justification of the performance requirements for the 
+product in relation to the contextual challenge. 
+Level 2 4–6 ● Generally sound design brief that demonstrates a coherent 
+response to the contextual challenge, addressing many of the 
+investigated needs and wants of the user. 
+● Mostly developed range of specification points that are realistic 
+and mostly measurable, based on a mostly relevant 
+investigation of research in relation to the contextual challenge. 
+● Generally sound justification of the performance requirements 
+for the product in relation to the contextual challenge. 
+Level 3 7–8 ● Fully sound design brief that demonstrates a realistic response 
+to the contextual challenge, addressing most of the 
+investigated needs and wants of the user. 
+● Fully developed range of specification points that are realistic, 
+technical and measurable, based on a fully relevant 
+investigation of research in relation to the contextual challenge. 
+● Fully sound justification of the performance requirements for 
+the product in relation to the contextual challenge. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+65 
+2 – Design 
+Please refer to the information given on pages 56 and 57 relating to the content outlined for 
+this grid.  
+Level Mark 2.1 Design ideas (AO2 8 marks) 
+ 0 No rewardable material. 
+Level 1 1–3 ● Basic selection and use of design strategies to inform decisions 
+to generate a limited range of simplistic design ideas in 
+response to the contextual challenge. 
+● Limited consideration for the user needs and specification 
+parameters. 
+● Ideas demonstrate a basic understanding of some materials 
+and processes. 
+Level 2 4–6 ● Generally appropriate selection and use of design strategies to 
+inform decisions to generate a range of design ideas in 
+response to the contextual challenge. 
+● Generally sound consideration for the user needs and 
+specification parameters. 
+● Ideas demonstrate a generally sound understanding of 
+relevant materials, processes and techniques. 
+Level 3 7–8 ● Fully appropriate selection and use of design strategies to 
+inform decisions to generate a wide range of design ideas in 
+response to the contextual challenge. 
+● Fully sound consideration for the user needs and specification 
+parameters. 
+● Ideas demonstrate a fully sound understanding of relevant 
+materials, processes and techniques. 
+ 
+Level Mark 2.2 Review of initial ideas (AO3 8 marks) 
+ 0 No rewardable material. 
+Level 1 1–3 ● Superficial analysis of design ideas in response to the 
+contextual challenge, which considers basic factors and makes 
+limited connections between elements of the design. 
+● Basic evaluation of design ideas leading to a limited refinement 
+and development of designs, demonstrating a limited 
+understanding of design considerations. 
+Level 2 4–6 ● Generally developed analysis of design ideas, leading to 
+appropriate refinement and development of designs, which 
+considers appropriate factors and makes mostly relevant 
+connections between elements of the design. 
+● Competent evaluation of design ideas leading to appropriate 
+refinement and development of designs, demonstrating a 
+mostly sound understanding of design considerations. 
+Level 3 7–8 ● Fully developed analysis of design ideas leading to effective 
+refinement and development of designs, which considers 
+comprehensive factors and makes fully relevant connections 
+between elements of the design. 
+● Effective evaluation of design ideas leading to considered 
+refinement and development of designs, demonstrating a fully 
+sound understanding of design considerations. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+66 
+ 
+Level Mark 2.3 Development of design ideas into a chosen design 
+(AO1 4 marks, AO2 8 marks) 
+ 0 No rewardable material. 
+Level 1 1–3 ● Limited use of research to inform ongoing developmental 
+changes. 
+● Basic refinements of design ideas and a design solution that 
+partially meets the design specification, informed by the basic 
+application of technical knowledge of materials and a limited 
+application of modelling/simulation techniques. 
+● Chosen design idea shows superficial technical details of some 
+materials and components that could be interpreted by a third 
+party. 
+Level 2 4–6 ● Some appropriate use of research to inform ongoing 
+developmental changes. 
+● Some sound refinements of design ideas and a design solution 
+that generally meets the requirements of the design 
+specification, informed by the generally sound application of 
+technical knowledge of materials and/or processes and the 
+mostly appropriate application of modelling/simulation 
+techniques. 
+● Chosen design idea shows generally appropriate application of 
+calculations to determine some material quantities and 
+technical details of most materials and components that could 
+be interpreted by a third party. 
+Level 3 7–9 ● Generally appropriate use of research to inform ongoing 
+developmental changes. 
+● Generally sound refinements of design ideas and a design 
+solution that mostly meets the requirements of the design 
+specification, informed by the mostly sound application of 
+technical knowledge of materials and processes and the fully 
+appropriate application of modelling/simulation techniques. 
+● Chosen design idea shows mostly appropriate application of 
+calculations to determine most material quantities and 
+technical details of materials, processes and components that 
+could be interpreted by a third party. 
+Level 4 10–12 ● Fully appropriate use of research to inform ongoing 
+developmental changes. 
+● Fully sound refinements of design ideas and a design solution 
+that fully meets the requirements of the design specification, 
+informed by the fully sound application of technical knowledge 
+of materials and processes and the effective application of 
+modelling/simulation techniques. 
+● Chosen design idea shows fully appropriate application of 
+calculations to determine all material quantities and technical 
+details of materials, processes and components that could be 
+interpreted by a third party. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+67 
+ 
+Level Mark 2.4 Communication of design ideas (AO2 8 marks) 
+ 0 No rewardable material. 
+Level 1 1–3 ● Basic selection and partially appropriate use of graphical 
+techniques to communicate design ideas. 
+● Basic selection and partially appropriate use of computer-aided 
+design (CAD) techniques to communicate design ideas. 
+● Basic selection and partially appropriate use of written 
+techniques to communicate design ideas. 
+Level 2 4–6 ● Relevant selection and generally appropriate use of graphical 
+techniques to communicate design ideas. 
+● Relevant selection and generally appropriate use of  
+computer-aided design (CAD) techniques to communicate 
+design ideas. 
+● Relevant selection and generally appropriate use of written 
+techniques to communicate design ideas. 
+Level 3 7–8 ● Considered selection and fully appropriate use of techniques to 
+communicate design ideas. 
+● Considered selection and fully appropriate use of  
+computer-aided design (CAD) techniques to communicate 
+design ideas. 
+● Considered selection and fully appropriate use of written 
+techniques to communicate design ideas. 
+ 
+Level Mark 2.5 Review of chosen design (AO3 6 marks) 
+ 0 No rewardable material. 
+Level 1 1–2 ● Superficial analysis of the refinements made to the chosen 
+design in response to the contextual challenge, which 
+considers a limited range of factors and makes partially 
+appropriate connections between elements of the design. 
+● Basic evaluation of the refinements made to the chosen 
+design, with limited reference to feedback made by others, and 
+the consideration of the materials and components. 
+Level 2 3–4 ● Generally developed analysis of the refinements made to the 
+chosen design in response to the contextual challenge, which 
+considers a generally relevant range of factors and makes 
+mostly appropriate connections between elements of the 
+design. 
+● Competent evaluation of the refinements made to the chosen 
+design, with mostly sound reference to feedback made by 
+others, and the consideration of the materials, components 
+and manufacturing techniques. 
+Level 3 5–6 ● Fully developed analysis of the refinements made to the 
+chosen design in response to the contextual challenge, which 
+considers fully appropriate factors and makes fully appropriate 
+connections between elements of the design. 
+● Effective evaluation of the refinements made to the chosen 
+design, supported by fully sound reference to feedback made 
+by others and the consideration of the materials, components 
+and manufacturing techniques. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+68 
+3 – Make 
+Please refer to the information given on page 58 relating to the content outlined for this grid.  
+Level Mark 3.1a Manufacture – selection of materials (AO2 8 marks) 
+ 0 No rewardable material. 
+Level 1 1–3 ● Basic selection of materials that are generally appropriate for 
+the chosen prototype. 
+● Show limited understanding of the material properties of the 
+materials used in the prototype. 
+Level 2 4–6 ● Considered selection of materials that are mostly appropriate 
+for the chosen prototype. 
+● Show a generally sound understanding of material properties 
+of the materials used in the prototype. 
+Level 3 7–8 ● Effective selection of materials that are fully appropriate for 
+the chosen prototype. 
+● Show a fully sound understanding of material properties of the 
+materials used in the prototype. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+69 
+ 
+Level Mark 3.1b Manufacture – skills and processes (AO2 16 marks) 
+ 0 No rewardable material. 
+Level 1 1–4 ● Produce a prototype that demonstrates basic making skills. 
+● Basic selection of fixtures, components and fittings, which are 
+generally appropriate for the chosen prototype. 
+● Simplistic use of tools, equipment and techniques for the 
+manufacture of the prototype. 
+● Demonstrate an adequate degree of safe working practice for 
+self and others. 
+Level 2 5–8 ● Produce a prototype that demonstrates generally competent 
+making skills. 
+● Generally considered selection of fixtures, components and 
+fittings, which are mostly appropriate for the chosen 
+prototype. 
+● Generally competent use of tools, equipment and techniques 
+for the manufacture of the prototype. 
+● Demonstrate a generally high degree of safe working practice 
+for self and others. 
+Level 3 9–12 ● Produce a prototype that demonstrates mostly competent 
+making skills. 
+● Mostly considered selection of fixtures, components and 
+fittings, which are fully appropriate for the chosen prototype. 
+● Mostly competent use of tools, equipment and techniques for 
+the manufacture of the prototype. 
+● Demonstrate a high degree of safe working practice for self 
+and others. 
+Level 4 13–16 ● Produce a prototype that demonstrates fully competent making 
+skills. 
+● Fully considered selection of fixtures, components and fittings, 
+which are entirely appropriate for the chosen prototype. 
+● Fully competent use of tools, equipment and techniques for the 
+manufacture of the prototype. 
+● Demonstrate a sustained high degree of safe working practice 
+for self and others. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+70 
+ 
+Level Mark 3.2 Quality and accuracy (AO2 12 marks) 
+ 0 No rewardable material. 
+Level 1 1–3 ● Produce a simplistic prototype that partially meets the end 
+user needs in relation to a basic design problem. 
+● Produce a prototype that meets limited aspects of the design 
+specification. 
+● Show a basic understanding of the need for accuracy. 
+Level 2 4–6 ● Produce a generally functioning prototype that adequately 
+meets the end user needs in relation to a partially demanding 
+design problem. 
+● Produce a prototype that meets some aspects of the design 
+specification. 
+● Show a partially sound understanding of the need for accuracy.  
+Level 3 7–9 ● Produce a mostly functioning prototype that mostly meets the 
+end user needs in relation to a generally demanding design 
+problem. 
+● Produce a prototype that mostly meets the design 
+specification. 
+● Show a generally sound understanding of the need for 
+accuracy. 
+Level 4 10–12 ● Produce a fully functioning prototype that fully meets the end 
+user needs in relation to a demanding design problem. 
+● Produce a prototype that fully meets the design specification. 
+● Show a fully sound understanding of the need for accuracy. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+71 
+4 – Evaluate 
+Please refer to the information given on page 58 relating to the content outlined for this grid.  
+Level Mark 4.1 Testing and evaluation (AO3 6 marks) 
+ 0 No rewardable material. 
+Level 1 1–2 ● Superficial analysis of the prototype developed in response to 
+the contextual challenge, taking into account the end user 
+and product specification, and showing a partially considered 
+approach to testing against measurable criteria. 
+● Basic evaluation of the prototype, taking into account the 
+intended purpose of the prototype, including its sustainability 
+through a life cycle analysis and drawing partially appropriate 
+conclusions from testing against measureable criteria. 
+Level 2 3–4 ● Generally developed analysis of the prototype developed in 
+response to the contextual challenge, taking into account the 
+end user and product specification, and showing a generally 
+considered approach to testing against measurable criteria. 
+● Competent evaluation of the prototype, taking into account 
+the intended purpose of the prototype, including its 
+sustainability through a life cycle analysis and drawing 
+generally appropriate conclusions from testing against 
+measureable criteria. 
+Level 3 5–6 ● Fully developed analysis of the prototype developed in 
+response to the contextual challenge, taking into account the 
+end user and product specification, and showing a fully 
+considered approach to testing against measurable criteria. 
+● Effective evaluation of the prototype, taking into account the 
+intended purpose of the prototype, including its sustainability 
+through a life cycle analysis and drawing fully appropriate 
+conclusions from testing against measureable criteria. 
+Security and backups 
+It is the centre’s responsibility to keep the work that students have submitted for 
+assessment secure. 
+Secure storage is defined as a securely-locked cabinet or cupboard. As students are 
+producing prototypes, secure storage is defined as a classroom studio or workshop that is 
+locked or supervised from the end of one session to the start of the next. 
+The rules on storage also apply to electronic data. For example, centres should collect 
+memory sticks for secure storage between sessions or restrict student access to specific 
+areas of the centre’s IT network. 
+For materials stored electronically, centres are strongly advised to use firewall protection and 
+virus-checking software, and to employ an effective backup strategy, so that an up-to-date 
+archive of students’ evidence is maintained. 
+Further information 
+For up-to-date advice on teacher involvement and administration of non-examination 
+assessments, please refer to the Joint Council for Qualifications (JCQ) document Instructions 
+for conducting non-examination assessments (new GCE and GCSE specifications) available 
+on the JCQ website: www.jcq.org.uk 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+72 
+Assessment Objectives 
+ 
+Students must: % in GCSE 
+AO1 Identify, investigate and outline design possibilities to address 
+needs and wants 
+10 
+AO2 Design and make prototypes that are fit for purpose 30 
+AO3 Analyse and evaluate: 
+● design decisions and outcomes, including for prototypes made 
+by themselves and others 
+● wider issues in design and technology 
+20 
+AO4 Demonstrate and apply knowledge and understanding of: 
+● technical principles 
+● designing and making principles 
+40 
+Total 100 
+ 
+Breakdown of Assessment Objectives 
+Component 
+Assessment Objectives Total % for all 
+Assessment 
+Objectives AO1 % AO2 % AO3 % AO4 % 
+Component 1 0 0 10 40 50 
+Component 2 10 30 10 0 50 
+Total for GCSE 10 30 20 40 100 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+73 
+3 Administration and general information 
+Entries 
+Details of how to enter students for the examinations for this qualification can be found in 
+our UK Information Manual. A copy is made available to all examinations officers and is 
+available on our website: qualifications.pearson.com 
+Discount code and performance tables 
+Centres should be aware that students who enter for more than one GCSE, or other Level 2 
+qualifications with the same discount code, will have only the grade for their ‘first entry’ 
+counted for the purpose of the school and college performance tables (please see  
+Appendix 8: Codes). For further information about what constitutes ‘first entry’ and full 
+details of how this policy is applied, please refer to the DfE website: 
+www.gov.uk/government/organisations/department-for-education 
+Students should be advised that if they take two GCSEs with the same discount code, 
+schools and colleges they wish to progress to are likely to take the view that this 
+achievement is equivalent to only one GCSE. The same view may be taken if students take 
+two GCSEs or other Level 2 qualifications that have different discount codes but have 
+significant overlap of content. Students or their advisers who have any doubts about their 
+subject combinations should check with the institution they wish to progress to before 
+embarking on their programmes.  
+Access arrangements, reasonable adjustments, 
+special consideration and malpractice 
+Equality and fairness are central to our work. Our equality policy requires all students to 
+have equal opportunity to access our qualifications and assessments, and our qualifications 
+to be awarded in a way that is fair to every student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by the Equality Act 2010) are not, 
+when they are undertaking one of our qualifications, disadvantaged in comparison to 
+students who do not share that characteristic 
+● all students achieve the recognition they deserve for undertaking a qualification and that 
+this achievement can be compared fairly to the achievement of their peers. 
+Language of assessment 
+Assessment of this qualification will be available in English. All student work must be in 
+English. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+74 
+Access arrangements 
+Access arrangements are agreed before an assessment. They allow students with special 
+educational needs, disabilities or temporary injuries to: 
+● access the assessment 
+● show what they know and can do without changing the demands of the assessment. 
+The intention behind an access arrangement is to meet the particular needs of an individual 
+student with a disability, without affecting the integrity of the assessment. 
+Access arrangements are the principal way in which awarding bodies comply with the duty 
+under the Equality Act 2010 to make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the start of the course. Students will 
+then know what is available and have the access arrangement(s) in place for assessment.  
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to make reasonable adjustments 
+where a person with a disability would be at a substantial disadvantage in undertaking an 
+assessment. The awarding organisation is required to take reasonable steps to overcome 
+that disadvantage. 
+A reasonable adjustment for a particular person may be unique to that individual and 
+therefore might not be in the list of available access arrangements. 
+Whether an adjustment will be considered reasonable will depend on a number of factors, 
+including: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with the disability and other students. 
+An adjustment will not be approved if it involves unreasonable costs to the awarding 
+organisation, or affects timeframes or the security or integrity of the assessment. This is 
+because the adjustment is not ‘reasonable’.  
+Special consideration 
+Special consideration is a post-examination adjustment to a student's mark or grade to 
+reflect temporary injury, illness or other indisposition at the time of the 
+examination/assessment, which has had, or is reasonably likely to have had, a material 
+effect on a candidate’s ability to take an assessment or demonstrate their level of attainment 
+in an assessment. 
+Further information 
+Please see our website for further information about how to apply for access arrangements 
+and special consideration. 
+For further information about access arrangements, reasonable adjustments and special 
+consideration, please refer to the JCQ website: www.jcq.org.uk.  
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+75 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that compromises or seeks to 
+compromise the process of assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered before the candidate has signed 
+the declaration of authentication form does not need to be reported to Pearson. 
+Candidate malpractice found in controlled assessments after the declaration of authenticity 
+has been signed, and in examinations must be reported to Pearson on a JCQ Form M1 
+(available at www.jcq.org.uk/exams-office/malpractice). The form should be emailed to 
+candidatemalpractice@pearson.com. Please provide as much information and supporting 
+documentation as possible. Note that the final decision regarding appropriate sanctions lies 
+with Pearson. 
+Failure to report candidate malpractice constitutes staff or centre malpractice.  
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate malpractice and maladministration of 
+our qualifications. As with candidate malpractice, staff and centre malpractice is any act that 
+compromises or seeks to compromise the process of assessment or undermines the integrity 
+of the qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and maladministration must be reported 
+immediately, before any investigation is undertaken by the centre, to Pearson on a 
+JCQ Form M2(a) (available at www.jcq.org.uk/exams-office/malpractice). The form, 
+supporting documentation and as much information as possible should be emailed to 
+pqsmalpractice@pearson.com. Note that the final decision 
+regarding appropriate sanctions 
+lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More detailed guidance on malpractice can be found in the latest version of the document 
+General and Vocational Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at www.jcq.org.uk/exams-office/malpractice. 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to comply with the requirements of 
+Ofqual's General Conditions of Recognition. 
+This GCSE qualification will be graded and certificated on a nine-grade scale from 9 to 1 
+using the total subject mark where 9 is the highest grade. Individual components are not 
+graded.  
+Students whose level of achievement is below the minimum judged by Pearson to be of 
+sufficient standard to be recorded on a certificate will receive an unclassified U result. 
+The first certification opportunity for this qualification will be 2019. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+76 
+Student recruitment and progression 
+Pearson follows the JCQ policy concerning recruitment to our qualifications in that: 
+● they must be available to anyone who is capable of reaching the required standard 
+● they must be free from barriers that restrict access and progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this qualification. 
+Progression 
+Students can progress from this qualification to: 
+● GCEs, e.g. GCE A Level or AS in Design and Technology 
+● Level 3 vocational qualifications, e.g. the BTEC Level 3 qualifications in Engineering 
+● employment, e.g. in a design- or technology-based industry where an Apprenticeship may 
+be available. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+77 
+ 
+Appendices 
+Appendix 1: Mathematical skills 79 
+Appendix 2: Calculators 80 
+Appendix 3: Scientific skills, knowledge and understanding 81 
+Appendix 4: Links to other relevant subjects 83 
+Appendix 5: Command word taxonomy 85 
+Appendix 6: The context for the development of this qualification 86 
+Appendix 7: Transferable skills 88 
+Appendix 8: Codes 89 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+78 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+79 
+Appendix 1: Mathematical skills 
+This appendix is taken from the document Design and Technology GCSE subject content 
+published by the Department for Education (DfE) in November 2015. 
+The mathematical skills listed will be assessed in the examination only. The minimum level of 
+mathematics in the examinations will be equivalent to Key Stage 3 mathematics. 
+ 
+Mathematical skills that will be assessed Examples of design and technology 
+applications 
+1 Arithmetic and numerical computation 
+a Recognise and use expressions in decimal 
+and standard form 
+Calculation of quantities of materials, costs 
+and sizes 
+b Use ratios, fractions and percentages Scaling drawings, analysing responses to 
+user questionnaires 
+c Calculate surface area and volume Determining quantities of materials 
+2 Handling data  
+a Presentation of data, diagrams, bar charts 
+and histograms 
+Construct and interpret frequency tables; 
+present information on design decisions 
+3 Graphs  
+a Plot, draw and interpret appropriate graphs Analysis and presentation of performance 
+data and client survey responses 
+b Translate information between graphical 
+and numeric form 
+Extracting information from technical 
+specifications 
+4 Geometry and trigonometry  
+a Use angular measures in degrees Measurement and marking out, creating 
+tessellated patterns 
+b Visualise and represent 2D and 3D forms 
+including two dimensional representations 
+of 3D objects 
+Graphic presentation of design ideas and 
+communicating intentions to others 
+c Calculate areas of triangles and rectangles, 
+surface areas and volumes of cubes 
+Determining the quantity of materials 
+required 
+ 
+These mathematical skills will be assessed in the examination in both Section A and 
+Section B. A minimum of 15 marks of the examination will be for mathematical skills, with 
+questions involving mathematics always in an applied context. 
+These skills will be sampled in the examination but will all be covered over the lifetime of the 
+qualification. Examples of mathematical questions are Questions 2(b) and 4(b) in the 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Design and Technology Sample Assessment 
+Materials (SAMs). 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+80 
+Appendix 2: Calculators 
+Students may use a calculator in assessments for this qualification, and centres are 
+responsible for making sure that calculators used by their students meet the requirements 
+highlighted in the table below.  
+Students must be told these regulations beforehand and they must be familiar with them 
+before their assessments for this qualification. 
+Students must have a calculator with them for their examinations which they may use. 
+ 
+Calculators must be: 
+● of a size suitable for use on a desk 
+● either battery or solar powered 
+● free of lids, cases and covers that 
+have printed instructions or 
+formulae. 
+ 
+Calculators must not: 
+● be designed or adapted to offer any of these 
+facilities: 
+o language translators 
+o symbolic algebraic manipulation 
+o symbolic differentiation or integration 
+o communication with other machines or 
+the internet 
+● be borrowed from another candidate during 
+an examination for any reason* 
+● have retrievable information stored in them, 
+and this includes: 
+o databanks 
+o dictionaries 
+o mathematical formulae 
+o text. 
+The candidate is responsible for: 
+● the calculator’s power supply 
+● the calculator’s working condition 
+● clearing anything stored in the 
+calculator. 
+ 
+*An invigilator may give a student a replacement calculator. 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+81 
+Appendix 3: Scientific skills, knowledge and 
+understanding 
+This appendix is taken from the document Design and Technology GCSE subject content 
+published by the Department for Education (DfE) in November 2015. 
+Students must know and apply the following scientific skills, knowledge and understanding. 
+ 
+Scientific knowledge and skills that will be 
+assessed 
+Examples of design and technology 
+applications 
+1 Use scientific vocabulary, terminology and definitions 
+a Quantities, units and symbols Appropriate use of scientific terms when 
+developing a design brief and specifications 
+b SI units (e.g. kg, g, mg; km, m, mm;  
+kJ, J), prefixes and powers of ten for orders 
+of magnitude (e.g. tera, giga, mega, kilo, 
+centi, milli, micro and nano) 
+Calculation of quantities, measurement of 
+materials and selection of components 
+c Metals and non-metals and the differences 
+between them, on the basis of their 
+characteristic physical and chemical 
+properties 
+Classification of the types and properties of 
+a range of materials 
+2 Life cycle assessment and recycling 
+a The basic principles in carrying out a life 
+cycle assessment of a material or product 
+Selection of materials and components 
+based on ethical factors, taking into 
+consideration the ecological and social 
+footprint of materials 
+3 Using materials 
+a The conditions which cause corrosion and 
+the process of corrosion and oxidisation 
+Understanding of properties of materials 
+and how they need to be protected from 
+corrosion through surface treatments and 
+finishes. 
+Appreciate how oxidisation can be used 
+when dyeing materials. 
+b The composition of some important alloys 
+in relation to their properties and uses 
+Selecting appropriate materials 
+c The physical properties of materials, how 
+the properties of materials are selected 
+related to their uses 
+Knowledge of properties of materials to be 
+applied when designing and making 
+d The main energy sources available for use 
+on Earth (including fossil fuels, nuclear 
+fuel, biofuel, wind, hydroelectricity, the 
+tides and the Sun), the ways in which they 
+are used and the distinction between 
+renewable and non-renewable sources 
+Understanding of how to choose 
+appropriate energy sources 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+82 
+ 
+Scientific knowledge and skills that will be 
+assessed 
+Examples of design and technology 
+applications 
+3  Using materials (continued) 
+e The action of forces and how levers and 
+gears transmit and transform the effects of 
+forces 
+Knowledge of the function of mechanical 
+devices to produce different sorts of 
+movement, changing the magnitude and 
+direction of forces 
+ 
+These skills will be sampled in the examination but all will be covered over the lifetime of the 
+qualification. Examples of questions that include scientific knowledge and skills are 
+Questions 1(a)(i) and 4(d) in the Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Design and 
+Technology Sample Assessment Materials (SAMs). 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+83 
+Appendix 4: Links to other relevant subjects 
+The following table show how this qualification links to other relevant subjects.  
+In addition to maths and science, the GCSE in Design and Technology embeds knowledge, 
+techniques and practices from a wide range of subjects, including art and design, business, 
+computer science and geography. As part of the teaching of the qualification, teachers should 
+use this appendix with the identified links to the subject content, to ensure that students 
+gain an awareness and appreciation of the ways in which these subject areas relate to and 
+inform decisions in design. 
+ 
+Links to 
+other 
+subjects 
+Examples of links to other 
+subjects criteria 
+Examples of Design and 
+Technology Content 
+Business How technology, including e-
+commerce and digital 
+communication, influences business 
+activity. 
+1.2.2e – Communication 
+1.17.1 – Develop and use a range of 
+communication techniques and media 
+to present the design ideas 
+The impact of ethical and 
+environmental considerations on 
+businesses, including sustainability.  
+2.3.2 – Environmental factors 
+3.2.7 – Social footprint 
+3.2.8 – Ecological footprint 
+3.3.5 – Social factors 
+3.3.6 – Cultural and ethical factors 
+Art and 
+Design 
+The characteristics, properties and  
+effects of using different media, 
+materials, techniques and 
+processes, and the ways in which 
+they can be used in relation to 
+students’ own creative intentions 
+and chosen area(s) of study. 
+1.15.1 – Analysing a product 
+1.15.1 – Strategies, techniques and 
+approaches employed when 
+investigating and analysing the work 
+of others 
+Develop their ideas through 
+investigations informed by 
+selecting and critically analysing 
+sources. 
+1.17.1 – Develop and use a range of 
+communication techniques and media 
+to present the design ideas 
+1.17.2 – Record and justify design 
+ideas clearly and effectively using 
+written techniques 
+Refine their ideas as work 
+progresses through experimenting 
+with media, materials, techniques 
+and processes. 
+2.2 – Review of Initial Ideas 
+2.3 – Development of design ideas 
+into a chosen design 
+2.5 – Review of chosen design 
+4.1 – Testing and evaluation 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+84 
+ 
+Links to 
+other 
+subjects 
+Examples of links to other 
+subjects criteria 
+Examples of Design and 
+Technology Content 
+Geography Effective presentation, 
+communication and evaluation of 
+material. 
+1.2.2e – Communication 
+1.17.1 – Develop and use a range of 
+communication techniques and media 
+to present the design ideas 
+4.1 – Testing and evaluation 
+Recognising the changing 
+characteristics and distribution of 
+demand and supply, past and 
+present impacts of human 
+intervention, and issues related to 
+their sustainable use and 
+management at a variety of scales. 
+2.3.2 – Environmental factors 
+3.2.7 – Social footprint 
+3.2.8 – Ecological footprint 
+3.3.5 – Social factors 
+3.3.6 – Cultural and ethical factors 
+Computer 
+Science 
+Think creatively, innovatively, 
+analytically, logically and critically. 
+1.6.1 – Sensors  
+1.6.2 – Control devices and 
+components 
+1.6.3 – Outputs  
+1.15.1 – Strategies, techniques and 
+approaches employed when 
+investigating and analysing the work 
+of others 
+Understand the impacts of digital 
+technology to the individual and to 
+wider society. 
+2.3.2 – Environmental factors 
+3.2.7 – Social footprint 
+3.2.8 – Ecological footprint 
+3.3.5 – Social factors 
+3.3.6 – Cultural and ethical factors 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+85 
+Appendix 5: Command word taxonomy 
+The following table lists the command words used in the external assessments. 
+ 
+Command word  Definition 
+Calculate Work out a numerical problem using mathematical processes or 
+formulae using the appropriate processes in their response. 
+Requires showing how the answer has been worked out.  
+Points-based mark scheme may credit use of correct formulae,  
+use of correct steps/stages of calculation (evidenced by showing 
+workings), correct outcome. 
+Describe Give an account of the main characteristics of something or  
+the steps in a process. Statements in the response should be 
+developed but do not need to include a justification or reason. 
+Discuss Identify the issue/situation/problem/concept/argumen t within the 
+question. Explore aspects of the issue/element/situation/ 
+problem/concept/argument. Investigate the  issue/situation etc. by 
+reasoning or argument. Does not require a conclusion.  
+Evaluate Measure the value or success of something and ultimate ly provide 
+a substantiated judgement/conclusion. Review information and 
+then bring it together to form a conclusion, drawing on evidence  
+such as strengths, weaknesses, alternatives and relevant data.  
+Explain Providing an answer and a reason or set of reasons qualifying the 
+answer, such as reasons why something can be considered to fulfil 
+a need, provide a purpose, communicate an intention . The answer 
+must contain some element of reasoning/justification; may be 
+used to support a given statement.  
+Give/State/Name All of these command words are really synonyms. They generally 
+all require recall of one or more pieces of  information. 
+Identify Usually requires some key information to be selected from a given 
+stimulus/resource. 
+Use annotated 
+sketches to show 
+Using graphical depiction with annotation, give an account of a 
+‘process’ showing the steps or stages of the process in the correct 
+sequence/order, or give an account of ‘something’ showing a 
+series of features/points/trends. The number of points/depth of 
+answer required will be indicated by the mark allocation.  
+ 
+Please refer to the Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Design and Technology 
+Sample Assessment Materials (SAMs) for the application of these command words. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+86 
+Appendix 6: The context for the 
+development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] and our 
+ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by: 
+● consulting with key stakeholders on content and assessment, including learned bodies, 
+subject associations, higher-education academics, teachers and employers to ensure this 
+qualification is suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in their 
+documents GCSE (9 to 1) Qualification Level Conditions and Requirements and GCSECE 
+Subject Level Conditions and Requirements for Design and Technology, published in 
+April 2014. 
+ 
+ 
+[1] Pearson’s World Class Qualification Principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep learning and 
+measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing reliable and valid 
+assessment tasks and processes, and generating confidence in end users of the knowledge, skills 
+and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that students develop at 
+different rates and have different learning needs, and focusing on progression 
+● empowering, through promoting the development of transferable skills, see Appendix 7. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+87 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+May 2014 
+“The reform of the qualifications system in England is a profoundly important change to the 
+education system. Teachers need to know that the new qualifications will assist them in 
+helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an ‘Expert 
+Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or because of 
+our experience in reforming qualifications in other systems around the world as diverse as 
+Singapore, Hong Kong, Australia, and a number of countries across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification development 
+process that has included: 
+● benchmarking assessments against UK providers to ensure that they are at the right level of 
+demand 
+● establishing External Subject Advisory Groups, drawing on independent subject-specific 
+expertise to challenge and validate our qualifications 
+● subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future oriented. The 
+design has been guided by what is called an ‘Efficacy Framework’, meaning learner outcomes 
+have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a learner’s success 
+in education. As a result of our work as a panel we are confident that we have supported the 
+development of qualifications that are outstanding for their coherence, thoroughness and 
+attention to detail and can be regarded as representing world-class best practice.
+”   
+  
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong 
+Director, National Institute of Education, 
+Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+All titles correct as at May 2014 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+88 
+Appendix 7: Transferable skills 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently flagged the 
+need for students to develop a range of transferable skills to enable them to respond with 
+confidence to the demands of undergraduate study and the world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines skills, or 
+competencies, as ‘the bundle of knowledge, attributes and capacities that can be learned and 
+that enable individuals to successfully and consistently perform an activity or task and can be 
+built upon and extended through learning.’ [1] 
+To support the design of our qualifications, the Pearson Research Team selected and 
+evaluated seven global 21st-century skills frameworks. Following on from this process, we 
+identified the National Research Council’s (NRC) framework as the most evidence-based and 
+robust skills framework. We adapted the framework slightly to include the Program for 
+International Student Assessment (PISA) ICT Literacy and Collaborative Problem Solving 
+(CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: [2]  
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve general 
+cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and communicate.[3] 
+Interpersonal skills 
+● Communication – active listening, oral communication, written communication, assertive 
+communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, service 
+orientation, self-presentation, social influence, conflict resolution and negotiation. 
+● Collaborative problem solving – establishing and maintaining shared understanding, 
+taking appropriate action, establishing and maintaining team organisation. 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work stress, 
+adapting to different personalities, communication styles and cultures, and physical 
+adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual teams, 
+work autonomously, be self-motivating and self-monitoring, willing and able to acquire 
+new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher education, 
+as well as the demands of the workplace, and are important in the teaching and learning of 
+this qualification. We will provide teaching and learning materials, developed with 
+stakeholders, to support our qualifications. 
+ 
+[1]  OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+[2]  Koenig J A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop (National 
+Academies Press, 2011) 
+[3]  PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) GCE in Design and Technology 
+Specification – Issue 4 – November 2022 © Pearson Education Limited 2022 
+89 
+Appendix 8: Codes 
+ 
+Type of code Use of code Code 
+Discount codes Every qualification eligible for 
+performance tables is assigned a 
+discount code indicating the subject area 
+to which it belongs. 
+Discount codes are published by the DfE.  
+Please see the GOV.UK 
+website* 
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes  
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a Qualification 
+Number (QN). This is the code that 
+features in the DfE Section 96 and on the 
+LARA as being eligible for 16–18 and 19+ 
+funding, and is to be used for all 
+qualification funding purposes. The QN 
+will appear on students’ final certification 
+documentation. 
+The QN for this 
+qualification is: 
+603/0698/1 
+Subject codes The subject code is used by centres to 
+enter students for a qualification. Centres 
+will need to use the entry codes only 
+when claiming students’ qualifications. 
+GCSE – 1DT0 
+ 
+Component codes These codes are provided for reference 
+purposes. Students do not need to be 
+entered for individual components. 
+Component 1: 
+1DT0/1A – Metals 
+1DT0/1B – Papers and 
+boards 
+1DT0/1C – Polymers 
+1DT0/1D – Systems 
+1DT0/1E – Textiles 
+1DT0/1F – Timbers 
+Component 2: 1DT0/02 
+ 
+*https://www.gov.uk/government/publications/key-stage-4-qualifications-discount-codes-
+and-point-scores 
+ 
+ 
+Db011122 9781446932995_GCSE2017_L12_DESIGNTECH_ISS4.DOC.1–96/0 
+
+ 
+ 
+About Pearson 
+We are the world’s leading learning company operating in countries all around the world. We 
+provide content, assessment and digital services to learners, educational institutions, 
+employers, governments and other partners globally. We are committed to helping equip 
+learners with the skills they need to enhance their employability prospects and to succeed in 
+the changing world of work. We believe that wherever learning flourishes so do people.  
+References to third party materials made in this specification are made in good faith. Pearson 
+does not endorse, approve or accept responsibility for the content of materials, which may 
+be subject to change, or any opinions expressed therein. (Materials may include textbooks, 
+journals, magazines and other publications and websites.) 
+ 
+All information in this specification is correct at time of publication. 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 4469 3299 5  
+All the material in this publication is copyright 
+© Pearson Education Limited 2022 
+ 
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office:  80 Strand, London WC2R 0RL
+V AT Reg No GB 278 537121
+Getty Images: Alex Belmonlinsky

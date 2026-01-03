@@ -1,0 +1,185 @@
+Here is the extracted hierarchy from the provided OCR Physical Education component:
+
+```
+2 Psychological factors affecting performance
+2.1 Skill Acquisition
+2.1.1 Classification of skills
+2.1.1.1 justification of placement of skills on continua:
+2.1.1.1.1 difficulty (simple/complex)
+2.1.1.1.2 environmental influence (open/closed)
+2.1.1.1.3 pacing (self-paced/externally paced)
+2.1.1.1.4 muscular involvement (gross/fine)
+2.1.1.1.5 continuity (discrete/serial/continuous)
+2.1.1.1.6 organisation (low/high)
+2.1.2 Types and methods of practice
+2.1.2.1 characteristics and uses of each:
+2.1.2.1.1 part practice
+2.1.2.1.2 whole practice
+2.1.2.1.3 whole/part-whole practice
+2.1.2.1.4 progressive/part practice
+2.1.2.1.5 massed practice
+2.1.2.1.6 distributed practice
+2.1.2.1.7 fixed practice
+2.1.2.1.8 varied practice
+2.1.3 Transfer of skills
+2.1.3.1 types of transfer:
+2.1.3.1.1 positive
+2.1.3.1.2 negative
+2.1.3.1.3 proactive
+2.1.3.1.4 retroactive
+2.1.3.1.5 bilateral
+2.1.3.2 know and understand the ways of optimising the effect of positive transfer
+2.1.3.3 know and understand the ways of limiting the effect of negative transfer
+2.1.4 Principles and theories of learning movement skills
+2.1.4.1 theories of learning:
+2.1.4.1.1 operant conditioning
+2.1.4.1.2 cognitive theory of learning
+2.1.4.1.3 Bandura’s theory of social/observational learning
+2.1.5 Stages of learning
+2.1.5.1 characteristics of the stages of learning:
+2.1.5.1.1 cognitive
+2.1.5.1.2 associative
+2.1.5.1.3 autonomous
+2.1.6 Guidance
+2.1.6.1 types and uses of guidance:
+2.1.6.1.1 verbal guidance
+2.1.6.1.2 visual guidance
+2.1.6.1.3 manual guidance
+2.1.6.1.4 mechanical guidance
+2.1.6.2 advantages and disadvantages of using each type of guidance
+2.1.7 Feedback
+2.1.7.1 types and uses of feedback:
+2.1.7.1.1 intrinsic
+2.1.7.1.2 extrinsic
+2.1.7.1.3 positive
+2.1.7.1.4 negative
+2.1.7.1.5 knowledge of performance
+2.1.7.1.6 knowledge of results
+2.1.7.2 advantages and disadvantages of using each type of feedback
+2.1.8 Memory models
+2.1.8.1 Atkinson and Shiffren’s multi-store memory model
+2.1.8.1.1 use of selective attention
+2.1.8.2 Craik and Lockhart’s levels of processing model
+2.1.8.3 relate both models to learning and performing physical activity skills
+2.2 Sports psychology
+2.2.1 Individual differences
+2.2.1.1 personality
+2.2.1.1.1 definition of personality
+2.2.1.1.2 theories of personality:
+2.2.1.1.2.1 trait – extroversion/introversion, stable/unstable, type a/type b
+2.2.1.1.2.2 social learning
+2.2.1.1.2.3 interactionist
+2.2.1.2 attitudes
+2.2.1.2.1 definition of attitude
+2.2.1.2.2 factors affecting attitude formation
+2.2.1.2.3 components of attitude:
+2.2.1.2.3.1 cognitive
+2.2.1.2.3.2 affective
+2.2.1.2.3.3 behavioural
+2.2.1.2.4 methods of attitude change:
+2.2.1.2.4.1 persuasive communication
+2.2.1.2.4.2 cognitive dissonance
+2.2.1.3 motivation
+2.2.1.3.1 definitions of:
+2.2.1.3.1.1 intrinsic motivation
+2.2.1.3.1.2 extrinsic motivation
+2.2.1.3.2 uses and effects of:
+2.2.1.3.2.1 intrinsic motivation
+2.2.1.3.2.2 extrinsic motivation
+2.2.1.4 arousal
+2.2.1.4.1 definition of arousal
+2.2.1.4.2 effects of arousal:
+2.2.1.4.2.1 drive theory
+2.2.1.4.2.2 inverted U theory
+2.2.1.4.2.3 catastrophe theory
+2.2.1.5 anxiety
+2.2.1.5.1 definition of anxiety
+2.2.1.5.2 types of anxiety:
+2.2.1.5.2.1 state and trait
+2.2.1.5.3 response to anxiety:
+2.2.1.5.3.1 somatic and cognitive
+2.2.1.5.3.2 zone of optimal functioning
+2.2.1.6 aggression
+2.2.1.6.1 definition of aggression
+2.2.1.6.2 theories of aggression:
+2.2.1.6.2.1 instinct
+2.2.1.6.2.2 social learning
+2.2.1.6.2.3 frustration-aggression hypothesis
+2.2.1.6.2.4 aggressive cue hypothesis
+2.2.1.7 social facilitation
+2.2.1.7.1 definition of social facilitation and social inhibition
+2.2.1.7.2 the effect of an audience on:
+2.2.1.7.2.1 introverts/extroverts
+2.2.1.7.2.2 beginners/experts
+2.2.1.7.2.3 simple/complex skills
+2.2.1.7.2.4 gross/fine skills
+2.2.1.7.3 evaluative apprehension
+2.2.1.7.4 strategies to minimise social inhibition
+2.2.2 Group and team dynamics in sport
+2.2.2.1 definition of a group
+2.2.2.2 the formation of groups and sports teams using stages of group development
+2.2.2.2.1 forming
+2.2.2.2.2 storming
+2.2.2.2.3 norming
+2.2.2.2.4 performing
+2.2.2.3 Steiner’s model of group effectiveness
+2.2.2.4 Ringelmann effect and social loafing
+2.2.3 Goal setting in sports performance
+2.2.3.1 importance and effectiveness of goal setting
+2.2.3.1.1 for attentional focus
+2.2.3.1.2 persistence on tasks
+2.2.3.1.3 raising confidence and self-efficacy
+2.2.3.1.4 control of arousal and anxiety
+2.2.3.1.5 to monitor performance
+2.2.3.1.6 the SMART principle (Specific, Measurable, Achievable, Recorded, Time phased)
+2.2.4 Attribution
+2.2.4.1 Weiner’s model of attribution
+2.2.4.1.1 stability dimension (unstable and stable)
+2.2.4.1.2 locus of causality dimension (internal and external)
+2.2.4.1.3 controllability dimension
+2.2.4.2 learned helplessness as a barrier to sports performance
+2.2.4.3 mastery orientation to optimise sports performance
+2.2.5 Confidence and self-efficacy in sports performance
+2.2.5.1 definitions of sports confidence and self-efficacy
+2.2.5.2 the impact of sports confidence on:
+2.2.5.2.1 performance
+2.2.5.2.2 participation
+2.2.5.2.3 self-esteem
+2.2.5.3 Vealey’s model of sports confidence:
+2.2.5.3.1 trait sports confidence
+2.2.5.3.2 competitive orientation
+2.2.5.3.3 state sports confidence
+2.2.5.3.4 subjective perceptions of outcome
+2.2.5.4 Bandura’s theory of self efficacy:
+2.2.5.4.1 performance accomplishments
+2.2.5.4.2 vicarious experiences
+2.2.5.4.3 verbal persuasion
+2.2.5.4.4 emotional arousal
+2.2.6 Leadership in sport
+2.2.6.1 characteristics of effective leaders
+2.2.6.2 emergent or prescribed leaders
+2.2.6.3 leadership styles
+2.2.6.3.1 autocratic
+2.2.6.3.2 democratic
+2.2.6.3.3 laissez-faire
+2.2.6.4 theories of leadership
+2.2.6.4.1 trait perspective
+2.2.6.4.2 social learning
+2.2.6.4.3 interactionist
+2.2.6.5 Chelladurai’s multi-dimensional model of sports leadership
+2.2.7 Stress management to optimise performance
+2.2.7.1 definition and causes of stress
+2.2.7.2 use of cognitive stress management techniques:
+2.2.7.2.1 positive thinking/self-talk
+2.2.7.2.2 negative thought stopping
+2.2.7.2.3 rational thinking
+2.2.7.2.4 mental rehearsal
+2.2.7.2.5 imagery
+2.2.7.2.6 goal setting
+2.2.7.2.7 mindfulness
+2.2.7.3 use of somatic stress management techniques:
+2.2.7.3.1 progressive muscular relaxation
+2.2.7.3.2 biofeedback
+2.2.7.3.3 centring technique
+2.2.7.3.4 breathing control
+```

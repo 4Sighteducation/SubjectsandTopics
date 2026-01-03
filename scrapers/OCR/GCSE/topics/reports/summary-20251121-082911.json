@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-11-21T08:29:11.026554",
+  "total_subjects": 1,
+  "success_count": 0,
+  "fail_count": 1,
+  "success_rate": 0.0,
+  "reports": [
+    {
+      "subject_code": "J204",
+      "subject_name": "Business",
+      "success": false,
+      "error": "cannot access local variable 'cached_parsed_topics' where it is not associated with a value",
+      "topics_extracted": 0,
+      "levels": {},
+      "issues": [
+        "Exception: cannot access local variable 'cached_parsed_topics' where it is not associated with a value"
+      ],
+      "success_grade": 0
+    }
+  ]
+}

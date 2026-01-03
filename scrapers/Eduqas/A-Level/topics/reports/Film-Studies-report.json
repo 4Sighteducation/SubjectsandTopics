@@ -1,0 +1,165 @@
+{
+  "subject_name": "Film Studies",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/2vzaeag1/eduqas-a-level-film-studies-spec-from-2017.pdf",
+  "start_time": "2025-11-23T23:36:53.341398",
+  "success": true,
+  "topics_extracted": 68,
+  "levels": {
+    "0": 3,
+    "1": 11,
+    "2": 17,
+    "3": 33,
+    "4": 4
+  },
+  "issues": [],
+  "warnings": [
+    "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+    "Not all components extracted"
+  ],
+  "success_grade": 75,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": true,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "7",
+        "name": "3 (NEA)."
+      },
+      {
+        "number": "1",
+        "name": "Varieties of film and filmmaking 19"
+      },
+      {
+        "number": "2",
+        "name": "Global filmmaking perspectives 25"
+      },
+      {
+        "number": "3",
+        "name": "Production 31"
+      },
+      {
+        "number": "1",
+        "name": "Varieties of film and filmmaking"
+      },
+      {
+        "number": "2",
+        "name": "Global filmmaking perspectives"
+      },
+      {
+        "number": "3",
+        "name": "Production"
+      },
+      {
+        "number": "1",
+        "name": "Varieties of film and filmmaking"
+      },
+      {
+        "number": "2",
+        "name": "Global filmmaking perspectives"
+      },
+      {
+        "number": "1",
+        "name": "Topics Specialist Study Area(s)"
+      },
+      {
+        "number": "2",
+        "name": "Topics Specialist Study Area(s)"
+      },
+      {
+        "number": "1",
+        "name": "Varieties of film and filmmaking"
+      },
+      {
+        "number": "2",
+        "name": "Global filmmaking perspectives"
+      },
+      {
+        "number": "3",
+        "name": "Production"
+      },
+      {
+        "number": "1",
+        "name": "17.5% 17.5% - 35%"
+      },
+      {
+        "number": "2",
+        "name": "17.5% 17.5% - 35%"
+      },
+      {
+        "number": "3",
+        "name": "- 10% 20% 30%"
+      },
+      {
+        "number": "1",
+        "name": "120 1.167 140 35"
+      },
+      {
+        "number": "2",
+        "name": "100 1.4 140 35"
+      },
+      {
+        "number": "3",
+        "name": "60 2 120 30"
+      },
+      {
+        "number": "3",
+        "name": "Marking grids"
+      },
+      {
+        "number": "1",
+        "name": "Varieties of film and filmmaking 19"
+      },
+      {
+        "number": "2",
+        "name": "Global filmmaking perspectives 25"
+      },
+      {
+        "number": "3",
+        "name": "Production 31"
+      },
+      {
+        "number": "1",
+        "name": "Varieties of film and filmmaking"
+      },
+      {
+        "number": "2",
+        "name": "Global filmmaking perspectives"
+      },
+      {
+        "number": "3",
+        "name": "Production"
+      },
+      {
+        "number": "1",
+        "name": "Varieties of film and filmmaking"
+      },
+      {
+        "number": "2",
+        "name": "Global filmmaking perspectives"
+      },
+      {
+        "number": "3",
+        "name": "10% 20% 30%"
+      },
+      {
+        "number": "3",
+        "name": "Marking grids"
+      }
+    ],
+    "tiers": [],
+    "options": [
+      "1",
+      "2"
+    ],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 21.33573317527771,
+  "end_time": "2025-11-23T23:37:14.677130"
+}

@@ -1,0 +1,55 @@
+{
+  "success": 7,
+  "failed": 0,
+  "details": [
+    {
+      "code": "IG-French",
+      "name": "French",
+      "status": "success",
+      "topics": 56,
+      "time": 28.654167413711548
+    },
+    {
+      "code": "IG-Spanish",
+      "name": "Spanish",
+      "status": "success",
+      "topics": 69,
+      "time": 77.22720432281494
+    },
+    {
+      "code": "IG-German",
+      "name": "German",
+      "status": "success",
+      "topics": 56,
+      "time": 52.067577838897705
+    },
+    {
+      "code": "IG-Bangla",
+      "name": "Bangla",
+      "status": "success",
+      "topics": 31,
+      "time": 38.492692708969116
+    },
+    {
+      "code": "IG-Chinese",
+      "name": "Chinese",
+      "status": "success",
+      "topics": 56,
+      "time": 60.66083383560181
+    },
+    {
+      "code": "IG-Sinhala",
+      "name": "Sinhala",
+      "status": "success",
+      "topics": 56,
+      "time": 38.27833318710327
+    },
+    {
+      "code": "IG-Swahili",
+      "name": "Swahili",
+      "status": "success",
+      "topics": 59,
+      "time": 42.43140912055969
+    }
+  ]
+}

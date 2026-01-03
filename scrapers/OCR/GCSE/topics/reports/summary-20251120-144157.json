@@ -1,0 +1,2491 @@
+{
+  "timestamp": "2025-11-20T14:41:57.179646",
+  "total_subjects": 36,
+  "success_count": 33,
+  "fail_count": 3,
+  "success_rate": 91.66666666666666,
+  "reports": [
+    {
+      "subject_code": "J198",
+      "subject_name": "Ancient History",
+      "url": "https://www.ocr.org.uk/Images/313533-specification-accredited-gcse-ancient-history-j198.pdf",
+      "start_time": "2025-11-20T13:23:35.232808",
+      "success": true,
+      "topics_extracted": 51,
+      "levels": {
+        "0": 1,
+        "1": 6,
+        "2": 30,
+        "3": 8,
+        "4": 6
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment in level 2"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "The Persian Empire, 559–465 BC",
+            "The foundations of Rome: from kingship to republic, 753–440 BC"
+          ],
+          "optional": [
+            "From Tyranny to Democracy, 546–483 BC",
+            "Athens in the Age of Pericles, 462–429 BC",
+            "Alexander the Great, 356–323 BC",
+            "Hannibal and the Second Punic War, 218–201 BC",
+            "Cleopatra: Rome and Egypt, 69–30 BC",
+            "Britannia: from conquest to province, AD 43–c.84"
+          ]
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "The Persian Empire, 559–465 BC",
+            "The foundations of Rome: from kingship to republic, 753–440 BC"
+          ],
+          "organization": "The content is organized into compulsory period studies and optional depth studies.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "J198/01: Greece and Persia",
+            "J198/02: Rome and its neighbours"
+          ],
+          "content_mapping": {
+            "J198/01": "The Persian Empire, 559–465 BC and one depth study from Greek options",
+            "J198/02": "The foundations of Rome: from kingship to republic, 753–440 BC and one depth study from Roman options"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the compulsory period studies and the optional depth studies, ensuring to map them to their respective written papers.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:23:35.232826"
+    },
+    {
+      "subject_code": "J170",
+      "subject_name": "Art, Craft and Design",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T13:24:22.335187",
+      "success": true,
+      "topics_extracted": 56,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 17,
+        "3": 20,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics from Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment",
+        "Possible missing options"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and assessment objectives.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:24:22.335199"
+    },
+    {
+      "subject_code": "J171",
+      "subject_name": "Fine Art",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T13:24:29.379157",
+      "success": true,
+      "topics_extracted": 56,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 17,
+        "3": 20,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics from Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure problems due to incorrect parent-child relationships"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and assessment objectives.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:24:29.379167"
+    },
+    {
+      "subject_code": "J172",
+      "subject_name": "Graphic Communication",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T13:24:36.159067",
+      "success": true,
+      "topics_extracted": 56,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 17,
+        "3": 20,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics compared to Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment",
+        "Possible missing options"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and assessment objectives.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:24:36.159079"
+    },
+    {
+      "subject_code": "J173",
+      "subject_name": "Photography",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T13:24:43.175773",
+      "success": true,
+      "topics_extracted": 56,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 17,
+        "3": 20,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics compared to Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment",
+        "Possible missing options"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and assessment objectives.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:24:43.175784"
+    },
+    {
+      "subject_code": "J174",
+      "subject_name": "Textile Design",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T13:24:51.013165",
+      "success": true,
+      "topics_extracted": 56,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 17,
+        "3": 20,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment in level 3"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and assessment objectives.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:24:51.013174"
+    },
+    {
+      "subject_code": "J175",
+      "subject_name": "Three-Dimensional Design",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T13:24:57.509149",
+      "success": true,
+      "topics_extracted": 56,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 17,
+        "3": 20,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics from Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment",
+        "Options extraction may be incomplete"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and assessment objectives.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:24:57.509159"
+    },
+    {
+      "subject_code": "J176",
+      "subject_name": "Critical and Contextual Studies",
+      "url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+      "start_time": "2025-11-20T13:25:03.179477",
+      "success": true,
+      "topics_extracted": 56,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 17,
+        "3": 20,
+        "4": 10
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect tier handling"
+      ],
+      "warnings": [
+        "Potential misalignment in parent-child relationships"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component 01: Portfolio",
+            "Component 02: Externally set task"
+          ],
+          "organization": "The content is organized into components with specific tasks and requirements.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Component 02: Externally set task"
+          ],
+          "content_mapping": {
+            "Component 02: Externally set task": "Five themes with written and visual starting points"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details of the externally set task, including themes and assessment objectives.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:25:03.179491"
+    },
+    {
+      "subject_code": "J247",
+      "subject_name": "Biology A",
+      "url": "https://www.ocr.org.uk/Images/234594-specification-accredited-gcse-gateway-science-suite-biology-a-j247.pdf",
+      "start_time": "2025-11-20T13:25:47.649443",
+      "success": true,
+      "topics_extracted": 70,
+      "levels": {
+        "0": 2,
+        "1": 4,
+        "2": 18,
+        "3": 46
+      },
+      "issues": [
+        "Options not extracted",
+        "Potential missing topics"
+      ],
+      "warnings": [
+        "Check for missing texts",
+        "Verify logical organization"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": true,
+          "foundation_content": "Content is split into six teaching topics B1-B6 and a practical activity skills topic B7. Paper 1 assesses content from Topics B1–B3 and B7. Paper 2 assesses content from Topics B4–B6 and B7, with assumed knowledge of Topics B1–B3.",
+          "higher_content": "Content is split into six teaching topics B1-B6 and a practical activity skills topic B7. Paper 3 assesses content from Topics B1–B3 and B7. Paper 4 assesses content from Topics B4–B6 and B7, with assumed knowledge of Topics B1–B3.",
+          "differences": [
+            "Statements shown in bold type will only be tested in the Higher Tier papers. All other statements will be assessed in both Foundation and Higher Tier papers."
+          ]
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "topic-based",
+        "content_overview": {
+          "main_sections": [
+            "Topic B1: Cell level systems",
+            "Topic B2: Scaling up",
+            "Topic B3: Organism level systems",
+            "Topic B4: Community level systems",
+            "Topic B5: Genes, inheritance and selection",
+            "Topic B6: Global challenges",
+            "Topic B7: Practical skills"
+          ],
+          "organization": "Content is divided into topics B1-B6 and a practical skills topic B7, with each topic further divided into sub-topics.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Paper 1: Topics B1–B3 and B7",
+            "Paper 2: Topics B4–B6 and B7",
+            "Paper 3: Topics B1–B3 and B7",
+            "Paper 4: Topics B4–B6 and B7"
+          ],
+          "content_mapping": {
+            "Paper 1": "Topics B1–B3 and B7",
+            "Paper 2": "Topics B4–B6 and B7",
+            "Paper 3": "Topics B1–B3 and B7",
+            "Paper 4": "Topics B4–B6 and B7"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting topic-based content and assessment structure, ensuring to capture tier differences and cross-component content.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:25:47.649454"
+    },
+    {
+      "subject_code": "J257",
+      "subject_name": "Biology B",
+      "url": "https://www.ocr.org.uk/Images/234595-specification-accredited-gcse-twenty-first-century-science-suite-biology-b-j257.pdf",
+      "start_time": "2025-11-20T13:28:51.484365",
+      "success": true,
+      "topics_extracted": 450,
+      "levels": {
+        "0": 2,
+        "1": 16,
+        "2": 105,
+        "3": 299,
+        "4": 28
+      },
+      "issues": [
+        "Options not extracted",
+        "Minor content inaccuracies"
+      ],
+      "warnings": [
+        "Potential missing topics due to high total count"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": true,
+          "foundation_content": "Content is split into eight teaching chapters for Foundation Tier, grades 1 to 5.",
+          "higher_content": "Content is split into eight teaching chapters for Higher Tier, grades 4 to 9.",
+          "differences": [
+            "Emboldened statements will only be assessed in Higher Tier papers."
+          ]
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [
+            "All eight chapters are compulsory for both tiers."
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "chapter-based",
+        "content_overview": {
+          "main_sections": [
+            "Chapter B1: You and your genes",
+            "Chapter B2: Keeping healthy",
+            "Chapter B3: Living together – food and ecosystems",
+            "Chapter B4: Using food and controlling growth",
+            "Chapter B5: The human body – staying alive",
+            "Chapter B6: Life on Earth – past, present and future",
+            "Chapter B7: Ideas about Science",
+            "Chapter B8: Practical Skills"
+          ],
+          "organization": "Content is organized into eight chapters, each covering different aspects of biology.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "J257/01",
+            "J257/02",
+            "J257/03",
+            "J257/04"
+          ],
+          "content_mapping": {
+            "J257/01": "Breadth in biology for Foundation Tier",
+            "J257/02": "Depth in biology for Foundation Tier",
+            "J257/03": "Breadth in biology for Higher Tier",
+            "J257/04": "Depth in biology for Higher Tier"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting chapter-based content and assessment structure, ensuring differentiation between Foundation and Higher tiers.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:28:51.484378"
+    },
+    {
+      "subject_code": "J204",
+      "subject_name": "Business",
+      "url": "https://www.ocr.org.uk/Images/304213-specification-accredited-gcse-business-j204.pdf",
+      "start_time": "2025-11-20T13:31:01.690649",
+      "success": true,
+      "topics_extracted": 167,
+      "levels": {
+        "0": 1,
+        "1": 1,
+        "2": 2,
+        "3": 7,
+        "4": 32,
+        "5": 35,
+        "6": 89
+      },
+      "issues": [
+        "Missing topics compared to Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure problems due to unexpected depth",
+        "No options extracted despite being component-based"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [
+            "Business 1: business activity, marketing and people",
+            "Business 2: operations, finance and influences on business"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Business activity",
+            "Marketing",
+            "People",
+            "Operations",
+            "Finance",
+            "Influences on business",
+            "The interdependent nature of business"
+          ],
+          "organization": "The content is organized into two main components, each covering specific business topics.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Business 1: business activity, marketing and people",
+            "Business 2: operations, finance and influences on business"
+          ],
+          "content_mapping": {
+            "Business 1": "business activity, marketing, people",
+            "Business 2": "operations, finance, influences on business"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting content related to the two main components and their respective topics. Ensure to capture the interdependent nature of business as a cross-component theme.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:31:01.690661"
+    },
+    {
+      "subject_code": "J248",
+      "subject_name": "Chemistry A",
+      "url": "https://www.ocr.org.uk/Images/234598-specification-accredited-gcse-gateway-science-suite-chemistry-a-j248.pdf",
+      "start_time": "2025-11-20T13:32:37.873905",
+      "success": true,
+      "topics_extracted": 66,
+      "levels": {
+        "0": 6,
+        "1": 18,
+        "2": 42
+      },
+      "issues": [
+        "Options not extracted",
+        "Expected depth not fully achieved"
+      ],
+      "warnings": [
+        "Potential missing topics due to incomplete extraction"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": true,
+          "foundation_content": "Content is split into six teaching topics C1-C6 and a practical activity skills topic C7. Paper 1 assesses content from Topics C1–C3 and C7. Paper 2 assesses content from Topics C4–C6 and C7, with assumed knowledge of Topics C1–C3.",
+          "higher_content": "Content is split into six teaching topics C1-C6 and a practical activity skills topic C7. Paper 3 assesses content from Topics C1–C3 and C7. Paper 4 assesses content from Topics C4–C6 and C7, with assumed knowledge of Topics C1–C3.",
+          "differences": [
+            "Foundation Tier covers grades 5 to 1, while Higher Tier covers grades 9 to 4.",
+            "Higher Tier includes additional content indicated in bold type."
+          ]
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "topic-based",
+        "content_overview": {
+          "main_sections": [
+            "Topic C1: Particles",
+            "Topic C2: Elements, compounds and mixtures",
+            "Topic C3: Chemical reactions",
+            "Topic C4: Predicting and identifying reactions and products",
+            "Topic C5: Monitoring and controlling chemical reactions",
+            "Topic C6: Global challenges",
+            "Topic C7: Practical activity skills"
+          ],
+          "organization": "Content is organized into topics with sub-topics, each with summaries, common misconceptions, and tiering information.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Paper 1: Topics C1–C3 and C7",
+            "Paper 2: Topics C4–C6 and C7",
+            "Paper 3: Topics C1–C3 and C7",
+            "Paper 4: Topics C4–C6 and C7"
+          ],
+          "content_mapping": {
+            "Paper 1": "Topics C1–C3 and C7",
+            "Paper 2": "Topics C4–C6 and C7",
+            "Paper 3": "Topics C1–C3 and C7",
+            "Paper 4": "Topics C4–C6 and C7"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting topic-based content with sub-topics, summaries, and tiering information. Ensure to capture the differences between Foundation and Higher tiers.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:32:37.873914"
+    },
+    {
+      "subject_code": "J258",
+      "subject_name": "Chemistry B",
+      "url": "https://www.ocr.org.uk/Images/234599-specification-accredited-gcse-twenty-first-century-science-suite-chemistry-b-j258.pdf",
+      "start_time": "2025-11-20T13:36:27.634917",
+      "success": true,
+      "topics_extracted": 466,
+      "levels": {
+        "0": 2,
+        "1": 16,
+        "2": 73,
+        "3": 375
+      },
+      "issues": [
+        "Options not extracted",
+        "Potential missing topics due to high topic count"
+      ],
+      "warnings": [
+        "Check for missing content in level 0 and 1",
+        "Verify logical organization of topics"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": true,
+          "foundation_content": "Content is split into eight teaching chapters: Breadth in chemistry and Depth in chemistry. Both papers assess content from all eight chapters.",
+          "higher_content": "Content is split into eight teaching chapters: Breadth in chemistry and Depth in chemistry. Both papers assess content from all eight chapters.",
+          "differences": [
+            "Emboldened statements will only be assessed in Higher Tier papers."
+          ]
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "chapter-based",
+        "content_overview": {
+          "main_sections": [
+            "Chapter C1: Air and water",
+            "Chapter C2: Chemical patterns",
+            "Chapter C3: Chemicals of the natural environment",
+            "Chapter C4: Material choices",
+            "Chapter C5: Chemical analysis",
+            "Chapter C6: Making useful chemicals",
+            "Chapter C7: Ideas about Science",
+            "Chapter C8: Practical Skills"
+          ],
+          "organization": "Content is divided into eight chapters, each with an overview and a summary of knowledge and understanding.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "J258/01: Breadth in chemistry (Foundation Tier)",
+            "J258/02: Depth in chemistry (Foundation Tier)",
+            "J258/03: Breadth in chemistry (Higher Tier)",
+            "J258/04: Depth in chemistry (Higher Tier)"
+          ],
+          "content_mapping": {
+            "J258/01": "Chapters C1 to C8",
+            "J258/02": "Chapters C1 to C8",
+            "J258/03": "Chapters C1 to C8",
+            "J258/04": "Chapters C1 to C8"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting chapter-based content and assessment structure, ensuring differentiation between Foundation and Higher tiers.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:36:27.634933"
+    },
+    {
+      "subject_code": "J270",
+      "subject_name": "Citizenship Studies",
+      "url": "https://www.ocr.org.uk/Images/234735-specification-accredited-gcse-citizenship-studies-j270.pdf",
+      "start_time": "2025-11-20T13:37:03.329174",
+      "success": true,
+      "topics_extracted": 56,
+      "levels": {
+        "0": 1,
+        "1": 4,
+        "2": 16,
+        "3": 26,
+        "4": 9
+      },
+      "issues": [
+        "Missing topics compared to Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment",
+        "Possible missing options"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Democracy and government",
+            "Citizenship participation in democracy and society",
+            "Rights, the law and the legal system in England and Wales",
+            "The UK and its relations with the wider world",
+            "The economy, finance and money"
+          ],
+          "organization": "The content is organized into main sections that cover different aspects of citizenship studies.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Citizenship in perspective (01)",
+            "Citizenship in action (02)",
+            "Our rights, our society, our world (03)"
+          ],
+          "content_mapping": {
+            "Citizenship in perspective (01)": "Sections 1–3 of the specification",
+            "Citizenship in action (02)": "Rights, the law and the legal system in England and Wales (Section 1), Democracy and government (Section 2), Citizenship Action (Section 4)",
+            "Our rights, our society, our world (03)": "Rights, the law and the legal system in England and Wales (Section 1), The UK and the wider world (Section 3)"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the main sections and their components, as well as the assessment structure and content mapping for each written paper.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:37:03.329184"
+    },
+    {
+      "subject_code": "J199",
+      "subject_name": "Classical Civilisation",
+      "url": "https://www.ocr.org.uk/Images/315240-specification-accredited-gcse-classical-civilisation-j199.pdf",
+      "start_time": "2025-11-20T13:37:45.443022",
+      "success": true,
+      "topics_extracted": 79,
+      "levels": {
+        "0": 6,
+        "1": 23,
+        "2": 50
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment in component-based hierarchy"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [],
+          "optional": [
+            "Myth and Religion (J199/11)",
+            "Women in the Ancient World (J199/12)",
+            "The Homeric World (J199/21)",
+            "Roman City Life (J199/22)",
+            "War and Warfare (J199/23)"
+          ]
+        },
+        "texts": {
+          "has_texts": true,
+          "text_locations": [
+            "Content of Myth and Religion (J199/11)"
+          ],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Thematic Study",
+            "Literature and Culture"
+          ],
+          "organization": "Components are organized into two main groups, each with optional components to choose from.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Thematic Study",
+            "Literature and Culture"
+          ],
+          "content_mapping": {
+            "Thematic Study": "Myth and Religion or Women in the Ancient World",
+            "Literature and Culture": "The Homeric World, Roman City Life, or War and Warfare"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the structure of components and their respective content, ensuring optional components are clearly identified.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:37:45.443037"
+    },
+    {
+      "subject_code": "J292",
+      "subject_name": "Classical Greek",
+      "url": "https://www.ocr.org.uk/Images/220700-specification-accredited-gcse-classical-greek-j292.pdf",
+      "start_time": "2025-11-20T13:39:00.174373",
+      "success": true,
+      "topics_extracted": 148,
+      "levels": {
+        "0": 6,
+        "1": 34,
+        "2": 77,
+        "3": 24,
+        "4": 7
+      },
+      "issues": [
+        "Missing topics in level 4",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment in level 3"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Language (J292/01)"
+          ],
+          "optional": [
+            "Prose Literature A (J292/02)",
+            "Prose Literature B (J292/03)",
+            "Verse Literature A (J292/04)",
+            "Verse Literature B (J292/05)",
+            "Literature and Culture (J292/06)"
+          ]
+        },
+        "texts": {
+          "has_texts": true,
+          "text_locations": [
+            "Content of Literature components",
+            "Summary of the Greek set texts for examination"
+          ],
+          "extraction_strategy": "separate_hierarchy"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Language",
+            "Prose and Verse Literature",
+            "Literature and Culture"
+          ],
+          "organization": "The content is organized into components with specific focus areas such as language, literature, and culture.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "J292/01: Language",
+            "J292/02: Prose Literature A",
+            "J292/03: Prose Literature B",
+            "J292/04: Verse Literature A",
+            "J292/05: Verse Literature B",
+            "J292/06: Literature and Culture"
+          ],
+          "content_mapping": {
+            "J292/01": "Classical Greek vocabulary, accidence, and syntax",
+            "J292/02": "Prose Literature A",
+            "J292/03": "Prose Literature B",
+            "J292/04": "Verse Literature A",
+            "J292/05": "Verse Literature B",
+            "J292/06": "Greek Civilisation and Culture"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the structure of components and the prescribed texts for each component. Pay attention to the optional nature of literature components.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:39:00.174384"
+    },
+    {
+      "subject_code": "J277",
+      "subject_name": "Computer Science",
+      "url": "https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf",
+      "start_time": "2025-11-20T13:39:45.475891",
+      "success": true,
+      "topics_extracted": 40,
+      "levels": {
+        "0": 1,
+        "1": 2,
+        "2": 11,
+        "3": 26
+      },
+      "issues": [
+        "Missing options extraction",
+        "Potential missing topics"
+      ],
+      "warnings": [
+        "Check for missing texts",
+        "Verify logical organization"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "1.1 Systems architecture",
+            "1.2 Memory and storage",
+            "1.3 Computer networks, connections and protocols",
+            "1.4 Network security",
+            "1.5 Systems software",
+            "1.6 Ethical, legal, cultural and environmental impacts of digital technology",
+            "2.1 Algorithms",
+            "2.2 Programming fundamentals",
+            "2.3 Producing robust programs",
+            "2.4 Boolean logic",
+            "2.5 Programming languages and Integrated Development Environments"
+          ],
+          "organization": "The content is organized into two main components, each with specific topics.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "J277/01: Computer systems",
+            "J277/02: Computational thinking, algorithms and programming"
+          ],
+          "content_mapping": {
+            "J277/01": "1.1 Systems architecture, 1.2 Memory and storage, 1.3 Computer networks, connections and protocols, 1.4 Network security, 1.5 Systems software, 1.6 Ethical, legal, cultural and environmental impacts of digital technology",
+            "J277/02": "2.1 Algorithms, 2.2 Programming fundamentals, 2.3 Producing robust programs, 2.4 Boolean logic, 2.5 Programming languages and Integrated Development Environments"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting content from the two main components and their respective topics. Ensure to capture the assessment structure and content mapping accurately.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:39:45.475904"
+    },
+    {
+      "subject_code": "J310",
+      "subject_name": "Design and Technology",
+      "url": "https://www.ocr.org.uk/Images/304658-specification-accredited-gcse-design-and-technology-j310.pdf",
+      "start_time": "2025-11-20T13:42:14.143108",
+      "success": true,
+      "topics_extracted": 259,
+      "levels": {
+        "0": 1,
+        "1": 2,
+        "2": 11,
+        "3": 32,
+        "4": 59,
+        "5": 109,
+        "6": 45
+      },
+      "issues": [
+        "Missing options extraction",
+        "Potential missing topics"
+      ],
+      "warnings": [
+        "Check for missing content in level 0",
+        "Verify logical organization at deeper levels"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [
+            "Principles of Design and Technology",
+            "Iterative Design Challenge"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Principles of Design and Technology",
+            "Iterative Design Challenge"
+          ],
+          "organization": "The content is organized into components with specific focus areas.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Principles of Design and Technology"
+          ],
+          "content_mapping": {
+            "Principles of Design and Technology": "Core and in-depth knowledge of design and technology principles, mathematical skills, and scientific knowledge."
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the structure and content of the written paper component, ensuring to capture the core and in-depth principles, as well as the mathematical and scientific skills required.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:42:14.143121"
+    },
+    {
+      "subject_code": "J316",
+      "subject_name": "Drama",
+      "url": "https://www.ocr.org.uk/Images/242630-specification-accredited-gcse-drama-j316.pdf",
+      "start_time": "2025-11-20T13:42:50.498623",
+      "success": true,
+      "topics_extracted": 25,
+      "levels": {
+        "0": 1,
+        "1": 3,
+        "2": 4,
+        "3": 17
+      },
+      "issues": [
+        "Missing options extraction",
+        "Potential missing topics"
+      ],
+      "warnings": [
+        "Check for missing texts if applicable"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [
+            "Drama: Performance and response (04)"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": true,
+          "text_locations": [
+            "Content of GCSE (9–1) in Drama",
+            "Texts in GCSE (9–1) Drama"
+          ],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Devising drama",
+            "Presenting and performing texts",
+            "Drama: Performance and response"
+          ],
+          "organization": "Components are organized by their focus on different aspects of drama performance and response.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Drama: Performance and response (04)"
+          ],
+          "content_mapping": {
+            "Drama: Performance and response (04)": "Exploration of a performance text and evaluation of a live theatre performance."
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting details related to the Drama: Performance and response component, including prescribed texts and assessment criteria.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:42:50.498638"
+    },
+    {
+      "subject_code": "J205",
+      "subject_name": "Economics",
+      "url": "https://www.ocr.org.uk/Images/306377-specification-accredited-gcse-economics-j205.pdf",
+      "start_time": "2025-11-20T13:43:15.882222",
+      "success": true,
+      "topics_extracted": 29,
+      "levels": {
+        "0": 1,
+        "1": 2,
+        "2": 4,
+        "3": 22
+      },
+      "issues": [
+        "Missing topics from Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure problems due to incorrect parent-child relationships"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Introduction to Economics",
+            "The role of markets and money",
+            "Economic objectives and the role of government",
+            "International trade and the global economy"
+          ],
+          "organization": "The content is organized into components focusing on different economic concepts and their applications.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "J205/01 - Introduction to Economics",
+            "J205/02 - National and International Economics"
+          ],
+          "content_mapping": {
+            "J205/01": "Introduction to Economics, The role of markets and money",
+            "J205/02": "Economic objectives and the role of government, International trade and the global economy"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting content related to the two main components and their subtopics, ensuring to capture the key economic concepts and their applications.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:43:15.882229"
+    },
+    {
+      "subject_code": "J351",
+      "subject_name": "English Language",
+      "url": "https://www.ocr.org.uk/Images/168996-specification-accredited-gcse-english-language-j351.pdf",
+      "start_time": "2025-11-20T13:44:16.856739",
+      "success": true,
+      "topics_extracted": 52,
+      "levels": {
+        "0": 1,
+        "1": 1,
+        "2": 2,
+        "3": 4,
+        "4": 8,
+        "5": 36
+      },
+      "issues": [
+        "Missing options extraction",
+        "Potential missing texts"
+      ],
+      "warnings": [
+        "Check for missing topics against Content Overview"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [
+            "Communicating information and ideas (component 01)",
+            "Exploring effects and impact (component 02)"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Communicating information and ideas",
+            "Exploring effects and impact",
+            "Spoken language"
+          ],
+          "organization": "The content is organized into components with sections focusing on reading and writing skills.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Communicating information and ideas (component 01)",
+            "Exploring effects and impact (component 02)"
+          ],
+          "content_mapping": {
+            "Communicating information and ideas (component 01)": "Reading and writing non-fiction texts",
+            "Exploring effects and impact (component 02)": "Reading literary prose texts and creative writing"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the structure of components and their sections, ensuring to capture the reading and writing focus of each component.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:44:16.856752"
+    },
+    {
+      "subject_code": "J352",
+      "subject_name": "English Literature",
+      "url": "https://www.ocr.org.uk/Images/168995-specification-accredited-gcse-english-literature-j352.pdf",
+      "start_time": "2025-11-20T13:45:12.692841",
+      "success": true,
+      "topics_extracted": 64,
+      "levels": {
+        "0": 3,
+        "1": 6,
+        "2": 23,
+        "3": 32
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment in level 2"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "one studied modern prose or drama text",
+            "one studied 19th century prose text",
+            "one thematic poetry cluster from the OCR Poetry Anthology",
+            "one studied Shakespeare play"
+          ],
+          "optional": [
+            "Choice of one modern prose or drama text from a list",
+            "Choice of one poetry cluster from the OCR Poetry Anthology: Love and Relationships, Conflict, and Youth and Age"
+          ]
+        },
+        "texts": {
+          "has_texts": true,
+          "text_locations": [
+            "Section 2c: Content of Exploring modern and literary heritage texts (01)",
+            "Section A: Exploring modern and literary heritage texts (01)",
+            "Section B: Exploring modern and literary heritage texts (01)"
+          ],
+          "extraction_strategy": "separate_hierarchy"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Exploring modern and literary heritage texts",
+            "Exploring poetry and Shakespeare"
+          ],
+          "organization": "The content is organized into components with specific texts and themes to be studied.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Exploring modern and literary heritage texts (01)",
+            "Exploring poetry and Shakespeare (02)"
+          ],
+          "content_mapping": {
+            "Exploring modern and literary heritage texts (01)": "one studied modern prose or drama text, one studied 19th century prose text",
+            "Exploring poetry and Shakespeare (02)": "one thematic poetry cluster from the OCR Poetry Anthology, one studied Shakespeare play"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the components and their respective texts and themes. Pay attention to the optional choices within the components.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:45:12.692854"
+    },
+    {
+      "subject_code": "J309",
+      "subject_name": "Food Preparation and Nutrition",
+      "url": "https://www.ocr.org.uk/Images/234806-specification-accredited-gcse-food-preparation-and-nutrition-j309.pdf",
+      "start_time": "2025-11-20T13:46:15.967332",
+      "success": true,
+      "topics_extracted": 119,
+      "levels": {
+        "0": 5,
+        "1": 28,
+        "2": 34,
+        "3": 45,
+        "4": 7
+      },
+      "issues": [
+        "Missing topics in level 4",
+        "Incorrect level distribution"
+      ],
+      "warnings": [
+        "Potential structure misalignment",
+        "Possible missing options"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "topic-based",
+        "content_overview": {
+          "main_sections": [
+            "Section A: Nutrition",
+            "Section B: Food (food provenance and food choice)",
+            "Section C: Cooking and food preparation",
+            "Section D: Skills requirements"
+          ],
+          "organization": "The content is organized into sections based on topics related to food preparation and nutrition.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Food Preparation and Nutrition (01)"
+          ],
+          "content_mapping": {
+            "Food Preparation and Nutrition (01)": "Covers content from all sections: Nutrition, Food provenance and choice, Cooking and food preparation, Skills requirements"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting content from the main sections and the assessment structure, ensuring to capture the topic-based organization.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:46:15.967340"
+    },
+    {
+      "subject_code": "J384",
+      "subject_name": "Geography B (Geography for Enquiring Minds)",
+      "url": "https://www.ocr.org.uk/Images/737448-specification-accredited-gcse-geography-b-j384.pdf",
+      "start_time": "2025-11-20T13:47:26.793686",
+      "success": true,
+      "topics_extracted": 76,
+      "levels": {
+        "0": 1,
+        "1": 3,
+        "2": 9,
+        "3": 18,
+        "4": 45
+      },
+      "issues": [
+        "Missing options extraction",
+        "Tiers not handled correctly"
+      ],
+      "warnings": [
+        "Potential missing topics",
+        "Possible structure misalignment"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [
+            "Our Natural World (01)",
+            "People and Society (02)",
+            "Geographical Exploration (03)"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Our Natural World",
+            "People and Society",
+            "Geographical Exploration"
+          ],
+          "organization": "The content is organized into components with topics and sub-questions.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Our Natural World (01)",
+            "People and Society (02)",
+            "Geographical Exploration (03)"
+          ],
+          "content_mapping": {
+            "Our Natural World (01)": "Global Hazards, Changing Climate, Distinctive Landscapes, Sustaining Ecosystems, Fieldwork, Geographical Skills",
+            "People and Society (02)": "Urban Futures, Dynamic Development, UK in the 21st Century, Resource Reliance, Fieldwork, Geographical Skills",
+            "Geographical Exploration (03)": "Geographical Skills, Decision Making Exercise"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the main components and their associated topics and sub-questions. Ensure to capture the assessment structure and content mapping for each written paper.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:47:26.793699"
+    },
+    {
+      "subject_code": "J410",
+      "subject_name": "History A (Explaining the Modern World)",
+      "url": "https://www.ocr.org.uk/Images/207163-specification-accredited-gcse-history-a-first-teaching-2019-with-first-assessment-2021-j410.pdf",
+      "start_time": "2025-11-20T13:49:32.776132",
+      "success": true,
+      "topics_extracted": 150,
+      "levels": {
+        "0": 1,
+        "1": 3,
+        "2": 12,
+        "3": 36,
+        "4": 96,
+        "5": 2
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment in level 5"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [],
+          "optional": [
+            "Component Group 1 (01–07): Period study and non-British depth study",
+            "Component Group 2 (08–10): British Thematic study",
+            "Component Group 3 (11–13): British depth study and a study of the historic environment"
+          ]
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Period study and non-British depth study",
+            "British Thematic study",
+            "British depth study and a study of the historic environment"
+          ],
+          "organization": "Component groups with linked studies",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Period study and non-British depth study (01–07)",
+            "British Thematic study (08–10)",
+            "British depth study and a study of the historic environment (11–13)"
+          ],
+          "content_mapping": {
+            "Period study and non-British depth study (01–07)": "International Relations: the changing international order 1918–c.1975 and any one of the five non-British depth studies",
+            "British Thematic study (08–10)": "One of the three British thematic studies available",
+            "British depth study and a study of the historic environment (11–13)": "One of the three British depth studies and studies of the historic environment available"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting component groups and their linked studies, ensuring to capture the optional nature of the components.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:49:32.776141"
+    },
+    {
+      "subject_code": "J411",
+      "subject_name": "History B (Schools History Project)",
+      "url": "https://www.ocr.org.uk/Images/207164-specification-accredited-gcse-history-b-.pdf",
+      "start_time": "2025-11-20T13:51:01.190012",
+      "success": true,
+      "topics_extracted": 144,
+      "levels": {
+        "0": 5,
+        "1": 30,
+        "2": 35,
+        "3": 74
+      },
+      "issues": [
+        "Missing topics in level 0",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure misalignment in level 3"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [],
+          "optional": [
+            "The People’s Health, c.1250 to present",
+            "Crime and Punishment, c.1250 to present",
+            "Migrants to Britain, c.1250 to present",
+            "The Norman Conquest, 1065–1087",
+            "The Elizabethans, 1580–1603",
+            "Britain in Peace and War, 1900–1918",
+            "History Around Us",
+            "Viking Expansion, c.750–c.1050",
+            "The Mughal Empire, 1526–1707",
+            "The Making of America, 1789–1900",
+            "The First Crusade, c.1070–1100",
+            "Aztecs and the Spanish Conquest, 1519–1535",
+            "Living under Nazi Rule, 1933–1945"
+          ]
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Component Group 1 – British History",
+            "Component Group 2 – History Around Us",
+            "Component Group 3 – World History"
+          ],
+          "organization": "The content is organized into three component groups, each with optional studies.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Thematic Study and British Depth Study",
+            "History Around Us",
+            "Period Study and World Depth Study"
+          ],
+          "content_mapping": {
+            "Thematic Study and British Depth Study": "Component Group 1",
+            "History Around Us": "Component Group 2",
+            "Period Study and World Depth Study": "Component Group 3"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the structure of component groups and their respective optional studies.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:51:01.190022"
+    },
+    {
+      "subject_code": "J282",
+      "subject_name": "Latin",
+      "url": "https://www.ocr.org.uk/Images/220702-specification-accredited-gcse-latin-j282.pdf",
+      "start_time": "2025-11-20T13:52:09.171606",
+      "success": true,
+      "topics_extracted": 109,
+      "levels": {
+        "0": 6,
+        "1": 33,
+        "2": 64,
+        "3": 6
+      },
+      "issues": [
+        "Missing topics compared to Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure issues with parent-child relationships"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": true,
+          "compulsory": [
+            "Language (J282/01)"
+          ],
+          "optional": [
+            "Prose Literature A (J282/02)",
+            "Prose Literature B (J282/03)",
+            "Verse Literature A (J282/04)",
+            "Verse Literature B (J282/05)",
+            "Literature and Culture (J282/06)"
+          ]
+        },
+        "texts": {
+          "has_texts": true,
+          "text_locations": [
+            "Content of Literature components",
+            "Summary of the Latin set texts"
+          ],
+          "extraction_strategy": "separate_hierarchy"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Language",
+            "Prose and Verse Literature",
+            "Literature and Culture"
+          ],
+          "organization": "The content is organized by components, each with specific focus areas and assessment criteria.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Language (J282/01)",
+            "Prose Literature A (J282/02)",
+            "Prose Literature B (J282/03)",
+            "Verse Literature A (J282/04)",
+            "Verse Literature B (J282/05)",
+            "Literature and Culture (J282/06)"
+          ],
+          "content_mapping": {
+            "Language (J282/01)": "Latin vocabulary, accidence, syntax, translation, comprehension",
+            "Prose Literature A (J282/02)": "Set texts, literary analysis",
+            "Prose Literature B (J282/03)": "Set texts, literary analysis",
+            "Verse Literature A (J282/04)": "Set texts, literary analysis",
+            "Verse Literature B (J282/05)": "Set texts, literary analysis",
+            "Literature and Culture (J282/06)": "Roman Civilisation and Culture, prescribed sources"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting component-based content, ensuring to capture the details of each written paper and the associated texts and topics.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:52:09.171617"
+    },
+    {
+      "subject_code": "J560",
+      "subject_name": "Mathematics",
+      "success": false,
+      "error": "Could not find Content Overview section",
+      "topics_extracted": 0,
+      "levels": {},
+      "issues": [
+        "Content Overview section not found"
+      ],
+      "success_grade": 0,
+      "analysis": {
+        "content_found": false
+      }
+    },
+    {
+      "subject_code": "J536",
+      "subject_name": "Music",
+      "url": "https://www.ocr.org.uk/Images/219378-specification-accredited-gcse-music-j536.pdf",
+      "start_time": "2025-11-20T13:53:38.252735",
+      "success": true,
+      "topics_extracted": 81,
+      "levels": {
+        "0": 1,
+        "1": 2,
+        "2": 11,
+        "3": 33,
+        "4": 34
+      },
+      "issues": [
+        "Missing options extraction",
+        "Potential missing topics"
+      ],
+      "warnings": [
+        "Check for missing texts",
+        "Verify logical organization"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [
+            "Listening and appraising (05)"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Integrated portfolio",
+            "Practical component",
+            "Listening and appraising"
+          ],
+          "organization": "The content is organized into components with specific focus areas such as performance, composition, and listening.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Listening and appraising (05)"
+          ],
+          "content_mapping": {
+            "Listening and appraising (05)": "Aural recognition and context of unheard/unfamiliar music from within the Areas of Study 2, 3, 4 & 5."
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting the structure and content of the 'Listening and appraising' component, as it is the only externally examined written paper.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:53:38.252744"
+    },
+    {
+      "subject_code": "J587",
+      "subject_name": "Physical Education",
+      "url": "https://www.ocr.org.uk/Images/234822-specification-accredited-gcse-physical-education-j587.pdf",
+      "start_time": "2025-11-20T13:54:13.832536",
+      "success": true,
+      "topics_extracted": 51,
+      "levels": {
+        "0": 1,
+        "1": 2,
+        "2": 5,
+        "3": 19,
+        "4": 24
+      },
+      "issues": [
+        "Missing options extraction",
+        "Potential missing topics"
+      ],
+      "warnings": [
+        "Check for missing content in level 0"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Physical factors affecting performance",
+            "Socio-cultural issues and sports psychology"
+          ],
+          "organization": "The content is organized into components, each with specific topic areas.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "J587/01 Physical factors affecting performance",
+            "J587/02 Socio-cultural issues and sports psychology"
+          ],
+          "content_mapping": {
+            "J587/01 Physical factors affecting performance": "1.1 Applied anatomy and physiology, 1.2 Physical training",
+            "J587/02 Socio-cultural issues and sports psychology": "2.1 Socio-cultural influences, 2.2 Sports psychology, 2.3 Health, fitness and well-being"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "pe",
+        "extraction_guidance": "Focus on extracting content from the two main written components, ensuring to capture the topic areas and their descriptions.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:54:13.832543"
+    },
+    {
+      "subject_code": "J249",
+      "subject_name": "Physics A",
+      "url": "https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf",
+      "start_time": "2025-11-20T13:55:02.050538",
+      "success": true,
+      "topics_extracted": 88,
+      "levels": {
+        "0": 6,
+        "1": 22,
+        "2": 60
+      },
+      "issues": [
+        "Options not extracted",
+        "Expected depth not fully achieved"
+      ],
+      "warnings": [
+        "Potential missing topics due to incomplete extraction"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": true,
+          "foundation_content": "Content is split into eight teaching topics P1-P8 and a practical activity skills topic P9.",
+          "higher_content": "Content is split into eight teaching topics P1-P8 and a practical activity skills topic P9.",
+          "differences": [
+            "Statements shown in bold type will only be tested in the Higher Tier papers. All other statements will be assessed in both Foundation and Higher Tier papers."
+          ]
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [
+            "Topics P1-P9"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "topic-based",
+        "content_overview": {
+          "main_sections": [
+            "Topic P1: Matter",
+            "Topic P2: Forces",
+            "Topic P3: Electricity",
+            "Topic P4: Magnetism and magnetic fields",
+            "Topic P5: Waves in matter",
+            "Topic P6: Radioactivity",
+            "Topic P7: Energy",
+            "Topic P8: Global challenges",
+            "Topic P9: Practical skills"
+          ],
+          "organization": "Content is divided into topics P1-P9, each with sub-topics and specific learning outcomes.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "Paper 1: Topics P1-P4 and P9",
+            "Paper 2: Topics P5-P8 with assumed knowledge of Topics P1-P4 and P9",
+            "Paper 3: Topics P1-P4 and P9",
+            "Paper 4: Topics P5-P8 with assumed knowledge of Topics P1-P4 and P9"
+          ],
+          "content_mapping": {
+            "Paper 1": "Topics P1-P4 and P9",
+            "Paper 2": "Topics P5-P8 with assumed knowledge of Topics P1-P4 and P9",
+            "Paper 3": "Topics P1-P4 and P9",
+            "Paper 4": "Topics P5-P8 with assumed knowledge of Topics P1-P4 and P9"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting topic-based content and assessment structure, ensuring tier-specific content is identified.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T13:55:02.050550"
+    },
+    {
+      "subject_code": "J259",
+      "subject_name": "Physics B",
+      "url": "https://www.ocr.org.uk/Images/234601-specification-accredited-gcse-twenty-first-century-science-suite-physics-b-j259.pdf",
+      "start_time": "2025-11-20T14:01:44.713186",
+      "success": true,
+      "topics_extracted": 500,
+      "levels": {
+        "0": 18,
+        "1": 74,
+        "2": 378,
+        "3": 30
+      },
+      "issues": [
+        "Options not extracted",
+        "Potential missing topics due to high total count"
+      ],
+      "warnings": [
+        "Level 0 and 3 distribution seems low",
+        "Expected depth mismatch"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": true,
+          "foundation_content": "Content is split into eight teaching chapters for Foundation Tier, grades 1 to 5.",
+          "higher_content": "Content is split into eight teaching chapters for Higher Tier, grades 4 to 9.",
+          "differences": [
+            "Emboldened statements will only be assessed in Higher Tier papers."
+          ]
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [
+            "Chapter P1: Radiation and waves",
+            "Chapter P2: Sustainable energy",
+            "Chapter P3: Electric circuits",
+            "Chapter P4: Explaining motion",
+            "Chapter P5: Radioactive materials",
+            "Chapter P6: Matter – models and explanations",
+            "Chapter P7: Ideas about Science",
+            "Chapter P8: Practical Skills"
+          ],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "chapter-based",
+        "content_overview": {
+          "main_sections": [
+            "Chapter P1: Radiation and waves",
+            "Chapter P2: Sustainable energy",
+            "Chapter P3: Electric circuits",
+            "Chapter P4: Explaining motion",
+            "Chapter P5: Radioactive materials",
+            "Chapter P6: Matter – models and explanations",
+            "Chapter P7: Ideas about Science",
+            "Chapter P8: Practical Skills"
+          ],
+          "organization": "Content is divided into eight chapters, each covering different physics topics.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "J259/01",
+            "J259/02",
+            "J259/03",
+            "J259/04"
+          ],
+          "content_mapping": {
+            "J259/01": "Breadth in physics for Foundation Tier",
+            "J259/02": "Depth in physics for Foundation Tier",
+            "J259/03": "Breadth in physics for Higher Tier",
+            "J259/04": "Depth in physics for Higher Tier"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting chapter-based content and assessment structure, ensuring differentiation between Foundation and Higher Tiers.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T14:01:44.713197"
+    },
+    {
+      "subject_code": "J203",
+      "subject_name": "Psychology",
+      "url": "https://www.ocr.org.uk/Images/309306-specification-accredited-gcse-psychology-j203.pdf",
+      "start_time": "2025-11-20T14:34:40.258111",
+      "success": true,
+      "topics_extracted": 272,
+      "levels": {
+        "0": 1,
+        "1": 3,
+        "2": 9,
+        "3": 34,
+        "4": 98,
+        "5": 91,
+        "6": 27,
+        "7": 9
+      },
+      "issues": [
+        "Missing topics from Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure problems due to unexpected depth"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "Criminal Psychology",
+            "Development",
+            "Psychological Problems",
+            "Social Influence",
+            "Memory",
+            "Sleep and Dreaming",
+            "Research Methods"
+          ],
+          "organization": "Each component consists of three topics with research methods included in both.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Studies and applications in psychology 1 (01)",
+            "Studies and applications in psychology 2 (02)"
+          ],
+          "content_mapping": {
+            "Studies and applications in psychology 1 (01)": "Criminal Psychology, Development, Psychological Problems, Research Methods",
+            "Studies and applications in psychology 2 (02)": "Social Influence, Memory, Sleep and Dreaming, Research Methods"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting content related to the main sections and their subtopics, ensuring to capture the research methods content that is embedded within each component.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T14:34:40.258453"
+    },
+    {
+      "subject_code": "J625",
+      "subject_name": "Religious Studies",
+      "success": false,
+      "error": "PDF download failed",
+      "topics_extracted": 0,
+      "levels": {},
+      "issues": [
+        "PDF download failed"
+      ],
+      "success_grade": 0
+    },
+    {
+      "subject_code": "J125",
+      "subject_name": "Religious Studies Short Course",
+      "success": false,
+      "error": "PDF download failed",
+      "topics_extracted": 0,
+      "levels": {},
+      "issues": [
+        "PDF download failed"
+      ],
+      "success_grade": 0
+    },
+    {
+      "subject_code": "J250",
+      "subject_name": "Science A, Combined",
+      "url": "https://www.ocr.org.uk/Images/234596-specification-accredited-gcse-gateway-science-suite-combined-science-a-j250.pdf",
+      "start_time": "2025-11-20T14:41:57.174942",
+      "success": true,
+      "topics_extracted": 608,
+      "levels": {
+        "0": 2,
+        "1": 36,
+        "2": 82,
+        "3": 488
+      },
+      "issues": [
+        "Options not extracted",
+        "Potential missing topics based on expected depth"
+      ],
+      "warnings": [
+        "High number of topics at level 3 may indicate incorrect depth"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": true,
+          "foundation_content": "Foundation Tier, grades 5–5 to 1–1",
+          "higher_content": "Higher Tier, grades 9–9 to 4–4",
+          "differences": [
+            "Foundation Tier covers Papers 1-6",
+            "Higher Tier covers Papers 7-12",
+            "Content is similar but assessed at different levels"
+          ]
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "chapter-based",
+        "content_overview": {
+          "main_sections": [
+            "Biology Topics B1-B6",
+            "Chemistry Topics C1-C6",
+            "Physics Topics P1-P6",
+            "Practical Skills CS7"
+          ],
+          "organization": "Content is organized by subject (Biology, Chemistry, Physics) and further divided into topics.",
+          "expected_depth": 4
+        },
+        "assessment": {
+          "written_papers": [
+            "Paper 1 (Biology)",
+            "Paper 2 (Biology)",
+            "Paper 3 (Chemistry)",
+            "Paper 4 (Chemistry)",
+            "Paper 5 (Physics)",
+            "Paper 6 (Physics)",
+            "Paper 7 (Biology)",
+            "Paper 8 (Biology)",
+            "Paper 9 (Chemistry)",
+            "Paper 10 (Chemistry)",
+            "Paper 11 (Physics)",
+            "Paper 12 (Physics)"
+          ],
+          "content_mapping": {
+            "Paper 1": "Biology Topics B1-B4, Practical skills",
+            "Paper 2": "Biology Topics B5-B6, Practical skills",
+            "Paper 3": "Chemistry Topics C1-C4, Practical skills",
+            "Paper 4": "Chemistry Topics C5-C6, Practical skills",
+            "Paper 5": "Physics Topics P1-P4, Practical skills",
+            "Paper 6": "Physics Topics P5-P6, Practical skills",
+            "Paper 7": "Biology Topics B1-B4, Practical skills",
+            "Paper 8": "Biology Topics B5-B6, Practical skills",
+            "Paper 9": "Chemistry Topics C1-C4, Practical skills",
+            "Paper 10": "Chemistry Topics C5-C6, Practical skills",
+            "Paper 11": "Physics Topics P1-P4, Practical skills",
+            "Paper 12": "Physics Topics P5-P6, Practical skills"
+          },
+          "cross_component": true
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting content by subject and topic, ensuring to capture tier differences and practical skills integration.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-20T14:41:57.175588"
+    }
+  ]
+}

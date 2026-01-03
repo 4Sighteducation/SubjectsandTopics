@@ -1,0 +1,50 @@
+{
+  "subject_name": "Sociology",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/heonctwb/eduqas-a-level-sociology-spec-from-2015-e-290119.pdf",
+  "start_time": "2025-11-23T23:48:49.432807",
+  "success": true,
+  "topics_extracted": 131,
+  "levels": {
+    "0": 3,
+    "1": 13,
+    "2": 55,
+    "3": 60
+  },
+  "issues": [],
+  "warnings": [
+    "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": true,
+    "has_appendices": false,
+    "components": [
+      {
+        "number": "1",
+        "name": "18% 14% 8%"
+      },
+      {
+        "number": "2",
+        "name": "9% 7% 4%"
+      },
+      {
+        "number": "3",
+        "name": "18% 14% 8%"
+      }
+    ],
+    "tiers": [],
+    "options": [
+      " families and households",
+      " education",
+      " crime and deviance"
+    ],
+    "appendices": [],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 20.17715334892273,
+  "end_time": "2025-11-23T23:49:09.609958"
+}

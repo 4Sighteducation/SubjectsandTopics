@@ -52,6 +52,18 @@ def upload_papers_to_staging(subject_code, qualification_type, papers_data, exam
         Number of paper sets uploaded
     """
     
+    # Canonicalize exam board codes (keep production consistent)
+    exam_board = (exam_board or '').strip().upper()
+    exam_board_aliases = {
+        'EDEXCEL': 'EDEXCEL',
+        'PEARSON EDEXCEL': 'EDEXCEL',
+        'PEARSON': 'EDEXCEL',
+        'EDUQAS': 'EDUQAS',
+        'WJEC EDUQAS': 'EDUQAS',
+        'WJEC (EDUQAS)': 'EDUQAS',
+    }
+    exam_board = exam_board_aliases.get(exam_board, exam_board)
+
     # Create Supabase client directly
     supabase_url = os.getenv('SUPABASE_URL')
     supabase_key = os.getenv('SUPABASE_SERVICE_KEY')
@@ -143,6 +155,11 @@ def upload_papers_to_staging(subject_code, qualification_type, papers_data, exam
     sets_to_upload = list(paper_sets.values())
     
     logger.info(f"Grouped into {len(sets_to_upload)} complete paper sets")
+
+    # Guard: if nothing to upload, do not delete existing rows or attempt an empty insert
+    if not sets_to_upload:
+        logger.warning("No complete paper sets to upload (skipping delete/insert).")
+        return 0
     
     # 3. Delete existing papers for this subject (clean slate)
     delete_result = supabase.table('staging_aqa_exam_papers')\

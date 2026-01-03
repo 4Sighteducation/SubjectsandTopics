@@ -1,0 +1,259 @@
+1 Design and Technology (J310)
+1.1 Component 01: Principles of Design and Technology
+1.1.1 Section 1: Identifying requirements
+1.1.1.1 Topic 1.1: How can exploring the context a design solution is intended for inform decisions and outcomes?
+1.1.1.1.1 Content 1.1.1.1.1: Considerations for exploring a context should include:
+1.1.1.1.1.1 Content 1.1.1.1.1.1: where and how the product or system is used
+1.1.1.1.1.2 Content 1.1.1.1.1.2: identifying primary user and wider stakeholder requirements
+1.1.1.1.1.3 Content 1.1.1.1.1.3: how the investigation of social, cultural, moral and economic factors to identify opportunities and constraints can influence the design process.
+1.1.1.2 Topic 1.2: Why is usability an important consideration when designing prototypes?
+1.1.1.2.1 Content 1.1.1.2.1: Considerations in relation to user interaction with design solutions, including:
+1.1.1.2.1.1 Content 1.1.1.2.1.1: the impact of a solution on a user’s lifestyle
+1.1.1.2.1.2 Content 1.1.1.2.1.2: the ease of use and inclusivity of design solutions
+1.1.1.2.1.3 Content 1.1.1.2.1.3: ergonomic considerations and anthropometric data to support ease of use
+1.1.1.2.1.4 Content 1.1.1.2.1.4: aesthetic considerations.
+1.1.2 Section 2: Learning from existing products and practice
+1.1.2.1 Topic 2.1: What are the opportunities and constraints that influence design and making requirements?
+1.1.2.1.1 Content 2.1.1: Exploration and critique of existing designs, systems and products to identify features and methods, considerations should include:
+1.1.2.1.1.1 Content 2.1.1.1: the materials, components and processes that have been used
+1.1.2.1.1.2 Content 2.1.1.2: the influence of fashion, trends, taste and/or style
+1.1.2.1.1.3 Content 2.1.1.3: the influence of marketing and branding
+1.1.2.1.1.4 Content 2.1.1.4: the impact on society
+1.1.2.1.1.5 Content 2.1.1.5: the impact on usability
+1.1.2.1.1.6 Content 2.1.1.6: the impact on the environment; lifecycle assessment
+1.1.2.1.1.7 Content 2.1.1.7: the work of past and present professionals and companies in the area of Design and Technology.
+1.1.2.2 Topic 2.2: How do developments in Design and Technology influence design decisions and practice?
+1.1.2.2.1 Content 2.2.1: Critical evaluation of how new and emerging technologies influence and inform design decisions, considering both contemporary and potential future scenarios from the perspectives, such as:
+1.1.2.2.1.1 Content 2.2.1.1: ethics
+1.1.2.2.1.2 Content 2.2.1.2: the environment
+1.1.2.2.1.3 Content 2.2.1.3: product enhancement.
+1.1.3 Section 3: Implications of wider issues
+1.1.3.1 Topic 3.1: What are the impacts of new and emerging technologies when developing design solutions?
+1.1.3.1.1 Content 3.1.1: Exploration of the impacts within different contexts on:
+1.1.3.1.1.1 Content 3.1.1.1: industry and enterprise, such as the circular economy
+1.1.3.1.1.2 Content 3.1.1.2: people, in relation to lifestyle, culture and society
+1.1.3.1.1.3 Content 3.1.1.3: the environment
+1.1.3.1.1.4 Content 3.1.1.4: sustainability.
+1.1.3.2 Topic 3.2: How do designers choose appropriate sources of energy to make products and power systems?
+1.1.3.2.1 Content 3.2.1: The generation of electricity and how energy is stored and transferred.
+1.1.3.2.2 Content 3.2.2: The appropriate use in products and systems of renewable and non-renewable sources including:
+1.1.3.2.2.1 Content 3.2.2.1: fossil fuels, nuclear fuel, bio-fuel
+1.1.3.2.2.2 Content 3.2.2.2: wind, hydro-electricity, tidal and solar.
+1.1.3.3 Topic 3.3: What wider implications can have an influence on the processes of designing and making?
+1.1.3.3.1 Content 3.3.1: Consideration of environmental, social and economic influences, including:
+1.1.3.3.1.1 Content 3.3.1.1: environmental initiatives
+1.1.3.3.1.2 Content 3.3.1.2: fair trade
+1.1.3.3.1.3 Content 3.3.1.3: social and ethical awareness
+1.1.3.3.1.4 Content 3.3.1.4: global sustainable development.
+1.1.4 Section 4: Design thinking and communication
+1.1.4.1 Topic 4.1: How can design solutions be communicated to demonstrate their suitability to a third party?
+1.1.4.1.1 Content 4.1.1: The use of graphical techniques to communicate ideas, modifications, constructional and technical considerations, such as:
+1.1.4.1.1.1 Content 4.1.1.1: clear 2D and 3D sketches with notes
+1.1.4.1.1.2 Content 4.1.1.2: sketch modelling
+1.1.4.1.1.3 Content 4.1.1.3: exploded drawings
+1.1.4.1.1.4 Content 4.1.1.4: mathematical modelling
+1.1.4.1.1.5 Content 4.1.1.5: flow charts.
+1.1.4.2 Topic 4.2: How do designers source information and thinking when problem solving?
+1.1.4.2.1 Content 4.2.1: Awareness of different design approaches, including:
+1.1.4.2.1.1 Content 4.2.1.1: user-centred design
+1.1.4.2.1.2 Content 4.2.1.2: systems thinking.
+1.1.4.2.2 Content 4.2.2: The importance of collaboration to gain specialist knowledge from across subject areas when delivering solutions in design and manufacturing industries.
+1.1.5 Section 5: Material considerations
+1.1.5.1 Topic 5.1: What are the main categories of materials available to designers when developing design solutions?
+1.1.5.1.1 Content 5.1.1: Understanding that products are predominantly made from multiple materials.
+1.1.5.1.2 Content 5.1.2: An overview of the main categories of materials as follows:
+1.1.5.1.2.1 Content 5.1.2.1: papers and boards, including:
+1.1.5.1.2.1.1 Content 5.1.2.1.1: papers, e.g. layout and cartridge, different weights and coatings
+1.1.5.1.2.1.2 Content 5.1.2.1.2: card, e.g. carton board, bleached card and corrugated card
+1.1.5.1.2.1.3 Content 5.1.2.1.3: boards/sheets, e.g. foam board, Styrofoam and polypropylene sheet
+1.1.5.1.2.1.4 Content 5.1.2.1.4: laminated layers, e.g. reflective surfaces.
+1.1.5.1.2.2 Content 5.1.2.2: natural and manufactured timber, including:
+1.1.5.1.2.2.1 Content 5.1.2.2.1: hardwoods, e.g. oak, birch and teak
+1.1.5.1.2.2.2 Content 5.1.2.2.2: softwood, e.g. pine, cedar and spruce
+1.1.5.1.2.2.3 Content 5.1.2.2.3: manufactured boards, e.g. MDF, plywood and block board.
+1.1.5.1.2.3 Content 5.1.2.3: ferrous and non-ferrous metals, including:
+1.1.5.1.2.3.1 Content 5.1.2.3.1: ferrous metals, e.g. iron, mild steel and stainless steel
+1.1.5.1.2.3.2 Content 5.1.2.3.2: non-ferrous metals, e.g. aluminium, copper and tin
+1.1.5.1.2.3.3 Content 5.1.2.3.3: alloys, e.g. brass, pewter and tin/lead solder.
+1.1.5.1.2.4 Content 5.1.2.4: thermo and thermosetting polymers, including:
+1.1.5.1.2.4.1 Content 5.1.2.4.1: thermo polymers, e.g. PET, HDPE, PVC, LDPE, PS, PP, ABS, acrylic and TPE
+1.1.5.1.2.4.2 Content 5.1.2.4.2: thermosetting polymers, e.g. silicone; epoxy resin and polyester resin.
+1.1.5.1.2.5 Content 5.1.2.5: textile fibres and fabrics, including:
+1.1.5.1.2.5.1 Content 5.1.2.5.1: natural fibres, e.g. cotton, wool and silk
+1.1.5.1.2.5.2 Content 5.1.2.5.2: synthetic fibres, e.g. nylon, polyester and acrylic
+1.1.5.1.2.5.3 Content 5.1.2.5.3: mixed/blended fibres, e.g. cotton/polyester
+1.1.5.1.2.5.4 Content 5.1.2.5.4: woven, non-woven and knitted fabrics.
+1.1.5.1.2.6 Content 5.1.2.6: Awareness of developments in:
+1.1.5.1.2.6.1 Content 5.1.2.6.1: modern and smart materials such as graphene, super alloys, biopolymers and nano-materials
+1.1.5.1.2.6.2 Content 5.1.2.6.2: composite materials and their purpose in relation to contrasting applications
+1.1.5.1.2.6.3 Content 5.1.2.6.3: technical textiles used in different types of products dependent on context.
+1.1.5.2 Topic 5.2: What factors are important to consider when selecting appropriate materials and/or system components when designing?
+1.1.5.2.1 Content 5.2.1: The characteristic properties of the main categories of materials (5.1 a–e, not the specific materials) and why this makes them appropriate for different uses, such as:
+1.1.5.2.1.1 Content 5.2.1.1: density, strength, hardness, durability, strength to weight ratio, stiffness, elasticity, impact resistance, plasticity, corrosive resistance to chemicals and weather, flammability, absorbency, thermal and electrical conductivity.
+1.1.5.2.2 Content 5.2.2: The physical and working properties of specific materials and/or system components, with consideration of:
+1.1.5.2.2.1 Content 5.2.2.1: how easy they are to work with
+1.1.5.2.2.2 Content 5.2.2.2: how well they fulfil the required functions of products in different contexts.
+1.1.5.2.3 Content 5.2.3: Other factors that influence the selection of materials and/or components, including;
+1.1.5.2.3.1 Content 5.2.3.1: required functionality of the design solution
+1.1.5.2.3.2 Content 5.2.3.2: aesthetic attributes
+1.1.5.2.3.3 Content 5.2.3.3: environmental considerations
+1.1.5.2.3.4 Content 5.2.3.4: availability and cost of stock forms
+1.1.5.2.3.5 Content 5.2.3.5: social, cultural and ethical considerations
+1.1.5.3 Topic 5.3: Why is it important to understand the sources or origins of materials and/or system components?
+1.1.5.3.1 Content 5.3.1: The sources and origins of specific materials and/or system components.
+1.1.5.3.2 Content 5.3.2: An overview of the processes used to extract and/or convert the source material into a workable form.
+1.1.5.3.3 Content 5.3.3: Consideration of the ecological, social and ethical issues associated with processing specific materials and/or system components to convert them into workable forms, such as:
+1.1.5.3.3.1 Content 5.3.3.1: mining, harvesting, manufacturing, transporting.
+1.1.5.3.4 Content 5.3.4: The lifecycle of specific materials and/or system components when used in products.
+1.1.5.3.5 Content 5.3.5: Consideration of recycling, reuse and disposal of specific materials and/or system components, such as:
+1.1.5.3.5.1 Content 5.3.5.1: recycling and sustainability schemes
+1.1.5.3.5.2 Content 5.3.5.2: eco-materials
+1.1.5.3.5.3 Content 5.3.5.3: upcycling.
+1.1.5.4 Topic 5.4: Why is it important to know the different available forms of specific materials and/or systems components?
+1.1.5.4.1 Content 5.4.1: Awareness of commonly available forms and standard units of measurement of specific materials and/or system components when calculating costs and quantities, including:
+1.1.5.4.1.1 Content 5.4.1.1: weights and sizes
+1.1.5.4.1.2 Content 5.4.1.2: stock forms, such as:
+1.1.5.4.1.2.1 Content 5.4.1.2.1: lengths, sheets, pellets, reels, rolls, rods.
+1.1.5.4.1.3 Content 5.4.1.3: standard components, such as:
+1.1.5.4.1.3.1 Content 5.4.1.3.1: paper and boards, e.g. clips, fasteners, bindings
+1.1.5.4.1.3.2 Content 5.4.1.3.2: timber, e.g. hinges, brackets, screws
+1.1.5.4.1.3.3 Content 5.4.1.3.3: metals, e.g. bolts, rivets, hinges
+1.1.5.4.1.3.4 Content 5.4.1.3.4: polymers, e.g. caps, fasteners, bolts
+1.1.5.4.1.3.5 Content 5.4.1.3.5: fibres and fabrics, e.g. zips, buttons, poppers
+1.1.5.4.1.3.6 Content 5.4.1.3.6: system components, e.g. resistors, capacitors, diodes, transistors and drivers, microcontrollers
+1.1.5.4.1.3.7 Content 5.4.1.3.7: mechanical components, e.g. gears and cams, pulleys and belts, levers and linkages.
+1.1.6 Section 6: Technical understanding
+1.1.6.1 Topic 6.1: What gives a product structural integrity?
+1.1.6.1.1 Content 6.1.1: How and why specific materials and/or system components need to be reinforced or stiffened to withstand forces and stresses.
+1.1.6.1.2 Content 6.1.2: Awareness of the processes that can be used to ensure the structural integrity of a product, such as:
+1.1.6.1.2.1 Content 6.1.2.1: triangulation
+1.1.6.1.2.2 Content 6.1.2.2: use of boning, darts and layering in textile products
+1.1.6.1.2.3 Content 6.1.2.3: plastic webbing
+1.1.6.1.2.4 Content 6.1.2.4: reinforcing.
+1.1.6.2 Topic 6.2: How can materials and products be finished for different purposes?
+1.1.6.2.1 Content 6.2.1: The processes used for finishing and adding surface treatments to materials and products for specific purposes, including:
+1.1.6.2.1.1 Content 6.2.1.1: function, such as: durability and added resistance to overcome environmental factors
+1.1.6.2.1.2 Content 6.2.1.2: aesthetics.
+1.1.6.3 Topic 6.3: How do we introduce controlled movement to products and systems?
+1.1.6.3.1 Content 6.3.1: An overview of different sorts of movement and types of motion, including:
+1.1.6.3.1.1 Content 6.3.1.1: rotary
+1.1.6.3.1.2 Content 6.3.1.2: linear
+1.1.6.3.1.3 Content 6.3.1.3: oscillating
+1.1.6.3.1.4 Content 6.3.1.4: reciprocating.
+1.1.6.3.2 Content 6.3.2: The effect of forces on the ease of movement, including:
+1.1.6.3.2.1 Content 6.3.2.1: load
+1.1.6.3.2.2 Content 6.3.2.2: effort
+1.1.6.3.2.3 Content 6.3.2.3: fulcrum.
+1.1.6.3.3 Content 6.3.3: How different mechanical devices are used to change the magnitude and direction of motion or forces, including consideration of:
+1.1.6.3.3.1 Content 6.3.3.1: cams
+1.1.6.3.3.2 Content 6.3.3.2: gears
+1.1.6.3.3.3 Content 6.3.3.3: pulleys and belts
+1.1.6.3.3.4 Content 6.3.3.4: levers and linkages.
+1.1.6.4 Topic 6.4: How do electronic systems provide functionality to products and processes?
+1.1.6.4.1 Content 6.4.1: How sensors and control devices respond to a variety of inputs, including:
+1.1.6.4.1.1 Content 6.4.1.1: sensors including light dependent resistors (LDR), infra-red sensors
+1.1.6.4.1.2 Content 6.4.1.2: switches including tilt switches, push-to-make switches and time-delay switches.
+1.1.6.4.2 Content 6.4.2: How devices are used to produce a range of outputs, including:
+1.1.6.4.2.1 Content 6.4.2.1: light-emitting diodes (LED) to produce light
+1.1.6.4.2.2 Content 6.4.2.2: speakers and buzzers to produce sound
+1.1.6.4.2.3 Content 6.4.2.3: motors to produce motion.
+1.1.6.4.3 Content 6.4.3: The use of programmable components such as microcontrollers, to embed functionality into products in order to enhance and customise their operation.
+1.1.7 Section 7: Manufacturing processes and techniques
+1.1.7.1 Topic 7.1: How can materials and processes be used to make iterative models?
+1.1.7.1.1 Content 7.1.1: The processes and techniques used to produce early models and/or toiles to support iterative designing.
+1.1.7.2 Topic 7.2: How can materials be manipulated and joined in different ways in a workshop environment when making final prototypes?
+1.1.7.2.1 Content 7.2.1: The use of specialist techniques, hand tools and equipment used to shape, fabricate, construct and assemble high quality prototypes, with exemplification of the following processes:
+1.1.7.2.1.1 Content 7.2.1.1: wastage, such as:
+1.1.7.2.1.1.1 Content 7.2.1.1.1: paper and boards, e.g. cutting and punching
+1.1.7.2.1.1.2 Content 7.2.1.1.2: timber, e.g. sawing, drilling and turning
+1.1.7.2.1.1.3 Content 7.2.1.1.3: metals, e.g. sawing, drilling, sheering and turning
+1.1.7.2.1.1.4 Content 7.2.1.1.4: polymers, e.g. sawing and drilling
+1.1.7.2.1.1.5 Content 7.2.1.1.5: fibres and fabrics, e.g. cutting and shearing
+1.1.7.2.1.1.6 Content 7.2.1.1.6: design engineering, e.g. etching*.
+1.1.7.2.1.2 Content 7.2.1.2: addition, such as:
+1.1.7.2.1.2.1 Content 7.2.1.2.1: paper and boards, e.g. adhesion and laminating
+1.1.7.2.1.2.2 Content 7.2.1.2.2: timber, e.g. adhesion, joining and laminating
+1.1.7.2.1.2.3 Content 7.2.1.2.3: metals, e.g. adhesion, welding/brazing and riveting
+1.1.7.2.1.2.4 Content 7.2.1.2.4: polymers, e.g. adhesion and heat welding
+1.1.7.2.1.2.5 Content 7.2.1.2.5: fibres and fabrics, e.g. sewing, bonding and laminating
+1.1.7.2.1.2.6 Content 7.2.1.2.6: design engineering, e.g. soldering*.
+1.1.7.2.1.3 Content 7.2.1.3: deforming and reforming, such as:
+1.1.7.2.1.3.1 Content 7.2.1.3.1: paper and boards, e.g. perforating and folding
+1.1.7.2.1.3.2 Content 7.2.1.3.2: timber, e.g. steaming and pressing
+1.1.7.2.1.3.3 Content 7.2.1.3.3: metals, e.g. pressing, bending and casting
+1.1.7.2.1.3.4 Content 7.2.1.3.4: polymers, e.g. moulding, vacuum forming and line bending
+1.1.7.2.1.3.5 Content 7.2.1.3.5: fibres and fabrics, e.g. heat treatments, pleating and gathering
+1.1.7.2.1.3.6 Content 7.2.1.3.6: design engineering, e.g. moulding*.
+1.1.7.3 Topic 7.3: How do designers and manufacturers ensure accuracy when making prototypes and products?
+1.1.7.3.1 Content 7.3.1: The use of appropriate and accurate marking out methods, including:
+1.1.7.3.1.1 Content 7.3.1.1: measuring and use of reference points, lines and surfaces
+1.1.7.3.1.2 Content 7.3.1.2: templates, jigs and/or patterns
+1.1.7.3.1.3 Content 7.3.1.3: working within tolerances
+1.1.7.3.1.4 Content 7.3.1.4: understanding efficient cutting and how to minimise waste.
+1.1.7.4 Topic 7.4: How do industry professionals use digital design tools when exploring and developing design ideas?
+1.1.7.4.1 Content 7.4.1: The use of 2D and 3D digital technology and tools are used to present, model, design and manufacture solutions, such as:
+1.1.7.4.1.1 Content 7.4.1.1: rapid prototyping
+1.1.7.4.1.2 Content 7.4.1.2: image creation and manipulation software
+1.1.7.4.1.3 Content 7.4.1.3: digital manufacture
+1.1.7.4.1.4 Content 7.4.1.4: interpretation of plans, elevations of 3D models
+1.1.7.4.1.5 Content 7.4.1.5: CAD, CAM, CAE.
+1.1.7.5 Topic 7.5: How do processes vary when manufacturing products to different scales of production?
+1.1.7.5.1 Content 7.5.1: The methods used for manufacturing at different scales of production, including:
+1.1.7.5.1.1 Content 7.5.1.1: one-off, bespoke production
+1.1.7.5.1.2 Content 7.5.1.2: batch production
+1.1.7.5.1.3 Content 7.5.1.3: mass production
+1.1.7.5.1.4 Content 7.5.1.4: lean manufacturing and just-in-time (JIT) methods.
+1.1.7.5.2 Content 7.5.2: Awareness of manufacturing processes used for larger scales of production, such as:
+1.1.7.5.2.1 Content 7.5.2.1: paper and boards, e.g. offset lithography, screen process printing, digital printing, vinyl cutting, die cutting
+1.1.7.5.2.2 Content 7.5.2.2: timber, e.g. CNC routers, sawing and steam bending machines and lathes
+1.1.7.5.2.3 Content 7.5.2.3: metals, e.g. CNC milling, turning, sheet metal folding, pressing and stampings, and die casting
+1.1.7.5.2.4 Content 7.5.2.4: polymers, e.g. compression moulding, injection moulding, vacuum forming, rotational moulding, extrusion and blow moulding
+1.1.7.5.2.5 Content 7.5.2.5: fibres and fabrics, e.g. band saw cutting, flatbed and rotary screen printing, digital lay planning, industrial sewing machines and overlockers, automated presses and steam dollies
+1.1.7.5.2.6 Content 7.5.2.6: design engineering, e.g. laser cutting, rapid prototyping and 3D printing.
+1.1.7.6 Topic 7.6: How do new and emerging technologies have an impact on production techniques and systems?
+1.1.7.6.1 Content 7.6.1: Critical evaluation of the benefits and implications of incorporating new and emerging technologies into production processes, such as:
+1.1.7.6.1.1 Content 7.6.1.1: consideration of economies of scale
+1.1.7.6.1.2 Content 7.6.1.2: how disruptive technologies such as 3D printing and robotics are changing manufacturing.
+1.1.8 Section 8: Viability of design solutions
+1.1.8.1 Topic 8.1: How can cost and availability of specific materials and/or system components affect their selection when designing?
+1.1.8.1.1 Content 8.1.1: The significance of the cost of specific materials and/or system components in relation to commercial viability, different stakeholder needs and marketability.
+1.1.8.1.2 Content 8.1.2: How to calculate the quantities, cost and sizes of materials and/or system components required in a design or product, being able to apply this to different applications.
+1.2 Component 02: Iterative Design Challenge
+1.2.1 Section 1: Explore (AO1)
+1.2.1.1 Topic 1.1: Identify requirements
+1.2.1.1.1 Content 1.1.1: Understand that all design and technological practice takes place within contexts that inform outcomes. Learners should be able to identify and prioritise problems and opportunities that are relevant to their chosen context. These issues should be reflected on throughout their project.
+1.2.1.1.2 Content 1.1.2: Be able to write a design brief in response to a contextual challenge that considers the stakeholders that could have an interest in the potential outcome.
+1.2.1.1.3 Content 1.1.3: Investigate the needs, wants and interests of primary users and other stakeholders to identify and understand the requirements for designing, through collecting, analysing and presenting their findings from primary and secondary data.
+1.2.1.2 Topic 1.2: Learning from existing products and practice
+1.2.1.2.1 Content 1.2.1: Investigate and analyse relevant existing products, understanding how they are used within their physical, organisational, social and/or cultural environments, using methods such as disassembly and systems thinking in order to make informed and reasoned decisions.
+1.2.1.2.2 Content 1.2.2: Investigate and analyse the wider work of professionals and companies in order to stimulate their own design thinking.
+1.2.1.3 Topic 1.3: Implications of wider issues
+1.2.1.3.1 Content 1.3.1: Investigate factors, such as environmental, social and economic challenges, in order to identify opportunities and constraints that might influence the process of iterative designing and making, such as taking into consideration the ecological and social footprint of materials.
+1.2.2 Section 2: Create (AO2)
+1.2.2.1 Topic 2.1: Design thinking and communication
+1.2.2.1.1 Content 2.1.1: Demonstrate an ability to identify and formulate appropriate requirement lists and specifications, reflecting on their own investigations and considering stakeholder needs, including:
+1.2.2.1.1.1 Content 2.1.1.1: requirements that cover stakeholder needs and wants
+1.2.2.1.1.2 Content 2.1.1.2: requirements that cover technical needs
+1.2.2.1.1.3 Content 2.1.1.3: technical specifications that outline the specific requirements needed to support the design solution being made into a final prototype.
+1.2.2.1.2 Content 2.1.2: Be able to use different design strategies and approaches such as collaboration, user-centred design and systems thinking when generating and developing innovative design ideas that avoid design fixation.
+1.2.2.1.3 Content 2.1.3: Be able to design and develop at least one prototype that responds to needs and/or wants and is fit for purpose, demonstrating functionality, aesthetics and marketability.
+1.2.2.1.4 Content 2.1.4: Apply techniques in order to communicate and record design ideas suitable to the stage of development in order to justify their own thinking and present their thinking and intentions to a third party, such as:
+1.2.2.1.4.1 Content 2.1.4.1: informal 2D and 3D sketching and modelling to communicate initial ideas
+1.2.2.1.4.2 Content 2.1.4.2: system and schematic diagrams, annotated sketches, exploded diagrams, models and written notes, to communicate development iterations
+1.2.2.1.4.3 Content 2.1.4.3: audio and visual recordings to share thinking, explorations and the functionality of ideas
+1.2.2.1.4.4 Content 2.1.4.4: formal 2D and 3D working drawings to outline specification requirements; 3D illustrations, mathematical modelling and computer-based tools to present final design solutions; schedules and flow charts to deliver planning
+1.2.2.1.4.5 Content 2.1.4.5: presentations and real-time evidence to communicate throughout the project.
+1.2.2.2 Topic 2.2: Material considerations
+1.2.2.2.1 Content 2.2.1: Develop and apply in-depth knowledge by selecting and working with appropriate materials and components when developing their ideas, early models and producing their final prototype(s).
+1.2.2.3 Topic 2.3: Technical understanding
+1.2.2.3.1 Content 2.3.1: Apply technical principles appropriately to ensure functional requirements are achieved when developing a design solution.
+1.2.2.3.2 Content 2.3.2: Be able to use surface treatments and finishes for functional and aesthetic purposes.
+1.2.2.4 Topic 2.4: Manufacturing processes and techniques
+1.2.2.4.1 Content 2.4.1: Be able to use specialist techniques and processes to shape, fabricate, construct and assemble at least one high quality prototype, including techniques such as wastage, addition, deforming and reforming, as appropriate to the materials and/or system components being used.
+1.2.2.4.2 Content 2.4.2: Be able to use specialist tools and equipment, appropriate to the materials or system components used (including hand tools, machinery, digital design and manufacture), to create models and prototypes.
+1.2.2.4.3 Content 2.4.3: Be able to use appropriate and accurate marking out methods including: measuring and use of reference points, lines and surfaces; use templates, jigs and/or patterns where appropriate; work within tolerances; understand efficient cutting and how to minimise waste.
+1.2.3 Section 3: Evaluate (AO3)
+1.2.3.1 Topic 3.1: Viability of design solutions
+1.2.3.1.1 Content 3.1.1: Be able to test, critically analyse and evaluate their design solutions against the identified stakeholder requirements, design opportunities and constraints in order to refine and improve future iterations.
+1.2.3.1.2 Content 3.1.2: Be able to make informed and reasoned decisions throughout the iterative design process, responding to feedback as appropriate to identify the potential next steps of further development.
+1.2.3.1.3 Content 3.1.3: Be able to respond to feedback given by others about their prototype(s) in order to identify the potential for further development and suggest how modifications could be made through design optimisation.

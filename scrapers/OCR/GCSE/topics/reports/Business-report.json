@@ -1,0 +1,69 @@
+{
+  "subject_name": "Business",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/qiobeu0d/eduqas-gcse-business-spec-from-2017.pdf",
+  "start_time": "2025-11-23T18:12:06.842517",
+  "success": true,
+  "topics_extracted": 426,
+  "levels": {
+    "0": 2,
+    "1": 13,
+    "2": 69,
+    "3": 183,
+    "4": 159
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "Business Dynamics"
+      },
+      {
+        "number": "2",
+        "name": "Business Considerations"
+      },
+      {
+        "number": "1",
+        "name": "Business Dynamics Component 2: Business Considerations"
+      },
+      {
+        "number": "1",
+        "name": "25% 22.5% 15% 62.5%"
+      },
+      {
+        "number": "2",
+        "name": "10% 12.5% 15% 37.5%"
+      },
+      {
+        "number": "1",
+        "name": "Business Dynamics"
+      },
+      {
+        "number": "2",
+        "name": "Business Considerations"
+      },
+      {
+        "number": "1",
+        "name": "Business Dynamics Component 2: Business Considerations"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "appendix l"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 112.27022123336792,
+  "end_time": "2025-11-23T18:13:59.112739"
+}

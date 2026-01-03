@@ -1,0 +1,101 @@
+
+=== PAGE 21 ===
+Cambridge
+OCR
+Level
+3
+Advanced
+GCE
+in
+Further
+Mathematics
+B
+(MEI)
+19
+Version
+2
+©
+Cambridge
+OCR
+2025
+2
+Core Pure (Y420)
+Contents
+Proof (a) Proof by induction is introduced for formulae for simple sequences, sums of series and powers of matrices.
+Proof (b) Proof by induction is used more generally, including to prove divisibility results
+Complex Numbers (a) Complex numbers and their basic arithmetic are introduced, including in modulus-argument form. They are used to solve polynomial
+equations with real coefficients and to define loci on the Argand diagram.
+Complex Numbers (b) De Moivre’s theorem is used to develop trigonometrical relationships. Roots of complex numbers are used to help to solve geometrical
+problems using an Argand diagram.
+Matrices and Matrix arithmetic is introduced and applied to linear transformations in 2-D, and some in 3-D. Inverses of matrices (which may be found
+transformations (a) using a calculator in the 3 × 3 case) are used to solve matrix equations and related to inverse transformations.
+Matrices and The determinant and inverse of a 3 × 3 matrix are found without a calculator.
+transformations (b)
+Vectors and 3-D space (a) Scalar products are introduced, and used to form the equation of a plane. How planes intersect in 3-D space is considered, and matrices
+are used to find the point(s) of intersection.
+Vectors and 3-D space (b) Vector equations of lines are studied; methods for finding angles and distances between points, lines and planes are developed.
+Algebra (a) Relationships between roots of and coefficients of polynomials are explored.
+Series (a) Standard formulae and the method of differences are used to calculate the sum of given series.
+Series (b) Partial fractions are used to sum series. Maclaurin series are used to approximate functions.
+Calculus (b) Integration techniques are extended to include improper integrals, volumes of revolution, mean values of functions and partial fractions.
+Inverse trigonometric functions are defined and used for integration.
+Polar Coordinates (b) Curves defined in polar coordinates are explored, including finding the area enclosed by a curve.
+Hyperbolic functions (b) Hyperbolic functions and their inverses are used in integration.
+Differential equations (b) The work in A level Mathematics is extended to include the integrating factor method for first order differential equations. The general
+2nd order linear differential equation is solved; applications include SHM, damped oscillations and paired linear 1st order differential
+equations.
+=== PAGE 22 ===
+20
+Cambridge
+OCR
+Level
+3 Advanced
+GCE
+in
+Further
+Mathematics
+B
+(MEI)
+Version
+2
+©
+Cambridge
+OCR
+2025
+2
+Specification Ref. Learning outcomes Notes Notation Exclusions
+CORE PURE: PROOF (a)
+Proof * Be able to prove mathematical results by deduction and Includes proofs of results used in this
+exhaustion, and disprove false conjectures by counter-example. specification, where appropriate.
+Induction Pp4 Be able to construct and present a proof using mathematical The result to be proved will be given. n
+u , | r2
+induction for given results for a formula for the nth term of a E.g. for the sequence given by u =0 , n r=1
+1
+sequence, the sum of a series or the nth power of a matrix.
+u =u +2 n prove that u =n2-n.
+n+1 n n
+CORE PURE: PROOF (b)
+Proof * Be able to prove mathematical results by contradiction.
+Induction Pp5 Be able to construct and present a proof using mathematical E.g. proofs of divisibility, proof of de
+induction. Moivre’s theorem. The result to be
+proved will always be given explicitly.
+CORE PURE: COMPLEX NUMBERS (a)
+Language of Pj1 Understand the language of complex numbers. Real part, imaginary part, complex z =x+y i
+complex conjugate, modulus, argument, real z *=x-y i
+numbers axis, imaginary axis. Re( z )=x ,Im( z )=y
+Complex j2 Be able to solve any quadratic equation with real coefficients. i2=–1
+numbers and
+j3 Know that the complex roots of polynomial equations with real Use of the factor theorem once a real Equations
+polynomial
+coefficients occur in conjugate pairs. Be able to solve cubic or root has been determined. with degree
+equations
+quartic equations with real coefficients. Sufficient information will be given to > 4.
+with real
+deduce at least one complex root or
+coefficients
+quadratic factor for quartics.
+Arithmetic of j4 Be able to add, subtract, multiply and divide complex numbers Division using complex conjugates.
+complex given in the form x+yi, x and y real.
+numbers
+j5 Understand that a complex number is zero if and only if both
+the real and imaginary parts are zero.

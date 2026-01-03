@@ -1,0 +1,185 @@
+1. Chemistry Paper 1
+   1.1 Principles of chemistry
+       1.1.1 States of matter
+           1.1.1.1 Understand the three states of matter in terms of the arrangement, movement and energy of the particles
+           1.1.1.2 Understand the interconversions between the three states of matter
+       1.1.2 Elements, compounds and mixtures
+           1.1.2.1 Classify a substance as an element, compound or mixture
+           1.1.2.2 Understand that a pure substance has a fixed melting and boiling point
+       1.1.3 Atomic structure
+           1.1.3.1 Know the structure of an atom in terms of the positions, relative masses and relative charges of sub-atomic particles
+           1.1.3.2 Know what is meant by the terms atomic number, mass number, isotopes and relative atomic mass (Ar)
+       1.1.4 The Periodic Table
+           1.1.4.1 Understand how elements are arranged in the Periodic Table
+           1.1.4.2 Understand how to deduce the electronic configurations of the first 20 elements
+       1.1.5 Chemical formulae, equations and calculations
+           1.1.5.1 Write word equations and balanced chemical equations
+           1.1.5.2 Calculate relative formula masses (including relative molecular masses) (Mr) from relative atomic masses (Ar)
+       1.1.6 Ionic bonding
+           1.1.6.1 Understand how ions are formed by electron loss or gain
+           1.1.6.2 Understand ionic bonding in terms of electrostatic attractions
+       1.1.7 Covalent bonding
+           1.1.7.1 Know that a covalent bond is formed between atoms by the sharing of a pair of electrons
+           1.1.7.2 Understand covalent bonds in terms of electrostatic attractions
+       1.1.8 Metallic bonding
+           1.1.8.1 Know how to represent a metallic lattice by a 2-D diagram
+           1.1.8.2 Understand metallic bonding in terms of electrostatic attractions
+       1.1.9 Electrolysis
+           1.1.9.1 Understand why covalent compounds do not conduct electricity
+           1.1.9.2 Understand why ionic compounds conduct electricity only when molten or in aqueous solution
+
+   1.2 Inorganic chemistry
+       1.2.1 Group 1 (alkali metals) – lithium, sodium and potassium
+           1.2.1.1 Understand how the similarities in the reactions of these elements with water provide evidence for their recognition as a family of elements
+           1.2.1.2 Explain the trend in reactivity in Group 1 in terms of electronic configurations
+       1.2.2 Group 7 (halogens) – chlorine, bromine and iodine
+           1.2.2.1 Know the colours, physical states (at room temperature) and trends in physical properties of these elements
+           1.2.2.2 Explain the trend in reactivity in Group 7 in terms of electronic configurations
+       1.2.3 Gases in the atmosphere
+           1.2.3.1 Know the approximate percentages by volume of the four most abundant gases in dry air
+           1.2.3.2 Understand how to determine the percentage by volume of oxygen in air using experiments
+       1.2.4 Reactivity series
+           1.2.4.1 Understand how metals can be arranged in a reactivity series based on their reactions
+           1.2.4.2 Understand the terms oxidation, reduction, redox, oxidising agent, reducing agent
+       1.2.5 Extraction and uses of metals
+           1.2.5.1 Know that most metals are extracted from ores found in the Earth’s crust
+           1.2.5.2 Explain the uses of aluminium, copper, iron and steel in terms of their properties
+       1.2.6 Acids, alkalis and titrations
+           1.2.6.1 Describe the use of litmus, phenolphthalein and methyl orange to distinguish between acidic and alkaline solutions
+           1.2.6.2 Know that acids in aqueous solution are a source of hydrogen ions and alkalis in aqueous solution are a source of hydroxide ions
+       1.2.7 Acids, bases and salt preparations
+           1.2.7.1 Know the general rules for predicting the solubility of ionic compounds in water
+           1.2.7.2 Describe an experiment to prepare a pure, dry sample of a soluble salt
+       1.2.8 Chemical tests
+           1.2.8.1 Describe tests for gases: hydrogen, oxygen, carbon dioxide, ammonia, chlorine
+           1.2.8.2 Describe how to carry out a flame test
+
+   1.3 Physical chemistry
+       1.3.1 Energetics
+           1.3.1.1 Know that chemical reactions in which heat energy is given out are described as exothermic
+           1.3.1.2 Calculate the heat energy change from a measured temperature change using the expression Q = mcΔT
+       1.3.2 Rates of reaction
+           1.3.2.1 Describe experiments to investigate the effects of changes in surface area of a solid, concentration of a solution, temperature and the use of a catalyst on the rate of a reaction
+           1.3.2.2 Explain the effects of changes in surface area of a solid, concentration of a solution, pressure of a gas and temperature on the rate of a reaction in terms of particle collision theory
+       1.3.3 Reversible reactions and equilibria
+           1.3.3.1 Know that some reactions are reversible and this is indicated by the symbol in equations
+           1.3.3.2 Know that a reversible reaction can reach dynamic equilibrium in a sealed container
+
+   1.4 Organic chemistry
+       1.4.1 Introduction
+           1.4.1.1 Know that a hydrocarbon is a compound of hydrogen and carbon only
+           1.4.1.2 Understand how to represent organic molecules using empirical formulae, molecular formulae, general formulae, structural formulae and displayed formulae
+       1.4.2 Crude oil
+           1.4.2.1 Know that crude oil is a mixture of hydrocarbons
+           1.4.2.2 Describe how the industrial process of fractional distillation separates crude oil into fractions
+       1.4.3 Alkanes
+           1.4.3.1 Know the general formula for alkanes
+           1.4.3.2 Explain why alkanes are classified as saturated hydrocarbons
+       1.4.4 Alkenes
+           1.4.4.1 Know that alkenes contain the functional group >C=C<
+           1.4.4.2 Explain why alkenes are classified as unsaturated hydrocarbons
+       1.4.5 Alcohols
+           1.4.5.1 Know that alcohols contain the functional group −OH
+           1.4.5.2 Know that ethanol can be oxidised by burning in air or oxygen
+       1.4.6 Carboxylic acids
+           1.4.6.1 Know that carboxylic acids contain the functional group
+           1.4.6.2 Describe the reactions of aqueous solutions of carboxylic acids with metals and metal carbonates
+       1.4.7 Esters
+           1.4.7.1 Know that esters contain the functional group
+           1.4.7.2 Know that ethyl ethanoate is the ester produced when ethanol and ethanoic acid react in the presence of an acid catalyst
+       1.4.8 Synthetic polymers
+           1.4.8.1 Know that an addition polymer is formed by joining up many small molecules called monomers
+           1.4.8.2 Explain problems in the disposal of addition polymers
+
+2. Chemistry Paper 2
+   2.1 Principles of chemistry (Paper 2 version)
+       2.1.1 States of matter
+           2.1.1.1 Understand the three states of matter in terms of the arrangement, movement and energy of the particles
+           2.1.1.2 Understand the interconversions between the three states of matter
+       2.1.2 Elements, compounds and mixtures
+           2.1.2.1 Classify a substance as an element, compound or mixture
+           2.1.2.2 Understand that a pure substance has a fixed melting and boiling point
+       2.1.3 Atomic structure
+           2.1.3.1 Know the structure of an atom in terms of the positions, relative masses and relative charges of sub-atomic particles
+           2.1.3.2 Know what is meant by the terms atomic number, mass number, isotopes and relative atomic mass (Ar)
+       2.1.4 The Periodic Table
+           2.1.4.1 Understand how elements are arranged in the Periodic Table
+           2.1.4.2 Understand how to deduce the electronic configurations of the first 20 elements
+       2.1.5 Chemical formulae, equations and calculations
+           2.1.5.1 Write word equations and balanced chemical equations
+           2.1.5.2 Calculate relative formula masses (including relative molecular masses) (Mr) from relative atomic masses (Ar)
+       2.1.6 Ionic bonding
+           2.1.6.1 Understand how ions are formed by electron loss or gain
+           2.1.6.2 Understand ionic bonding in terms of electrostatic attractions
+       2.1.7 Covalent bonding
+           2.1.7.1 Know that a covalent bond is formed between atoms by the sharing of a pair of electrons
+           2.1.7.2 Understand covalent bonds in terms of electrostatic attractions
+       2.1.8 Metallic bonding
+           2.1.8.1 Know how to represent a metallic lattice by a 2-D diagram
+           2.1.8.2 Understand metallic bonding in terms of electrostatic attractions
+       2.1.9 Electrolysis
+           2.1.9.1 Understand why covalent compounds do not conduct electricity
+           2.1.9.2 Understand why ionic compounds conduct electricity only when molten or in aqueous solution
+
+   2.2 Inorganic chemistry (Paper 2 version)
+       2.2.1 Group 1 (alkali metals) – lithium, sodium and potassium
+           2.2.1.1 Understand how the similarities in the reactions of these elements with water provide evidence for their recognition as a family of elements
+           2.2.1.2 Explain the trend in reactivity in Group 1 in terms of electronic configurations
+       2.2.2 Group 7 (halogens) – chlorine, bromine and iodine
+           2.2.2.1 Know the colours, physical states (at room temperature) and trends in physical properties of these elements
+           2.2.2.2 Explain the trend in reactivity in Group 7 in terms of electronic configurations
+       2.2.3 Gases in the atmosphere
+           2.2.3.1 Know the approximate percentages by volume of the four most abundant gases in dry air
+           2.2.3.2 Understand how to determine the percentage by volume of oxygen in air using experiments
+       2.2.4 Reactivity series
+           2.2.4.1 Understand how metals can be arranged in a reactivity series based on their reactions
+           2.2.4.2 Understand the terms oxidation, reduction, redox, oxidising agent, reducing agent
+       2.2.5 Extraction and uses of metals
+           2.2.5.1 Know that most metals are extracted from ores found in the Earth’s crust
+           2.2.5.2 Explain the uses of aluminium, copper, iron and steel in terms of their properties
+       2.2.6 Acids, alkalis and titrations
+           2.2.6.1 Describe the use of litmus, phenolphthalein and methyl orange to distinguish between acidic and alkaline solutions
+           2.2.6.2 Know that acids in aqueous solution are a source of hydrogen ions and alkalis in aqueous solution are a source of hydroxide ions
+       2.2.7 Acids, bases and salt preparations
+           2.2.7.1 Know the general rules for predicting the solubility of ionic compounds in water
+           2.2.7.2 Describe an experiment to prepare a pure, dry sample of a soluble salt
+       2.2.8 Chemical tests
+           2.2.8.1 Describe tests for gases: hydrogen, oxygen, carbon dioxide, ammonia, chlorine
+           2.2.8.2 Describe how to carry out a flame test
+
+   2.3 Physical chemistry (Paper 2 version)
+       2.3.1 Energetics
+           2.3.1.1 Know that chemical reactions in which heat energy is given out are described as exothermic
+           2.3.1.2 Calculate the heat energy change from a measured temperature change using the expression Q = mcΔT
+       2.3.2 Rates of reaction
+           2.3.2.1 Describe experiments to investigate the effects of changes in surface area of a solid, concentration of a solution, temperature and the use of a catalyst on the rate of a reaction
+           2.3.2.2 Explain the effects of changes in surface area of a solid, concentration of a solution, pressure of a gas and temperature on the rate of a reaction in terms of particle collision theory
+       2.3.3 Reversible reactions and equilibria
+           2.3.3.1 Know that some reactions are reversible and this is indicated by the symbol in equations
+           2.3.3.2 Know that a reversible reaction can reach dynamic equilibrium in a sealed container
+
+   2.4 Organic chemistry (Paper 2 version)
+       2.4.1 Introduction
+           2.4.1.1 Know that a hydrocarbon is a compound of hydrogen and carbon only
+           2.4.1.2 Understand how to represent organic molecules using empirical formulae, molecular formulae, general formulae, structural formulae and displayed formulae
+       2.4.2 Crude oil
+           2.4.2.1 Know that crude oil is a mixture of hydrocarbons
+           2.4.2.2 Describe how the industrial process of fractional distillation separates crude oil into fractions
+       2.4.3 Alkanes
+           2.4.3.1 Know the general formula for alkanes
+           2.4.3.2 Explain why alkanes are classified as saturated hydrocarbons
+       2.4.4 Alkenes
+           2.4.4.1 Know that alkenes contain the functional group >C=C<
+           2.4.4.2 Explain why alkenes are classified as unsaturated hydrocarbons
+       2.4.5 Alcohols
+           2.4.5.1 Know that alcohols contain the functional group −OH
+           2.4.5.2 Know that ethanol can be oxidised by burning in air or oxygen
+       2.4.6 Carboxylic acids
+           2.4.6.1 Know that carboxylic acids contain the functional group
+           2.4.6.2 Describe the reactions of aqueous solutions of carboxylic acids with metals and metal carbonates
+       2.4.7 Esters
+           2.4.7.1 Know that esters contain the functional group
+           2.4.7.2 Know that ethyl ethanoate is the ester produced when ethanol and ethanoic acid react in the presence of an acid catalyst
+       2.4.8 Synthetic polymers
+           2.4.8.1 Know that an addition polymer is formed by joining up many small molecules called monomers
+           2.4.8.2 Explain problems in the disposal of addition polymers

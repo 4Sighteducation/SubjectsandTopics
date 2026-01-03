@@ -1,0 +1,252 @@
+Topic C2: Elements, compounds and mixtures
+C2.1 Purity and separating mixtures
+Summary Common misconceptions
+In chemical terms elements and compounds are pure substances and mixtures Learners commonly misuse the word pure and confuse it with natural substances
+are impure substances. Chemically pure substances can be identified using or a substance that has not been tampered with. They think that when a
+melting point. Many useful materials that we use today are mixtures. There substance dissolves that the solution is pure and not a mixture.
+are many methods of separating mixtures including filtration, crystallisation,
+distillation and chromatographic techniques. Tiering
+Statements shown in bold type will only be tested in the Higher Tier papers.
+Underlying knowledge and understanding All other statements will be assessed in both Foundation and Higher Tier papers.
+Learners should be familiar with the concept of pure substances. They should
+have met simple separation techniques of mixtures: filtration, evaporation and
+distillation. The identification of pure substances in terms of melting point, boiling
+point and chromatography will also have been met before.
+Reference Mathematical learning outcomes Mathematical skills
+CM2.1i arithmetic computation, ratio, percentage and multistep calculations permeates quantitative chemistry M1a, M1c, M1d
+CM2.1ii provide answers to an appropriate number of significant figures M2a
+CM2.1iii change the subject of a mathematical equation M3b, M3c
+CM2.1iv arithmetic computation and ratio when determining empirical formulae, balancing equations M3b, M3c
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+15
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C2.1a explain what is meant by the purity of a WS1.4a Purification of compounds.
+substance, distinguishing between the (PAG C4, PAG C7)
+scientific and everyday use of the term ‘pure’
+C2.1b use melting point data to distinguish pure M1a, M1c, Measurement of melting point.
+from impure substances M1d, M2a
+C2.1c calculate relative formula masses of species the definition of relative atomic M3b, M3c WS1.3c,
+separately and in a balanced chemical mass, relative molecular mass and WS1.4c
+equation relative formula mass
+C2.1d deduce the empirical formula of a compound M3b, M3c WS1.1b,
+from the relative numbers of atoms present WS1.4a
+or from a model or diagram and vice versa
+C2.1e explain that many useful materials are alloys
+formulations of mixtures
+C2.1f describe, explain and exemplify the processes knowledge of the techniques of WS1.2b, Separation of mixtures and
+of filtration, crystallisation, simple distillation, filtration, crystallisation, simple WS1.2c, purification of compounds. (PAG
+and fractional distillation distillation and fractional distillation WS2a, WS2b C4, PAG C7)
+Distillation of mixtures (PAG C4)
+C2.1g describe the techniques of paper and thin using aqueous and non-aqueous WS1.2b, Paper or thin layer
+layer chromatography solvents and locating agents WS1.2c, chromatography. (PAG C3)
+WS1.4a,
+WS2a, WS2b
+C2.1h recall that chromatography involves a identification of the mobile and WS1.4a
+stationary and a mobile phase and that stationary phases
+separation depends on the distribution
+between the phases
+16
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C2.1i interpret chromatograms, including the recall and the use of the formula M3b, M3c WS1.3c,
+measuring R values WS1.4a
+f
+C2.1j suggest suitable purification techniques
+given information about the substances
+involved
+C2.1k suggest chromatographic methods for paper, thin layer (TLC) and gas WS1.4a Using chromatography to identify
+distinguishing pure from impure chromatography mixtures of dyes in an unknown
+substances ink. (PAG C3)
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+17
+Version
+3.6
+©
+OCR
+2024
+2
+C2.2 Bonding
+Summary non-metals including the chemical properties of metal and non-metal oxides with
+A simple electron energy level model can be used to explain the basic chemical respect to acidity.
+properties of elements. When chemical reactions occur, they can be explained in
+terms of losing, gaining or sharing of electrons. The ability of an atom to lose, gain Common misconceptions
+or share electrons depends on its atomic structure. Atoms that lose electrons will Learners do not always appreciate that the nucleus of an atom does not change
+bond with atoms that gain electrons. Electrons will be transferred between the when an electron is lost, gained or shared. They also find it difficult to predict
+atoms to form a positive ion and a negative ion. These ions attract one another in the numbers of atoms that must bond in order to achieve a stable outer level of
+what is known as an ionic bond. Atoms that share electrons can bond with other electrons. Learners think that chemical bonds are physical things made of matter.
+atoms that share electrons to form a molecule. Atoms in these molecules are held They also think that pairs of ions such as Na+ and Cl - are molecules. They do not
+together by covalent bonds. have an awareness of the 3D nature of bonding and therefore the shape of
+molecules.
+Underlying knowledge and understanding
+Learners should be familiar with the simple (Dalton) atomic model. They should Tiering
+be familiar with the principles underlying the Mendeleev Periodic Table and the Statements shown in bold type will only be tested in the Higher Tier papers.
+modern Periodic Table including periods and groups, and metals and non-metals. All other statements will be assessed in both Foundation and Higher Tier papers.
+Learners should have some knowledge of the properties of metals and
+Reference Mathematical learning outcomes Mathematical skills
+CM2.2i þ estimate size and scale of atoms and nanoparticles M1c
+CM2.2ii represent three-dimensional shapes in two dimensions and vice versa when looking at chemical M5b
+structures, e.g. allotropes of carbon
+CM2.2iii translate information between diagrammatic and numerical forms M4a
+18
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C2.2a describe metals and non-metals and explain the physical properties, formation of WS1.3f,
+differences between them on the basis of their ions and common reactions, e.g. WS1.4a
+characteristic physical and chemical properties with oxygen to form oxides
+C2.2b explain how the atomic structure of metals and
+non-metals relates to their position in the
+Periodic Table
+C2.2c explain how the position of an element in the group number and period number M1c WS1.4a
+Periodic Table is related to the arrangement of
+electrons in its atoms and hence to its atomic
+number
+C2.2d describe and compare the nature and M5b, M4a WS1.4a Make ball and stick models of
+arrangement of chemical bonds in: molecules.
+i. ionic compounds
+ii. simple molecules
+iii. giant covalent structures
+iv. polymers
+v. metals
+C2.2e explain chemical bonding in terms of electrostatic WS1.4a
+forces and the transfer or sharing of electrons
+C2.2f construct dot and cross diagrams for simple M4a WS1.4a
+covalent and binary ionic substances
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+19
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C2.2g describe the limitations of particular dot and cross diagrams, ball and stick M5b WS1.1c
+representations and models models and two- and three-dimensional
+representations
+C2.2h explain how the reactions of elements are WS1.1b,
+related to the arrangement of electrons in WS1.3f,
+their atoms and hence to their atomic WS1.4a
+number
+C2.2i explain in terms of atomic number how WS1.1a,
+Mendeleev’s arrangement was refined into WS1.4a
+the modern Periodic Table
+20
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+C2.3 Properties of materials
+Summary Common misconceptions
+This section explores the physical properties of elements and compounds and Learners commonly have a limited understanding of what can happen during
+how the nature of their bonding is a factor in their properties. chemical reactions, for example substances may explode, burn, contract, expand
+or change state.
+Underlying knowledge and understanding
+Learners will know the difference between an atom, element and compound. Tiering
+Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+CM2.3i represent three-dimensional shapes in two dimensions and vice versa when looking at chemical M5b
+structures, e.g. allotropes of carbon
+CM2.3ii þ relate size and scale of atoms to objects in the physical world M4a
+CM2.3iii þ estimate size and scale of atoms and nanoparticles M1d
+CM2.3iv þ interpret, order and calculate with numbers written in standard form when dealing with nanoparticles M1b
+CM2.3v þ use ratios when considering relative sizes and surface area to volume comparisons M1c
+CM2.3vi þ calculate surface areas and volumes of cubes M5c
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+21
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C2.3a recall that carbon can form four covalent bonds WS1.4a
+C2.3b explain that the vast array of natural and synthetic
+organic compounds occur due to the ability of
+carbon to form families of similar compounds,
+chains and rings
+C2.3c explain the properties of diamond, graphite, M5b WS1.4a
+fullerenes and graphene in terms of their structures
+and bonding
+C2.3d use ideas about energy transfers and the relative WS1.2a,
+strength of chemical bonds and intermolecular WS1.3f,
+forces to explain the different temperature

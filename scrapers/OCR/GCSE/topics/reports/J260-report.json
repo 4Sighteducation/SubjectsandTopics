@@ -1,0 +1,83 @@
+{
+  "subject_code": "J260",
+  "subject_name": "Science B, Combined",
+  "url": "https://www.ocr.org.uk/Images/234597-specification-accredited-gcse-twenty-first-century-science-suite-combined-science-b-j260.pdf",
+  "start_time": "2025-11-20T13:04:21.753978",
+  "success": true,
+  "topics_extracted": 324,
+  "levels": {
+    "0": 2,
+    "1": 16,
+    "2": 58,
+    "3": 248
+  },
+  "issues": [
+    "Options not extracted",
+    "Potential missing topics based on expected depth"
+  ],
+  "warnings": [
+    "Check for missing texts if applicable",
+    "Verify logical organization of topics"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": true,
+      "foundation_content": "Content is split into twenty teaching chapters for Foundation Tier, covering Biology, Chemistry, and Physics.",
+      "higher_content": "Content is split into twenty teaching chapters for Higher Tier, covering Biology, Chemistry, and Physics.",
+      "differences": [
+        "Higher Tier papers include emboldened statements that are not assessed in Foundation Tier papers."
+      ]
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "chapter-based",
+    "content_overview": {
+      "main_sections": [
+        "Biology",
+        "Chemistry",
+        "Physics",
+        "Ideas about Science",
+        "Practical Skills"
+      ],
+      "organization": "Content is organized into chapters for each science subject, with additional chapters for Ideas about Science and Practical Skills.",
+      "expected_depth": 3
+    },
+    "assessment": {
+      "written_papers": [
+        "Paper 1: B1 – B6 and BCP7 and 8",
+        "Paper 2: C1 – C6 and BCP7 and 8",
+        "Paper 3: P1 – P6 and BCP7 and 8",
+        "Paper 4: All content",
+        "Paper 5: B1 – B6 and BCP7 and 8",
+        "Paper 6: C1 – C6 and BCP7 and 8",
+        "Paper 7: P1 – P6 and BCP7 and 8",
+        "Paper 8: All content"
+      ],
+      "content_mapping": {
+        "Paper 1": "B1 – B6 and BCP7 and 8",
+        "Paper 2": "C1 – C6 and BCP7 and 8",
+        "Paper 3": "P1 – P6 and BCP7 and 8",
+        "Paper 4": "All content",
+        "Paper 5": "B1 – B6 and BCP7 and 8",
+        "Paper 6": "C1 – C6 and BCP7 and 8",
+        "Paper 7": "P1 – P6 and BCP7 and 8",
+        "Paper 8": "All content"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting chapter-based content and assessment structure, ensuring differentiation between Foundation and Higher Tiers.",
+    "content_found": true
+  },
+  "duration_seconds": 190.6959354877472,
+  "end_time": "2025-11-20T13:07:32.449916"
+}

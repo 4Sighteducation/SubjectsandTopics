@@ -1,0 +1,4 @@
+GCSE Smart Batch Scraper Report
+Duration: 0:00:37.949157
+Success: 10/15
+Total topics: 150

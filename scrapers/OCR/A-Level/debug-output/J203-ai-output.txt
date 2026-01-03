@@ -1,0 +1,272 @@
+1 Psychology (J203)
+1.1 Component 01: Studies and applications in psychology 1
+1.1.1 Criminal Psychology
+1.1.1.1 Key Concepts
+1.1.1.1.1 Different types of crime including: violent; drug related; acquisitive; sexual; and anti-social offences
+1.1.1.1.2 Criminal behaviour as a social construct including deviation from norms and the role of culture in defining criminal/anti-social behaviour
+1.1.1.1.3 How crime is measured: official statistics and self-report
+1.1.1.2 Theories/Explanations of why criminal/anti-social behaviour occurs
+1.1.1.2.1 The Social Learning Theory of Criminality
+1.1.1.2.1.1 Identification with role models
+1.1.1.2.1.2 The role of observation and imitation
+1.1.1.2.1.3 The process of vicarious reinforcement
+1.1.1.2.1.4 The role of direct reinforcement and internalisation
+1.1.1.2.1.5 Criticisms of the theory including the nature/nurture debate
+1.1.1.2.1.6 Social Learning Theory Research Study – Cooper and Mackie (1986): Study into video games and aggression in children
+1.1.1.2.2 Eysenck’s Criminal Personality Theory
+1.1.1.2.2.1 Eysenck’s Criminal Personality Theories (1964 and 1992) and the Biological Basis of Personality (1967)
+1.1.1.2.2.2 Extraversion; neuroticism; and psychoticism; in relation to criminal behaviour
+1.1.1.2.2.3 How the central nervous system relates to cognitions and behaviour, with specific reference to arousal levels and the criminal personality
+1.1.1.2.2.4 How functions of the brain relate to cognitions and behaviour with specific reference to synapses and dopaminergic neurons and how they interact in an overactive dopamine system in psychoticism
+1.1.1.2.2.5 The role of dopamine reward systems; the reticular activation system and the cerebral cortex in extroversion
+1.1.1.2.2.6 The role of the autonomic nervous and the limbic system in neuroticism
+1.1.1.2.2.7 The role of early socialisation and difficulties in conditioning children
+1.1.1.2.2.8 Criticisms of the theory including the issue of individual differences
+1.1.1.2.2.9 Criminal Personality Theory Research Study – Heaven (1996): Study into delinquency, extroversion, psychoticism and self-esteem
+1.1.1.3 Application
+1.1.1.3.1 The changing nature of punishment
+1.1.1.3.1.1 The role of rehabilitation in reducing criminal/anti-social behaviour; and increasing pro-social behaviour; including restorative justice; and the use of positive role models
+1.1.1.3.1.2 The effects of punishment and deterrents in reducing criminal/anti-social behaviour; including the use of prisons; community sentences; and fines
+1.1.2 Development
+1.1.2.1 Key Concepts
+1.1.2.1.1 Stages of development; pre-natal; childhood; adolescence; and adulthood
+1.1.2.1.2 The development of brain structures and functions; the nervous system; neurons; synapses; and their interaction in development of the brain
+1.1.2.1.3 IQ tests as a measure of intelligence
+1.1.2.2 Theories/Explanations
+1.1.2.2.1 Piaget’s Theory of Cognitive Development
+1.1.2.2.1.1 The four invariant stages of development: sensori-motor; pre-operational; concrete-operational; formal operational
+1.1.2.2.1.2 Assimilation and accommodation
+1.1.2.2.1.3 The concepts of object permanence; animism; and egocentrism
+1.1.2.2.1.4 The processes of decentration; reversibility; and conservation
+1.1.2.2.1.5 Criticisms of the theory including the reductionism/holism debate
+1.1.2.2.1.6 Cognitive Development Research Study – Piaget (1952): Study into the conservation of number
+1.1.2.2.2 The Role of Learning on Development – Dweck’s Mindset Theory
+1.1.2.2.2.1 Dweck’s ideas on fixed and growth mindsets
+1.1.2.2.2.2 Dweck’s ideas on praise for effort
+1.1.2.2.2.3 Willingham’s ideas on the myth of learning styles
+1.1.2.2.2.4 Willingham’s ideas on the importance of meaning for learning
+1.1.2.2.2.5 Criticisms of learning theories including the nature/nurture debate
+1.1.2.2.2.6 Learning Research Study – Blackwell et al. (2007): study into fixed and growth mindsets
+1.1.2.3 Application
+1.1.2.3.1 The changing role of education
+1.1.2.3.1.1 How Piaget’s ideas have been applied to education through the use of key stages, readiness, active learning and the concept of intelligence
+1.1.2.3.1.2 How learning theories apply to the development of education and intelligence through growth mindsets and teaching through meaning not learning styles
+1.1.3 Psychological Problems
+1.1.3.1 Key Concepts
+1.1.3.1.1 An introduction to mental health
+1.1.3.1.1.1 Ways of defining mental health, including the mental health continuum
+1.1.3.1.1.2 The current prevalence of mental health problems, including current statistics and differences between age; gender; and sexual orientation
+1.1.3.1.1.3 The incidence of significant mental health problems over time, including changing classification; similarities and differences; and how attitudes have changed towards mental health in the UK since the 1959 Mental Health Act
+1.1.3.1.2 The effects of significant mental health problems on the individual and society
+1.1.3.1.2.1 The effects of stigma on individuals before and after diagnosis
+1.1.3.1.2.2 The effects of discrimination on individuals before and after diagnosis
+1.1.3.1.2.3 The effects of significant mental health problems on the wider society, including care in the community
+1.1.3.2 Theories/Explanations
+1.1.3.2.1 Schizophrenia
+1.1.3.2.1.1 The clinical characteristics of schizophrenia as outlined in the International Classification of Diseases (ICD)
+1.1.3.2.1.2 Key statistics of schizophrenia including reference to prevalence; age; sex; ethnicity; and recovery rates
+1.1.3.2.1.3 Biological Explanation of Schizophrenia
+1.1.3.2.1.3.1 The dopamine hypothesis – the role of dopaminergic neurons and synaptic transmission in an overactive dopamine system causing high dopamine levels in the brain
+1.1.3.2.1.3.2 How the structure and functions of the brain relates to cognitions and behaviour; brain dysfunction in relation to brain volume and brain activity – the roles of the frontal lobes; hippocampus; and temporal lobes; and the impact of neurological damage in schizophrenia
+1.1.3.2.1.3.3 Criticisms of this theory including the nature/nurture debate
+1.1.3.2.1.4 Psychological Explanation of Schizophrenia
+1.1.3.2.1.4.1 The psychological theory - the social drift theory of schizophrenia
+1.1.3.2.1.4.1.1 Rejection by society
+1.1.3.2.1.4.1.2 Disengagement of individuals
+1.1.3.2.1.4.1.3 Criticisms of this theory including problems establishing cause and effect
+1.1.3.2.1.5 Schizophrenia Research Study – Daniel, Weinberger, Jones et al. (1991): The effect of amphetamine on regional cerebral blood flow during cognitive activation in schizophrenia
+1.1.3.2.2 Clinical Depression
+1.1.3.2.2.1 The clinical characteristics of clinical depression as outlined in the International Classification of Diseases (ICD)
+1.1.3.2.2.2 Key statistics of clinical depression including reference to prevalence; age; sex; ethnicity; and recovery rates
+1.1.3.2.2.3 Biological Explanation of Clinical Depression
+1.1.3.2.2.3.1 The biological theory – the social rank theory of clinical depression
+1.1.3.2.2.3.1.1 The evolutionary function of depression
+1.1.3.2.2.3.1.2 The role of a lower rank in reducing conflict
+1.1.3.2.2.3.1.3 Criticisms of the theory including the reductionism/holism debate
+1.1.3.2.2.4 Psychological Explanation of Clinical Depression
+1.1.3.2.2.4.1 The psychological theory - the ABC Model of clinical depression
+1.1.3.2.2.4.1.1 Rational versus irrational beliefs
+1.1.3.2.2.4.1.2 The roles of activating events, beliefs and consequences
+1.1.3.2.2.4.1.3 Criticisms of the theory including the freewill/determinism debate
+1.1.3.2.2.5 Clinical Depression Research Study – Tandoc et al. (2015): Study into Facebook use, envy, and depression among college students: Is Facebooking depressing?
+1.1.3.3 Application
+1.1.3.3.1 The development of treatments
+1.1.3.3.1.1 The use of anti-psychotics and anti-depressants to treat schizophrenia and clinical depression and how they improve mental health through changing the actions of the brain and interactions between neurons and synapses
+1.1.3.3.1.2 The use of psychotherapy for treating schizophrenia and clinical depression and how it improves mental health
+1.1.3.3.1.3 The development of neuropsychology for studying schizophrenia and clinical depression, including neuropsychological tests and brain imaging techniques
+1.2 Component 02: Studies and applications in psychology 2
+1.2.1 Social Influence
+1.2.1.1 Key Concepts
+1.2.1.1.1 Conformity including majority influence
+1.2.1.1.2 Collective and crowd behaviour including pro-social and anti-social behaviour
+1.2.1.1.3 Obedience including obeying the orders of authority figures
+1.2.1.2 Theories/Explanations
+1.2.1.2.1 Situational Factors
+1.2.1.2.1.1 The effect of situational factors (other people and social) on behaviours
+1.2.1.2.1.1.1 Majority influence on conformity
+1.2.1.2.1.1.2 Collective and crowd behaviour, including deindividuation
+1.2.1.2.1.1.3 Culture on pro-social and anti-social behaviour
+1.2.1.2.1.1.4 Authority figures on obedience
+1.2.1.2.1.1.5 Criticisms of the effect of situational factors, including the free will/determinism debate
+1.2.1.2.1.2 Situational Factors Research Study - Bickman (1974): study into obedience and the social power of a uniform
+1.2.1.2.2 Dispositional Factors
+1.2.1.2.2.1 The effect of dispositional factors (personality) on behaviours
+1.2.1.2.2.1.1 Self-esteem on conformity
+1.2.1.2.2.1.2 Locus of control in crowds
+1.2.1.2.2.1.3 Morality on pro-social and anti-social behaviour
+1.2.1.2.2.1.4 The authoritarian personality on obedience
+1.2.1.2.2.1.5 The influence of the brain in dispositional factors, including; hippocampal volume in self-esteem; and regions of the pre-frontal cortex in morality
+1.2.1.2.2.1.6 Criticisms of the effect of dispositional factors including issues of generalisability
+1.2.1.2.2.2 Dispositional Factors Research Study - NatCen (2011): study into the August riots in England with reference to anti-social collective behaviour and dispositional factors
+1.2.1.3 Application
+1.2.1.3.1 Changing attitudes
+1.2.1.3.1.1 How minority influence affects social change in relation to changing attitudes and behaviour towards, increasing awareness of, and reducing mental health stigma and discrimination
+1.2.1.3.1.2 How majority influence affects social change in relation to changing attitudes and behaviour towards, increasing awareness of, and reducing mental health stigma and discrimination
+1.2.2 Memory
+1.2.2.1 Key Concepts
+1.2.2.1.1 The stages of information processing: input; encoding; storage; retrieval; and output
+1.2.2.1.2 Types of forgetting: decay; displacement; retrieval failure (lack of cues)
+1.2.2.1.3 The structure and functions of the brain and how the brain works in the formation of memories; – how neurological damage can affect memory; the role of the hippocampus on anterograde amnesia; the frontal lobe on retrograde amnesia; and the cerebellum on procedural memory
+1.2.2.2 Theories/Explanations
+1.2.2.2.1 The Multi-store Model of Memory
+1.2.2.2.1.1 The structure and process of the Multi-store Model of memory
+1.2.2.2.1.1.1 Sensory store, short-term memory and long-term memory
+1.2.2.2.1.1.2 Differences between stores in terms of duration
+1.2.2.2.1.1.3 Differences between stores in terms of capacity
+1.2.2.2.1.1.4 Differences between stores in terms of types of encoding
+1.2.2.2.1.1.5 Criticisms of the model including rehearsal versus meaning in memory
+1.2.2.2.1.2 The Multi-store Model of Memory Research Study – Wilson, Kopelman and Kapur (2008): Prominent and persistent loss of past awareness in amnesia: delusion, impaired consciousness or coping strategy (the Clive Wearing study)
+1.2.2.2.2 The Theory of Reconstructive Memory
+1.2.2.2.2.1 The structure and process of the theory of reconstructive memory
+1.2.2.2.2.1.1 The concept of schemas
+1.2.2.2.2.1.2 The role of experience and expectation on memory
+1.2.2.2.2.1.3 The process of confabulation
+1.2.2.2.2.1.4 Distortion and the effect of leading questions
+1.2.2.2.2.1.5 Criticisms of the theory including the reductionism/holism debate
+1.2.2.2.2.2 Reconstructive Memory Research Study – Braun, Ellis and Loftus (2002): study into How Advertising Can Change Our Memories of the Past
+1.2.2.3 Application
+1.2.2.3.1 Techniques used for recall
+1.2.2.3.1.1 The use of cues, repetition and avoiding overload in advertisements and the use of autobiographical advertising
+1.2.2.3.1.2 The development of neuropsychology for measuring different memory functions, including the Wechsler Memory Scale
+1.2.3 Sleep and Dreaming
+1.2.3.1 Key Concepts
+1.2.3.1.1 The functions, features and benefits of sleep: healthy brain; physical repair; emotional stability; stages of the sleep cycle and when dreaming occurs; the role of the pineal gland and melatonin
+1.2.3.1.2 The causes of sleep disorders: sleep onset and sleep maintenance insomnia
+1.2.3.1.3 Endogenous pacemakers; and exogenous zeitgebers; and their role in sleep
+1.2.3.2 Theories/Explanations
+1.2.3.2.1 The Freudian Theory of Dreaming
+1.2.3.2.1.1 The unconscious mind
+1.2.3.2.1.2 The role of repression
+1.2.3.2.1.3 The concept of wish fulfilment
+1.2.3.2.1.4 Manifest and latent content of dreams
+1.2.3.2.1.5 Criticisms of the theory including the issue of subjectivity
+1.2.3.2.1.6 The Freudian Theory of Dreaming Research Study – Freud (1918): dream analysis study of ‘The Wolfman’
+1.2.3.2.2 The Activation Synthesis Theory of Dreaming
+1.2.3.2.2.1 The role of REM sleep
+1.2.3.2.2.2 The function and actions of the brain during sleep, including the limbic system
+1.2.3.2.2.3 Activity of neurons in the pons during sleep
+1.2.3.2.2.4 The process of synthesis as a function of the cerebral cortex
+1.2.3.2.2.5 Criticisms of the theory including the reductionism/holism debate
+1.2.3.2.2.6 The Activation Synthesis Theory of Dreaming Research Study – Williams et al. (1992): study into Bizarreness in Dreams and Fantasies: Implications for the Activation Synthesis Hypothesis
+1.2.3.3 Application
+1.2.3.3.1 Development of treatments for insomnia
+1.2.3.3.1.1 Features of insomnia, the role of the nervous system and its management through relaxation techniques and the role of the physical environment in insomnia and its treatment through improved sleep hygiene
+1.2.3.3.1.2 The impact of neurological damage to the hypothalamus on sleep
+1.3 Content of Research Methods (Components 01 and 02)
+1.3.1 Planning Research
+1.3.1.1 Hypotheses
+1.3.1.1.1 Null and alternative hypotheses
+1.3.1.1.2 Hypotheses to predict differences, correlations, or no patterns
+1.3.1.2 Variables
+1.3.1.2.1 Independent variables and how they can be manipulated
+1.3.1.2.2 Dependent variables and how they can be measured
+1.3.1.2.3 Co-variables and how they can be measured
+1.3.1.2.4 Extraneous variables and how they can be controlled, including the use of standardisation
+1.3.1.3 Experimental Designs
+1.3.1.3.1 Repeated measures design
+1.3.1.3.2 Independent measures design
+1.3.1.4 Populations and Sampling
+1.3.1.4.1 Target populations, sampling and sample size with reference to representativeness and generalisability
+1.3.1.4.2 Sampling methods; random, opportunity, self-selected
+1.3.1.4.3 Principles of sampling as applied to scientific data
+1.3.1.5 Ethical Guidelines
+1.3.1.5.1 Ethical issues
+1.3.1.5.1.1 Lack of informed consent
+1.3.1.5.1.2 Protection of participants / psychological harm
+1.3.1.5.1.3 Deception
+1.3.1.5.2 Ways of dealing with ethical issues
+1.3.1.5.2.1 Use of debriefing
+1.3.1.5.2.2 Right to withdraw
+1.3.1.5.2.3 Confidentiality
+1.3.1.5.3 The British Psychological Society’s Code of Ethics and Conduct
+1.3.2 Doing Research
+1.3.2.1 Experiments
+1.3.2.1.1 Laboratory
+1.3.2.1.2 Field
+1.3.2.1.3 Natural
+1.3.2.2 Interviews
+1.3.2.2.1 Structured
+1.3.2.2.2 Unstructured
+1.3.2.3 Questionnaires (Surveys)
+1.3.2.3.1 Open questions
+1.3.2.3.2 Closed questions
+1.3.2.3.3 Rating scales
+1.3.2.4 Observations
+1.3.2.4.1 Naturalistic
+1.3.2.4.2 Controlled
+1.3.2.4.3 Overt
+1.3.2.4.4 Covert
+1.3.2.4.5 Participant
+1.3.2.4.6 Non-participant
+1.3.2.5 Case Studies
+1.3.2.5.1 Use of qualitative data
+1.3.2.5.2 Use of small samples
+1.3.2.6 Correlations
+1.3.2.6.1 Use of quantitative data
+1.3.2.6.2 Positive, negative and zero correlations
+1.3.3 Analysing Research
+1.3.3.1 Types of Data
+1.3.3.1.1 Quantitative data
+1.3.3.1.2 Qualitative data
+1.3.3.1.3 Primary data
+1.3.3.1.4 Secondary data
+1.3.3.1.5 Strengths of each type of data
+1.3.3.2 Descriptive Statistics
+1.3.3.2.1 Measures of Central Tendency
+1.3.3.2.1.1 Mode (including modal class)
+1.3.3.2.1.2 Median
+1.3.3.2.1.3 Mean
+1.3.3.2.2 Range
+1.3.3.2.3 Ratios
+1.3.3.2.4 Percentages
+1.3.3.2.5 Fractions
+1.3.3.2.6 Expressions in decimal and standard form
+1.3.3.2.7 Decimal places and significant figures
+1.3.3.2.8 Normal distributions
+1.3.3.2.9 Estimations from data collected
+1.3.3.3 Tables, Charts and Graphs
+1.3.3.3.1 Frequency tables (tally chart)
+1.3.3.3.2 Bar charts
+1.3.3.3.3 Pie charts
+1.3.3.3.4 Histograms
+1.3.3.3.5 Line graphs
+1.3.3.3.6 Scatter diagrams
+1.3.3.4 Reliability and Validity
+1.3.3.4.1 Reliability
+1.3.3.4.1.1 Internal
+1.3.3.4.1.2 External
+1.3.3.4.1.3 Inter-rater
+1.3.3.4.2 Validity
+1.3.3.4.2.1 Ecological
+1.3.3.4.2.2 Population
+1.3.3.4.2.3 Construct
+1.3.3.4.3 Demand characteristics
+1.3.3.4.4 Observer effect
+1.3.3.4.5 Social desirability
+1.3.3.5 Sources of bias
+1.3.3.5.1 Gender bias
+1.3.3.5.2 Cultural bias
+1.3.3.5.3 Age bias
+1.3.3.5.4 Experimenter bias
+1.3.3.5.5 Observer bias
+1.3.3.5.6 Bias in questioning

@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-11-20T13:11:04.546072",
+  "total_subjects": 1,
+  "success_count": 0,
+  "fail_count": 1,
+  "success_rate": 0.0,
+  "reports": [
+    {
+      "subject_code": "J204",
+      "subject_name": "Business",
+      "url": "https://www.ocr.org.uk/qualifications/gcse/business-j204-from-2017/",
+      "start_time": "2025-11-20T13:11:04.238630",
+      "success": false,
+      "topics_extracted": 0,
+      "levels": {},
+      "issues": [],
+      "warnings": [],
+      "success_grade": 0,
+      "analysis": {},
+      "duration_seconds": 0,
+      "error": "PDF text extraction failed"
+    }
+  ]
+}

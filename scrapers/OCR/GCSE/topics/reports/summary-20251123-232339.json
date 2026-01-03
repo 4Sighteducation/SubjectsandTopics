@@ -1,0 +1,319 @@
+{
+  "timestamp": "20251123-232339",
+  "total_subjects": 4,
+  "success_count": 4,
+  "fail_count": 0,
+  "success_rate": 100.0,
+  "reports": [
+    {
+      "subject_name": "English Literature",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/x2zpzwgt/eduqas-gcse-english-lit-spec-from-2015-e.pdf",
+      "start_time": "2025-11-23T23:20:22.669792",
+      "success": true,
+      "topics_extracted": 120,
+      "levels": {
+        "0": 3,
+        "1": 6,
+        "2": 12,
+        "3": 78,
+        "4": 21
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "and"
+          },
+          {
+            "number": "1",
+            "name": "15 15 7.5 2.5 40"
+          },
+          {
+            "number": "2",
+            "name": "25 25 7.5 2.5 60"
+          },
+          {
+            "number": "1",
+            "name": "Section A (Shakespeare)"
+          },
+          {
+            "number": "1",
+            "name": "Section B"
+          },
+          {
+            "number": "2",
+            "name": "Section A (Post 1914 Prose/Drama)"
+          },
+          {
+            "number": "2",
+            "name": "Section B (19th Century Prose)"
+          },
+          {
+            "number": "2",
+            "name": "Section C (Unseen Poetry)"
+          },
+          {
+            "number": "1",
+            "name": "Section A (Shakespeare)"
+          },
+          {
+            "number": "1",
+            "name": "Section B"
+          },
+          {
+            "number": "2",
+            "name": "Section A (Post 1914 Prose/Drama)"
+          },
+          {
+            "number": "2",
+            "name": "Section B (19th Century Prose)"
+          },
+          {
+            "number": "2",
+            "name": "Section C (Unseen Poetry)"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "appendix B",
+          "prescribed texts"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 20.51758074760437,
+      "end_time": "2025-11-23T23:20:43.187374"
+    },
+    {
+      "subject_name": "Geology",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/zhun0mwl/eduqas-gcse-geology-spec.pdf",
+      "start_time": "2025-11-23T23:20:48.192034",
+      "success": true,
+      "topics_extracted": 235,
+      "levels": {
+        "0": 2,
+        "1": 5,
+        "2": 15,
+        "3": 66,
+        "4": 116,
+        "5": 31
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Geological Principles"
+          },
+          {
+            "number": "2",
+            "name": "Investigative Geology"
+          },
+          {
+            "number": "2",
+            "name": "there is a more practical approach, with the assessment"
+          },
+          {
+            "number": "1",
+            "name": "Geological Principles"
+          },
+          {
+            "number": "2",
+            "name": "Investigative Geology"
+          },
+          {
+            "number": "1",
+            "name": "24% 17% 9% 50%"
+          },
+          {
+            "number": "2",
+            "name": "16% 23% 11% 50%"
+          },
+          {
+            "number": "1",
+            "name": "Geological Principles"
+          },
+          {
+            "number": "2",
+            "name": "Investigative Geology"
+          },
+          {
+            "number": "1",
+            "name": "Geological Principles"
+          },
+          {
+            "number": "2",
+            "name": "Investigative Geology"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix B"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 58.718260288238525,
+      "end_time": "2025-11-23T23:21:46.910294"
+    },
+    {
+      "subject_name": "Mathematics",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/cosjcbs1/eduqas-gcse-maths-spec-from-2015-e.pdf",
+      "start_time": "2025-11-23T23:21:51.914579",
+      "success": true,
+      "topics_extracted": 252,
+      "levels": {
+        "0": 2,
+        "1": 2,
+        "2": 12,
+        "3": 83,
+        "4": 128,
+        "5": 25
+      },
+      "issues": [],
+      "warnings": [],
+      "success_grade": 100,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": true,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "(Non-calculator Mathematics) or Component 2 (Calculator-"
+          },
+          {
+            "number": "2",
+            "name": "at both foundation and higher"
+          }
+        ],
+        "tiers": [
+          "foundation tier",
+          "higher tier"
+        ],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 64.20767426490784,
+      "end_time": "2025-11-23T23:22:56.122249"
+    },
+    {
+      "subject_name": "Sociology",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/jk2duibm/eduqas-gcse-sociology-spec-from-2017-eng.pdf",
+      "start_time": "2025-11-23T23:23:01.133737",
+      "success": true,
+      "topics_extracted": 208,
+      "levels": {
+        "0": 2,
+        "1": 7,
+        "2": 29,
+        "3": 38,
+        "4": 132
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": false,
+        "components": [
+          {
+            "number": "1",
+            "name": "6"
+          },
+          {
+            "number": "2",
+            "name": "11"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Social Processes"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Social Structures"
+          },
+          {
+            "number": "1",
+            "name": "will be applied to an"
+          },
+          {
+            "number": "1",
+            "name": "Component 1: Understanding Social Processes"
+          },
+          {
+            "number": "2",
+            "name": "Component 2: Understanding Social Structures"
+          },
+          {
+            "number": "1",
+            "name": "will be reinforced by considering the research methods used to gather"
+          },
+          {
+            "number": "1",
+            "name": "20% 20% 10% 50%"
+          },
+          {
+            "number": "2",
+            "name": "20% 20% 10% 50%"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Social Processes"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Social Structures"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Social Processes"
+          },
+          {
+            "number": "2",
+            "name": "Understanding Social Structures"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 38.52119064331055,
+      "end_time": "2025-11-23T23:23:39.654926"
+    }
+  ]
+}

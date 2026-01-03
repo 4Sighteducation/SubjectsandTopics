@@ -87,3 +87,23 @@ These files show:
 - Whether Level dropdown is enabled/selected
 - Content of `.finder-results` div (empty = no papers found)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

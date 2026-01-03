@@ -1,0 +1,110 @@
+1.1 B6.1 Monitoring and maintaining the environment
+1.1.1 B6.1a explain how to carry out a field investigation into the distribution and abundance of organisms in a habitat and how to determine their numbers in a given area
+1.1.1.1 sampling techniques (random and transects, capture-recapture)
+1.1.1.2 use of quadrats
+1.1.1.3 pooters
+1.1.1.4 nets
+1.1.1.5 keys
+1.1.1.6 scaling up methods
+1.1.2 B6.1b describe both positive and negative human interactions within ecosystems and explain their impact on biodiversity
+1.1.2.1 the conservation of individual species and selected habitats
+1.1.2.2 threats from land use and hunting
+1.1.3 B6.1c explain some of the benefits and challenges of maintaining local and global biodiversity
+1.1.3.1 the difficulty in gaining agreements for and the monitoring of conservation schemes
+1.1.3.2 the benefits of ecotourism
+1.1.4 B6.1d evaluate the evidence for the impact of environmental changes on the distribution of organisms
+1.1.4.1 reference to water and atmospheric gases
+
+1.2 B6.2 Feeding the human race
+1.2.1 B6.2a describe some of the biological factors affecting levels of food security
+1.2.1.1 increasing human population
+1.2.1.2 changing diets in wealthier populations
+1.2.1.3 new pests and pathogens
+1.2.1.4 environmental change
+1.2.1.5 sustainability and cost of agricultural inputs
+1.2.2 B6.2b describe and explain some possible agricultural solutions to the demands of the growing human population
+1.2.2.1 increased use of hydroponics
+1.2.2.2 biological control
+1.2.2.3 gene technology
+1.2.2.4 fertilisers and pesticides
+1.2.3 B6.2c explain the impact of the selective breeding of food plants and domesticated animals
+1.2.4 B6.2d describe genetic engineering as a process which involves modifying the genome of an organism to introduce desirable characteristics
+1.2.5 B6.2e describe the main steps in the process of genetic engineering
+1.2.5.1 restriction enzymes
+1.2.5.2 sticky ends
+1.2.5.3 ligase
+1.2.5.4 host bacteria and selection using antibiotic resistance markers
+1.2.5.5 vectors e.g. plasmids
+1.2.6 B6.2f explain some of the possible benefits and risks of using gene technology in modern agriculture
+1.2.6.1 practical and ethical considerations
+1.2.7 B6.2g describe and explain some possible biotechnological solutions to the demands of the growing human population
+1.2.7.1 genetic modification
+
+1.3 B6.3 Monitoring and maintaining health
+1.3.1 B6.3a describe the relationship between health and disease
+1.3.2 B6.3b describe different types of diseases
+1.3.2.1 communicable and non-communicable diseases
+1.3.3 B6.3c describe the interactions between different types of disease
+1.3.3.1 HIV and tuberculosis
+1.3.3.2 HPV and cervical cancer
+1.3.4 B6.3d explain how communicable diseases (caused by viruses, bacteria, protists and fungi) are spread in animals and plants
+1.3.4.1 scientific quantities
+1.3.4.2 number of pathogens
+1.3.4.3 number of infected cases
+1.3.4.4 estimating number of cases
+1.3.5 B6.3e explain how the spread of communicable diseases may be reduced or prevented in animals and plants
+1.3.5.1 detection of the antigen
+1.3.5.2 DNA testing
+1.3.5.3 visual identification of the disease
+1.3.6 B6.3f describe a minimum of one common human infection, one plant disease and sexually transmitted infections in humans including HIV/AIDS
+1.3.6.1 human infections: one example of each viral, fungal, bacterial
+1.3.6.2 plant diseases: viral tobacco mosaic virus TMV, fungal Erysiphe graminis barley powdery mildew, bacterial Agrobacterium tumefaciens crown gall disease
+1.3.7 B6.3g describe physical plant defence responses to disease
+1.3.7.1 leaf cuticle
+1.3.7.2 cell wall
+1.3.8 B6.3h describe chemical plant defence responses to disease
+1.3.8.1 antimicrobial substances
+1.3.9 B6.3i describe different ways plant diseases can be detected and identified, in the lab and in the field
+1.3.9.1 the laboratory detection of the DNA or antigen from the disease causing organism
+1.3.9.2 the field diagnosis by observation and microscopy
+1.3.10 B6.3j explain how white blood cells and platelets are adapted to their defence functions in the blood
+1.3.11 B6.3k describe the non-specific defence systems of the human body against pathogens
+1.3.12 B6.3l explain the role of the immune system of the human body in defence against disease
+1.3.13 B6.3m describe how monoclonal antibodies are produced
+1.3.14 B6.3n describe some of the ways in which monoclonal antibodies can be used
+1.3.14.1 their role in detecting antigens in pregnancy testing
+1.3.14.2 detection of diseases (prostate cancer)
+1.3.14.3 potentially treating disease (targeting cancer cells)
+1.3.15 B6.3o explain the use of vaccines and medicines in the prevention and treatment of disease
+1.3.15.1 antibiotics
+1.3.15.2 antivirals
+1.3.15.3 antiseptics
+1.3.16 B6.3p explain the aseptic techniques used in culturing organisms
+1.3.16.1 use of alcohol
+1.3.16.2 flaming
+1.3.16.3 autoclaving of glassware and growth media
+1.3.16.4 measures used to stop contaminants falling onto/into the growth media (e.g. working around a Bunsen burner)
+1.3.17 B6.3q describe the processes of discovery and development of potential new medicines
+1.3.17.1 preclinical and clinical testing
+1.3.18 B6.3r recall that many non-communicable human diseases are caused by the interaction of a number of factors
+1.3.18.1 cardiovascular diseases
+1.3.18.2 many forms of cancer
+1.3.18.3 some lung (bronchitis) and liver (cirrhosis) diseases
+1.3.18.4 diseases influenced by nutrition, including type 2 diabetes
+1.3.19 B6.3s evaluate some different treatments for cardiovascular disease
+1.3.19.1 lifestyle
+1.3.19.2 medical
+1.3.19.3 surgical
+1.3.20 B6.3t analyse the effect of lifestyle factors on the incidence of non-communicable diseases at local, national and global levels
+1.3.20.1 lifestyle factors to include exercise
+1.3.20.2 diet
+1.3.20.3 alcohol
+1.3.20.4 smoking
+1.3.21 B6.3u describe cancer as the result of changes in cells that lead to uncontrolled growth and division
+1.3.22 B6.3v discuss potential benefits and risks associated with the use of stem cells in medicine
+1.3.22.1 tissue transplantation and rejection
+1.3.23 B6.3w explain some of the possible benefits and risks of using gene technology in medicine
+1.3.23.1 practical and ethical considerations
+1.3.24 B6.3x discuss the potential importance for medicine of our increasing understanding of the human genome
+1.3.24.1 the ideas of predicting the likelihood of diseases occurring
+1.3.24.2 their treatment by drugs which are targeted to genomes

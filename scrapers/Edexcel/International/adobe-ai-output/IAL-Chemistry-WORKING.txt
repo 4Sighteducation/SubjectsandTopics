@@ -1,0 +1,113 @@
+1. Unit 1: Structure, Bonding and Introduction to Organic Chemistry
+   1.1 Formulae, Equations and Amount of Substance
+       1.1.1 Know the terms: atom, element, ion, molecule, compound, empirical formula, molecular formula
+       1.1.2 Understand the mole and perform calculations using the Avogadro constant
+       1.1.3 Write balanced full and ionic equations, including state symbols
+       1.1.4 Understand relative atomic mass, relative molecular mass, and molar mass
+       1.1.5 Calculate concentration of solutions in mol dm−3 and g dm−3
+       1.1.6 Use experimental data to calculate empirical and molecular formulae
+       1.1.7 Use chemical equations to calculate reacting masses and volumes of gases
+       1.1.8 Calculate percentage yields and atom economies
+       1.1.9 Determine a formula or confirm an equation by experiment
+       1.1.10 CORE PRACTICAL 1: Measurement of the molar volume of a gas
+       1.1.11 Relate ionic and full equations to observations from simple test-tube experiments
+   1.2 Atomic Structure and the Periodic Table
+       1.2.1 Know the structure of an atom and the relative mass and charge of subatomic particles
+       1.2.2 Understand isotopes and use mass spectrometry to deduce isotopic composition
+       1.2.3 Define ionisation energies and understand factors influencing them
+       1.2.4 Describe the shapes of s and p orbitals and predict electronic configurations
+       1.2.5 Explain trends in melting and boiling temperatures and ionisation energy across periods
+   1.3 Bonding and Structure
+       1.3.1 Ionic bonding: evidence, formation, and properties
+       1.3.2 Covalent bonding: evidence, formation, and properties
+       1.3.3 Shapes of molecules using electron-pair repulsion theory
+       1.3.4 Metallic bonding: structure and properties
+   1.4 Introductory Organic Chemistry and Alkanes
+       1.4.1 Understand hazard and risk in organic chemistry
+       1.4.2 Concepts of homologous series and functional group
+       1.4.3 IUPAC nomenclature and classification of reactions
+       1.4.4 Alkanes: general formula, isomerism, and reactions
+       1.4.5 CORE PRACTICAL 2: Cracking alkanes by thermal decomposition
+   1.5 Alkenes
+       1.5.1 General formula and properties of alkenes
+       1.5.2 Geometric isomerism and E–Z naming system
+       1.5.3 Reactions of alkenes and qualitative test for C=C double bond
+       1.5.4 Electrophilic addition mechanisms
+       1.5.5 Addition polymerisation of alkenes
+
+2. Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols
+   2.1 Energetics
+       2.1.1 Enthalpy change and standard conditions
+       2.1.2 Construct and interpret enthalpy level diagrams
+       2.1.3 Use experimental data to calculate energy transferred and enthalpy change
+       2.1.4 Hess’s Law and enthalpy cycles
+       2.1.5 CORE PRACTICAL 3: Determination of the enthalpy change of a reaction using Hess’s Law
+   2.2 Intermolecular Forces
+       2.2.1 Nature of intermolecular forces: London forces, dipole interactions, hydrogen bonds
+       2.2.2 Anomalous properties of water due to hydrogen bonding
+       2.2.3 Predict presence of hydrogen bonding and physical properties of substances
+   2.3 Redox Chemistry and Groups 1, 2 and 7
+       2.3.1 Redox chemistry: oxidation numbers, electron transfer, and disproportionation
+       2.3.2 Group 1 and 2 elements: trends, reactions, and solubility
+       2.3.3 Group 7 elements: trends, reactions, and tests for halides
+       2.3.4 CORE PRACTICAL 4: Finding the concentration of a solution of hydrochloric acid
+   2.4 Introduction to Kinetics and Equilibria
+       2.4.1 Collision theory and factors affecting reaction rates
+       2.4.2 Dynamic equilibrium and Le Chatelier’s principle
+   2.5 Organic Chemistry: Halogenoalkanes, Alcohols and Spectra
+       2.5.1 Halogenoalkanes: nomenclature, reactions, and mechanisms
+       2.5.2 Alcohols: nomenclature, reactions, and oxidation
+       2.5.3 Mass spectra and IR: interpretation and functional group identification
+       2.5.4 CORE PRACTICAL 5: Investigation of the rates of hydrolysis of some halogenoalkanes
+
+3. Unit 3: Practical Skills in Chemistry I
+   3.1 Develop experimental skills and understanding of techniques
+   3.2 CORE PRACTICAL 6: Chlorination of 2-methylpropan-2-ol with concentrated hydrochloric acid
+   3.3 CORE PRACTICAL 7: The oxidation of propan-1-ol to produce propanal and propanoic acid
+   3.4 CORE PRACTICAL 8: Analysis of some inorganic and organic unknowns
+
+4. Unit 4: Rates, Equilibria and Further Organic Chemistry
+   4.1 Kinetics
+       4.1.1 Rate of reaction, rate equations, and order of reaction
+       4.1.2 Experimental techniques to obtain rate data
+       4.1.3 CORE PRACTICAL 9: Following the rate of the iodine-propanone reaction
+   4.2 Entropy and Energetics
+       4.2.1 Entropy as a measure of disorder and feasibility of reactions
+       4.2.2 Lattice energy and Born-Haber cycles
+   4.3 Chemical Equilibria
+       4.3.1 Equilibrium constants Kc and Kp
+       4.3.2 Effect of temperature, pressure, and catalysts on equilibrium
+   4.4 Acid-base Equilibria
+       4.4.1 Brønsted–Lowry acids and bases, pH, and pKa
+       4.4.2 Titration curves and buffer solutions
+       4.4.3 CORE PRACTICAL 10: Finding the Ka value for a weak acid
+   4.5 Organic Chemistry: Carbonyls, Carboxylic Acids and Chirality
+       4.5.1 Chirality and optical isomerism
+       4.5.2 Reactions of carbonyl compounds and carboxylic acids
+       4.5.3 Carboxylic acid derivatives and condensation polymerisation
+       4.5.4 Spectroscopy and chromatography
+
+5. Unit 5: Transition Metals and Organic Nitrogen Chemistry
+   5.1 Redox Equilibria
+       5.1.1 Standard electrode potentials and electrochemical cells
+       5.1.2 CORE PRACTICAL 11: Investigating some electrochemical cells
+   5.2 Transition Metals and their Chemistry
+       5.2.1 Properties and reactions of transition metals
+       5.2.2 Ligands, complex ions, and colour changes
+       5.2.3 Catalysis by transition metals
+       5.2.4 CORE PRACTICAL 12: The preparation of a transition metal complex
+   5.3 Organic Chemistry – Arenes
+       5.3.1 Structure and reactions of benzene
+       5.3.2 Electrophilic substitution mechanisms
+   5.4 Organic Nitrogen Compounds: Amines, Amides, Amino Acids and Proteins
+       5.4.1 Reactions and preparation of amines and amides
+       5.4.2 Condensation polymerisation and properties of polyamides
+       5.4.3 CORE PRACTICAL 13: Analysis of some inorganic and organic unknowns
+   5.5 Organic Synthesis
+       5.5.1 Synthesis of organic compounds and reaction schemes
+       5.5.2 CORE PRACTICAL 14: The preparation of aspirin
+
+6. Unit 6: Practical Skills in Chemistry II
+   6.1 Develop further experimental skills and understanding of techniques
+   6.2 CORE PRACTICAL 15: Carry out redox titrations
+   6.3 CORE PRACTICAL 16: The preparation of aspirin

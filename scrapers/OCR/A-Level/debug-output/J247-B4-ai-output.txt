@@ -1,0 +1,34 @@
+1.1 B4.1 Ecosystems
+1.1.1 B4.1a recall that many different materials cycle through the abiotic and biotic components of an ecosystem
+1.1.1.1 nitrogen
+1.1.1.2 carbon
+1.1.2 B4.1b explain the role of microorganisms in the cycling of materials through an ecosystem
+1.1.2.1 decomposition
+1.1.3 B4.1c explain the importance of the carbon cycle and the water cycle to living organisms
+1.1.3.1 maintaining habitats
+1.1.3.2 fresh water
+1.1.3.3 flow of nutrients
+1.1.3.4 stages of the carbon and water cycles
+1.1.4 B4.1d explain the effect of factors such as temperature, water content, and oxygen availability on rate of decomposition
+1.1.4.1 aerobic
+1.1.4.2 anaerobic
+1.1.5 B4.1e describe different levels of organisation in an ecosystem from individual organisms to the whole ecosystem
+1.1.6 B4.1f explain how abiotic and biotic factors can affect communities
+1.1.6.1 temperature
+1.1.6.2 light intensity
+1.1.6.3 moisture level
+1.1.6.4 pH of soil
+1.1.6.5 predators
+1.1.6.6 food
+1.1.7 B4.1g describe the importance of interdependence and competition in a community
+1.1.7.1 predation
+1.1.7.2 mutualism
+1.1.7.3 parasitism
+1.1.8 B4.1h describe the differences between the trophic levels of organisms within an ecosystem
+1.1.8.1 producer
+1.1.8.2 consumer
+1.1.9 B4.1i describe pyramids of biomass and explain, with examples, how biomass is lost between the different trophic levels
+1.1.9.1 loss of biomass related to egestion
+1.1.9.2 excretion
+1.1.9.3 respiration
+1.1.10 B4.1j calculate the efficiency of biomass transfers between trophic levels and explain how this affects the number of trophic levels in a food chain

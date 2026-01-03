@@ -1,0 +1,82 @@
+{
+  "subject_name": "Design and Technology",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/25tlhhbw/gcse-design-and-technology-specification.pdf",
+  "start_time": "2025-11-23T23:29:55.619353",
+  "success": true,
+  "topics_extracted": 92,
+  "levels": {
+    "0": 2,
+    "1": 3,
+    "2": 7,
+    "3": 26,
+    "4": 54
+  },
+  "issues": [],
+  "warnings": [
+    "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+    "Not all components extracted"
+  ],
+  "success_grade": 75,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "Design and Technology in the 21st Century"
+      },
+      {
+        "number": "2",
+        "name": "Design and make task"
+      },
+      {
+        "number": "1",
+        "name": "and in Component 2. Learners are responsible for"
+      },
+      {
+        "number": "1",
+        "name": "'Design and Technology in the 21st Century'."
+      },
+      {
+        "number": "1",
+        "name": "- - 10% 40% 50%"
+      },
+      {
+        "number": "2",
+        "name": "10% 30% 10% 50%"
+      },
+      {
+        "number": "1",
+        "name": "assesses"
+      },
+      {
+        "number": "2",
+        "name": "assesses learners' ability to analyse and evaluate design decisions and outcomes including"
+      },
+      {
+        "number": "1",
+        "name": "Design and Technology in the 21st Century"
+      },
+      {
+        "number": "2",
+        "name": "Design and make task"
+      },
+      {
+        "number": "1",
+        "name": "- 10% 40% 50%"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 27.691779851913452,
+  "end_time": "2025-11-23T23:30:23.311131"
+}

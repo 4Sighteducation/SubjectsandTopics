@@ -1,0 +1,112 @@
+Here's the extracted hierarchical list for Module 4: Electrons, waves and photons:
+
+1. Charge and Current
+1.1 Charge
+1.1.1 Electric current as rate of flow of charge
+1.1.2 Coulomb as unit of charge
+1.1.3 Elementary charge
+1.1.4 Net charge quantisation
+1.1.5 Current in metals and electrolytes
+1.1.6 Conventional current and electron flow
+1.1.7 Kirchhoff's first law; conservation of charge
+
+1.2 Mean Drift Velocity
+1.2.1 Mean drift velocity of charge carriers
+1.2.2 Current density equation
+1.2.3 Distinction between conductors, semiconductors, and insulators
+
+2. Energy, Power and Resistance
+2.1 Circuit Symbols
+2.1.1 Circuit symbols
+2.1.2 Circuit diagrams
+
+2.2 Electromotive Force and Potential Difference
+2.2.1 Potential difference
+2.2.2 Electromotive force
+2.2.3 Distinction between e.m.f. and potential difference
+2.2.4 Energy transfer
+2.2.5 Energy transfer for electrons
+
+2.3 Resistance
+2.3.1 Resistance definition and unit
+2.3.2 Ohm's law
+2.3.3 I-V characteristics of components
+2.3.4 Light-dependent resistor
+
+2.4 Resistivity
+2.4.1 Resistivity equation
+2.4.2 Temperature variation of resistivity
+2.4.3 Negative temperature coefficient thermistor
+
+2.5 Power
+2.5.1 Power equations
+2.5.2 Energy transfer
+2.5.3 Kilowatt-hour as energy unit
+
+3. Electrical Circuits
+3.1 Series and Parallel Circuits
+3.1.1 Kirchhoff's laws
+3.1.2 Series resistance calculation
+3.1.3 Parallel resistance calculation
+3.1.4 Circuit analysis
+3.1.5 Multi-source circuit analysis
+
+3.2 Internal Resistance
+3.2.1 Source e.m.f. and internal resistance
+3.2.2 Terminal potential difference
+3.2.3 Internal resistance equations
+
+3.3 Potential Dividers
+3.3.1 Potential divider circuits
+3.3.2 Variable component potential dividers
+3.3.3 Potential divider equations
+
+4. Waves
+4.1 Wave Motion
+4.1.1 Progressive waves
+4.1.2 Wave parameters
+4.1.3 Wave frequency and speed equations
+4.1.4 Wave graphical representations
+4.1.5 Wave effects
+4.1.6 Wave intensity
+
+4.2 Electromagnetic Waves
+4.2.1 Electromagnetic spectrum
+4.2.2 Wavelength orders of magnitude
+4.2.3 Plane polarised waves
+4.2.4 Light refraction
+4.2.5 Critical angle and total internal reflection
+
+4.3 Superposition
+4.3.1 Superposition principle
+4.3.2 Superposition graphical methods
+4.3.3 Interference concepts
+4.3.4 Two-source interference
+4.3.5 Young double-slit experiment
+4.3.6 Wavelength determination methods
+
+4.4 Stationary Waves
+4.4.1 Stationary wave characteristics
+4.4.2 Graphical representations
+4.4.3 Nodes and antinodes
+4.4.4 Stationary wave patterns
+4.4.5 Wave speed determination
+
+5. Quantum Physics
+5.1 Photons
+5.1.1 Particulate nature of electromagnetic radiation
+5.1.2 Photon energy
+5.1.3 Electronvolt unit
+5.1.4 Planck constant determination
+
+5.2 Photoelectric Effect
+5.2.1 Photoelectric effect demonstration
+5.2.2 Photon-electron interaction
+5.2.3 Einstein's photoelectric equation
+5.2.4 Work function and threshold frequency
+5.2.5 Kinetic energy and radiation intensity relationship
+
+5.3 Wave-Particle Duality
+5.3.1 Electron diffraction
+5.3.2 Diffraction through graphite
+5.3.3 De Broglie equation

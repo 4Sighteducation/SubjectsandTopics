@@ -1,0 +1,134 @@
+1. Subject: Business (J204)
+1.1. Component 01: Business 1: business activity, marketing and people
+1.1.1. Section 1: Business activity
+1.1.1.1. Topic 1.1: The role of business enterprise and entrepreneurship
+1.1.1.1.1. Content: The purpose of business activity and enterprise
+1.1.1.1.2. Content: Characteristics of an entrepreneur
+1.1.1.1.3. Content: The concept of risk and reward
+1.1.1.2. Topic 1.2: Business planning
+1.1.1.2.1. Content: The purpose of planning business activity
+1.1.1.2.2. Content: The role, importance and usefulness of a business plan
+1.1.1.3. Topic 1.3: Business ownership
+1.1.1.3.1. Content: The features of different types of business ownership
+1.1.1.3.2. Content: The concept of limited liability
+1.1.1.3.3. Content: The suitability of differing types of ownership in different business contexts
+1.1.1.4. Topic 1.4: Business aims and objectives
+1.1.1.4.1. Content: The aims and objectives of business
+1.1.1.4.2. Content: How and why objectives might change as businesses evolve
+1.1.1.4.3. Content: Why different businesses may have different objectives
+1.1.1.5. Topic 1.5: Stakeholders in business
+1.1.1.5.1. Content: The roles and objectives of internal and external stakeholder groups
+1.1.1.5.2. Content: The effect business activity has on stakeholders
+1.1.1.5.3. Content: The effect stakeholders have on business
+1.1.1.6. Topic 1.6: Business growth
+1.1.1.6.1. Content: Organic growth
+1.1.1.6.2. Content: External growth
+1.1.2. Section 2: Marketing
+1.1.2.1. Topic 2.1: The role of marketing
+1.1.2.1.1. Content: The purpose of marketing within business
+1.1.2.2. Topic 2.2: Market research
+1.1.2.2.1. Content: The purpose of market research
+1.1.2.2.2. Content: Primary research methods
+1.1.2.2.3. Content: Secondary research sources
+1.1.2.2.4. Content: How appropriate different methods and sources of market research are for different business purposes
+1.1.2.2.5. Content: The use and interpretation of qualitative and quantitative data in market research
+1.1.2.3. Topic 2.3: Market segmentation
+1.1.2.3.1. Content: The use of segmentation to target customers
+1.1.2.4. Topic 2.4: The marketing mix
+1.1.2.4.1. Content: The ‘four Ps’ of the marketing mix and their importance
+1.1.2.4.2. Content: Product
+1.1.2.4.3. Content: Product - stages of the product life cycle
+1.1.2.4.4. Content: Pricing methods
+1.1.2.4.5. Content: Promotion - point of sale
+1.1.2.4.6. Content: Promotion - advertising
+1.1.2.4.7. Content: Place - distribution of products and services
+1.1.2.4.8. Content: How the four Ps of the marketing mix work together
+1.1.2.4.9. Content: The use of the marketing mix to inform and implement business decisions
+1.1.2.4.10. Content: Interpretation of market data
+1.1.3. Section 3: People
+1.1.3.1. Topic 3.1: The role of human resources
+1.1.3.1.1. Content: The purpose of human resources in business
+1.1.3.2. Topic 3.2: Organisational structures and different ways of working
+1.1.3.2.1. Content: Different organisational structures
+1.1.3.2.2. Content: The terminology of organisation charts
+1.1.3.2.3. Content: Why businesses have different organisational structures
+1.1.3.2.4. Content: Ways of working
+1.1.3.3. Topic 3.3: Communication in business
+1.1.3.3.1. Content: Ways of communicating in a business context
+1.1.3.3.2. Content: The importance of business communications
+1.1.3.3.3. Content: The influence of digital communication on business activity
+1.1.3.4. Topic 3.4: Recruitment and selection
+1.1.3.4.1. Content: Why businesses recruit
+1.1.3.4.2. Content: The use of different recruitment methods to meet different business needs
+1.1.3.4.3. Content: Methods of selection
+1.1.3.5. Topic 3.5: Motivation and retention
+1.1.3.5.1. Content: Financial methods of motivation
+1.1.3.5.2. Content: Non-financial methods of motivation
+1.1.3.5.3. Content: The importance of employee motivation
+1.1.3.5.4. Content: The importance of employee retention
+1.1.3.6. Topic 3.6: Training and development
+1.1.3.6.1. Content: Different training methods
+1.1.3.6.2. Content: Why businesses train their workers
+1.1.3.6.3. Content: Staff development
+1.1.3.6.4. Content: The benefits to employees and businesses of staff development
+1.1.3.7. Topic 3.7: Employment law
+1.1.3.7.1. Content: The impact of current legislation on recruitment and employment
+1.2. Component 02: Business 2: operations, finance and influences on business
+1.2.1. Section 4: Operations
+1.2.1.1. Topic 4.1: Production processes
+1.2.1.1.1. Content: Different production processes and their impact on businesses
+1.2.1.1.2. Content: The influence of technology on production and the impact on businesses
+1.2.1.2. Topic 4.2: Quality of goods and services
+1.2.1.2.1. Content: The concept of quality
+1.2.1.2.2. Content: Methods of ensuring quality
+1.2.1.2.3. Content: The importance of quality in both the production of goods and the provision of services
+1.2.1.3. Topic 4.3: The sales process and customer service
+1.2.1.3.1. Content: Methods of selling
+1.2.1.3.2. Content: The influence of e-commerce on business activity
+1.2.1.3.3. Content: The importance to a business of good customer service including after-sales service
+1.2.1.3.4. Content: The contribution of product knowledge and customer engagement to good customer service
+1.2.1.4. Topic 4.4: Consumer law
+1.2.1.4.1. Content: The impact of consumer law on businesses
+1.2.1.5. Topic 4.5: Business location
+1.2.1.5.1. Content: Factors influencing business location
+1.2.1.6. Topic 4.6: Working with suppliers
+1.2.1.6.1. Content: The role of procurement
+1.2.1.6.2. Content: The impact of logistical and supply decisions on businesses
+1.2.2. Section 5: Finance
+1.2.2.1. Topic 5.1: The role of the finance function
+1.2.2.1.1. Content: The purpose of the finance function
+1.2.2.1.2. Content: The influence of the finance function on business activity
+1.2.2.2. Topic 5.2: Sources of finance
+1.2.2.2.1. Content: The reasons businesses need finance
+1.2.2.2.2. Content: Ways of raising finance
+1.2.2.2.3. Content: How and why different sources of finance are suitable for new and established businesses
+1.2.2.3. Topic 5.3: Revenue, costs, profit and loss
+1.2.2.3.1. Content: The concept of revenue, costs and profit and loss in business and their importance in business decision-making
+1.2.2.3.2. Content: The different costs in operating a business
+1.2.2.3.3. Content: Calculation of costs and revenue
+1.2.2.3.4. Content: Calculation of profit/loss
+1.2.2.3.5. Content: Calculation and interpretation of profitability ratios
+1.2.2.3.6. Content: Calculation and interpretation of average rate of return
+1.2.2.4. Topic 5.4: Break-even
+1.2.2.4.1. Content: The concept of break-even
+1.2.2.4.2. Content: Simple calculation of break-even quantity
+1.2.2.4.3. Content: The usefulness of break-even in business decision-making
+1.2.2.5. Topic 5.5: Cash and cash flow
+1.2.2.5.1. Content: The importance of cash to a business
+1.2.2.5.2. Content: The difference between cash and profit
+1.2.2.5.3. Content: The usefulness of cash flow forecasting to a business
+1.2.2.5.4. Content: Completion of cash flow forecasts
+1.2.3. Section 6: Influences on business
+1.2.3.1. Topic 6.1: Ethical and environmental considerations
+1.2.3.1.1. Content: Ethical considerations and their impact on businesses
+1.2.3.1.2. Content: Environmental considerations and their impact on businesses
+1.2.3.2. Topic 6.2: The economic climate
+1.2.3.2.1. Content: The economic climate and its impact on businesses
+1.2.3.3. Topic 6.3: Globalisation
+1.2.3.3.1. Content: The concept of globalisation
+1.2.3.3.2. Content: The impact of globalisation on businesses
+1.2.4. Section 7: The interdependent nature of business
+1.2.4.1. Content: The interdependent nature of business operations, finance, marketing and human resources within a business context
+1.2.4.2. Content: How these interdependencies underpin business decision making
+1.2.4.3. Content: The impact of risk and reward on business activity
+1.2.4.4. Content: The use of financial information in measuring and understanding business performance and decision making

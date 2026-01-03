@@ -1,0 +1,2590 @@
+{
+  "timestamp": "20251123-232323",
+  "total_subjects": 25,
+  "success_count": 20,
+  "fail_count": 5,
+  "success_rate": 80.0,
+  "reports": [
+    {
+      "subject_name": "Art and Design",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/a3ndenvr/eduqas-a-level-art-and-design-spec-from-2015-e-090119.pdf",
+      "start_time": "2025-11-23T22:59:20.999750",
+      "success": true,
+      "topics_extracted": 115,
+      "levels": {
+        "0": 3,
+        "1": 6,
+        "2": 26,
+        "3": 80
+      },
+      "issues": [],
+      "warnings": [
+        "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+        "Not all components extracted"
+      ],
+      "success_grade": 70,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": true,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Personal Investigation, 60% of qualification, internally assessed,"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment, 40% of qualification, internally"
+          },
+          {
+            "number": "1",
+            "name": "gives opportunities for learners to explore and cultivate fundamental"
+          },
+          {
+            "number": "1",
+            "name": "and throughout Component 2."
+          },
+          {
+            "number": "2",
+            "name": "work must be stored"
+          },
+          {
+            "number": "1",
+            "name": "Personal Investigation"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "is internally assessed and externally moderated. It will be marked out"
+          },
+          {
+            "number": "1",
+            "name": "before the Externally Set Assignment is commenced"
+          },
+          {
+            "number": "1",
+            "name": "to ensure that they"
+          },
+          {
+            "number": "2",
+            "name": "is internally assessed and externally moderated. It will be marked out"
+          },
+          {
+            "number": "2",
+            "name": "Teachers may give guidance to candidates during the preparatory study and"
+          },
+          {
+            "number": "1",
+            "name": "Personal Investigation = Total Marks 120"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment = Total Marks 80"
+          },
+          {
+            "number": "1",
+            "name": "Personal Investigation, 60% of qualification, internally assessed,"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment, 40% of qualification, internally"
+          },
+          {
+            "number": "1",
+            "name": "Personal Investigation"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment"
+          },
+          {
+            "number": "1",
+            "name": "Personal Investigation = Total Marks 120"
+          },
+          {
+            "number": "2",
+            "name": "Externally Set Assignment = Total Marks 80"
+          }
+        ],
+        "tiers": [],
+        "options": [
+          "Art and Design (Fine Art)",
+          "Art and Design (Critical and Contextual Studies)",
+          "Art and Design (Textile Design)",
+          "Art and Design (Graphic Communication)",
+          "Art and Design (Three-Dimensional Design)",
+          "Art and Design (Photography)"
+        ],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 36.277599811553955,
+      "end_time": "2025-11-23T22:59:57.277351"
+    },
+    {
+      "subject_name": "Business",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/h4mljngz/eduqas-a-business-spec-from-2015.pdf",
+      "start_time": "2025-11-23T23:00:35.518125",
+      "success": true,
+      "topics_extracted": 445,
+      "levels": {
+        "0": 3,
+        "1": 30,
+        "2": 35,
+        "3": 229,
+        "4": 148
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "will underpin the context for Business Analysis"
+          },
+          {
+            "number": "2",
+            "name": "builds on the theory introduced in Component 1. As the title suggests,"
+          },
+          {
+            "number": "3",
+            "name": "focuses on how businesses adapt to succeed in a dynamic external"
+          },
+          {
+            "number": "1",
+            "name": "12-14% 7-9% 6-8% 6-8%"
+          },
+          {
+            "number": "2",
+            "name": "4-6% 11-13% 5-7% 6-8%"
+          },
+          {
+            "number": "3",
+            "name": "6-8% 4-6% 11-13% 10-12%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 108.51945209503174,
+      "end_time": "2025-11-23T23:02:24.037578"
+    },
+    {
+      "subject_name": "Chemistry",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/1adby0gf/eduqas-a-level-chemistry-spec-from-2015-e.pdf",
+      "start_time": "2025-11-23T23:03:01.769085",
+      "success": true,
+      "topics_extracted": 301,
+      "levels": {
+        "0": 3,
+        "1": 12,
+        "2": 32,
+        "3": 43,
+        "4": 211
+      },
+      "issues": [],
+      "warnings": [],
+      "success_grade": 100,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "12 % 18 % 10 %"
+          },
+          {
+            "number": "2",
+            "name": "12 % 18 % 10 %"
+          },
+          {
+            "number": "3",
+            "name": "6.7 % 6.7 % 6.7 %"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix C"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 66.73547768592834,
+      "end_time": "2025-11-23T23:04:08.504563"
+    },
+    {
+      "subject_name": "Computer Science",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/zhpapwjj/eduqas-a-level-computer-science-spec-from-2015-e-24-01-2020.pdf",
+      "start_time": "2025-11-23T23:04:46.357984",
+      "success": true,
+      "topics_extracted": 92,
+      "levels": {
+        "0": 2,
+        "1": 17,
+        "2": 18,
+        "3": 18,
+        "4": 37
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+        "Not all components extracted"
+      ],
+      "success_grade": 75,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "17.5% 16% 6.5%"
+          },
+          {
+            "number": "2",
+            "name": "17.5% 16% 6.5%"
+          },
+          {
+            "number": "3",
+            "name": "- 3% 17%"
+          },
+          {
+            "number": "3",
+            "name": "for the A level examination requires the candidate to discuss,"
+          },
+          {
+            "number": "3",
+            "name": "must include the development of software in either a"
+          },
+          {
+            "number": "3",
+            "name": "should be submitted to WJEC electronically. The"
+          },
+          {
+            "number": "3",
+            "name": "as much work as possible must be"
+          },
+          {
+            "number": "3",
+            "name": "remaining"
+          },
+          {
+            "number": "1",
+            "name": "100 2 200 40"
+          },
+          {
+            "number": "2",
+            "name": "100 2 200 40"
+          },
+          {
+            "number": "3",
+            "name": "100 1 100 20"
+          },
+          {
+            "number": "3",
+            "name": "– Programmed solution to a problem"
+          },
+          {
+            "number": "3",
+            "name": "will take a variety of forms depending on the scenario chosen by the"
+          },
+          {
+            "number": "3",
+            "name": "– Programmed Solution to a Problem"
+          },
+          {
+            "number": "3",
+            "name": "3% 17%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix C"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 29.844961404800415,
+      "end_time": "2025-11-23T23:05:16.202945"
+    },
+    {
+      "subject_name": "Design and Technology",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/25tlhhbw/gcse-design-and-technology-specification.pdf",
+      "start_time": "2025-11-23T23:05:56.312137",
+      "success": true,
+      "topics_extracted": 92,
+      "levels": {
+        "0": 2,
+        "1": 3,
+        "2": 7,
+        "3": 26,
+        "4": 54
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+        "Not all components extracted"
+      ],
+      "success_grade": 75,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Design and Technology in the 21st Century"
+          },
+          {
+            "number": "2",
+            "name": "Design and make task"
+          },
+          {
+            "number": "1",
+            "name": "and in Component 2. Learners are responsible for"
+          },
+          {
+            "number": "1",
+            "name": "'Design and Technology in the 21st Century'."
+          },
+          {
+            "number": "1",
+            "name": "- - 10% 40% 50%"
+          },
+          {
+            "number": "2",
+            "name": "10% 30% 10% 50%"
+          },
+          {
+            "number": "1",
+            "name": "assesses"
+          },
+          {
+            "number": "2",
+            "name": "assesses learners' ability to analyse and evaluate design decisions and outcomes including"
+          },
+          {
+            "number": "1",
+            "name": "Design and Technology in the 21st Century"
+          },
+          {
+            "number": "2",
+            "name": "Design and make task"
+          },
+          {
+            "number": "1",
+            "name": "- 10% 40% 50%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 27.052525281906128,
+      "end_time": "2025-11-23T23:06:23.364664"
+    },
+    {
+      "subject_name": "Drama",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/4fyb0ikx/eduqas-as-drama-spec-from-2016-e-270824.pdf",
+      "start_time": "2025-11-23T23:07:01.449401",
+      "success": true,
+      "topics_extracted": 130,
+      "levels": {
+        "0": 3,
+        "1": 3,
+        "2": 8,
+        "3": 108,
+        "4": 8
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "22-24"
+          },
+          {
+            "number": "2",
+            "name": "Text in"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop 8"
+          },
+          {
+            "number": "2",
+            "name": "Text in Context 14"
+          },
+          {
+            "number": "1",
+            "name": "23"
+          },
+          {
+            "number": "1",
+            "name": "performing assessment grids 28"
+          },
+          {
+            "number": "1",
+            "name": "38"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop"
+          },
+          {
+            "number": "2",
+            "name": "Text in Context"
+          },
+          {
+            "number": "1",
+            "name": "learners"
+          },
+          {
+            "number": "1",
+            "name": "is designed to encourage learners to make connections between"
+          },
+          {
+            "number": "1",
+            "name": "in the AS specification can be studied alongside Component 1 in the A"
+          },
+          {
+            "number": "2",
+            "name": "in the AS"
+          },
+          {
+            "number": "3",
+            "name": "in the A level"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop"
+          },
+          {
+            "number": "2",
+            "name": "Text in Context"
+          },
+          {
+            "number": "1",
+            "name": "• performing"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop"
+          },
+          {
+            "number": "1",
+            "name": "is internally assessed and externally moderated. It assesses:"
+          },
+          {
+            "number": "1",
+            "name": "(Appendix A)"
+          },
+          {
+            "number": "1",
+            "name": "(Appendix C)"
+          },
+          {
+            "number": "1",
+            "name": "(Appendix D)."
+          },
+          {
+            "number": "2",
+            "name": "Text in Context"
+          },
+          {
+            "number": "2",
+            "name": "assesses:"
+          },
+          {
+            "number": "1",
+            "name": "20% 30% - 10% 60%"
+          },
+          {
+            "number": "2",
+            "name": "- - 30% 10% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop"
+          },
+          {
+            "number": "1",
+            "name": "is internally assessed and externally moderated by WJEC."
+          },
+          {
+            "number": "1",
+            "name": "to the moderator with the lines taken from their selected extract"
+          },
+          {
+            "number": "1",
+            "name": "assesses AO1 and AO2 in their entirety and AO4 in relation to analysis"
+          },
+          {
+            "number": "1",
+            "name": "is 120."
+          },
+          {
+            "number": "1",
+            "name": "Learners must choose one text from the list for their reinterpreted performance. They may, if"
+          },
+          {
+            "number": "1",
+            "name": "Performing Assessment Grid"
+          },
+          {
+            "number": "1",
+            "name": "Design Assessment Grid"
+          },
+          {
+            "number": "1",
+            "name": "Assessment grid: AO4"
+          },
+          {
+            "number": "1",
+            "name": "AO1 is assessed by considering both the performances or designs and the creative logs"
+          },
+          {
+            "number": "1",
+            "name": "22-24"
+          },
+          {
+            "number": "2",
+            "name": "Text in"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop 8"
+          },
+          {
+            "number": "2",
+            "name": "Text in Context 14"
+          },
+          {
+            "number": "1",
+            "name": "performing assessment grids 28"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop"
+          },
+          {
+            "number": "2",
+            "name": "Text in Context"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop"
+          },
+          {
+            "number": "2",
+            "name": "Text in Context"
+          },
+          {
+            "number": "1",
+            "name": "• performing"
+          },
+          {
+            "number": "2",
+            "name": "- 30% 10% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Performance Workshop"
+          },
+          {
+            "number": "1",
+            "name": "Performing Assessment Grid"
+          },
+          {
+            "number": "1",
+            "name": "Design Assessment Grid"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 28.268798351287842,
+      "end_time": "2025-11-23T23:07:29.718199"
+    },
+    {
+      "subject_name": "Economics",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/odmjnwaa/eduqas-a-economics-spec-from-2015.pdf",
+      "start_time": "2025-11-23T23:08:07.471207",
+      "success": true,
+      "topics_extracted": 198,
+      "levels": {
+        "0": 3,
+        "1": 44,
+        "2": 107,
+        "3": 41,
+        "4": 3
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Economic Principles"
+          },
+          {
+            "number": "2",
+            "name": "Exploring Economic Behaviour"
+          },
+          {
+            "number": "3",
+            "name": "Evaluating Economic Models and Policies"
+          },
+          {
+            "number": "1",
+            "name": "6-8% 10-12% 5-7% 5-7%"
+          },
+          {
+            "number": "2",
+            "name": "4-6% 8-10% 7-9% 7-9%"
+          },
+          {
+            "number": "3",
+            "name": "14-16% 0% 12-14% 10-12%"
+          },
+          {
+            "number": "1",
+            "name": "Economic Principles"
+          },
+          {
+            "number": "2",
+            "name": "Exploring Economic Behaviour"
+          },
+          {
+            "number": "3",
+            "name": "Evaluating Economic Models and Policies"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 46.7327196598053,
+      "end_time": "2025-11-23T23:08:54.203924"
+    },
+    {
+      "subject_name": "Electronics",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/iuphdsc3/eduqas-a-level-electronics-spec-from-2017-e.pdf",
+      "start_time": "2025-11-23T23:09:31.979645",
+      "success": true,
+      "topics_extracted": 183,
+      "levels": {
+        "0": 3,
+        "1": 12,
+        "2": 48,
+        "3": 120
+      },
+      "issues": [],
+      "warnings": [
+        "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+        "Not all components extracted"
+      ],
+      "success_grade": 70,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "13"
+          },
+          {
+            "number": "2",
+            "name": "26"
+          },
+          {
+            "number": "3",
+            "name": "37"
+          },
+          {
+            "number": "1",
+            "name": "Principles of Electronics"
+          },
+          {
+            "number": "2",
+            "name": "Application of Electronics"
+          },
+          {
+            "number": "3",
+            "name": "Extended system design and realisation tasks"
+          },
+          {
+            "number": "1",
+            "name": "COMPONENT 2 COMPONENT 3"
+          },
+          {
+            "number": "1",
+            "name": "Principles of Electronics"
+          },
+          {
+            "number": "2",
+            "name": "Application of Electronics"
+          },
+          {
+            "number": "3",
+            "name": "Extended system design and realisation tasks"
+          },
+          {
+            "number": "1",
+            "name": "15% 20% 5% 40%"
+          },
+          {
+            "number": "2",
+            "name": "15% 20% 5% 40%"
+          },
+          {
+            "number": "3",
+            "name": "- - 20% 20%"
+          },
+          {
+            "number": "1",
+            "name": "Principles of Electronics"
+          },
+          {
+            "number": "2",
+            "name": "Application of Electronics"
+          },
+          {
+            "number": "3",
+            "name": "Extended system design and realisation tasks"
+          },
+          {
+            "number": "3",
+            "name": "- 20% 20%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix B"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 37.99932408332825,
+      "end_time": "2025-11-23T23:10:09.978962"
+    },
+    {
+      "subject_name": "English Language",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/fxefxsd5/wjec-eduqas-a-level-english-language-specification-from-2015.pdf",
+      "start_time": "2025-11-23T23:10:47.955896",
+      "success": true,
+      "topics_extracted": 0,
+      "levels": {},
+      "issues": [
+        "Very few topics extracted",
+        "No Level 0 topics (Components/Tiers)",
+        "Shallow hierarchy (max level < 3)"
+      ],
+      "warnings": [
+        "Not all components extracted",
+        "Database upload failed"
+      ],
+      "success_grade": 15,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "10% 10% 5% 5% - 30%"
+          },
+          {
+            "number": "2",
+            "name": "7.5% 7.5% 10% 5% - 30%"
+          },
+          {
+            "number": "3",
+            "name": "- - 5% - 15% 20%"
+          },
+          {
+            "number": "4",
+            "name": "10% 5% 5% - - 20%"
+          },
+          {
+            "number": "4",
+            "name": "Component 4 Advisory Word Count"
+          },
+          {
+            "number": "4",
+            "name": "Language and Identity"
+          },
+          {
+            "number": "3",
+            "name": "- 5% - 15% 20%"
+          },
+          {
+            "number": "4",
+            "name": "Component 4 Advisory Word Count"
+          },
+          {
+            "number": "4",
+            "name": "Language and Identity"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 3.591482162475586,
+      "end_time": "2025-11-23T23:10:51.547377"
+    },
+    {
+      "subject_name": "English Language and Literature",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/ffqmxpr5/eduqas-a-english-lang-and-lit-spec-from-2015.pdf",
+      "start_time": "2025-11-23T23:11:29.410717",
+      "success": true,
+      "topics_extracted": 48,
+      "levels": {
+        "0": 4,
+        "1": 8,
+        "2": 8,
+        "3": 12,
+        "4": 16
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+        "Not all components extracted"
+      ],
+      "success_grade": 75,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "10% 10% 7.5% 2.5%  30%"
+          },
+          {
+            "number": "2",
+            "name": "10% 10% 10%   30%"
+          },
+          {
+            "number": "3",
+            "name": "5.5% 7.5% 2% 5%  20%"
+          },
+          {
+            "number": "4",
+            "name": "2.5% 2.5% 2.5% 2.5% 10% 20%"
+          },
+          {
+            "number": "4",
+            "name": "Component 4 Advisory Word Count"
+          },
+          {
+            "number": "4",
+            "name": "Section B: Related Creative Writing"
+          },
+          {
+            "number": "1",
+            "name": "is set out below."
+          },
+          {
+            "number": "4",
+            "name": "Component 4 Advisory Word Count"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 21.221247673034668,
+      "end_time": "2025-11-23T23:11:50.631956"
+    },
+    {
+      "subject_name": "English Literature",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/gkxh25ep/eduqas-a-level-english-lit-spec-from-2015-e.pdf",
+      "start_time": "2025-11-23T23:12:28.445682",
+      "success": true,
+      "topics_extracted": 159,
+      "levels": {
+        "0": 4,
+        "1": 8,
+        "2": 147
+      },
+      "issues": [
+        "Shallow hierarchy (max level < 3)"
+      ],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 65,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "2",
+            "name": "within this specification will be examined without texts being available"
+          },
+          {
+            "number": "3",
+            "name": "requires examination of unseen"
+          },
+          {
+            "number": "1",
+            "name": "7.5% 10% 5% 2.5% 5% 30%"
+          },
+          {
+            "number": "2",
+            "name": "5% 7.5% 7.5% 5% 5% 30%"
+          },
+          {
+            "number": "3",
+            "name": "7.5% 7.5% 2.5% - 2.5% 20%"
+          },
+          {
+            "number": "4",
+            "name": "5% 5% 5% 2.5% 2.5% 20%"
+          },
+          {
+            "number": "4",
+            "name": "Component 4 Advisory Word Count"
+          },
+          {
+            "number": "4",
+            "name": "Component 4 Advisory Word Count"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix B"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 24.428693532943726,
+      "end_time": "2025-11-23T23:12:52.874376"
+    },
+    {
+      "subject_name": "Film Studies",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/2vzaeag1/eduqas-a-level-film-studies-spec-from-2017.pdf",
+      "start_time": "2025-11-23T23:13:30.523569",
+      "success": true,
+      "topics_extracted": 72,
+      "levels": {
+        "0": 3,
+        "1": 10,
+        "2": 16,
+        "3": 35,
+        "4": 8
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+        "Not all components extracted"
+      ],
+      "success_grade": 75,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": true,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "7",
+            "name": "3 (NEA)."
+          },
+          {
+            "number": "1",
+            "name": "Varieties of film and filmmaking 19"
+          },
+          {
+            "number": "2",
+            "name": "Global filmmaking perspectives 25"
+          },
+          {
+            "number": "3",
+            "name": "Production 31"
+          },
+          {
+            "number": "1",
+            "name": "Varieties of film and filmmaking"
+          },
+          {
+            "number": "2",
+            "name": "Global filmmaking perspectives"
+          },
+          {
+            "number": "3",
+            "name": "Production"
+          },
+          {
+            "number": "1",
+            "name": "Varieties of film and filmmaking"
+          },
+          {
+            "number": "2",
+            "name": "Global filmmaking perspectives"
+          },
+          {
+            "number": "1",
+            "name": "Topics Specialist Study Area(s)"
+          },
+          {
+            "number": "2",
+            "name": "Topics Specialist Study Area(s)"
+          },
+          {
+            "number": "1",
+            "name": "Varieties of film and filmmaking"
+          },
+          {
+            "number": "2",
+            "name": "Global filmmaking perspectives"
+          },
+          {
+            "number": "3",
+            "name": "Production"
+          },
+          {
+            "number": "1",
+            "name": "17.5% 17.5% - 35%"
+          },
+          {
+            "number": "2",
+            "name": "17.5% 17.5% - 35%"
+          },
+          {
+            "number": "3",
+            "name": "- 10% 20% 30%"
+          },
+          {
+            "number": "1",
+            "name": "120 1.167 140 35"
+          },
+          {
+            "number": "2",
+            "name": "100 1.4 140 35"
+          },
+          {
+            "number": "3",
+            "name": "60 2 120 30"
+          },
+          {
+            "number": "3",
+            "name": "Marking grids"
+          },
+          {
+            "number": "1",
+            "name": "Varieties of film and filmmaking 19"
+          },
+          {
+            "number": "2",
+            "name": "Global filmmaking perspectives 25"
+          },
+          {
+            "number": "3",
+            "name": "Production 31"
+          },
+          {
+            "number": "1",
+            "name": "Varieties of film and filmmaking"
+          },
+          {
+            "number": "2",
+            "name": "Global filmmaking perspectives"
+          },
+          {
+            "number": "3",
+            "name": "Production"
+          },
+          {
+            "number": "1",
+            "name": "Varieties of film and filmmaking"
+          },
+          {
+            "number": "2",
+            "name": "Global filmmaking perspectives"
+          },
+          {
+            "number": "3",
+            "name": "10% 20% 30%"
+          },
+          {
+            "number": "3",
+            "name": "Marking grids"
+          }
+        ],
+        "tiers": [],
+        "options": [
+          "1",
+          "2"
+        ],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 21.034968852996826,
+      "end_time": "2025-11-23T23:13:51.558537"
+    },
+    {
+      "subject_name": "French",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/pb5dz24v/eduqas-a-level-french-spec-from-2016-r.pdf",
+      "start_time": "2025-11-23T23:14:29.348184",
+      "success": true,
+      "topics_extracted": 38,
+      "levels": {
+        "0": 3,
+        "1": 7,
+        "2": 17,
+        "3": 4,
+        "4": 7
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+        "Not all components extracted"
+      ],
+      "success_grade": 75,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "7"
+          },
+          {
+            "number": "2",
+            "name": "9"
+          },
+          {
+            "number": "3",
+            "name": "10"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening, Reading and Translation"
+          },
+          {
+            "number": "3",
+            "name": "Critical and analytical response in writing (closed-book)"
+          },
+          {
+            "number": "1",
+            "name": "is a speaking"
+          },
+          {
+            "number": "2",
+            "name": "combines listening, reading and translation. Component 3"
+          },
+          {
+            "number": "3",
+            "name": "can be found in section 2.3 of this"
+          },
+          {
+            "number": "1",
+            "name": "Component 1: Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Component 2: Listening, Reading and Translation"
+          },
+          {
+            "number": "2",
+            "name": "candidates will be expected to demonstrate their competence in the"
+          },
+          {
+            "number": "3",
+            "name": "Component 3: Critical and analytical response in writing (closed-book)"
+          },
+          {
+            "number": "1",
+            "name": "5% 5% 10% 10% 30%"
+          },
+          {
+            "number": "2",
+            "name": "Listening,"
+          },
+          {
+            "number": "3",
+            "name": "Critical and analytical - - 10% 10% 20%"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessment"
+          },
+          {
+            "number": "1",
+            "name": "is indeed the candidate's own work. The non-exam assessment"
+          },
+          {
+            "number": "3",
+            "name": " all individual research projects are distinctly different from each other (See"
+          },
+          {
+            "number": "1",
+            "name": "Independent Research Project Pro-forma - online version available"
+          },
+          {
+            "number": "1",
+            "name": "task 1 is my"
+          },
+          {
+            "number": "1",
+            "name": "task 1 is the candidate’s own work and that no mock oral"
+          },
+          {
+            "number": "3",
+            "name": "Name of literary work(s) and / or film studied"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening, Reading and Translation"
+          },
+          {
+            "number": "3",
+            "name": "Critical and analytical response in writing (closed-book)"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening, Reading and Translation"
+          },
+          {
+            "number": "3",
+            "name": "Critical and analytical response in writing (closed-book)"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessment"
+          },
+          {
+            "number": "3",
+            "name": "Name of literary work(s) and / or film studied"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 13.589154720306396,
+      "end_time": "2025-11-23T23:14:42.937338"
+    },
+    {
+      "subject_name": "Geography",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/ln4locyz/eduqas-a-level-geography-spec-from-2016-e-24-01-2020.pdf",
+      "start_time": "2025-11-23T23:15:19.026974",
+      "success": true,
+      "topics_extracted": 120,
+      "levels": {
+        "0": 4,
+        "1": 14,
+        "2": 76,
+        "3": 26
+      },
+      "issues": [],
+      "warnings": [
+        "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+        "Not all components extracted"
+      ],
+      "success_grade": 70,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "11"
+          },
+          {
+            "number": "2",
+            "name": "19"
+          },
+          {
+            "number": "3",
+            "name": "26"
+          },
+          {
+            "number": "4",
+            "name": "37"
+          },
+          {
+            "number": "1",
+            "name": "Changing Landscapes and Changing Places"
+          },
+          {
+            "number": "2",
+            "name": "Global Systems and Global Governance"
+          },
+          {
+            "number": "3",
+            "name": "Contemporary Themes in Geography"
+          },
+          {
+            "number": "4",
+            "name": "Independent Investigation"
+          },
+          {
+            "number": "1",
+            "name": "learners will develop knowledge and understanding of core content"
+          },
+          {
+            "number": "2",
+            "name": "learners will develop knowledge and understanding of core content"
+          },
+          {
+            "number": "3",
+            "name": "learners will develop a critical understanding and in-depth"
+          },
+          {
+            "number": "4",
+            "name": "and consists of an independent investigation; it requires reflective, extended written"
+          },
+          {
+            "number": "1",
+            "name": "Changing Landscapes and Changing Places"
+          },
+          {
+            "number": "2",
+            "name": "Global Systems and Global Governance"
+          },
+          {
+            "number": "3",
+            "name": "Contemporary Themes in Geography"
+          },
+          {
+            "number": "4",
+            "name": "Independent Investigation"
+          },
+          {
+            "number": "1",
+            "name": "9% 6.5% 5% 20.5%"
+          },
+          {
+            "number": "2",
+            "name": "9.5% 10.5% 7.5% 27.5%"
+          },
+          {
+            "number": "3",
+            "name": "13.5% 15% 3.5% 32%"
+          },
+          {
+            "number": "4",
+            "name": "2.5% 5% 12.5% 20%"
+          },
+          {
+            "number": "1",
+            "name": "of either a"
+          },
+          {
+            "number": "3",
+            "name": "and also in the Independent Investigation in"
+          },
+          {
+            "number": "1",
+            "name": "Changing Landscapes (Coastal or Glaciated)"
+          },
+          {
+            "number": "1",
+            "name": "Changing Places"
+          },
+          {
+            "number": "2",
+            "name": "Water and Carbon Cycles"
+          },
+          {
+            "number": "2",
+            "name": "Global Governance: Change and Challenges"
+          },
+          {
+            "number": "4",
+            "name": "(non-exam assessment), the independent investigation."
+          },
+          {
+            "number": "1",
+            "name": "Changing Landscapes and Changing Places"
+          },
+          {
+            "number": "2",
+            "name": "Global Systems"
+          },
+          {
+            "number": "3",
+            "name": "Contemporary Themes in Geography"
+          },
+          {
+            "number": "4",
+            "name": "(non-exam assessment), the independent investigation."
+          },
+          {
+            "number": "1",
+            "name": "Changing Landscapes and Changing Places"
+          },
+          {
+            "number": "2",
+            "name": "Global Systems and Global Governance"
+          },
+          {
+            "number": "3",
+            "name": "Contemporary Themes in Geography"
+          },
+          {
+            "number": "4",
+            "name": "Independent Investigation"
+          },
+          {
+            "number": "1",
+            "name": "Changing Landscapes (Coastal or Glaciated)"
+          },
+          {
+            "number": "1",
+            "name": "Changing Places"
+          },
+          {
+            "number": "2",
+            "name": "Water and Carbon Cycles"
+          },
+          {
+            "number": "2",
+            "name": "Global Governance: Change and Challenges"
+          },
+          {
+            "number": "1",
+            "name": "Changing Landscapes and Changing Places"
+          },
+          {
+            "number": "2",
+            "name": "Global Systems"
+          },
+          {
+            "number": "3",
+            "name": "Contemporary Themes in Geography"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 36.48345994949341,
+      "end_time": "2025-11-23T23:15:55.510435"
+    },
+    {
+      "subject_name": "Geology",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/rckbdnax/eduqas-a-level-geology-spec-from-2017-e-24-01-2020.pdf",
+      "start_time": "2025-11-23T23:16:33.261983",
+      "success": true,
+      "topics_extracted": 133,
+      "levels": {
+        "0": 3,
+        "1": 7,
+        "2": 18,
+        "3": 51,
+        "4": 54
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Geological Investigations"
+          },
+          {
+            "number": "2",
+            "name": "Geological Principles and Processes"
+          },
+          {
+            "number": "3",
+            "name": "Geological Applications"
+          },
+          {
+            "number": "1",
+            "name": "Geological Investigations"
+          },
+          {
+            "number": "1",
+            "name": "are based on knowledge and understanding outlined in"
+          },
+          {
+            "number": "2",
+            "name": "Geological Principles and Processes"
+          },
+          {
+            "number": "2",
+            "name": "are based on knowledge and understanding outlined in"
+          },
+          {
+            "number": "3",
+            "name": "Geological Applications"
+          },
+          {
+            "number": "1",
+            "name": "6.6% 16% 12.4% 35%"
+          },
+          {
+            "number": "2",
+            "name": "9.7% 13% 7.3% 30%"
+          },
+          {
+            "number": "3",
+            "name": "13.7% 13% 8.3% 35%"
+          },
+          {
+            "number": "1",
+            "name": "Geological Investigations"
+          },
+          {
+            "number": "2",
+            "name": "Geological Principles and Processes"
+          },
+          {
+            "number": "3",
+            "name": "Geological Applications"
+          },
+          {
+            "number": "1",
+            "name": "Geological Investigations"
+          },
+          {
+            "number": "2",
+            "name": "Geological Principles and Processes"
+          },
+          {
+            "number": "3",
+            "name": "Geological Applications"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 34.64272856712341,
+      "end_time": "2025-11-23T23:17:07.904711"
+    },
+    {
+      "subject_name": "German",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/zf1klbxf/eduqas-a-level-german-spec-from-2016-r.pdf",
+      "start_time": "2025-11-23T23:17:45.875290",
+      "success": true,
+      "topics_extracted": 31,
+      "levels": {
+        "0": 3,
+        "1": 7,
+        "2": 17,
+        "3": 4
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+        "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+        "Not all components extracted"
+      ],
+      "success_grade": 60,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "7"
+          },
+          {
+            "number": "2",
+            "name": "9"
+          },
+          {
+            "number": "3",
+            "name": "10"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening, Reading and Translation"
+          },
+          {
+            "number": "3",
+            "name": "Critical and analytical response in writing (closed-book)"
+          },
+          {
+            "number": "1",
+            "name": "is a speaking"
+          },
+          {
+            "number": "2",
+            "name": "combines listening, reading and translation. Component 3"
+          },
+          {
+            "number": "3",
+            "name": "can be found in section 2.3 of this"
+          },
+          {
+            "number": "1",
+            "name": "Component 1: Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Component 2: Listening, Reading and Translation"
+          },
+          {
+            "number": "2",
+            "name": "candidates will be expected to demonstrate their competence in the"
+          },
+          {
+            "number": "3",
+            "name": "Component 3: Critical and analytical response in writing (closed-book)"
+          },
+          {
+            "number": "1",
+            "name": "5% 5% 10% 10% 30%"
+          },
+          {
+            "number": "2",
+            "name": "Listening,"
+          },
+          {
+            "number": "3",
+            "name": "Critical and analytical - - 10% 10% 20%"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessment"
+          },
+          {
+            "number": "1",
+            "name": "is indeed the candidate's own work. The non-exam assessment"
+          },
+          {
+            "number": "3",
+            "name": " all individual research projects are distinctly different from each other (See"
+          },
+          {
+            "number": "1",
+            "name": "Independent Research Project Pro-forma - online version available"
+          },
+          {
+            "number": "1",
+            "name": "task 1 is my"
+          },
+          {
+            "number": "1",
+            "name": "task 1 is the candidate’s own work and that no mock oral"
+          },
+          {
+            "number": "3",
+            "name": "Name of literary work(s) and / or film studied"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening, Reading and Translation"
+          },
+          {
+            "number": "3",
+            "name": "Critical and analytical response in writing (closed-book)"
+          },
+          {
+            "number": "1",
+            "name": "Speaking"
+          },
+          {
+            "number": "2",
+            "name": "Listening, Reading and Translation"
+          },
+          {
+            "number": "3",
+            "name": "Critical and analytical response in writing (closed-book)"
+          },
+          {
+            "number": "1",
+            "name": "Speaking. All non-exam assessment"
+          },
+          {
+            "number": "3",
+            "name": "Name of literary work(s) and / or film studied"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 16.291659832000732,
+      "end_time": "2025-11-23T23:18:02.166952"
+    },
+    {
+      "subject_name": "Law",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/sredngqq/eduqas-a-level-law-spec-from-2017-e-27-01-2020.pdf",
+      "start_time": "2025-11-23T23:18:39.840887",
+      "success": true,
+      "topics_extracted": 139,
+      "levels": {
+        "0": 3,
+        "1": 4,
+        "2": 26,
+        "3": 106
+      },
+      "issues": [],
+      "warnings": [
+        "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+        "Not all components extracted"
+      ],
+      "success_grade": 70,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": false,
+        "components": [
+          {
+            "number": "1",
+            "name": "6"
+          },
+          {
+            "number": "2",
+            "name": "11"
+          },
+          {
+            "number": "3",
+            "name": "16"
+          },
+          {
+            "number": "1",
+            "name": "The Nature of Law and the English Legal System"
+          },
+          {
+            "number": "2",
+            "name": "Substantive Law in Practice"
+          },
+          {
+            "number": "3",
+            "name": "Perspectives of Substantive Law"
+          },
+          {
+            "number": "1",
+            "name": "The Nature of Law and the English Legal System"
+          },
+          {
+            "number": "2",
+            "name": "Substantive Law in Practice"
+          },
+          {
+            "number": "3",
+            "name": "Perspectives of Substantive Law"
+          },
+          {
+            "number": "1",
+            "name": "10% 7.5% 7.5% 25%"
+          },
+          {
+            "number": "2",
+            "name": "15% 22.5% - 37.5%"
+          },
+          {
+            "number": "3",
+            "name": "15% - 22.5% 37.5%"
+          },
+          {
+            "number": "1",
+            "name": "The Nature of Law and the English Legal System"
+          },
+          {
+            "number": "2",
+            "name": "Substantive Law in Practice"
+          },
+          {
+            "number": "3",
+            "name": "Perspectives of Substantive Law"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 27.537309169769287,
+      "end_time": "2025-11-23T23:19:07.378198"
+    },
+    {
+      "subject_name": "Media Studies",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/kprhs5jd/a-level-media-studies-specification.pdf",
+      "start_time": "2025-11-23T23:19:45.147503",
+      "success": true,
+      "topics_extracted": 95,
+      "levels": {
+        "0": 3,
+        "1": 5,
+        "2": 16,
+        "3": 71
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+        "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+        "Not all components extracted"
+      ],
+      "success_grade": 60,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": true,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "examination, across Section A as a whole, there will always be"
+          },
+          {
+            "number": "1",
+            "name": "- the set products for assessment from 2024 have"
+          },
+          {
+            "number": "2",
+            "name": "- the set products for assessment from 2024 have"
+          },
+          {
+            "number": "1",
+            "name": "– mark allocations have been added to the"
+          },
+          {
+            "number": "1",
+            "name": "Media Products, Industries and Audiences 12"
+          },
+          {
+            "number": "2",
+            "name": "Media Forms and Products in Depth 25"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production 50"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production"
+          },
+          {
+            "number": "1",
+            "name": "Media Products, Industries and Audiences"
+          },
+          {
+            "number": "2",
+            "name": "Media Forms and Products in Depth"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production"
+          },
+          {
+            "number": "1",
+            "name": "– Media Products, Industries and Audiences"
+          },
+          {
+            "number": "2",
+            "name": "– Media Forms and Products in Depth"
+          },
+          {
+            "number": "3",
+            "name": "– Cross-Media Production"
+          },
+          {
+            "number": "3",
+            "name": "draws on the knowledge and understanding of the theoretical framework of media and the"
+          },
+          {
+            "number": "1",
+            "name": "Media Products, Industries and Audiences"
+          },
+          {
+            "number": "2",
+            "name": "genre"
+          },
+          {
+            "number": "2",
+            "name": "relative, dynamic and can be used in a hybrid way"
+          },
+          {
+            "number": "2",
+            "name": "genre conventions"
+          },
+          {
+            "number": "2",
+            "name": "(including Neale)"
+          },
+          {
+            "number": "2",
+            "name": "(including Todorov)"
+          },
+          {
+            "number": "2",
+            "name": "(including Baudrillard)"
+          },
+          {
+            "number": "2",
+            "name": "(including Butler)"
+          },
+          {
+            "number": "2",
+            "name": "Media Forms and Products in Depth"
+          },
+          {
+            "number": "1",
+            "name": "Component 1 Component 1"
+          },
+          {
+            "number": "1",
+            "name": "Component 1 Component 1"
+          },
+          {
+            "number": "1",
+            "name": "Component 1 Component 1"
+          },
+          {
+            "number": "1",
+            "name": "Component 1 Component 1"
+          },
+          {
+            "number": "1",
+            "name": "of reality"
+          },
+          {
+            "number": "1",
+            "name": "(including Bandura)"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production"
+          },
+          {
+            "number": "3",
+            "name": "is internally assessed and externally moderated. It assesses AO3: Create media"
+          },
+          {
+            "number": "3",
+            "name": "in order to apply media language appropriately (including the appropriate codes"
+          },
+          {
+            "number": "3",
+            "name": "may be carried forward. Should a learner choose"
+          },
+          {
+            "number": "1",
+            "name": "17.5% 17.5% - 35%"
+          },
+          {
+            "number": "2",
+            "name": "17.5% 17.5% - 35%"
+          },
+          {
+            "number": "3",
+            "name": "- - 30% 30%"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production"
+          },
+          {
+            "number": "3",
+            "name": "is internally assessed and externally moderated by WJEC."
+          },
+          {
+            "number": "3",
+            "name": "is 60."
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production"
+          },
+          {
+            "number": "1",
+            "name": "the set products for assessment from 2024 have"
+          },
+          {
+            "number": "2",
+            "name": "the set products for assessment from 2024 have"
+          },
+          {
+            "number": "1",
+            "name": "Media Products, Industries and Audiences 12"
+          },
+          {
+            "number": "2",
+            "name": "Media Forms and Products in Depth 25"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production 50"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production"
+          },
+          {
+            "number": "1",
+            "name": "Media Products, Industries and Audiences"
+          },
+          {
+            "number": "2",
+            "name": "Media Forms and Products in Depth"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production"
+          },
+          {
+            "number": "3",
+            "name": "- 30% 30%"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production"
+          },
+          {
+            "number": "3",
+            "name": "Cross-Media Production"
+          }
+        ],
+        "tiers": [],
+        "options": [
+          "1"
+        ],
+        "appendices": [
+          "Appendix B"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 26.128644943237305,
+      "end_time": "2025-11-23T23:20:11.276148"
+    },
+    {
+      "subject_name": "Music",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/i00jzys1/eduqas-a-level-music-spec-from-2016-e-260125.pdf",
+      "start_time": "2025-11-23T23:20:49.009405",
+      "success": true,
+      "topics_extracted": 278,
+      "levels": {
+        "0": 3,
+        "1": 10,
+        "2": 70,
+        "3": 37,
+        "4": 85,
+        "5": 69,
+        "6": 4
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "3",
+            "name": "in the summary of"
+          },
+          {
+            "number": "2",
+            "name": "compositions which fall"
+          },
+          {
+            "number": "1",
+            "name": "Performing 9"
+          },
+          {
+            "number": "2",
+            "name": "Composing 12"
+          },
+          {
+            "number": "3",
+            "name": "Appraising 15"
+          },
+          {
+            "number": "1",
+            "name": "Assessment 32"
+          },
+          {
+            "number": "2",
+            "name": "Assessment 44"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "3",
+            "name": "Appraising"
+          },
+          {
+            "number": "1",
+            "name": "will"
+          },
+          {
+            "number": "2",
+            "name": "will be allocated to"
+          },
+          {
+            "number": "2",
+            "name": "will"
+          },
+          {
+            "number": "1",
+            "name": "will be allocated to"
+          },
+          {
+            "number": "1",
+            "name": "Learners must choose either Option A in both Components 1 and 2 or Option B in both"
+          },
+          {
+            "number": "1",
+            "name": "In the performing assessment learners should display:"
+          },
+          {
+            "number": "2",
+            "name": "Learners must choose either Option A in both Components 1 and 2 or Option B in both"
+          },
+          {
+            "number": "2",
+            "name": "Learners are advised to consider the requirements of the marking criteria (Appendix"
+          },
+          {
+            "number": "3",
+            "name": "Appraising"
+          },
+          {
+            "number": "3",
+            "name": "examination. This will include two set works:"
+          },
+          {
+            "number": "3",
+            "name": "can be found in Appendix C."
+          },
+          {
+            "number": "1",
+            "name": "35% - - - 35%"
+          },
+          {
+            "number": "2",
+            "name": "- 25% - - 25%"
+          },
+          {
+            "number": "3",
+            "name": "- - 10% 30% 40%"
+          },
+          {
+            "number": "1",
+            "name": "25% - - - 25%"
+          },
+          {
+            "number": "2",
+            "name": "- 35% - - 35%"
+          },
+          {
+            "number": "3",
+            "name": "- - 10% 30% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "1",
+            "name": "assesses AO1 in its entirety."
+          },
+          {
+            "number": "1",
+            "name": "is 108"
+          },
+          {
+            "number": "1",
+            "name": "is 72"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "2",
+            "name": "assesses AO2 in its entirety."
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "1",
+            "name": "Technical Control"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "2",
+            "name": "The following information is provided as guidance for composing within the areas of"
+          },
+          {
+            "number": "1",
+            "name": "Performing 9"
+          },
+          {
+            "number": "2",
+            "name": "Composing 12"
+          },
+          {
+            "number": "3",
+            "name": "Appraising 15"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "3",
+            "name": "Appraising"
+          },
+          {
+            "number": "2",
+            "name": "25% - - 25%"
+          },
+          {
+            "number": "3",
+            "name": "- 10% 30% 40%"
+          },
+          {
+            "number": "2",
+            "name": "35% - - 35%"
+          },
+          {
+            "number": "3",
+            "name": "- 10% 30% 40%"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          },
+          {
+            "number": "1",
+            "name": "Performing"
+          },
+          {
+            "number": "1",
+            "name": "Technical Control"
+          },
+          {
+            "number": "2",
+            "name": "Composing"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix A"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 71.39024782180786,
+      "end_time": "2025-11-23T23:22:00.399653"
+    },
+    {
+      "subject_name": "Physical Education",
+      "level": "A-Level",
+      "pdf_url": "https://www.eduqas.co.uk/media/avjhdg4g/eduqas-a-level-physical-education-spec-from-2016-e-07-08-2020.pdf",
+      "start_time": "2025-11-23T23:22:38.307823",
+      "success": true,
+      "topics_extracted": 97,
+      "levels": {
+        "0": 3,
+        "1": 12,
+        "2": 13,
+        "3": 23,
+        "4": 46
+      },
+      "issues": [],
+      "warnings": [
+        "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+        "Not all components extracted"
+      ],
+      "success_grade": 75,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "Exploring concepts in physical education 24"
+          },
+          {
+            "number": "2",
+            "name": "Evaluating physical education 24"
+          },
+          {
+            "number": "3",
+            "name": "Improving personal performance 24"
+          },
+          {
+            "number": "3",
+            "name": "assessment grids 33"
+          },
+          {
+            "number": "1",
+            "name": "Exploring concepts in physical education"
+          },
+          {
+            "number": "2",
+            "name": "Evaluating physical education"
+          },
+          {
+            "number": "3",
+            "name": "Improving Personal Performance in"
+          },
+          {
+            "number": "3",
+            "name": "as part of the analysis and evaluation of performance. The"
+          },
+          {
+            "number": "3",
+            "name": "as part of the analysis and evaluation."
+          },
+          {
+            "number": "1",
+            "name": "Exploring concepts in physical education"
+          },
+          {
+            "number": "2",
+            "name": "Evaluating physical education"
+          },
+          {
+            "number": "3",
+            "name": "Improving personal performance in physical education"
+          },
+          {
+            "number": "1",
+            "name": "12% 15% 8% - 35%"
+          },
+          {
+            "number": "2",
+            "name": "12% 7% 16% - 35%"
+          },
+          {
+            "number": "3",
+            "name": "- - - 30% 30%"
+          },
+          {
+            "number": "3",
+            "name": "Component 3 assesses assessment objective 4 in its entirety; it will be marked out of"
+          },
+          {
+            "number": "3",
+            "name": "Assessment Marks Weighting Assessment"
+          },
+          {
+            "number": "3",
+            "name": "assessment grids"
+          },
+          {
+            "number": "3",
+            "name": "assesses assessment objective 4 in its entirety; it will be marked out of 90 and"
+          },
+          {
+            "number": "1",
+            "name": "Exploring concepts in physical education 24"
+          },
+          {
+            "number": "2",
+            "name": "Evaluating physical education 24"
+          },
+          {
+            "number": "3",
+            "name": "Improving personal performance 24"
+          },
+          {
+            "number": "1",
+            "name": "Exploring concepts in physical education"
+          },
+          {
+            "number": "2",
+            "name": "Evaluating physical education"
+          },
+          {
+            "number": "3",
+            "name": "Improving Personal Performance in"
+          },
+          {
+            "number": "3",
+            "name": "- - 30% 30%"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix D"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 31.001043558120728,
+      "end_time": "2025-11-23T23:23:09.308864"
+    }
+  ]
+}

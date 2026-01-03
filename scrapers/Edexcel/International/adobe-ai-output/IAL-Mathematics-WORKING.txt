@@ -1,0 +1,354 @@
+1. Unit P1: Pure Mathematics 1
+   1.1 Algebra and functions
+       1.1.1 Laws of indices for all rational exponents
+       1.1.2 Use and manipulation of surds
+       1.1.3 Quadratic functions and their graphs
+       1.1.4 The discriminant of a quadratic function
+       1.1.5 Completing the square
+       1.1.6 Solve simultaneous equations
+       1.1.7 Interpret linear and quadratic inequalities graphically
+       1.1.8 Represent linear and quadratic inequalities graphically
+       1.1.9 Solutions of linear and quadratic inequalities
+       1.1.10 Algebraic manipulation of polynomials
+       1.1.11 Graphs of functions
+       1.1.12 Knowledge of the effect of simple transformations on the graph of y = f(x)
+   1.2 Coordinate geometry in the (x, y) plane
+       1.2.1 Equation of a straight line
+       1.2.2 Conditions for two straight lines to be parallel or perpendicular
+   1.3 Trigonometry
+       1.3.1 The sine and cosine rules, and the area of a triangle
+       1.3.2 Radian measure
+       1.3.3 Sine, cosine and tangent functions
+   1.4 Differentiation
+       1.4.1 The derivative of f(x) as the gradient of the tangent to the graph of y = f(x)
+       1.4.2 Differentiation of xn, and related sums, differences and constant multiples
+       1.4.3 Applications of differentiation to gradients, tangents and normals
+   1.5 Integration
+       1.5.1 Indefinite integration as the reverse of differentiation
+       1.5.2 Integration of xn and related sums, differences and constant multiples
+
+2. Unit P2: Pure Mathematics 2
+   2.1 Proof
+       2.1.1 Understand and use the structure of mathematical proof
+       2.1.2 Proof by exhaustion
+       2.1.3 Disproof by counter example
+   2.2 Algebra and functions
+       2.2.1 Simple algebraic division
+   2.3 Coordinate geometry in the (x, y) plane
+       2.3.1 Coordinate geometry of the circle
+   2.4 Sequences and series
+       2.4.1 Sequences
+       2.4.2 Arithmetic sequences and series
+       2.4.3 Increasing sequences, decreasing sequences and periodic sequences
+       2.4.4 Geometric sequences and series
+       2.4.5 Binomial expansion
+   2.5 Exponentials and logarithms
+       2.5.1 y = ax and its graph
+       2.5.2 Laws of logarithms
+       2.5.3 The solution of equations of the form ax = b
+   2.6 Trigonometry
+       2.6.1 Knowledge and use of sinθ, tanθ, and sin2θ + cos2θ = 1
+       2.6.2 Solution of simple trigonometric equations in a given interval
+   2.7 Differentiation
+       2.7.1 Applications of differentiation to maxima and minima and stationary points
+   2.8 Integration
+       2.8.1 Evaluation of definite integrals
+       2.8.2 Interpretation of the definite integral as the area under a curve
+       2.8.3 Approximation of area under a curve using the trapezium rule
+
+3. Unit P3: Pure Mathematics 3
+   3.1 Algebra and functions
+       3.1.1 Simplification of rational expressions
+       3.1.2 Definition of a function
+       3.1.3 The modulus function
+       3.1.4 Combinations of transformations
+   3.2 Trigonometry
+       3.2.1 Knowledge of secant, cosecant and cotangent
+       3.2.2 Knowledge and use of sec2θ = 1 + tan2θ and cosec2θ = 1 + cot2θ
+       3.2.3 Knowledge and use of double angle formulae
+   3.3 Exponential and logarithms
+       3.3.1 The function ex and its graph
+       3.3.2 The function ln x and its graph
+       3.3.3 Use logarithmic graphs to estimate parameters
+   3.4 Differentiation
+       3.4.1 Differentiation of ekx, ln kx, sin kx, cos kx, tan kx
+       3.4.2 Differentiation using the product rule, the quotient rule and the chain rule
+       3.4.3 dy/dx = 1/(dx/dy)
+       3.4.4 Understand and use exponential growth and decay
+   3.5 Integration
+       3.5.1 Integration of ekx, 1/x, sin kx, cos kx and their sums and differences
+       3.5.2 Integration by recognition of known derivatives
+   3.6 Numerical methods
+       3.6.1 Location of roots of f(x) = 0
+       3.6.2 Approximate solution of equations using simple iterative methods
+
+4. Unit P4: Pure Mathematics 4
+   4.1 Proof
+       4.1.1 Proof by contradiction
+   4.2 Algebra and functions
+       4.2.1 Decompose rational functions into partial fractions
+   4.3 Coordinate geometry in the (x, y) plane
+       4.3.1 Parametric equations of curves
+   4.4 Binomial expansion
+       4.4.1 Binomial Series for any rational n
+   4.5 Differentiation
+       4.5.1 Differentiation of simple functions defined implicitly or parametrically
+       4.5.2 Formation of simple differential equations
+   4.6 Integration
+       4.6.1 Evaluation of volume of revolution
+       4.6.2 Simple cases of integration by substitution and integration by parts
+       4.6.3 Simple cases of integration using partial fractions
+       4.6.4 Analytical solution of simple first order differential equations with separable variables
+       4.6.5 Use integration to find the area under a curve given its parametric equations
+   4.7 Vectors
+       4.7.1 Vectors in two and three dimensions
+       4.7.2 Magnitude of a vector
+       4.7.3 Algebraic operations of vector addition and multiplication by scalars
+       4.7.4 Position vectors
+       4.7.5 The distance between two points
+       4.7.6 Vector equations of lines
+       4.7.7 The scalar product
+
+5. Unit FP1: Further Pure Mathematics 1
+   5.1 Complex numbers
+       5.1.1 Definition of complex numbers
+       5.1.2 Sum, product and quotient of complex numbers
+       5.1.3 Geometrical representation of complex numbers
+       5.1.4 Complex solutions of quadratic equations
+       5.1.5 Finding conjugate complex roots and a real root of a cubic equation
+       5.1.6 Finding conjugate complex roots and/or real roots of a quartic equation
+   5.2 Roots of quadratic equations
+       5.2.1 Sum of roots and product of roots of a quadratic equation
+       5.2.2 Manipulation of expressions involving the sum of roots and product of roots
+       5.2.3 Forming quadratic equations with new roots
+   5.3 Numerical solution of equations
+       5.3.1 Equations of the form f(x) = 0 solved numerically
+   5.4 Coordinate systems
+       5.4.1 Cartesian equations for the parabola and rectangular hyperbola
+       5.4.2 Idea of parametric equation for parabola and rectangular hyperbola
+       5.4.3 The focus-directrix property of the parabola
+       5.4.4 Tangents and normals to these curves
+   5.5 Matrix algebra integration
+       5.5.1 Addition and subtraction of matrices
+       5.5.2 Multiplication of a matrix by a scalar
+       5.5.3 Products of matrices
+       5.5.4 Evaluation of 2 × 2 determinants
+       5.5.5 Inverse of 2 × 2 matrices
+   5.6 Transformations using matrices
+       5.6.1 Linear transformations of column vectors in two dimensions
+       5.6.2 Applications of 2 × 2 matrices to represent geometrical transformations
+       5.6.3 Combinations of transformations
+       5.6.4 The inverse of a given transformation or combination of transformations
+   5.7 Series
+       5.7.1 Summation of simple finite series
+   5.8 Proof
+       5.8.1 Proof by mathematical induction
+
+6. Unit FP2: Further Pure Mathematics 2
+   6.1 Inequalities
+       6.1.1 The manipulation and solution of algebraic inequalities and inequations
+   6.2 Series
+       6.2.1 Summation of simple finite series using the method of differences
+   6.3 Further complex numbers
+       6.3.1 Euler’s relation eiθ = cos θ + i sin θ
+       6.3.2 De Moivre’s theorem and its application
+       6.3.3 Loci and regions in the Argand diagram
+       6.3.4 Elementary transformations from the z-plane to the w-plane
+   6.4 First order differential equations
+       6.4.1 Further solution of first order differential equations with separable variables
+       6.4.2 First order linear differential equations
+       6.4.3 Differential equations reducible to the above types by means of a given substitution
+   6.5 Second order differential equations
+       6.5.1 The linear second order differential equation
+       6.5.2 Differential equations reducible to the above types by means of a given substitution
+   6.6 Maclaurin and Taylor series
+       6.6.1 Third and higher order derivatives
+       6.6.2 Derivation and use of Maclaurin series
+       6.6.3 Derivation and use of Taylor series
+       6.6.4 Use of Taylor series method for series solutions of differential equations
+   6.7 Polar coordinates
+       6.7.1 Polar coordinates (r, θ), r  0
+       6.7.2 Use of the formula 1/2 ∫ r2 dθ for area
+
+7. Unit FP3: Further Pure Mathematics 3
+   7.1 Hyperbolic functions
+       7.1.1 Definition of the six hyperbolic functions
+       7.1.2 Inverse hyperbolic functions
+   7.2 Further coordinate systems
+       7.2.1 Cartesian and parametric equations for the ellipse and hyperbola
+       7.2.2 The focus-directrix properties of the ellipse and hyperbola
+       7.2.3 Tangents and normals to these curves
+       7.2.4 Simple loci problems
+   7.3 Differentiation
+       7.3.1 Differentiation of hyperbolic functions
+       7.3.2 Differentiation of inverse functions
+   7.4 Integration
+       7.4.1 Integration of hyperbolic functions
+       7.4.2 Integration of inverse trigonometric and hyperbolic functions
+       7.4.3 Integration using hyperbolic and trigonometric substitutions
+       7.4.4 Use of substitution for integrals involving quadratic surds
+       7.4.5 The derivation and use of simple reduction formulae
+       7.4.6 The calculation of arc length and the area of a surface of revolution
+   7.5 Vectors
+       7.5.1 The vector product a × b and the triple scalar product a . b × c
+       7.5.2 Use of vectors in problems involving points, lines and planes
+       7.5.3 The equation of a plane
+   7.6 Further matrix algebra
+       7.6.1 Linear transformations of column vectors in two and three dimensions
+       7.6.2 Combination of transformations
+       7.6.3 Transpose of a matrix
+       7.6.4 Evaluation of 3 × 3 determinants
+       7.6.5 Inverse of 3 × 3 matrices
+       7.6.6 The inverse of a given transformation or combination of transformations
+       7.6.7 Eigenvalues and eigenvectors of 2 × 2 and 3 × 3 matrices
+       7.6.8 Reduction of symmetric matrices to diagonal form
+
+8. Unit M1: Mechanics 1
+   8.1 Mathematical models in mechanics
+       8.1.1 The basic ideas of mathematical modelling as applied in Mechanics
+   8.2 Vectors in mechanics
+       8.2.1 Magnitude and direction of a vector
+       8.2.2 Application of vectors to displacements, velocities, accelerations and forces in a plane
+   8.3 Kinematics of a particle moving in a straight line
+       8.3.1 Motion in a straight line with constant acceleration
+   8.4 Dynamics of a particle moving in a straight line or plane
+       8.4.1 The concept of a force
+       8.4.2 Simple applications including the motion of two connected particles
+       8.4.3 Momentum and impulse
+       8.4.4 Coefficient of friction
+   8.5 Statics of a particle
+       8.5.1 Forces treated as vectors
+       8.5.2 Equilibrium of a particle under coplanar forces
+       8.5.3 Coefficient of friction
+   8.6 Moments
+       8.6.1 Moment of a force
+
+9. Unit M2: Mechanics 2
+   9.1 Kinematics of a particle moving in a straight line or plane
+       9.1.1 Motion in a vertical plane with constant acceleration
+       9.1.2 Simple cases of motion of a projectile
+       9.1.3 Velocity and acceleration when the displacement is a function of time
+       9.1.4 Differentiation and integration of a vector with respect to time
+   9.2 Centres of mass
+       9.2.1 Centre of mass of a discrete mass distribution in one and two dimensions
+       9.2.2 Centre of mass of uniform plane figures
+       9.2.3 Simple cases of equilibrium of a plane lamina
+   9.3 Work and energy
+       9.3.1 Kinetic and potential energy, work and power
+   9.4 Collisions
+       9.4.1 Momentum as a vector
+       9.4.2 Direct impact of elastic particles
+       9.4.3 Successive impacts of up to three particles or two particles and a smooth plane surface
+   9.5 Statics of rigid bodies
+       9.5.1 Moment of a force
+       9.5.2 Equilibrium of rigid bodies
+
+10. Unit M3: Mechanics 3
+    10.1 Further kinematics
+        10.1.1 Kinematics of a particle moving in a straight line
+    10.2 Elastic strings and springs
+        10.2.1 Elastic strings and springs
+        10.2.2 Energy stored in an elastic string or spring
+    10.3 Further dynamics
+        10.3.1 Newton’s laws of motion
+        10.3.2 Simple harmonic motion
+        10.3.3 Oscillations of a particle attached to the end of an elastic string or spring
+    10.4 Motion in a circle
+        10.4.1 Angular speed
+        10.4.2 Radial acceleration in circular motion
+        10.4.3 Uniform motion of a particle moving in a horizontal circle
+        10.4.4 Motion of a particle in a vertical circle
+    10.5 Statics of rigid bodies
+        10.5.1 Centre of mass of uniform rigid bodies and simple composite bodies
+        10.5.2 Simple cases of equilibrium of rigid bodies
+
+11. Unit S1: Statistics 1
+    11.1 Mathematical models in probability and statistics
+        11.1.1 The basic ideas of mathematical modelling as applied in probability and statistics
+    11.2 Representation and summary of data
+        11.2.1 Histograms, stem and leaf diagrams, box plots
+        11.2.2 Measures of location
+        11.2.3 Measures of dispersion
+        11.2.4 Skewness
+    11.3 Probability
+        11.3.1 Elementary probability
+        11.3.2 Sample space
+        11.3.3 Independence of two events
+        11.3.4 Sum and product laws
+    11.4 Correlation and regression
+        11.4.1 Scatter diagrams
+        11.4.2 Explanatory and response variables
+        11.4.3 The product moment correlation coefficient
+    11.5 Discrete random variables
+        11.5.1 The concept of a discrete random variable
+        11.5.2 The probability function and the cumulative distribution function
+        11.5.3 Mean and variance of a discrete random variable
+        11.5.4 The discrete uniform distribution
+    11.6 The Normal distribution
+        11.6.1 The Normal distribution including the mean, variance and use of tables
+
+12. Unit S2: Statistics 2
+    12.1 The Binomial and Poisson distributions
+        12.1.1 The binomial and Poisson distributions
+        12.1.2 The mean and variance of the binomial and Poisson distributions
+        12.1.3 The use of the Poisson distribution as an approximation to the binomial distribution
+    12.2 Continuous random variables
+        12.2.1 The concept of a continuous random variable
+        12.2.2 The probability density function and the cumulative distribution function
+        12.2.3 Relationship between density and distribution functions
+        12.2.4 Mean and variance of continuous random variables
+        12.2.5 Mode, median and quartiles of continuous random variables
+    12.3 Continuous distributions
+        12.3.1 The continuous uniform (rectangular) distribution
+        12.3.2 Use of the Normal distribution as an approximation to the binomial distribution and the Poisson distribution
+    12.4 Hypothesis tests
+        12.4.1 Population, census and sample
+        12.4.2 Concepts of a statistic and its sampling distribution
+        12.4.3 Concept and interpretation of a hypothesis test
+        12.4.4 Critical region
+        12.4.5 One-tailed and two-tailed tests
+        12.4.6 Hypothesis tests for the parameter p of a binomial distribution and for the mean of a Poisson distribution
+
+13. Unit S3: Statistics 3
+    13.1 Combinations of random variables
+        13.1.1 Distribution of linear combinations of independent Normal random variables
+    13.2 Sampling
+        13.2.1 Methods for collecting data
+        13.2.2 Other methods of sampling
+    13.3 Estimation, confidence intervals and tests
+        13.3.1 Concepts of standard error, estimator, bias
+        13.3.2 The distribution of the sample mean
+        13.3.3 Concept of a confidence interval and its interpretation
+        13.3.4 Confidence limits for a Normal mean, with variance known
+        13.3.5 Hypothesis tests for the mean of a Normal distribution with variance known
+        13.3.6 Use of Central Limit theorem
+        13.3.7 Hypothesis test for the difference between the means of two Normal distributions with variances known
+        13.3.8 Use of large sample results
+    13.4 Goodness of fit and contingency tables
+        13.4.1 The null and alternative hypotheses
+        13.4.2 Degrees of freedom
+    13.5 Regression and correlation
+        13.5.1 Spearman’s rank correlation coefficient
+        13.5.2 Testing the hypothesis that a correlation is zero
+
+14. Unit D1: Decision Mathematics 1
+    14.1 Algorithms
+        14.1.1 The general ideas of algorithms and the implementation of an algorithm
+        14.1.2 Students should be familiar with bin packing, bubble sort, quick sort, binary search
+    14.2 Algorithms on graphs
+        14.2.1 The minimum spanning tree (minimum connector) problem
+        14.2.2 Dijkstra’s algorithm for finding the shortest path
+    14.3 Algorithms on graphs II
+        14.3.1 Algorithm for finding the shortest route around a network
+        14.3.2 The practical and classical Travelling Salesman problems
+        14.3.3 Determination of upper and lower bounds using minimum spanning tree methods
+        14.3.4 The nearest neighbour algorithm
+    14.4 Critical path analysis
+        14.4.1 Modelling of a project by an activity network
+        14.4.2 Completion of the precedence table for a given activity network
+        14.4.3 Algorithm for finding the critical path
+        14.4.4 Total float
+    14.5 Linear programming
+        14.5.1 Formulation of problems as linear programs
+        14.5.2 Graphical solution of two variable problems using ruler and vertex methods
+        14.5.3 Consideration of problems where solutions must have integer values

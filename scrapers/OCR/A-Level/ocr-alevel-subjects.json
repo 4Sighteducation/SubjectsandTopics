@@ -1,0 +1,255 @@
+{
+  "AL-AncientHistory": {
+    "name": "Ancient History",
+    "code": "H407",
+    "as_code": "H007",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/ancient-history-h007-h407-from-2017/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/313570-specification-accredited-a-level-ancient-history-h407.pdf"
+  },
+  "AL-ArtDesign": {
+    "name": "Art and Design",
+    "code": "H600",
+    "as_code": "H200",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/art-and-design-h200-h600-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/170210-specification-accredited-a-level-gce-art-and-design-h600-h606.pdf"
+  },
+  "AL-BiologyA": {
+    "name": "Biology A",
+    "code": "H420",
+    "as_code": "H020",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/biology-a-h020-h420-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf"
+  },
+  "AL-BiologyB": {
+    "name": "Biology B (Advancing Biology)",
+    "code": "H422",
+    "as_code": "H022",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/biology-b-advancing-biology-h022-h422-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/171714-specification-accredited-a-level-biology-b-advancing-biology-h422.pdf"
+  },
+  "AL-Business": {
+    "name": "Business",
+    "code": "H431",
+    "as_code": "H031",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/business-h031-h431-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf"
+  },
+  "AL-Business2026": {
+    "name": "Business (2026+)",
+    "code": "H436",
+    "as_code": "H036",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/business-h036-h436-from-2026/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/716172-specification-accredited-a-level-gce-business-h436.pdf"
+  },
+  "AL-ChemistryA": {
+    "name": "Chemistry A",
+    "code": "H432",
+    "as_code": "H032",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/chemistry-a-h032-h432-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/171720-specification-accredited-a-level-gce-chemistry-a-h432.pdf"
+  },
+  "AL-ChemistryB": {
+    "name": "Chemistry B (Salters)",
+    "code": "H433",
+    "as_code": "H033",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/chemistry-b-salters-h033-h433-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/171723-specification-accredited-a-level-gce-chemistry-b-salters-h433.pdf"
+  },
+  "AL-ClassicalCivilisation": {
+    "name": "Classical Civilisation",
+    "code": "H408",
+    "as_code": "H008",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/classical-civilisation-h008-h408-from-2017/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/313567-specification-accredited-a-level-gce-classical-civilisation-h408.pdf"
+  },
+  "AL-ComputerScience": {
+    "name": "Computer Science",
+    "code": "H446",
+    "as_code": "H046",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf"
+  },
+  "AL-DramaTheatre": {
+    "name": "Drama and Theatre",
+    "code": "H459",
+    "as_code": "H059",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/drama-and-theatre-h059-h459-from-2016/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/207838-specification-accredited-a-level-gce-drama-and-theatre-h459.pdf"
+  },
+  "AL-Economics": {
+    "name": "Economics",
+    "code": "H460",
+    "as_code": "H060",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/170846-specification-accredited-a-level-gce-economics-h460.pdf"
+  },
+  "AL-EnglishLanguage": {
+    "name": "English Language",
+    "code": "H470",
+    "as_code": "H070",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/english-language-h070-h470-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/295100-specification-accredited-a-level-gce-english-language-h470.pdf"
+  },
+  "AL-EnglishLiterature": {
+    "name": "English Literature",
+    "code": "H472",
+    "as_code": "H072",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/english-literature-h072-h472-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/171782-specification-accredited-a-level-gce-english-literature-h472.pdf"
+  },
+  "AL-Geography": {
+    "name": "Geography",
+    "code": "H481",
+    "as_code": "H081",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/geography-h081-h481-from-2016/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/223012-specification-accredited-a-level-gce-geography-h481.pdf"
+  },
+  "AL-HistoryA": {
+    "name": "History A",
+    "code": "H505",
+    "as_code": "H105",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/history-a-h105-h505-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/170128-specification-accredited-a-level-gce-history-a-h505.pdf"
+  },
+  "AL-Law": {
+    "name": "Law",
+    "code": "H418",
+    "as_code": "H018",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/law-h018-h418-from-2017/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/505880-specification-accredited-a-level-gce-law-h418.pdf"
+  },
+  "AL-MathematicsA": {
+    "name": "Mathematics A",
+    "code": "H240",
+    "as_code": "H230",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/563112-specification-accredited-a-level-gce-mathematics-a-h240.pdf"
+  },
+  "AL-FurtherMathematicsA": {
+    "name": "Further Mathematics A",
+    "code": "H245",
+    "as_code": "H235",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/563113-specification-accredited-a-level-gce-further-mathematics-a-h245.pdf"
+  },
+  "AL-MediaStudies": {
+    "name": "Media Studies",
+    "code": "H409",
+    "as_code": "H009",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/media-studies-h009-h409-from-2017/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/313564-specification-accredited-a-level-gce-media-studies-h409.pdf"
+  },
+  "AL-PhysicalEducation": {
+    "name": "Physical Education",
+    "code": "H555",
+    "as_code": "H155",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/physical-education-h155-h555-from-2016/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/351447-specification-accredited-a-level-gce-physical-education-h555.pdf"
+  },
+  "AL-PhysicsA": {
+    "name": "Physics A",
+    "code": "H556",
+    "as_code": "H156",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/physics-a-h156-h556-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/171726-specification-accredited-a-level-gce-physics-a-h556.pdf"
+  },
+  "AL-PhysicsB": {
+    "name": "Physics B (Advancing Physics)",
+    "code": "H557",
+    "as_code": "H157",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/physics-b-advancing-physics-h157-h557-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/171738-specification-accredited-a-level-gce-physics-b-advancing-physics-h557.pdf"
+  },
+  "AL-Psychology": {
+    "name": "Psychology",
+    "code": "H567",
+    "as_code": "H167",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/psychology-h167-h567-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/171874-specification-accredited-a-level-gce-psychology-h567.pdf"
+  },
+  "AL-Psychology2026": {
+    "name": "Psychology (2026+)",
+    "code": "H569",
+    "as_code": "H169",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/psychology-h169-h569-from-2026/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/708605-specification-accredited-a-level-gce-psychology-h569.pdf"
+  },
+  "AL-ReligiousStudies": {
+    "name": "Religious Studies",
+    "code": "H573",
+    "as_code": "H173",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/religious-studies-h173-h573-from-2016/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/236688-specification-accredited-a-level-gce-religious-studies-h573.pdf"
+  },
+  "AL-Sociology": {
+    "name": "Sociology",
+    "code": "H580",
+    "as_code": "H180",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/sociology-h180-h580-from-2015/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/170863-specification-accredited-a-level-gce-sociology-h580.pdf"
+  },
+  "AL-Sociology2026": {
+    "name": "Sociology (2026+)",
+    "code": "H582",
+    "as_code": "H182",
+    "qualification": "A-Level",
+    "exam_board": "OCR",
+    "at_a_glance_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/sociology-h182-h582-from-2026/specification-at-a-glance/",
+    "pdf_url": "https://www.ocr.org.uk/Images/710726-specification-accredited-a-level-gce-sociology-h582.pdf"
+  }
+}
+

@@ -1,0 +1,95 @@
+{
+  "subject_name": "Law",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/sredngqq/eduqas-a-level-law-spec-from-2017-e-27-01-2020.pdf",
+  "start_time": "2025-11-23T23:41:50.650640",
+  "success": true,
+  "topics_extracted": 110,
+  "levels": {
+    "0": 3,
+    "1": 10,
+    "2": 35,
+    "3": 62
+  },
+  "issues": [],
+  "warnings": [
+    "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+    "Not all components extracted"
+  ],
+  "success_grade": 70,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": false,
+    "components": [
+      {
+        "number": "1",
+        "name": "6"
+      },
+      {
+        "number": "2",
+        "name": "11"
+      },
+      {
+        "number": "3",
+        "name": "16"
+      },
+      {
+        "number": "1",
+        "name": "The Nature of Law and the English Legal System"
+      },
+      {
+        "number": "2",
+        "name": "Substantive Law in Practice"
+      },
+      {
+        "number": "3",
+        "name": "Perspectives of Substantive Law"
+      },
+      {
+        "number": "1",
+        "name": "The Nature of Law and the English Legal System"
+      },
+      {
+        "number": "2",
+        "name": "Substantive Law in Practice"
+      },
+      {
+        "number": "3",
+        "name": "Perspectives of Substantive Law"
+      },
+      {
+        "number": "1",
+        "name": "10% 7.5% 7.5% 25%"
+      },
+      {
+        "number": "2",
+        "name": "15% 22.5% - 37.5%"
+      },
+      {
+        "number": "3",
+        "name": "15% - 22.5% 37.5%"
+      },
+      {
+        "number": "1",
+        "name": "The Nature of Law and the English Legal System"
+      },
+      {
+        "number": "2",
+        "name": "Substantive Law in Practice"
+      },
+      {
+        "number": "3",
+        "name": "Perspectives of Substantive Law"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 21.63010597229004,
+  "end_time": "2025-11-23T23:42:12.280745"
+}

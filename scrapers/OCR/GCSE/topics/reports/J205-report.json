@@ -1,0 +1,67 @@
+{
+  "subject_code": "J205",
+  "subject_name": "Economics",
+  "url": "https://www.ocr.org.uk/Images/306377-specification-accredited-gcse-economics-j205.pdf",
+  "start_time": "2025-11-20T13:43:15.882222",
+  "success": true,
+  "topics_extracted": 29,
+  "levels": {
+    "0": 1,
+    "1": 2,
+    "2": 4,
+    "3": 22
+  },
+  "issues": [
+    "Missing topics from Content Overview",
+    "Incorrect level assignment for some topics"
+  ],
+  "warnings": [
+    "Potential structure problems due to incorrect parent-child relationships"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Introduction to Economics",
+        "The role of markets and money",
+        "Economic objectives and the role of government",
+        "International trade and the global economy"
+      ],
+      "organization": "The content is organized into components focusing on different economic concepts and their applications.",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "J205/01 - Introduction to Economics",
+        "J205/02 - National and International Economics"
+      ],
+      "content_mapping": {
+        "J205/01": "Introduction to Economics, The role of markets and money",
+        "J205/02": "Economic objectives and the role of government, International trade and the global economy"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting content related to the two main components and their subtopics, ensuring to capture the key economic concepts and their applications.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:43:15.882229"
+}

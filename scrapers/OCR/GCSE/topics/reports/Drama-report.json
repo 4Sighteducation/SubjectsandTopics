@@ -1,0 +1,309 @@
+{
+  "subject_name": "Drama",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/hydhvd02/eduqas-gcse-drama-spec-from-2016-e-270824.pdf",
+  "start_time": "2025-11-23T18:55:03.325786",
+  "success": true,
+  "topics_extracted": 76,
+  "levels": {
+    "0": 3,
+    "1": 7,
+    "2": 13,
+    "3": 16,
+    "4": 37
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "2",
+        "name": "and Component 3"
+      },
+      {
+        "number": "1",
+        "name": "Devising Workshop and Component 21 and 25"
+      },
+      {
+        "number": "3",
+        "name": "16"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre 6"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text 11"
+      },
+      {
+        "number": "3",
+        "name": "Interpreting Theatre 16"
+      },
+      {
+        "number": "1",
+        "name": "27"
+      },
+      {
+        "number": "2",
+        "name": "43"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text"
+      },
+      {
+        "number": "3",
+        "name": "Interpreting Theatre"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre"
+      },
+      {
+        "number": "1",
+        "name": "• guidance on the assessment of Component 1."
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text"
+      },
+      {
+        "number": "3",
+        "name": "to enable learners to gain a broad and varied"
+      },
+      {
+        "number": "2",
+        "name": "and Component 3 are listed below."
+      },
+      {
+        "number": "3",
+        "name": "text Selection of Component 2 text"
+      },
+      {
+        "number": "2",
+        "name": "Artistic Intentions, will be made"
+      },
+      {
+        "number": "2",
+        "name": "and a list of"
+      },
+      {
+        "number": "3",
+        "name": "Interpreting Theatre"
+      },
+      {
+        "number": "3",
+        "name": "must be contrasting. The criteria for selecting appropriately contrasting texts for Com-"
+      },
+      {
+        "number": "3",
+        "name": "are listed below."
+      },
+      {
+        "number": "1",
+        "name": "20% 10% - 10% 40%"
+      },
+      {
+        "number": "2",
+        "name": "- 20% - - 20%"
+      },
+      {
+        "number": "3",
+        "name": "- - 30% 10% 40%"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre"
+      },
+      {
+        "number": "1",
+        "name": "is internally assessed and externally moderated."
+      },
+      {
+        "number": "1",
+        "name": "assesses AO1, AO2 and AO4. The maximum mark for Component 1 is"
+      },
+      {
+        "number": "1",
+        "name": "• The internal completion date is determined by the centre and the centre must"
+      },
+      {
+        "number": "1",
+        "name": "As a result of the moderation, the marks of learners may be adjusted to bring the"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text"
+      },
+      {
+        "number": "2",
+        "name": "is externally assessed by a visiting examiner."
+      },
+      {
+        "number": "2",
+        "name": "and Component 3 must be contrasting. Criteria to"
+      },
+      {
+        "number": "2",
+        "name": "WJEC should be contacted as soon as possible. Centres will be notified"
+      },
+      {
+        "number": "2",
+        "name": "assesses AO2 only. The total mark for Component 2 is 60."
+      },
+      {
+        "number": "2",
+        "name": "Artistic Intentions to"
+      },
+      {
+        "number": "2",
+        "name": "Artistic Intentions)."
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre"
+      },
+      {
+        "number": "1",
+        "name": "• guidance for assessing Component 1."
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre – Assessment grid for performing candidates (Performance and supporting evidence)"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre – Assessment grid for design candidates (Design and supporting evidence)"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre: Assessment grid for evaluation"
+      },
+      {
+        "number": "1",
+        "name": "AO1"
+      },
+      {
+        "number": "2",
+        "name": "• a list of suitable texts for Component 2"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text – Assessment grid for performing candidates"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text – Assessment grid for design candidates"
+      },
+      {
+        "number": "2",
+        "name": "The following list of texts is suggested for study in Component 2 but learners may choose a"
+      },
+      {
+        "number": "2",
+        "name": "and Component 3 must be contrasting. Criteria to"
+      },
+      {
+        "number": "1",
+        "name": "Devising Workshop and Component 21 and 25"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre 6"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text 11"
+      },
+      {
+        "number": "3",
+        "name": "Interpreting Theatre 16"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text"
+      },
+      {
+        "number": "3",
+        "name": "Interpreting Theatre"
+      },
+      {
+        "number": "2",
+        "name": "Artistic Intentions, will be made"
+      },
+      {
+        "number": "2",
+        "name": "20% - - 20%"
+      },
+      {
+        "number": "3",
+        "name": "- 30% 10% 40%"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text"
+      },
+      {
+        "number": "2",
+        "name": "Artistic Intentions to"
+      },
+      {
+        "number": "2",
+        "name": "Artistic Intentions)."
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre – Assessment grid for performing candidates (Performance and supporting evidence)"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre – Assessment grid for design candidates (Design and supporting evidence)"
+      },
+      {
+        "number": "1",
+        "name": "Devising Theatre: Assessment grid for evaluation"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text – Assessment grid for performing candidates"
+      },
+      {
+        "number": "2",
+        "name": "Performing from a Text – Assessment grid for design candidates"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 27.508508920669556,
+  "end_time": "2025-11-23T18:55:30.834296"
+}

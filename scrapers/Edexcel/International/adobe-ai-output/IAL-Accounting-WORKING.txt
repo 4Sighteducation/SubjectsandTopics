@@ -1,0 +1,164 @@
+1. Unit 1: The Accounting System and Costing
+   1.1 Principles of accounting and double entry bookkeeping
+       1.1.1 Role and purpose of accounting
+           1.1.1.1 The role of accounting as a need to record, analyse and communicate accounting information to users.
+           1.1.1.2 The purpose of accounting information as an aid to the management of a business.
+       1.1.2 Double entry system
+           1.1.2.1 Transaction recording in books of account.
+           1.1.2.2 Transaction recording in books of prime entry.
+           1.1.2.3 End of period transfers and adjustments.
+           1.1.2.4 Ledger accounts to create and maintain allowance for irrecoverable debts, including calculation from a schedule of trade receivables.
+           1.1.2.5 The use of information and communication technology (ICT) in recording transactions and preparing reconciliations (control accounts, trial balance) and financial statements.
+       1.1.3 Accounting concepts and conventions
+           1.1.3.1 The concepts of going concern, prudence, accruals and consistency.
+           1.1.3.2 The concepts and conventions of historic cost, materiality, money measurement, realisation and business entity.
+           1.1.3.3 The use of International Accounting Standards (IAS).
+       1.1.4 Capital expenditure and revenue expenditure
+           1.1.4.1 Capital expenditure and revenue expenditure.
+           1.1.4.2 The correct accounting treatment of capital expenditure and revenue expenditure with reference to relevant accounting concepts.
+       1.1.5 Non-current asset depreciation
+           1.1.5.1 The causes of depreciation of non-current assets.
+           1.1.5.2 The reasons for charging depreciation on non-current assets.
+           1.1.5.3 The depreciation of non-current assets using reducing balance, straight line and revaluation methods.
+           1.1.5.4 Ledger accounts for non-current assets and provisions of depreciation.
+           1.1.5.5 The effect on profit of different methods of depreciation.
+           1.1.5.6 The effect on profit of a change in the method of depreciation.
+           1.1.5.7 Disposal and disposal accounts for non-current assets.
+           1.1.5.8 Schedule of non-current assets.
+   1.2 Control procedures
+       1.2.1 Trial balance
+           1.2.1.1 The trial balance.
+           1.2.1.2 The limitations of a trial balance.
+       1.2.2 Control accounts
+           1.2.2.1 Control accounts as an independent check on receivable and payable ledgers.
+           1.2.2.2 Control accounts for trade receivable and trade payable ledgers.
+       1.2.3 Correction of errors
+           1.2.3.1 The errors that do and do not affect the balancing of the trial balance.
+           1.2.3.2 Journal entries to correct errors.
+           1.2.3.3 The suspense account.
+           1.2.3.4 Statements of revised profit.
+           1.2.3.5 Correction of errors in control accounts.
+   1.3 Financial statements of organisations
+       1.3.1 Financial statements of sole traders
+           1.3.1.1 Statements of profit or loss (and other comprehensive income) showing the gross profit and profit for the year.
+           1.3.1.2 Statements of financial position.
+       1.3.2 Year-end adjustments
+           1.3.2.1 Prepaid or accrued income or expenditure.
+           1.3.2.2 The nature and use of provisions.
+           1.3.2.3 Provisions for depreciation.
+           1.3.2.4 Irrecoverable debts and allowances for irrecoverable debts.
+       1.3.3 Departmental records
+           1.3.3.1 Statements of profit or loss (and other comprehensive income) in columnar format to show departmental profits/losses.
+       1.3.4 Incomplete records
+           1.3.4.1 Statements of profit or loss (and other comprehensive income) and statements of financial position from incomplete records and information.
+       1.3.5 Partnership
+           1.3.5.1 Statements of profit or loss (and other comprehensive income) and appropriation accounts.
+           1.3.5.2 Partners’ current accounts and capital accounts on a fixed or floating basis.
+           1.3.5.3 Use of the Partnership Agreement in appropriation of profit/loss.
+           1.3.5.4 Provisions of Section 24 of the Partnership Act 1890 in relation to partners’ salaries, division of profit or loss, interest on loans, capital and drawings.
+           1.3.5.5 Introduction (or retirement) of a partner, including the introduction of assets and treatment of goodwill.
+       1.3.6 Clubs and non-profit-making organisations
+           1.3.6.1 Receipts and payments accounts.
+           1.3.6.2 Trading accounts of different activities.
+           1.3.6.3 Subscription accounts.
+           1.3.6.4 Long-term/ life membership.
+           1.3.6.5 Losses of inventory or cash.
+           1.3.6.6 Income and expenditure accounts and statements of financial position.
+       1.3.7 Manufacturers
+           1.3.7.1 Manufacturing accounts with subheadings for prime cost, factory overhead, work in progress and production cost.
+           1.3.7.2 Allocation and apportionment of costs between products and functions.
+           1.3.7.3 Unrealised profit resulting from goods manufactured.
+   1.4 Introduction to costing
+       1.4.1 Valuation of inventory
+           1.4.1.1 Characteristics of Last In First Out (LIFO), First In First Out (FIFO) and Net Realisable Value (NRV) as methods of inventory valuation.
+           1.4.1.2 Inventory valuations using FIFO and LIFO on a perpetual and periodic basis.
+           1.4.1.3 The effect of different methods of inventory valuation on profit and the statements of financial position inventory value.
+       1.4.2 Labour costs
+           1.4.2.1 Labour productivity.
+           1.4.2.2 Methods of remuneration, day work, piecework, individual and group bonus schemes.
+           1.4.2.3 Employer cost and employee earnings under different remuneration methods.
+       1.4.3 Overhead costs
+           1.4.3.1 The characteristics of overhead expenses, fixed, semi-fixed, semi-variable and variable.
+           1.4.3.2 Allocation, apportionment and absorption of overheads.
+           1.4.3.3 Apportionment and continuous allotment of service departments.
+           1.4.3.4 Machine hour and labour hour rates per hour.
+           1.4.3.5 Over absorption and under absorption of overheads.
+       1.4.4 Job costing
+           1.4.4.1 Characteristics of job costing.
+           1.4.4.2 Job costing of batch production and customer orders.
+   1.5 Analysis of accounting statements
+       1.5.1 Ratios
+           1.5.1.1 Ratios: gross profit as a percentage of revenue, percentage mark-up, profit for the year as a percentage of revenue, return on capital employed (percentage), non-current assets to revenue, inventory turnover, current ratio, liquid (acid test) ratio, trade payables payment period, trade receivables collection period.
+       1.5.2 The profitability, liquidity and use of asset ratios in appraising sole traders and partnership financial statements.
+       1.5.3 Use of ratios to make future financial projections.
+   1.6 Social and ethical accounting
+       1.6.1 Social accounting
+           1.6.1.1 The implications of accounting decisions in the social context of the local community, environment, workforce, health and safety, and use of natural resources.
+           1.6.1.2 Significance of non-financial factors.
+           1.6.1.3 Effect of accounting decisions on different stakeholders.
+       1.6.2 Ethics
+           1.6.2.1 Ethics in accounting analysis and decision making.
+
+2. Unit 2: Corporate and Management Accounting
+   2.1 Limited companies
+       2.1.1 Financial statements
+           2.1.1.1 Financial statements in accordance with International Accounting Standards (IAS) 1: statement of comprehensive income, statement of changes in equity, statement of financial position.
+           2.1.1.2 The role of the auditor and content and importance of the Auditors’ Report and the Directors’ Report, including the role of the auditor in corporate governance.
+           2.1.1.3 The importance of disclosing continuing and discontinued activities and the significance of exceptional items.
+       2.1.2 Capital structure
+           2.1.2.1 Capital reserves and revenue reserves.
+           2.1.2.2 How the following reserves are created and utilised: retained earnings, general, foreign exchange, share premium, revaluation, capital redemption.
+           2.1.2.3 Authorised, issued and called-up share capital.
+           2.1.2.4 Rights issues and bonus issues.
+           2.1.2.5 Ledger accounts and journal entries to record the issue of new shares, bonus issues and rights issues.
+           2.1.2.6 The features of shares and debentures.
+           2.1.2.7 Capital gearing and its implications.
+           2.1.2.8 The creation and features of provisions.
+       2.1.3 Merger or purchase of limited companies
+           2.1.3.1 Journal entries and ledger accounts for the purchase of a limited company or the merger of two companies: revaluation account, realisation account, sundry shareholders’ account, acquisition account, purchase of a limited company using shares or cash, merger of limited companies using shares or cash.
+           2.1.3.2 Calculation of purchase price of a company: revaluation of assets and liabilities.
+           2.1.3.3 Statement of financial position of a limited company following purchase of or the merger with another company.
+           2.1.3.4 The calculation and correct treatment of goodwill.
+   2.2 Investment ratios
+       2.2.1 Investment ratios
+           2.2.1.1 Investment ratios: earnings per share, price earnings, dividend per share, dividend yield, dividend cover, return on capital employed.
+   2.3 Statement of cash flows
+       2.3.1 Statement of cash flows
+           2.3.1.1 Statement of cash flows in accordance with International Accounting Standard (IAS) 7.
+           2.3.1.2 The importance of liquidity to a company.
+   2.4 Budgeting
+       2.4.1 Budgeting
+           2.4.1.1 The role of budgeting as a management tool for planning, forecasting and control.
+           2.4.1.2 The process of budget preparation.
+           2.4.1.3 Budgets for: revenue, production, purchases, inventory, trade receivables, trade payables, capital, cash.
+           2.4.1.4 Budgeted statement of comprehensive income and statement of financial position.
+           2.4.1.5 Flexible budgets for variations in activity level.
+   2.5 Standard costing
+       2.5.1 Standard costing
+           2.5.1.1 The purpose of standard costing.
+           2.5.1.2 The stages in establishing a standard costing system collection of data from accounting records.
+           2.5.1.3 Variances: material variances (price, usage and total), labour variances (rate, efficiency and total), total fixed overhead variance, total variable overhead variance.
+           2.5.1.4 Possible reasons for variances.
+           2.5.1.5 Possible interrelationships between variances.
+           2.5.1.6 The principle of management by exception to variance analysis.
+   2.6 Project appraisal
+       2.6.1 Project appraisal
+           2.6.1.1 The application of: net present value, weighted average cost of capital, profitability index, internal rate of return.
+           2.6.1.2 The application of the non-discounted methods: average rate of return (accounting rate of return), payback period.
+   2.7 Break-even analysis
+       2.7.1 Break-even analysis
+           2.7.1.1 Calculation of fixed, semi-fixed, semi-variable, variable costs, selling price and net profit.
+           2.7.1.2 Contribution, break-even point and margin of safety.
+           2.7.1.3 Graphical representation of break-even analysis: fixed costs, total costs, sales revenue, break-even point, margin of safety, angle of incidence, area of profit or loss.
+   2.8 Marginal costing and absorption costing
+       2.8.1 Marginal costing and absorption costing
+           2.8.1.1 The concepts of marginal costing and absorption costing.
+           2.8.1.2 The advantages and disadvantages of marginal costing and absorption costing.
+           2.8.1.3 The valuation of inventory using marginal costing and absorption costing.
+           2.8.1.4 Marginal costing in decision making for: the acceptance/refusal of new orders, make or buy decisions, the continuation/discontinuation of a service or manufacture of a product.
+           2.8.1.5 Profit and loss statements using marginal costing and absorption costing.
+           2.8.1.6 The preferred course of action when there are limiting factors.
+   2.9 Information and communication technology (ICT) in accounting
+       2.9.1 Information and communication technology (ICT) in accounting
+           2.9.1.1 The uses of ICT in accounting in relation to costing products or services and the provision of management information: spreadsheets, software packages available for producing invoices, debtors list, payroll, tax returns etc., Electronic Point of Sale for a stock control system.
+           2.9.1.2 Advantages and disadvantages of using ICT in accounting, including audit trail, financial aspects, technical aspects, human aspects.

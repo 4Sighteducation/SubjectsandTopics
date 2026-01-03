@@ -1,0 +1,57 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": true,
+        "compulsory": ["Language (J282/01)"],
+        "optional": [
+            "Prose Literature A (J282/02)",
+            "Prose Literature B (J282/03)",
+            "Verse Literature A (J282/04)",
+            "Verse Literature B (J282/05)",
+            "Literature and Culture (J282/06)"
+        ]
+    },
+    "texts": {
+        "has_texts": true,
+        "text_locations": ["Content of Literature components", "Summary of the Latin set texts"],
+        "extraction_strategy": "separate_hierarchy"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": [
+            "Language",
+            "Prose and Verse Literature",
+            "Literature and Culture"
+        ],
+        "organization": "The content is organized by components, each with specific focus areas and assessment criteria.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "Language (J282/01)",
+            "Prose Literature A (J282/02)",
+            "Prose Literature B (J282/03)",
+            "Verse Literature A (J282/04)",
+            "Verse Literature B (J282/05)",
+            "Literature and Culture (J282/06)"
+        ],
+        "content_mapping": {
+            "Language (J282/01)": "Latin vocabulary, accidence, syntax, translation, comprehension",
+            "Prose Literature A (J282/02)": "Set texts, literary analysis",
+            "Prose Literature B (J282/03)": "Set texts, literary analysis",
+            "Verse Literature A (J282/04)": "Set texts, literary analysis",
+            "Verse Literature B (J282/05)": "Set texts, literary analysis",
+            "Literature and Culture (J282/06)": "Roman Civilisation and Culture, prescribed sources"
+        },
+        "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting component-based content, ensuring to capture the details of each written paper and the associated texts and topics."
+}
+```

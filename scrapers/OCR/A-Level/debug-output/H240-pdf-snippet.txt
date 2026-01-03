@@ -1,0 +1,92 @@
+
+=== PAGE 20 ===
+18
+Cambridge
+OCR
+Level
+3 Advanced
+GCE
+in
+Mathematics
+A
+Version
+3
+©
+Cambridge
+OCR
+2025
+2
+2f. Detailed Content of A Level Mathematics A (H240)
+1 – Pure Mathematics
+When this course is being co-taught with AS Level Mathematics A (H230) the ‘Stage 1’ column indicates the common content between the two specifications and the
+‘Stage 2’ column indicates content which is particular to this specification.
+OCR Ref. Subject Stage 1 learners should ... Stage 2 learners additionally should ... DfE Ref.
+Content
+1.01 Proof
+1.01a Proof a) Understand and be able to use the structure of d) Understand and be able to use proof by MA1
+1.01d mathematical proof, proceeding from given contradiction.
+assumptions through a series of logical steps to a
+In particular, learners should understand a proof of the
+conclusion.
+irrationality of 2 and the infinity of primes.
+In particular, learners should use methods of proof
+Questions requiring proof by contradiction will be set on
+including proof by deduction and proof by exhaustion.
+content with which the learner is expected to be familiar
+1.01b b) Understand and be able to use the logical e.g. through study of GCSE (9–1), AS or A Level
+& +
+connectives /, , . Mathematics.
+Learners should be familiar with the language associated
+with the logical connectives: “congruence”, “if..... then”
+and “if and only if” (or “iff”).
+1.01c c) Be able to show disproof by counter example.
+Learners should understand that this means that, given a
+statement of the form “if P(x) is true then Q(x) is true”,
+finding a single x for which P(x) is true but Q(x) is false is to
+offer a disproof by counter example.
+Questions requiring proof will be set on content with which
+the learner is expected to be familiar e.g. through study of
+GCSE (9–1) or AS Level Mathematics.
+Learners are expected to understand and be able to use
+terms such as “integer”, “real”, “rational” and “irrational”.
+=== PAGE 21 ===
+Cambridge
+OCR
+Level
+3
+Advanced
+GCE
+in
+Mathematics
+A
+19
+Version
+3
+©
+Cambridge
+OCR
+2025
+2
+OCR Ref. Subject Stage 1 learners should ... Stage 2 learners additionally should ... DfE Ref.
+Content
+1.02 Algebra and Functions
+1.02a Indices a) Understand and be able to use the laws of indices MB1
+for all rational exponents.
+Includes negative and zero indices.
+Problems may involve the application of more than one
+of the following laws:
+xa#xb =xa+b, xa'xb =xa-b,( xa)b =xab
+1
+x-a = , xm =n xm , x0 =1 .
+xa n
+1.02b Surds b) Be able to use and manipulate surds, including MB2
+rationalising the denominator.
+Learners should understand and use the equivalence of
+surd and index notation.
+1.02c Simultaneous c) Be able to solve simultaneous equations in two MB4
+equations variables by elimination and by substitution,
+including one linear and one quadratic equation.
+The equations may contain brackets and/or fractions.
+e.g.
+y=4-3 x and y=x2+2x-2
+2 xy+y2 =4 and 2 x+3 y =9

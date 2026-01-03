@@ -1,0 +1,176 @@
+{
+  "Biology - A-Level": {
+    "subject": "Biology",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/biology-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/2ltc54x1/eduqas-a-level-biology-spec-from-2015-e-1410.pdf"
+  },
+  "Art and Design - A-Level": {
+    "subject": "Art and Design",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/art-and-design-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/a3ndenvr/eduqas-a-level-art-and-design-spec-from-2015-e-090119.pdf"
+  },
+  "Business - A-Level": {
+    "subject": "Business",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/business-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/h4mljngz/eduqas-a-business-spec-from-2015.pdf"
+  },
+  "Chemistry - A-Level": {
+    "subject": "Chemistry",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/chemistry-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/1adby0gf/eduqas-a-level-chemistry-spec-from-2015-e.pdf"
+  },
+  "Computer Science - A-Level": {
+    "subject": "Computer Science",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/computer-science-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/zhpapwjj/eduqas-a-level-computer-science-spec-from-2015-e-24-01-2020.pdf"
+  },
+  "Design and Technology - A-Level": {
+    "subject": "Design and Technology",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/design-and-technology-gcse/",
+    "pdf_url": "https://www.eduqas.co.uk/media/25tlhhbw/gcse-design-and-technology-specification.pdf"
+  },
+  "Drama - A-Level": {
+    "subject": "Drama",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/drama-and-theatre-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/4fyb0ikx/eduqas-as-drama-spec-from-2016-e-270824.pdf"
+  },
+  "Economics - A-Level": {
+    "subject": "Economics",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/economics-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/odmjnwaa/eduqas-a-economics-spec-from-2015.pdf"
+  },
+  "Electronics - A-Level": {
+    "subject": "Electronics",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/electronics-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/iuphdsc3/eduqas-a-level-electronics-spec-from-2017-e.pdf"
+  },
+  "English Language - A-Level": {
+    "subject": "English Language",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/english-language-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/fxefxsd5/wjec-eduqas-a-level-english-language-specification-from-2015.pdf"
+  },
+  "English Language and Literature - A-Level": {
+    "subject": "English Language and Literature",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/english-language-and-literature-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/ffqmxpr5/eduqas-a-english-lang-and-lit-spec-from-2015.pdf"
+  },
+  "English Literature - A-Level": {
+    "subject": "English Literature",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/english-literature-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/gkxh25ep/eduqas-a-level-english-lit-spec-from-2015-e.pdf"
+  },
+  "Film Studies - A-Level": {
+    "subject": "Film Studies",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/film-studies-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/2vzaeag1/eduqas-a-level-film-studies-spec-from-2017.pdf"
+  },
+  "French - A-Level": {
+    "subject": "French",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/french-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/pb5dz24v/eduqas-a-level-french-spec-from-2016-r.pdf"
+  },
+  "Geography - A-Level": {
+    "subject": "Geography",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/geography-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/ln4locyz/eduqas-a-level-geography-spec-from-2016-e-24-01-2020.pdf"
+  },
+  "Geology - A-Level": {
+    "subject": "Geology",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/geology-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/rckbdnax/eduqas-a-level-geology-spec-from-2017-e-24-01-2020.pdf"
+  },
+  "German - A-Level": {
+    "subject": "German",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/german-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/zf1klbxf/eduqas-a-level-german-spec-from-2016-r.pdf"
+  },
+  "Law - A-Level": {
+    "subject": "Law",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/law-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/sredngqq/eduqas-a-level-law-spec-from-2017-e-27-01-2020.pdf"
+  },
+  "Media Studies - A-Level": {
+    "subject": "Media Studies",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/media-studies-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/kprhs5jd/a-level-media-studies-specification.pdf"
+  },
+  "Music - A-Level": {
+    "subject": "Music",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/music-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/i00jzys1/eduqas-a-level-music-spec-from-2016-e-260125.pdf"
+  },
+  "Physical Education - A-Level": {
+    "subject": "Physical Education",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/physical-education-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/avjhdg4g/eduqas-a-level-physical-education-spec-from-2016-e-07-08-2020.pdf"
+  },
+  "Physics - A-Level": {
+    "subject": "Physics",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/physics-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/1gjjlldz/eduqas-a-level-physics-spec-from-2015-e-2310.pdf"
+  },
+  "Psychology - A-Level": {
+    "subject": "Psychology",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/psychology-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/t3xf3yae/eduqas-a-level-psychology-spec-from-2015-e.pdf"
+  },
+  "Religious Studies - A-Level": {
+    "subject": "Religious Studies",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/religious-studies-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/3jplmlqa/eduqas-a-level-religious-studies-spec.pdf"
+  },
+  "Sociology - A-Level": {
+    "subject": "Sociology",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/sociology-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/heonctwb/eduqas-a-level-sociology-spec-from-2015-e-290119.pdf"
+  },
+  "Spanish - A-Level": {
+    "subject": "Spanish",
+    "level": "A-Level",
+    "subject_page_url": "https://www.eduqas.co.uk/ed/qualifications/spanish-asa-level/",
+    "pdf_url": "https://www.eduqas.co.uk/media/alshgmtg/eduqas-a-level-spanish-spec-from-2016-r.pdf"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

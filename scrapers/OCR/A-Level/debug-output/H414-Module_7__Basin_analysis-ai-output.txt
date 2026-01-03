@@ -1,0 +1,54 @@
+7 Module 7: Basin analysis
+7.1 Key concepts for basin analysis
+7.1.1 The changing Earth
+7.1.1.1 (a) how the Earth has changed through geological time (with particular focus on the Phanerozoic Eon):
+7.1.1.1.1 (i) the changes in the distribution of continents from the Neoproterozoic – refer to 3.2.1
+7.1.1.1.2 (ii) the long term changes in the Earth’s climate and composition of the atmosphere
+7.1.1.1.3 (iii) the long term changes in global sea level
+7.1.1.1.4 (iv) how the Wilson cycle model can provide an outline framework to understand these long term changes and the link to mass extinctions
+7.1.1.2 (b) how the long term changes in 7.1.1(a) can be interpreted from both the geological record (palaeoenvironments) and the geochemistry of the rocks, including isotope studies
+7.1.1.3 (c) how the current rate and scale of environmental and biological change illustrate the application of geochronological principles, and are of the same order as those used to divide the geological timescale.
+7.1.2 Evolution and applied palaeontology
+7.1.2.1 (a) how the evolution of life on Earth, displayed in the marine fossil record, is used as evidence to investigate long term gradual change
+7.1.2.1.1 (i) the adaptation of the basic trilobite morphology to occupy multiple marine niches during the Palaeozoic
+7.1.2.1.2 (ii) the application of the ecology of modern reef building (scleractinian) corals to interpret and compare fossil corals (tablulate, rugose) as palaeoenvironmental indicators of reef building in the geological record
+7.1.2.1.3 (iii) the adaptation of the basic brachiopod morphology to occupy high energy and low energy marine environments
+7.1.2.1.4 (iv) the morphological similarities and differences between brachiopods and bivalves
+7.1.2.2 (b) how the evolution of life on Earth, displayed in the terrestrial fossil record, is used as evidence to investigate long term gradual change
+7.1.2.2.1 (i) how amphibians evolved from marine animals in the Devonian and were adapted to terrestrial life in the Carboniferous
+7.1.2.2.2 (ii) the characteristics of the amniotic egg and the evolutionary advantage it gave for the development of life on land
+7.1.2.2.3 (iii) the adaptation of the basic dinosaur morphology to occupy different terrestrial niches as exemplified by saurischian (sauropoda, theropoda) and ornithichian dinosaurs
+7.1.2.2.4 (iv) how birds evolved from theropoda and the morphological similarities and differences between birds and pterosauria.
+7.1.3 Mass extinctions
+7.1.3.1 (a) how the fossil record provides evidence for a number of short term catastrophic events through geological time known as mass extinctions and their probable causes
+7.1.3.2 (b) how mass extinctions resulted in the replacement of the dominant forms in major ecological habitats.
+7.2 Basin analysis in practice
+7.2.1 Lagerstätten deposits
+7.2.1.1 (a) the geological settings and sedimentary conditions that led to the exceptional preservation of organisms in key Lagerstätten deposits from the Middle Cambrian Burgess Shale (Canada) and the Lower Cambrian Chengjiang Formation (China)
+7.2.1.1.1 (i) the mechanism of preservation of hard and soft tissues in these Lagerstätten deposits
+7.2.1.1.2 (ii) how these Lagerstätten deposits provide the evidence for the Cambrian explosion
+7.2.1.2 (b) the geological settings and sedimentary conditions that led to the exceptional preservation of organisms in the Jurassic Solnhofen Limestone (Germany)
+7.2.1.2.1 (i) the preservation of feathers, hard and soft tissues in a range of organisms
+7.2.1.2.2 (ii) the evidence for the evolution of Archaeopteryx.
+7.2.2 Oil and gas basins
+7.2.2.1 (a) the principles of basin analysis as applied to the prospecting for hydrocarbons in the North Sea Basin:
+7.2.2.1.1 (i) the geological settings and sedimentary conditions that led to the formation of oil and natural gas in the North Sea Basin
+7.2.2.1.2 (ii) the palaeoenvironments where the source rocks, reservoir rocks and caprocks formed
+7.2.2.1.3 (iii) the process of maturation to form oil and natural gas in the source rock
+7.2.2.2 (b) (i) the process of migration of oil and natural gas (fluids) from a source rock to reservoir rock under a caprock and the factors that control migration
+7.2.2.2.1 (ii) The process of rifting and synsedimentary faulting in the North Sea Basin which allowed oil and natural gas traps to form
+7.2.2.2.2 (iii) The accumulation of oil and gas in trap structures under caprocks
+7.2.2.3 (c) (i) geophysical exploration techniques to interpret the structural history of the basin and locate hydrocarbon reserves
+7.2.2.3.1 (ii) exploration drilling and downhole logging techniques to locate hydrocarbon reserves and plan field development
+7.2.2.3.2 (iii) the use of microfossils in biostratigraphy and palaeoenvironmental analysis to locate hydrocarbon reserves
+7.2.2.4 (d) how the same principles of basin analysis can be applied to onshore hydrocarbon basins.
+7.2.3 Whole basin facies analysis
+7.2.3.1 (a) the principles of basin analysis to the integration of the sedimentology and palaeontology of the Welsh basin:
+7.2.3.1.1 (i) the geological settings and sedimentary conditions in the Welsh Basin, throughout the Cambrian, Ordovician and Silurian periods.
+7.2.3.1.2 (ii) how palaeoenvironments in the Welsh Basin can be determined by the analysis of facies (sediments and fossils)
+7.2.3.1.3 (iii) the zonation of the Welsh Basin using zone fossils
+7.2.3.2 (b) the principles of basin analysis in relation to the Jurassic rocks which crop out across the United Kingdom (in a local context):
+7.2.3.2.1 (i) the evidence for the geological setting and cyclical sedimentation in shallow seas
+7.2.3.2.2 (ii) facies analysis of the sediments formed in the basin (sedimentary structures, sediment type and fossils) to determine palaeoenvrionments
+7.2.3.2.3 (iii) the zonation and correlation of the Jurassic Period using ammonites and belemnites
+7.2.3.3 (c) practical investigation integrating field geology and secondary data (e.g. geological maps, seismic data, well logs, fossils) to understand the palaeoenvironments and geological history within the context of a basin wide study.

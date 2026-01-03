@@ -1,0 +1,501 @@
+0 Foundation Tier
+1 Chapter P1: Radiation and waves
+1.1 P1.1 What are the risks and benefits of using radiations?
+1.1.1 Describe the main groupings of the electromagnetic spectrum – radio, microwave, infrared, visible (red to violet), ultraviolet, X-rays and gamma rays, that these range from long to short wavelengths, from low to high frequencies, and from low to high energies.
+1.1.2 Recall that our eyes can only detect a very limited range of frequencies in the electromagnetic spectrum.
+1.1.3 Recall that all electromagnetic radiation is transmitted through space with the same very high (but finite) speed.
+1.1.4 Explain, with examples, that electromagnetic radiation transfers energy from source to absorber.
+1.1.5 Recall that different substances may absorb, transmit, or reflect electromagnetic radiation in ways that depend on wavelength.
+1.1.6 Recall that in each atom its electrons are arranged at different distances from the nucleus, that such arrangements may change with absorption or emission of electromagnetic radiation, and that atoms can become ions by loss of outer electrons.
+1.1.7 Recall that changes in molecules, atoms and nuclei can generate and absorb radiations over a wide frequency range, including:
+1.1.7.1 Gamma rays are emitted from the nuclei of atoms.
+1.1.7.2 X-rays, ultraviolet and visible light are generated when electrons in atoms lose energy.
+1.1.7.3 High energy ultraviolet, gamma rays and X-rays have enough energy to cause ionisation when absorbed by some atoms.
+1.1.7.4 Ultraviolet is absorbed by oxygen to produce ozone, which also absorbs ultraviolet, protecting life on Earth.
+1.1.7.5 Infrared is emitted and absorbed by molecules.
+1.1.8 Describe how ultra-violet radiation, X-rays and gamma rays can have hazardous effects, notably on human bodily tissues.
+1.1.9 Give examples of some practical uses of electromagnetic radiation in the radio, microwave, infrared, visible, ultraviolet, X-ray and gamma ray regions of the spectrum.
+1.1.10 Recall that radio waves can be produced by, or can themselves induce, oscillations in electrical circuits.
+1.2 P1.2 What is climate change and what is the evidence for it?
+1.2.1 Explain that all bodies emit radiation, and that the intensity and wavelength distribution of any emission depends on their temperatures.
+1.2.2 Explain how the temperature of a body is related to the balance between incoming radiation, absorbed radiation and radiation emitted; illustrate this balance, using everyday examples including examples of factors which determine the temperature of the Earth.
+1.3 P1.3 How do waves behave?
+1.3.1 Describe wave motion in terms of amplitude, wavelength, frequency and period.
+1.3.2 Describe evidence that for both ripples on water surfaces and sound waves in air, it is the wave and not the water or air itself that travels.
+1.3.3 Describe the difference between transverse and longitudinal waves.
+1.3.4 Describe how waves on a rope are an example of transverse waves whilst sound waves in air are longitudinal waves.
+1.3.5 Define wavelength and frequency.
+1.3.6 Recall and apply the relationship between speed, frequency and wavelength to waves, including waves on water, sound waves and across the electromagnetic spectrum: wave speed (m/s) = frequency (Hz) × wavelength (m).
+1.3.7 Describe how the speed of ripples on water surfaces and the speed of sound waves in air may be measured.
+1.3.8 Describe the effects of reflection and refraction of waves at material interfaces.
+1.3.9 Recall that waves travel in different substances at different speeds and that these speeds may vary with wavelength.
+1.3.10 Explain how refraction is related to differences in the speed of the waves in different substances.
+1.3.11 Recall that light is an electromagnetic wave.
+1.3.12 Recall that electromagnetic waves are transverse.
+1.4 P1.4 What happens when light and sound meet different materials? (separate science only)
+1.4.1 Construct and interpret two-dimensional ray diagrams to illustrate specular reflection by mirrors.
+1.4.2 Construct and interpret two-dimensional ray diagrams to illustrate refraction at a plane surface and dispersion by a prism.
+1.4.3 Use ray diagrams to illustrate the similarities and differences between convex and concave lenses.
+1.4.4 Describe the effects of transmission, and absorption of waves at material interfaces.
+1.4.5 Explain how colour is related to differential absorption, transmission, and scattering.
+1.4.6 Describe, with examples, processes in which sound waves are transmitted though solids.
+1.4.7 Explain that transmission of sound through the bones in the ear works over a limited frequency range, and the relevance of this to human hearing.
+1.4.8 Explain, in qualitative terms, how the differences in velocity, absorption and reflection between different types of waves in solids and liquids can be used both for detection and for exploration of structures which are hidden from direct observation, notably:
+1.4.8.1 In our bodies (ultrasound imaging).
+1.4.8.2 In the Earth (earthquake waves).
+1.4.8.3 In deep water (SONAR).
+1.4.9 Show how changes, in speed, frequency and wavelength, in transmission of sound waves from one medium to another, are inter-related.
+2 Chapter P2: Sustainable energy
+2.1 P2.1 How much energy do we use?
+2.1.1 Describe how energy in chemical stores in batteries, or in fuels at the power station, is transferred by an electric current, doing work on domestic devices, such as motors or heaters.
+2.1.2 Explain, with reference to examples, the relationship between the power ratings for domestic electrical appliances, the time for which they are in use and the changes in stored energy when they are in use.
+2.1.3 Recall and apply the following equation in the context of energy transfers by electrical appliances: energy transferred (J, kWh) = power (W, kW) × time (s, h).
+2.1.4 Describe, with examples, where there are energy transfers in a system, that there is no net change to the total energy of a closed system.
+2.1.5 Describe, with examples, system changes, where energy is dissipated, so that it is stored in less useful ways.
+2.1.6 Explain ways of reducing unwanted energy transfer e.g. through lubrication, thermal insulation.
+2.1.7 Describe the effects, on the rate of cooling of a building, of thickness and thermal conductivity of its walls.
+2.1.8 Recall and apply the equation: efficiency = useful energy transferred (J) / total energy transferred (J) to calculate energy efficiency for any energy transfer, and describe ways to increase efficiency.
+2.1.9 Interpret and construct Sankey diagrams to show understanding that energy is conserved.
+2.2 P2.2 How can electricity be generated?
+2.2.1 Describe the main energy resources available for use on Earth (including fossil fuels, nuclear fuel, biofuel, wind, hydroelectricity, the tides and the Sun).
+2.2.2 Explain the differences between renewable and non-renewable energy resources.
+2.2.3 Compare the ways in which the main energy resources are used to generate electricity.
+2.2.4 Recall that the domestic supply in the UK is a.c., at 50 Hz and about 230 volts and explain the difference between direct and alternating voltage.
+2.2.5 Recall that, in the National Grid, transformers are used to transfer electrical power at high voltages from power stations, to the network and then used again to transfer power at lower voltages in each locality for domestic use.
+2.2.6 Recall the differences in function between the live, neutral and earth mains wires, and the potential differences between these wires; hence explain that a live wire may be dangerous even when a switch in a mains circuit is open, and explain the dangers of providing any connection between the live wire and any earthed object.
+2.2.7 Explain patterns and trends in the use of energy resources in domestic contexts, workplace contexts, and national contexts.
+3 Chapter P3: Electric circuits
+3.1 P3.1 What is electric charge? (separate science only)
+3.1.1 Describe the production of static electricity, and sparking, by rubbing surfaces, and evidence that charged objects exert forces of attraction or repulsion on one another when not in contact.
+3.1.2 Explain how transfer of electrons between objects can explain the phenomenon of static electricity.
+3.1.3 Explain the concept of an electric field and how it helps to explain the phenomenon of static electricity.
+3.2 P3.2 What determines the current in an electric circuit?
+3.2.1 Recall that current is a rate of flow of charge, that for a charge to flow, a source of potential difference and a closed circuit are needed and that a current has the same value at any point in a single closed loop.
+3.2.2 Recall and use the relationship between quantity of charge, current and time: charge (C) = current (A) × time (s).
+3.2.3 Recall that current, I, depends on both the resistance, R, and potential difference, V, and the units in which these quantities are measured.
+3.2.4 Recall and apply the relationship between I, R, and V, to calculate the currents, potential differences and resistances in d.c. series circuits: potential difference (V) = current (A) × resistance (Ω).
+3.2.5 Recall that for some components the value of R remains constant (fixed resistors) but that in others it can change as the current changes (e.g. heating elements, lamp filaments).
+3.2.6 Use graphs to explore whether circuit elements are linear or non-linear and relate the curves produced to their function and properties.
+3.2.7 Represent circuits with the conventions of positive and negative terminals, and the symbols that represent common circuit elements, filament lamps, diodes, LDRs and thermistors, switches and fixed and variable resistors.
+3.3 P3.3 How do series and parallel circuits work?
+3.3.1 Relate the potential difference between two points in the circuit to the work done on, or by, a given amount of charge as it moves between these points.
+3.3.2 Describe the difference between series and parallel circuits: to include ideas about how the current through each component and the potential difference across each component is affected by a change in resistance of a component.
+3.3.3 Explain, why, if two resistors are in series the net resistance is increased, whereas with two in parallel the net resistance is decreased.
+3.3.4 Solve problems for circuits which include resistors in series, using the concept of equivalent resistance.
+3.3.5 Explain the design and use of d.c. series circuits for measurement and testing purposes including exploring the effect of:
+3.3.5.1 Changing current in filament lamps, diodes, thermistors and LDRs.
+3.3.5.2 Changing light intensity on an LDR.
+3.3.5.3 Changing temperature of a thermistor (NTC only).
+3.4 P3.4 What determines the rate of energy transfer in a circuit?
+3.4.1 Describe the energy transfers that take place when a system is changed by work done when a current flows through a component.
+3.4.2 Explain, with reference to examples, how the power transfer in any circuit device is related to the energy transferred from the power supply to the device and its surroundings over a given time.
+3.4.3 Recall and use the relationship between the potential difference across the component and the total charge to calculate the energy transferred in an electric circuit when a current flows through a component: energy transferred (work done) (J) = charge (C) × potential difference (V).
+3.4.4 Recall and apply the relationships between power transferred in any circuit device, the potential difference across it, the current through it, and its resistance:
+3.4.4.1 Power (W) = potential difference (V) × current (A).
+3.4.4.2 Power (W) = (current (A))^2 × resistance (Ω).
+3.4.5 Use the idea of conservation of energy to show that when a transformer steps up the voltage, the output current must decrease and vice versa.
+3.4.6 Explain how transmitting power at higher voltages is more efficient way to transfer energy.
+3.5 P3.5 What are magnetic fields?
+3.5.1 Describe the attraction and repulsion between unlike and like poles for permanent magnets.
+3.5.2 Describe the characteristics of the magnetic field of a magnet, showing how strength and direction change from one point to another.
+3.5.3 Explain how the behaviour of a magnetic compass is related to evidence that the core of the Earth must be magnetic.
+3.5.4 Describe the difference between permanent and induced magnets.
+3.5.5 Describe how to show that a current can create a magnetic effect.
+3.5.6 Describe the pattern and directions of the magnetic field around a conducting wire.
+3.5.7 Recall that the strength of the field depends on the current and the distance from the conductor.
+3.5.8 Explain how the magnetic effect of a solenoid can be increased.
+3.5.9 Explain how a solenoid can be used to generate sound in loudspeakers and headphones (separate science only).
+3.6 P3.6 How do electric motors work?
+3.6.1 Describe the interaction forces between a magnet and a current-carrying conductor to include ideas about magnetic fields.
+3.6.2 Show that Fleming’s left-hand rule represents the relative orientations of the force, the conductor and the magnetic field.
+3.6.3 Select and apply the equation that links the force, F, on a conductor to the strength of the field, B, the size of the current, I, and the length of conductor, l, to calculate the forces involved: force (N) = magnetic flux density (T) × current (A) × length of conductor (m).
+3.6.4 Explain how the force on a conductor in a magnetic field is used to cause rotation in the rectangular coil of a simple electric motor.
+3.7 P3.7 What is the process inside an electric generator? (separate science only)
+3.7.1 Recall that a change in the magnetic field around a conductor can give rise to an induced potential difference across its ends, which could drive a current.
+3.7.2 Explain the action of a moving coil microphone in converting the pressure variations in sound waves into variations in current in electrical circuits.
+3.7.3 Recall that the direction of the induced potential difference drives a current which generates a second magnetic field that would oppose the original change in field.
+3.7.4 Use ideas about electromagnetic induction to explain a potential difference/time graph showing the output from an alternator being used to generate a.c.
+3.7.5 Explain how an alternator can be adapted to produce a dynamo to generate d.c., including explaining a potential difference/time graph.
+3.7.6 Explain how the effect of an alternating current in one circuit in inducing a current in another is used in transformers.
+3.7.7 Describe how the ratio of the potential differences across the two coils in a transformer depends on the ratio of the numbers of turns in each.
+3.7.8 Apply the equations linking the potential differences and numbers of turns in the two coils of a transformer, to the currents and the power transfer involved and relate these to the advantages of power transmission at high voltages.
+4 Chapter P4: Explaining motion
+4.1 P4.1 What are forces?
+4.1.1 Recall and apply Newton’s third law.
+4.1.2 Recall examples of ways in which objects interact: by gravity, electrostatics, magnetism and by contact (including normal contact force and friction).
+4.1.3 Describe how examples of gravitational, electrostatic, magnetic and contact forces involve interactions between pairs of objects which produce a force on each object.
+4.1.4 Represent interaction forces as vectors.
+4.1.5 Define weight.
+4.1.6 Describe how weight is measured.
+4.1.7 Recall and apply the relationship between the weight of an object, its mass and the gravitational field strength: weight (N) = mass (kg) × gravitational field strength (N/kg).
+4.2 P4.2 How can we describe motion?
+4.2.1 Recall and apply the relationship: average speed (m/s) = distance (m) / time (s).
+4.2.2 Recall typical speeds encountered in everyday experience for wind, and sound, and for walking, running, cycling and other transportation systems.
+4.2.3 Make measurements of distances and times, and calculate speeds.
+4.2.4 Make calculations using ratios and proportional reasoning to convert units, to include between m/s and km/h.
+4.2.5 Explain the vector–scalar distinction as it applies to displacement and distance, velocity and speed.
+4.2.6 Recall and apply the relationship: acceleration (m/s^2) = change in speed (m/s) / time taken (s).
+4.2.7 Select and apply the relationship: (final speed (m/s))^2 – (initial speed (m/s))^2 = 2 × acceleration (m/s^2) × distance (m).
+4.2.8 Draw and use graphs of distances and speeds against time to determine the speeds and accelerations involved.
+4.2.9 Interpret distance–time and velocity–time graphs, including relating the lines and slopes in such graphs to the motion represented.
+4.2.10 Interpret enclosed areas in velocity–time graphs.
+4.2.11 Recall the value of acceleration in free fall and calculate the magnitudes of everyday accelerations using suitable estimates of speeds and times.
+4.3 P4.3 What is the connection between forces and motion?
+4.3.1 Describe examples of the forces acting on an isolated solid object or system.
+4.3.2 Describe, using free body diagrams, examples where several forces lead to a resultant force on an object and the special case of balanced forces (equilibrium) when the resultant force is zero.
+4.3.3 Use scale drawings of vector diagrams to illustrate the addition of two or more forces, in situations when there is a net force, or equilibrium.
+4.3.4 Recall and apply the equation for momentum and describe examples of the conservation of momentum in collisions: momentum (kg m/s) = mass (kg) × velocity (m/s).
+4.3.5 Select and apply Newton’s second law in calculations relating force, change in momentum and time: change in momentum (kg m/s) = resultant force (N) × time for which it acts (s).
+4.3.6 Apply Newton’s first law to explain the motion of objects moving with uniform velocity and also the motion of objects where the speed and/or direction changes.
+4.3.7 Explain with examples that motion in a circular orbit involves constant speed but changing velocity.
+4.3.8 Describe examples in which forces cause rotation (separate science only).
+4.3.9 Define and calculate the moment of examples of rotational forces using the equation: moment of a force (N m) = force (N) × distance (m) (normal to direction of the force) (separate science only).
+4.3.10 Explain, with examples, how levers and gears transmit the rotational effects of forces (separate science only).
+4.3.11 Explain that inertial mass is a measure of how difficult it is to change the velocity of an object and that it is defined as the ratio of force over acceleration.
+4.3.12 Recall and apply Newton’s second law relating force, mass and acceleration: force (N) = mass (kg) × acceleration (m/s^2).
+4.3.13 Use and apply equations relating force, mass, velocity, acceleration, and momentum to explain relationships between the quantities.
+4.3.14 Explain methods of measuring human reaction times and recall typical results.
+4.3.15 Explain the factors which affect the distance required for road transport vehicles to come to rest in emergencies and the implications for safety.
+4.3.16 Explain the dangers caused by large decelerations and estimate the forces involved in typical situations on a public road.
+4.3.17 Given suitable data, estimate the distance required for road vehicles to stop in an emergency, and describe how the distance varies over a range of typical speeds (separate science only).
+4.3.18 In the context of everyday road transport, use estimates of speeds, times and masses to calculate the accelerations and forces involved in events where large accelerations occur (separate science only).
+4.4 P4.4 How can we describe motion in terms of energy transfers?
+4.4.1 Describe the energy transfers involved when a system is changed by work done by forces including:
+4.4.1.1 To raise an object above ground level.
+4.4.1.2 To move an object along the line of action of the force.
+4.4.2 Recall and apply the relationship to calculate the work done (energy transferred) by a force: work done (N m or J) = force (N) × distance (m) (along the line of action of the force).
+4.4.3 Recall the equation and calculate the amount of energy associated with a moving object: kinetic energy (J) = 1/2 × mass (kg) × (speed (m/s))^2.
+4.4.4 Recall the equation and calculate the amount of energy associated with an object raised above ground level: gravitational potential energy (J) = mass (kg) × gravitational field strength (N/kg) × height (m).
+4.4.5 Make calculations of the energy transfers associated with changes in a system, recalling relevant equations for mechanical processes.
+4.4.6 Calculate relevant values of stored energy and energy transfers; convert between newton metres and joules.
+4.4.7 Describe all the changes involved in the way energy is stored when a system changes, for common situations: including an object projected upwards or up a slope, a moving object hitting an obstacle, an object being accelerated by a constant force, a vehicle slowing down.
+4.4.8 Explain, with reference to examples, the definition of power as the rate at which energy is transferred (work done) in a system.
+4.4.9 Recall and apply the relationship: power (W) = energy transferred (J) / time (s).
+5 Chapter P5: Radioactive materials
+5.1 P5.1 What is radioactivity?
+5.1.1 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with almost all of the mass in the nucleus.
+5.1.2 Describe how and why the atomic model has changed over time to include the main ideas of Dalton, Thomson, Rutherford and Bohr.
+5.1.3 Recall the typical size (order of magnitude) of atoms and small molecules.
+5.1.4 Recall that atomic nuclei are composed of both protons and neutrons, and that the nucleus of each element has a characteristic positive charge.
+5.1.5 Recall that nuclei of the same element can differ in nuclear mass by having different numbers of neutrons, these are called isotopes.
+5.1.6 Use the conventional representation to show the differences between isotopes, including their identity, charge and mass.
+5.1.7 Recall that some nuclei are unstable and may emit alpha particles, beta particles, or neutrons, and electromagnetic radiation as gamma rays.
+5.1.8 Relate emissions of alpha particles, beta particles, or neutrons, and gamma rays to possible changes in the mass or the charge of the nucleus, or both.
+5.1.9 Use names and symbols of common nuclei and particles to write balanced equations that represent the emission of alpha, beta, gamma, and neutron radiations during radioactive decay.
+5.1.10 Explain the concept of half-life and how this is related to the random nature of radioactive decay.
+5.1.11 Calculate the net decline, expressed as a ratio, in a radioactive emission after a given (integral) number of half-lives.
+5.1.12 Interpret activity-time graphs to find the half-life of radioactive materials.
+5.2 P5.2 How can radioactive materials be used safely?
+5.2.1 Recall the differences in the penetration properties of alpha particles, beta particles and gamma rays.
+5.2.2 Recall the differences between contamination and irradiation effects and compare the hazards associated with each of these.
+5.2.3 Describe the different uses of nuclear radiations for exploration of internal organs, and for control or destruction of unwanted tissue.
+5.2.4 Explain how ionising radiation can have hazardous effects, notably on human bodily tissues.
+5.2.5 Explain why the hazards associated with radioactive material differ according to the radiation emitted and the half-life involved.
+5.3 P5.3 How can radioactive materials be used to provide energy? (separate science only)
+5.3.1 Recall that some nuclei are unstable and may split into two nuclei and that this is called nuclear fission.
+5.3.2 Relate the energy released during nuclear fission to the emission of ionising radiation and the kinetic energy of the resulting particles.
+5.3.3 Explain how nuclear fission can lead to further fission events in a chain reaction.
+5.3.4 Describe the process of nuclear fusion and recall that in this process some of the mass may be converted into the energy of radiation.
+6 Chapter P6: Matter – models and explanations
+6.1 P6.1 How does energy transform matter?
+6.1.1 Define density.
+6.1.2 Describe how to determine the densities of solid and liquid objects using measurements of length, mass and volume.
+6.1.3 Recall and apply the relationship between density, mass and volume to changes where mass is conserved: density (kg/m^3) = mass (kg) / volume (m^3).
+6.1.4 Describe the energy transfers involved when a system is changed by heating (in terms of temperature change and specific heat capacity).
+6.1.5 Define the term specific heat capacity and distinguish between it and the term specific latent heat.
+6.1.6 Select and apply the relationship between change in internal energy of a material and its mass, specific heat capacity and temperature: change in internal energy (J) = mass (kg) × specific heat capacity (J/kg°C) × change in temperature (°C).
+6.1.7 Select and apply the relationship between energy needed to cause a change in state, specific latent heat and mass: energy to cause a change of state (J) = mass (kg) × specific latent heat (J/kg).
+6.1.8 Describe all the changes involved in the way energy is stored when a system changes, and the temperature rises, for example: a moving object hitting an obstacle, an object slowing down, water brought to a boil in an electric kettle.
+6.1.9 Make calculations of the energy transfers associated with changes in a system when the temperature changes, recalling or selecting the relevant equations for mechanical, electrical, and thermal processes.
+6.2 P6.2 How does the particle model explain the effects of heating?
+6.2.1 Explain the differences in density between the different states of matter in terms of the arrangements of the atoms or molecules.
+6.2.2 Use the particle model of matter to describe how mass is conserved, when substances melt, freeze, evaporate, condense or sublimate, but that these physical changes differ from chemical changes and the material recovers its original properties if the change is reversed.
+6.2.3 Use the particle model to describe how heating a system will change the energy stored within the system and raise its temperature or produce changes of state.
+6.2.4 Explain how the motion of the molecules in a gas is related both to its temperature and its pressure: hence explain the relationship between the temperature of a gas and its pressure at constant volume.
+6.3 P6.3 How does the particle model relate to material under stress?
+6.3.1 Explain, with examples, that to stretch, bend or compress an object, more than one force has to be applied.
+6.3.2 Describe and use the particle model to explain the difference between elastic and plastic deformation caused by stretching forces.
+6.3.3 Describe the relationship between force and extension for a spring and other simple systems that behave elastically.
+6.3.4 Describe the difference between the force-extension relationship for linear systems and for non-linear systems.
+6.3.5 Recall and apply the relationship between force, extension and spring constant for systems where the force-extension relationship is linear: force exerted by a spring (N) = spring constant (N/m) × extension (m).
+6.3.6 Calculate the work done in stretching a spring or other simple system, by calculating the appropriate area on the force-extension graph.
+6.3.7 Select and apply the relationship between energy stored, spring constant and extension for a linear system: energy stored in a stretched spring (J) = 1/2 × spring constant (N/m) × (extension (m))^2.
+6.4 P6.4 How does the particle model relate to pressures in fluids? (separate science only)
+6.4.1 Recall that the pressure in fluids causes a force normal to any surface.
+6.4.2 Recall and apply the relationship between the force, the pressure, and the area in contact: pressure (Pa) = force normal to a surface (N) / area of that surface (m^2).
+6.4.3 Recall that gases can be compressed or expanded by pressure changes and that the pressure produces a net force at right angles to any surface.
+6.4.4 Use the particle model of matter to explain how increasing the volume in which a gas is contained, at constant temperature, can lead to a decrease in pressure.
+6.4.5 Select and apply the equation: pressure (Pa) × volume (m^3) = constant (for a given mass of gas at constant temperature).
+6.4.6 Describe a simple model of the Earth’s atmosphere and of atmospheric pressure, and explain why atmospheric pressure varies with height above the surface.
+6.4.7 Explain why pressure in a liquid varies with depth and density.
+6.4.8 Select and apply the equation to calculate the differences in pressure at different depths in a liquid: pressure (Pa) = density (kg/m^3) × gravitational field strength (N/kg) × depth (m).
+6.4.9 Explain how the increase in pressure with depth in a fluid leads to an upwards force on a partially submerged object.
+6.4.10 Describe and explain the factors which influence whether a particular object will float or sink.
+6.5 P6.5 How can scientific models help us understand the Big Bang? (separate science only)
+6.5.1 Recall the main features of our solar system, including the similarities and distinctions between the planets, their moons, and artificial satellites.
+6.5.2 Explain, for the circular orbits, how the force of gravity can lead to changing velocity but unchanged speed.
+7 Chapter P7: Ideas about Science
+7.1 IaS1 What needs to be considered when investigating phenomenon scientifically?
+7.2 IaS2 What conclusions can we make from data?
+7.3 IaS3 How are scientific explanations developed?
+7.4 IaS4 How do science and technology impact society?
+8 Chapter P8: Practical Skills
+8.1 Practical Activity Group 1 (PAG1)
+8.2 Practical Activity Group 2 (PAG2)
+8.3 Practical Activity Group 3 (PAG3)
+8.4 Practical Activity Group 4 (PAG4)
+8.5 Practical Activity Group 5 (PAG5)
+8.6 Practical Activity Group 6 (PAG6)
+8.7 Practical Activity Group 7 (PAG7)
+8.8 Practical Activity Group 8 (PAG8)
+
+0 Higher Tier
+1 Chapter P1: Radiation and waves
+1.1 P1.1 What are the risks and benefits of using radiations?
+1.1.1 Describe the main groupings of the electromagnetic spectrum – radio, microwave, infrared, visible (red to violet), ultraviolet, X-rays and gamma rays, that these range from long to short wavelengths, from low to high frequencies, and from low to high energies.
+1.1.2 Recall that our eyes can only detect a very limited range of frequencies in the electromagnetic spectrum.
+1.1.3 Recall that all electromagnetic radiation is transmitted through space with the same very high (but finite) speed.
+1.1.4 Explain, with examples, that electromagnetic radiation transfers energy from source to absorber.
+1.1.5 Recall that different substances may absorb, transmit, or reflect electromagnetic radiation in ways that depend on wavelength.
+1.1.6 Recall that in each atom its electrons are arranged at different distances from the nucleus, that such arrangements may change with absorption or emission of electromagnetic radiation, and that atoms can become ions by loss of outer electrons.
+1.1.7 Recall that changes in molecules, atoms and nuclei can generate and absorb radiations over a wide frequency range, including:
+1.1.7.1 Gamma rays are emitted from the nuclei of atoms.
+1.1.7.2 X-rays, ultraviolet and visible light are generated when electrons in atoms lose energy.
+1.1.7.3 High energy ultraviolet, gamma rays and X-rays have enough energy to cause ionisation when absorbed by some atoms.
+1.1.7.4 Ultraviolet is absorbed by oxygen to produce ozone, which also absorbs ultraviolet, protecting life on Earth.
+1.1.7.5 Infrared is emitted and absorbed by molecules.
+1.1.8 Describe how ultra-violet radiation, X-rays and gamma rays can have hazardous effects, notably on human bodily tissues.
+1.1.9 Give examples of some practical uses of electromagnetic radiation in the radio, microwave, infrared, visible, ultraviolet, X-ray and gamma ray regions of the spectrum.
+1.1.10 Recall that radio waves can be produced by, or can themselves induce, oscillations in electrical circuits.
+1.2 P1.2 What is climate change and what is the evidence for it?
+1.2.1 Explain that all bodies emit radiation, and that the intensity and wavelength distribution of any emission depends on their temperatures.
+1.2.2 Explain how the temperature of a body is related to the balance between incoming radiation, absorbed radiation and radiation emitted; illustrate this balance, using everyday examples including examples of factors which determine the temperature of the Earth.
+1.3 P1.3 How do waves behave?
+1.3.1 Describe wave motion in terms of amplitude, wavelength, frequency and period.
+1.3.2 Describe evidence that for both ripples on water surfaces and sound waves in air, it is the wave and not the water or air itself that travels.
+1.3.3 Describe the difference between transverse and longitudinal waves.
+1.3.4 Describe how waves on a rope are an example of transverse waves whilst sound waves in air are longitudinal waves.
+1.3.5 Define wavelength and frequency.
+1.3.6 Recall and apply the relationship between speed, frequency and wavelength to waves, including waves on water, sound waves and across the electromagnetic spectrum: wave speed (m/s) = frequency (Hz) × wavelength (m).
+1.3.7 Describe how the speed of ripples on water surfaces and the speed of sound waves in air may be measured.
+1.3.8 Describe the effects of reflection and refraction of waves at material interfaces.
+1.3.9 Recall that waves travel in different substances at different speeds and that these speeds may vary with wavelength.
+1.3.10 Explain how refraction is related to differences in the speed of the waves in different substances.
+1.3.11 Recall that light is an electromagnetic wave.
+1.3.12 Recall that electromagnetic waves are transverse.
+1.4 P1.4 What happens when light and sound meet different materials? (separate science only)
+1.4.1 Construct and interpret two-dimensional ray diagrams to illustrate specular reflection by mirrors.
+1.4.2 Construct and interpret two-dimensional ray diagrams to illustrate refraction at a plane surface and dispersion by a prism.
+1.4.3 Use ray diagrams to illustrate the similarities and differences between convex and concave lenses.
+1.4.4 Describe the effects of transmission, and absorption of waves at material interfaces.
+1.4.5 Explain how colour is related to differential absorption, transmission, and scattering.
+1.4.6 Describe, with examples, processes in which sound waves are transmitted though solids.
+1.4.7 Explain that transmission of sound through the bones in the ear works over a limited frequency range, and the relevance of this to human hearing.
+1.4.8 Explain, in qualitative terms, how the differences in velocity, absorption and reflection between different types of waves in solids and liquids can be used both for detection and for exploration of structures which are hidden from direct observation, notably:
+1.4.8.1 In our bodies (ultrasound imaging).
+1.4.8.2 In the Earth (earthquake waves).
+1.4.8.3 In deep water (SONAR).
+1.4.9 Show how changes, in speed, frequency and wavelength, in transmission of sound waves from one medium to another, are inter-related.
+2 Chapter P2: Sustainable energy
+2.1 P2.1 How much energy do we use?
+2.1.1 Describe how energy in chemical stores in batteries, or in fuels at the power station, is transferred by an electric current, doing work on domestic devices, such as motors or heaters.
+2.1.2 Explain, with reference to examples, the relationship between the power ratings for domestic electrical appliances, the time for which they are in use and the changes in stored energy when they are in use.
+2.1.3 Recall and apply the following equation in the context of energy transfers by electrical appliances: energy transferred (J, kWh) = power (W, kW) × time (s, h).
+2.1.4 Describe, with examples, where there are energy transfers in a system, that there is no net change to the total energy of a closed system.
+2.1.5 Describe, with examples, system changes, where energy is dissipated, so that it is stored in less useful ways.
+2.1.6 Explain ways of reducing unwanted energy transfer e.g. through lubrication, thermal insulation.
+2.1.7 Describe the effects, on the rate of cooling of a building, of thickness and thermal conductivity of its walls.
+2.1.8 Recall and apply the equation: efficiency = useful energy transferred (J) / total energy transferred (J) to calculate energy efficiency for any energy transfer, and describe ways to increase efficiency.
+2.1.9 Interpret and construct Sankey diagrams to show understanding that energy is conserved.
+2.2 P2.2 How can electricity be generated?
+2.2.1 Describe the main energy resources available for use on Earth (including fossil fuels, nuclear fuel, biofuel, wind, hydroelectricity, the tides and the Sun).
+2.2.2 Explain the differences between renewable and non-renewable energy resources.
+2.2.3 Compare the ways in which the main energy resources are used to generate electricity.
+2.2.4 Recall that the domestic supply in the UK is a.c., at 50 Hz and about 230 volts and explain the difference between direct and alternating voltage.
+2.2.5 Recall that, in the National Grid, transformers are used to transfer electrical power at high voltages from power stations, to the network and then used again to transfer power at lower voltages in each locality for domestic use.
+2.2.6 Recall the differences in function between the live, neutral and earth mains wires, and the potential differences between these wires; hence explain that a live wire may be dangerous even when a switch in a mains circuit is open, and explain the dangers of providing any connection between the live wire and any earthed object.
+2.2.7 Explain patterns and trends in the use of energy resources in domestic contexts, workplace contexts, and national contexts.
+3 Chapter P3: Electric circuits
+3.1 P3.1 What is electric charge? (separate science only)
+3.1.1 Describe the production of static electricity, and sparking, by rubbing surfaces, and evidence that charged objects exert forces of attraction or repulsion on one another when not in contact.
+3.1.2 Explain how transfer of electrons between objects can explain the phenomenon of static electricity.
+3.1.3 Explain the concept of an electric field and how it helps to explain the phenomenon of static electricity.
+3.2 P3.2 What determines the current in an electric circuit?
+3.2.1 Recall that current is a rate of flow of charge, that for a charge to flow, a source of potential difference and a closed circuit are needed and that a current has the same value at any point in a single closed loop.
+3.2.2 Recall and use the relationship between quantity of charge, current and time: charge (C) = current (A) × time (s).
+3.2.3 Recall that current, I, depends on both the resistance, R, and potential difference, V, and the units in which these quantities are measured.
+3.2.4 Recall and apply the relationship between I, R, and V, to calculate the currents, potential differences and resistances in d.c. series circuits: potential difference (V) = current (A) × resistance (Ω).
+3.2.5 Recall that for some components the value of R remains constant (fixed resistors) but that in others it can change as the current changes (e.g. heating elements, lamp filaments).
+3.2.6 Use graphs to explore whether circuit elements are linear or non-linear and relate the curves produced to their function and properties.
+3.2.7 Represent circuits with the conventions of positive and negative terminals, and the symbols that represent common circuit elements, filament lamps, diodes, LDRs and thermistors, switches and fixed and variable resistors.
+3.3 P3.3 How do series and parallel circuits work?
+3.3.1 Relate the potential difference between two points in the circuit to the work done on, or by, a given amount of charge as it moves between these points.
+3.3.2 Describe the difference between series and parallel circuits: to include ideas about how the current through each component and the potential difference across each component is affected by a change in resistance of a component.
+3.3.3 Explain, why, if two resistors are in series the net resistance is increased, whereas with two in parallel the net resistance is decreased.
+3.3.4 Solve problems for circuits which include resistors in series, using the concept of equivalent resistance.
+3.3.5 Explain the design and use of d.c. series circuits for measurement and testing purposes including exploring the effect of:
+3.3.5.1 Changing current in filament lamps, diodes, thermistors and LDRs.
+3.3.5.2 Changing light intensity on an LDR.
+3.3.5.3 Changing temperature of a thermistor (NTC only).
+3.4 P3.4 What determines the rate of energy transfer in a circuit?
+3.4.1 Describe the energy transfers that take place when a system is changed by work done when a current flows through a component.
+3.4.2 Explain, with reference to examples, how the power transfer in any circuit device is related to the energy transferred from the power supply to the device and its surroundings over a given time.
+3.4.3 Recall and use the relationship between the potential difference across the component and the total charge to calculate the energy transferred in an electric circuit when a current flows through a component: energy transferred (work done) (J) = charge (C) × potential difference (V).
+3.4.4 Recall and apply the relationships between power transferred in any circuit device, the potential difference across it, the current through it, and its resistance:
+3.4.4.1 Power (W) = potential difference (V) × current (A).
+3.4.4.2 Power (W) = (current (A))^2 × resistance (Ω).
+3.4.5 Use the idea of conservation of energy to show that when a transformer steps up the voltage, the output current must decrease and vice versa.
+3.4.6 Explain how transmitting power at higher voltages is more efficient way to transfer energy.
+3.5 P3.5 What are magnetic fields?
+3.5.1 Describe the attraction and repulsion between unlike and like poles for permanent magnets.
+3.5.2 Describe the characteristics of the magnetic field of a magnet, showing how strength and direction change from one point to another.
+3.5.3 Explain how the behaviour of a magnetic compass is related to evidence that the core of the Earth must be magnetic.
+3.5.4 Describe the difference between permanent and induced magnets.
+3.5.5 Describe how to show that a current can create a magnetic effect.
+3.5.6 Describe the pattern and directions of the magnetic field around a conducting wire.
+3.5.7 Recall that the strength of the field depends on the current and the distance from the conductor.
+3.5.8 Explain how the magnetic effect of a solenoid can be increased.
+3.5.9 Explain how a solenoid can be used to generate sound in loudspeakers and headphones (separate science only).
+3.6 P3.6 How do electric motors work?
+3.6.1 Describe the interaction forces between a magnet and a current-carrying conductor to include ideas about magnetic fields.
+3.6.2 Show that Fleming’s left-hand rule represents the relative orientations of the force, the conductor and the magnetic field.
+3.6.3 Select and apply the equation that links the force, F, on a conductor to the strength of the field, B, the size of the current, I, and the length of conductor, l, to calculate the forces involved: force (N) = magnetic flux density (T) × current (A) × length of conductor (m).
+3.6.4 Explain how the force on a conductor in a magnetic field is used to cause rotation in the rectangular coil of a simple electric motor.
+3.7 P3.7 What is the process inside an electric generator? (separate science only)
+3.7.1 Recall that a change in the magnetic field around a conductor can give rise to an induced potential difference across its ends, which could drive a current.
+3.7.2 Explain the action of a moving coil microphone in converting the pressure variations in sound waves into variations in current in electrical circuits.
+3.7.3 Recall that the direction of the induced potential difference drives a current which generates a second magnetic field that would oppose the original change in field.
+3.7.4 Use ideas about electromagnetic induction to explain a potential difference/time graph showing the output from an alternator being used to generate a.c.
+3.7.5 Explain how an alternator can be adapted to produce a dynamo to generate d.c., including explaining a potential difference/time graph.
+3.7.6 Explain how the effect of an alternating current in one circuit in inducing a current in another is used in transformers.
+3.7.7 Describe how the ratio of the potential differences across the two coils in a transformer depends on the ratio of the numbers of turns in each.
+3.7.8 Apply the equations linking the potential differences and numbers of turns in the two coils of a transformer, to the currents and the power transfer involved and relate these to the advantages of power transmission at high voltages.
+4 Chapter P4: Explaining motion
+4.1 P4.1 What are forces?
+4.1.1 Recall and apply Newton’s third law.
+4.1.2 Recall examples of ways in which objects interact: by gravity, electrostatics, magnetism and by contact (including normal contact force and friction).
+4.1.3 Describe how examples of gravitational, electrostatic, magnetic and contact forces involve interactions between pairs of objects which produce a force on each object.
+4.1.4 Represent interaction forces as vectors.
+4.1.5 Define weight.
+4.1.6 Describe how weight is measured.
+4.1.7 Recall and apply the relationship between the weight of an object, its mass and the gravitational field strength: weight (N) = mass (kg) × gravitational field strength (N/kg).
+4.2 P4.2 How can we describe motion?
+4.2.1 Recall and apply the relationship: average speed (m/s) = distance (m) / time (s).
+4.2.2 Recall typical speeds encountered in everyday experience for wind, and sound, and for walking, running, cycling and other transportation systems.
+4.2.3 Make measurements of distances and times, and calculate speeds.
+4.2.4 Make calculations using ratios and proportional reasoning to convert units, to include between m/s and km/h.
+4.2.5 Explain the vector–scalar distinction as it applies to displacement and distance, velocity and speed.
+4.2.6 Recall and apply the relationship: acceleration (m/s^2) = change in speed (m/s) / time taken (s).
+4.2.7 Select and apply the relationship: (final speed (m/s))^2 – (initial speed (m/s))^2 = 2 × acceleration (m/s^2) × distance (m).
+4.2.8 Draw and use graphs of distances and speeds against time to determine the speeds and accelerations involved.
+4.2.9 Interpret distance–time and velocity–time graphs, including relating the lines and slopes in such graphs to the motion represented.
+4.2.10 Interpret enclosed areas in velocity–time graphs.
+4.2.11 Recall the value of acceleration in free fall and calculate the magnitudes of everyday accelerations using suitable estimates of speeds and times.
+4.3 P4.3 What is the connection between forces and motion?
+4.3.1 Describe examples of the forces acting on an isolated solid object or system.
+4.3.2 Describe, using free body diagrams, examples where several forces lead to a resultant force on an object and the special case of balanced forces (equilibrium) when the resultant force is zero.
+4.3.3 Use scale drawings of vector diagrams to illustrate the addition of two or more forces, in situations when there is a net force, or equilibrium.
+4.3.4 Recall and apply the equation for momentum and describe examples of the conservation of momentum in collisions: momentum (kg m/s) = mass (kg) × velocity (m/s).
+4.3.5 Select and apply Newton’s second law in calculations relating force, change in momentum and time: change in momentum (kg m/s) = resultant force (N) × time for which it acts (s).
+4.3.6 Apply Newton’s first law to explain the motion of objects moving with uniform velocity and also the motion of objects where the speed and/or direction changes.
+4.3.7 Explain with examples that motion in a circular orbit involves constant speed but changing velocity.
+4.3.8 Describe examples in which forces cause rotation (separate science only).
+4.3.9 Define and calculate the moment of examples of rotational forces using the equation: moment of a force (N m) = force (N) × distance (m) (normal to direction of the force) (separate science only).
+4.3.10 Explain, with examples, how levers and gears transmit the rotational effects of forces (separate science only).
+4.3.11 Explain that inertial mass is a measure of how difficult it is to change the velocity of an object and that it is defined as the ratio of force over acceleration.
+4.3.12 Recall and apply Newton’s second law relating force, mass and acceleration: force (N) = mass (kg) × acceleration (m/s^2).
+4.3.13 Use and apply equations relating force, mass, velocity, acceleration, and momentum to explain relationships between the quantities.
+4.3.14 Explain methods of measuring human reaction times and recall typical results.
+4.3.15 Explain the factors which affect the distance required for road transport vehicles to come to rest in emergencies and the implications for safety.
+4.3.16 Explain the dangers caused by large decelerations and estimate the forces involved in typical situations on a public road.
+4.3.17 Given suitable data, estimate the distance required for road vehicles to stop in an emergency, and describe how the distance varies over a range of typical speeds (separate science only).
+4.3.18 In the context of everyday road transport, use estimates of speeds, times and masses to calculate the accelerations and forces involved in events where large accelerations occur (separate science only).
+4.4 P4.4 How can we describe motion in terms of energy transfers?
+4.4.1 Describe the energy transfers involved when a system is changed by work done by forces including:
+4.4.1.1 To raise an object above ground level.
+4.4.1.2 To move an object along the line of action of the force.
+4.4.2 Recall and apply the relationship to calculate the work done (energy transferred) by a force: work done (N m or J) = force (N) × distance (m) (along the line of action of the force).
+4.4.3 Recall the equation and calculate the amount of energy associated with a moving object: kinetic energy (J) = 1/2 × mass (kg) × (speed (m/s))^2.
+4.4.4 Recall the equation and calculate the amount of energy associated with an object raised above ground level: gravitational potential energy (J) = mass (kg) × gravitational field strength (N/kg) × height (m).
+4.4.5 Make calculations of the energy transfers associated with changes in a system, recalling relevant equations for mechanical processes.
+4.4.6 Calculate relevant values of stored energy and energy transfers; convert between newton metres and joules.
+4.4.7 Describe all the changes involved in the way energy is stored when a system changes, for common situations: including an object projected upwards or up a slope, a moving object hitting an obstacle, an object being accelerated by a constant force, a vehicle slowing down.
+4.4.8 Explain, with reference to examples, the definition of power as the rate at which energy is transferred (work done) in a system.
+4.4.9 Recall and apply the relationship: power (W) = energy transferred (J) / time (s).
+5 Chapter P5: Radioactive materials
+5.1 P5.1 What is radioactivity?
+5.1.1 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with almost all of the mass in the nucleus.
+5.1.2 Describe how and why the atomic model has changed over time to include the main ideas of Dalton, Thomson, Rutherford and Bohr.
+5.1.3 Recall the typical size (order of magnitude) of atoms and small molecules.
+5.1.4 Recall that atomic nuclei are composed of both protons and neutrons, and that the nucleus of each element has a characteristic positive charge.
+5.1.5 Recall that nuclei of the same element can differ in nuclear mass by having different numbers of neutrons, these are called isotopes.
+5.1.6 Use the conventional representation to show the differences between isotopes, including their identity, charge and mass.
+5.1.7 Recall that some nuclei are unstable and may emit alpha particles, beta particles, or neutrons, and electromagnetic radiation as gamma rays.
+5.1.8 Relate emissions of alpha particles, beta particles, or neutrons, and gamma rays to possible changes in the mass or the charge of the nucleus, or both.
+5.1.9 Use names and symbols of common nuclei and particles to write balanced equations that represent the emission of alpha, beta, gamma, and neutron radiations during radioactive decay.
+5.1.10 Explain the concept of half-life and how this is related to the random nature of radioactive decay.
+5.1.11 Calculate the net decline, expressed as a ratio, in a radioactive emission after a given (integral) number of half-lives.
+5.1.12 Interpret activity-time graphs to find the half-life of radioactive materials.
+5.2 P5.2 How can radioactive materials be used safely?
+5.2.1 Recall the differences in the penetration properties of alpha particles, beta particles and gamma rays.
+5.2.2 Recall the differences between contamination and irradiation effects and compare the hazards associated with each of these.
+5.2.3 Describe the different uses of nuclear radiations for exploration of internal organs, and for control or destruction of unwanted tissue.
+5.2.4 Explain how ionising radiation can have hazardous effects, notably on human bodily tissues.
+5.2.5 Explain why the hazards associated with radioactive material differ according to the radiation emitted and the half-life involved.
+5.3 P5.3 How can radioactive materials be used to provide energy? (separate science only)
+5.3.1 Recall that some nuclei are unstable and may split into two nuclei and that this is called nuclear fission.
+5.3.2 Relate the energy released during nuclear fission to the emission of ionising radiation and the kinetic energy of the resulting particles.
+5.3.3 Explain how nuclear fission can lead to further fission events in a chain reaction.
+5.3.4 Describe the process of nuclear fusion and recall that in this process some of the mass may be converted into the energy of radiation.
+6 Chapter P6: Matter – models and explanations
+6.1 P6.1 How does energy transform matter?
+6.1.1 Define density.
+6.1.2 Describe how to determine the densities of solid and liquid objects using measurements of length, mass and volume.
+6.1.3 Recall and apply the relationship between density, mass and volume to changes where mass is conserved: density (kg/m^3) = mass (kg) / volume (m^3).
+6.1.4 Describe the energy transfers involved when a system is changed by heating (in terms of temperature change and specific heat capacity).
+6.1.5 Define the term specific heat capacity and distinguish between it and the term specific latent heat.
+6.1.6 Select and apply the relationship between change in internal energy of a material and its mass, specific heat capacity and temperature: change in internal energy (J) = mass (kg) × specific heat capacity (J/kg°C) × change in temperature (°C).
+6.1.7 Select and apply the relationship between energy needed to cause a change in state, specific latent heat and mass: energy to cause a change of state (J) = mass (kg) × specific latent heat (J/kg).
+6.1.8 Describe all the changes involved in the way energy is stored when a system changes, and the temperature rises, for example: a moving object hitting an obstacle, an object slowing down, water brought to a boil in an electric kettle.
+6.1.9 Make calculations of the energy transfers associated with changes in a system when the temperature changes, recalling or selecting the relevant equations for mechanical, electrical, and thermal processes.
+6.2 P6.2 How does the particle model explain the effects of heating?
+6.2.1 Explain the differences in density between the different states of matter in terms of the arrangements of the atoms or molecules.
+6.2.2 Use the particle model of matter to describe how mass is conserved, when substances melt, freeze, evaporate, condense or sublimate, but that these physical changes differ from chemical changes and the material recovers its original properties if the change is reversed.
+6.2.3 Use the particle model to describe how heating a system will change the energy stored within the system and raise its temperature or produce changes of state.
+6.2.4 Explain how the motion of the molecules in a gas is related both to its temperature and its pressure: hence explain the relationship between the temperature of a gas and its pressure at constant volume.
+6.3 P6.3 How does the particle model relate to material under stress?
+6.3.1 Explain, with examples, that to stretch, bend or compress an object, more than one force has to be applied.
+6.3.2 Describe and use the particle model to explain the difference between elastic and plastic deformation caused by stretching forces.
+6.3.3 Describe the relationship between force and extension for a spring and other simple systems that behave elastically.
+6.3.4 Describe the difference between the force-extension relationship for linear systems and for non-linear systems.
+6.3.5 Recall and apply the relationship between force, extension and spring constant for systems where the force-extension relationship is linear: force exerted by a spring (N) = spring constant (N/m) × extension (m).
+6.3.6 Calculate the work done in stretching a spring or other simple system, by calculating the appropriate area on the force-extension graph.
+6.3.7 Select and apply the relationship between energy stored, spring constant and extension for a linear system: energy stored in a stretched spring (J) = 1/2 × spring constant (N/m) × (extension (m))^2.
+6.4 P6.4 How does the particle model relate to pressures in fluids? (separate science only)
+6.4.1 Recall that the pressure in fluids causes a force normal to any surface.
+6.4.2 Recall and apply the relationship between the force, the pressure, and the area in contact: pressure (Pa) = force normal to a surface (N) / area of that surface (m^2).
+6.4.3 Recall that gases can be compressed or expanded by pressure changes and that the pressure produces a net force at right angles to any surface.
+6.4.4 Use the particle model of matter to explain how increasing the volume in which a gas is contained, at constant temperature, can lead to a decrease in pressure.
+6.4.5 Select and apply the equation: pressure (Pa) × volume (m^3) = constant (for a given mass of gas at constant temperature).
+6.4.6 Describe a simple model of the Earth’s atmosphere and of atmospheric pressure, and explain why atmospheric pressure varies with height above the surface.
+6.4.7 Explain why pressure in a liquid varies with depth and density.
+6.4.8 Select and apply the equation to calculate the differences in pressure at different depths in a liquid: pressure (Pa) = density (kg/m^3) × gravitational field strength (N/kg) × depth (m).
+6.4.9 Explain how the increase in pressure with depth in a fluid leads to an upwards force on a partially submerged object.
+6.4.10 Describe and explain the factors which influence whether a particular object will float or sink.
+6.5 P6.5 How can scientific models help us understand the Big Bang? (separate science only)
+6.5.1 Recall the main features of our solar system, including the similarities and distinctions between the planets, their moons, and artificial satellites.
+6.5.2 Explain, for the circular orbits, how the force of gravity can lead to changing velocity but unchanged speed.
+7 Chapter P7: Ideas about Science
+7.1 IaS1 What needs to be considered when investigating phenomenon scientifically?
+7.2 IaS2 What conclusions can we make from data?
+7.3 IaS3 How are scientific explanations developed?
+7.4 IaS4 How do science and technology impact society?
+8 Chapter P8: Practical Skills
+8.1 Practical Activity Group 1 (PAG1)
+8.2 Practical Activity Group 2 (PAG2)
+8.3 Practical Activity Group 3 (PAG3)
+8.4 Practical Activity Group 4 (PAG4)
+8.5 Practical Activity Group 5 (PAG5)
+8.6 Practical Activity Group 6 (PAG6)
+8.7 Practical Activity Group 7 (PAG7)
+8.8 Practical Activity Group 8 (PAG8)

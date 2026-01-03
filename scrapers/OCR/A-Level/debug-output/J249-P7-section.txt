@@ -1,0 +1,246 @@
+Topic P7: Energy
+P7.1 Work done
+Summary circuits. Learners should also be aware of the idea of conservation of energy and
+We now move on to consider how energy can be stored and transferred. This that it has a quantity that can be calculated.
+topic acts to consolidate the ideas of energy that have been covered in previous
+topics as it is a fundamental concept that underpins many of the ways in which Common misconceptions
+matter interacts. Learners may have misconceptions around energy being a fuel-like substance
+that matter has to ‘use up’, that resting objects do not have any energy and that
+Underlying knowledge and understanding all energy is transferred efficiently. There is also often confusion between forces
+Learners may have prior knowledge of energy listed as nine types, as this is the and energy.
+teaching approach often taken at Key Stage 2 and Key Stage 3 to increase
+accessibility to an abstract concept. Learners may find it difficult to move away Tiering
+from this idea but need to be able to approach systems in terms of energy Statements shown in bold type will only be tested in the Higher Tier papers.
+transfers and stores. They will have an understanding that energy can be All other statements will be assessed in both Foundation and Higher Tier papers.
+transferred in processes such as changing motion, burning fuels and in electrical
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P7.1a describe for situations where there are the law of conservation of energy
+energy transfers in a system, that there is
+no net change to the total energy of a
+closed system (qualitative only)
+P7.1b describe all the changes involved in the an object projected upwards or up WS1.2a, WS1.2b, Exploring energy stores and transfers
+way energy is stored when a system a slope, a moving object hitting WS1.3c, WS1.3f, in different objects in a circus based
+changes for common situations an obstacle, an object being WS1.4a, WS1.4e, activity. Objects could include a wind
+accelerated by a constant force, a WS2a, WS2b, up toy, a weight on a spring, a weight
+vehicle slowing down, bringing WS2c being lifted or dropped, water being
+water to a boil in an electric kettle heated, electrical appliances.
+54
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P7.1c describe the changes in energy involved
+when a system is changed by heating (in
+terms of temperature change and specific
+heat capacity), by work done by forces,
+and by work done when a current flows
+P7.1d make calculations of the energy changes work done by forces, current flow, M1a, M1c, WS1.3a, WS1.3b, Use of a joulemeter to measure the
+associated with changes in a system, through heating and the use of M3c WS1.3c, WS1.3e, energy used by different electrical
+recalling or selecting the relevant kW h to measure energy use in WS2a, WS2b appliances. (PAG P5)
+equations for mechanical, electrical, and electrical appliances in the home
+thermal processes; thereby express in
+quantitative form and on a common scale
+the overall redistribution of energy in the
+system
+P7.1e calculate the amounts of energy M1a, M1b, WS1.1b, WS1.2a, Use of light gates and trolleys to
+associated with a moving body, a M1c, M2a, WS1.2b, WS1.2c, investigate kinetic energy. (PAG P5)
+stretched spring and an object raised M3a, M3b, WS1.2e, WS1.3a,
+Use of a joulemeter and electrical
+above ground level M3c, M3d WS1.3b, WS1.3c,
+motor to lift a weight to investigate
+WS1.3e, WS2a,
+potential energy. (PAG P5)
+WS2b
+Investigation of energy changes and
+efficiency of bouncy balls. (PAG P5)
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+55
+Version
+4.2
+©
+OCR
+2024
+2
+P7.2 Power and efficiency
+Summary Common misconceptions
+This considers the idea of conservation and dissipation of energy in systems and Learners have the common misconception that energy can be “used up” or that
+how this leads to the efficiency. Ways of reducing unwanted energy transfers and energy is truly lost in many energy transformations. They also tend to have the
+thereby increasing efficiency will be explored. belief that energy can be completely changed from one form to another with no
+energy dissipated.
+Underlying knowledge and understanding
+Learners should be aware of the transfer of energy into useful and waste Tiering
+energies. They will have an understanding of power and how domestic appliances Statements shown in bold type will only be tested in the Higher Tier papers.
+can be compared. Learners will have knowledge of insulators and how energy All other statements will be assessed in both Foundation and Higher Tier papers.
+transfer is influenced by temperature. They should have an awareness of ways to
+reduce heat loss in the home.
+Reference Mathematical learning outcomes Mathematical skills
+PM7.2i recall and apply: M1a, M1b, M1d, M2a, M3a, M3b,
+M3c, M3d
+usefuloutputenergy transfer(J)
+efficiency =
+inputenergy transfer(J)
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P7.2a describe, with examples, the process
+by which energy is dissipated, so that
+it is stored in less useful ways
+P7.2b describe how, in different domestic how energy may be wasted in the
+devices, energy is transferred from transfer to and within motors and
+batteries or the a.c. from the mains heating devices
+56
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P7.2c describe, with examples, the WS1.3a, Use of a joulemeters to investigate the
+relationship between the power WS1.3b, power output of different electrical
+ratings for domestic electrical WS1.3c, appliances. (PAG P5)
+appliances and how this is linked to WS1.3e,
+the changes in stored energy when WS2a, WS2b
+they are in use
+P7.2d calculate energy efficiency for any M1a, M1b,
+energy transfer M1d, M2a,
+M3a, M3b,
+M3c, M3d
+P7.2e describe ways to increase efficiency
+P7.2f explain ways of reducing unwanted lubrication and thermal insulation WS1.1b, Research, design and building of energy
+energy transfer WS1.1e, efficient model houses.
+WS1.1f,
+Examination of thermograms of houses.
+WS1.1g,
+WS1.1i,
+WS1.3b
+P7.2g describe how the rate of cooling of a WS1.2a, Investigation of rate of cooling with
+building is affected by the thickness WS1.2b, insulated and non-insulated copper cans.
+and thermal conductivity of its walls WS1.2c, (PAG P5)
+(qualitative only) WS1.3a,
+WS1.3c,
+WS1.3d,
+WS1.3e,
+WS1.3g,
+WS1.3h,
+WS1.3i, WS2a,
+WS2b, WS2c,
+WS2d
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+57
+Version
+4.2
+©
+OCR
+2024
+2
+Topic P8: Global challenges
+This topic seeks to integrate learners’ knowledge and understanding of physical systems and processes, with the aim of applying it to global challenges. Applications of
+physics can be used to help humans improve their own lives and strive to create a sustainable world for future generations, and these challenges are considered in this
+topic. It therefore provides opportunities to draw together the concepts covered in earlier topics, allowing synoptic treatment of the subject of physics.
+P8.1 Physics on the move
+Summary Common misconceptions
+Learners will use their knowledge of forces and motion to develop their ideas Learners tend to confuse the factors that affect thinking distance and braking
+about how objects are affected by external factors. They will develop a better distance, thinking that alcohol, drugs and tiredness will affect braking distance
+understanding of these external factors to be able to understand how the design rather than thinking distance. It needs to be made clear the distinction between
+of objects such as cars may be modified to operate more safely. these two terms and that the combination of these gives us the stopping
+distance.
+Underlying knowledge and understanding
+Learners should be familiar with how forces affect motion of objects. They will Tiering
+also need to have a good understanding of momentum from P2.2. Learners may Statements shown in bold type will only be tested in the Higher Tier papers.
+already have some knowledge of how vehicles are adapted to increase safety. All other statements will be assessed in both Foundation and Higher Tier papers.
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P8.1a recall typical speeds encountered in everyday M1d
+experience for wind and sound, and for walking,
+running, cycling and other transportation systems
+P8.1b estimate the magnitudes of everyday accelerations M1d
+P8.1c make calculations using ratios and proportional conversion from non-SI to SI M1c, M3c
+reasoning to convert units and to compute rates units
+58
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P8.1d explain methods of measuring human reaction M1a, M2a, WS1.2b, Investigation of reaction time
+times and recall typical results M2b WS1.2c, using ruler drop experiments.
+WS1.2e, (PAG P3)
+WS1.3a,
+WS1.3b,
+WS1.3c,
+WS1.3e,
+WS1.3g,
+WS1.3h, WS2a,
+WS2b, WS2c,
+WS2d
+P8.1e explain the factors which affect the distance factors that affect thinking and
+required for road transport vehicles to come to rest braking distance and overall
+in emergencies and the implications for safety stopping distance
+P8.1f þ estimate how the distances required for road M1c, M1d, WS1.1e, Research stopping distances
+vehicles to stop in an emergency, varies over a M2c, M2h, WS1.1h using the Highway Code.
+range of typical speeds M3b, M3c
+P8.1g explain the dangers caused by large decelerations WS1.1e, Research and building of
+WS1.1f, casing on trolleys for eggs to
+WS1.1h, investigate crumple zones
+WS1.2a, and safety features in cars.
+WS1.2b,
+WS1.2c,
+WS1.2e, WS2a,
+WS2b
+P8.1h þ estimate the forces involved in typical situations
+on a public road
+P8

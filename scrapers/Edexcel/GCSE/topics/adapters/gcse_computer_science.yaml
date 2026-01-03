@@ -1,0 +1,58 @@
+# GCSE Computer Science Adapter
+# Layout-aware extraction config
+#
+# Font size structure (from debug analysis):
+#  Size 14.0 Bold = Papers ("Paper 1: Principles of Computer Science")
+#  Size 11.0 Bold = Topics ("Topic 1: Computational thinking")
+#  Size  9.0 Bold = Subtopics ("1.1 Decomposition", "1.2 Algorithms")
+#  Size  9.0 Regular = Learning outcomes ("1.1.1 understand...")
+
+subject: "Computer Science"
+subject_code: "GCSE-ComputerScience"
+subject_name: "Computer Science"
+pdf_url: "https://qualifications.pearson.com/content/dam/pdf/GCSE/Computer%20Science/2020/specification-and-sample-assessments/GCSE_L1_L2_Computer_Science_2020_Specification.pdf"
+
+# Heading anchor patterns (regex)
+# These match specific heading types in the PDF
+anchors:
+  H0: "^Paper\\s+[12]:"  # "Paper 1:", "Paper 2:"
+  H1: "^Topic\\s+[1-6]:"  # "Topic 1:", "Topic 2:", etc.
+  H2: "^\\d+\\.\\d+\\s+[A-Z]"  # "1.1 Decomposition", "2.3 Data storage"
+  H3: "^\\d+\\.\\d+\\.\\d+\\s+"  # "1.1.1 understand...", "2.1.1 be able to..."
+
+# Font size thresholds (used if anchor patterns don't match)
+font_sizes:
+  H0: 14.0  # Size 14 bold = Papers
+  H1: 11.0  # Size 11 bold = Topics
+  H2: 9.0   # Size 9 bold = Subtopics
+  H3: 9.0   # Size 9 regular (non-bold) = Learning outcomes
+
+# Level hierarchy order
+level_order:
+  - "Paper"
+  - "Topic"
+  - "Subtopic"
+  - "Learning Outcome"
+
+# Patterns to drop (noise)
+drop_if_contains:
+  - "Assessment information"
+  - "Assessment objective"
+  - "Command words"
+  - "Sample assessment"
+  - "Assessment criteria"
+  - "Assessment overview"
+  - "Content overview"
+  - "Appendix"
+  - "Glossary"
+  - "Pearson Edexcel Level"
+  - "Specification – Issue"
+  - "© Pearson"
+  - "First teaching"
+  - "First certification"
+
+# Merge rules (optional)
+merge_rules:
+  multiline_headings: true
+  merge_bullets: false
+

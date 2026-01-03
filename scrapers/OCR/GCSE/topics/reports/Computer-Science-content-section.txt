@@ -1,0 +1,479 @@
+
+2
+SUBJECT CONTENT
+This specification promotes the integrated study of computer science. It will enable
+learners to develop a broad range of skills in the areas of programming, system
+development, computer architecture, data, communication and applications.
+The knowledge, understanding and skills are set out in the two columns in the pages
+that follow. The topic to be studied is in the first column, with the amplification in the
+second column. There is no hierarchy implied by the order in which content and
+amplification are presented, nor should the length of the various sections be taken to
+imply any view of their relative importance.
+The subject content for GCSE Computer Science will be assessed across two
+components. Whist there is a degree of overlap between the content in Component 1
+and Component 2, the context in which this content is assessed differs. In
+Component 1, content is assessed in a theoretical way, whereas in Component 2 it is
+assessed through its use within programs.
+Component 1: Understanding Computer Science
+Written examination: 1 hour 45 minutes
+50% of the qualification
+100 marks
+Component 2: Computer Programming
+On-screen examination: 2 hours
+50% of the qualification
+80 marks
+2.1 Component 1
+1. Hardware
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Central processing • the purpose of the CPU
+unit (CPU) • the purpose of different components in the Von Neumann
+CPU architecture, including:
+• control unit (CU)
+• arithmetic and logic unit (ALU)
+• main memory
+• cache
+• registers
+• program counter (PC)
+• current instruction register (CIR)
+• accumulator (ACC)
+• memory address register (MAR)
+• memory data register (MDR)
+• input and output devices.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 6
+Content Amplification
+• the role of the components of the CPU in the fetch-decode-
+execute cycle
+• CPU performance in relation to:
+• cache size and levels of cache
+• clock speed
+• number of cores.
+Primary storage the use and characteristics of primary storage, including:
+• random access memory (RAM)
+• read only memory (ROM)
+• flash memory
+• cache memory
+• virtual memory.
+Additional hardware the role of additional hardware, including:
+components • integrated and dedicated GPUs
+• sound cards
+• motherboards.
+Secondary storage • the functional characteristics of contemporary secondary
+storage technologies, including:
+• optical
+• magnetic
+• solid state
+• cloud storage.
+• the suitability and characteristics of contemporary secondary
+storage media in terms of:
+• capacity
+• durability
+• portability
+• speed
+• cost.
+Embedded systems • the characteristics and purpose of embedded systems
+• example uses of embedded systems.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 7
+2. Logical operations
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Logical operators the use of logical operators in truth tables and to solve problems,
+including:
+• AND
+• OR
+• NOT
+• XOR.
+Boolean logic The simplification of Boolean expressions using Boolean
+identities and rules (see Appendix B).
+3. Networking and cybersecurity
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Networks • the characteristics of networks, and their advantages and
+disadvantages
+• common network topologies, including star and mesh, and
+their advantages and disadvantages over ring and bus
+topologies
+• the hardware required to establish wired and wireless
+connectivity, including:
+• routers
+• hubs
+• switches
+• bridges
+• wireless access points (WAPs)
+• network interface cards (NICs)
+• the importance of creating networking standards
+• the purpose of each layer in the 7-layer Open Systems
+Interconnection model (OSI model)
+• the use of contemporary networking protocols in the 7-layer
+OSI model, including:
+• HTTP
+• HTTPS
+• SMTP
+• FTP
+• TCP
+• IP
+• Ethernet
+• WiFi (802.11)
+• the typical contents of a TCP/IP packet and packet switching
+• methods of routing traffic on a network and calculation of
+routing costs.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 8
+Content Amplification
+Internet • the purpose of Domain Name System (DNS) servers and
+how they work
+• the structure of URLs and the role and function of a web
+browser.
+Cybersecurity • the characteristics of different threats to computer systems,
+including:
+• malware
+• phishing
+• social engineering
+• brute force attacks
+• denial of service attacks
+• data interception and theft
+• SQL injection
+• different ways of protecting against threats during system
+design, creation, testing and use, including:
+• penetration testing
+• network forensics
+• anti-malware software
+• firewalls
+• user access levels
+• passwords
+• double authentication
+• encryption.
+4. Data representation and storage
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Data types data types, including:
+• integer
+• real
+• character
+• string
+• Boolean.
+Representation of • use and convert between denary, binary and hexadecimal
+numbers counting systems
+• the representation of positive and negative integers in a
+fixed-length store using both two’s complement, and sign and
+magnitude representation
+• binary addition and subtraction techniques
+• the concept of overflow and underflow
+• arithmetic shift functions and their effect.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 9
+Content Amplification
+Representation of • the digital storage of characters
+characters • standardised character sets, including:
+• Unicode
+• American Standard Code for Information Interchange
+(ASCII).
+Representation of • the digital storage of graphics
+graphics • the effect of different resolutions and colour depths on the
+quality of graphics
+• how to calculate the storage requirements for graphics using
+different dimensions and colour depths.
+Representation of • the digital storage of sound
+sound • the effect of different sampling rates on the quality of sound
+• how to calculate the storage requirements for sound using
+different sampling rates.
+Storage • the relationship between data storage units using the Base 2
+requirements prefixes, including:
+• bit
+• nibble
+• byte
+• kilobyte (i.e. 1,024 bytes)
+• megabyte (i.e. 1,024 kilobytes)
+• gigabyte (i.e. 1,024 megabytes)
+• terabyte (i.e. 1,024 gigabytes)
+• petabyte (i.e. 1,024 terabytes)
+• the calculation of data capacity requirements.
+Compression • the principles of data compression and the use of different
+compression types, including:
+• lossy
+• lossless
+• the calculation of compression ratios.
+5. Data organisation
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Data structures • the design, interpretation and manipulation of data
+structures including:
+• records
+• one-dimensional arrays
+• two-dimensional arrays
+• the selection, identification and justification of appropriate
+data structures for different situations.
+File design The design of files and records appropriate for a particular
+application.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 10
+6. Operating systems
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Operating systems The purpose of the operating system.
+how the operating system manages:
+• CPU
+• multi-tasking
+• interrupts
+• memory
+• backing store
+• peripherals
+• interface
+• security.
+Utility software the purpose and functionality of a range of utility software,
+including:
+• anti-virus
+• clipboard manager
+• system profiles
+• backup software
+• disk checkers
+• disk compression
+• disk defragmenters
+• disk formatters
+• disk partition editors
+• archivers
+• cryptographic utilities
+• data recovery
+• revision control
+• file managers.
+7. Principles of programming
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Levels of computer • the characteristics and purpose of high-level and low-level
+language languages
+• situations that require the use of a high-level or a low-level
+language.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 11
+8. Algorithms and constructs
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding and analyse problems in
+computational terms on the following:
+Algorithms • methods of defining algorithms, including pseudo-code and
+flowcharts (see Appendix A)
+• writing, correcting, testing and interpreting the function of
+algorithms that solve problems using:
+• subroutines
+• input
+• output
+• sequence, selection and iteration
+• counts and rogue values
+• local and global variables
+• self-documenting identifiers
+• string handling
+• mathematical and logical operations (see Appendix A).
+Sorting the characteristics of sort algorithms, including:
+• merge sort
+• bubble sort.
+Searching the characteristics of search algorithms, including:
+• linear search
+• binary search.
+Validation and • the purpose of and techniques for data validation and
+verification verification
+• algorithms that validate and verify data.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 12
+9. Software development
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Software tools Integrated Development Environment (IDE) tools, including:
+• editor
+• automatic formatting
+• automatic line numbering
+• automatic colour coding
+• linker
+• libraries
+• routines/subroutines
+• standard functions
+• loader
+• debugger
+• syntax error detection
+• error diagnostics
+• trace
+• break point
+• variable watch
+• memory inspector
+• statement completion
+• code optimisation
+• compilation and interpretation of code.
+10. Program construction
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Translators • the purpose of the three common types of program translator:
+• compilers
+• interpreters
+• assemblers
+• the appropriate use of the three common types of program
+translator
+• the principal stages involved in the compilation process:
+• lexical analysis
+• syntax analysis
+• semantic analysis
+• code generation
+• code optimisation
+• examples of programming errors:
+• logical
+• syntactical
+• run-time/execution
+• linking
+• rounding
+• truncation
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 13
+11. Impacts of digital technology on wider society
+Content Amplification
+Candidates should be able to demonstrate and apply
+knowledge and understanding on the following:
+Impacts The ethical, legal, cultural, environmental and privacy issues
+linked to the use of computer systems.
+Legislation the impact of relevant current legislation on Computer Science,
+including:
+• the General Data Protection Regulation (GDPR) and Data
+Protection Act 2018
+• Computer Misuse Act 1990
+• Copyright Designs and Patents Act 1988
+• Creative Commons Licensing
+• Regulation of Investigatory Powers Act 2000
+• Telecommunications Regulations Act 2000
+• Freedom of Information Act 2000.
+Professional The importance of conforming to professional standards,
+standards including formal and informal codes of ethical behaviour and
+conduct.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 14
+2.2 Component 2
+Structure of assessment
+This unit is assessed entirely by an on-screen examination. Candidates will require
+access to Python 3 and a word processor. The version of Python 3 required will be
+specified on the scenario issued to candidates and on the examination paper.
+Before the on-screen examination
+Candidates will be provided with a scenario containing a list of requirements which will
+be issued to centres on 01 September in the year prior to the award. This scenario will
+provide information about all tasks to be undertaken by candidates, both individually
+and in groups, in preparation for the on-screen examination.
+During the on-screen examination
+Candidates will be issued with a question paper, a prototype Python 3 file and any
+supporting files. The question paper will contain some additional requirements. These
+additional requirements will need to be completed individually by each candidate and
+will require them to use, evaluate and make changes to the Python 3 program provided
+in the examination.
+Additional examination questions will be answered in a word-processed document.
+See section 3.2 below for rules regarding the administration of preparatory work and the
+on-screen examination.
+Component content:
+Systems Analysis
+Content Amplification
+Working individually and with others the candidates
+should be able to apply knowledge and understanding and
+analyse problems in computational terms in the following:
+• use a systematic approach to problem solving including the
+Investigation
+use of decomposition and abstraction
+• use abstraction effectively to model selected aspects of the
+external world in an algorithm or program
+• use abstraction effectively to appropriately structure
+programs into modular parts with clear, well-documented
+interfaces
+• analyse a set of requirements
+• program a solution that meets a set of requirements.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 15
+Content Amplification
+Working individually and with others the candidates
+should be able to apply knowledge and understanding and
+analyse problems in computational terms in the following:
+Design • design and document the input and output facilities required
+to produce an effective user interface
+• design and document all required data structures
+• using pseudo code, design and document the following
+routines:
+• validation and verification
+• data handling and processing
+• authentication.
+Implementation design, write, test and refine Python 3 code using the following
+skills:
+• create new and extend existing functions or methods
+• create new and edit existing objects
+• create new and extend existing Python 3 libraries
+• use variables (labels), operators, inputs, outputs and
+assignment
+• use a variety of data types, including integer, Boolean, real,
+character and string
+• use programming constructs to control the flow of a
+program, including:
+• iteration (condition and counter controlled loops)
+• selection
+• sequence
+• use basic file handling, including:
+• open a file
+• read from a file into a variable
+• read from a file into an array
+• write to a file
+• write to a file from an array
+• close a file
+• create new and extend data structures and fixed length
+records to store data
+• use string manipulation
+• create new and extend lists, tuples and dictionaries (arrays)
+• use slicing
+• use mathematical and logical operations
+• create new and modify existing intuitive graphical user
+interfaces using the Python 3 built in libraries including:
+• text boxes
+• buttons
+• forms
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 16
+Content Amplification
+• create and modify data validation and verification routines
+• create and modify authentication management routines
+• create code for the solution that is self-documenting and
+uses meaningful identifiers
+• use a programming style that is consistent, including
+indentation and appropriate use of white space
+• use subroutines with well-defined interfaces
+• annotate code so that it is accessible to a competent third
+party
+• explain the solution or changes made to a solution.
+Testing • design and document an effective testing strategy that will
+ensure that the final solution meets the requirements
+• describe how the outcomes of the testing process can be
+used to inform further development of the solution
+• design test data to include examples of typical, extreme and
+erroneous content
+• implement a test plan using typical, extreme and erroneous
+data where appropriate
+• present test outcomes with detailed and informed
+commentaries
+• demonstrate testing and refinement of code during
+development or in response to change in the requirements
+provided
+• explain the outcome of testing using given data or data that
+the candidate has designed.
+Refinement • demonstrate understanding of the requirements and any
+changes required by revised requirements
+• demonstrate understanding of changes by presenting
+evidence of developmental changes
+• demonstrate testing and refinement of code to improve
+efficiency
+• discuss the strengths and weaknesses of differing
+approaches to meeting the requirements
+• demonstrate an understanding of the technical
+terminology/concepts used during software development
+• evaluate the outcomes of the original given code
+• evaluate the outcomes of the changes made by additional
+requirements.
+© WJEC CBAC Ltd.
+GCSE COMPUTER SCIENCE 17

@@ -1,0 +1,69 @@
+{
+  "subject_code": "J316",
+  "subject_name": "Drama",
+  "url": "https://www.ocr.org.uk/Images/242630-specification-accredited-gcse-drama-j316.pdf",
+  "start_time": "2025-11-20T13:42:50.498623",
+  "success": true,
+  "topics_extracted": 25,
+  "levels": {
+    "0": 1,
+    "1": 3,
+    "2": 4,
+    "3": 17
+  },
+  "issues": [
+    "Missing options extraction",
+    "Potential missing topics"
+  ],
+  "warnings": [
+    "Check for missing texts if applicable"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [
+        "Drama: Performance and response (04)"
+      ],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": true,
+      "text_locations": [
+        "Content of GCSE (9–1) in Drama",
+        "Texts in GCSE (9–1) Drama"
+      ],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Devising drama",
+        "Presenting and performing texts",
+        "Drama: Performance and response"
+      ],
+      "organization": "Components are organized by their focus on different aspects of drama performance and response.",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "Drama: Performance and response (04)"
+      ],
+      "content_mapping": {
+        "Drama: Performance and response (04)": "Exploration of a performance text and evaluation of a live theatre performance."
+      },
+      "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting details related to the Drama: Performance and response component, including prescribed texts and assessment criteria.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:42:50.498638"
+}

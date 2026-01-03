@@ -1,0 +1,152 @@
+Topic C4: Predicting and identifying reactions and products
+C4.1 Predicting chemical reactions
+Summary non-metal oxides with respect to acidity and how patterns in reactions can be
+Models of how substances react and the different types of chemical reactions predicted with reference to the Periodic Table.
+that can occur enable us to predict the likelihood and outcome of a chemical
+reaction. The current Periodic Table was developed based on observations of Common misconceptions
+the similarities and differences in the properties of elements. The way that the Learners consider the properties of particles of elements to be the same as
+Periodic Table is arranged into groups and periods reveals the trends and the bulk properties of that element. They tend to rely on the continuous matter
+patterns in the behaviour of the elements. The model of atomic structure model rather than the particle model. Learners confuse state changes and
+provides an explanation for trends and patterns in the properties of elements. dissolving with chemical changes. Also, since the atmosphere is invisible to the
+The arrangement of elements in groups and periods reveals the relationship eye and learners rely on concrete, visible information, this means they therefore
+between observable properties and how electrons are arranged in the atoms often avoid the role of oxygen in their explanations for open system reactions.
+of each element. Even if the role of oxygen is appreciated, learners do not realise that solid
+products of an oxidation reaction have more mass than the starting solid.
+Underlying knowledge and understanding
+Learners should be familiar with the principles underpinning the Mendeleev Tiering
+Periodic Table; the Periodic Table: periods and groups; metals and non-metals; Statements shown in bold type will only be tested in the Higher Tier papers.
+the varying physical and chemical properties of different elements; the chemical All other statements will be assessed in both Foundation and Higher Tier papers.
+properties of metals and non-metals; the chemical properties of metal and
+Reference Mathematical learning outcomes Mathematical skills
+CM4.1i arithmetic computation and ratio when determining empirical formulae, balancing M1a, M1c
+equations
+34
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C4.1a recall the simple properties of Groups 1, 7 physical and chemical properties WS1.2a, Displacement reactions of
+and 0 WS1.4a halogens with halides. (PAG C1)
+WS1.4c
+C4.1b explain how observed simple properties of ease of electron gain or loss;
+Groups 1, 7 and 0 depend on the outer physical and chemical properties
+shell of electrons of the atoms and predict
+properties from given trends down the
+groups
+C4.1c þ recall the general properties of transition melting point, density, reactivity, WS1.4a Investigation of transition metals.
+metals and their compounds and formation of coloured ions with (PAG C1, PAG C5, PAG C8)
+exemplify these by reference to a small different charges and uses as
+number of transition metals catalysts
+C4.1d predict possible reactions and probable WS1.1b,
+reactivity of elements from their positions WS1.2a,
+in the Periodic Table WS1.4a
+C4.1e explain how the reactivity of metals with M1a, M1c WS1.4a Reaction of metals with water,
+water or dilute acids is related to the dilute hydrochloric acid. (PAG C1,
+tendency of the metal to form its positive PAG C7, PAG C8)
+ion
+C4.1f deduce an order of reactivity of metals WS1.3e, Displacement reactions involving
+based on experimental results WS2a metals and metal salts. (PAG C1,
+PAG C7, PAG C8)
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+35
+Version
+3.6
+©
+OCR
+2024
+2
+C4.2 Identifying the products of chemical reactions
+Summary Common misconceptions
+Types of substances can be classified according to their general physical and Learners confuse mass and density so in reactions involving change of state,
+chemical properties. This section explores the tests that can be used to identify learners reason that the products from a precipitation reaction are heavier than
+the products of reactions by looking at their physical and chemical properties. the starting materials and that when a gas is produced the reaction has lost mass
+overall.
+Underlying knowledge and understanding
+Learners should be familiar with cations and anions from their work on Tiering
+electrolysis. Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+CM4.2i þ interpret charts, particularly in spectroscopy M4a
+36
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C4.2a describe tests to identify selected gases oxygen, hydrogen, carbon dioxide and
+(Combined chlorine
+Science
+C3.1g)
+C4.2b þ describe tests to identify aqueous calcium, copper, iron(II), iron(III) WS1.4a Tests for cations using sodium
+cations and aqueous anions and zinc using sodium hydroxide; hydroxide. (PAG C5)
+tests and expected results for carbonate
+Tests for anions using silver
+ions (using diluted acid), chloride,
+nitrate and barium sulfate.
+bromide and iodide ions (using acidified
+(PAG C5)
+dilute silver nitrate) and sulfate ions
+(using acidified dilute barium chloride
+or acidified barium nitrate)
+C4.2c þ describe how to perform a flame test WS1.2b, Flame tests. (PAG C5)
+WS1.2c,
+WS2a, WS2b
+C4.2d þ identify species from test results Testing unknown solutions for
+cations and anions. (PAG C5)
+C4.2e þ interpret flame tests to identify metal the ions of lithium, sodium, potassium, WS1.4a
+ions calcium and copper
+C4.2f þ describe the advantages of instrumental sensitivity, accuracy and speed WS1.1e,
+methods of analysis WS1.2c,
+WS1.2d,
+WS1.2e
+C4.2g þ interpret an instrumental result given the features of a mass spectroscopy M4a WS1.3e
+appropriate data in chart or tabular chart
+form, when accompanied by a reference
+set of data in the same form
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+37
+Version
+3.6
+©
+OCR
+2024
+2

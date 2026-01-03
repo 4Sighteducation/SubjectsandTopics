@@ -1,0 +1,15 @@
+{
+  "subject_code": "J560",
+  "subject_name": "Mathematics",
+  "success": false,
+  "error": "Could not find Content Overview section",
+  "topics_extracted": 0,
+  "levels": {},
+  "issues": [
+    "Content Overview section not found"
+  ],
+  "success_grade": 0,
+  "analysis": {
+    "content_found": false
+  }
+}

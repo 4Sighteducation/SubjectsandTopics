@@ -1,0 +1,118 @@
+1. Unit 1: Markets in Action
+   1.1 Introductory Concepts
+       1.1.1 The nature of economics
+       1.1.2 Positive and normative economics
+       1.1.3 Scarcity
+       1.1.4 Production possibility frontiers
+       1.1.5 Specialisation and the role of money and financial markets
+       1.1.6 Free market, mixed and command economies
+   1.2 Consumer Behaviour and Demand
+       1.2.1 Rational decision making
+       1.2.2 The demand curve
+       1.2.3 Price, income and cross-elasticities of demand
+   1.3 Supply
+       1.3.1 The supply curve
+       1.3.2 Price elasticity of supply
+   1.4 Price Determination
+       1.4.1 Determination of market equilibrium
+       1.4.2 Consumer and producer surplus
+       1.4.3 Functions of the price mechanism
+       1.4.4 Indirect taxes and subsidies
+   1.5 Market Failure
+       1.5.1 Sources of market failure
+       1.5.2 Positive and negative externalities
+       1.5.3 Non-provision of public goods
+       1.5.4 Imperfect market information
+       1.5.5 Moral hazard
+       1.5.6 Speculation and market bubbles
+   1.6 Government Intervention in Markets
+       1.6.1 Purpose and methods of government intervention
+       1.6.2 Government failure
+
+2. Unit 2: Macroeconomic Performance and Policy
+   2.1 Measures of Economic Performance
+       2.1.1 Economic growth
+       2.1.2 Inflation
+       2.1.3 Employment and unemployment
+       2.1.4 Balance of payments
+   2.2 Aggregate Demand (AD)
+       2.2.1 The characteristics of AD
+       2.2.2 Consumption (C)
+       2.2.3 Investment (I)
+       2.2.4 Government expenditure (G)
+       2.2.5 Net trade balance (X−M)
+   2.3 Aggregate Supply (AS)
+       2.3.1 The characteristics of AS
+       2.3.2 Short-run AS (SRAS)
+       2.3.3 Long-run AS (LRAS)
+   2.4 National Income
+       2.4.1 National income
+       2.4.2 Injections and withdrawals
+       2.4.3 Equilibrium level of real output
+       2.4.4 The multiplier
+   2.5 Economic Growth
+       2.5.1 Causes of growth
+       2.5.2 Benefits of growth
+       2.5.3 Costs of growth
+       2.5.4 Output gaps
+   2.6 Macroeconomic Objectives and Policies
+       2.6.1 Macroeconomic objectives
+       2.6.2 Possible conflicts between macroeconomic objectives
+       2.6.3 Macroeconomic supply-side policies
+       2.6.4 Macroeconomic demand-side policies
+
+3. Unit 3: Business Behaviour
+   3.1 Types and Sizes of Businesses
+       3.1.1 Types of business
+       3.1.2 Size of businesses
+       3.1.3 Business objectives
+   3.2 Revenue, Costs and Profits
+       3.2.1 Revenue
+       3.2.2 Costs
+       3.2.3 Economies and diseconomies of scale
+       3.2.4 Profits and losses
+   3.3 Market Structures and Contestability
+       3.3.1 Efficiency
+       3.3.2 Concentration ratio
+       3.3.3 Perfect competition
+       3.3.4 Monopolistic competition
+       3.3.5 Oligopoly
+       3.3.6 Monopoly
+       3.3.7 Monopsony
+       3.3.8 Contestability
+   3.4 Labour Markets
+       3.4.1 The demand for labour
+       3.4.2 The supply of labour
+       3.4.3 The determination of wage rates in competitive and non-competitive markets
+       3.4.4 Market failure in the labour market
+   3.5 Government Intervention
+       3.5.1 Government intervention in product markets
+       3.5.2 Government intervention in labour markets
+
+4. Unit 4: Developments in the Global Economy
+   4.1 Causes and Effects of Globalisation
+       4.1.1 Characteristics of globalisation
+       4.1.2 Causes of globalisation
+       4.1.3 Effects of globalisation
+   4.2 Trade and the Global Economy
+       4.2.1 Specialisation and comparative advantage
+       4.2.2 Patterns and volume of world trade
+       4.2.3 Terms of trade
+       4.2.4 Trade liberalisation and trading blocs
+       4.2.5 Restrictions on free trade
+   4.3 Balance of Payments, Exchange Rates and International Competitiveness
+       4.3.1 Balance of payments
+       4.3.2 Exchange rates
+       4.3.3 International competitiveness
+   4.4 Poverty and Inequality
+       4.4.1 Poverty
+       4.4.2 Inequality
+   4.5 The Role of the State in the Macroeconomy
+       4.5.1 Public expenditure
+       4.5.2 Taxation
+       4.5.3 Public sector borrowing and public sector debt
+       4.5.4 Macroeconomic policies
+   4.6 Growth and Development in Developing, Emerging and Developed Economies
+       4.6.1 Measures of economic development
+       4.6.2 Constraints on growth and development
+       4.6.3 Measures to promote growth and development

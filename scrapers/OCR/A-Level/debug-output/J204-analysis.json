@@ -1,0 +1,42 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": false,
+        "compulsory": [],
+        "optional": []
+    },
+    "texts": {
+        "has_texts": false,
+        "text_locations": [],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": [
+            "Business 1: business activity, marketing and people",
+            "Business 2: operations, finance and influences on business"
+        ],
+        "organization": "The content is organized into two main components, each focusing on different aspects of business studies.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "Business 1: business activity, marketing and people (01)",
+            "Business 2: operations, finance and influences on business (02)"
+        ],
+        "content_mapping": {
+            "Business 1: business activity, marketing and people (01)": "Business activity, Marketing, People",
+            "Business 2: operations, finance and influences on business (02)": "Operations, Finance, Influences on business, The interdependent nature of business"
+        },
+        "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting content related to the two main components and their respective topics. Ensure to capture the detailed breakdown of each topic within the components."
+}
+```

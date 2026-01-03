@@ -1,0 +1,27 @@
+1.1 P7.1 Work done
+1.1.1 P7.1a describe for situations where there are energy transfers in a system, that there is no net change to the total energy of a closed system (qualitative only)
+1.1.1.1 the law of conservation of energy
+1.1.2 P7.1b describe all the changes involved in the way energy is stored when a system changes for common situations
+1.1.2.1 an object projected upwards or up a slope
+1.1.2.2 a moving object hitting an obstacle
+1.1.2.3 an object being accelerated by a constant force
+1.1.2.4 a vehicle slowing down
+1.1.2.5 bringing water to a boil in an electric kettle
+1.1.3 P7.1c describe the changes in energy involved when a system is changed by heating (in terms of temperature change and specific heat capacity), by work done by forces, and by work done when a current flows
+1.1.4 P7.1d make calculations of the energy changes associated with changes in a system, recalling or selecting the relevant equations for mechanical, electrical, and thermal processes; thereby express in quantitative form and on a common scale the overall redistribution of energy in the system
+1.1.4.1 work done by forces
+1.1.4.2 current flow
+1.1.4.3 through heating
+1.1.4.4 the use of kW h to measure energy use in electrical appliances in the home
+1.1.5 P7.1e calculate the amounts of energy associated with a moving body, a stretched spring and an object raised above ground level
+
+1.2 P7.2 Power and efficiency
+1.2.1 P7.2a describe, with examples, the process by which energy is dissipated, so that it is stored in less useful ways
+1.2.2 P7.2b describe how, in different domestic devices, energy is transferred from batteries or the a.c. from the mains
+1.2.2.1 how energy may be wasted in the transfer to and within motors and heating devices
+1.2.3 P7.2c describe, with examples, the relationship between the power ratings for domestic electrical appliances and how this is linked to the changes in stored energy when they are in use
+1.2.4 P7.2d calculate energy efficiency for any energy transfer
+1.2.5 P7.2e describe ways to increase efficiency
+1.2.6 P7.2f explain ways of reducing unwanted energy transfer
+1.2.6.1 lubrication and thermal insulation
+1.2.7 P7.2g describe how the rate of cooling of a building is affected by the thickness and thermal conductivity of its walls (qualitative only)

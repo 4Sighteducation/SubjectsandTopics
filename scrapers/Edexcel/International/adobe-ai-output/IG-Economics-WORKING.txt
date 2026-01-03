@@ -1,0 +1,70 @@
+1. Paper 1: Microeconomics and Business Economics
+   1.1 The market system
+       1.1.1 The economic problem
+           1.1.1.1 Scarcity and choice
+           1.1.1.2 Opportunity cost
+           1.1.1.3 Production possibility curve
+       1.1.2 Economic assumptions
+           1.1.2.1 Consumer and producer behavior
+       1.1.3 Demand, supply and market equilibrium
+           1.1.3.1 Demand and supply curves
+           1.1.3.2 Market equilibrium
+           1.1.3.3 Excess demand and supply
+       1.1.4 Elasticity
+           1.1.4.1 Price elasticity of demand
+           1.1.4.2 Price elasticity of supply
+           1.1.4.3 Income elasticity of demand
+       1.1.5 The mixed economy
+           1.1.5.1 Public and private sectors
+           1.1.5.2 Market failure
+           1.1.5.3 Government intervention
+       1.1.6 Externalities
+           1.1.6.1 External costs and benefits
+   1.2 Business economics
+       1.2.1 Production
+           1.2.1.1 Factors of production
+           1.2.1.2 Sectors of the economy
+       1.2.2 Productivity and division of labour
+           1.2.2.1 Factors affecting productivity
+           1.2.2.2 Division of labour
+       1.2.3 Business costs, revenues and profit
+           1.2.3.1 Calculating costs and revenues
+           1.2.3.2 Economies and diseconomies of scale
+       1.2.4 Business competition
+           1.2.4.1 Competition and market structures
+           1.2.4.2 Monopoly and oligopoly
+       1.2.5 The labour market
+           1.2.5.1 Demand and supply of labour
+           1.2.5.2 Trade unions
+       1.2.6 Government intervention
+           1.2.6.1 Policies to address externalities
+           1.2.6.2 Regulation of competition
+           1.2.6.3 Minimum wage
+
+2. Paper 2: Macroeconomics and the Global Economy
+   2.1 Government and the economy
+       2.1.1 Macroeconomic objectives
+           2.1.1.1 Economic growth
+           2.1.1.2 Inflation
+           2.1.1.3 Unemployment
+           2.1.1.4 Balance of payments
+           2.1.1.5 Environmental protection
+           2.1.1.6 Redistribution of income
+       2.1.2 Government policies
+           2.1.2.1 Fiscal policy
+           2.1.2.2 Monetary policy
+           2.1.2.3 Supply-side policy
+           2.1.2.4 Government controls
+       2.1.3 Relationships between objectives and policies
+           2.1.3.1 Trade-offs between objectives
+   2.2 The global economy
+       2.2.1 Globalisation
+           2.2.1.1 Causes and impacts of globalisation
+           2.2.1.2 Multinational corporations
+       2.2.2 International trade
+           2.2.2.1 Free trade and protectionism
+           2.2.2.2 Trading blocs and the WTO
+           2.2.2.3 Trade patterns
+       2.2.3 Exchange rates
+           2.2.3.1 Determination of exchange rates
+           2.2.3.2 Effects of exchange rate changes

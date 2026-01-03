@@ -1,0 +1,407 @@
+1 Physiological factors affecting performance
+1.1 1.1.a. Skeletal and muscular systems
+1.1.1 Joints, movements and muscles
+1.1.1.1 shoulder:
+1.1.1.1.1 flexion, extension, abduction, adduction, horizontal flexion/abduction
+1.1.1.1.2 extension, medial and lateral rotation, circumduction
+1.1.1.1.3 deltoid, latissimus dorsi, pectoralis major, trapezius, teres minor
+1.1.1.2 elbow:
+1.1.1.2.1 flexion, extension
+1.1.1.2.2 biceps brachii, triceps brachii
+1.1.1.3 wrist:
+1.1.1.3.1 flexion, extension
+1.1.1.3.2 wrist flexors, wrist extensors
+1.1.1.4 hip:
+1.1.1.4.1 flexion, extension, abduction, adduction, medial and lateral rotation
+1.1.1.4.2 iliopsoas, gluteus maximus, medius and minimus, adductor longus, brevis and magnus
+1.1.1.5 knee:
+1.1.1.5.1 flexion, extension
+1.1.1.5.2 hamstring group: biceps femoris, semi-membranosus, semi-tendinosus
+1.1.1.5.3 quadriceps group: rectus femoris, vastus lateralis, vastus intermedius and vastus medialis
+1.1.1.6 ankle:
+1.1.1.6.1 dorsi flexion, plantar flexion
+1.1.1.6.2 tibialis anterior, soleus, gastrocnemius
+1.1.1.7 planes of movement:
+1.1.1.7.1 frontal
+1.1.1.7.2 transverse
+1.1.1.7.3 sagittal
+1.1.2 Functional roles of muscles and types of contraction
+1.1.2.1 roles of muscles:
+1.1.2.1.1 agonist
+1.1.2.1.2 antagonist
+1.1.2.1.3 fixator
+1.1.2.2 types of contraction:
+1.1.2.2.1 isotonic
+1.1.2.2.2 concentric
+1.1.2.2.3 eccentric
+1.1.2.2.4 isometric
+1.1.3 Analysis of movement
+1.1.3.1 analyse movement with reference to:
+1.1.3.1.1 joint type
+1.1.3.1.2 movement produced
+1.1.3.1.3 agonist and antagonist muscles involved
+1.1.3.1.4 type of muscle contraction taking place
+1.1.4 Skeletal muscle contraction
+1.1.4.1 structure and role of motor units in skeletal muscle contraction
+1.1.4.2 nervous stimulation of the motor unit:
+1.1.4.2.1 motor neuron
+1.1.4.2.2 action potential
+1.1.4.2.3 neurotransmitter
+1.1.4.2.4 ‘all or none’ law
+1.1.5 Muscle contraction during exercise of differing intensities and during recovery
+1.1.5.1 muscle fibre types:
+1.1.5.1.1 slow oxidative
+1.1.5.1.2 fast oxidative glycolytic
+1.1.5.1.3 fast glycolytic
+1.1.5.2 recruitment of different fibre types during exercise of differing intensities and during recovery
+1.1.b. Cardiovascular and respiratory systems
+1.1.6 Cardiovascular system at rest
+1.1.6.1 the relationship between, and resting values for:
+1.1.6.1.1 heart rate
+1.1.6.1.2 stroke volume
+1.1.6.1.3 cardiac output
+1.1.6.1.4 methods of calculating the above
+1.1.6.2 cardiac cycle:
+1.1.6.2.1 diastole
+1.1.6.2.2 systole
+1.1.6.3 conduction system of the heart linked to the cardiac cycle
+1.1.7 Cardiovascular system during exercise of differing intensities and during recovery
+1.1.7.1 effects of different exercise intensities and recovery on:
+1.1.7.1.1 heart rate
+1.1.7.1.2 stroke volume
+1.1.7.1.3 cardiac output
+1.1.7.1.4 methods of calculating the above
+1.1.7.2 redistribution of cardiac output during exercise of differing intensities and during recovery:
+1.1.7.2.1 vascular shunt mechanism
+1.1.7.2.2 role of the vasomotor centre
+1.1.7.2.3 role of arterioles
+1.1.7.2.4 role of pre-capillary sphincters
+1.1.7.3 mechanisms of venous return during exercise of differing intensities and during recovery
+1.1.7.4 regulation of heart rate:
+1.1.7.4.1 neural factors
+1.1.7.4.2 hormonal factors
+1.1.7.4.3 intrinsic factors
+1.1.8 Respiratory system at rest
+1.1.8.1 relationship between resting values for:
+1.1.8.1.1 breathing frequency
+1.1.8.1.2 tidal volume
+1.1.8.1.3 minute ventilation
+1.1.8.1.4 methods of calculating the above
+1.1.8.2 mechanics of breathing at rest and the muscles involved:
+1.1.8.2.1 diaphragm
+1.1.8.2.2 external intercostals
+1.1.8.2.3 at the alveoli
+1.1.8.2.4 at the muscles
+1.1.9 Respiratory system during exercise of differing intensities and during recovery
+1.1.9.1 effects of differing intensities of exercise and recovery on:
+1.1.9.1.1 breathing frequency
+1.1.9.1.2 tidal volume
+1.1.9.1.3 minute ventilation
+1.1.9.2 mechanics of breathing during exercise of differing intensities and during recovery, including additional muscles involved:
+1.1.9.2.1 inspiration – sternocleidomastoid, pectoralis minor
+1.1.9.2.2 expiration – internal intercostals, rectus abdominis
+1.1.9.3 regulation of breathing during exercise of different intensities and during recovery
+1.1.9.3.1 neural control
+1.1.9.3.2 chemical control
+1.1.9.4 effect of differing intensities of exercise and recovery on gas exchange at the alveoli and at the muscles
+1.1.9.4.1 changes in pressure gradient
+1.1.9.4.2 changes in dissociation of oxyhaemoglobin
+1.1.c. Energy for exercise
+1.1.10 Adenosine Triphosphate (ATP) and energy transfer
+1.1.10.1 ATP as ‘energy currency’
+1.1.10.2 principle of energetically coupled reactions:
+1.1.10.2.1 breakdown of ATP to ADP (Adenosine Diphosphate) + P (phosphate)
+1.1.10.2.2 resynthesis of ATP from ADP + P
+1.1.11 Energy systems and ATP resynthesis
+1.1.11.1 energy systems:
+1.1.11.1.1 ATP-PC (Phosphocreatine) system
+1.1.11.1.2 glycolytic system
+1.1.11.1.3 aerobic system
+1.1.11.2 for each system:
+1.1.11.2.1 type of reaction (aerobic or anaerobic)
+1.1.11.2.2 chemical or food fuel used
+1.1.11.2.3 specific site of the reaction
+1.1.11.2.4 controlling enzyme
+1.1.11.2.5 ATP yield
+1.1.11.2.6 specific stages within the system
+1.1.11.2.7 by-products
+1.1.12 ATP resynthesis during exercise of differing intensities and durations
+1.1.12.1 the energy continuum
+1.1.12.2 predominant energy system used during exercise:
+1.1.12.2.1 how intensity and duration of exercise influence which energy system is predominantly used to resynthesise ATP
+1.1.12.2.2 interpretation of figures relating to the contribution of the three energy systems to exercise of different intensities and durations
+1.1.12.3 interplay of energy systems during intermittent exercise and factors that affect this interplay
+1.1.12.3.1 intensity of exercise
+1.1.12.3.2 duration of exercise
+1.1.12.3.3 recovery periods
+1.1.12.3.4 fitness levels
+1.1.13 The recovery process
+1.1.13.1 how the body returns to its pre-exercise state:
+1.1.13.1.1 Excess Post exercise Oxygen Consumption (EPOC)
+1.1.13.2 fast components of EPOC, the processes that occur and the duration:
+1.1.13.2.1 replenishment of blood and muscle oxygen stores
+1.1.13.2.2 re-synthesis of ATP and PC
+1.1.13.3 slow components of EPOC, the processes that occur and the duration:
+1.1.13.3.1 elevated circulation
+1.1.13.3.2 elevated ventilation
+1.1.13.3.3 elevated body temperature
+1.1.13.3.4 lactate removal and conversion to glycogen
+1.1.13.4 effect of exercise intensity on EPOC and implications of the recovery process for planning exercise or training sessions
+1.1.d. Environmental effects on body systems
+1.1.14 Exercise at altitude
+1.1.14.1 effect of altitude on the cardiovascular and respiratory systems:
+1.1.14.1.1 reduced arterial PO (partial pressure of oxygen) leading to impaired muscle O delivery
+1.1.14.1.2 elevated heart rate and ventilation
+1.1.14.2 acclimatisation, including the importance of timing arrival, at altitude (above 2400m)
+1.1.15 Exercise in the heat
+1.1.15.1 effect of heat on the cardiovascular and respiratory systems:
+1.1.15.1.1 temperature regulation
+1.1.15.1.2 cardiovascular drift
+1.2 Exercise physiology
+1.2.1 Diet and nutrition and their effect on physical activity and performance
+1.2.1.1 Diet and nutrition
+1.2.1.1.1 function and importance of the components of a healthy, balanced diet:
+1.2.1.1.1.1 carbohydrates
+1.2.1.1.1.2 proteins
+1.2.1.1.1.3 fats
+1.2.1.1.1.4 minerals
+1.2.1.1.1.5 vitamins
+1.2.1.1.1.6 fibre
+1.2.1.1.1.7 water
+1.2.1.1.2 energy intake and expenditure and energy balance in physical activity and performance
+1.2.1.2 Ergogenic aids
+1.2.1.2.1 use of ergogenic aids; potential benefits and risks:
+1.2.1.2.1.1 pharmacological aids:
+1.2.1.2.1.1.1 anabolic steroids
+1.2.1.2.1.1.2 erythropoietin (EPO)
+1.2.1.2.1.1.3 human growth hormone (HGH)
+1.2.1.2.1.2 physiological aids:
+1.2.1.2.1.2.1 blood doping
+1.2.1.2.1.2.2 intermittent hypoxic training (IHT)
+1.2.1.2.1.2.3 cooling aids
+1.2.1.2.1.3 nutritional aids:
+1.2.1.2.1.3.1 amount of food
+1.2.1.2.1.3.2 composition of meals
+1.2.1.2.1.3.3 timing of meals
+1.2.1.2.1.3.4 hydration
+1.2.1.2.1.3.5 glycogen/carbohydrate loading
+1.2.1.2.1.3.6 creatine
+1.2.1.2.1.3.7 caffeine
+1.2.1.2.1.3.8 bicarbonate
+1.2.1.2.1.3.9 nitrate
+1.2.2 Preparation and training methods in relation to improving and maintaining physical activity and performance
+1.2.2.1 Aerobic training
+1.2.2.1.1 aerobic capacity and maximal oxygen uptake (VO max)
+1.2.2.1.2 how VO max is affected by:
+1.2.2.1.2.1 individual physiological make-up
+1.2.2.1.2.2 training
+1.2.2.1.2.3 age
+1.2.2.1.2.4 gender
+1.2.2.1.3 methods of evaluating aerobic capacity:
+1.2.2.1.3.1 laboratory test of VO max using direct gas analysis
+1.2.2.1.3.2 NCF multi-stage fitness test
+1.2.2.1.3.3 Queen’s College step test
+1.2.2.1.3.4 Cooper 12 minute run
+1.2.2.1.4 intensity and duration of training used to develop aerobic capacity:
+1.2.2.1.4.1 continuous training
+1.2.2.1.4.2 high intensity interval training (HIIT)
+1.2.2.1.5 the use of target heart rates as an intensity guide
+1.2.2.1.6 physiological adaptations from aerobic training:
+1.2.2.1.6.1 cardiovascular
+1.2.2.1.6.2 respiratory
+1.2.2.1.6.3 muscular
+1.2.2.1.6.4 metabolic
+1.2.2.1.7 activities and sports in which aerobic capacity is a key fitness component
+1.2.2.2 Strength training
+1.2.2.2.1 types of strength:
+1.2.2.2.1.1 strength endurance
+1.2.2.2.1.2 maximum strength
+1.2.2.2.1.3 explosive/elastic strength
+1.2.2.2.1.4 static and dynamic strength
+1.2.2.2.2 factors that affect strength:
+1.2.2.2.2.1 fibre type
+1.2.2.2.2.2 cross sectional area of the muscle
+1.2.2.2.3 methods of evaluating each type of strength:
+1.2.2.2.3.1 grip strength dynamometer
+1.2.2.2.3.2 1 Repetition Maximum(1RM)
+1.2.2.2.3.3 press up or sit-up test
+1.2.2.2.3.4 vertical jump test
+1.2.2.2.4 training to develop strength:
+1.2.2.2.4.1 repetitions
+1.2.2.2.4.2 sets
+1.2.2.2.4.3 resistance guidelines used to improve each type of strength
+1.2.2.2.4.4 use of multi-gym
+1.2.2.2.4.5 weights
+1.2.2.2.4.6 plyometrics
+1.2.2.2.4.7 circuit/interval training:
+1.2.2.2.4.7.1 work intensity
+1.2.2.2.4.7.2 work duration
+1.2.2.2.4.7.3 relief interval
+1.2.2.2.4.7.4 number of work/relief intervals
+1.2.2.2.5 physiological adaptations from strength training:
+1.2.2.2.5.1 muscle and connective tissues
+1.2.2.2.5.2 neural
+1.2.2.2.5.3 metabolic
+1.2.2.2.6 activities and sports in which strength is a key fitness component
+1.2.2.3 Flexibility training
+1.2.2.3.1 types of flexibility:
+1.2.2.3.1.1 static flexibility (active and passive)
+1.2.2.3.1.2 dynamic flexibility
+1.2.2.3.2 factors that affect flexibility:
+1.2.2.3.2.1 type of joint
+1.2.2.3.2.2 length of surrounding connective tissue
+1.2.2.3.2.3 age
+1.2.2.3.2.4 gender
+1.2.2.3.3 methods of evaluating flexibility:
+1.2.2.3.3.1 sit and reach test
+1.2.2.3.3.2 goniometer
+1.2.2.3.4 training used to develop flexibility:
+1.2.2.3.4.1 passive stretching
+1.2.2.3.4.2 proprioceptive neuromuscular facilitation (PNF)
+1.2.2.3.4.3 static stretching
+1.2.2.3.4.4 dynamic stretching
+1.2.2.3.4.5 ballistic stretching
+1.2.2.3.4.6 isometric stretching
+1.2.2.3.5 physiological adaptations from flexibility training:
+1.2.2.3.5.1 muscle and connective tissues
+1.2.2.3.6 activities and sports in which flexibility is a key fitness component
+1.2.2.4 Periodisation of training
+1.2.2.4.1 periodisation cycles:
+1.2.2.4.1.1 macrocycle
+1.2.2.4.1.2 mesocycle
+1.2.2.4.1.3 microcycle
+1.2.2.4.2 phases of training:
+1.2.2.4.2.1 preparatory
+1.2.2.4.2.2 competitive
+1.2.2.4.2.3 transition
+1.2.2.4.3 tapering to optimise performance
+1.2.2.4.4 how to plan personal health and fitness programmes for aerobic, strength and flexibility training
+1.2.2.5 Impact of training on lifestyle diseases
+1.2.2.5.1 the effect of training on lifestyle diseases:
+1.2.2.5.1.1 cardiovascular system:
+1.2.2.5.1.1.1 coronary heart disease (CHD)
+1.2.2.5.1.1.2 stroke
+1.2.2.5.1.1.3 atherosclerosis
+1.2.2.5.1.1.4 heart attack
+1.2.2.5.1.2 respiratory system:
+1.2.2.5.1.2.1 asthma
+1.2.2.5.1.2.2 chronic obstructive pulmonary disease (COPD)
+1.2.3 Injury prevention and the rehabilitation of injury
+1.2.3.1 Acute and chronic injuries
+1.2.3.1.1 acute injuries resulting from a sudden stress to the body:
+1.2.3.1.1.1 hard tissue injuries
+1.2.3.1.1.2 soft tissue injuries
+1.2.3.1.1.3 concussion
+1.2.3.1.2 chronic injuries resulting from continuous stress to the body:
+1.2.3.1.2.1 soft tissue injuries
+1.2.3.1.2.2 hard tissue injuries
+1.2.3.2 Injury prevention
+1.2.3.2.1 intrinsic risk factors:
+1.2.3.2.1.1 individual variables
+1.2.3.2.1.2 training effects
+1.2.3.2.2 extrinsic risk factors:
+1.2.3.2.2.1 poor technique/training
+1.2.3.2.2.2 incorrect equipment/clothing
+1.2.3.2.2.3 inappropriate intensity, duration or frequency of activity
+1.2.3.2.3 debate surrounding effective warm up and cool down
+1.2.3.3 Responding to injuries and medical conditions in a sporting context
+1.2.3.3.1 assessing sporting injuries using ‘SALTAPS’
+1.2.3.3.1.1 See
+1.2.3.3.1.2 Ask
+1.2.3.3.1.3 Look
+1.2.3.3.1.4 Touch
+1.2.3.3.1.5 Active
+1.2.3.3.1.6 Passive
+1.2.3.3.1.7 Strength
+1.2.3.3.2 acute management of soft tissue injuries using ‘PRICE’
+1.2.3.3.2.1 Protection
+1.2.3.3.2.2 Rest
+1.2.3.3.2.3 Ice
+1.2.3.3.2.4 Compression
+1.2.3.3.2.5 Elevation
+1.2.3.3.3 recognising concussion: IRB’s ‘Recognise and Remove’ 6 R’s
+1.2.3.3.3.1 Recognise
+1.2.3.3.3.2 Remove
+1.2.3.3.3.3 Refer
+1.2.3.3.3.4 Rest
+1.2.3.3.3.5 Recover
+1.2.3.3.3.6 Return
+1.2.3.4 Rehabilitation of injury
+1.2.3.4.1 treatment of common sporting injuries:
+1.2.3.4.1.1 injuries:
+1.2.3.4.1.1.1 fractures – simple, stress
+1.2.3.4.1.1.2 joint injuries – dislocation, sprain, torn cartilage
+1.2.3.4.1.1.3 exercise-induced muscle damage
+1.2.3.4.1.2 treatments:
+1.2.3.4.1.2.1 stretching
+1.2.3.4.1.2.2 massage
+1.2.3.4.1.2.3 heat, cold and contrast therapies
+1.2.3.4.1.2.4 anti-inflammatory drugs
+1.2.3.4.1.2.5 physiotherapy
+1.2.3.4.1.2.6 surgery
+1.3 Biomechanics
+1.3.1 Biomechanical principles, levers and the use of technology
+1.3.1.1 Biomechanical principles
+1.3.1.1.1 Define and apply Newton’s laws of motion:
+1.3.1.1.1.1 Newton’s first law: inertia
+1.3.1.1.1.2 Newton’s second law: acceleration
+1.3.1.1.1.3 Newton’s third law: reaction
+1.3.1.1.2 Force:
+1.3.1.1.2.1 net force
+1.3.1.1.2.2 balanced and unbalanced force
+1.3.1.1.2.3 weight
+1.3.1.1.2.4 reaction
+1.3.1.1.2.5 friction
+1.3.1.1.2.6 air resistance
+1.3.1.1.2.7 factors affecting friction and air resistance and their manipulation in sporting performance
+1.3.1.1.2.8 free body diagrams showing vertical and horizontal forces acting on a body at an instant in time and the resulting motion
+1.3.1.1.2.9 calculations of force, momentum, acceleration and weight
+1.3.1.1.2.10 definition of centre of mass
+1.3.1.1.2.11 factors affecting the position of the centre of mass
+1.3.1.1.2.12 the relationship between centre of mass and stability
+1.3.1.2 Levers
+1.3.1.2.1 components of a lever system:
+1.3.1.2.1.1 load
+1.3.1.2.1.2 effort
+1.3.1.2.1.3 fulcrum
+1.3.1.2.1.4 effort arm
+1.3.1.2.1.5 load arm
+1.3.1.2.2 1st class lever
+1.3.1.2.3 2nd class lever
+1.3.1.2.4 3rd class lever
+1.3.1.2.5 mechanical advantage of a 2nd class lever
+1.3.1.3 Analysing movement through the use of technology
+1.3.1.3.1 definitions and uses of:
+1.3.1.3.1.1 limb kinematics
+1.3.1.3.1.2 force plates
+1.3.1.3.1.3 wind tunnels
+1.3.1.3.2 how each type of technology may be used to optimise performance in sport
+1.3.2 Linear motion, angular motion, fluid mechanics and projectile motion
+1.3.2.1 Linear motion
+1.3.2.1.1 definition of linear motion
+1.3.2.1.2 creation of linear motion by the application of a direct force through the centre of mass
+1.3.2.1.3 definitions, calculations and units of measurement for each of the following quantities of linear motion:
+1.3.2.1.3.1 distance
+1.3.2.1.3.2 displacement
+1.3.2.1.3.3 speed
+1.3.2.1.3.4 velocity
+1.3.2.1.3.5 acceleration/deceleration
+1.3.2.1.4 plot and interpret graphs of linear motion:
+1.3.2.1.4.1 distance/time graphs
+1.3.2.1.4.2 speed/time graphs
+1.3.2.1.4.3 velocity/time graphs
+1.3.2.2 Angular motion
+1.3.2.2.1 definition of angular motion
+1.3.2.2.2 creation of angular motion through the application of an eccentric force about one (or more) of the three axes of rotation:
+1.3.2.2.2.1 longitudinal
+1.3.2.2.2.2 frontal
+1.3.2.2.2.3 transverse
+1.3.2.2.3 definitions, calculations and units of measurement for each quantity of angular motion:
+1.3.2.2.3.1 moment of inertia
+1.3.2.2.3.2 angular velocity
+1.3.2.2.3.3 angular momentum
+1.3.2.2.4 factors affecting the size of the moment of inertia of a rotating body:
+1.3.2.2.4.1 mass of the body (or body part)
+1.3.2.2.4.2 distribution of the mass from the axis of rotation
+1.3.2.2.5 the relationship between moment of inertia and angular velocity
+1.3.2.2.6 the conservation of angular momentum during flight in relation to the angular analogue of Newton's first law

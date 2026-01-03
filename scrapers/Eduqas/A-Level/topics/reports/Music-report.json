@@ -1,0 +1,246 @@
+{
+  "subject_name": "Music",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/i00jzys1/eduqas-a-level-music-spec-from-2016-e-260125.pdf",
+  "start_time": "2025-11-23T23:43:58.313577",
+  "success": true,
+  "topics_extracted": 97,
+  "levels": {
+    "0": 3,
+    "1": 5,
+    "2": 13,
+    "3": 32,
+    "4": 44
+  },
+  "issues": [],
+  "warnings": [
+    "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+    "Not all components extracted"
+  ],
+  "success_grade": 75,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "3",
+        "name": "in the summary of"
+      },
+      {
+        "number": "2",
+        "name": "compositions which fall"
+      },
+      {
+        "number": "1",
+        "name": "Performing 9"
+      },
+      {
+        "number": "2",
+        "name": "Composing 12"
+      },
+      {
+        "number": "3",
+        "name": "Appraising 15"
+      },
+      {
+        "number": "1",
+        "name": "Assessment 32"
+      },
+      {
+        "number": "2",
+        "name": "Assessment 44"
+      },
+      {
+        "number": "1",
+        "name": "Performing"
+      },
+      {
+        "number": "2",
+        "name": "Composing"
+      },
+      {
+        "number": "3",
+        "name": "Appraising"
+      },
+      {
+        "number": "1",
+        "name": "will"
+      },
+      {
+        "number": "2",
+        "name": "will be allocated to"
+      },
+      {
+        "number": "2",
+        "name": "will"
+      },
+      {
+        "number": "1",
+        "name": "will be allocated to"
+      },
+      {
+        "number": "1",
+        "name": "Learners must choose either Option A in both Components 1 and 2 or Option B in both"
+      },
+      {
+        "number": "1",
+        "name": "In the performing assessment learners should display:"
+      },
+      {
+        "number": "2",
+        "name": "Learners must choose either Option A in both Components 1 and 2 or Option B in both"
+      },
+      {
+        "number": "2",
+        "name": "Learners are advised to consider the requirements of the marking criteria (Appendix"
+      },
+      {
+        "number": "3",
+        "name": "Appraising"
+      },
+      {
+        "number": "3",
+        "name": "examination. This will include two set works:"
+      },
+      {
+        "number": "3",
+        "name": "can be found in Appendix C."
+      },
+      {
+        "number": "1",
+        "name": "35% - - - 35%"
+      },
+      {
+        "number": "2",
+        "name": "- 25% - - 25%"
+      },
+      {
+        "number": "3",
+        "name": "- - 10% 30% 40%"
+      },
+      {
+        "number": "1",
+        "name": "25% - - - 25%"
+      },
+      {
+        "number": "2",
+        "name": "- 35% - - 35%"
+      },
+      {
+        "number": "3",
+        "name": "- - 10% 30% 40%"
+      },
+      {
+        "number": "1",
+        "name": "Performing"
+      },
+      {
+        "number": "1",
+        "name": "assesses AO1 in its entirety."
+      },
+      {
+        "number": "1",
+        "name": "is 108"
+      },
+      {
+        "number": "1",
+        "name": "is 72"
+      },
+      {
+        "number": "2",
+        "name": "Composing"
+      },
+      {
+        "number": "2",
+        "name": "assesses AO2 in its entirety."
+      },
+      {
+        "number": "1",
+        "name": "Performing"
+      },
+      {
+        "number": "1",
+        "name": "Technical Control"
+      },
+      {
+        "number": "2",
+        "name": "Composing"
+      },
+      {
+        "number": "2",
+        "name": "The following information is provided as guidance for composing within the areas of"
+      },
+      {
+        "number": "1",
+        "name": "Performing 9"
+      },
+      {
+        "number": "2",
+        "name": "Composing 12"
+      },
+      {
+        "number": "3",
+        "name": "Appraising 15"
+      },
+      {
+        "number": "1",
+        "name": "Performing"
+      },
+      {
+        "number": "2",
+        "name": "Composing"
+      },
+      {
+        "number": "3",
+        "name": "Appraising"
+      },
+      {
+        "number": "2",
+        "name": "25% - - 25%"
+      },
+      {
+        "number": "3",
+        "name": "- 10% 30% 40%"
+      },
+      {
+        "number": "2",
+        "name": "35% - - 35%"
+      },
+      {
+        "number": "3",
+        "name": "- 10% 30% 40%"
+      },
+      {
+        "number": "1",
+        "name": "Performing"
+      },
+      {
+        "number": "2",
+        "name": "Composing"
+      },
+      {
+        "number": "1",
+        "name": "Performing"
+      },
+      {
+        "number": "1",
+        "name": "Technical Control"
+      },
+      {
+        "number": "2",
+        "name": "Composing"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix A"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 27.755494117736816,
+  "end_time": "2025-11-23T23:44:26.069071"
+}

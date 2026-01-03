@@ -1,0 +1,142 @@
+{
+  "subject_name": "Physical Education",
+  "level": "A-Level",
+  "pdf_url": "https://www.eduqas.co.uk/media/avjhdg4g/eduqas-a-level-physical-education-spec-from-2016-e-07-08-2020.pdf",
+  "start_time": "2025-11-23T23:45:03.827891",
+  "success": true,
+  "topics_extracted": 51,
+  "levels": {
+    "0": 4,
+    "1": 9,
+    "2": 20,
+    "3": 18
+  },
+  "issues": [],
+  "warnings": [
+    "Relatively few topics extracted - A-Level typically has 100-500+ topics",
+    "No Level 4+ topics extracted - may be missing deeper detail (critical for A-Level)",
+    "Not all components extracted"
+  ],
+  "success_grade": 60,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": false,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "Exploring concepts in physical education 24"
+      },
+      {
+        "number": "2",
+        "name": "Evaluating physical education 24"
+      },
+      {
+        "number": "3",
+        "name": "Improving personal performance 24"
+      },
+      {
+        "number": "3",
+        "name": "assessment grids 33"
+      },
+      {
+        "number": "1",
+        "name": "Exploring concepts in physical education"
+      },
+      {
+        "number": "2",
+        "name": "Evaluating physical education"
+      },
+      {
+        "number": "3",
+        "name": "Improving Personal Performance in"
+      },
+      {
+        "number": "3",
+        "name": "as part of the analysis and evaluation of performance. The"
+      },
+      {
+        "number": "3",
+        "name": "as part of the analysis and evaluation."
+      },
+      {
+        "number": "1",
+        "name": "Exploring concepts in physical education"
+      },
+      {
+        "number": "2",
+        "name": "Evaluating physical education"
+      },
+      {
+        "number": "3",
+        "name": "Improving personal performance in physical education"
+      },
+      {
+        "number": "1",
+        "name": "12% 15% 8% - 35%"
+      },
+      {
+        "number": "2",
+        "name": "12% 7% 16% - 35%"
+      },
+      {
+        "number": "3",
+        "name": "- - - 30% 30%"
+      },
+      {
+        "number": "3",
+        "name": "Component 3 assesses assessment objective 4 in its entirety; it will be marked out of"
+      },
+      {
+        "number": "3",
+        "name": "Assessment Marks Weighting Assessment"
+      },
+      {
+        "number": "3",
+        "name": "assessment grids"
+      },
+      {
+        "number": "3",
+        "name": "assesses assessment objective 4 in its entirety; it will be marked out of 90 and"
+      },
+      {
+        "number": "1",
+        "name": "Exploring concepts in physical education 24"
+      },
+      {
+        "number": "2",
+        "name": "Evaluating physical education 24"
+      },
+      {
+        "number": "3",
+        "name": "Improving personal performance 24"
+      },
+      {
+        "number": "1",
+        "name": "Exploring concepts in physical education"
+      },
+      {
+        "number": "2",
+        "name": "Evaluating physical education"
+      },
+      {
+        "number": "3",
+        "name": "Improving Personal Performance in"
+      },
+      {
+        "number": "3",
+        "name": "- - 30% 30%"
+      }
+    ],
+    "tiers": [],
+    "options": [],
+    "appendices": [
+      "Appendix D"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 18.41376757621765,
+  "end_time": "2025-11-23T23:45:22.241655"
+}

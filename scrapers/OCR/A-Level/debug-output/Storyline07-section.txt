@@ -1,0 +1,43 @@
+Polymers and life (PL)
+(c) DNA and RNA as condensation polymers formed Monomers of DNA and RNA are given on the Data
+from nucleotides, which are monomers having Sheet.
+three components (phosphate, sugar and base):
+(i) the phosphate units join by condensation
+with deoxyribose or ribose to form the
+phosphate–sugar backbone in DNA and RNA
+2
+(ii) the four bases present in DNA and RNA join
+by condensation with the deoxyribose or
+ribose in the phosphate–sugar backbone
+(iii) two strands of DNA form a double-helix
+structure through base pairing
+(d) the significance of hydrogen bonding in the Some triplet base codes are given on the Data Sheet.
+pairing of bases in DNA and relation to the
+replication of genetic information; how DNA
+encodes for RNA which codes for an amino acid
+sequence in a protein
+(e) molecular recognition (the structure and action
+of a given pharmacologically active material) in
+terms of:
+(i) the pharmacophore and groups that modify
+it
+(ii) its interaction with receptor sites
+(iii) the ways that species interact in three
+dimensions (size, shape, bond formation,
+orientation)
+Kinetics
+(f) the shape of the rate versus substrate At low concentrations of substrate the order
+concentration curve for an enzyme-catalysed with respect to the substrate is one, at higher
+reaction; techniques and procedures for concentrations of substrate the order with respect
+experiments involving enzymes to the substrate is zero.
+• kinetics experiments involving enzymes
+(g) the characteristics of enzyme catalysis, including:
+specificity, temperature sensitivity, pH sensitivity,
+competitive inhibition;
+explanation of these characteristics of enzyme
+catalysis in terms of a three-dimensional active
+site (part of the tertiary structure)
+Equilibria (acid–base)
+(h) the acidic nature of carboxylic acids, and their PAG7, see also CD(f).
+reaction with metals, alkalis and carbonates • test-tube experiments involving carboxylic
+acids

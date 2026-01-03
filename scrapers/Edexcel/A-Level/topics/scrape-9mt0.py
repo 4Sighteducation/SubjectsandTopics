@@ -9,9 +9,13 @@ Scrapes specification content for all four components:
 
 Hierarchy:
   - L0: Component 1..4
-  - L1: Content overview / Assessment overview (and other detected headings)
-  - L2: Bullet items / prose statements
-  - L3: Sub-bullets (e.g. "o ..." nested under a main bullet)
+  - L1: Topic rows (e.g. "1.1 Capture of sound")
+  - L2: Content rows (from the table "Content" column)
+  - L3: Skills bullets (from the table "Skills, knowledge and understanding" column)
+
+Design goal:
+Only model the structured "Area of Study ... / Topic Content Skills..." tables.
+Skip narrative prose, assessment admin, and PDF headers/footers to avoid noisy/irrelevant trees.
 """
 
 from __future__ import annotations
@@ -111,42 +115,54 @@ COMPONENTS = {
 
 def _find_component_blocks(lines: list[str]) -> dict[int, tuple[int, int]]:
     """
-    Find the best content blocks for each component by choosing the occurrence whose
-    nearby window contains 'Content overview'.
+    Find the main component content blocks (NOT the early "Qualification at a glance" table).
+
+    The spec includes multiple occurrences of "Component N: ...":
+    - Contents / qualification-at-a-glance (often includes "(*component code: 9MT0/0N)")
+    - The real component section later, which starts with an "Overview" heading.
+
+    We specifically pick the later, real section (e.g. pages ~8, 21, 34, 42 in extracted text).
     """
     blocks: dict[int, tuple[int, int]] = {}
-    # collect candidate starts
-    candidates: dict[int, list[int]] = {k: [] for k in COMPONENTS}
-    for i, s in enumerate(lines):
-        t = s.strip()
-        for n, header in COMPONENTS.items():
-            # Actual spec uses e.g.:
-            # "Component 3: Listening and analysing (*component code: 9MT0/03)"
-            # Avoid change-log mentions like "In Component 3: ..."
-            if t.lower().startswith("in component"):
-                continue
-            if re.match(rf"^Component\s+{n}:\s+", t):
-                # Avoid picking the Contents-page line like "Component 1: Recording 8"
-                # by requiring the real header form (usually includes the component code).
-                near = "\n".join(lines[i : i + 6])
-                if "(*component code:" not in near.lower():
-                    continue
-                window = "\n".join(lines[i : i + 200])
-                if "Content overview" in window and "Assessment overview" in window:
-                    candidates[n].append(i)
+
+    def _is_main_component_header_at(i: int, n: int) -> bool:
+        """True if line i is the real component header (followed by 'Overview'), not TOC/at-a-glance."""
+        t = (lines[i] or "").strip()
+        if not re.fullmatch(rf"Component\s+{n}:\s+.+", t):
+            return False
+        # Exclude at-a-glance headers (contain component code)
+        near = "\n".join((lines[i : i + 8]))
+        if "(*component code:" in near.lower():
+            return False
+        # Exclude contents-page style lines (end with a page number)
+        if re.search(r"\s\d{1,3}$", t):
+            return False
+        # Real section is immediately followed by "Overview"
+        window = "\n".join(lines[i : i + 25])
+        if "Overview" not in window:
+            return False
+        return True
+
+    # find starts
+    starts: dict[int, int] = {}
     for n in COMPONENTS:
-        if not candidates[n]:
-            continue
-        start = candidates[n][0]
+        for i in range(len(lines)):
+            if _is_main_component_header_at(i, n):
+                starts[n] = i
+                break
+
+    # compute ends
+    for n, start in starts.items():
         end = len(lines)
-        # end at next component start
         for j in range(start + 1, len(lines)):
-            if re.match(r"^Component\s+(?:1|2|3|4):\s+", lines[j].strip()):
-                # prefer if that next component occurrence is a real content block
-                window = "\n".join(lines[j : j + 160])
-                if "Content overview" in window and "Assessment overview" in window:
-                    end = j
-                    break
+            if any(_is_main_component_header_at(j, k) for k in COMPONENTS if k != n):
+                end = j
+                break
+            # also stop at admin section if it occurs inside the slice
+            sj = (lines[j] or "").strip()
+            if sj.startswith("Assessment Objectives") or sj.startswith("3 Administration and general"):
+                end = j
+                break
         blocks[n] = (start, end)
     return blocks
 
@@ -156,159 +172,262 @@ def _parse_component(component_num: int, block_lines: list[str]) -> list[Node]:
     comp_code = f"C{component_num}"
     nodes.append(Node(code=comp_code, title=COMPONENTS[component_num], level=0, parent=None))
 
-    # headings we want as L1 nodes
-    heading_titles = {
-        "Content overview",
-        "Assessment overview",
-    }
+    # NOTE: This function is being rewritten to parse AoS tables (Topic/Content/Skills) only.
+    # We only parse the structured AoS tables, which always include a header like:
+    #   "Topic Content Skills, knowledge and understanding"
+    # and contain topic codes like "1.1", "2.4", "3.1" etc.
+    topic_re = re.compile(r"^(\d{1,2})\.(\d{1,2})\s+(.+)$")
+    area_re = re.compile(r"^Area of Study\s+\d+\s*:", flags=re.IGNORECASE)
 
-    current_section_code: Optional[str] = None
-    current_section_title: Optional[str] = None
+    def _is_table_header_line(s: str) -> bool:
+        t = (s or "").strip()
+        if not t:
+            return False
+        # The header sometimes wraps onto 2 lines; we treat any "Topic Content" line as a header.
+        if t.startswith("Topic Content"):
+            return True
+        if t in {"understanding", "Skills, knowledge and", "Skills, knowledge and understanding"}:
+            return True
+        return False
 
-    # State for current main bullet (L2)
-    current_l2_code: Optional[str] = None
-    current_l2_text_parts: list[str] = []
-    l2_idx = 0
+    current_topic_code: Optional[str] = None
+    current_topic_title_parts: list[str] = []
 
-    # State for current sub-bullet (L3) - we merge wrapped lines into the last created L3 node text
-    current_l3_parent: Optional[str] = None
-    l3_idx = 0
-    l3_text_parts: list[str] = []
+    current_content_parts: list[str] = []
+    current_bullets: list[str] = []
+    content_idx = 0
+    seen_any_table = False
 
-    # State for prose paragraph (L2)
-    current_para_code: Optional[str] = None
-    current_para_parts: list[str] = []
-
-    def _flush_para():
-        nonlocal current_para_code, current_para_parts
-        if current_section_code and current_para_code and current_para_parts:
-            title = _norm(" ".join(current_para_parts))
-            if title:
-                if len(title) > 900:
-                    title = title[:897] + "..."
-                nodes.append(Node(code=current_para_code, title=title, level=2, parent=current_section_code))
-        current_para_code = None
-        current_para_parts = []
-
-    def _flush_l3():
-        nonlocal current_l3_parent, l3_idx, l3_text_parts
-        if current_l3_parent and l3_text_parts:
-            title = _norm(" ".join(l3_text_parts))
-            if title:
-                if len(title) > 900:
-                    title = title[:897] + "..."
-                nodes.append(Node(code=f"{current_l3_parent}_S{l3_idx}", title=title, level=3, parent=current_l3_parent))
-        l3_text_parts = []
-
-    def flush_l2():
-        nonlocal current_l2_code, current_l2_text_parts, current_l3_parent, l3_idx
-        # Flush any pending sub-bullet
-        _flush_l3()
-        current_l3_parent = None
-        l3_idx = 0
-
-        if current_section_code and current_l2_code and current_l2_text_parts:
-            title = _norm(" ".join(current_l2_text_parts))
-            if title:
-                if len(title) > 900:
-                    title = title[:897] + "..."
-                nodes.append(Node(code=current_l2_code, title=title, level=2, parent=current_section_code))
-        current_l2_code = None
-        current_l2_text_parts = []
-
-    def ensure_section(title: str):
-        nonlocal current_section_code, current_section_title, l2_idx
-        if current_section_title == title:
+    def _finalize_topic_title() -> None:
+        if not current_topic_code:
             return
-        flush_l2()
-        _flush_para()
-        current_section_title = title
-        current_section_code = f"{comp_code}_{_slug(title)}"
-        l2_idx = 0
-        nodes.append(Node(code=current_section_code, title=title, level=1, parent=comp_code))
+        title = _norm(" ".join(current_topic_title_parts))
+        title = re.sub(r"\s+continued$", "", title, flags=re.IGNORECASE).strip()
+        if not title:
+            title = "(topic)"
+        if any(n.code == current_topic_code for n in nodes):
+            return
+        m = re.search(r"_T(\d{1,2})_(\d{1,2})$", current_topic_code)
+        prefix = f"{m.group(1)}.{m.group(2)} " if m else ""
+        nodes.append(Node(code=current_topic_code, title=f"{prefix}{title}".strip(), level=1, parent=comp_code))
 
-    # scan
+    def _flush_content_row() -> None:
+        nonlocal current_content_parts, current_bullets, content_idx
+        if not current_topic_code or not current_content_parts:
+            current_content_parts = []
+            current_bullets = []
+            return
+        _finalize_topic_title()
+        content_idx += 1
+        content_title = _norm(" ".join(current_content_parts))
+        if content_title:
+            if len(content_title) > 900:
+                content_title = content_title[:897] + "..."
+            content_code = f"{current_topic_code}_C{content_idx}"
+            nodes.append(Node(code=content_code, title=content_title, level=2, parent=current_topic_code))
+            for bi, b in enumerate(current_bullets, 1):
+                btxt = _norm(b)
+                if not btxt:
+                    continue
+                if len(btxt) > 900:
+                    btxt = btxt[:897] + "..."
+                nodes.append(Node(code=f"{content_code}_S{bi}", title=btxt, level=3, parent=content_code))
+        current_content_parts = []
+        current_bullets = []
+
+    def _flush_topic() -> None:
+        nonlocal current_topic_code, current_topic_title_parts, content_idx
+        _flush_content_row()
+        current_topic_code = None
+        current_topic_title_parts = []
+        content_idx = 0
+
+    def _split_inline_bullets(s: str) -> tuple[str, list[str]]:
+        if "●" not in s and "•" not in s:
+            return s, []
+        s2 = s.replace("•", "●")
+        parts = [p.strip() for p in s2.split("●")]
+        left = parts[0]
+        bullets = [p for p in parts[1:] if p]
+        return left, bullets
+
+    def _split_topic_title_and_first_content(left: str, *, allow_fallback_split: bool) -> tuple[str, Optional[str]]:
+        """
+        In extracted table rows, Topic and first Content label are sometimes collapsed into one string:
+          "Mastering Perceived volume"
+          "EQ Different types of EQ used in a recording"
+          "Acoustics How the live room acoustics affect the recording"
+          "Sampling Pitch mapping"
+          "Stereo Pan"
+        We try to split that into:
+          topic_title="Mastering", first_content="Perceived volume"
+        without inventing anything.
+        """
+        s = _norm(left)
+        if not s:
+            return "", None
+
+        # Special-case: "digital Digital ..." where the first "digital" belongs to the topic title
+        if "digital Digital " in s:
+            topic, content = s.split("digital Digital ", 1)
+            topic = _norm(topic + "digital")
+            content = _norm("Digital " + content)
+            return topic, (content or None)
+
+        # Split on common content-label starters
+        starters = (
+            "How",
+            "Uses",
+            "Different",
+            "Principles",
+            "Understanding",
+            "Core",
+            "Perceived",
+            "Technical",
+            "Connectivity",
+            "Digital",
+            "The",
+        )
+        m = re.search(rf"\b({'|'.join(starters)})\b", s)
+        if m and m.start() > 0:
+            topic = _norm(s[: m.start()])
+            content = _norm(s[m.start() :])
+            if topic and content:
+                return topic, content
+
+        # Fallback: only when we have evidence this line collapsed Topic+Content (e.g. inline bullets present).
+        # This avoids breaking true wrapped topic titles like "Capture of" + "sound".
+        if not allow_fallback_split:
+            return s, None
+
+        # Fallback: 2-word case like "Stereo Pan" or 1-word topic like "Sampling Pitch mapping"
+        words = s.split()
+        if len(words) >= 2:
+            topic = words[0]
+            content = _norm(" ".join(words[1:]))
+            # Don't split if the "topic" would be something too generic like "and"
+            if topic.lower() not in {"and", "or"} and content:
+                return topic, content
+
+        return s, None
+
+    def _append_bullet_text(txt: str) -> None:
+        nonlocal current_bullets
+        if not txt:
+            return
+        if not current_bullets:
+            current_bullets.append(txt)
+            return
+        if txt[0].islower() or current_bullets[-1].endswith("-"):
+            current_bullets[-1] = _norm(f"{current_bullets[-1]} {txt}")
+        else:
+            current_bullets.append(txt)
+
+    in_table = False
     i = 0
     while i < len(block_lines):
-        raw = block_lines[i]
-        s = _norm(raw)
-        if not s or _looks_like_header_footer(s):
+        sn = _norm(block_lines[i])
+        if not sn or _looks_like_header_footer(sn):
             i += 1
             continue
 
-        # skip noise rows
-        if s in {"Written examination:", "Written/practical examination:"}:
-            i += 1
-            continue
-        if s.startswith(("Written examination:", "Written/practical examination:", "25% of the qualification", "35% of the qualification")):
-            i += 1
-            continue
+        if sn.startswith("Assessment information") or sn.startswith("Assessment Objectives"):
+            _flush_topic()
+            break
 
-        # section headings
-        if s in heading_titles:
-            ensure_section(s)
+        if area_re.match(sn):
+            in_table = False
             i += 1
             continue
 
-        # if we haven't hit a known section yet, park early content under a generic overview
-        if current_section_code is None:
-            ensure_section("Overview")
-
-        # bullet parsing
-        is_main_bullet = s.startswith(("●", "•"))
-        is_sub_bullet = s.startswith("o ") or s.startswith("o\u00a0")
-
-        if is_main_bullet:
-            _flush_para()
-            flush_l2()
-            l2_idx += 1
-            current_l2_code = f"{current_section_code}_B{l2_idx}"
-            current_l2_text_parts = [_norm(s.lstrip("●•").strip())]
+        if _is_table_header_line(sn):
+            in_table = True
+            seen_any_table = True
             i += 1
             continue
 
-        if is_sub_bullet:
-            _flush_para()
-            # attach under current L2 bullet if present; otherwise create a placeholder L2 bullet
-            if current_l2_code is None:
-                l2_idx += 1
-                current_l2_code = f"{current_section_code}_B{l2_idx}"
-                current_l2_text_parts = ["(bullet list)"]
-                # flush immediately so it exists in DB
-                nodes.append(Node(code=current_l2_code, title="(bullet list)", level=2, parent=current_section_code))
-                current_l2_text_parts = []
-            # new sub-bullet => flush previous sub-bullet
-            _flush_l3()
-            current_l3_parent = current_l2_code
-            l3_idx += 1
-            l3_text_parts = [_norm(s[1:].strip())]  # drop leading 'o'
+        if in_table and sn.startswith("Students "):
+            _flush_topic()
+            in_table = False
             i += 1
             continue
 
-        # Continuations:
-        # - If we're inside a sub-bullet, treat as wrapped continuation of that sub-bullet
-        if current_l3_parent and l3_text_parts:
-            _append_wrapped(l3_text_parts, s)
+        if not in_table:
             i += 1
             continue
 
-        # - If we're inside a main bullet, treat as wrapped continuation of that bullet
-        if current_l2_code is not None and current_l2_text_parts:
-            _append_wrapped(current_l2_text_parts, s)
+        m = topic_re.match(sn)
+        if m:
+            major, minor, rest = m.group(1), m.group(2), m.group(3)
+            _flush_topic()
+            current_topic_code = f"{comp_code}_T{major}_{minor}"
+            left, inline_bullets = _split_inline_bullets(_norm(rest))
+            topic_title, first_content = _split_topic_title_and_first_content(
+                left,
+                allow_fallback_split=bool(inline_bullets),
+            )
+            current_topic_title_parts = [topic_title]
+
+            # Topic title wrap: lowercase continuation or "continued"
+            j = i + 1
+            if first_content is None:
+                while j < len(block_lines):
+                    nxt = _norm(block_lines[j])
+                    if not nxt or _looks_like_header_footer(nxt) or _is_table_header_line(nxt) or area_re.match(nxt) or topic_re.match(nxt):
+                        break
+                    if nxt.startswith(("●", "•")):
+                        break
+                    if nxt.lower() == "continued" or nxt[0].islower():
+                        current_topic_title_parts.append(nxt)
+                        j += 1
+                        continue
+                    break
+
+            _finalize_topic_title()
+
+            # If we recovered a first content label from the topic line, use it.
+            if first_content:
+                current_content_parts = [first_content]
+            elif inline_bullets:
+                # If there are inline bullets but no obvious content label, attach to a generic container.
+                current_content_parts = ["(content)"]
+
+            for b in inline_bullets:
+                _append_bullet_text(_norm(b))
+
+            i = j
+            continue
+
+        if sn.startswith(("●", "•")):
+            _finalize_topic_title()
+            _append_bullet_text(_norm(sn.lstrip("●•").strip()))
             i += 1
             continue
 
-        # Prose paragraph: accumulate into a single L2 per paragraph under the section
-        if current_para_code is None:
-            l2_idx += 1
-            current_para_code = f"{current_section_code}_P{l2_idx}"
-            current_para_parts = [s]
-        else:
-            _append_wrapped(current_para_parts, s)
+        _finalize_topic_title()
+        if current_topic_code:
+            left, inline_bullets = _split_inline_bullets(sn)
+
+            if current_bullets and left and left[0].isupper():
+                _flush_content_row()
+
+            if not current_content_parts:
+                current_content_parts = [_norm(left)]
+            else:
+                if left and (left[0].islower() or left.startswith(("and ", "or ", "including ", "to ", "with ", "for "))):
+                    _append_wrapped(current_content_parts, left)
+                else:
+                    _flush_content_row()
+                    current_content_parts = [_norm(left)]
+
+            for b in inline_bullets:
+                _append_bullet_text(_norm(b))
+
         i += 1
 
-    flush_l2()
-    _flush_para()
+    _flush_topic()
+    if not seen_any_table:
+        return nodes
     # de-dupe by code
     uniq: list[Node] = []
     seen = set()

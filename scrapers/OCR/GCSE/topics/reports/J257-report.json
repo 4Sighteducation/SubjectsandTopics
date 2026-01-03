@@ -1,0 +1,80 @@
+{
+  "subject_code": "J257",
+  "subject_name": "Biology B",
+  "url": "https://www.ocr.org.uk/Images/234595-specification-accredited-gcse-twenty-first-century-science-suite-biology-b-j257.pdf",
+  "start_time": "2025-11-20T13:28:51.484365",
+  "success": true,
+  "topics_extracted": 450,
+  "levels": {
+    "0": 2,
+    "1": 16,
+    "2": 105,
+    "3": 299,
+    "4": 28
+  },
+  "issues": [
+    "Options not extracted",
+    "Minor content inaccuracies"
+  ],
+  "warnings": [
+    "Potential missing topics due to high total count"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": true,
+      "foundation_content": "Content is split into eight teaching chapters for Foundation Tier, grades 1 to 5.",
+      "higher_content": "Content is split into eight teaching chapters for Higher Tier, grades 4 to 9.",
+      "differences": [
+        "Emboldened statements will only be assessed in Higher Tier papers."
+      ]
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [
+        "All eight chapters are compulsory for both tiers."
+      ],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "chapter-based",
+    "content_overview": {
+      "main_sections": [
+        "Chapter B1: You and your genes",
+        "Chapter B2: Keeping healthy",
+        "Chapter B3: Living together – food and ecosystems",
+        "Chapter B4: Using food and controlling growth",
+        "Chapter B5: The human body – staying alive",
+        "Chapter B6: Life on Earth – past, present and future",
+        "Chapter B7: Ideas about Science",
+        "Chapter B8: Practical Skills"
+      ],
+      "organization": "Content is organized into eight chapters, each covering different aspects of biology.",
+      "expected_depth": 3
+    },
+    "assessment": {
+      "written_papers": [
+        "J257/01",
+        "J257/02",
+        "J257/03",
+        "J257/04"
+      ],
+      "content_mapping": {
+        "J257/01": "Breadth in biology for Foundation Tier",
+        "J257/02": "Depth in biology for Foundation Tier",
+        "J257/03": "Breadth in biology for Higher Tier",
+        "J257/04": "Depth in biology for Higher Tier"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting chapter-based content and assessment structure, ensuring differentiation between Foundation and Higher tiers.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:28:51.484378"
+}

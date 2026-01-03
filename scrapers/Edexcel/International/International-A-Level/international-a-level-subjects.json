@@ -1,0 +1,150 @@
+[
+  {
+    "code": "IAL-Accounting",
+    "name": "Accounting",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf"
+  },
+  {
+    "code": "IAL-Arabic",
+    "name": "Arabic",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/arabic/2016/specification-and-sample-assessments/ial-arabic-specification.pdf"
+  },
+  {
+    "code": "IAL-Biology",
+    "name": "Biology",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Biology/2018/Specification-and-Sample-Assessment/International-A-Level-Biology-Spec.pdf"
+  },
+  {
+    "code": "IAL-Business",
+    "name": "Business",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf"
+  },
+  {
+    "code": "IAL-Chemistry",
+    "name": "Chemistry",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Chemistry/2018/Specification-and-Sample-Assessment/International-A-Level-Chemistry-Spec.pdf"
+  },
+  {
+    "code": "IAL-Economics",
+    "name": "Economics",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf"
+  },
+  {
+    "code": "IAL-EnglishLanguage",
+    "name": "English Language",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/english-language/2015/specification-and-sample-assessments/9781446954027-ial-englang-iss3.pdf"
+  },
+  {
+    "code": "IAL-EnglishLiterature",
+    "name": "English Literature",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/english-literature/2015/specification-and-sample-assessments/9781446954058_IAL_EngLit_Iss6%20(9)_spec_240521pm.pdf"
+  },
+  {
+    "code": "IAL-French",
+    "name": "French",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/french/2016/specification-and-sample-assessments/ial-french-specification.pdf"
+  },
+  {
+    "code": "IAL-Geography",
+    "name": "Geography",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Geography/2016/specification-and-sample-assessments/ial-geography-specification.pdf"
+  },
+  {
+    "code": "IAL-German",
+    "name": "German",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/german/2016/specification-and-sample-assessments/ial-german-specification.pdf"
+  },
+  {
+    "code": "IAL-Greek",
+    "name": "Greek",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/greek/2016/specification-and-sample-assessments/ial-greek-specification-issue-4.pdf"
+  },
+  {
+    "code": "IAL-History",
+    "name": "History",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/history/2015/specification-and-sample-assessments/IAL-History-Specification.pdf"
+  },
+  {
+    "code": "IAL-IT",
+    "name": "Information Technology",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Information-Technology/2018/specification-and-sample-assessment/International-AL-Information-Technology-Spec.pdf"
+  },
+  {
+    "code": "IAL-Law",
+    "name": "Law",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Law/2015/specification-and-sample-assessments/Pearson-Edexcel-IAL-Law-Specification.pdf"
+  },
+  {
+    "code": "IAL-Mathematics",
+    "name": "Mathematics",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Mathematics/2018/Specification-and-Sample-Assessment/international-a-level-maths-spec.pdf"
+  },
+  {
+    "code": "IAL-FurtherMaths",
+    "name": "Further Mathematics",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Mathematics/2018/Specification-and-Sample-Assessment/international-a-level-maths-spec.pdf"
+  },
+  {
+    "code": "IAL-PureMaths",
+    "name": "Pure Mathematics",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Mathematics/2018/Specification-and-Sample-Assessment/international-a-level-maths-spec.pdf"
+  },
+  {
+    "code": "IAL-Physics",
+    "name": "Physics",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Physics/2018/Specification%20and%20Sample%20Assessment/9781446957783_IAL_Physics_Iss3.pdf"
+  },
+  {
+    "code": "IAL-Psychology",
+    "name": "Psychology",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/psychology/2015/specification-and-sample-assessments/ial-psychology-specification-assessment-jan-2026.pdf"
+  },
+  {
+    "code": "IAL-Spanish",
+    "name": "Spanish",
+    "qualification": "International A Level",
+    "exam_board": "Edexcel",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/spanish/2016/specification-and-sample-assessments/ial-spanish-specification.pdf"
+  }
+]
+

@@ -1,0 +1,194 @@
+Topic P4: Magnetism and magnetic fields
+P4.1 Magnets and magnetic fields
+Summary Common misconceptions
+Having an understanding of how charge can be generated and its effects, we can Common misconceptions that learners have include the idea that larger magnets
+now consider the link between movement of charge and magnetism. To begin, will always be stronger magnets. They also have difficulty understanding the
+learners will investigate magnets and magnetic fields around magnets and concept of field line density being an indicator of field strength. Learners often
+current-carrying wires. do not know that the geographic and magnetic poles are not located in the
+same place.
+Underlying knowledge and understanding
+Learners should have been introduced to magnets and the idea of attractive and Tiering
+repulsive forces. They should have an idea of the shape of the fields around bar Statements shown in bold type will only be tested in the Higher Tier papers.
+magnets. Learners are expected to have an awareness of the magnetic effect of a All other statements will be assessed in both Foundation and Higher Tier papers.
+current and electromagnets.
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P4.1a describe the attraction and repulsion diagrams of magnetic field WS1.1b, WS1.2a, Use of suspended magnets to show
+between unlike and like poles for permanent patterns around bar magnets WS1.2b, WS2a, attraction and repulsion.
+magnets to show attraction and WS2b
+repulsion
+P4.1b describe the difference between permanent
+and induced magnets
+P4.1c describe the characteristics of the magnetic diagrams to show how the M5b WS1.1b, WS1.2a, Plotting of magnetic fields around
+field of a magnet, showing how strength and strength of the field varies WS1.2b, WS2a, different shaped magnets.
+direction change from one point to another around them and ways of WS2b, WS2c
+investigating this
+P4.1d explain how the behaviour of a magnetic
+(dipping) compass is related to evidence that
+the core of the Earth must be magnetic
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+37
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P4.1e describe how to show that a current can WS1.1b, WS1.2a, Investigation of the magnetic field
+create a magnetic effect and describe the WS1.2b, WS2a, around a current-carrying wire using
+directions of the magnetic field around a WS2b, WS2c plotting compasses.
+conducting wire
+P4.1f recall that the strength of the field depends M1c
+on the current and the distance from the
+conductor
+P4.1g explain how solenoid arrangements can M1c WS1.1b, WS1.2a, Investigation of the magnetic field
+enhance the magnetic effect WS1.2b, WS2a, around a current-carrying solenoid
+WS2b, WS2c, using plotting compasses.
+WS2d
+Investigation of the factors that can
+affect the magnetic effect e.g. number
+of turns, and length.
+38
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+P4.2 Uses of magnetism
+Summary Common misconceptions
+Forces show the existence of fields and how they interact with one another but Learners find understanding the manner in which electric and magnetic fields
+here the force itself is discussed in more depth and then quantified. These forces interact to produce a force challenging. Learners commonly have difficulty
+also lead to the use of magnetic fields to induce electrical currents and the with the right angles and three-dimensional requirements of Fleming’s left-hand
+applications of this electromagnetic induction in motors, dynamos and rule. Their ability to visualise this will impact how they deal with this concept.
+transformers. Learners find the action of a commutator difficult to apply in the D.C. motor. The
+application of changing direction of field in the transformer is found challenging
+Underlying knowledge and understanding by many learners and hence often leads to a superficial grasp of the working of
+This topic will predominantly be new content for learners with some the transformer.
+understanding of D.C. motors. Learners will have looked at fields in the
+previous subtopic and now this knowledge will be built on to give learners the Tiering
+understanding of the application. Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+PM4.2i apply: force on a conductor (at right angles to a magnetic field) carrying a current: M1a, M1b, M1d, M2a, M3a,
+M3b, M3c, M3d
+force (N) = magnetic flux density (T) × current (A) × length (m)
+PM4.2ii þ apply: M1a, M1b, M1c, M1d, M2a,
+potentialdifferenceacrossprimary coil(V) number of turnsinprimary coil M3a, M3b, M3c, M3d
+=
+potentialdifferenceacrosssecondary coil(V) number of turnsinsecondary coil
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+39
+Version
+4.2
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P4.2a describe how a magnet and a current- WS1.1b, Demonstration of the jumping wire
+carrying conductor exert a force on one WS1.1e, experiment.
+another WS1.2a,
+WS1.3e
+P4.2b show that Fleming’s left-hand rule
+represents the relative orientations of the
+force, the current and the magnetic field
+P4.2c apply the equation that links the force on M1a, M1b,
+a conductor to the magnetic flux density, M1d, M2a,
+the current and the length of conductor to M3a, M3b,
+calculate the forces involved M3c, M3d
+P4.2d explain how the force exerted from a an understanding of how WS1.1e, Construction of simple motors.
+magnet and a current-carrying conductor electric motors work but WS1.3e,
+is used to cause rotation in electric motors knowledge of the structure of a WS2a
+motor is not expected
+P4.2e þ recall that a change in the magnetic field WS1.1e, Examination of wind up radios or
+around a conductor can give rise to an WS1.3e, torches to investigate how dynamos
+induced potential difference across its WS2a work.
+ends, which could drive a current,
+Demonstration of induction using a
+generating a magnetic field that would
+strong magnet and a wire using a
+oppose the original change
+zero point galvanometer.
+P4.2f þ explain how this effect is used in an WS1.1a, Research the structure of dynamos
+alternator to generate a.c., and in a WS1.1e, and compare with DC motors.
+dynamo to generate d.c. WS1.4a
+40
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P4.2g þ explain how the effect of an alternating
+current in one circuit, in inducing a current
+in another, is used in transformers
+P4.2h þ explain how the ratio of the potential M1c WS1.1e, Building of a step-up and step-
+differences across the two coils in a WS1.2a, down transformer to investigate
+transformer depends on the ratio of the WS1.2b, their effects.
+numbers of turns in each WS1.3a,
+WS1.3b,
+WS1.3e,
+WS1.3h,
+WS2a, WS2b
+P4.2i þ apply the equations linking the potential M1c, M3b,
+differences and numbers of turns in the M3c
+two coils of a transformer
+P4.2j þ explain the action of the microphone in an understanding of how WS1.1e, Examination of the construction of a
+converting the pressure variations in dynamic microphones work WS1.2a, loudspeaker.
+sound waves into variations in current in using electromagnetic induction WS1.3e,
+Building of a loud speaker.
+electrical circuits, and the reverse effect as WS1.3h,
+used in loudspeakers and headphones WS2a, WS2b
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+41
+Version
+4.2
+©
+OCR
+2024
+2

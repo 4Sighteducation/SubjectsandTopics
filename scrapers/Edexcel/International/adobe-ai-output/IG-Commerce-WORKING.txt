@@ -1,0 +1,230 @@
+1. Paper 1: Commercial operations and associated risks
+   1.1 Theme 1: Commercial Operations
+       1.1.1 Production
+           1.1.1.1 Manufacture of goods
+           1.1.1.2 Provision and delivery of services
+       1.1.2 Factors of production
+           1.1.2.1 Land
+           1.1.2.2 Labour
+           1.1.2.3 Capital
+           1.1.2.4 Enterprise
+       1.1.3 Industrial sectors and commerce
+           1.1.3.1 Chain of production: primary, secondary, tertiary
+           1.1.3.2 Relationship between businesses in sectors
+           1.1.3.3 Relative importance of each sector within countries
+       1.1.4 Division of labour
+           1.1.4.1 Specialisation
+           1.1.4.2 Division of labour
+           1.1.4.3 Specialisation of individuals, firms, regions, countries
+           1.1.4.4 Impact on firms and workers
+           1.1.4.5 Specialisation and need for commerce
+           1.1.4.6 Interdependence of countries
+   1.2 Buying and selling
+       1.2.1 Sources of buying in commerce
+           1.2.1.1 Home
+           1.2.1.2 International
+           1.2.1.3 Direct
+           1.2.1.4 Indirect
+           1.2.1.5 Mail order
+           1.2.1.6 Advantages and disadvantages
+           1.2.1.7 Reasons for outsourcing
+       1.2.2 Costs associated with buying
+           1.2.2.1 Transport costs
+           1.2.2.2 Transaction costs
+           1.2.2.3 Administration costs
+           1.2.2.4 Environmental costs
+           1.2.2.5 Research costs
+           1.2.2.6 Staffing costs
+       1.2.3 Costs associated with selling
+           1.2.3.1 Sales staff
+           1.2.3.2 Payment processes
+           1.2.3.3 Stolen inventory
+           1.2.3.4 Damaged inventory
+           1.2.3.5 Distribution costs
+   1.3 Commercial enterprises
+       1.3.1 Types of commercial enterprise
+           1.3.1.1 Private and public enterprises
+           1.3.1.2 Private sector: sole traders, cooperatives, partnership, limited company
+           1.3.1.3 Implications of type of organisation
+           1.3.1.4 Franchise: role of franchisor and franchisee
+           1.3.1.5 Public sector
+           1.3.1.6 Privatization
+           1.3.1.7 Characteristics
+   1.4 Retail
+       1.4.1 Functions of retailers
+           1.4.1.1 Buying
+           1.4.1.2 Storing
+           1.4.1.3 Selling
+           1.4.1.4 Providing credit facilities
+           1.4.1.5 Introducing new products
+           1.4.1.6 Advertising and window displays
+           1.4.1.7 After sales service
+       1.4.2 Types of retailer
+           1.4.2.1 Street markets
+           1.4.2.2 Independent retailers
+           1.4.2.3 Speciality shops
+           1.4.2.4 Department stores
+           1.4.2.5 Multiples
+           1.4.2.6 Supermarkets
+           1.4.2.7 Hypermarkets
+           1.4.2.8 Ecommerce
+       1.4.3 Location factors for retail outlets
+           1.4.3.1 Availability of labour
+           1.4.3.2 Closeness to markets
+           1.4.3.3 Transport links
+           1.4.3.4 Availability of power
+           1.4.3.5 Availability of raw materials
+           1.4.3.6 Competition
+           1.4.3.7 Availability of suppliers
+           1.4.3.8 Communication
+           1.4.3.9 Government tax breaks and subsidies
+           1.4.3.10 Work of planning authorities
+       1.4.4 Techniques in retail
+           1.4.4.1 Branding
+           1.4.4.2 Own labels
+           1.4.4.3 Logos
+           1.4.4.4 Packaging
+           1.4.4.5 Self-service
+           1.4.4.6 After-sales service
+           1.4.4.7 Barcoding
+           1.4.4.8 Electronic Point of Sale (EPOS)
+           1.4.4.9 Loss leaders
+           1.4.4.10 Seasonal and other ‘sales’
+           1.4.4.11 Special offers
+           1.4.4.12 Loyalty cards and programmes
+       1.4.5 Developments in retailing
+           1.4.5.1 Omnichannel retailing
+           1.4.5.2 Self-scan checkouts
+           1.4.5.3 Click and collect
+           1.4.5.4 Mobile retailing
+       1.4.6 Small retailers
+           1.4.6.1 Reasons for survival
+           1.4.6.2 Personal service
+           1.4.6.3 Flexible opening hours
+           1.4.6.4 Additional services
+       1.4.7 Changes in retail trade
+   1.5 Wholesale
+       1.5.1 Wholesalers’ role in distribution
+       1.5.2 Functions of wholesalers
+           1.5.2.1 Breaking bulk
+           1.5.2.2 Risk bearing
+           1.5.2.3 Advice to retailers
+           1.5.2.4 Offering trade credit
+           1.5.2.5 Freeing storage space
+           1.5.2.6 Preparing goods for resale
+           1.5.2.7 Delivering to retailers
+       1.5.3 Types of wholesaler
+           1.5.3.1 General
+           1.5.3.2 Cash-and-carry
+           1.5.3.3 Voluntary chains
+       1.5.4 Changes in wholesaling
+   1.6 Ecommerce
+       1.6.1 Characteristics of ecommerce
+           1.6.1.1 Use of websites
+           1.6.1.2 Bricks and clicks
+           1.6.1.3 Availability of goods
+           1.6.1.4 Delivery to customer
+           1.6.1.5 Return options
+       1.6.2 Effects of ecommerce
+           1.6.2.1 Change in supply
+           1.6.2.2 Supplying direct from warehouse
+           1.6.2.3 Communication through online orders
+           1.6.2.4 More national and international customers
+           1.6.2.5 Environmental impacts
+       1.6.3 Ecommerce location factors
+           1.6.3.1 Importance of transport links
+           1.6.3.2 No need for footfall
+           1.6.3.3 Need for space for inventory
+           1.6.3.4 Availability of specialist labour
+   1.7 International trade
+       1.7.1 Benefits of international trade
+       1.7.2 International trade
+           1.7.2.1 Imports and exports
+           1.7.2.2 Visible and invisible trade
+       1.7.3 Balance of trade and payments
+           1.7.3.1 Calculate balance of trade and payments
+           1.7.3.2 Deficits and surpluses
+       1.7.4 Trading blocs
+           1.7.4.1 Removal of tariffs
+           1.7.4.2 Common external tariff
+           1.7.4.3 Free movement of labour, capital, goods
+           1.7.4.4 Impact on countries and businesses
+       1.7.5 Difficulties facing exporters
+           1.7.5.1 Language
+           1.7.5.2 Distance
+           1.7.5.3 Methods of payment
+           1.7.5.4 Differing consumer wants
+           1.7.5.5 Documentation
+           1.7.5.6 Currency exchange
+       1.7.6 Multinationals
+           1.7.6.1 Reasons for existence
+           1.7.6.2 Advantages and disadvantages
+           1.7.6.3 Impact on host countries
+   1.8 Theme 2: Commercial Risks
+       1.8.1 Insurance
+           1.8.1.1 Purposes of insurance
+           1.8.1.2 Insurance principles
+           1.8.1.3 Insurance business risks
+           1.8.1.4 Effecting insurance cover and renewal
+           1.8.1.5 Effecting a claim
+       1.8.2 Consumer protection legislation
+           1.8.2.1 Consumer protection
+           1.8.2.2 Actions buyers and sellers might take
+       1.8.3 Trade
+           1.8.3.1 Trade protection
+           1.8.3.2 Exchange rates
+       1.8.4 Bad debts
+           1.8.4.1 Impact of bad debts
+           1.8.4.2 Ways to reduce bad debts
+
+2. Paper 2: Facilitating commercial operations
+   2.1 Theme 3: Finance for Commerce
+       2.1.1 Financial institutions to support commerce
+           2.1.1.1 Role and function of financial institutions
+           2.1.1.2 Banking services
+           2.1.1.3 Trends in banking
+       2.1.2 Sources of finance
+           2.1.2.1 Short-term finance
+           2.1.2.2 Long-term finance
+           2.1.2.3 Process of issuing shares and debt
+       2.1.3 Methods of payment
+           2.1.3.1 Methods of payment
+       2.1.4 Commercial calculations
+           2.1.4.1 Concept and calculation
+       2.1.5 Measuring commercial performance
+           2.1.5.1 Concept and calculation
+       2.1.6 Improving commercial performance
+           2.1.6.1 Methods to improve
+   2.2 Theme 4: Aids for Commerce
+       2.2.1 Communications
+           2.2.1.1 Importance of effective communication
+           2.2.1.2 Types of communication
+           2.2.1.3 Methods of oral communication
+           2.2.1.4 Methods of written communication
+           2.2.1.5 Methods of electronic communication
+       2.2.2 Transport
+           2.2.2.1 Importance of transport
+           2.2.2.2 Different forms of transport
+           2.2.2.3 Different modes of transport
+           2.2.2.4 Benefits of having own transport
+           2.2.2.5 Efficiency of different forms of transport
+       2.2.3 Warehousing
+           2.2.3.1 Role of warehousing
+           2.2.3.2 Types and functions of warehouses
+       2.2.4 Promotion
+           2.2.4.1 Purpose of advertising and promotion
+           2.2.4.2 Main methods of advertising and promotion
+           2.2.4.3 Approaches to advertising
+           2.2.4.4 Role of social media
+           2.2.4.5 Impact of changing consumer preferences
+           2.2.4.6 Impact of technology
+       2.2.5 Trading documents
+           2.2.5.1 Purpose and use of trade documents
+           2.2.5.2 Complete trade documents
+           2.2.5.3 Interpret information from trade documents
+       2.2.6 Types of consumer credit
+           2.2.6.1 Types of credit available
+           2.2.6.2 Appropriateness of different forms of credit
+           2.2.6.3 Calculations of cost associated with credit
+       2.2.7 Aids to exports
+           2.2.7.1 Sources of support when exporting

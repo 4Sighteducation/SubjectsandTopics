@@ -1,0 +1,244 @@
+2c. Content of topics C1 to C6
+Topic C1: Particles
+C1.1 The particle model
+Summary Common misconceptions
+This short section introduces the particle model and its explanation of Learners commonly intuitively adhere to the idea that matter is continuous.
+different states of matter. A simple particle model can be used to represent For example, they believe that the space between gas particles is filled or
+the arrangement of particles in the different states of matter and to explain non-existent, or that particles expand when they are heated. The notion that
+observations during changes in state. It does not, however, explain why empty space exists between particles is problematic because this lacks
+different materials have different properties. This explanation is that the supporting sensory evidence. They also show difficulty understanding the
+particles themselves and how they are held together must be different in some concept of changes in state being reversible; this should be addressed during
+way. Elements are substances that are made up of only one type of atom and the teaching of this topic.
+atoms of different elements can combine to make compounds.
+Tiering
+Underlying knowledge and understanding Statements shown in bold type will only be tested in the Higher Tier papers.
+Learners should be familiar with the different states of matter and their All other statements will be assessed in both Foundation and Higher Tier papers.
+properties. Learners should be aware of the energy changes when a change of
+state occurs. They should also be familiar with changes of state in terms of the
+particle model. Learners should have sufficient grounding in the particle model
+to be able to apply it to unfamiliar materials and contexts.
+Reference Mathematical learning outcomes Mathematical skills
+CM1.1i represent three-dimensional shapes in two dimensions and vice versa when looking at M5b
+chemical structures, e.g. allotropes of carbon
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+11
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C1.1a describe the main features of the particle M5b WS1.1a,
+model in terms of states of matter and WS1.1b
+change of state
+C1.1b explain in terms of the particle model the
+distinction between physical changes and
+chemical changes
+C1.1c explain the limitations of the particle that it does not take into account the M5b WS1.1c Observations of change of state
+model in relation to changes of state forces of attraction between particles, with comparison to chemical
+when particles are represented by the size of particles and the space changes.
+inelastic spheres (e.g. like bowling balls) between them
+12
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+C1.2 Atomic structure
+Summary Common misconceptions
+An atom is the smallest component of an element that gives an element its Learners commonly have difficulty understanding the concept of isotopes due
+property. These properties can be explained by models of atomic structure. to the fact they think that neutral atoms have the same number of protons and
+Current models suggest that atoms are made of smaller sub-atomic particles neutrons. They also find it difficult to distinguish between the properties of
+called protons, neutrons and electrons. They suggest that atoms are composed atoms and molecules. Another common misconception is that a positive ion gains
+of a nucleus surrounded by electrons. The nucleus is composed of neutrons and protons or a negative ion loses protons i.e. that there is a change in the nucleus of
+protons. Atoms of each element have the same number of protons as electrons. the atom rather than a change in the number of electrons.
+Atoms of different elements have different numbers of protons. Atoms of the
+same element will have the same number of protons but may have different Tiering
+numbers of neutrons. Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Underlying knowledge and understanding
+Learners should be familiar with the simple (Dalton) atomic model.
+Reference Mathematical learning outcomes Mathematical skills
+CM1.2i relate size and scale of atoms to objects in the physical world M4a
+CM1.2ii þ estimate size and scale of atoms and nanoparticles M1c
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+13
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C1.2a describe how and why the atomic model the models of Dalton, Thomson, WS1.1a, Timeline of the atomic model.
+has changed over time Rutherford, Bohr, Geiger and Marsden WS1.1i,
+WS1.2b
+C1.2b describe the atom as a positively charged WS1.4a
+nucleus surrounded by negatively charged
+electrons, with the nuclear radius much
+smaller than that of the atom and with
+most of the mass in the nucleus
+C1.2c recall the typical size (order of magnitude) the concept that typical atomic radii M1c, M4a WS1.1c,
+of atoms and small molecules and bond length are in the order of WS1.4b,
+10–10m WS1.4c,
+WS1.4d,
+WS1.4e,
+WS1.4f
+C1.2d recall relative charges and approximate WS1.4a,
+relative masses of protons, neutrons and WS1.4b,
+electrons WS1.4c
+C1.2e calculate numbers of protons, neutrons definitions of an ion, atomic number, WS1.3c,
+and electrons in atoms and ions, given mass number and an isotope, also the WS1.4b
+atomic number and mass number of standard notation to represent these
+isotopes
+14
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Topic C2: Elements, compounds and mixtures
+C2.1 Purity and separating mixtures
+Summary Common misconceptions
+In chemical terms elements and compounds are pure substances and mixtures Learners commonly misuse the word pure and confuse it with natural substances
+are impure substances. Chemically pure substances can be identified using or a substance that has not been tampered with. They think that when a
+melting point. Many useful materials that we use today are mixtures. There substance dissolves that the solution is pure and not a mixture.
+are many methods of separating mixtures including filtration, crystallisation,
+distillation and chromatographic techniques. Tiering
+Statements shown in bold type will only be tested in the Higher Tier papers.
+Underlying knowledge and understanding All other statements will be assessed in both Foundation and Higher Tier papers.
+Learners should be familiar with the concept of pure substances. They should
+have met simple separation techniques of mixtures: filtration, evaporation and
+distillation. The identification of pure substances in terms of melting point, boiling
+point and chromatography will also have been met before.
+Reference Mathematical learning outcomes Mathematical skills
+CM2.1i arithmetic computation, ratio, percentage and multistep calculations permeates quantitative chemistry M1a, M1c, M1d
+CM2.1ii provide answers to an appropriate number of significant figures M2a
+CM2.1iii change the subject of a mathematical equation M3b, M3c
+CM2.1iv arithmetic computation and ratio when determining empirical formulae, balancing equations M3b, M3c
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+15
+Version
+3.6
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+C2.1a explain what is meant by the purity of a WS1.4a Purification of compounds.
+substance, distinguishing between the (PAG C4, PAG C7)
+scientific and everyday use of the term ‘pure’
+C2.1b use melting point data to distinguish pure M1a, M1c, Measurement of melting point.
+from impure substances M1d, M2a
+C2.1c calculate relative formula masses of species the definition of relative atomic M3b, M3c WS1.3c,
+separately and in a balanced chemical mass, relative molecular mass and WS1.4c
+equation relative formula mass
+C2.1d deduce the empirical formula of a compound M3b, M3c WS1.1b,
+from the relative numbers of atoms present WS1.4a
+or from a model or diagram and vice versa
+C2.1e explain that many useful materials are alloys
+formulations of mixtures
+C2.1f describe, explain and exemplify the processes knowledge of the techniques of WS1.2b, Separation of mixtures and
+of filtration, crystallisation, simple distillation, filtration, crystallisation, simple WS1.2c, purification of compounds. (PAG
+and fractional distillation distillation and fractional distillation WS2a, WS2b C4, PAG C7)
+Distillation of mixtures (PAG C4)
+C2.1g describe the techniques of paper and thin using aqueous and non-aqueous WS1.2b, Paper or thin layer
+layer chromatography solvents and locating agents WS1.2c, chromatography. (PAG C3)
+WS1.4a,
+WS2a, WS2b
+C2.1h recall that chromatography involves a identification of the mobile and WS1.4a
+stationary and a mobile phase and that stationary phases
+separation depends on the distribution
+between the phases
+16
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+Version
+3.6
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+C2.1i interpret chromatograms, including the recall and the use of the formula M3b, M3c WS1.3c,
+measuring R values WS1.4a
+f
+C2.1j suggest suitable purification techniques
+given information about the substances
+involved
+C2.1k suggest chromatographic methods for paper, thin layer (TLC) and gas WS1.4a Using chromatography to identify
+distinguishing pure from impure chromatography mixtures of dyes in an unknown
+substances ink. (PAG C3)
+GCSE
+(9–1)
+in
+Chemistry
+A
+(Gateway
+Science)
+17
+Version
+3.6
+©
+OCR
+2024
+2
+C2.2 Bonding
+Summary non-metals including the chemical properties of metal and non-metal oxides with
+A simple electron energy level model can be used to explain the basic chemical respect to acidity.
+properties of elements. When chemical reactions occur, they can be explained in
+terms of losing, gaining or sharing of electrons. The ability of an

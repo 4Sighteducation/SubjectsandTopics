@@ -1,0 +1,29 @@
+1.1 P6.1 Radioactive emissions
+1.1.1 P6.1a recall that atomic nuclei are composed of both protons and neutrons, that the nucleus of each element has a characteristic positive charge
+1.1.2 P6.1b recall that atoms of the same elements can differ in nuclear mass by having different numbers of neutrons
+1.1.3 P6.1c use the conventional representation for nuclei to relate the differences between isotopes
+1.1.3.1 identities
+1.1.3.2 charges
+1.1.3.3 masses
+1.1.4 P6.1d recall that some nuclei are unstable and may emit alpha particles, beta particles, or neutrons, and electromagnetic radiation as gamma rays
+1.1.5 P6.1e relate the emission of alpha particles, beta particles, gamma radiation and neutrons to possible changes in the mass or the charge of the nucleus, or both
+1.1.6 P6.1f use names and symbols of common nuclei and particles to write balanced equations that represent radioactive decay
+1.1.7 P6.1g balance equations representing the emission of alpha, beta or gamma radiation in terms of the masses, and charges of the atoms involved
+1.1.8 P6.1h recall that in each atom its electrons are arranged at different distances from the nucleus, that such arrangements may change with absorption or emission of electromagnetic radiation and that atoms can become ions by loss of outer electrons
+1.1.8.1 knowledge that inner electrons can be ‘excited’ when they absorb energy from radiation and rise to a higher energy level
+1.1.8.2 when this energy is lost by the electron it is emitted as radiation
+1.1.8.3 when outer electrons are lost this is called ionisation
+1.1.9 P6.1i recall that changes in atoms and nuclei can also generate and absorb radiations over a wide frequency range
+1.1.9.1 an understanding that these types of radiation may be from any part of the electromagnetic spectrum which includes gamma rays
+1.1.10 P6.1j explain the concept of half-life and how this is related to the random nature of radioactive decay
+1.1.11 P6.1k calculate the net decline, expressed as a ratio, during radioactive emission after a given (integral) number of half-lives
+1.1.12 P6.1l recall the differences in the penetration properties of alpha particles, beta particles and gamma rays
+
+1.2 P6.2 Uses and hazards
+1.2.1 P6.2a recall the differences between contamination and irradiation effects and compare the hazards associated with these two
+1.2.2 P6.2b explain why the hazards associated with radioactive material differ according to the half-life involved
+1.2.3 P6.2c describe the different uses of nuclear radiations for exploration of internal organs, and for control or destruction of unwanted tissue
+1.2.4 P6.2d recall that some nuclei are unstable and may split, and relate such effects to radiation which might emerge, to transfer of energy to other particles and to the possibility of chain reactions
+1.2.4.1 for fission to occur the unstable nucleus must usually first absorb a neutron
+1.2.5 P6.2e describe the process of nuclear fusion
+1.2.5.1 knowledge that mass may be converted into the energy of radiation

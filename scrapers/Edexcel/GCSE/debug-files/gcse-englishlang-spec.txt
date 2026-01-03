@@ -1,0 +1,1597 @@
+GCSE (9-1)
+English 
+Language
+Specification 
+Pearson Edexcel Level 1/Level 2 GCSE (9 - 1) in English Language (1EN0)
+First teaching from September 2015
+First certification from June 2017 Issue 6
+
+ 
+About Pearson 
+We are the world’s leading learning company operating in countries all around the 
+world. We provide content, assessment and digital services to learners, educational 
+institutions, employers, governments and other partners globally. We are 
+committed to helping equip learners with the skills they need to enhance their 
+employability prospects and to succeed in the changing world of work. We believe 
+that wherever learning flourishes so do people. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References to third party materials made in this specification are made in good 
+faith. Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Materials may include textbooks, journals, magazines and other publications and 
+websites.) 
+All information in this specification is correct at time of publication. 
+ 
+Original origami artwork: Mark Bolitho  
+Origami photography: Pearson Education Ltd/Naki Kouyioumtzis 
+ 
+ISBN 978 1 446 96309 8 
+All the material in this publication is copyright 
+© Pearson Education Limited 2024 
+ 
+ 
+ 
+Summary of Pearson Edexcel Level 1/Level 2 GCSE (9-1) 
+in English Language specification  
+Issue 6 changes 
+ 
+Summary of changes made between previous issue and this current 
+issue 
+Page 
+number 
+Spoken language endorsement 
+There has been an addition made to the teacher declaration and candidate 
+declaration regarding the use of AI. 
+35–36 
+ 
+If you need further information on these changes or what they mean, contact us via our 
+website at: qualifications.pearson.com/en/support/contact-us.html.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From Pearson’s Expert Panel for World Class Qualifications 
+May 2014 
+  The reform of the qualifications system in England is a profoundly important 
+change to the education system. Teachers need to know that the new qualifications 
+will assist them in helping their learners make progress in their lives. 
+When these changes were first proposed we were approached by Pearson to join an 
+‘Expert Panel’ that would advise them on the development of the new qualifications. 
+We were chosen, either because of our expertise in the UK education system, or 
+because of our experience in reforming qualifications in other systems around the 
+world as diverse as Singapore, Hong Kong, Australia and a number of countries 
+across Europe. 
+We have guided Pearson through what we judge to be a rigorous qualification 
+development process that has included: 
+● extensive international comparability of subject content against the highest-
+performing jurisdictions in the world 
+● benchmarking assessments against UK and overseas providers to ensure that 
+they are at the right level of demand 
+● establishing External Subject Advisory Groups, drawing on independent  
+subject-specific expertise to challenge and validate our qualifications 
+● subjecting the final qualifications to scrutiny against the DfE content and Ofqual 
+accreditation criteria in advance of submission.  
+Importantly, we have worked to ensure that the content and learning is future 
+oriented. The design has been guided by what is called an ‘Efficacy Framework’, 
+meaning learner outcomes have been at the heart of this development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a 
+learner’s success in education. As a result of our work as a panel we are confident 
+that we have supported the development of qualifications that are outstanding for 
+their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.
+” 
+  Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong  
+Director, National Institute of 
+Education, Singapore 
+  
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+  
+Dame Sally Coates 
+Principal, Burlington Danes Academy 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+  
+Professor Robin Coningham 
+Pro-Vice Chancellor, University of Durham 
+Professor Bob Schwartz 
+Harvard Graduate School of Education 
+  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+ 
+ 
+All titles correct as at May 2014 
+“ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language is designed 
+for use in schools and colleges. It is part of a suite of GCSE qualifications offered by 
+Pearson. 
+Purpose of the specification 
+This specification sets out: 
+● the objectives of the qualification 
+● any other qualification(s) that students must have completed before taking the 
+qualification 
+● any prior knowledge and skills that students are required to have before taking 
+the qualification 
+● any other requirements that students must have satisfied before they will be 
+assessed or before the qualification will be awarded 
+● the knowledge and understanding that will be assessed as part of the 
+qualification 
+● the method of assessment and any associated requirements relating to it 
+● the criteria against which students’ level of attainment will be measured (such 
+as assessment criteria). 
+ 
+ 
+Rationale 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language meets the 
+following purposes, which fulfil those defined by the Office of Qualifications and 
+Examinations Regulation (Ofqual) for GCSE qualifications in their GCSE (9–1) 
+Qualification Level Conditions and Requirements document, published in April 2014. 
+The purposes of this qualification are to: 
+● provide evidence of students’ achievements against demanding and fulfilling 
+content, giving students the confidence that the literacy skills, knowledge and 
+understanding that they will have acquired during the course of their study are 
+comparable to those of the highest performing jurisdictions in the world 
+● provide a strong foundation for further academic and vocational study and for 
+employment, to help students progress to a full range of courses in further and 
+higher education. This includes Level 3 English courses, as well as Level 3 
+courses in other disciplines such as drama and theatre studies 
+● provide (if required) a basis for schools and colleges to be held accountable for 
+the performance of all of their students. 
+Qualification aims and objectives 
+The aims and objectives of the Pearson Edexcel Level 1/Level 2 GCSE (9–1) in 
+English Language are to enable students to: 
+● read a wide range of texts fluently and with good understanding 
+● read critically and use knowledge gained from wide reading to inform and 
+improve their own writing 
+● write effectively and coherently using Standard English appropriately 
+● use grammar correctly, punctuate and spell accurately 
+● acquire and apply a wide vocabulary alongside knowledge and understanding of 
+grammatical terminology, and linguistic conventions for reading, writing and 
+spoken language 
+● listen to and understand spoken language, and use spoken Standard English 
+effectively. Spoken language will be reported as a separate grade on the 
+student’s certificate. 
+ 
+ 
+The context for the development of this qualification 
+All our qualifications are designed to meet our World Class Qualification Principles[1] 
+and our ambition to put the student at the heart of everything we do. 
+We have developed and designed this qualification by:  
+● reviewing other curricula and qualifications to ensure that it is comparable with 
+those taken in high-performing jurisdictions overseas 
+● consulting with key stakeholders on content and assessment, including learned 
+bodies, subject associations, higher-education academics, teachers and 
+employers to ensure this qualification is suitable for a UK context 
+● reviewing the legacy qualification and building on its positive attributes. 
+This qualification has also been developed to meet criteria stipulated by Ofqual in 
+their documents GCSE (9–1) Qualification Level Conditions and Requirements and 
+GCSE Subject Level Conditions and Requirements for GCSE in English Language, 
+published in April 2014. 
+ 
+ 
+ 
+ 
+[1] Pearson’s World Class Qualification Principles ensure that our qualifications are: 
+● demanding, through internationally benchmarked standards, encouraging deep learning and 
+measuring higher-order skills 
+● rigorous, through setting and maintaining standards over time, developing reliable and valid 
+assessment tasks and processes, and generating confidence in end users of the knowledge, skills 
+and competencies of certified students 
+● inclusive, through conceptualising learning as continuous, recognising that students develop at 
+different rates and have different learning needs, and focusing on progression 
+● empowering, through promoting the development of transferable skills, see Appendix 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+Qualification at a glance 1 
+Assessment Objectives and weightings 3 
+Knowledge, skills and understanding 5 
+Component 1: Fiction and Imaginative Writing 5 
+Component 2: Non-fiction and Transactional Writing 7 
+Spoken Language Endorsement 9 
+Malpractice 16 
+Further information 17 
+Assessment 19 
+Assessment summary tables 19 
+Assessment Objectives and weightings 21 
+Breakdown of Assessment Objectives 22 
+Entry and assessment information 23 
+Student entry 23 
+November resits 23 
+Discount code and performance tables 23 
+Access arrangements, reasonable adjustments and special 
+consideration 24 
+Equality Act 2010 and Pearson equality policy 25 
+Awarding and reporting 26 
+Language of assessment 26 
+Other information 27 
+Student recruitment 27 
+Prior learning and other requirements 27 
+Progression from GCSE 27 
+Appendix 1: Transferable skills 31 
+Appendix 2: Codes 33 
+Appendix 3: Spoken Language Endorsement:  
+Assessment record sheet 35 
+Appendix 4: Spoken Language Endorsement: Head of 
+Centre Declaration 37 
+ 
+ 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+1 
+Qualification at a glance 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language is a linear 
+course. It consists of two externally examined components and one endorsement 
+for Spoken Language. 
+Students must complete all assessment in the same series. 
+ 
+Component 1: Fiction and Imaginative Writing 
+*Paper code: 1EN0/01 
+● Externally assessed 
+● Availability: May/June and November** 
+● First assessment: May/June 2017 
+40% of the 
+total GCSE 
+Overview of content 
+● Study selections from a range of prose fiction. 
+● Develop skills to analyse and evaluate 19th-century fiction extracts. 
+● Develop imaginative writing skills to engage the reader. 
+● Use spelling, punctuation and grammar accurately. 
+Overview of assessment 
+● Section A – Reading: questions on an unseen 19th-century fiction extract. 
+● Section B – Writing: a choice of two writing tasks. The tasks are linked by a 
+theme to the reading extract. 
+● The total number of marks available is 64. 
+● Assessment duration 1 hour and 45 minutes. 
+ 
+The sample assessment materials can be found in the Pearson Edexcel  
+Level 1/Level 2 GCSE (9–1) in English Language Sample Assessment Materials 
+document. 
+*See Appendix 2: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+**See Entry and assessment information for details of restrictions on November 
+entry. 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+2 
+ 
+ 
+Spoken Language Endorsement *Paper code 1EN0/03 
+ 
+● Internally assessed under controlled conditions 
+● Availability: May/June and November** 
+● First assessment: May/June 2017 
+0% of the 
+total GCSE 
+Overview of content 
+● Developing spoken language skills. 
+Overview of assessment 
+● The component is internally assessed under controlled conditions, and 
+externally monitored by Pearson. 
+● Candidates must undertake a prepared spoken presentation on a specific topic 
+in a formal setting, listen and respond to questions and feedback, and use 
+spoken English effectively. 
+● There are no marks for the Spoken Language endorsement. Students are 
+awarded a grade (Pass, Merit or Distinction). 
+ 
+The sample assessment materials can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in English Language Sample Assessment Materials 
+document. 
+*See Appendix 2: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+**See Entry and assessment information for details of restrictions on November 
+entry. 
+Component 2: Non-fiction and Transactional Writing 
+*Paper code: 1EN0/02 
+● Externally assessed 
+● Availability: May/June and November** 
+● First assessment: May/June 2017 
+60% of the 
+total GCSE 
+Overview of content 
+● Study a range of 20th- and 21st-century non-fiction texts (including literary 
+non-fiction). 
+● Develop skills to analyse, evaluate and compare non-fiction extracts. 
+● Develop transactional writing skills for a variety of forms, purposes and 
+audiences. 
+● Use spelling, punctuation and grammar accurately. 
+Overview of assessment 
+● Section A – Reading: questions on two thematically linked, unseen non-fiction 
+extracts. 
+● Section B – Writing: a choice of two writing tasks. The tasks are linked by a 
+theme to the reading extracts. 
+● The total number of marks available is 96. 
+● Assessment duration: 2 hours and 5 minutes. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+3 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCSE 
+READING 
+AO1 ● Identify and interpret explicit and implicit 
+information and ideas 
+● Select and synthesise evidence from different texts 
+9.4 
+AO2 Explain, comment on and analyse how writers use 
+language and structure to achieve effects and influence 
+readers, using relevant subject terminology to support 
+their views 
+13.1 
+AO3 Compare writers’ ideas and perspectives, as well as how 
+these are conveyed, across two or more texts 8.8 
+AO4 Evaluate texts critically and support this with 
+appropriate textual references 18.8 
+WRITING 
+AO5 ● Communicate clearly, effectively and imaginatively, 
+selecting and adapting tone, style and register for 
+different forms, purposes and audiences 
+● Organise information and ideas, using structural and 
+grammatical features to support coherence and 
+cohesion of texts 
+30 
+AO6 Candidates must use a range of vocabulary and 
+sentence structures for clarity, purpose and effect, with 
+accurate spelling and punctuation 
+20 
+SPOKEN 
+LANGUAGE *AO7 Demonstrate presentation skills in a formal setting n/a 
+*AO8 Listen and respond appropriately to spoken language, 
+including to questions and feedback to presentations n/a 
+*AO9 Use spoken Standard English effectively in speeches and 
+presentations n/a 
+Total 100% 
+ 
+*These Assessment Objectives are for the Spoken Language Endorsement, which 
+will be reported as a separate grade on the awarding body certificate. 
+NB: some figures have been rounded up or down.  
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+4 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+5 
+Knowledge, skills and understanding 
+Component 1: Fiction and Imaginative Writing 
+Overview 
+The focus of this component is: 
+● Section A – Reading: study and analyse selections from a range of prose 
+fiction. 
+● Section B – Imaginative writing: explore and develop imaginative writing 
+skills. 
+The learning outcomes below are drawn from the GCSE Subject Level Conditions 
+and Requirements for English Language, published April 2014. 
+ 
+Learning 
+outcomes 
+Students will: 
+1.1 
+Reading 
+1.1.1 read and understand a range of prose fiction, including unseen 
+texts 
+1.1.2 critical reading and comprehension: identify and interpret 
+themes, ideas and information in a range of literature and 
+other high-quality writing; read in different ways for different 
+purposes, and evaluate the usefulness, relevance and 
+presentation of content for these purposes; draw inferences 
+and justify these with evidence; support a point of view by 
+referring to evidence within the text; identify bias and misuse 
+of evidence, including distinguishing between statements that 
+are supported by evidence and those that are not; reflect 
+critically and evaluatively on text, use the context of the text 
+and draw on knowledge and skills gained from wider reading; 
+recognise the possibility of different responses to a text 
+1.1.3 summary: identify the main theme or themes; summarise 
+ideas and information from a single text 
+1.1.4 evaluation of a writer’s choice of vocabulary, form, 
+grammatical and structural features: explain and illustrate 
+how vocabulary and grammar contribute to effectiveness and 
+impact, use linguistic and literary terminology accurately to do 
+so and pay attention to detail; analyse and evaluate how form 
+and structure contribute to the effectiveness and impact of a 
+text 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+6 
+ 
+Learning 
+outcomes 
+Students will: 
+1.2 
+Writing 
+ 
+1.2.1 produce clear and coherent text: write accurately and 
+effectively for different purposes and audiences: to describe, 
+narrate, explain, instruct, give and respond to information, 
+and argue; select vocabulary, grammar, form, and structural 
+and organisational features judiciously to reflect audience, 
+purpose and context; use language imaginatively and 
+creatively; using information provided by others to write in 
+different forms; maintaining a consistent point of view; 
+maintaining coherence and consistency across a text 
+1.2.2 write for impact: select, organise and emphasise facts, ideas 
+and key points; cite evidence and quotation effectively and 
+pertinently to support views; create emotional impact; use 
+language creatively, imaginatively and persuasively, including 
+rhetorical devices (such as rhetorical questions, antithesis, 
+parenthesis). 
+ 
+Content 
+Students should read selections from a range of high-quality, challenging prose 
+fiction, in preparation for responding to an unseen 19th-century prose fiction 
+extract in the examination. They should be able to read substantial pieces of writing 
+(extended texts) that make significant demands on them in terms of content, 
+structure and the quality of language. Throughout the qualification, students should 
+develop the skills of inference, analysis and evaluation. Students studying GCSE 
+English Literature should be encouraged to analyse and evaluate the use of English 
+language in a full range of their literature texts.  
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) English Language Unseen 
+Preparation Anthology is a resource that supports teachers by providing examples 
+of 19th-century prose fiction. Students should read a variety of prose fiction from a 
+range of genres and cultures. 
+Students should use what they have learned about the writer’s craft in their reading 
+of fiction to inspire and influence their own imaginative writing. They should 
+develop a range of creative writing techniques, and planning and proofreading 
+skills. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+7 
+Component 2: Non-fiction and Transactional 
+Writing 
+Overview 
+This focus of this component is: 
+● Section A – Reading: study and analyse selections from a range of non-fiction 
+texts (including literary non-fiction) 
+● Section B – Transactional writing: explore and develop transactional writing 
+skills, for example letters, articles, reviews. 
+The learning outcomes below are drawn from the GCSE Subject Level Conditions 
+and Requirements for English Language, published April 2014. 
+ 
+Learning 
+outcomes 
+Students will: 
+2.1 
+Reading 
+2.1.1 read and understand a range of non-fiction texts, including 
+whole texts and unseen texts 
+2.1.2 critical reading and comprehension: identify and interpret 
+themes, ideas and information in a range of literature and 
+other high-quality writing; read in different ways for different 
+purposes, and compare and evaluate the usefulness, 
+relevance and presentation of content for these purposes; 
+draw inferences and justify these with evidence; support a 
+point of view by referring to evidence within the text; identify 
+bias and misuse of evidence, including distinguishing between 
+statements that are supported by evidence and those that are 
+not; reflect critically and evaluatively on text, use the context 
+of the text and draw on knowledge and skills gained from 
+wider reading; recognise the possibility of different responses 
+to a text 
+2.1.3 summary and synthesis: identify the main theme or themes; 
+summarise ideas and information from a single text; 
+synthesise from more than one text 
+2.1.4 evaluation of a writer’s choice of vocabulary, form, 
+grammatical and structural features: explain and illustrate 
+how vocabulary and grammar contribute to effectiveness and 
+impact, use linguistic and literary terminology accurately to do 
+so and pay attention to detail; analyse and evaluate how form 
+and structure contribute to the effectiveness and impact of a 
+text 
+2.1.5 compare texts: compare two or more texts critically with 
+respect to the above. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+8 
+ 
+Learning 
+outcomes 
+Students will: 
+2.2 
+Writing 
+ 
+2.2.1 
+ 
+produce clear and coherent text: write accurately and 
+effectively for different purposes and audiences: to describe, 
+narrate, explain, instruct, give and respond to information, 
+and argue; select vocabulary, grammar, form, and structural 
+and organisational features judiciously to reflect audience, 
+purpose and context; use language imaginatively and 
+creatively; using information provided by others to write in 
+different forms; maintaining a consistent point of view; 
+maintaining coherence and consistency across a text 
+2.2.2 write for impact: select, organise and emphasise facts, ideas 
+and key points; cite evidence and quotation effectively and 
+pertinently to support views; create emotional impact; use 
+language creatively, imaginatively and persuasively, including 
+rhetorical devices (such as rhetorical questions, antithesis, 
+parenthesis). 
+ 
+Content 
+Students should read a variety of high-quality, challenging non-fiction and literary 
+non-fiction, in preparation to respond to unseen 20th- and 21st-century non-fiction 
+in the examination. They should be able to read substantial pieces of writing, 
+including whole and extended texts, that make significant demands in terms of 
+content, structure and the quality of the language. Throughout the qualification, 
+students should develop the skills of interpretation, analysis and evaluation. 
+Text types studied should include a range of non-fiction forms, such as journalism 
+(for example articles and reviews), speeches, journals and reference book extracts. 
+Text types should also include literary non-fiction, such as selections from 
+autobiography, letters, obituaries and travel writing. These lists are not exhaustive. 
+Texts that are essentially transient, such as instant news feeds and advertisements 
+will not form part of the assessment. 
+The Pearson Edexcel Level 1/Level 2 GCSE (9–1) English Language Unseen 
+Preparation Anthology is a resource that supports teachers by providing indicative 
+examples of different types of non-fiction. Examples are indicative only and 
+students should read widely. Students should use what they have learned about 
+different text types to feed into their transactional writing. They should be 
+introduced to, and be given the opportunity to practise, a range of non-fiction 
+writing techniques planning and proofreading skills. The transactional text types 
+that students will be asked to write are: 
+● article 
+● letter 
+● review 
+● text for a speech 
+● section for guide/textbook/leaflet/booklet. 
+The writing tasks may make reference to a digital location for such texts, such as a website. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+9 
+Spoken Language Endorsement 
+Overview 
+The focus of this component is on developing spoken language skills. 
+Content 
+The learning outcomes below are drawn from the Ofqual ‘GCSE Subject Level 
+Conditions and Requirements for English Language and Certificate Requirements’ 
+document published July 2015 and available on the Ofqual website. 
+ 
+ 
+Learning 
+outcomes 
+Students will: 
+3.1 
+Spoken 
+language 
+3.1.1 presenting information and ideas: selecting and organising 
+information and ideas effectively and persuasively for prepared 
+spoken presentations; planning effectively for different purposes 
+and audiences; making presentations and speeches 
+3.1.2 responding to spoken language: listening to and responding 
+appropriately to any questions and feedback 
+3.1.3 spoken Standard English: expressing ideas using Standard 
+English whenever and wherever appropriate. 
+ 
+Content 
+Students must demonstrate their presentation skills in a formal setting, listen and 
+respond to questions and feedback, and use spoken English effectively. 
+Presentation: 
+The spoken language presentation is to be completed individually by a student and 
+may take a variety of forms, including: 
+(a) a speech or talk by a student, followed by questions from the audience or  
+(b) a formal debate or dialogue, such as an interview where the student is able to 
+prepare extended responses to questions or prompts which have been shared in 
+advance, followed by questions from the audience.  
+In all cases, the presentation should be prepared and last no longer than 10 
+minutes per student and this includes questions and answers.  
+Centres should be mindful of the comparability of presentations they allow students 
+to undertake. They are encouraged to take steps to ensure that all tasks 
+undertaken in their centre are of comparable demand. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+10 
+Audience: 
+Students must give their presentations to an audience, which must always include 
+the teacher and we recommend the audience consist of at least two people as this 
+gives greater opportunities for students to demonstrate the necessary knowledge, 
+skills and understanding for this assessment. The composition of the audience 
+must also provide students with opportunities to respond to appropriate questions 
+and feedback. 
+The size and composition of the audience should be determined by the teacher, in 
+discussion with the student. However, where the audience is the teacher only, the 
+presentation and dialogue should be designed in such a way that it could have a 
+potentially wider audience than just one person (for example, it replicates a 
+television interview). 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+11 
+Assessment criteria 
+Students should be assessed either live or from recordings.  
+There are no marks for the Spoken Language endorsement. Students should be 
+awarded a grade (Pass, Merit or Distinction) using the assessment criteria below. 
+Students who do not reach the Pass standard, or who do not attempt the 
+assessment, must be recorded as Not Classified. This grade will appear on the 
+student’s certificate.  
+In order to achieve a particular grade, a student must meet all of the 
+criteria for that grade.  
+For more information on grading see the Awarding and Reporting section. 
+ 
+General criteria 
+To be awarded a Pass, Merit or Distinction a student must: 
+● be audible, and  
+● use spoken Standard English which, for the purposes of the spoken language 
+assessment, means that a Learner must: 
+o be intelligible, and  
+o generally use language appropriate to the formal setting of the presentation. 
+Pass Merit Distinction 
+In addition to the general 
+criteria, to be awarded a 
+Pass a Learner’s 
+performance in his or her 
+spoken language 
+assessment must meet 
+all of the following 
+criteria –  
+● expresses 
+straightforward 
+ideas/information/ 
+feelings,  
+● makes an attempt to 
+organise and 
+structure his or her 
+presentation,  
+● makes an attempt to 
+meet the needs of the 
+audience, and  
+● listens to 
+questions/feedback 
+and provides an 
+appropriate response 
+in a straightforward 
+manner. 
+In addition to the general 
+criteria, to be awarded a 
+Merit a Learner’s 
+performance in his or her 
+spoken language 
+assessment must meet all 
+of the following criteria –  
+● expresses challenging 
+ideas/information/feel
+ings using a range of 
+vocabulary,  
+● organises and 
+structures his or her 
+presentation clearly 
+and appropriately to 
+meet the needs of the 
+audience,  
+● achieves the purpose 
+of his or her 
+presentation, and  
+● listens to 
+questions/feedback 
+responding formally 
+and in some detail. 
+In addition to the general 
+criteria, to be awarded a 
+Distinction a Learner’s 
+performance in his or her 
+spoken language 
+assessment must meet all 
+of the following criteria –  
+● expresses sophisticated 
+ideas/information/feeling
+s using a sophisticated 
+repertoire of vocabulary,  
+● organises and structures 
+his or her presentation 
+using an effective range 
+of strategies to engage 
+the audience,  
+● achieves the purpose of 
+his or her presentation, 
+and 
+● listens to 
+questions/feedback, 
+responds perceptively 
+and if appropriate 
+elaborates with further 
+ideas and information. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+12 
+Re-use (carry forward) of Spoken Language grades 
+A student who is re-taking GCSE English Language (post-16) may re-use a previous 
+result for the Spoken Language Endorsement, even if it was awarded by another 
+awarding body. 
+The result for the Spoken Language Endorsement may be transferred even if the 
+overall grade at GCSE achieved is unclassified.  
+External monitoring 
+Each centre is required to provide audio-visual recordings of the presentations of a 
+sample of students, that is representative of the various teaching groups. There is 
+no requirement to record the presentations of all students.  
+For further information, please see the Instructions for conducting non-examination 
+assessments document, which is available on the JCQ website
+ and Pearson’s 
+Administrative Support Guide (ASG): Instructions for the Conduct of Spoken 
+Language Endorsement available on our website: qualifications.pearson.com. 
+Head of centre declaration 
+Heads of centres are required to complete the declaration in Appendix 2. This form 
+must be submitted at this at the same time as the sample of students’ recordings. 
+Failure by a centre to provide a Head of Centre Declaration may be treated as 
+malpractice or maladministration (see Section 3 Administration and general 
+information section for more information). 
+Assessment record sheet 
+An assessment record sheet (see Appendix 1) should be completed for each student 
+and kept securely by the centre. The assessment record sheets of the sampled 
+students must be sent to Pearson. 
+Guidance on making and submitting audio-visual recordings for the Spoken 
+Language Endorsement 
+1. Recording of the presentation 
+The presentation should be saved digitally. Each recording must be saved 
+individually and not as one long recording of multiple students. The recording must 
+be made under controlled conditions 
+[1]  . It must be a complete, unedited recording 
+of each performance. The presentations can be undertaken by students and 
+recorded by the centre at any time during the course.  
+The camera must be positioned to ensure the best possible sound and visual 
+quality. The centre must ensure that the camera is not obscured, for example by 
+the backs of people’s heads.  
+At the start of each performance the candidate must state their full name. There is 
+a requirement for an audience of at least one person, which can be the teacher, to 
+be present during the recording. The audience must include the teacher.  
+The recording must be readable through one of the following programmes: 
+Windows Movie Maker, Real Time, VLC or Quicktime. We advise that you save the 
+recordings in one of the following file types: MPEG, FLV, MOV, WMV or RM. 
+Recordings should then be securely stored until it is time to submit the sample to 
+Pearson. Once the sample is submitted, a monitor, whose responsibility it will be to 
+ensure that the centre’s assessment is in line with the national standard, will review 
+the centre’s submission. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+13 
+2. Preparation of material 
+Presentation recordings 
+You must submit the recording of the presentation/s digitally to Pearson. Each 
+recording file must be created in the following way: 
+● create a file for each student. 
+● name each file according to the following naming convention:  
+[centre #]_[candidate number #]_[surname]_[first letter of first name]_[grade]  
+Example: Joshua Smith with candidate number 7890 at centre 12345 would a 
+recording titled, ‘12345_7890_Smith_J_Merit’ 
+It is the centre’s responsibility to check all performances on a computer before 
+sending to Pearson. You must ensure the quality of the sound and picture of the 
+recordings is sufficient to enable performances to be marked. Before the recordings 
+are sent for review, the teacher should check that: 
+● the files submitted play on all computers/operating systems. For instance, if the 
+recording was created on an Apple Mac computer, you must check that they can 
+be opened on a Microsoft Windows computer. 
+Assessment sheets 
+Centres are provided with an assessment record sheet for use in assessing 
+students’ performances.  
+One record sheet should be completed for each student.  
+All forms should be retained securely, and the sampled students’ sheets must be 
+sent to Pearson. 
+Head of Centre declaration 
+The Head of Centre Declaration (see Appendix 2: Spoken Language Endorsement: 
+Head of Centre Declaration) should be submitted at the same time as the sampled 
+students’ recordings. 
+The form must be named according to the following naming convention:  
+● [centre #]_[SLE head of centre declaration]  
+● example: centre 12345 would have a declaration titled, ‘12345_SLE head of 
+centre declaration’. 
+All materials – recordings of all student presentations and assessment sheets and 
+the Head of Centre Declaration – should be stored securely until after the review of 
+marking period. 
+3. Submission of work  
+All the sampled students’ presentation recordings and assessment sheets, and the 
+Head of Centre Declaration, must be submitted digitally.  Documents can be 
+submitted in either Word or PDF formats.  
+Recordings of student presentations and assessment sheets should be stored 
+securely until you are required to submit them.  
+Submission checklist: 
+● files named as described above 
+● recording files checked on Apple/PC (as appropriate) for audio-visual quality 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+14 
+● backup copies made and stored securely 
+● assessment record sheet completed correctly for each student sampled 
+● Head of Centre Declaration completed correctly. 
+Submission requirements 
+ 
+No. of students  
+at centre 
+No. of students whose 
+presentations must be 
+recorded 
+Minimum no. of 
+students at each  
+grade (D, M, P)+ 
+30 or fewer All students 10++ 
+Over 30 30 10+++ 
+ 
+The sample should be representative of the teaching groups within the centre. 
++ All students at a grade if the centre has fewer than the stated minimum. 
+Students assessed as Not Classified should not be included. 
+++ For example, if a centre has 15 D students, 11 M students and 3 P students, all 
+of these students will be in the sample. 
++++ For example: 
+(a) if a centre has 21 D students, 14 M students and 3 P students, the sample will 
+consist of 10 of the D students, 10 of the M students and all of the P students, 
+with 7 additional students (from D and/or M) to make the overall sample up to 
+30. 
+(b) if a centre has no D students, 7 M students and 60 P students, the sample will 
+consist of all of the M students and 23 of the P students. 
+ 
+[1] Please see the JCQ Instructions for conducting non-examination assessments 
+(new GCE & GCSE specifications). 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+15 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to comply with the 
+requirements of Ofqual's General Conditions of Recognition. 
+This GCSE qualification will be graded and certificated on a nine-grade scale from 9 
+to 1 using the total subject mark where 9 is the highest grade. Individual papers 
+are not graded. Students whose level of achievement is below the minimum judged 
+by Pearson to be of sufficient standard to be recorded on a certificate will receive 
+an unclassified U result. 
+The result of the Spoken Language Endorsement will be reported separately from a 
+student’s English Language result, and where a certificate is issued, be recorded as 
+a separate line on the certificate.  
+A pass, merit or distinction result will be recorded on a certificate when a student 
+also achieves a 9–1 grade for the GCSE.  
+Students who do not receive a pass, merit, distinction result for the Spoken 
+Language Endorsement, but achieve a 9–1 grade for GCSE, will be awarded a ‘not 
+classified’ and this is what will be recorded separately on their certificate.  
+If a student achieves the required standard for the Spoken Language Endorsement 
+but does not achieve a 9–1 grade for GCSE, both results will be issued, but no 
+certificates will be issued. However, the result for the Spoken Language 
+Endorsement may be transferred even if the overall grade at GCSE achieved is 
+unclassified. 
+The first certification opportunity for this qualification will be 2022. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+16 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that 
+compromises or seeks to compromise the process of 
+assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in controlled assessments discovered 
+before the candidate has signed the declaration of 
+authentication form does not need to be reported to 
+Pearson. 
+Candidate malpractice found in controlled assessments after 
+the declaration of authenticity has been signed, and in 
+examinations must be reported to Pearson on a  
+JCQ Form M1 (available at www.jcq.org.uk/exams-
+office/malpractice).  
+The form should be emailed to 
+candidatemalpractice@pearson.com. Please provide as 
+much information and supporting documentation as 
+possible. Note that the final decision regarding appropriate 
+sanctions lies with Pearson. 
+Failure to report candidate malpractice constitutes staff or 
+centre malpractice.  
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate 
+malpractice and maladministration of our qualifications. As 
+with candidate malpractice, staff and centre malpractice is 
+any act that compromises or seeks to compromise the 
+process of assessment or undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and 
+maladministration must be reported immediately, before 
+any investigation is undertaken by the centre, to Pearson 
+on a JCQ Form M2(a) (available at www.jcq.org.uk/exams-
+office/malpractice).  
+The form, supporting documentation and as much 
+information as possible should be emailed to 
+pqsmalpractice@pearson.com. Note that the final decision 
+regarding appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More-detailed guidance on malpractice can be found in the 
+latest version of the document General and Vocational 
+Qualifications Suspected Malpractice in Examinations and 
+Assessments Policies and Procedures, available at 
+www.jcq.org.uk/exams-office/malpractice. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+17 
+Further information 
+For up-to-date advice on teacher involvement and 
+administration of non-examined assessments, please refer 
+to the Joint Council for Qualifications (JCQ) Instructions for 
+conducting non-examination assessments (new GCE and 
+GCSE specifications) document on the JCQ website: 
+www.jcq.org.uk   
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+18 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+19 
+Assessment 
+Assessment summary tables 
+Students must complete all assessment in the same series. 
+ 
+Component 1: Fiction and Imaginative Writing 
+*Paper code: 1EN0/01 
+● Availability: May/June and November** 
+● First assessment: May/June 2017 
+● Assessed through a 1 hour and 45 minute examination. 
+● The total number of marks available is 64. 
+● The reading and writing sections on this paper will be linked by 
+a theme. 
+40% of the 
+total GCSE 
+ 
+Section A – Reading 
+● The length of the 19th-century fiction extract will be approximately 650 words. 
+● There will be a mixture of short and extended response questions on the 
+extract. 
+Section B – Imaginative Writing 
+● Writing tasks are linked by a theme to the reading extract. Different aspects of 
+the theme will be reflected in each task. 
+● One of the writing tasks will provide two images that students can use to help 
+them generate ideas for their writing. Students can write a response that draws 
+on just one or neither of the images. 
+ 
+The sample assessment materials can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in English Language Sample Assessment Materials 
+document. 
+*See Appendix 2: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+**See Entry and assessment information for details of restrictions on November 
+entry. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+20 
+ 
+Component 2: Non-fiction and Transactional Writing  
+*Paper code: 1EN0/02 
+● Availability: May/June and November** 
+● First assessment: May/June 2017 
+● Assessed through a 2 hour and 5 minute examination. 
+● The total number of marks available is 96. 
+● The reading and writing sections on this paper will be linked by 
+a theme. 
+60% of the 
+total GCSE 
+ 
+Section A – Reading 
+● Two unseen non-fiction extracts, from 20th- and 21st-century texts. One of 
+these texts will be literary non-fiction. 
+● The word count across the two extracts will be approximately 1000 words. The 
+minimum length of an extract will be 300 words. 
+● Questions will be on Text 1, followed by Text 2. There will be a mixture of short 
+and extended response questions on the extracts. 
+● Students’ ability to synthesise across two texts will be assessed in a separate 
+question. 
+● The final question of this section requires students to compare the writers’ ideas 
+and how they are presented in the two texts. 
+Section B – Transactional Writing 
+● Writing tasks are linked by a theme to the reading extracts. 
+● It is possible for the same form (for example a letter, an article) to be present 
+on both tasks in the same paper but with a different focus and/or audience. 
+ 
+Speaking and Listening Endorsement  *Paper code 1EN0/03 
+● Availability: May/June and November** 
+● First assessment: May/June 2017 
+● Assessed through 1 presentation of up to 10 minutes. 
+● There are no marks for the Spoken Language endorsement. 
+Students are awarded a grade (Pass, Merit or Distinction). 
+0% of the 
+total GCSE 
+ 
+Candidates must undertake a prepared spoken presentation on a specific topic in a 
+formal setting, listen and respond to questions and feedback, and use spoken 
+English effectively. 
+ 
+The sample assessment materials can be found in the Pearson Edexcel 
+Level 1/Level 2 GCSE (9-1) in English Language Sample Assessment Materials 
+document. 
+*See Appendix 2: Codes for a description of this code and all other codes relevant 
+to this qualification. 
+**See Entry and assessment information for details of restrictions on November 
+entry. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+21 
+Assessment Objectives and weightings 
+ 
+Students must: 
+% in 
+GCSE 
+READING 
+AO1 ● Identify and interpret explicit and implicit 
+information and ideas 
+● Select and synthesise evidence from different texts 
+9.4 
+AO2 Explain, comment on and analyse how writers use 
+language and structure to achieve effects and influence 
+readers, using relevant subject terminology to support 
+their views 
+13.1 
+AO3 Compare writers’ ideas and perspectives, as well as how 
+these are conveyed, across two or more texts 8.8 
+AO4 Evaluate texts critically and support this with 
+appropriate textual references 18.8 
+WRITING 
+AO5 ● Communicate clearly, effectively and imaginatively, 
+selecting and adapting tone, style and register for 
+different forms, purposes and audiences 
+● Organise information and ideas, using structural and 
+grammatical features to support coherence and 
+cohesion of texts 
+30 
+AO6 Candidates must use a range of vocabulary and 
+sentence structures for clarity, purpose and effect, with 
+accurate spelling and punctuation 
+20 
+SPOKEN 
+LANGUAGE *AO7 Demonstrate presentation skills in a formal setting n/a 
+*AO8 Listen and respond appropriately to spoken language, 
+including to questions and feedback to presentations n/a 
+*AO9 Use spoken Standard English effectively in speeches and 
+presentations n/a 
+Total 100% 
+ 
+*These AOs are for the Spoken Language Endorsement, which will be reported as a 
+separate grade on the awarding body certificate. 
+NB: some figures have been rounded up or down. 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+22 
+Breakdown of Assessment Objectives  
+ Assessment Objectives Total  
+Component AO1 AO2 AO3 AO4 AO5 AO6 
+Component 1 – Fiction and Imaginative Writing        
+Question 1 1      1 
+Question 2 2      2 
+Question 3  6     6 
+Question 4    15   15 
+Question 5 or 6     24 16 40 
+Component 2 – Non-fiction and Transactional Writing        
+Question 1 2      2 
+Question 2 2      2 
+Question 3  15     15 
+Question 4 1      1 
+Question 5 1      1 
+Question 6    15   15 
+Question 7a 6       6 
+Question 7b   14    14 
+Question 8 or 9     24 16 40 
+Total for this qualification 15 21 14 30 48 32 160 marks 
+Total % Assessment Objectives for qualification  9.4% 13.1% 8.8% 18.8% 30% 20% 100% 
+AO7, AO8 and AO9 will be assessed through the Spoken Language Endorsement. 
+NB: some figures have been rounded up or down. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+23 
+Entry and assessment information 
+Student entry 
+Details of how to enter students for the examinations for 
+this qualification can be found in our UK Information 
+Manual. A copy is made available to all examinations 
+officers and is available on our website at: 
+www.edexcel.com/iwantto/Pages/uk-information-
+manual.aspx 
+November resits 
+This qualification is available in both the summer and the 
+November series. Entry to the November series is 
+restricted. Students who take GCSE English Language in a 
+November series must be at least 16 years of age on the 
+preceding 31st August. 
+Please check our website for further information. 
+Discount code and performance tables 
+Centres should be aware that students who enter for more 
+than one GCSE or other Level 2 qualifications with the same 
+discount code will have only the grade for their 'first entry' 
+counted for the purpose of the School and College 
+Performance Tables (please see Appendix 2: Codes). For 
+further information about what constitutes 'first entry' and full 
+details of how this policy is applied, please refer to the DfE 
+website: www.gov.uk/government/organisations/department-
+for-education 
+Students should be advised that if they take two GCSEs 
+with the same discount code, schools and colleges they 
+wish to progress to are likely to take the view that this 
+achievement is equivalent to only one GCSE. The same 
+view may be taken if students take two GCSEs or other 
+Level 2 qualifications that have different discount codes but 
+have significant overlap of content. Students or their 
+advisers who have any doubts about their subject 
+combinations should check with the institution they wish to 
+progress to before embarking on their programmes. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+24 
+Access arrangements, reasonable adjustments and 
+special consideration 
+Access arrangements 
+Access arrangements are agreed before an assessment. 
+They allow students with special educational needs, 
+disabilities or temporary injuries to: 
+● access the assessment 
+● show what they know and can do without changing the 
+demands of the assessment. 
+The intention behind an access arrangement is to meet the 
+particular needs of an individual student with a disability 
+without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding 
+bodies comply with the duty under the Equality Act 2010 to 
+make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the 
+start of the course. Students will then know what is 
+available and have the access arrangement(s) in place for 
+assessment. 
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to 
+make reasonable adjustments where a person with a 
+disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is 
+required to take reasonable steps to overcome that 
+disadvantage. 
+A reasonable adjustment for a particular person may be 
+unique to that individual and therefore might not be in the 
+list of available access arrangements. 
+Whether an adjustment will be considered reasonable will 
+depend on a number of factors, which will include: 
+● the needs of the student with the disability 
+● the effectiveness of the adjustment 
+● the cost of the adjustment; and 
+● the likely impact of the adjustment on the student with 
+the disability and other students. 
+An adjustment will not be approved if it involves 
+unreasonable costs to the awarding organisation, 
+timeframes or affects the security or integrity of the 
+assessment. This is because the adjustment is not 
+‘reasonable’. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+25 
+In most cases it will not be reasonable for adjustments to 
+be made to assessment objectives within a qualification. To 
+do so would be likely to undermine the effectiveness of the 
+qualification in providing a reliable indication of the 
+knowledge, skills and understanding of the student. There is 
+no duty to make adjustments which the qualifications 
+regulators have specified should not be made. 
+Special consideration 
+Special consideration is a post-examination adjustment to a 
+student's mark or grade to reflect temporary injury, illness 
+or other indisposition at the time of the 
+examination/assessment, which has had, or is reasonably 
+likely to have had, a material effect on a candidate’s ability 
+to take an assessment or demonstrate his or her level of 
+attainment in an assessment. 
+Further information 
+Please see our website for further information about how to 
+apply for access arrangements and special consideration. 
+For further information about access arrangements, 
+reasonable adjustments and special consideration, please 
+refer to the JCQ website: www.jcq.org.uk 
+Equality Act 2010 and Pearson equality policy 
+Equality and fairness are central to our work. Our equality 
+policy requires all students to have equal opportunity to 
+access our qualifications and assessments, and our 
+qualifications to be awarded in a way that is fair to every 
+student. 
+We are committed to making sure that: 
+● students with a protected characteristic (as defined by 
+the Equality Act 2010) are not, when they are 
+undertaking one of our qualifications, disadvantaged in 
+comparison to students who do not share that 
+characteristic 
+● all students achieve the recognition they deserve for 
+undertaking a qualification and that this achievement 
+can be compared fairly to the achievement of their 
+peers. 
+You can find details on how to make adjustments for 
+students with protected characteristics in the policy 
+document Access Arrangements, Reasonable Adjustments 
+and Special Considerations, which is on our website, 
+www.edexcel.com/Policies 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+26 
+Awarding and reporting 
+This qualification will be graded, awarded and certificated to 
+comply with the requirements of the current Code of 
+Practice published by the Office of Qualifications and 
+Examinations Regulation (Ofqual). 
+The GCSE (9–1) qualification will be graded and certificated 
+on a nine-grade scale from 9 to 1 using the total subject 
+mark where 9 is the highest grade. Individual components 
+are not graded. 
+Students are awarded a grade (Pass, Merit, Distinction or 
+Not Classified) for the Spoken Language Endorsement. The 
+Spoken Language Endorsement grade will appear on all 
+students’ certificates as a separately reported grade, 
+alongside the overall 9-1 grade issued. 
+The first certification opportunity for the Pearson Edexcel 
+Level 1/Level 2 GCSE (9–1) in English Language will be 
+2017. 
+Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be 
+recorded on a certificate will receive an unclassified 
+U result. 
+Language of assessment 
+Assessment of this qualification will be available in English. 
+All student work must be in English. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+27 
+Other information 
+Student recruitment 
+Pearson follows the JCQ policy concerning recruitment to 
+our qualifications in that: 
+● they must be available to anyone who is capable of 
+reaching the required standard 
+● they must be free from barriers that restrict access and 
+progression 
+● equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this 
+qualification. 
+Progression from GCSE 
+Level 1/Level 2 GCSE (9–1) English Language is a 
+requirement for progression to a wide range of courses at 
+Level 3. Students are expected to continue with their study 
+of GCSE English Language after the age of 16 if they have 
+not achieved the qualification at Key Stage 4. 
+Students can progress from this qualification to Level 3 
+qualifications in similar disciplines such as English literature, 
+drama, theatre studies, media studies and film studies, and 
+to other qualifications that require literacy skills, knowledge 
+and understanding. 
+This qualification prepares students for progression to 
+further study of English Language at AS and A level and to 
+the study of AS and A level English Language and 
+Literature. These Level 3 qualifications prepare students for 
+a variety of further progression routes. Students should 
+seek advice about which of these qualifications best 
+prepares them for their intended progression routes. 
+This qualification also supports further training and 
+employment where literacy skills are required. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+28 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+29 
+Appendices 
+Appendix 1: Transferable skills 31 
+Appendix 2: Codes 33 
+Appendix 3: Spoken Language Endorsement: Assessment record 
+sheet 35 
+Appendix 4: Spoken Language Endorsement: Head of Centre 
+Declaration 37 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+30 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+31 
+Appendix 1: Transferable skills 
+ 
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently 
+flagged the need for students to develop a range of transferable skills to enable 
+them to respond with confidence to the demands of undergraduate study and the 
+world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines 
+skills, or competencies, as ‘the bundle of knowledge, attributes and capacities that 
+can be learned and that enable individuals to successfully and consistently perform 
+an activity or task and can be built upon and extended through learning.’
+ [1] 
+To support the design of our qualifications, the Pearson Research Team selected 
+and evaluated seven global 21st-century skills frameworks. Following on from this 
+process, we identified the National Research Council’s (NRC) framework as the 
+most evidence-based and robust skills framework. We adapted the framework 
+slightly to include the Program for International Student Assessment (PISA) ICT 
+Literacy and Collaborative Problem Solving (CPS) Skills. 
+The adapted National Research Council’s framework of skills involves: [2] 
+Cognitive skills 
+● Non-routine problem solving – expert thinking, metacognition, creativity. 
+● Systems thinking – decision making and reasoning. 
+● Critical thinking – definitions of critical thinking are broad and usually involve 
+general cognitive skills such as analysing, synthesising and reasoning skills. 
+● ICT literacy – access, manage, integrate, evaluate, construct and 
+communicate[3]. 
+Interpersonal skills 
+● Communication – active listening, oral communication, written 
+communication, assertive communication and non-verbal communication. 
+● Relationship-building skills – teamwork, trust, intercultural sensitivity, 
+service orientation, self-presentation, social influence, conflict resolution and 
+negotiation. 
+● Collaborative problem solving – establishing and maintaining shared 
+understanding, taking appropriate action, establishing and maintaining team 
+organisation. 
+ 
+ 
+[1]  OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+[2]  Koenig J A, National Research Council – Assessing 21st Century Skills: Summary of a Workshop  
+(National Academies Press, 2011) 
+[3]  PISA – The PISA Framework for Assessment of ICT Literacy (2011) 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+32 
+Intrapersonal skills 
+● Adaptability – ability and willingness to cope with the uncertain, handling work 
+stress, adapting to different personalities, communication styles and cultures, 
+and physical adaptability to various indoor and outdoor work environments. 
+● Self-management and self-development – ability to work remotely in virtual 
+teams, work autonomously, be self-motivating and self-monitoring, willing and 
+able to acquire new information and skills related to work. 
+Transferable skills enable young people to face the demands of further and higher 
+education, as well as the demands of the workplace, and are important in the 
+teaching and learning of this qualification. We will provide teaching and learning 
+materials, developed with stakeholders, to support our qualifications. 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+33 
+Appendix 2: Codes 
+ 
+Type of code Use of code Code number 
+Discount codes Every qualification eligible for 
+performance tables is assigned a 
+discount code indicating the subject 
+area to which it belongs. 
+Discount codes are published by the 
+DfE. 
+Please see the  
+GOV.UK website 
+Regulated 
+Qualifications 
+Framework (RQF) 
+codes 
+Each qualification title is allocated an 
+Ofqual Regulated Qualifications 
+Framework (RQF) code. 
+The RQF code is known as a 
+Qualification Number (QN). This is 
+the code that features in the DfE 
+Section 96 and on the LARA as being 
+eligible for 16–18 and 19+ funding, 
+and is to be used for all qualification 
+funding purposes. The QN will 
+appear on students’ final certification 
+documentation. 
+The QN for this 
+qualification is:  
+601/4836/6 
+Subject codes The subject code is used by centres 
+to enter students for a qualification. 
+Centres will need to use the entry 
+codes only when claiming students’ 
+qualifications. 
+GCSE (9–1) – 1EN0 
+ 
+Paper code These codes are provided for 
+reference purposes. Students do not 
+need to be entered for individual 
+papers. 
+Paper 1: 1EN0/01 
+Paper 2: 1EN0/02 
+Spoken Language 
+Endorsement: 1EN0/03 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+34 
+ 
+ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+35 
+Appendix 3: Spoken Language 
+Endorsement: Assessment record sheet 
+ 
+ 
+ 
+ 
+GCSE English Spoken Language Endorsement 
+Centre number: Recorded?     
+Candidate number: Candidate name: 
+Details of task: 
+ 
+Assessment criteria  
+Pass criteria 
+Is audible  P 
+Uses Spoken Standard English* P 
+Expresses straightforward ideas/information/ feelings P 
+Makes an attempt to organise and structure their presentation P 
+Makes an attempt to meet the needs of the audience P 
+Listen to questions/feedback and provides an appropriate response in a 
+straight forward manner 
+P 
+Merit criteria 
+Is audible  M 
+Uses Spoken Standard English* M 
+Expresses challenging ideas/information/ feelings using a range of vocabulary M 
+Organises and structures their presentation clearly and appropriately to meet 
+the needs of the audience 
+M 
+Achieves the purpose of their presentation M 
+Listens to questions/feedback responding formally and in some detail M 
+
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+36 
+Assessment criteria  
+Distinction criteria 
+Is audible  D 
+Uses Spoken Standard English* D 
+Expresses sophisticated ideas/ information/feelings using a sophisticated 
+repertoire of vocabulary 
+D 
+Organises and structures their presentation using an effective range of 
+strategies to engage the audience 
+D 
+Achieves the purpose of their presentation D 
+Listens to questions/feedback, responds perceptively and if appropriate 
+elaborates with further ideas and information 
+D 
+ 
+* For the purposes of the spoken language assessment, use of Spoken Standard 
+English means that a learner must: 
+● be intelligible, and 
+● generally use language appropriate to the formal setting of the presentation  
+ 
+Candidates must fulfil ALL the criteria for a level in order to achieve that 
+level overall. 
+Candidates must also fulfil ALL the criteria for preceding levels, where 
+applicable. 
+ 
+ 
+Teacher Declaration  
+I declare that the work submitted for assessment has been carried out without 
+assistance other than that which is acceptable according to the rules of the 
+specification. I certify that to the best of my knowledge the evidence submitted for 
+this assignment is the learner’s own. The learner has clearly referenced any sources 
+and any artificial intelligence (AI) tools used in the work. I have not solely used AI to 
+mark the learner’s work. I understand that false declaration is a form of malpractice. 
+ 
+Teacher signature: ________________________________ Date: _____________ 
+ 
+ 
+Candidate Declaration 
+I certify that the work submitted for this assessment is my own. I have clearly 
+referenced any sources and any AI tools used in the work. I understand that false 
+declaration is a form of malpractice. I acknowledge that Pearson may use candidate 
+work for the purposes of standardisation, training, and exemplar material. 
+ 
+Candidate signature: ________________________________ Date: ____________ 
+ 
+Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language 
+Specification – Issue 6 – August 2024 © Pearson Education Limited 2024 
+37 
+ 
+ 
+Appendix 4: Spoken Language 
+Endorsement: Head of Centre Declaration 
+ 
+GCSE English Spoken Language endorsement  
+GCSE English Language (9-1) 
+Head of centre declaration 
+ 
+Centre name: 
+ 
+ 
+ 
+Centre number: 
+Exams series and year – May/June 
+ 
+ 
+Name of Head of centre (please print in block capitals)*: 
+ 
+Declaration: 
+ 
+I 
+hereby confirm that reasonable steps have been taken to ensure that all 
+candidates entered for GCSE English Language (9-1) have undertaken the Spoken 
+Language endorsement. 
+ 
+I hereby confirm that the sample is representative of the various teaching groups 
+within our centre. 
+Signature of head of centre: 
+ ________________________________________________________________  
+ 
+Date: 
+ ________________________________________________________________  
+ 
+ 
+*The head of centre is usually the head teacher or principal. 
+Please submit the completed form to Pearson along with the sample 
+student audio-visual recordings. 
+ 
+DB140824 9781446963098_GCSE_2015_L12_ENGLANG_ISS6.DOC.1–50/0 
+
+For information about Pearson Qualifications, including Pearson Edexcel, 
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office:  80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121

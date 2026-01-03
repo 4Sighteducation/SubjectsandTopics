@@ -1,0 +1,516 @@
+1. Biology Content
+   1.1 The nature and variety of living organisms
+       1.1.1 Characteristics of living organisms
+           1.1.1.1 Understand how living organisms share characteristics such as nutrition, respiration, excretion, response, movement, control of internal conditions, reproduction, growth, and development.
+       1.1.2 Variety of living organisms
+           1.1.2.1 Describe common features of eukaryotic organisms: plants, animals, fungi, and protoctists.
+           1.1.2.2 Describe common features of prokaryotic organisms such as bacteria.
+           1.1.2.3 Understand the term ‘pathogen’ and know that pathogens may include fungi, bacteria, protoctists, and viruses.
+
+   1.2 Structure and functions in living organisms
+       1.2.1 Level of organisation
+           1.2.1.1 Describe the levels of organisation in organisms: organelles, cells, tissues, organs, and systems.
+       1.2.2 Cell structure
+           1.2.2.1 Describe cell structures, including the nucleus, cytoplasm, cell membrane, cell wall, mitochondria, chloroplasts, ribosomes, and vacuole.
+           1.2.2.2 Describe the functions of the nucleus, cytoplasm, cell membrane, cell wall, mitochondria, chloroplasts, ribosomes, and vacuole.
+           1.2.2.3 Know the similarities and differences in the structure of plant and animal cells.
+       1.2.3 Biological molecules
+           1.2.3.1 Identify the chemical elements present in carbohydrates, proteins, and lipids (fats and oils).
+           1.2.3.2 Describe the structure of carbohydrates, proteins, and lipids as large molecules made up from smaller basic units.
+           1.2.3.3 Practical: Investigate food samples for the presence of glucose, starch, protein, and fat.
+           1.2.3.4 Understand the role of enzymes as biological catalysts in metabolic reactions.
+           1.2.3.5 Understand how temperature changes can affect enzyme function, including changes to the shape of the active site.
+           1.2.3.6 Practical: Investigate how enzyme activity can be affected by changes in temperature.
+           1.2.3.7 Understand how enzyme function can be affected by changes in pH altering the active site.
+       1.2.4 Movement of substances into and out of cells
+           1.2.4.1 Understand the processes of diffusion, osmosis, and active transport by which substances move into and out of cells.
+           1.2.4.2 Understand how factors affect the rate of movement of substances into and out of cells.
+           1.2.4.3 Practical: Investigate diffusion and osmosis using living and non-living systems.
+       1.2.5 Nutrition
+           1.2.5.1 Understand the process of photosynthesis and its importance in the conversion of light energy to chemical energy.
+           1.2.5.2 Know the word equation and the balanced chemical symbol equation for photosynthesis.
+           1.2.5.3 Understand how varying carbon dioxide concentration, light intensity, and temperature affect the rate of photosynthesis.
+           1.2.5.4 Describe the structure of the leaf and explain how it is adapted for photosynthesis.
+           1.2.5.5 Understand that plants require mineral ions for growth.
+           1.2.5.6 Practical: Investigate photosynthesis, showing the evolution of oxygen from a water plant.
+           1.2.5.7 Understand that a balanced diet should include appropriate proportions of carbohydrate, protein, lipid, vitamins, minerals, water, and dietary fibre.
+           1.2.5.8 Identify the sources and describe the functions of carbohydrate, protein, lipid, vitamins A, C, and D, the mineral ions calcium and iron, water, and dietary fibre as components of the diet.
+           1.2.5.9 Understand how energy requirements vary with activity levels, age, and pregnancy.
+           1.2.5.10 Describe the structure and function of the human alimentary canal.
+           1.2.5.11 Understand how food is moved through the gut by peristalsis.
+           1.2.5.12 Understand the role of digestive enzymes.
+           1.2.5.13 Understand that bile is produced by the liver and stored in the gall bladder.
+           1.2.5.14 Understand the role of bile in neutralising stomach acid and emulsifying lipids.
+           1.2.5.15 Understand how the small intestine is adapted for absorption.
+       1.2.6 Respiration
+           1.2.6.1 Understand how the process of respiration produces ATP in living organisms.
+           1.2.6.2 Know that ATP provides energy for cells.
+           1.2.6.3 Describe the differences between aerobic and anaerobic respiration.
+           1.2.6.4 Know the word equation and the balanced chemical symbol equation for aerobic respiration in living organisms.
+           1.2.6.5 Know the word equation for anaerobic respiration in plants and in animals.
+           1.2.6.6 Practical: Investigate the evolution of carbon dioxide and heat from respiring seeds or other suitable living organisms.
+       1.2.7 Gas exchange
+           1.2.7.1 Describe the structure of the thorax, including the ribs, intercostal muscles, diaphragm, trachea, bronchi, bronchioles, alveoli, and pleural membranes.
+           1.2.7.2 Understand the role of the intercostal muscles and the diaphragm in ventilation.
+           1.2.7.3 Explain how alveoli are adapted for gas exchange by diffusion between air in the lungs and blood in capillaries.
+           1.2.7.4 Understand the biological consequences of smoking in relation to the lungs and the circulatory system.
+           1.2.7.5 Practical: Investigate breathing in humans, including the release of carbon dioxide and the effect of exercise.
+       1.2.8 Transport
+           1.2.8.1 Understand why simple, unicellular organisms can rely on diffusion for movement of substances in and out of the cell.
+           1.2.8.2 Understand the need for a transport system in multicellular organisms.
+           1.2.8.3 Describe the role of phloem in transporting sucrose and amino acids between the leaves and other parts of the plant.
+           1.2.8.4 Describe the role of xylem in transporting water and mineral ions from the roots to other parts of the plant.
+           1.2.8.5 Describe the composition of the blood: red blood cells, white blood cells, platelets, and plasma.
+           1.2.8.6 Understand the role of plasma in the transport of carbon dioxide, digested food, urea, hormones, and heat energy.
+           1.2.8.7 Understand how adaptations of red blood cells make them suitable for the transport of oxygen.
+           1.2.8.8 Understand how the immune system responds to disease using white blood cells.
+           1.2.8.9 Describe the structure of the heart and how it functions.
+           1.2.8.10 Explain how the heart rate changes during exercise and under the influence of adrenaline.
+           1.2.8.11 Understand how specific factors may increase the risk of developing coronary heart disease.
+           1.2.8.12 Understand how the structure of arteries, veins, and capillaries relates to their function.
+           1.2.8.13 Understand the general structure of the circulation system.
+       1.2.9 Excretion
+           1.2.9.1 Understand the origin of carbon dioxide and oxygen as waste products of metabolism and their loss from the stomata of a leaf.
+           1.2.9.2 Know the excretory products of the lungs, kidneys, and skin (organs of excretion).
+       1.2.10 Co-ordination and response
+           1.2.10.1 Understand how organisms are able to respond to changes in their environment.
+           1.2.10.2 Understand that homeostasis is the maintenance of a constant internal environment.
+           1.2.10.3 Understand that a co-ordinated response requires a stimulus, a receptor, and an effector.
+           1.2.10.4 Understand that plants respond to stimuli.
+           1.2.10.5 Describe the geotropic and phototropic responses of roots and stems.
+           1.2.10.6 Understand the role of auxin in the phototropic response of stems.
+           1.2.10.7 Describe how nervous and hormonal communication control responses and understand the differences between the two systems.
+           1.2.10.8 Understand that the central nervous system consists of the brain and spinal cord.
+           1.2.10.9 Understand that stimulation of receptors in the sense organs sends electrical impulses along nerves into and out of the central nervous system.
+           1.2.10.10 Understand the role of neurotransmitters at synapses.
+           1.2.10.11 Describe the structure and functioning of a simple reflex arc.
+           1.2.10.12 Describe the structure and function of the eye as a receptor.
+           1.2.10.13 Understand the function of the eye in focusing on near and distant objects, and in responding to changes in light intensity.
+           1.2.10.14 Describe the role of the skin in temperature regulation.
+           1.2.10.15 Understand the sources, roles, and effects of the following hormones: adrenaline, insulin, testosterone, progesterone, and oestrogen.
+
+   1.3 Reproduction and inheritance
+       1.3.1 Reproduction
+           1.3.1.1 Understand the differences between sexual and asexual reproduction.
+           1.3.1.2 Understand that fertilisation involves the fusion of a male and female gamete to produce a zygote.
+           1.3.1.3 Describe the structures of an insect-pollinated and a wind-pollinated flower.
+           1.3.1.4 Understand that the growth of the pollen tube followed by fertilisation leads to seed and fruit formation.
+           1.3.1.5 Practical: Investigate the conditions needed for seed germination.
+           1.3.1.6 Understand how germinating seeds utilise food reserves until the seedling can carry out photosynthesis.
+           1.3.1.7 Understand that plants can reproduce asexually by natural methods and by artificial methods.
+           1.3.1.8 Understand how the structure of the male and female reproductive systems are adapted for their functions.
+           1.3.1.9 Understand the roles of oestrogen and progesterone in the menstrual cycle.
+           1.3.1.10 Describe the role of the placenta in the nutrition of the developing embryo.
+           1.3.1.11 Understand how the developing embryo is protected by amniotic fluid.
+           1.3.1.12 Understand the roles of oestrogen and testosterone in the development of secondary sexual characteristics.
+       1.3.2 Inheritance
+           1.3.2.1 Understand that the genome is the entire DNA of an organism and that a gene is a section of a molecule of DNA that codes for a specific protein.
+           1.3.2.2 Understand that the nucleus of a cell contains chromosomes on which genes are located.
+           1.3.2.3 Understand how genes exist in alternative forms called alleles, which give rise to differences in inherited characteristics.
+           1.3.2.4 Understand the meaning of the terms: dominant, recessive, homozygous, heterozygous, phenotype, and genotype.
+           1.3.2.5 Understand that most phenotypic features are the result of polygenic inheritance rather than single genes.
+           1.3.2.6 Describe patterns of monohybrid inheritance using a genetic diagram.
+           1.3.2.7 Understand how to interpret family pedigrees.
+           1.3.2.8 Predict probabilities of outcomes from monohybrid crosses.
+           1.3.2.9 Understand how the sex of a person is controlled by one pair of chromosomes, XX in a female and XY in a male.
+           1.3.2.10 Describe the determination of the sex of offspring at fertilisation, using a genetic diagram.
+           1.3.2.11 Understand how division of a diploid cell by mitosis produces two cells that contain identical sets of chromosomes.
+           1.3.2.12 Understand that mitosis occurs during growth, repair, cloning, and asexual reproduction.
+           1.3.2.13 Understand how division of a cell by meiosis produces four cells, each with half the number of chromosomes.
+           1.3.2.14 Understand how random fertilisation produces genetic variation of offspring.
+           1.3.2.15 Know that in human cells the diploid number of chromosomes is 46 and the haploid number is 23.
+           1.3.2.16 Understand that variation within a species can be genetic, environmental, or a combination of both.
+           1.3.2.17 Understand that mutation is a rare, random change in genetic material that can be inherited.
+           1.3.2.18 Explain Darwin’s theory of evolution by natural selection.
+           1.3.2.19 Understand how resistance to antibiotics can increase in bacterial populations.
+
+   1.4 Ecology and the environment
+       1.4.1 The organism in the environment
+           1.4.1.1 Understand the terms: population, community, habitat, and ecosystem.
+           1.4.1.2 Practical: Investigate the population size of an organism in two different areas using quadrats.
+           1.4.1.3 Understand how abiotic and biotic factors affect the population size and distribution of organisms.
+       1.4.2 Feeding relationships
+           1.4.2.1 Understand the names given to different trophic levels, including producers, primary, secondary, and tertiary consumers, and decomposers.
+           1.4.2.2 Understand the concepts of food chains, food webs, pyramids of number, pyramids of biomass, and pyramids of energy transfer.
+           1.4.2.3 Understand the transfer of substances and energy along a food chain.
+           1.4.2.4 Understand why only about 10 per cent of energy is transferred from one trophic level to the next.
+       1.4.3 Cycles within ecosystems
+           1.4.3.1 Describe the stages in the carbon cycle, including respiration, photosynthesis, decomposition, and combustion.
+       1.4.4 Human influences on the environment
+           1.4.4.1 Understand the biological consequences of pollution of air by sulfur dioxide and carbon monoxide.
+           1.4.4.2 Understand that water vapour, carbon dioxide, nitrous oxide, methane, and Chlorofluorocarbons (CFCs) are greenhouse gases.
+           1.4.4.3 Understand how human activities contribute to greenhouse gases.
+           1.4.4.4 Understand how an increase in greenhouse gases results in an enhanced greenhouse effect.
+           1.4.4.5 Understand the biological consequences of pollution of water by sewage.
+           1.4.4.6 Understand the biological consequences of eutrophication caused by leached minerals from fertiliser.
+
+   1.5 Use of biological resources
+       1.5.1 Food production
+           1.5.1.1 Describe how glasshouses and polythene tunnels can be used to increase the yield of certain crops.
+           1.5.1.2 Understand the effects on crop yield of increased carbon dioxide and increased temperature in glasshouses.
+           1.5.1.3 Understand how the use of fertiliser can increase crop yield.
+           1.5.1.4 Understand the reasons for pest control and the advantages and disadvantages of using pesticides and biological control with crop plants.
+           1.5.1.5 Understand the role of yeast in the production of food, including bread.
+           1.5.1.6 Practical: Investigate the role of anaerobic respiration by yeast in different conditions.
+           1.5.1.7 Understand the role of bacteria (Lactobacillus) in the production of yoghurt.
+           1.5.1.8 Understand the use of an industrial fermenter and explain the need to provide suitable conditions in the fermenter.
+       1.5.2 Selective breeding
+           1.5.2.1 Understand how selective breeding can develop plants with desired characteristics.
+           1.5.2.2 Understand how selective breeding can develop animals with desired characteristics.
+       1.5.3 Genetic modification (genetic engineering)
+           1.5.3.1 Understand how restriction enzymes are used to cut DNA at specific sites and ligase enzymes are used to join pieces of DNA together.
+           1.5.3.2 Understand how plasmids and viruses can act as vectors.
+           1.5.3.3 Understand how large amounts of human insulin can be manufactured from genetically modified bacteria.
+           1.5.3.4 Understand how genetically modified plants can be used to improve food production.
+           1.5.3.5 Understand that the term ‘transgenic’ means the transfer of genetic material from one species to a different species.
+
+2. Chemistry Content
+   2.1 Principles of chemistry
+       2.1.1 States of matter
+           2.1.1.1 Understand the three states of matter in terms of the arrangement, movement, and energy of the particles.
+           2.1.1.2 Understand the interconversions between the three states of matter.
+           2.1.1.3 Understand how the results of experiments involving the dilution of coloured solutions and diffusion of gases can be explained.
+           2.1.1.4 Know what is meant by the terms: solvent, solute, solution, saturated solution.
+       2.1.2 Elements, compounds, and mixtures
+           2.1.2.1 Understand how to classify a substance as an element, compound, or mixture.
+           2.1.2.2 Understand that a pure substance has a fixed melting and boiling point.
+           2.1.2.3 Describe experimental techniques for the separation of mixtures.
+           2.1.2.4 Understand how a chromatogram provides information about the composition of a mixture.
+           2.1.2.5 Understand how to use the calculation of Rf values to identify the components of a mixture.
+           2.1.2.6 Practical: Investigate paper chromatography using inks/food colourings.
+       2.1.3 Atomic structure
+           2.1.3.1 Know what is meant by the terms ‘atom’ and ‘molecule’.
+           2.1.3.2 Know the structure of an atom in terms of the positions, relative masses, and relative charges of sub-atomic particles.
+           2.1.3.3 Know what is meant by the terms: atomic number, mass number, isotopes, and relative atomic mass (Ar).
+           2.1.3.4 Be able to calculate the relative atomic mass of an element (Ar) from isotopic abundances.
+       2.1.4 The Periodic Table
+           2.1.4.1 Understand how elements are arranged in the Periodic Table.
+           2.1.4.2 Understand how to deduce the electronic configurations of the first 20 elements from their positions in the Periodic Table.
+           2.1.4.3 Understand how to use electrical conductivity and the acid-base character of oxides to classify elements as metals or non-metals.
+           2.1.4.4 Identify an element as a metal or a non-metal according to its position in the Periodic Table.
+           2.1.4.5 Understand how the electronic configuration of a main group element is related to its position in the Periodic Table.
+           2.1.4.6 Understand why elements in the same group of the Periodic Table have similar chemical properties.
+           2.1.4.7 Understand why the noble gases (Group 0) do not readily react.
+       2.1.5 Chemical formulae, equations, and calculations
+           2.1.5.1 Write word equations and balanced chemical equations (including state symbols).
+           2.1.5.2 Calculate relative formula masses (including relative molecular masses) (Mr) from relative atomic masses (Ar).
+           2.1.5.3 Know that the mole (mol) is the unit for the amount of a substance.
+           2.1.5.4 Understand how to carry out calculations involving amount of substance, relative atomic mass (Ar), and relative formula mass (Mr).
+           2.1.5.5 Calculate reacting masses using experimental data and chemical equations.
+           2.1.5.6 Calculate percentage yield.
+           2.1.5.7 Understand how the formulae of simple compounds can be obtained experimentally.
+           2.1.5.8 Know what is meant by the terms ‘empirical formula’ and ‘molecular formula’.
+           2.1.5.9 Calculate empirical and molecular formulae from experimental data.
+           2.1.5.10 Practical: Know how to determine the formula of a metal oxide by combustion or by reduction.
+       2.1.6 Ionic bonding
+           2.1.6.1 Understand how ions are formed by electron loss or gain.
+           2.1.6.2 Know the charges of specific ions.
+           2.1.6.3 Write formulae for compounds formed between specific ions.
+           2.1.6.4 Draw dot-and-cross diagrams to show the formation of ionic compounds by electron transfer.
+           2.1.6.5 Understand ionic bonding in terms of electrostatic attractions.
+           2.1.6.6 Understand why compounds with giant ionic lattices have high melting and boiling points.
+           2.1.6.7 Know that ionic compounds do not conduct electricity when solid, but do conduct electricity when molten and in aqueous solution.
+       2.1.7 Covalent bonding
+           2.1.7.1 Know that a covalent bond is formed between atoms by the sharing of a pair of electrons.
+           2.1.7.2 Understand covalent bonds in terms of electrostatic attractions.
+           2.1.7.3 Understand how to use dot-and-cross diagrams to represent covalent bonds in various molecules.
+           2.1.7.4 Explain why substances with simple molecular structures are gases or liquids, or solids with low melting and boiling points.
+           2.1.7.5 Explain why the melting and boiling points of substances with simple molecular structures increase with increasing relative molecular mass.
+           2.1.7.6 Explain why substances with giant covalent structures are solids with high melting and boiling points.
+           2.1.7.7 Explain how the structures of diamond, graphite, and C60 fullerene influence their physical properties.
+           2.1.7.8 Know that covalent compounds do not usually conduct electricity.
+
+   2.2 Inorganic chemistry
+       2.2.1 Group 1 (alkali metals) – lithium, sodium, and potassium
+           2.2.1.1 Understand how the similarities in the reactions of these elements with water provide evidence for their recognition as a family of elements.
+           2.2.1.2 Understand how the differences between the reactions of these elements with air and water provide evidence for the trend in reactivity in Group 1.
+           2.2.1.3 Use knowledge of trends in Group 1 to predict the properties of other alkali metals.
+       2.2.2 Group 7 (halogens) – chlorine, bromine, and iodine
+           2.2.2.1 Know the colours, physical states (at room temperature), and trends in physical properties of these elements.
+           2.2.2.2 Use knowledge of trends in Group 7 to predict the properties of other halogens.
+           2.2.2.3 Understand how displacement reactions involving halogens and halides provide evidence for the trend in reactivity in Group 7.
+       2.2.3 Gases in the atmosphere
+           2.2.3.1 Know the approximate percentages by volume of the four most abundant gases in dry air.
+           2.2.3.2 Understand how to determine the percentage by volume of oxygen in air using experiments.
+           2.2.3.3 Describe the combustion of elements in oxygen.
+           2.2.3.4 Describe the formation of carbon dioxide from the thermal decomposition of metal carbonates.
+           2.2.3.5 Know that carbon dioxide is a greenhouse gas and that increasing amounts in the atmosphere may contribute to climate change.
+           2.2.3.6 Practical: Determine the approximate percentage by volume of oxygen in air using a metal or a non-metal.
+       2.2.4 Reactivity series
+           2.2.4.1 Understand how metals can be arranged in a reactivity series based on their reactions with water and dilute acids.
+           2.2.4.2 Understand how metals can be arranged in a reactivity series based on their displacement reactions.
+           2.2.4.3 Know the order of reactivity of specific metals.
+           2.2.4.4 Know the conditions under which iron rusts.
+           2.2.4.5 Understand how the rusting of iron may be prevented.
+           2.2.4.6 Understand the terms: oxidation, reduction, redox, oxidising agent, reducing agent.
+           2.2.4.7 Practical: Investigate reactions between dilute acids and metals.
+       2.2.5 Acids, alkalis, and titrations
+           2.2.5.1 Describe the use of litmus, phenolphthalein, and methyl orange to distinguish between acidic and alkaline solutions.
+           2.2.5.2 Understand how to use the pH scale to classify solutions.
+           2.2.5.3 Describe the use of universal indicator to measure the approximate pH value of an aqueous solution.
+           2.2.5.4 Know that acids in aqueous solution are a source of hydrogen ions and alkalis in aqueous solution are a source of hydroxide ions.
+           2.2.5.5 Know that alkalis can neutralise acids.
+       2.2.6 Acids, bases, and salt preparations
+           2.2.6.1 Know the general rules for predicting the solubility of ionic compounds in water.
+           2.2.6.2 Understand acids and bases in terms of proton transfer.
+           2.2.6.3 Understand that an acid is a proton donor and a base is a proton acceptor.
+           2.2.6.4 Describe the reactions of specific acids with metals, bases, and metal carbonates to form salts.
+           2.2.6.5 Know that metal oxides, metal hydroxides, and ammonia can act as bases.
+           2.2.6.6 Describe an experiment to prepare a pure, dry sample of a soluble salt.
+           2.2.6.7 Practical: Prepare a sample of pure, dry hydrated copper(II) sulfate crystals starting from copper(II) oxide.
+       2.2.7 Chemical tests
+           2.2.7.1 Describe tests for specific gases.
+           2.2.7.2 Describe how to carry out a flame test.
+           2.2.7.3 Know the colours formed in flame tests for specific cations.
+           2.2.7.4 Describe tests for specific cations.
+           2.2.7.5 Describe tests for specific anions.
+           2.2.7.6 Describe a test for the presence of water using anhydrous copper(II) sulfate.
+           2.2.7.7 Describe a physical test to show whether a sample of water is pure.
+
+   2.3 Physical chemistry
+       2.3.1 Energetics
+           2.3.1.1 Know that chemical reactions in which heat energy is given out are described as exothermic and those in which heat energy is taken in are described as endothermic.
+           2.3.1.2 Describe simple calorimetry experiments for reactions.
+           2.3.1.3 Calculate the heat energy change from a measured temperature change.
+           2.3.1.4 Calculate the molar enthalpy change (ΔH) from the heat energy change.
+           2.3.1.5 Practical: Investigate temperature changes accompanying some types of change.
+       2.3.2 Rates of reaction
+           2.3.2.1 Describe experiments to investigate the effects of changes in surface area, concentration, temperature, and the use of a catalyst on the rate of a reaction.
+           2.3.2.2 Describe the effects of changes in surface area, concentration, pressure, temperature, and the use of a catalyst on the rate of a reaction.
+           2.3.2.3 Explain the effects of changes in surface area, concentration, pressure, and temperature on the rate of a reaction in terms of particle collision theory.
+           2.3.2.4 Know that a catalyst is a substance that increases the rate of a reaction, but is chemically unchanged at the end of the reaction.
+           2.3.2.5 Know that a catalyst works by providing an alternative pathway with lower activation energy.
+           2.3.2.6 Practical: Investigate the effect of changing the surface area of marble chips and of changing the concentration of hydrochloric acid on the rate of reaction.
+           2.3.2.7 Practical: Investigate the effect of different solids on the catalytic decomposition of hydrogen peroxide solution.
+       2.3.3 Reversible reactions and equilibria
+           2.3.3.1 Know that some reactions are reversible and that this is indicated by the symbol ⇌ in equations.
+           2.3.3.2 Describe reversible reactions such as the dehydration of hydrated copper(II) sulfate and the effect of heat on ammonium chloride.
+
+   2.4 Organic chemistry
+       2.4.1 Introduction
+           2.4.1.1 Know that a hydrocarbon is a compound of hydrogen and carbon only.
+           2.4.1.2 Understand how to represent organic molecules using empirical formulae, molecular formulae, general formulae, structural formulae, and displayed formulae.
+           2.4.1.3 Know what is meant by the terms: homologous series, functional group, and isomerism.
+           2.4.1.4 Understand how to name compounds relevant to this specification using the rules of International Union of Pure and Applied Chemistry (IUPAC) nomenclature.
+           2.4.1.5 Understand how to write the possible structural and displayed formulae of an organic molecule given its molecular formula.
+           2.4.1.6 Understand how to classify reactions of organic compounds as substitution, addition, and combustion.
+       2.4.2 Crude oil
+           2.4.2.1 Know that crude oil is a mixture of hydrocarbons.
+           2.4.2.2 Describe how the industrial process of fractional distillation separates crude oil into fractions.
+           2.4.2.3 Know the names and uses of the main fractions obtained from crude oil.
+           2.4.2.4 Know the trend in colour, boiling point, and viscosity of the main fractions.
+           2.4.2.5 Know that a fuel is a substance that, when burned, releases heat energy.
+           2.4.2.6 Know the possible products of complete and incomplete combustion of hydrocarbons with oxygen in the air.
+           2.4.2.7 Understand why carbon monoxide is poisonous.
+           2.4.2.8 Know that, in car engines, the temperature reached is high enough to allow nitrogen and oxygen from air to react, forming oxides of nitrogen.
+           2.4.2.9 Explain how the combustion of some impurities in hydrocarbon fuels results in the formation of sulfur dioxide.
+           2.4.2.10 Understand how sulfur dioxide and oxides of nitrogen contribute to acid rain.
+           2.4.2.11 Describe how long-chain alkanes are converted to alkenes and shorter-chain alkanes by catalytic cracking.
+           2.4.2.12 Explain why cracking is necessary, in terms of the balance between supply and demand for different fractions.
+       2.4.3 Alkanes
+           2.4.3.1 Know the general formula for alkanes.
+           2.4.3.2 Explain why alkanes are classified as saturated hydrocarbons.
+           2.4.3.3 Understand how to draw the structural and displayed formulae for alkanes with up to five carbon atoms in the molecule, and to name the unbranched-chain isomers.
+           2.4.3.4 Describe the reactions of alkanes with halogens in the presence of ultraviolet radiation.
+       2.4.4 Alkenes
+           2.4.4.1 Know that alkenes contain the functional group >C=C<.
+           2.4.4.2 Know the general formula for alkenes.
+           2.4.4.3 Explain why alkenes are classified as unsaturated hydrocarbons.
+           2.4.4.4 Understand how to draw the structural and displayed formulae for alkenes with up to four carbon atoms in the molecule, and name the unbranched-chain isomers.
+           2.4.4.5 Describe the reactions of alkenes with bromine to produce dibromoalkanes.
+           2.4.4.6 Describe how bromine water can be used to distinguish between an alkane and an alkene.
+       2.4.5 Synthetic polymers
+           2.4.5.1 Know that an addition polymer is formed by joining up many small molecules called monomers.
+           2.4.5.2 Understand how to draw the repeat unit of an addition polymer.
+           2.4.5.3 Understand how to deduce the structure of a monomer from the repeat unit of an addition polymer and vice versa.
+           2.4.5.4 Explain problems in the disposal of addition polymers.
+
+3. Physics Content
+   3.1 Forces and motion
+       3.1.1 Units
+           3.1.1.1 Use the following units: kilogram (kg), metre (m), metre/second (m/s), metre/second2 (m/s2), newton (N), second (s), and newton/kilogram (N/kg).
+       3.1.2 Movement and position
+           3.1.2.1 Plot and explain distance-time graphs.
+           3.1.2.2 Know and use the relationship between average speed, distance moved, and time taken.
+           3.1.2.3 Practical: Investigate the motion of everyday objects such as toy cars or tennis balls.
+           3.1.2.4 Know and use the relationship between acceleration, change in velocity, and time taken.
+           3.1.2.5 Plot and explain velocity-time graphs.
+           3.1.2.6 Determine acceleration from the gradient of a velocity-time graph.
+           3.1.2.7 Determine the distance travelled from the area between a velocity-time graph and the time axis.
+           3.1.2.8 Use the relationship between final speed, initial speed, acceleration, and distance moved.
+       3.1.3 Forces, movement, shape, and momentum
+           3.1.3.1 Describe the effects of forces between bodies such as changes in speed, shape, or direction.
+           3.1.3.2 Identify different types of force such as gravitational or electrostatic.
+           3.1.3.3 Understand how vector quantities differ from scalar quantities.
+           3.1.3.4 Understand that force is a vector quantity.
+           3.1.3.5 Calculate the resultant force of forces that act along a line.
+           3.1.3.6 Know that friction is a force that opposes motion.
+           3.1.3.7 Know and use the relationship between unbalanced force, mass, and acceleration.
+           3.1.3.8 Know and use the relationship between weight, mass, and gravitational field strength.
+           3.1.3.9 Know that the stopping distance of a vehicle is made up of the sum of the thinking distance and the braking distance.
+           3.1.3.10 Describe the factors affecting vehicle stopping distance.
+           3.1.3.11 Describe the forces acting on falling objects.
+           3.1.3.12 Practical: Investigate how extension varies with applied force for helical springs, metal wires, and rubber bands.
+           3.1.3.13 Know that the initial linear region of a force-extension graph is associated with Hooke’s law.
+           3.1.3.14 Describe elastic behaviour as the ability of a material to recover its original shape after the forces causing deformation have been removed.
+
+   3.2 Electricity
+       3.2.1 Units
+           3.2.1.1 Use the following units: ampere (A), coulomb (C), joule (J), ohm (Ω), second (s), volt (V), and watt (W).
+       3.2.2 Mains electricity
+           3.2.2.1 Understand how the use of insulation, double insulation, earthing, fuses, and circuit breakers protects the device or user in a range of domestic appliances.
+           3.2.2.2 Understand why a current in a resistor results in the electrical transfer of energy and an increase in temperature.
+           3.2.2.3 Know and use the relationship between power, current, and voltage.
+           3.2.2.4 Use the relationship between energy transferred, current, voltage, and time.
+           3.2.2.5 Know the difference between mains electricity being alternating current (a.c.) and direct current (d.c.) being supplied by a cell or battery.
+       3.2.3 Energy and voltage in circuits
+           3.2.3.1 Explain why a series or parallel circuit is more appropriate for particular applications.
+           3.2.3.2 Understand how the current in a series circuit depends on the applied voltage and the number and nature of other components.
+           3.2.3.3 Describe how current varies with voltage in wires, resistors, metal filament lamps, and diodes, and how to investigate this experimentally.
+           3.2.3.4 Describe the qualitative effect of changing resistance on the current in a circuit.
+           3.2.3.5 Describe the qualitative variation of resistance of light-dependent resistors (LDRs) with illumination and of thermistors with temperature.
+           3.2.3.6 Know that lamps and LEDs can be used to indicate the presence of a current in a circuit.
+           3.2.3.7 Know and use the relationship between voltage, current, and resistance.
+           3.2.3.8 Know that current is the rate of flow of charge.
+           3.2.3.9 Know and use the relationship between charge, current, and time.
+           3.2.3.10 Know that electric current in solid metallic conductors is a flow of negatively charged electrons.
+           3.2.3.11 Understand why current is conserved at a junction in a circuit.
+           3.2.3.12 Know that the voltage across two components connected in parallel is the same.
+           3.2.3.13 Calculate the currents, voltages, and resistances of two resistive components connected in a series circuit.
+           3.2.3.14 Know that voltage is the energy transferred per unit charge passed.
+           3.2.3.15 Know and use the relationship between energy transferred, charge, and voltage.
+
+   3.3 Waves
+       3.3.1 Units
+           3.3.1.1 Use the following units: degree (°), hertz (Hz), metre (m), metre/second (m/s), and second (s).
+       3.3.2 Properties of waves
+           3.3.2.1 Explain the difference between longitudinal and transverse waves.
+           3.3.2.2 Know the definitions of amplitude, wavefront, frequency, wavelength, and period of a wave.
+           3.3.2.3 Know that waves transfer energy and information without transferring matter.
+           3.3.2.4 Know and use the relationship between the speed, frequency, and wavelength of a wave.
+           3.3.2.5 Use the relationship between frequency and time period.
+           3.3.2.6 Use the above relationships in different contexts, including sound waves and electromagnetic waves.
+           3.3.2.7 Explain why there is a change in the observed frequency and wavelength of a wave when its source is moving relative to an observer.
+           3.3.2.8 Explain that all waves can be reflected and refracted.
+       3.3.3 The electromagnetic spectrum
+           3.3.3.1 Know that light is part of a continuous electromagnetic spectrum that includes radio, microwave, infrared, visible, ultraviolet, x-ray, and gamma ray radiations.
+           3.3.3.2 Know the order of the electromagnetic spectrum in terms of decreasing wavelength and increasing frequency.
+           3.3.3.3 Explain some of the uses of electromagnetic radiations.
+           3.3.3.4 Explain the detrimental effects of excessive exposure of the human body to electromagnetic waves.
+       3.3.4 Light and sound
+           3.3.4.1 Know that light waves are transverse waves and that they can be reflected and refracted.
+           3.3.4.2 Use the law of reflection.
+           3.3.4.3 Draw ray diagrams to illustrate reflection and refraction.
+           3.3.4.4 Practical: Investigate the refraction of light, using rectangular blocks, semi-circular blocks, and triangular prisms.
+           3.3.4.5 Know and use the relationship between refractive index, angle of incidence, and angle of refraction.
+           3.3.4.6 Practical: Investigate the refractive index of glass, using a glass block.
+           3.3.4.7 Describe the role of total internal reflection in transmitting information along optical fibres and in prisms.
+           3.3.4.8 Explain the meaning of critical angle.
+           3.3.4.9 Know and use the relationship between critical angle and refractive index.
+           3.3.4.10 Know that sound waves are longitudinal waves which can be reflected and refracted.
+
+   3.4 Energy resources and energy transfers
+       3.4.1 Units
+           3.4.1.1 Use the following units: kilogram (kg), joule (J), metre (m), metre/second (m/s), metre/second2 (m/s2), newton (N), second (s), and watt (W).
+       3.4.2 Energy transfers
+           3.4.2.1 Describe energy transfers involving energy stores.
+           3.4.2.2 Use the principle of conservation of energy.
+           3.4.2.3 Know and use the relationship between efficiency, useful energy output, and total energy output.
+           3.4.2.4 Describe a variety of everyday and scientific devices and situations, explaining the transfer of the input energy.
+           3.4.2.5 Describe how thermal energy transfer may take place by conduction, convection, and radiation.
+           3.4.2.6 Explain the role of convection in everyday phenomena.
+           3.4.2.7 Explain how emission and absorption of radiation are related to surface and temperature.
+           3.4.2.8 Practical: Investigate thermal energy transfer by conduction, convection, and radiation.
+           3.4.2.9 Explain ways of reducing unwanted energy transfer, such as insulation.
+       3.4.3 Work and power
+           3.4.3.1 Know and use the relationship between work done, force, and distance moved in the direction of the force.
+           3.4.3.2 Know that work done is equal to energy transferred.
+           3.4.3.3 Know and use the relationship between gravitational potential energy, mass, gravitational field strength, and height.
+           3.4.3.4 Know and use the relationship for kinetic energy.
+           3.4.3.5 Understand how conservation of energy produces a link between gravitational potential energy, kinetic energy, and work.
+           3.4.3.6 Describe power as the rate of transfer of energy or the rate of doing work.
+           3.4.3.7 Use the relationship between power, work done (energy transferred), and time taken.
+
+   3.5 Solids, liquids, and gases
+       3.5.1 Units
+           3.5.1.1 Use the following units: degree Celsius (°C), Kelvin (K), joule (J), kilogram (kg), kilogram/metre3 (kg/m3), metre (m), metre2 (m2), metre3 (m3), metre/second (m/s), metre/second2 (m/s2), newton (N), and pascal (Pa).
+       3.5.2 Density and pressure
+           3.5.2.1 Know and use the relationship between density, mass, and volume.
+           3.5.2.2 Practical: Investigate density using direct measurements of mass and volume.
+           3.5.2.3 Know and use the relationship between pressure, force, and area.
+           3.5.2.4 Understand how the pressure at a point in a gas or liquid at rest acts equally in all directions.
+           3.5.2.5 Know and use the relationship for pressure difference.
+       3.5.3 Ideal gas molecules
+           3.5.3.1 Explain how molecules in a gas have random motion and that they exert a force and hence a pressure on the walls of a container.
+           3.5.3.2 Understand why there is an absolute zero of temperature which is –273 °C.
+           3.5.3.3 Describe the Kelvin scale of temperature and be able to convert between the Kelvin and Celsius scales.
+           3.5.3.4 Understand why an increase in temperature results in an increase in the average speed of gas molecules.
+           3.5.3.5 Know that the Kelvin temperature of a gas is proportional to the average kinetic energy of its molecules.
+           3.5.3.6 Explain, for a fixed amount of gas, the qualitative relationship between pressure and volume at constant temperature and pressure and Kelvin temperature at constant volume.
+           3.5.3.7 Use the relationship between the pressure and Kelvin temperature of a fixed mass of gas at constant volume.
+           3.5.3.8 Use the relationship between the pressure and volume of a fixed mass of gas at constant temperature.
+
+   3.6 Magnetism and electromagnetism
+       3.6.1 Units
+           3.6.1.1 Use the following units: ampere (A), volt (V), and watt (W).
+       3.6.2 Magnetism
+           3.6.2.1 Know that magnets repel and attract other magnets and attract magnetic substances.
+           3.6.2.2 Describe the properties of magnetically hard and soft materials.
+           3.6.2.3 Understand the term magnetic field line.
+           3.6.2.4 Know that magnetism is induced in some materials when they are placed in a magnetic field.
+           3.6.2.5 Practical: Investigate the magnetic field pattern for a permanent bar magnet and between two bar magnets.
+           3.6.2.6 Describe how to use two permanent magnets to produce a uniform magnetic field pattern.
+       3.6.3 Electromagnetism
+           3.6.3.1 Know that an electric current in a conductor produces a magnetic field around it.
+           3.6.3.2 Understand why a force is exerted on a current-carrying wire in a magnetic field, and how this effect is applied in simple d.c. electric motors and loudspeakers.
+           3.6.3.3 Use the left-hand rule to predict the direction of the resulting force when a wire carries a current perpendicular to a magnetic field.
+           3.6.3.4 Describe how the force on a current-carrying conductor in a magnetic field changes with the magnitude and direction of the field and current.
+       3.6.4 Electromagnetic induction
+           3.6.4.1 Know that a voltage is induced in a conductor or a coil when it moves through a magnetic field or when a magnetic field changes through it and describe the factors that affect the size of the induced voltage.
+           3.6.4.2 Describe the generation of electricity by the rotation of a magnet within a coil of wire and of a coil of wire within a magnetic field, and describe the factors that affect the size of the induced voltage.
+
+   3.7 Radioactivity and particles
+       3.7.1 Units
+           3.7.1.1 Use the following units: becquerel (Bq), centimetre (cm), hour (h), minute (min), and second (s).
+       3.7.2 Radioactivity
+           3.7.2.1 Describe the structure of an atom in terms of protons, neutrons, and electrons and use symbols to describe particular nuclei.
+           3.7.2.2 Know the terms: atomic (proton) number, mass (nucleon) number, and isotope.
+           3.7.2.3 Know that alpha (α) particles, beta (β−) particles, and gamma (γ) rays are ionising radiations emitted from unstable nuclei in a random process.
+           3.7.2.4 Describe the nature of alpha (α) particles, beta (β−) particles, and gamma (γ) rays, and recall that they may be distinguished in terms of penetrating power and ability to ionise.
+           3.7.2.5 Practical: Investigate the penetration powers of different types of radiation using either radioactive sources or simulations.
+           3.7.2.6 Describe the effects on the atomic and mass numbers of a nucleus of the emission of each of the four main types of radiation.
+           3.7.2.7 Understand how to balance nuclear equations in terms of mass and charge.
+           3.7.2.8 Know that photographic film or a Geiger-Müller detector can detect ionising radiations.
+           3.7.2.9 Explain the sources of background (ionising) radiation from Earth and space.
+           3.7.2.10 Know that the activity of a radioactive source decreases over a period of time and is measured in becquerels.
+           3.7.2.11 Know the definition of the term ‘half-life’ and understand that it is different for different radioactive isotopes.
+           3.7.2.12 Use the concept of the ‘half-life’ to carry out simple calculations on activity, including graphical methods.
+           3.7.2.13 Describe uses of radioactivity in industry and medicine.
+           3.7.2.14 Describe the difference between contamination and irradiation.
+           3.7.2.15 Describe the dangers of ionising radiations.
+       3.7.3 Fission and fusion
+           3.7.3.1 Know that nuclear reactions, including fission, fusion, and radioactive decay, can be a source of energy.
+           3.7.3.2 Understand how a nucleus of U-235 can be split (the process of fission) by collision with a neutron, and that this process releases energy as kinetic energy of the fission products.
+           3.7.3.3 Know that the fission of U-235 produces two radioactive daughter nuclei and a small number of neutrons.
+           3.7.3.4 Describe how a chain reaction can be set up if the neutrons produced by one fission strike other U-235 nuclei.
+           3.7.3.5 Describe the role played by the control rods and moderator in the fission process.
+           3.7.3.6 Understand the role of shielding around a nuclear reactor.
+           3.7.3.7 Explain the difference between nuclear fusion and nuclear fission.
+           3.7.3.8 Describe nuclear fusion as the creation of larger nuclei resulting in a loss of mass from smaller nuclei, accompanied by a release of energy.
+           3.7.3.9 Know that fusion is the energy source for stars.
+           3.7.3.10 Explain why nuclear fusion does not happen at low temperatures and pressures.
+
+   3.8 Astrophysics
+       3.8.1 Units
+           3.8.1.1 Use the following units: kilogram (kg), metre (m), metre/second (m/s), metre/second2 (m/s2), newton (N), second (s), newton/kilogram (N/kg).
+       3.8.2 Motion in the universe
+           3.8.2.1 Know that the universe is a large collection of billions of galaxies.
+           3.8.2.2 Understand why gravitational field strength, g, varies and know that it is different on other planets and the Moon from that on the Earth.
+           3.8.2.3 Explain that gravitational force causes moons to orbit planets, causes the planets to orbit the Sun, causes artificial satellites to orbit the Earth, and causes comets to orbit the Sun.
+           3.8.2.4 Describe the differences in the orbits of comets, moons, and planets.
+           3.8.2.5 Use the relationship between orbital speed, orbital radius, and time period.
+       3.8.3 Stellar evolution
+           3.8.3.1 Understand how stars can be classified according to their colour.
+           3.8.3.2 Know that a star’s colour is related to its temperature.
+           3.8.3.3 Describe the evolution of stars of similar mass to the Sun through specific stages.
+           3.8.3.4 Describe the evolution of stars with a mass larger than the Sun.

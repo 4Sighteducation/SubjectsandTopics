@@ -1,0 +1,316 @@
+{
+  "batch_name": "International GCSE Overnight Batch",
+  "start_time": "2025-11-15T23:34:57.930962",
+  "end_time": "2025-11-16T08:22:55.727858",
+  "elapsed_seconds": 31677.79607605934,
+  "elapsed_formatted": "8.8 hours",
+  "summary": {
+    "total": 37,
+    "success": 32,
+    "failed": 5,
+    "total_topics": 3351
+  },
+  "results": [
+    {
+      "code": "IG-Accounting",
+      "name": "Accounting",
+      "status": "success",
+      "topics": 97,
+      "time_seconds": 81.33121252059937
+    },
+    {
+      "code": "IG-Arabic",
+      "name": "Arabic as a first language",
+      "status": "success",
+      "topics": 45,
+      "time_seconds": 22.506173610687256
+    },
+    {
+      "code": "IG-Art",
+      "name": "Art and Design",
+      "status": "success",
+      "topics": 177,
+      "time_seconds": 68.52544736862183
+    },
+    {
+      "code": "IG-Bangla",
+      "name": "Bangla",
+      "status": "success",
+      "topics": 56,
+      "time_seconds": 46.818352937698364
+    },
+    {
+      "code": "IG-BangladeshStudies",
+      "name": "Bangladesh Studies",
+      "status": "success",
+      "topics": 155,
+      "time_seconds": 46.92188000679016
+    },
+    {
+      "code": "IG-Biology",
+      "name": "Biology",
+      "status": "success",
+      "topics": 203,
+      "time_seconds": 105.01027750968933
+    },
+    {
+      "code": "IG-Business",
+      "name": "Business",
+      "status": "success",
+      "topics": 89,
+      "time_seconds": 89.31962323188782
+    },
+    {
+      "code": "IG-Chemistry",
+      "name": "Chemistry",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 287.5261445045471
+    },
+    {
+      "code": "IG-Chinese",
+      "name": "Chinese",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 2.715847969055176
+    },
+    {
+      "code": "IG-Commerce",
+      "name": "Commerce",
+      "status": "success",
+      "topics": 229,
+      "time_seconds": 124.07794880867004
+    },
+    {
+      "code": "IG-ComputerScience",
+      "name": "Computer Science",
+      "status": "success",
+      "topics": 116,
+      "time_seconds": 74.22210192680359
+    },
+    {
+      "code": "IG-Economics",
+      "name": "Economics",
+      "status": "success",
+      "topics": 69,
+      "time_seconds": 29.132251262664795
+    },
+    {
+      "code": "IG-EnglishESL",
+      "name": "English (as 2nd language)",
+      "status": "success",
+      "topics": 66,
+      "time_seconds": 57.596264600753784
+    },
+    {
+      "code": "IG-EnglishLanguageA",
+      "name": "English Language A",
+      "status": "success",
+      "topics": 34,
+      "time_seconds": 31.78716540336609
+    },
+    {
+      "code": "IG-EnglishLanguageB",
+      "name": "English Language B",
+      "status": "success",
+      "topics": 33,
+      "time_seconds": 28.81184673309326
+    },
+    {
+      "code": "IG-EnglishLiterature",
+      "name": "English Literature",
+      "status": "success",
+      "topics": 31,
+      "time_seconds": 24.919638633728027
+    },
+    {
+      "code": "IG-French",
+      "name": "French",
+      "status": "success",
+      "topics": 56,
+      "time_seconds": 57.23480010032654
+    },
+    {
+      "code": "IG-MathematicsA",
+      "name": "Mathematics A",
+      "status": "success",
+      "topics": 190,
+      "time_seconds": 119.1434555053711
+    },
+    {
+      "code": "IG-MathematicsB",
+      "name": "Mathematics B",
+      "status": "success",
+      "topics": 89,
+      "time_seconds": 50.71820116043091
+    },
+    {
+      "code": "IG-FurtherPureMaths",
+      "name": "Further Pure Mathematics",
+      "status": "success",
+      "topics": 54,
+      "time_seconds": 36.68625473976135
+    },
+    {
+      "code": "IG-Geography",
+      "name": "Geography",
+      "status": "success",
+      "topics": 120,
+      "time_seconds": 66.72162365913391
+    },
+    {
+      "code": "IG-German",
+      "name": "German",
+      "status": "success",
+      "topics": 69,
+      "time_seconds": 59.005484104156494
+    },
+    {
+      "code": "IG-GlobalCitizenship",
+      "name": "Global Citizenship",
+      "status": "success",
+      "topics": 143,
+      "time_seconds": 103.8467526435852
+    },
+    {
+      "code": "IG-Greek",
+      "name": "Greek as a first language",
+      "status": "success",
+      "topics": 65,
+      "time_seconds": 36.5787136554718
+    },
+    {
+      "code": "IG-History",
+      "name": "History",
+      "status": "success",
+      "topics": 130,
+      "time_seconds": 53.889641761779785
+    },
+    {
+      "code": "IG-HumanBiology",
+      "name": "Human Biology",
+      "status": "timeout",
+      "time_seconds": 300
+    },
+    {
+      "code": "IG-ICT",
+      "name": "Information and Communication Technology",
+      "status": "success",
+      "topics": 183,
+      "time_seconds": 109.43026375770569
+    },
+    {
+      "code": "IG-IslamicStudies",
+      "name": "Islamic Studies",
+      "status": "success",
+      "topics": 124,
+      "time_seconds": 55.30304002761841
+    },
+    {
+      "code": "IG-PakistanStudies",
+      "name": "Pakistan Studies",
+      "status": "success",
+      "topics": 125,
+      "time_seconds": 183.8148021697998
+    },
+    {
+      "code": "IG-Physics",
+      "name": "Physics",
+      "status": "timeout",
+      "time_seconds": 300
+    },
+    {
+      "code": "IG-ReligiousStudies",
+      "name": "Religious Studies",
+      "status": "success",
+      "topics": 41,
+      "time_seconds": 32.65120983123779
+    },
+    {
+      "code": "IG-ScienceDoubleAward",
+      "name": "Science (Double Award)",
+      "status": "failed",
+      "error": "ssing from /Page, defaulting to MediaBox\nCropBox missing from /Page, defaulting to MediaBox\nCropBox missing from /Page, defaulting to MediaBox\nCropBox missing from /Page, defaulting to MediaBox\nCropBox missing from /Page, defaulting to MediaBox\nCropBox missing from /Page, defaulting to MediaBox\nCropBox missing from /Page, defaulting to MediaBox\nCropBox missing from /Page, defaulting to MediaBox\nCropBox missing from /Page, defaulting to MediaBox\nCropBox missing from /Page, defaulting to MediaBox\n",
+      "time_seconds": 206.3629539012909
+    },
+    {
+      "code": "IG-ScienceSingleAward",
+      "name": "Science (Single Award)",
+      "status": "success",
+      "topics": 331,
+      "time_seconds": 153.04814195632935
+    },
+    {
+      "code": "IG-Sinhala",
+      "name": "Sinhala",
+      "status": "success",
+      "topics": 56,
+      "time_seconds": 43.124242544174194
+    },
+    {
+      "code": "IG-Spanish",
+      "name": "Spanish",
+      "status": "success",
+      "topics": 56,
+      "time_seconds": 31.972720623016357
+    },
+    {
+      "code": "IG-Swahili",
+      "name": "Swahili",
+      "status": "success",
+      "topics": 63,
+      "time_seconds": 33.55098247528076
+    },
+    {
+      "code": "IG-Tamil",
+      "name": "Tamil",
+      "status": "success",
+      "topics": 56,
+      "time_seconds": 40.6177442073822
+    }
+  ],
+  "checkpoint": {
+    "completed": [
+      "IG-Accounting",
+      "IG-Arabic",
+      "IG-Art",
+      "IG-Bangla",
+      "IG-BangladeshStudies",
+      "IG-Biology",
+      "IG-Business",
+      "IG-Commerce",
+      "IG-ComputerScience",
+      "IG-Economics",
+      "IG-EnglishESL",
+      "IG-EnglishLanguageA",
+      "IG-EnglishLanguageB",
+      "IG-EnglishLiterature",
+      "IG-French",
+      "IG-MathematicsA",
+      "IG-MathematicsB",
+      "IG-FurtherPureMaths",
+      "IG-Geography",
+      "IG-German",
+      "IG-GlobalCitizenship",
+      "IG-Greek",
+      "IG-History",
+      "IG-ICT",
+      "IG-IslamicStudies",
+      "IG-PakistanStudies",
+      "IG-ReligiousStudies",
+      "IG-ScienceSingleAward",
+      "IG-Sinhala",
+      "IG-Spanish",
+      "IG-Swahili",
+      "IG-Tamil"
+    ],
+    "failed": [
+      "IG-Chemistry",
+      "IG-Chinese",
+      "IG-HumanBiology",
+      "IG-Physics",
+      "IG-ScienceDoubleAward"
+    ],
+    "skipped": []
+  }
+}

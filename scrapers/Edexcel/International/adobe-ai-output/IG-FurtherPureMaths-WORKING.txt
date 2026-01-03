@@ -1,0 +1,54 @@
+1. Further Pure Mathematics Content
+   1.1 Logarithmic Functions and Indices
+       1.1.1 The functions ax and log_b x (where b is a natural number greater than one)
+       1.1.2 Use and properties of indices and logarithms, including change of base
+       1.1.3 Simple manipulation of surds
+       1.1.4 Rationalising the denominator
+   1.2 The Quadratic Function
+       1.2.1 The manipulation of quadratic expressions
+       1.2.2 The roots of a quadratic equation
+       1.2.3 Simple examples involving functions of the roots of a quadratic equation
+   1.3 Identities and Inequalities
+       1.3.1 Simple algebraic division
+       1.3.2 The factor and remainder theorems
+       1.3.3 Solutions of equations, extended to include the simultaneous solution of one linear and one quadratic equation in two variables
+       1.3.4 Simple inequalities, linear and quadratic
+       1.3.5 The graphical representation of linear inequalities in two variables
+   1.4 Graphs
+       1.4.1 Graphs of polynomials and rational functions with linear denominators
+       1.4.2 The solution of equations and transcendental functions by graphical methods
+   1.5 Series
+       1.5.1 Use of the ∑ notation
+       1.5.2 Arithmetic and geometric series
+   1.6 The Binomial Series
+       1.6.1 Use of the binomial series (1 + x)^n
+   1.7 Scalar and Vector Quantities
+       1.7.1 The addition and subtraction of coplanar vectors and the multiplication of a vector by a scalar
+       1.7.2 Components and resolved parts of a vector
+       1.7.3 Magnitude of a vector
+       1.7.4 Position vector
+       1.7.5 Unit vector
+       1.7.6 Use of vectors to establish simple properties of geometrical figures
+   1.8 Rectangular Cartesian Coordinates
+       1.8.1 The distance between two points
+       1.8.2 The point dividing a line in a given ratio
+       1.8.3 Gradient of a straight line joining two points
+       1.8.4 The straight line and its equation
+       1.8.5 The condition for two lines to be parallel or to be perpendicular
+   1.9 Calculus
+       1.9.1 Differentiation and integration of sums of multiples of powers of x
+       1.9.2 Differentiation of a product, quotient and simple cases of a function of a function
+       1.9.3 Applications to simple linear kinematics and to determination of areas and volumes
+       1.9.4 Stationary points and turning points
+       1.9.5 Maxima and minima
+       1.9.6 The equations of tangents and normals to the curve y = f(x)
+       1.9.7 Application of calculus to rates of change and connected rates of change
+   1.10 Trigonometry
+       1.10.1 Radian measure, including use for arc length and area of sector
+       1.10.2 The three basic trigonometric ratios of angles of any magnitude and their graphs
+       1.10.3 Applications to simple problems in two or three dimensions
+       1.10.4 Use of the sine and cosine formulae
+       1.10.5 The identity cos^2θ + sin^2θ = 1
+       1.10.6 Use of the identity tanθ = sinθ/cosθ
+       1.10.7 The use of the basic addition formulae of trigonometry
+       1.10.8 Solution of simple trigonometric equations for a given interval

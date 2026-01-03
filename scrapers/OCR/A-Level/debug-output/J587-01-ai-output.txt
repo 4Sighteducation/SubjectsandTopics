@@ -1,0 +1,82 @@
+1. Applied anatomy and physiology
+1.1. The structure and function of the skeletal system
+1.1.1. know the name and location of the following bones in the human body: cranium, vertebrae, ribs, sternum, clavicle, scapula, pelvis, humerus, ulna, radius, carpals, metacarpals, phalanges, femur, patella, tibia, fibula, tarsals, metatarsals
+1.1.2. understand and be able to apply examples of how the skeleton provides or allows: support, posture, protection, movement, blood cell production, storage of minerals
+1.1.3. know the definition of a synovial joint
+1.1.4. know the following hinge joints: knee – articulating bones – femur, tibia; elbow – articulating bones – humerus, radius, ulna
+1.1.5. know the following ball and socket joints: shoulder – articulating bones – humerus, scapula; hip – articulating bones – pelvis, femur
+1.1.6. know the types of movement at hinge joints and be able to apply them to examples from physical activity/sport: flexion, extension
+1.1.7. know the types of movement at ball and socket joints and be able to apply them to examples from physical activity/sport: flexion, extension, rotation, abduction, adduction, circumduction
+1.1.8. know the roles of: ligament, cartilage, tendons
+1.2. The structure and function of the muscular system
+1.2.1. know the name and location of the following muscle groups in the human body and be able to apply their use to examples from physical activity/sport: deltoid, trapezius, latissimus dorsi, pectorals, biceps, triceps, abdominals, quadriceps, hamstrings, gluteals, gastrocnemius
+1.2.2. know the definitions and roles of the following and be able to apply them to examples from physical activity/sport: agonist, antagonist, fixator, antagonistic muscle action
+1.3. Movement analysis
+1.3.1. know the three classes of lever and their use in physical activity and sport: 1st class – neck, 2nd class – ankle, 3rd class – elbow
+1.3.2. know the definition of mechanical advantage
+1.3.3. know the location of the planes of movement in the body and their application to physical activity and sport: frontal, transverse, sagittal
+1.3.4. know the location of the axes of rotation in the body and their application to physical activity and sport: frontal, transverse, longitudinal
+1.4. The cardiovascular and respiratory systems
+1.4.1. know the double-circulatory system (systemic and pulmonary)
+1.4.2. know the different types of blood vessel: arteries, capillaries, veins
+1.4.3. understand the pathway of blood through the heart: atria, ventricles, bicuspid, tricuspid and semilunar valves, septum and major blood vessels: aorta, pulmonary artery, vena cava, pulmonary vein
+1.4.4. know the definitions of: heart rate, stroke volume, cardiac output
+1.4.5. know the role of red blood cells
+1.4.6. understand the pathway of air through the respiratory system: mouth, nose, trachea, bronchi, bronchiole, alveoli
+1.4.7. know the role of respiratory muscles in breathing: diaphragm, intercostals
+1.4.8. know the definitions of: breathing rate, tidal volume, minute ventilation
+1.4.9. understand about alveoli as the site of gas exchange
+1.4.10. know the definitions of: aerobic exercise, anaerobic exercise
+1.4.11. be able to apply practical examples of aerobic and anaerobic activities in relation to intensity and duration
+1.5. Effects of exercise on body systems
+1.5.1. understand the short-term effects of exercise on: muscle temperature, heart rate, stroke volume, cardiac output, redistribution of blood flow during exercise, respiratory rate, tidal volume, minute ventilation, oxygen to the working muscles, lactic acid production
+1.5.2. be able to apply the effects to examples from physical activity/sport
+1.5.3. be able to collect and use data relating to short-term effects of exercise
+1.5.4. understand the long-term effects of exercise on: bone density, hypertrophy of muscle, muscular strength, muscular endurance, resistance to fatigue, hypertrophy of the heart, resting heart rate and resting stroke volume, cardiac output, rate of recovery, aerobic capacity, respiratory muscles, tidal volume and minute volume during exercise, capilliarisation
+1.5.5. be able to apply the effects to examples from physical activity/sport
+1.5.6. be able to collect and use data relating to long-term effects of exercise
+2. Physical training
+2.1. Components of fitness
+2.1.1. know the following components of fitness: cardiovascular endurance/stamina, muscular endurance, speed, strength, power, flexibility, agility, balance, co-ordination, reaction time
+2.1.2. know the definition of cardiovascular endurance/stamina
+2.1.3. be able to apply practical examples where this component is particularly important in physical activity and sport
+2.1.4. know suitable tests for this component, including: Cooper 12 minute run/walk test, multi-stage fitness test
+2.1.5. know the definition of muscular endurance
+2.1.6. be able to apply practical examples where this component is particularly important in physical activity and sport
+2.1.7. know suitable tests for this component, including: press-up test, sit-up test
+2.1.8. know the definition of speed
+2.1.9. be able to apply practical examples where this component is particularly important in physical activity and sport
+2.1.10. know suitable tests for this component, including: 30m sprint test
+2.1.11. know the definition of strength
+2.1.12. be able to apply practical examples of where this component is particularly important in physical activity and sport
+2.1.13. know suitable tests for this component, including: grip strength dynamometer test, 1 Repetition Maximum (RM)
+2.1.14. know the definition of power
+2.1.15. be able to apply practical examples of where this component is particularly important in physical activity and sport
+2.1.16. know suitable tests for this component, including: ‘standing jump’ or ‘vertical jump’ tests
+2.1.17. know the definition of flexibility
+2.1.18. be able to apply practical examples of where this component is particularly important in physical activity and sport
+2.1.19. know suitable tests for this component, including: ‘sit and reach’ test
+2.1.20. know the definition of agility
+2.1.21. be able to apply practical examples of where this component is particularly important in physical activity and sport
+2.1.22. know suitable tests for this component, including: Illinois agility test
+2.1.23. know the definition of balance
+2.1.24. be able to apply practical examples of where this component is particularly important in physical activity and sport
+2.1.25. know suitable tests for this component, including: ‘stork stand’ test
+2.1.26. know the definition of co-ordination
+2.1.27. be able to apply practical examples of where this component is particularly important in physical activity and sport
+2.1.28. know suitable tests for this component, including: ‘wall throw’ test
+2.1.29. know the definition of reaction time
+2.1.30. be able to apply practical examples of where this component is particularly important in physical activity and sport
+2.1.31. know suitable tests for this component, including: reaction time ruler test
+2.1.32. be able to collect and use data relating to the components of fitness
+2.2. Applying the principles of training
+2.2.1. know the following definitions of principles of training and be able to apply them to personal exercise/training programmes: specificity, overload, progression, reversibility
+2.2.2. know the definition of the elements of FITT (Frequency, Intensity, Time, Type) and be able to apply these elements to personal exercise/training programmes
+2.2.3. know different types of training, definitions and examples of: continuous, fartlek, interval, circuit training, weight training, plyometrics, HIIT (High Intensity Interval Training)
+2.2.4. understand the key components of a warm up and be able to apply examples: pulse raising, mobility, stretching, dynamic movements, skill rehearsal
+2.2.5. know the physical benefits of a warm up, including effects on: warming up muscles/preparing the body for physical activity, body temperature, heart rate, flexibility of muscles and joints, pliability of ligaments and tendons, blood flow and oxygen to muscles, the speed of muscle contraction
+2.2.6. understand the key components of a cool down and be able to apply examples: low intensity exercise, stretching
+2.2.7. know the physical benefits of a cool down, including: helps the body’s transition back to a resting state, gradually lowers heart rate, gradually lowers temperature, circulates blood and oxygen, gradually reduces breathing rate, increases removal of waste products such as lactic acid, reduces the risk of muscle soreness and stiffness, aids recovery by stretching muscles
+2.3. Preventing injury in physical activity and training
+2.3.1. understand how the risk of injury in physical activity and sport can be minimised and be able to apply examples, including: personal protective equipment, correct clothing/footwear, appropriate level of competition, lifting and carrying equipment safely, use of warm up and cool down
+2.3.2. know potential hazards in a range of physical activity and sport settings and be able to apply examples, including: sports hall, fitness centre, playing field, artificial outdoor areas, swimming pool

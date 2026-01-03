@@ -1,0 +1,59 @@
+1 Module 1: Development of practical skills in geology
+1.1 Practical skills assessed in a written examination
+1.1.1 Planning
+1.1.1.1 (a) experimental design, including to solve problems set in a practical context
+1.1.1.2 (b) identification of variables that must be controlled, where appropriate
+1.1.1.3 (c) evaluation that an experimental method is appropriate to meet the expected outcomes
+1.1.2 Implementing
+1.1.2.1 (a) how to use a wide range of practical apparatus and techniques correctly
+1.1.2.2 (b) appropriate units for measurements
+1.1.2.3 (c) presenting observations and data in an appropriate format
+1.1.3 Analysis
+1.1.3.1 (a) processing, analysing and interpreting qualitative and quantitative experimental results
+1.1.3.2 (b) use of appropriate mathematical skills for analysis of quantitative data
+1.1.3.3 (c) appropriate use of significant figures
+1.1.3.4 (d) plotting and interpreting suitable graphs from experimental results, including:
+1.1.3.4.1 (i) selection and labelling of axes with appropriate scales, quantities and units
+1.1.3.4.2 (ii) measurement of gradients and intercepts
+1.1.4 Evaluation
+1.1.4.1 (a) how to evaluate results and draw conclusions
+1.1.4.2 (b) the identification of anomalies in experimental measurements
+1.1.4.3 (c) the limitations in experimental procedures
+1.1.4.4 (d) precision and accuracy of measurements and data, including margins of error, percentage errors and uncertainties in apparatus
+1.1.4.5 (e) the refining of experimental design by suggestion of improvements to the procedures and apparatus
+1.2 Practical skills assessed in the Practical Endorsement
+1.2.1 Practical skills
+1.2.1.1 (a) apply investigative approaches and methods to practical work
+1.2.1.2 (b) safely and correctly use a range of practical equipment and materials
+1.2.1.3 (c) follow written instructions
+1.2.1.4 (d) make and record observations/measurements
+1.2.1.5 (e) keep appropriate records of experimental activities
+1.2.1.6 (f) present information and data in a scientific way
+1.2.1.7 (g) use appropriate software and tools to process data, carry out research and report findings
+1.2.1.8 (h) use online and offline research skills including websites, textbooks and other printed scientific sources of information
+1.2.1.9 (i) correctly cite sources of information
+1.2.1.10 (j) use a wide range of experimental and practical instruments, equipment and techniques appropriate to the knowledge and understanding included in the specification
+1.2.2 Use of apparatus and techniques
+1.2.2.1 (a) location of geological features in the field using traditional navigation and basic field survey skills without the use of GPS
+1.2.2.2 (b) identification of geological structures in the field, recording observations as field sketches
+1.2.2.3 (c) use of a compass clinometer to measure two- and three-dimensional geological data across a range of scales such as the dip and strike of planar surfaces, or the apparent dip of fold limbs exposed on a hillside or cliff section
+1.2.2.4 (d) construction of graphic logs using appropriate scale and symbol sets for unfamiliar geological sequences and exposures
+1.2.2.5 (e) use of sampling techniques in fieldwork
+1.2.2.6 (f) application of classification systems using distinguishing characteristics to identify unknown minerals and fossils
+1.2.2.7 (g) production of annotated scientific drawings of fossils, or small scale features, from hand samples using a light microscope, or hand lens observation
+1.2.2.8 (h) production of full rock descriptions of macro and micro features from conserved hand samples and unfamiliar field exposures
+1.2.2.9 (i) use of photomicrographs to identify minerals and rock textures
+1.2.2.10 (j) use of appropriate apparatus to record a range of quantitative measurements (to include mass, time, volume, temperature and length)
+1.2.2.11 (k) use of physical and chemical testing to identify minerals to include:
+1.2.2.11.1 (i) density test
+1.2.2.11.2 (ii) Mohs hardness test
+1.2.2.12 (l) use of methods to increase accuracy of measurements, such as timing over multiple observations, or use of a fiducial scale (in photograph/field sketch)
+1.2.2.13 (m) use of ICT to:
+1.2.2.13.1 (i) compile and analyse geological data sets to enable visualisation using geographic information system (GIS)
+1.2.2.13.2 (ii) collect, process and model geological data
+1.3 Practical skills developed through fieldwork and assessed in a written examination
+1.3.1 Practical skills developed through fieldwork
+1.3.1.1 (a) the measurement and description of the diagnostic properties of rocks in the field
+1.3.1.2 (b) the collection of valid data in the field relating to the igneous, metamorphic or sedimentary processes that formed the rocks
+1.3.1.3 (c) the measurement and description of rock deformation in the field
+1.3.1.4 (d) the use of geochronological principles in the field to place geological events in relative time sequences

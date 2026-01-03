@@ -1,0 +1,60 @@
+1. Biology Papers
+1.1 Paper 1 (4BI1/1B)
+1.1.1 Externally assessed
+1.1.2 2-hour written examination
+1.1.3 Total marks: 110
+1.1.4 Assesses core content without bold/B references
+1.1.5 Content areas:
+1.1.5.1 The nature and variety of living organisms
+1.1.5.2 Structures and functions in living organisms
+1.1.5.3 Reproduction and inheritance
+1.1.5.4 Ecology and the environment
+1.1.5.5 Use of biological resources
+
+1.2 Paper 2 (4BI1/2B)
+1.2.1 Externally assessed
+1.2.2 1 hour 15 minutes written examination
+1.2.3 Total marks: 70
+1.2.4 Assesses all content including bold/B references
+1.2.5 Content areas:
+1.2.5.1 The nature and variety of living organisms
+1.2.5.2 Structures and functions in living organisms
+1.2.5.3 Reproduction and inheritance
+1.2.5.4 Ecology and the environment
+1.2.5.5 Use of biological resources
+
+2. Content Structure
+2.1 The nature and variety of living organisms
+2.1.1 Characteristics of living organisms
+2.1.2 Variety of living organisms
+2.1.2.1 Eukaryotic organisms (plants, animals, fungi, protoctists)
+2.1.2.2 Prokaryotic organisms (bacteria)
+2.1.2.3 Viruses
+
+2.2 Structure and functions in living organisms
+2.2.1 Level of organisation
+2.2.2 Cell structure
+2.2.3 Biological molecules
+2.2.4 Movement of substances into and out of cells
+2.2.5 Nutrition
+2.2.6 Respiration
+2.2.7 Gas exchange
+2.2.8 Transport
+2.2.9 Excretion
+2.2.10 Coordination and response
+
+2.3 Reproduction and inheritance
+2.3.1 Reproduction
+2.3.2 Inheritance
+
+2.4 Ecology and the environment
+2.4.1 The organism in the environment
+2.4.2 Feeding relationships
+2.4.3 Cycles within ecosystems
+2.4.4 Human influences on the environment
+
+2.5 Use of biological resources
+2.5.1 Food production
+2.5.2 Selective breeding
+2.5.3 Genetic modification
+2.5.4 Cloning

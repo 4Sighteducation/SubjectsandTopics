@@ -1,0 +1,889 @@
+subject content of the
+specification.
+A significant number of questions will assess learners’
+understanding of more than one topic from the subject
+content.
+A calculator will not be allowed in this examination.
+2 hours 15 minutes (120 marks)
+50% of qualification
+The written paper for each tier will comprise a number of short
+and longer, both structured and unstructured questions which
+may be set on any part of the subject content of the
+specification.
+A significant number of questions will assess learners’
+understanding of more than one topic from the subject
+content.
+A calculator will be allowed in this examination.
+This linear qualification will be available in the summer and November series each
+year. It will be awarded for the first time in summer 2017.
+Qualification Accreditation Number: 601/5503/6
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 3
+The WJEC Eduqas GCSE in Mathematics provides a broad, coherent, satisfying and
+worthwhile course of study. It encourages learners to develop confidence in, and a
+positive attitude towards, mathematics and to recognise the importance of
+mathematics in their own lives and to society. It also provides a strong mathematical
+foundation for learners who go on to study mathematics at a higher level post-16.
+This specification enables learners to:
+ develop fluent knowledge, skills and understanding of mathematical methods
+and concepts
+ acquire, select and apply mathematical techniques to solve problems
+ reason mathematically, make deductions and inferences and draw
+conclusions
+ comprehend, interpret and communicate mathematical information in a variety
+of forms appropriate to the information and context.
+The WJEC Eduqas GCSE in Mathematics places problem solving at the heart of
+mathematics learning, which helps learners tackle everyday mathematical problems
+whilst studying and after obtaining the qualification.
+It encourages the teaching of links between different areas of the curriculum by
+targeting questions that cover the content from different subject areas within
+mathematics.
+This specification is intended to promote a variety of styles of teaching and learning
+so that the courses are enjoyable for all participants. It will enable learners to
+progress to higher-level courses of mathematical studies. Following this linear
+course, learners could benefit from having a greater understanding of the links
+between subject areas, in particular graphical and algebraic representation, which
+are prevalent throughout A level mathematics.
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 4
+There are no previous learning requirements for this specification. Any requirements
+set for entry to a course based on this specification are at the school/college’s
+discretion.
+This specification builds on subject content which is typically taught at Key Stage
+3 and provides a suitable foundation for the study of mathematics at either AS or
+A level. In addition, the specification provides a coherent, satisfying and worthwhile
+course of study for learners who do not progress to further study in this subject.
+This specification may be followed by any learner, irrespective of gender, ethnic,
+religious or cultural background. It has been designed to avoid, where possible,
+features that could, without justification, make it more difficult for a learner to achieve
+because they have a particular protected characteristic.
+The protected characteristics under the Equality Act 2010 are age, disability, gender
+reassignment, pregnancy and maternity, race, religion or belief, sex and sexual
+orientation.
+The specification has been discussed with groups who represent the interests of a
+diverse range of learners, and the specification will be kept under review.
+Reasonable adjustments are made for certain learners in order to enable them to
+access the assessments (e.g. candidates are allowed access to a Sign Language
+Interpreter, using British Sign Language). Information on reasonable adjustments is
+found in the following document from the Joint Council for Qualifications (JCQ):
+Access Arrangements, Reasonable Adjustments and Special Consideration:
+General and Vocational Qualifications.
+This document is available on the JCQ website (www.jcq.org.uk). As a consequence
+of provision for reasonable adjustments, very few learners will have a complete
+barrier to any part of the assessment.
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 5
+All subject content within a particular tier (foundation and higher) can be assessed on
+either Component 1 (Non-calculator Mathematics) or Component 2 (Calculator-
+allowed Mathematics).
+The subject content for both tiers is listed in the following pages.
+The subject content has been grouped into the following topic areas:
+ Number
+ Algebra
+ Ratio, proportion and rates of change
+ Geometry and measures
+ Probability
+ Statistics
+It is important that, during the course, learners should be given opportunities to:
+ develop problem solving skills
+ generate strategies to solve problems that are unfamiliar
+ answer questions that span more than one topic area of the curriculum
+ make mental calculations and calculations without the aid of a calculator
+ make estimates
+ understand 3-D shape
+ use computers and other technological aids
+ collect data
+ understand and use the statistical problem solving cycle.
+This linear specification allows for a holistic approach to teaching and learning, giving
+teachers flexibility to teach topics in any order and to combine different topic areas.
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 6
+ All learners at foundation tier will develop confidence and competence with the
+content identified by standard type.
+ All learners at foundation tier will be assessed on the content identified by the
+standard and the underlined type; more highly attaining learners will develop
+confidence and competence with all of this content.
+Note: Learners can be said to have confidence and competence with mathematical
+content when they can apply it flexibly to solve problems.
+Number
+Structure and calculation
+FN1. order positive and negative integers, decimals and fractions;
+use the symbols =, ≠, <, >, ≤, ≥
+FN2. apply the four operations, including formal written methods, to integers, decimals
+and simple fractions (proper and improper), and mixed numbers – all both positive
+and negative;
+understand and use place value (e.g. when working with very large or very small
+numbers, and when calculating with decimals)
+FN3. recognise and use relationships between operations, including inverse operations
+(e.g. cancellation to simplify calculations and expressions;
+use conventional notation for priority of operations, including brackets, powers,
+roots and reciprocals)
+FN4. use the concepts and vocabulary of prime numbers, factors (divisors), multiples,
+common factors, common multiples, highest common factor, lowest common
+multiple, prime factorisation, including using product notation and the unique
+factorisation theorem
+FN5. apply systematic listing strategies
+FN6. use positive integer powers and associated real roots (square, cube and higher),
+recognise powers of 2, 3, 4, 5
+FN7. calculate with roots, and with integer indices
+FN8. calculate exactly with fractions and multiples of π
+FN9. calculate with and interpret standard form A × 10n , where 1 ≤ A < 10 and n is an
+integer
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 7
+Fractions, decimals and percentages
+FN10. work interchangeably with terminating decimals and their corresponding fractions
+7 3
+(such as 3∙5 and or 0∙375 and )
+2 8
+FN11. identify and work with fractions in ratio problems
+FN12. interpret fractions and percentages as operators
+Measures and accuracy
+FN13. use standard units of mass, length, time, money and other measures (including
+standard compound measures) using decimal quantities where appropriate
+FN14. estimate answers; check calculations using approximation and estimation, including
+answers obtained using technology
+FN15. round numbers and measures to an appropriate degree of accuracy (e.g. to a
+specified number of decimal places or significant figures);
+use inequality notation to specify simple error intervals due to truncation or rounding
+FN16. apply and interpret limits of accuracy
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 8
+Algebra
+Notation, vocabulary and manipulation
+FA1. use and interpret algebraic notation, including:
+ ab in place of a × b
+ 3y in place of y + y + y and 3 × y
+ a2 in place of a × a, a3 in place of a × a × a, a2b in place of a × a × b
+a
+ in place of a ÷ b
+b
+ coefficients written as fractions rather than as decimals
+ brackets
+FA2. substitute numerical values into formulae and expressions, including scientific
+formulae
+FA3. understand and use the concepts and vocabulary of expressions, equations,
+formulae, identities, inequalities, terms and factors
+FA4. simplify and manipulate algebraic expressions (including those involving surds) by:
+ collecting like terms
+ multiplying a single term over a bracket
+ taking out common factors
+ expanding products of two binomials
+ factorising quadratic expressions of the form x2 + bx + c, including the
+difference of two squares
+ simplifying expressions involving sums, products and powers, including
+the laws of indices
+FA5. understand and use standard mathematical formulae;
+rearrange formulae to change the subject
+FA6. know the difference between an equation and an identity;
+argue mathematically to show algebraic expressions are equivalent, and use
+algebra to support and construct arguments
+FA7. where appropriate, interpret simple expressions as functions with inputs and outputs
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 9
+Graphs
+FA8. work with coordinates in all four quadrants
+FA9. plot graphs of equations that correspond to straight-line graphs in the coordinate
+plane;
+use the form y = mx + c to identify parallel lines;
+find the equation of the line through two given points, or through one point with a
+given gradient
+FA10. identify and interpret gradients and intercepts of linear functions graphically and
+algebraically
+FA11. identify and interpret roots, intercepts, turning points (stationary points) of quadratic
+functions graphically;
+deduce roots algebraically
+FA12. recognise, sketch and interpret graphs of linear functions, quadratic functions,
+1
+simple cubic functions, the reciprocal function y  , with x ≠ 0
+x
+FA13. plot and interpret graphs (including reciprocal graphs) and graphs of non-standard
+functions in real contexts, to find approximate solutions to problems such as simple
+kinematic problems involving distance, speed and acceleration
+Solving equations and inequalities
+FA14. solve linear equations in one unknown algebraically (including those with the
+unknown on both sides of the equation);
+find approximate solutions using a graph
+FA15. solve quadratic equations of the form x2 + bx + c (NOT including those that require
+rearrangement) algebraically by factorising;
+find approximate solutions using a graph
+FA16. solve two simultaneous linear equations in two variables algebraically;
+find approximate solutions using a graph
+FA17. translate simple situations or procedures into algebraic expressions or formulae;
+derive an equation (or two simultaneous equations), solve the equation(s) and
+interpret the solution
+FA18. solve linear inequalities in one variable;
+represent the solution set on a number line
+Sequences
+FA19. generate terms of a sequence from either a term-to-term or a position-to-term rule
+FA20. recognise and use sequences of triangular, square and cube numbers, simple
+arithmetic progressions, Fibonacci type sequences, quadratic sequences, and simple
+geometric progressions ( rn where n is an integer, and r is a rational number > 0)
+FA21. deduce expressions to calculate the nth term of linear sequences
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 10
+Ratio, proportion and rates of change
+FR1. change freely between related standard units (e.g. time, length, area,
+volume/capacity, mass) and compound units (e.g. speed, rates of pay, prices,
+density, pressure) in numerical and algebraic contexts
+FR2. understand the concept of density and be able to use the relationship between
+density, mass and volume;
+understand the concept of pressure and be able to use the relationship between
+pressure, force and area
+FR3. use scale factors, scale diagrams and maps
+FR4. express one quantity as a fraction of another, where the fraction is less than 1 or
+greater than 1
+FR5. use ratio notation, including reduction to simplest form
+FR6. divide a given quantity into two parts in a given part:part or part:whole ratio;
+divide a given quantity into more than two parts;
+express the division of a quantity into two parts as a ratio;
+apply ratio to real contexts and problems (such as those involving conversion,
+comparison, scaling, mixing, concentrations)
+FR7. express a multiplicative relationship between two quantities as a ratio or a fraction
+FR8. understand and use proportion as equality of ratios
+FR9. relate ratios to fractions and to linear functions
+FR10. define percentage as ‘number of parts per hundred’;
+interpret percentages and percentage changes as a fraction or a decimal, and
+interpret these multiplicatively;
+express one quantity as a percentage of another;
+compare two quantities using percentages;
+work with percentages greater than 100%;
+solve problems involving percentage change, including percentage increase /
+decrease and original value problems, and simple interest including in financial
+mathematics
+FR11. solve problems involving direct and inverse proportion, including graphical and
+algebraic representations
+FR12. use compound units such as speed, rates of pay, unit pricing, density and pressure
+FR13. compare lengths, areas and volumes using ratio notation;
+make links to similarity (including trigonometric ratios) and scale factors
+FR14. 1
+understand that X is inversely proportional to Y is equivalent to X is proportional to ;
+Y
+interpret equations that describe direct and inverse proportion
+FR15. interpret the gradient of a straight line graph as a rate of change;
+recognise and interpret graphs that illustrate direct and inverse proportion
+FR16. set up, solve and interpret the answers in growth and decay problems, including
+compound interest
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 11
+Geometry and measures
+Properties and constructions
+FG1. use conventional terms and notations: points, lines, vertices, edges, planes, parallel
+lines, perpendicular lines, right angles, polygons, regular polygons and polygons
+with reflection and/or rotation symmetries;
+use the standard conventions for labelling and referring to the sides and angles of
+triangles;
+draw diagrams from written description
+use the standard ruler and compass constructions (perpendicular bisector of a line
+FG2. segment, constructing a perpendicular to a given line from/at a given point,
+bisecting a given angle);
+use these to construct given figures and solve loci problems;
+know that the perpendicular distance from a point to a line is the shortest distance
+to the line
+FG3. apply the properties of angles at a point, angles at a point on a straight line,
+vertically opposite angles;
+understand and use alternate and corresponding angles on parallel lines;
+derive and use the sum of angles in a triangle (e.g. to deduce and use the angle
+sum in any polygon, and to derive properties of regular polygons)
+FG4. derive and apply the properties and definitions of: special types of triangles,
+quadrilaterals (including square, rectangle, parallelogram, trapezium, kite and
+rhombus)and other plane figures using appropriate language
+FG5. use the basic congruence criteria for triangles (SSS, SAS, ASA, RHS)
+apply angle facts, triangle congruence, similarity and properties of quadrilaterals to
+FG6. conjecture and derive results about angles and sides, including Pythagoras’
+Theorem and the fact that the base angles of an isosceles triangle are equal, and
+use known results to obtain simple proofs
+FG7. identify, describe and construct congruent and similar shapes, including on
+coordinate axes, by considering rotation, reflection, translation and enlargement
+(including fractional scale factors)
+FG8. identify and apply circle definitions and properties, including: centre, radius, chord,
+diameter, circumference, tangent, arc, sector and segment
+FG9. solve geometrical problems on coordinate axes
+FG10. identify properties of the faces, surfaces, edges and vertices of: cubes, cuboids,
+prisms, cylinders, pyramids, cones and spheres
+FG11. construct and interpret plans and elevations of 3D shapes
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 12
+Mensuration and calculation
+FG12. use standard units of measure and related concepts (length, area, volume/capacity,
+mass, time, money, etc.)
+FG13. measure line segments and angles in geometric figures, including interpreting maps
+and scale drawings and use of bearings
+FG14. know and apply formulae to calculate: area of squares, rectangles, triangles,
+parallelograms, trapezia; volume of cuboids and other right prisms (including
+cylinders)
+FG15. know the formulae: circumference of a circle = 2πr = πd, area of a circle = πr2;
+calculate perimeters of 2D shapes, including circles;
+areas of circles and composite shapes;
+surface area and volume of spheres, pyramids, cones and composite solids
+FG16. calculate arc lengths, angles and areas of sectors of circles
+FG17 apply the concepts of congruence and similarity, including the relationships between
+lengths in similar figures
+FG18. know the formulae for: Pythagoras’ theorem, a2 + b2 = c2, and the trigonometric
+opposite adjacent opposite
+ratios, sin , cos , tan ;
+hypotenuse hypotenuse adjacent
+apply them to find angles and lengths in right-angled triangles in two dimensional
+figures
+FG19. know the exact values of sin θ and cos θ for θ = 0, 30, 45 , 60 and 90; know
+the exact value of tan θ for θ = 0, 30, 45 and 60
+Vectors
+FG20. describe translations as 2D vectors
+FG21. apply addition and subtraction of vectors, multiplication of vectors by a scalar, and
+diagrammatic and column representations of vectors
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 13
+Probability
+FP1. record describe and analyse the frequency of outcomes of probability experiments
+using tables and frequency trees
+FP2. apply ideas of randomness, fairness and equally likely events to calculate expected
+outcomes of multiple future experiments
+FP3. relate relative expected frequencies to theoretical probability, using appropriate
+language and the 0 - 1 probability scale
+FP4. apply the property that the probabilities of an exhaustive set of outcomes sum to
+one; apply the property that the probabilities of an exhaustive set of mutually
+exclusive events sum to one
+FP5. understand that empirical unbiased samples tend towards theoretical probability
+distributions, with increasing sample size
+FP6. enumerate sets and combinations of sets systematically, using tables, grids, Venn
+diagrams and tree diagrams
+FP7. construct theoretical possibility spaces for single and combined experiments with
+equally likely outcomes and use these to calculate theoretical probabilities
+FP8. calculate the probability of independent and dependent combined events, including
+using tree diagrams and other representations, and know the underlying
+assumptions
+Statistics
+FS1. infer properties of populations or distributions from a sample, whilst knowing the
+limitations of sampling
+FS2. designing and criticising questions for a questionnaire, including notion of fairness
+FS3. interpret and construct tables, charts and diagrams, including frequency tables, bar
+charts, pie charts and pictograms for categorical data, vertical line charts for
+ungrouped discrete numerical data, tables and line graphs for time series data and
+know their appropriate use
+FS4. interpret, analyse and compare the distributions of data sets from univariate
+empirical distributions through:
+ appropriate graphical representation involving discrete, continuous and
+grouped data
+ appropriate measures of central tendency (median, mean, mode and
+modal class) and spread (range, including consideration of outlier)
+FS5. apply statistics to describe a population
+FS6. use and interpret scatter graphs of bivariate data;
+recognise correlation and know that it does not indicate causation;
+draw estimated lines of best fit;
+make predictions;
+interpolate and extrapolate apparent trends whilst knowing the dangers of so doing
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 14
+ All learners at higher tier will develop confidence and competence with the content
+identified by standard type.
+ All learners at higher tier will be assessed on the content identified by the standard
+and the underlined type; more highly attaining learners will develop confidence
+and competence with all of this content.
+ The highest attaining learners will develop confidence and competence with the
+bold content.
+Note: Learners can be said to have confidence and competence with mathematical
+content when they can apply it flexibly to solve problems.
+Number
+Structure and calculation
+HN1. order positive and negative integers, decimals and fractions;
+use the symbols =, ≠, <, >, ≤, ≥
+HN2. apply the four operations, including formal written methods, to integers, decimals
+and simple fractions (proper and improper), and mixed numbers – all both positive
+and negative;
+understand and use place value (e.g. when working with very large or very small
+numbers, and when calculating with decimals)
+HN3. recognise and use relationships between operations, including inverse operations
+(e.g. cancellation to simplify calculations and expressions;
+use conventional notation for priority of operations, including brackets, powers,
+roots and reciprocals)
+HN4. use the concepts and vocabulary of prime numbers, factors (divisors), multiples,
+common factors, common multiples, highest common factor, lowest common
+multiple, prime factorisation, including using product notation and the unique
+factorisation theorem
+HN5. apply systematic listing strategies including use of the product rule for counting
+HN6. use positive integer powers and associated real roots (square, cube and higher),
+recognise powers of 2, 3, 4, 5;
+estimate powers and roots of any given positive number
+HN7. calculate with roots, and with integer and fractional indices
+HN8. calculate exactly with fractions, surds and multiples of π;
+simplify surd expressions involving squares
+(e.g. 12 = 4×3 = 4× 3 =2 3 and rationalise denominators
+HN9. calculate with and interpret standard form A × 10n , where 1 ≤ A < 10 and n is an
+integer
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 15
+Fractions, decimals and percentages
+HN10. work interchangeably with terminating decimals and their corresponding fractions
+7 3
+(such as 3∙5 and or 0∙375 and );
+2 8
+change recurring decimals into their corresponding fractions and vice versa
+HN11. identify and work with fractions in ratio problems
+HN12. interpret fractions and percentages as operators
+Measures and accuracy
+HN13. use standard units of mass, length, time, money and other measures (including
+standard compound measures) using decimal quantities where appropriate
+HN14. estimate answers; check calculations using approximation and estimation, including
+answers obtained using technology
+HN15. round numbers and measures to an appropriate degree of accuracy (e.g. to a
+specified number of decimal places or significant figures);
+use inequality notation to specify simple error intervals due to truncation or rounding
+HN16. apply and interpret limits of accuracy, including upper and lower bounds
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 16
+Algebra
+Notation, vocabulary and manipulation
+HA1. use and interpret algebraic notation, including:
+ ab in place of a × b
+ 3y in place of y + y + y and 3 × y
+ a2 in place of a × a, a3 in place of a × a × a, a2b in place of a × a × b
+a
+ in place of a ÷ b
+b
+ coefficients written as fractions rather than as decimals
+ brackets
+HA2. substitute numerical values into formulae and expressions, including scientific
+formulae
+HA3. understand and use the concepts and vocabulary of expressions, equations,
+formulae, identities, inequalities, terms and factors
+HA4. simplify and manipulate algebraic expressions (including those involving surds and
+algebraic fractions) by:
+ collecting like terms
+ multiplying a single term over a bracket
+ taking out common factors
+ expanding products of two or more binomials
+ factorising quadratic expressions of the form x2 + bx + c, including the
+difference of two squares;
+factorising quadratic expressions of the form ax2 + bx + c
+ completing the square
+ simplifying expressions involving sums, products and powers, including
+the laws of indices
+HA5. understand and use standard mathematical formulae;
+rearrange formulae to change the subject
+HA6. know the difference between an equation and an identity;
+argue mathematically to show algebraic expressions are equivalent, and use
+algebra to support and construct arguments and proofs
+HA7. where appropriate, interpret simple expressions as functions with inputs and
+outputs; interpret the reverse process as the ‘inverse function’;
+interpret the succession of two functions as a ‘composite function’
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 17
+Graphs
+HA8. work with coordinates in all four quadrants
+HA9. plot graphs of equations that correspond to straight-line graphs in the coordinate
+plane;
+use the form y = mx + c to identify parallel and perpendicular lines;
+find the equation of the line through two given points, or through one point with a
+given gradient
+HA10. identify and interpret gradients and intercepts of linear functions graphically and
+algebraically
+HA11. identify and interpret roots, intercepts, turning points (stationary points) of quadratic
+functions graphically;
+deduce roots algebraically, turning points (stationary points) by completing the
+square
+HA12. recognise, sketch and interpret graphs of linear functions, quadratic functions,
+1
+simple cubic functions, the reciprocal function y  , with x ≠ 0, exponential
+x
+functions y = kx for positive values of k, and the trigonometric functions (with
+arguments in degrees) y = sin x , y = cos x and y = tan x for angles of any size
+HA13. sketch translations and reflections of a given function
+HA14. plot and interpret graphs (including reciprocal graphs and exponential graphs) and
+graphs of non-standard functions in real contexts, to find approximate solutions to
+problems such as simple kinematic problems involving distance, speed and
+acceleration
+HA15. calculate or estimate gradients of graphs and areas under graphs (including
+quadratic and other non-linear graphs), and interpret results in cases such as
+distance-time graphs, velocity-time graphs and graphs in financial contexts
+HA16. recognise and use the equation of a circle with centre at the origin;
+find the equation of a tangent to a circle at a given point
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 18
+Solving equations and inequalities
+HA17. solve linear equations in one unknown algebraically (including those with the
+unknown on both sides of the equation);
+find approximate solutions using a graph
+HA18. solve quadratic equations of the form x2 + bx + c and ax2 + bx + c (including those
+that require rearrangement) algebraically by factorising, by completing the
+square and by using the quadratic formula;
+find approximate solutions using a graph
+HA19. solve two simultaneous equations in two variables (linear/linear or
+linear/quadratic) algebraically;
+find approximate solutions using a graph
+HA20. find approximate solutions to equations numerically using iteration, e.g. trial
+and improvement, decimal search or interval bisection
+HA21. translate simple situations or procedures into algebraic expressions or formulae;
+derive an equation (or two simultaneous equations), solve the equation(s) and
+interpret the solution
+HA22. solve linear inequalities in one or two variable(s), and quadratic inequalities in
+one variable;
+represent the solution set on a number line, using set notation and on a graph
+Sequences
+HA23. generate terms of a sequence from either a term-to-term or a position-to-term rule
+HA24. recognise and use sequences of triangular, square and cube numbers, simple
+arithmetic progressions, Fibonacci type sequences, quadratic sequences, and
+simple geometric progressions ( rn where n is an integer, and r is a rational number
+> 0 or a surd) and other sequences
+HA25. deduce expressions to calculate the nth term of linear and quadratic sequences
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 19
+Ratio, proportion and rates of change
+HR1. change freely between related standard units (e.g. time, length, area,
+volume/capacity, mass) and compound units (e.g. speed, rates of pay, prices,
+density, pressure) in numerical and algebraic contexts
+HR2. understand the concept of density and be able to use the relationship between
+density, mass and volume;
+understand the concept of pressure and be able to use the relationship between
+pressure, force and area
+HR3. use scale factors, scale diagrams and maps
+HR4. express one quantity as a fraction of another, where the fraction is less than 1 or
+greater than 1
+HR5. use ratio notation, including reduction to simplest form
+HR6. divide a given quantity into two parts in a given part:part or part:whole ratio;
+divide a given quantity into more than two parts;
+express the division of a quantity into two parts as a ratio;
+apply ratio to real contexts and problems (such as those involving conversion,
+comparison, scaling, mixing, concentrations)
+HR7. express a multiplicative relationship between two quantities as a ratio or a fraction
+HR8. understand and use proportion as equality of ratios
+HR9. relate ratios to fractions and to linear functions
+HR10. define percentage as ‘number of parts per hundred’;
+interpret percentages and percentage changes as a fraction or a decimal, and
+interpret these multiplicatively;
+express one quantity as a percentage of another;
+compare two quantities using percentages;
+work with percentages greater than 100%;
+solve problems involving percentage change, including percentage increase /
+decrease and original value problems, and simple interest including in financial
+mathematics
+HR11. solve problems involving direct and inverse proportion, including graphical and
+algebraic representations
+HR12. use compound units such as speed, rates of pay, unit pricing, density and pressure
+HR13. compare lengths, areas and volumes using ratio notation;
+make links to similarity (including trigonometric ratios) and scale factors
+HR14. 1
+understand that X is inversely proportional to Y is equivalent to X is proportional to ;
+Y
+construct and interpret equations that describe direct and inverse proportion
+HR15. interpret the gradient of a straight line graph as a rate of change;
+recognise and interpret graphs that illustrate direct and inverse proportion
+HR16. interpret the gradient at a point on a curve as the instantaneous rate of
+change; apply the concepts of average and instantaneous rate of change
+(gradients of chords and tangents) in numerical, algebraic and graphical
+contexts
+HR17. set up, solve and interpret the answers in growth and decay problems, including
+compound interest and work with general iterative processes
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 20
+Geometry and measures
+Properties and constructions
+HG1. use conventional terms and notations: points, lines, vertices, edges, planes, parallel
+lines, perpendicular lines, right angles, polygons, regular polygons and polygons
+with reflection and/or rotation symmetries;
+use the standard conventions for labelling and referring to the sides and angles of
+triangles;
+draw diagrams from written description
+HG2. use the standard ruler and compass constructions (perpendicular bisector of a line
+segment, constructing a perpendicular to a given line from/at a given point,
+bisecting a given angle);
+use these to construct given figures and solve loci problems;
+know that the perpendicular distance from a point to a line is the shortest distance
+to the line
+HG3. apply the properties of angles at a point, angles at a point on a straight line,
+vertically opposite angles;
+understand and use alternate and corresponding angles on parallel lines;
+derive and use the sum of angles in a triangle (e.g. to deduce and use the angle
+sum in any polygon, and to derive properties of regular polygons)
+HG4. derive and apply the properties and definitions of: special types of triangles,
+quadrilaterals (including square, rectangle, parallelogram, trapezium, kite and
+rhombus) and other plane figures using appropriate language
+HG5. use the basic congruence criteria for triangles (SSS, SAS, ASA, RHS)
+HG6. apply angle facts, triangle congruence, similarity and properties of quadrilaterals to
+conjecture and derive results about angles and sides, including Pythagoras’
+Theorem and the fact that the base angles of an isosceles triangle are equal, and
+use known results to obtain simple proofs
+HG7. identify, describe and construct congruent and similar shapes, including on
+coordinate axes, by considering rotation, reflection, translation and enlargement
+(including fractional and negative scale factors)
+HG8. describe the changes and invariance achieved by combinations of rotations,
+reflections and translations
+HG9. identify and apply circle definitions and properties, including: centre, radius, chord,
+diameter, circumference, tangent, arc, sector and segment
+HG10. apply and prove the standard circle theorems concerning angles, radii,
+tangents and chords, and use them to prove related results
+HG11. solve geometrical problems on coordinate axes
+HG12. identify properties of the faces, surfaces, edges and vertices of: cubes, cuboids,
+prisms, cylinders, pyramids, cones and spheres
+HG13. construct and interpret plans and elevations of 3D shapes
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 21
+Mensuration and calculation
+HG14. use standard units of measure and related concepts (length, area, volume/capacity,
+mass, time, money, etc.)
+HG15. measure line segments and angles in geometric figures, including interpreting maps
+and scale drawings and use of bearings
+HG16. know and apply formulae to calculate: area of squares, rectangles, triangles,
+parallelograms, trapezia; volume of cuboids and other right prisms (including
+cylinders)
+HG17. know the formulae: circumference of a circle = 2πr = πd, area of a circle = πr2;
+calculate: perimeters of 2D shapes, including circles;
+areas of circles and composite shapes;
+surface area and volume of spheres, pyramids, cones and composite solids
+HG18. calculate arc lengths, angles and areas of sectors of circles
+HG19. apply the concepts of congruence and similarity, including the relationships
+between lengths, areas and volumes in similar figures
+HG20. know the formulae for: Pythagoras’ theorem, a2 + b2 = c2, and the trigonometric
+opposite adjacent opposite
+ratios, sin , cos , tan ,
+hypotenuse hypotenuse adjacent
+apply them to find angles and lengths in right-angled triangles in two dimensional
+figures and, where possible, general triangles in two and three dimensional
+figures
+HG21. know the exact values of sin θ and cos θ for θ = 0, 30, 45 , 60 and 90; know the
+exact value of tan θ for θ = 0, 30, 45 and 60
+HG22. a b c
+know and apply the sine rule, = = , and cosine rule,
+sin A sin B sin C
+a2 = b2 + c2 – 2bccosA, to find unknown lengths and angles
+HG23. 1
+know and apply Area= absinC to calculate the area, sides or angles of any
+2
+triangle
+Vectors
+HG24 describe translations as 2D vectors
+HG25 apply addition and subtraction of vectors, multiplication of vectors by a scalar, and
+diagrammatic and column representations of vectors;
+use vectors to construct geometric arguments and proofs
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 22
+Probability
+HP1. record describe and analyse the frequency of outcomes of probability experiments
+using tables and frequency trees
+HP2. apply ideas of randomness, fairness and equally likely events to calculate expected
+outcomes of multiple future experiments
+HP3. relate relative expected frequencies to theoretical probability, using appropriate
+language and the 0 - 1 probability scale
+HP4. apply the property that the probabilities of an exhaustive set of outcomes sum to
+one; apply the property that the probabilities of an exhaustive set of mutually
+exclusive events sum to one
+HP5. understand that empirical unbiased samples tend towards theoretical probability
+distributions, with increasing sample size
+HP6. enumerate sets and combinations of sets systematically, using tables, grids, Venn
+diagrams and tree diagrams
+HP7. construct theoretical possibility spaces for single and combined experiments with
+equally likely outcomes and use these to calculate theoretical probabilities
+HP8. calculate the probability of independent and dependent combined events, including
+using tree diagrams and other representations, and know the underlying
+assumptions
+HP9. calculate and interpret conditional probabilities through representation using
+expected frequencies with two-way tables, tree diagrams and Venn diagrams
+Statistics
+HS1. infer properties of populations or distributions from a sample, whilst knowing the
+limitations of sampling
+HS2. designing and criticising questions for a questionnaire, including notion of fairness.
+HS3. interpret and construct tables, charts and diagrams, including frequency tables, bar
+charts, pie charts and pictograms for categorical data, vertical line charts for
+ungrouped discrete numerical data, tables and line graphs for time series data and
+know their appropriate use
+HS4. construct and interpret diagrams for grouped discrete data and continuous
+data, i.e. histograms with equal and unequal class intervals and cumulative
+frequency graphs, and know their appropriate use
+HS5. interpret, analyse and compare the distributions of data sets from univariate
+empirical distributions through:
+ appropriate graphical representation involving discrete, continuous and
+grouped data, including box plots
+ appropriate measures of central tendency (median, mean, mode and
+modal class) and spread (range, including consideration of outliers,
+quartiles and inter-quartile range)
+HS6. apply statistics to describe a population
+HS7. use and interpret scatter graphs of bivariate data;
+recognise correlation and know that it does not indicate causation;
+draw estimated lines of best fit;
+make predictions;
+interpolate and extrapolate apparent trends whilst knowing the dangers of so doing
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 23
+Below are the assessment objectives for this specification.
+There are no weightings prescribed for individual components.
+Weighting
+Assessment Objectives
+Higher Foundation
+AO1
+Use and apply standard techniques
+Learners should be able to:
+ accurately recall facts, terminology and definitions 40% 50%
+ use and interpret notation correctly
+ accurately carry out routine procedures or set tasks
+requiring multi-step solutions
+AO2
+Reason, interpret and communicate mathematically
+Learners should be able to:
+ make deductions, inferences and draw conclusions
+from mathematical information
+ construct chains of reasoning to achieve a given result
+ interpret and communicate information accurately
+ present arguments and proofs
+30% 25%
+ assess the validity of an argument and critically
+evaluate a given way of presenting information
+Where problems require learners to ‘use and apply
+standard techniques’ or to independently ‘solve problems’
+a proportion of those marks should be attributed to the
+corresponding assessment objective.
+AO3
+Solve problems within mathematics and in other
+contexts
+Learners should be able to:
+ translate problems in mathematical or non-
+mathematical contexts into a process or a series of
+mathematical processes
+ make and use connections between different parts of
+mathematics
+ interpret results in the context of the given problem
+30% 25%
+ evaluate methods used and results obtained
+ evaluate solutions to identify how they may have been
+affected by assumptions made
+Where problems require learners to ‘use and apply
+standard techniques’ or to ‘reason, interpret and
+communicate mathematically’ a proportion of those marks
+should be attributed to the corresponding assessment
+objective.
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 24
+Formulae: advice is provided at Appendix A in relation to (1) the formulae included
+in the subject content that learners are expected to know and memorise as these will
+not be given in the examination, (2) the formulae which, although not specified in the
+content, should be derived or informally understood by learners, (3) the formulae that
+will be provided in the examination and that learners should be able to use but do not
+need to memorise.
+Calculators: advice is provided at Appendix B in relation to the characteristics of
+calculators that are permitted for use in Component 2 at both foundation and higher
+tiers.
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 25
+This is a linear qualification in which all assessments must be taken at the end of the
+course. Assessment opportunities will be available in the summer and November
+series each year, until the end of the life of this specification. Summer 2017 will be
+the first assessment opportunity.
+A qualification may be taken more than once. Candidates must resit all examination
+components in the same series.
+Candidates who take an assessment in the November series must have reached at
+least the age of 16 on or before 31 August in the same calendar year as the
+assessment.
+The entry code appears below.
+WJEC Eduqas GCSE Mathematics (foundation tier): C300PF
+WJEC Eduqas GCSE Mathematics (higher tier): C300PH
+The current edition of our Entry Procedures and Coding Information gives up-to-date
+entry procedures.
+GCSE qualifications are reported on a nine point scale from 1 to 9, where 9 is the
+highest grade.
+A learner who takes higher tier assessments will be awarded a grade within the
+range of 4 to 9, or be unclassified. However, if the mark achieved by such a learner
+is a small number of marks below the 3/4 grade boundary that learner may be
+awarded a grade 3.
+A learner who takes foundation tier assessments will be awarded a grade within the
+range of 1 to 5, or be unclassified.
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 26
+Formula pages
+1. Formulae included in the subject content. Learners are expected to know these
+formulae; they must not be given in the assessment.
+The quadratic formula
+The solutions of ax2 + bx + c = 0 where a ≠ 0
+b b2 4ac
+x
+2a
+Circumference and area of a circle
+Where r is the radius and d is the diameter:
+Circumference of a circle = 2πr = πd
+Area of a circle = πr2
+Pythagoras’s theorem
+In any right-angled triangle, where 𝑎,𝑏 and 𝑐 are the length of the sides and c is the
+hypotenuse:
+a2 + b2 = c2
+Trigonometry formulae
+In any right-angled triangle ABC, where a, b and c are the length of the sides and c is the
+hypotenuse:
+a b a
+sinA ,cosA ,tanA
+c c b
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 27
+In any triangle ABC, where 𝑎,𝑏 and 𝑐 are the length of the sides
+a b c
+Sine rule: = =
+sin A sin B sin C
+Cosine rule: a2 b2 c2 2bccosA
+1
+Area = absinC
+2
+2. The following formulae are not specified in the content but should be derived or
+informally understood by learners.
+These formulae must not be given in the examination.
+Perimeter, area, surface area and volume formulae
+Where a and b are the lengths of the parallel sides and h is their perpendicular separation:
+1
+Area of a trapezium = (ab)h
+2
+Volume of a prism = area of cross section  length
+Compound interest
+Where P is the principal amount, r is the interest rate over a given period and n is number of
+times that the interest is compounded:
+n
+ r 
+Total accrued = P  1 
+ 100
+Probability
+Where P(A) is the probability of outcome A and P(B) is the probability of outcome B:
+P(A or B) = P(A) + P(B) – P(A and B)
+P(A and B) = P(A given B)P(B)
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 28
+3. Formulae that learners should be able to use, but need not memorise.
+These can be given in the exam, either in the relevant question, or in a list from
+which learners select and apply as appropriate.
+Perimeter, area, surface area and volume formulae
+Where r is the radius of the sphere or cone, l is the slant height of a cone and h is the
+perpendicular height of a cone:
+Curved surface area of a cone= πrl
+Surface area of a sphere= 4πr2
+4
+Volume of a sphere πr3
+3
+1
+Volume of a cone  πr2h
+3
+Kinematics formulae
+Where 𝑎 is constant acceleration, u is initial velocity, v is final velocity, s is displacement from
+the position when t = 0 and t is time taken:
+vuat
+1
+sut at2
+2
+v2 u2 2as
+© WJEC CBAC Ltd.
+GCSE MATHEMATICS 29
+Use of calculators
+In the examination the following rules will apply.
+Calculators must be: Calculators must not:
+ of a size suitable for use on the desk;  be designed or adapted to offer any of
+these facilities:
+ either battery or solar powered; and
+o language translators,
+ free of lids, cases and covers which have o symbolic algebra manipulation,
+printed instructions or formulas. o symbolic differentiation or
+integration,
+o communication with other machines
+or the internet.
+ be borrowed from another learner during
+an examination for any reason.
+ have retrievable information stored in
+them including, (but not limited to):
+o databanks,
+o dictionaries,
+o mathematical formulae,
+o text.
+GCSE Maths Specification for teaching from 2015 / HT
+ED 20/05/14
+© WJEC CBAC Ltd.

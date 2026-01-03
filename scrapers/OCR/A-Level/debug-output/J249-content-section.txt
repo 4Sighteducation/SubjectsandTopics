@@ -1,0 +1,246 @@
+2c. Content of topics P1 to P9
+Topic P1: Matter
+P1.1 The particle model
+Summary compounds. Learners should understand how density can be affected by the state
+Knowledge and understanding of the particle nature of matter is fundamental to materials are in.
+physics. Learners need to have an appreciation of matter in its different forms,
+they must also be aware of subatomic particles, their relative charges, masses Common misconceptions
+and positions inside the atom. The structure and nature of atoms are essential to Learners commonly confuse the different types of particles (subatomic particles,
+the further understanding of physics. The knowledge of subatomic particles is atoms and molecules) which can be addressed through the teaching of this topic.
+needed to explain many phenomena, for example the transfer of charges, as well They commonly misunderstand the conversions between different units used in
+as radioactivity. (Much of this content overlaps with that in the GCSE (9–1) in the measurement of volume.
+Chemistry A (Gateway Science content.)
+Tiering
+Underlying knowledge and understanding Statements shown in bold type will only be tested in the Higher Tier papers.
+Learners should be aware of the atomic model, and that atoms are examples of All other statements will be assessed in both Foundation and Higher Tier papers.
+particles. They should also know the difference between atoms, molecules and
+Reference Mathematical learning outcomes Mathematical skills
+PM1.1i recall and apply: M1a, M1b, M1c, M3b, M3c, M5c
+mass(kg)
+density(kg/m3)=
+volume(m3)
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+11
+Version
+4.2
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P1.1a describe how and why the atomic model has the Thomson, Rutherford M5b WS1.1a, Timeline showing the development of
+changed over time (alongside Geiger and WS1.1c, atomic theory.
+Marsden) and Bohr models WS1.1g
+Discussion of the different roles played in
+developing the atomic model and how
+different scientists worked together.
+P1.1b describe the atom as a positively charged M5b WS1.1b Model making (including 3D) of atomic
+nucleus surrounded by negatively charged structures.
+electrons, with the nuclear radius much
+smaller than that of the atom and with
+almost all of the mass in the nucleus
+P1.1c recall the typical size (order of magnitude) of knowledge that it is typically M1b WS1.1d
+atoms and small molecules
+1 × 10–10m
+P1.1d define density WS1.2b, Measurement of length, volume and
+WS1.2c, mass and using them to calculate density.
+WS1.3c, (PAG P1)
+WS1.3d,
+Investigation of Archimedes’ Principle
+WS1.4a,
+using eureka cans. (PAG P1)
+WS1.4b,
+WS1.4e,
+WS1.4f,
+WS2a, WS2b,
+WS2c, WS2d
+P1.1e explain the differences in density between M5b WS1.1b
+the different states of matter in terms of the
+arrangements of the atoms and molecules
+P1.1f apply the relationship between density, mass M1a, M1b,
+and volume to changes where mass is M1c, M3c
+conserved
+12
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+P1.2 Changes of state
+Summary Common misconceptions
+A clear understanding of the foundations of the physical world forms a solid basis Learners commonly carry misconceptions about matter: assuming atoms are
+for further study of physics. Understanding of the relationship between the states always synonymous with particles. Learners also struggle to explain what is
+of matter helps to explain different types of everyday physical changes that we between the particles, instinctively ‘filling’ the gaps with ‘air’ or ‘vapour’. They
+see around us. often struggle to visualise the 3D arrangement of particles in all states of matter.
+Learners can find it challenging to understand how kinetic theory applies to
+Underlying knowledge and understanding heating materials and how to use the term temperature correctly, regularly
+Learners should be familiar with the structure of matter and the similarities and confusing the terms temperature and heat.
+differences between solids, liquids and gases. They should have an idea of the
+particle model and be able to use it to model changes in particle behaviour during Tiering
+changes of state. Learners should be aware of the effect of temperature in the Statements shown in bold type will only be tested in the Higher Tier papers.
+motion and spacing of particles and an understanding that energy can be stored All other statements will be assessed in both Foundation and Higher Tier papers.
+internally by materials.
+Reference Mathematical learning outcomes Mathematical skills
+PM1.2i apply: change in thermal energy (J) = mass (kg) × specific heat capacity (J/kg °C) × change in temperature (°C) M1a, M3b, M3c, M3d
+PM1.2ii apply: thermal energy for a change in state (J) = mass (kg) × specific latent heat (J/kg) M1a, M3b, M3c, M3d
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P1.2a describe how mass is conserved when substances WS1.3a, Use of a data logger to record
+melt, freeze, evaporate, condense or sublimate WS1.3e, change in state and mass at different
+WS1.4a, temperatures. (PAG P5)
+WS2a, WS2c
+Demonstration of distillation to show
+that mass is conserved during
+evaporation and condensation.
+(PAG P5)
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+13
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P1.2b describe that physical changes differ from
+chemical changes because the material recovers
+its original properties if the change is reversed
+P1.2c describe how heating a system will change the WS1.3a, Observation of the crystallisation of
+energy stored within the system and raise its WS1.3e, salol in water under a microscope.
+temperature or produce changes of state WS1.4a,
+Use of thermometer with a range of
+WS2a, WS2b,
+-10–110 °C, to record the temperature
+WS2c
+changes of ice as it is heated. (PAG P1)
+P1.2d define the term specific heat capacity and specific latent heat of fusion WS1.2e, Investigation of the specific heat
+distinguish between it and the term specific and specific latent heat of WS1.3b, capacity of different metals or water
+latent heat vaporisation WS1.3c, using electrical heaters and a
+WS1.3h, joulemeter. (PAG P5)
+WS1.4a,
+WS1.4f,
+WS2a, WS2b
+P1.2e apply the relationship between change in internal M1a, M3c,
+energy of a material and its mass, specific heat M3d
+capacity and temperature change to calculate the
+energy change involved
+P1.2f apply the relationship between specific latent M1a, M3c, WS1.2e, Measurement of the specific latent
+heat and mass to calculate the energy change M3d WS1.3b, heat of vaporisation of water. (PAG P5)
+involved in a change of state WS1.3c,
+Measurement of the specific latent
+WS1.3h,
+heat of stearic acid. (PAG P5)
+WS1.4a,
+WS1.4f,
+WS2a, WS2b
+14
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+P1.3 Pressure
+Summary Common misconceptions
+This section develops the understanding of pressure in gases and liquids. Pressure Learners commonly have misconceptions about floating and sinking, based
+in gases builds on the particle model, and in liquids the increase in pressure with on the premise that light or small objects float and heavy or large objects sink.
+depth is explained as the weight of a column of liquid acting on a unit area. They often misunderstand the role of pressure difference and suction e.g. the
+collapsing can experiment and the forcing of air into the lungs during inhalation.
+Underlying knowledge and understanding
+Learners should be aware of the change in pressure in the atmosphere and Tiering
+in liquids with height (qualitative relationship only). They should have an Statements shown in bold type will only be tested in the Higher Tier papers.
+understanding of floating and sinking and the effect of upthrust. Learners All other statements will be assessed in both Foundation and Higher Tier papers.
+should know that pressure is measured by a ratio of force over area which is
+acting at a normal to the surface.
+Reference Mathematical learning outcomes Mathematical skills
+PM1.3i þ apply: for a given mass of gas at a constant temperature M1a, M3b, M3c, M3d
+pressure (Pa) × volume (m3) = constant
+PM1.3ii þ apply: M1a, M1c, M3b, M3c, M3d
+pressure due to a column of liquid (Pa) = height of column (m) × density of liquid (kg/m3) × gravitational field strength (N/kg)
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P1.3a explain how the motion of the application to closed M1c, M4a, WS1.1b, Demonstration of the difference in pressure
+molecules in a gas is related both to systems only M5b WS1.2a, in an inflated balloon that has been heated
+its temperature and its pressure WS1.2e, and frozen. (PAG P1)
+WS1.3e,
+Building manometers and using them to
+WS1.4a,
+show pressure changes in heated/cooled
+WS2a
+volumes of gas. (PAG P1)
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+15
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P1.3b explain the relationship between the M1c, M5b WS1.1b, Demonstration of the exploding can
+temperature of a gas and its pressure WS1.2a, experiment.
+at constant volume (qualitative only) WS1.2e,
+Building of Alka-Seltzer rockets with film
+WS1.3e,
+canisters.
+WS1.4a,
+WS2a
+P1.3c þ recall that gases can be compressed or M4a, M5b WS1.1b, Compressing syringes containing sand,
+expanded by pressure changes and WS1.2a, water and air. (PAG P1)
+that the pressure produces a net force WS1.2e,
+Demonstration of the collapsing can
+at right angles to any surface WS1.3e,
+experiment.
+WS1.4a,
+WS2a Demonstration of the Cartesian diver
+experiment.
+P1.3d þ explain how increasing the volume in behaviour regarding particle M1c, M4a, WS1.1b, Demonstration of the behaviour of
+which a gas is contained, at constant velocity and collisions M5b WS1.2a, marshmallows in a vacuum.
+temperature can lead 

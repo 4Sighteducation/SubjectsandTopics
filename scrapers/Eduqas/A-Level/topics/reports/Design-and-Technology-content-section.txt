@@ -1,0 +1,1483 @@
+
+Component 1: Design and Technology in the 21st Century
+Written examination: 2 hours
+50% of qualification
+A mix of short answer, structured and extended writing
+questions assessing candidates' knowledge and
+understanding of:
+• technical principles
+• designing and making principles
+along with their ability to
+• analyse and evaluate design decisions and wider
+issues in design and technology.
+Component 2: Design and make task
+Non-exam assessment: approximately 35 hours
+50% of qualification
+A sustained design and make task, based on a contextual
+challenge set by WJEC, assessing candidates' ability to:
+• identify, investigate and outline design possibilities
+• design and make prototypes
+• analyse and evaluate design decisions and wider
+issues in design and technology.
+This linear qualification will be available for assessment in May/June each year. It will
+be awarded for the first time in summer 2019.
+Qualification Accreditation Number: 603/1121/6
+© WJEC CBAC Ltd.
+3
+GCSE DESIGN AND
+TECHNOLOGY
+1 INTRODUCTION
+1.1 Aims and objectives
+The WJEC Eduqas GCSE in Design and Technology offers a unique opportunity in
+the curriculum for learners to identify and solve real problems by designing and
+making products or systems. Through studying GCSE Design and Technology,
+learners will be prepared to participate confidently and successfully in an increasingly
+technological world; and be aware of, and learn from, wider influences on design and
+technology, including historical, social/cultural, environmental and economic factors.
+The specification enables learners to work creatively when designing and making
+and apply technical and practical expertise, in order to:
+• demonstrate their understanding that all design and technological activity takes
+place within contexts that influence the outcomes of design practice
+• develop realistic design proposals as a result of the exploration of design
+opportunities and users’ needs, wants and values
+• use imagination, experimentation and combine ideas when designing
+• develop the skills to critique and refine their own ideas whilst designing and
+making
+• communicate their design ideas and decisions using different media and
+techniques, as appropriate for different audiences at key points in their designing
+• develop decision making skills, including the planning and organisation of time
+and resources when managing their own project work
+• develop a broad knowledge of materials, components and technologies and
+practical skills to develop high quality, imaginative and functional prototypes
+• be ambitious and open to explore and take design risks in order to stretch the
+development of design proposals, avoiding clichéd or stereotypical responses
+• consider the costs, commercial viability and marketing of products
+• demonstrate safe working practices in design and technology
+• use key design and technology terminology including those related to: designing,
+innovation and communication; materials and technologies; making, manufacture
+and production; critiquing, values and ethics
+© WJEC CBAC Ltd.
+GCSE DESIGN AND TECHNOLOGY 4
+1.2 Prior learning and progression
+There are no previous learning requirements for this specification. Any requirements
+set for entry to a course based on this specification are at the school/college’s
+discretion.
+This specification builds on subject content which is typically taught at key stage 3
+and provides a suitable foundation for the study of design and technology at either
+AS or A level. In addition, the specification provides a coherent, satisfying and
+worthwhile course of study for learners who do not progress to further study in this
+subject.
+1.3 Equality and fair access
+This specification may be followed by any learner, irrespective of gender, ethnic,
+religious or cultural background. It has been designed to avoid, where possible,
+features that could, without justification, make it more difficult for a learner to achieve
+because they have a particular protected characteristic.
+The protected characteristics under the Equality Act 2010 are age, disability, gender
+reassignment, pregnancy and maternity, race, religion or belief, sex and sexual
+orientation.
+The specification has been discussed with groups who represent the interests of a
+diverse range of learners, and the specification will be kept under review.
+Reasonable adjustments are made for certain learners in order to enable them to
+access the assessments (e.g. candidates are allowed access to a Sign Language
+Interpreter, using British Sign Language). Information on reasonable adjustments is
+found in the following document from the Joint Council for Qualifications (JCQ):
+Access Arrangements and Reasonable Adjustments: General and Vocational
+Qualifications.
+This document is available on the JCQ website (www.jcq.org.uk). As a consequence
+of provision for reasonable adjustments, very few learners will have a complete
+barrier to any part of the assessment.
+© WJEC CBAC Ltd.
+5
+2
+SUBJECT CONTENT
+The subject content is presented under two headings: technical principles and
+designing and making principles. Within each area, the content is further divided into
+core knowledge and understanding and in-depth knowledge and understanding.
+The specification content and assessment requirements are designed to ensure
+learners develop an appropriate breadth and depth of knowledge and understanding
+in design and technology.
+2.1 Technical principles
+Core knowledge and understanding is presented in five clear and distinct topic areas:
+• design and technology and our world
+• smart materials
+• electronic systems and programmable components
+• mechanical components and devices
+• materials
+Learners are required to study all of the content in these five areas, to ensure they
+have a broad knowledge and understanding of design and technology and that they
+are able to make effective choices in relation to which materials, components and
+systems to utilise within design and make activities.
+In-depth knowledge and understanding is presented in six clear and distinct topic
+areas:
+a. electronic systems, programmable components & mechanical devices
+b. papers & boards
+c. natural & manufactured timber
+d. ferrous & non-ferrous metals
+e. thermoforming & thermosetting polymers
+f. fibres & textiles
+Learners are required to study at least one of these six areas, to ensure they have an
+in-depth knowledge and understanding of a specific material area and/or components
+and systems to support their design and make activities.
+All topics within the core knowledge and understanding, the in-depth knowledge and
+understanding, and designing and making principles must be addressed. In each
+case, the left hand column identifies the content topic and the amplification indicates
+the areas that need to be covered. The amplification column provides more
+information on the content presented in the left hand column, including the breadth
+and depth of study required. Where 'e.g.' is used in the amplification column, the list
+which follows is illustrative only. In all other instances, the list of items in the
+amplification column must be covered. Centres are not restricted to how they will
+deliver this to the learner but it is anticipated that there will be an integrated approach
+between the core and the in-depth content.
+© WJEC CBAC Ltd.
+GCSE DESIGN AND TECHNOLOGY 6
+2.2 Designing and making principles
+Core knowledge and understanding that learners are required to develop and apply
+is presented in ten clear topic areas:
+• understanding design and technology practice
+• understanding user needs
+• writing a design brief and specifications
+• investigating challenges
+• developing ideas
+• investigating the work of others
+• using design strategies
+• communicating ideas
+• developing a prototype
+• making decisions
+Learners are required to cover all of the content in these ten areas, to ensure they
+are able to apply a broad knowledge and understanding of design and technology
+principles within design and make activities.
+In-depth knowledge and understanding is presented in five clear topic areas:
+• selecting and working with materials and components
+• marking out
+• using tools and equipment
+• using specialist techniques
+• using surface treatments and finishes
+Learners are required to cover all of the content in these five areas, in relation to at
+least one of the topic areas (a to f) identified in the in-depth knowledge and
+understanding section of technical principles.
+The content structure of this GCSE design and technology specification is illustrated
+below.
+Technical principles
+Core knowledge & understanding In-depth knowledge & understanding
+a. Electronic systems, programmable
+• Design and technology and components & mechanical devices
+our world
+b. Papers & boards
+Plus at
+• Smart materials
+least one
+from c. Natural & manufactured timber
+• Electronic systems and
+programmable components
+d. Ferrous & non-ferrous metals
+• Mechanical components
+e. Thermosetting & thermoforming
+and devices
+plastics
+• Materials
+f. Fibres & textiles
+Designing and making principles
+In-depth knowledge & understanding
+Core knowledge & understanding Plus
+(in relation to at least one of a to f above)
+© WJEC CBAC Ltd.
+7
+There is no hierarchy implied in the order in which the content is presented and it does not
+imply a prescribed teaching order.
+The subject content for GCSE Design and Technology will be assessed in the written
+examination and non-exam assessment (NEA).
+Design and Technology in the 21st Century Design and make task
+Written examination: 2 hours NEA: approximately 35 hours
+50% of qualification 50% of qualification
+100 marks 100 marks
+Calculators may be used in Component 1 and in Component 2. Learners are responsible for
+making sure that their calculators meet the relevant regulations for use in written
+examinations: information is found in the JCQ publications Instructions for conducting
+examinations and Information for candidates for written examinations.
+© WJEC CBAC Ltd.
+GCSE DESIGN AND TECHNOLOGY 8
+2.1 Technical principles
+Technical principles
+Core knowledge and understanding
+This section is designed to develop learners’ knowledge and understanding in design and
+technology and its impact on daily life. Learners should develop a broad understanding of
+materials, systems and processes and have the opportunity to apply knowledge and
+understanding from other subject areas including mathematics and science. Appendix B
+illustrates links to relevant mathematics and science skills. These must be covered within
+GCSE Design and Technology qualifications and will be assessed in this qualification in
+Component 1.
+Design and technology and our world
+Learners need a breadth of technical knowledge and understanding in order to make effective
+choices in relation to the selection of materials, components and systems. They should
+consider emerging technologies, environmental issues and impacts on society. They should
+consider the needs of future generations as well as their own, and take a broad view of the
+impact of design and technology activities.
+Content Amplification
+1. The impact of new The focus of this content is the impact of new and emerging
+and emerging technologies on the areas identified below.
+technologies on:
+• industry • The impact of new and emerging technologies on industry and
+• enterprise enterprise:
+• sustainability • market pull – responding to demands from the market;
+• people • technology push – development in materials and components,
+• culture manufacturing methods;
+• society • consumer choice – consumers wishing to own the latest
+• the environment technologies/products.
+• production • The Product Life Cycle.
+• Global production and its effects on culture and people.
+techniques
+• systems • Legislation to which products are subject.
+• Consumer rights and protection for consumers when purchasing
+and using products.
+• Moral and ethical factors related to manufacturing products and
+the sale and use of products.
+• Sustainability; meeting today’s needs without compromising the
+needs of future generations.
+• Advantages and disadvantages of using computer aided design
+(CAD).
+• Advantages and disadvantages of the use of computer aided
+manufacture (CAM).
+• How CAM equipment can be used in a variety of applications:
+CNC embroidery, vinyl cutting, CNC routing, laser cutting and 3D
+printing.
+© WJEC CBAC Ltd.
+9
+Content Amplification
+2. How the critical The focus of this content is how the critical evaluation of new and
+evaluation of new and emerging technologies informs design decisions.
+emerging technologies
+informs design • The importance of sustainability issues and environmental issues
+decisions; considering when designing and making.
+contemporary and • Social, cultural, economic and environmental responsibilities in
+potential future designing and making products.
+scenarios from
+• The SIX R's of sustainability; rethink, reuse, recycle, repair,
+different perspectives,
+reduce and refuse.
+such as ethics and the
+• Life Cycle Analysis to determine the environmental impact of a
+environment
+product.
+• Fair-trade policies and carbon footprint.
+• Ecological footprint.
+3. How energy is • Types of renewable and non-renewable energy sources: wind,
+generated and stored solar, geothermal, hydroelectric, wood/biomass, wave, coal, gas,
+in order to choose and nuclear and oil.
+use appropriate • Issues surrounding the use of fossil fuels: coal, oil and gas.
+sources to make • The advantages and disadvantages of renewable energy
+products and to power sources.
+systems • The use of renewable energy sources in modern manufacturing
+production systems: the use of solar panels and wind turbines in
+manufacturing sites.
+• Renewable energy sources for products: wind-up and
+photovoltaic cells.
+• Energy generation and storage in a range of contexts: motor
+vehicles (e.g. petrol/diesel, electricity) and household products
+(e.g. battery, solar, mains electricity).
+© WJEC CBAC Ltd.
+GCSE DESIGN AND TECHNOLOGY 10
+Smart materials, composites and technical textiles
+The design and manufacture of products depends upon material technology and the
+development and implementation of materials in products. Learners need to be aware of
+developments in materials technology and how these impact on the design and use of
+products.
+Content Amplification
+4. Developments in • Electroluminescent film or wire i.e. LCD.
+modern and smart • Quantum Tunnelling Composite (QTC) - when used in circuits the
+materials, composite resistance changes under compression.
+materials and • SMA – shape memory alloys.
+technical textiles • Polymorph.
+• Smart fibres and fabrics that respond to the environment or
+stimuli:
+• photo-chromic;
+• thermo-chromic;
+• micro-encapsulation;
+• biometrics.
+• Carbon Fibre, Kevlar and GRP.
+• Interactive textiles that function as electronic devices and
+sensors: circuits integrated into fabrics, such as heart rate
+monitors; wearable electronics such as mobile phones or music
+player, GPS, tracking systems and electronics integrated into the
+fabric itself.
+• Micro-fibres in clothing manufacture.
+• Phase changing materials: breathable materials; proactive heat
+and moisture management.
+• Sun protective clothing.
+• Nomex.
+• Geotextiles for landscaping.
+• Rhovyl as an antibacterial fibre.
+© WJEC CBAC Ltd.
+11
+Electronic systems and programmable components
+Familiar products often include the use of electronic components. Learners should be aware
+of the importance of electronic and programmable components to the product designer and
+end user and how such components are integrated into everyday products we use.
+Content Amplification
+5. How electronic • Graphical conventions for communicating concepts: circuit
+systems provide diagrams, block diagrams and flowcharts.
+functionality to • The ‘systems' approach – input; process; output.
+products and • Principles of a control system:
+processes, including • input data from a sensor: light dependent resistor (LDR),
+sensors and control thermistor;
+devices to respond to • processing by control devices: semi-conductor, IC,
+a variety of inputs, and
+microprocessor or computer;
+devices to produce a
+• output where a signal is received that will perform a desired
+range of outputs
+function: buzzer, light emitting diode (LED).
+• The importance of feedback within the system.
+• The methods of providing feedback in different systems.
+• Familiar products in terms of their control system.
+• Control devices that include counting, switching and timing.
+• Analogue and digital sensors as input components.
+6. The use of • Sub routines or macros in control systems.
+programmable • Programmable microcontrollers can be used to control a range
+components to embed of systems.
+functionality into • Programmable microcontrollers can interface with other
+products in order to devices.
+enhance and • Programmable microcontrollers can be reprogrammed
+customise their repeatedly.
+operation • The benefits and limitations of programmable microcontrollers.
+• Programmable Interface Controllers (PIC) and how they can be
+used to control products or systems.
+© WJEC CBAC Ltd.
+GCSE DESIGN AND TECHNOLOGY 12
+Mechanical components and devices
+Familiar products often include the use of mechanical components and devices. Learners
+should be aware of the importance of mechanical components and devices to the product
+designer and end user and how such components are integrated into everyday products we
+use.
+Content Amplification
+7. The functions of • Principle of a mechanical device to transform input motion and
+mechanical devices, force into a desired output motion and force.
+to produce different • Analyse everyday mechanical devices and how they function.
+sorts of movement, • Consider mechanical systems in terms of input; process; output.
+changing the
+magnitude and • Mechanical systems which:
+direction of forces • increase or decrease speed of movement/rotation;
+• change magnitude/direction of force/movement/rotation.
+• Simple calculations involving mechanical systems.
+• Analyse the function of mechanical products that have:
+• pulley systems, e.g. curtain rails, sewing machine;
+• gear systems, e.g. whisk, hand drill;
+• levers and linkages, e.g. scissors;
+• rack and pinion, e.g. chair lift;
+• cams, e.g. automata toys.
+© WJEC CBAC Ltd.
+13
+Materials
+Learners need to have a broad understanding of the categorisation and properties of a range
+of materials. They should be aware of their source, use and application in products.
+Content Amplification
+8. Papers and boards • The categorisation and properties of paper, cards, boards and
+composite materials. Properties to be considered in terms of
+their strength, folding ability, surface finish and absorbency.
+• Papers, cards and boards can be laminated to improve
+strength, finish and appearance.
+• The standard ISO sizes of paper.
+• The use of grammage i.e. grams per square metre (gsm) to
+measure weight of paper.
+• The use of microns to measure thickness of card.
+• The use of recycled materials to manufacture papers and
+boards.
+• The aesthetic and functional properties of common papers,
+cards and boards: layout paper, tracing paper, copier paper,
+recycled paper, corrugated board, cartridge paper, mounting
+board and folding boxboard.
+9. Natural and • The categorisation and properties of hardwoods and softwoods.
+manufactured timber • Properties to be considered: strength, grain structure, surface
+finish and absorbency.
+• Natural timber is harvested from deciduous (hardwoods) and
+coniferous (softwood) trees.
+• Natural timber is available in the following forms: plank, board,
+strip, square, and dowel.
+• Natural timber can be identified using a range of discriminators:
+weight, colour, grain, texture, durability and ease of working.
+• Natural timber is protected using different finishes and these
+finishes are sometimes used to improve aesthetic appeal.
+• Categorisation and properties of manufactured timbers.
+• Manufactured timbers are made from natural timbers and made
+from particles/fibres or laminates.
+• Manufactured timbers are available in standard sizes and
+forms: plywood, MDF (Medium Density Fibreboard), chipboard,
+hardboard and veneered boards.
+• Manufactured timbers can be protected using finishes and
+these finishes are sometimes used to improve the aesthetic
+appeal.
+© WJEC CBAC Ltd.
+GCSE DESIGN AND TECHNOLOGY 14
+10. Ferrous and non- • Categorisation and working properties of ferrous metals, non-
+ferrous metals ferrous metals and alloys.
+• Properties of metals: hardness, elasticity, conductivity,
+toughness, ductility, tensile strength and malleability.
+• Metals are sold as sheet, bar, rod, tube and angle.
+• Ferrous metals: cast iron, mild steel, medium carbon steel and
+high carbon steel.
+• Ferrous metals may require a protective finish and the finish is
+sometimes used to improve the aesthetic appeal.
+• Non-ferrous metals: aluminium, copper, brass, bronze.
+• Alloys of metals are a base metal mixed with other metals or
+non-metals to change their properties or appearance.
+• Non-ferrous metals may require a protective finish and the
+finish is sometimes used to improve the aesthetic appeal.
+11. Thermoforming • Categorisation and physical properties of polymers.
+and thermosetting • Polymers can be made from both natural and synthetic
+polymers resources.
+• Polymers are sold as sheet, film, bar, rod and tube.
+• The differences between a thermoforming (thermoplastic) and
+thermosetting material.
+• Properties of polymers: weight, hardness, elasticity,
+conductivity/insulation, toughness and strength.
+• The properties of thermoplastics: polythene, polystyrene,
+polypropylene and PVC.
+• The properties of the thermosetting plastics: UF (urea
+formaldehyde), MF (melamine formaldehyde), PR (polyester
+resin) and ER (epoxy resin).
+12. Natural, synthetic, • The categorisation and working properties of fibres and textiles.
+blended and mixed • The raw materials of textiles are classified according to their
+fibres, and woven, source.
+non-woven and • Natural polymers:
+knitted textiles. • Animal polymers: wool/fleece – mohair, cashmere, angora,
+alpaca, camel (hair).
+• Insect polymers: silk.
+• Plant polymers: cotton, linen hemp, jute, rayon, viscose.
+• Manufactured polymers:
+• Synthetic: polyester, polypropylene, nylon, acrylic, elastane,
+lycra, aramid fibres.
+• Microfibres – Tactel, Tencel (Lyocell).
+• The properties of textiles fibres: strength, elasticity, absorbency,
+durability, insulation, flammability, water-repellence, anti-static
+and resistance to acid, bleach and sunlight.
+• Blending and mixing fibres improves the properties and uses of
+yarns and materials.
+© WJEC CBAC Ltd.
+15
+Technical principles
+In-depth knowledge and understanding
+Learners are required to develop an in-depth knowledge and understanding in relation to at
+least one of the following:
+• electronic systems, programmable components & mechanical devices.
+• papers & boards.
+• natural & manufactured timber.
+• ferrous & non-ferrous metals.
+• thermoforming & thermosetting polymers.
+• natural, synthetic, blended and mixed fibres; woven, non-woven and knitted textiles.
+In-depth knowledge and understanding
+This section is for electronic systems, programmable components & mechanical devices.
+Learners are required to develop an in-depth knowledge and understanding of:
+Content Amplification
+© WJEC CBAC Ltd.
+secived
+lacinahcem
+&
+stnenopmoc
+elbammargorp
+,smetsys
+cinortcelE
+1. The sources, Components and how they can be combined to from a
+origins, physical and system or sub-system.
+working properties of
+Functions of electronic and programmable devices /
+the material categories
+systems
+or the components and
+• Voltage, Resistance and Current and their relationship
+systems, and their
+in an electronic circuit.
+ecological and social
+• Ohm's Law: V=I*R.
+footprint
+• Function of resistors and their colour code system.
+• Electronic circuits / systems in terms of input, process
+and output blocks.
+• Use of a relay.
+Input Devices
+• SPST, SPDT, DPDT, push to make, push to break,
+reed, and tilt switches.
+• Sensors for light, heat and moisture, the LDR and the
+thermistor in a potential divider.
+Process Components
+• The transistor to control a switching or sensing circuit;
+as a switch, amplifier, transducer driver.
+• ICs to control monostable time delays.
+• ICs to control astable pulse generators, multi-
+vibrators, comparators and amplifiers.
+• Controlling a time delay and pulse frequency.
+• The capacitor and its role in timing circuits.
+• The function of a thyristor or silicon controlled rectifier
+as a latching device.
+GCSE DESIGN AND TECHNOLOGY 16
+© WJEC CBAC Ltd.
+secived
+lacinahcem
+&
+stnenopmoc
+elbammargorp
+,smetsys
+cinortcelE
+1. The sources, origins, Operational amplifiers and gain.
+physical and working • Programmable micro controllers to control a variety of
+properties of the input and output devices.
+material categories or • The function of AND, OR, EOR, NOT, and NAND logic
+the components and gates.
+systems, and their • Combining logic gates to form control systems.
+ecological and social
+footprint (cont.) Output Components
+• Lamps, LEDs, buzzers, piezo sounders,
+loudspeakers, sirens, motors and solenoids.
+Functions of mechanical devices / systems
+• Simple and compound pulley and belt systems.
+• Calculate velocity ratio.
+• RV of driver*dia of driver= RV of driven*dia of driven.
+• Simple and compound gear systems.
+• Calculate velocity ratio.
+• RV of driver*teeth on driver= RV of driven*teeth on
+driven.
+• Worm drive systems.
+• Bevel gear systems.
+Levers
+• Classification.
+• Calculation of mechanical advantage.
+• Calculate forces acting in simple lever systems using
+the principle of moments.
+Others
+• Rack and Pinion.
+• Pawl and Ratchet.
+• Crank and Slider.
+• Cams.
+Ecological and social footprint
+• Changing society’s view on waste, encourage
+recycling.
+• Living in a greener world.
+• Life-cycle analysis of a material or product.
+• Sustainable design, e.g. with reference to rapidly
+updated products such as mobile phones.
+2. The way in which the • Components and their functional benefits or limitations.
+selection of materials • Miniaturisation to reduce the size of control systems, or
+or components is the number of components for functional or cost reasons.
+influenced by a range • Cultural, social, ethical and environmental responsibilities
+of factors, such as of designers and manufacturers with respect to:
+functional, aesthetic, material/component selection should not be harmful to
+environmental, people or the environment; working conditions;
+availability, cost, social, recyclability and waste.
+cultural and ethical
+17
+© WJEC CBAC Ltd.
+secived
+lacinahcem
+&
+stnenopmoc
+elbammargorp
+,smetsys
+cinortcelE
+3. The impact of forces • How mechanical components are strengthened to withstand
+and stresses on forces.
+materials and objects • Casing and protecting electronic components.
+and the ways in which
+materials can be
+reinforced and
+stiffened
+4. Stock forms, types • Standard stock electronic components sizes.
+and sizes in order to • Dual In Line (DIL) standard for electronic ICs.
+calculate and • Stock materials for the manufacture of products.
+determine the quantity • Calculate cost of materials and components for products.
+of materials or
+components required
+5. Alternative • Mass production.
+processes that can be • Just in time manufacturing.
+used to manufacture • The use of CAD/CAM in production.
+products to different • Batch production.
+scales of production • Jigs and devices to control repeat activities.
+• One-off production.
+6. Specialist Wastage/Addition
+techniques and • Appropriate tools and equipment to mark out, hold,
+processes that can be cut, shape, drill and form materials.
+used to shape, • The pillar drill to drill holes to various diameters.
+fabricate, construct • Jigs and formers to ensure accuracy.
+and assemble a high
+quality prototype, Deforming/Reforming
+including techniques • Bending plastics.
+such as wastage, • Hot/cold working of sheet metals, casting.
+addition, deforming • Drilling and turning materials.
+and reforming, as • Vacuum forming, moulding.
+appropriate to the
+• Laser cutting.
+materials and/or
+• 3D printing.
+components being
+used
+Assembly and components
+• Components for a particular purpose: nuts, bolts,
+washers, screws, rivets.
+• Joining components together, e.g. soldering
+components to circuit boards.
+• Joining materials - mechanical or chemical bond.
+• Joining like and unlike materials together.
+• Material joining - permanent and temporary.
+7. Appropriate surface • Surface finishes applied to electronic devices for functional
+treatments and or aesthetic purposes.
+finishes that can be • Powder and plastics coating of metals.
+applied for functional
+and aesthetic
+purposes
+GCSE DESIGN AND TECHNOLOGY 18
+In-depth knowledge and understanding
+This section is for papers and boards.
+Learners are required to develop an in-depth knowledge and understanding of:
+Content Amplification
+© WJEC CBAC Ltd.
+sdraob
+dna
+srepaP
+1. The sources, • How wood pulp is made.
+origins, physical and • The differences between mechanical and chemical wood
+working properties of pulp.
+the material categories • Recycled paper.
+or the components and • How paper is made by hand.
+systems, and their • Surface finishes of paper and card.
+ecological and social
+• Commercial manufacture of papers and boards.
+footprint
+• The physical and working properties of paper and board:
+texture, weight, thickness, strength, surface finish,
+transparency, folding ability and absorbency.
+Ecological and social footprint:
+• The impact on the environment.
+• Greenhouse gases.
+• Changing society’s view on waste, encourage recycling
+of all materials.
+• Living in a greener world.
+• Packaging – is it always needed?
+• Life-cycle analysis of a material or product.
+• Sustainable design.
+2. The way in which • Aesthetic and functional properties of cards and boards.
+the selection of • Advantages and disadvantages of common paper, card and
+materials or boards for commercial and everyday use:
+components is layout paper, tracing paper, copier paper, recycled paper,
+influenced by a range cartridge paper, mounting board, folding boxboard and
+of factors, such as corrugated board.
+functional, aesthetic, • The reasons for use of paper, card and boards in everyday
+environmental, products.
+availability, cost, • The aesthetic properties of paper, card and boards.
+social, cultural and • Responsibilities of designers and manufacturers who design
+ethical
+using paper card with respect to:
+• the environment;
+• working conditions in third world countries, low labour
+costs and poverty;
+• exploitation of employees;
+• recyclability and waste;
+• biodiversity and deforestation.
+• Estimating the true costs of a prototype or product.
+3. The impact of forces • The behaviour of papers and board under forces or stress.
+and stresses on • Reinforcement of papers and boards by corrugating, folding,
+materials and objects gluing.
+and the ways in which • Stiffening papers and boards by increasing thickness,
+materials can be adding ribs.
+reinforced and • Structural integrity, stiffness and strength of papers and card
+stiffened boards by laminating and the design of the cross-section of
+the board, e.g. corrugated card board has a fluted core
+between two layers of card.
+• The strength of paper and boards in products will depend
+upon the design and the joining or fixing methods used.
+19
+© WJEC CBAC Ltd.
+sdraob
+dna
+srepaP
+4. Stock forms, types • Standard sizes of papers and boards. i.e. rolls, A5, A4, A3.
+and sizes in order to • Paper is measured in grams per square metre.
+calculate and • Cardboard is available in different forms with different cores.
+determine the quantity • Costs and how to calculate the cost of materials for different
+of materials or forms of products.
+components required
+5. Alternative • Advantages and disadvantages of producing single, one off
+processes that can be products.
+used to manufacture • The advantages and disadvantages of producing products
+products to different in limited quantities (batch production).
+scales of production • The need to produce a number of identical products.
+• Jigs and devices to control repeat activities.
+• The advantages and disadvantages of high volume,
+continuous production.
+• Issues related to high volume production.
+• The importance of CAM in modern high volume production.
+• Pre-press, on-press and the finishing processes used by
+commercial printers to produce products in batches or
+mass/high volume.
+• Pre-press operations:
+• Grids, registration marks, layout, imposition and colour
+separation;
+• On-press operations;
+• Finishing Processes;
+• Die cutting, spirit varnishing, and UV varnishing,
+laminating, embossing, debossing, cropping, folding and
+binding methods;
+• Techniques used to produce books, magazines, leaflets,
+flyers, packages and other printed products.
+GCSE DESIGN AND TECHNOLOGY 20
+© WJEC CBAC Ltd.
+sdraob
+dna
+srepaP
+6. Specialist Wastage/Addition
+techniques and • Tools and equipment to mark out, hold, cut, shape, drill,
+processes that can be form laminates of plastics, papers/boards.
+used to shape, • Marking out materials using a range of workshop tools.
+fabricate, construct • Jigs and formers to ensure accuracy as part of the
+and assemble a high process of drilling, bending, cutting and forming.
+quality prototype,
+including techniques Deforming/Reforming
+such as wastage, • Bending plastics.
+addition, deforming • Vacuum forming.
+and reforming, as
+• Laser cutting.
+appropriate to the
+• 3D printing.
+materials and/or
+• Press forming / moulding.
+components being
+• Blow moulding.
+used
+• CAM machines.
+• 3D Printers.
+• Score and fold paper and card.
+• Assembly and components.
+• Components for a particular purpose.
+• Material joining - permanent and temporary.
+7. Appropriate surface • The application of a variety of finishing materials.
+treatments and finishes • Die cutting, spirit varnishing, U.V. varnishing, laminating,
+that can be applied for embossing, debossing, cropping, folding and binding
+functional and methods.
+aesthetic purposes • The use and importance of product labelling and symbolic
+images that convey messages.
+21
+In-depth knowledge and understanding
+This section is for natural and manufactured timber.
+Learners are required to develop an in-depth knowledge and understanding of:
+Content Amplification
+© WJEC CBAC Ltd.
+rebmit
+derutcafunam
+dna
+larutaN
+1. The sources, • The physical and working properties of hardwoods,
+origins, physical and softwoods and man-made boards: toughness, flexibility,
+working properties of grain structure, strength, absorbency, surface finish, colour
+the material categories and hardness.
+or the components and • Natural solid timber - strengths and weaknesses
+systems, and their • Defects: shrinkage, splits, shakes, knots, fungial attack.
+ecological and social • Hardwoods: beech, oak, mahogany, balsa and jelutong.
+footprint • Softwoods: scots pine, western red cedar and parana pine.
+• Strengths, weaknesses of the following manufactured
+boards:
+• plywood, MDF - medium density fibreboard, chipboard
+and hardboard.
+• The impact on the environment of deforestation.
+• Ecological and social footprint.
+• Changing society’s view on waste, encourage recycling.
+• Living in a greener world.
+• Life-cycle analysis of a material or product.
+2. The way in which • Aesthetic properties of natural and manufactured timbers.
+the selection of • Functional properties of natural and manufactured
+materials or timbers.
+components is • Responsibilities of designers and manufacturers who
+influenced by a range design using timber with respect to:
+of factors, such as • the environment;
+functional, aesthetic, • working conditions in third world countries, low labour
+environmental,
+costs and poverty;
+availability, cost,
+• exploitation of employees;
+social, cultural and
+• recyclability and waste.
+ethical
+• Biodiversity and deforestation.
+• Estimating the true costs of a prototype or product.
+• Comparison costs of hardwoods, softwoods and
+manufactured board.
+3. The impact of forces • The behaviour of natural and manufactured timber under
+and stresses on forces or under stress.
+materials and objects • The stiffness and a strength of natural timber will depend
+and the ways in which upon the wood, the cross sectional area and the depth of
+materials can be the section.
+reinforced and • Reinforcement of natural timber by laminating.
+stiffened • The strength of plywood will depend upon the number of
+layers and the wood grain being at right angles.
+• The strength of a timber product will depend upon how
+the product is jointed or what fixing method is used.
+GCSE DESIGN AND TECHNOLOGY 22
+© WJEC CBAC Ltd.
+rebmit
+derutcafunam
+dna
+larutaN
+4. Stock forms, types • Natural timber is available in different sectional forms,
+and sizes in order to various standard sizes and can have a different finish
+calculate and (sawn or planed).
+determine the quantity • Manufactured boards are commonly available in sheet form
+of materials or and in standard sizes and various thicknesses.
+components required • Calculate the costs involved in the design of products:
+fixtures, fittings, finishes required and the material cost.
+5. Alternative • Advantages and disadvantages of producing single, one off
+processes that can be products.
+used to manufacture • The advantages and disadvantages of producing products
+products to different in limited quantities (batch production).
+scales of production • The need to produce a number of identical products.
+• Jigs and devices to control repeat activities.
+• The advantages and disadvantages of high volume,
+continuous production.
+• Issues related to high volume production.
+• The importance of CAM in modern high volume production.
+6. Specialist Wastage/Addition
+techniques and • Tools and equipment to mark out, hold, cut, shape,
+processes that can be drill and form laminates of natural timbers and
+used to shape, manufactured boards.
+fabricate, construct • The pillar drill to drill holes to various diameters.
+and assemble a high • Jigs and formers to ensure accuracy as part of the
+quality prototype, process of drilling, bending, cutting wood materials.
+including techniques
+such as wastage, Deforming/Reforming
+addition, deforming • Material joining can be permanent or temporary.
+and reforming, as • The principles of producing wood products using the
+appropriate to the
+following processes: jointing, veneering, laminating
+materials and/or
+and steam bending.
+components being
+• Classification of wood joints as frame or box
+used
+construction.
+• Frame: mitre, dowel, mortise and tenon, halving and
+bridle joint.
+• Box/carcass: butt, lap, housing, dovetail and comb
+joint.
+• Adhesives: PVA (wood to wood), contact adhesive and
+epoxy resin (wood to other materials).
+• Temporary: screw (countersunk and round head) and
+knock down fittings.
+• Lasers.
+• CAM machines.
+7. Appropriate surface • Surface treatments of natural timber and manufactured
+treatments and finishes boards to prolong life of a product: sealants and primers.
+that can be applied for • Finishes for aesthetic or functional reasons: varnish, wood
+functional and stains, oils, polishes and preservative paints.
+aesthetic purposes
+23
+In-depth knowledge and understanding
+This section is for ferrous and non-ferrous metals.
+Learners are required to develop an in-depth knowledge and understanding of:
+Content Amplification
+© WJEC CBAC Ltd.
+slatem
+suorref-non
+dna
+suorreF
+1. The sources, origins, • Classification as ferrous metals, non-ferrous metals and
+physical and working alloys.
+properties of the • Metals are soured from ores and are a natural resource.
+material categories or
+the components and Ferrous Metals
+systems, and their • Strengths and weaknesses.
+ecological and social • Cast iron, mild steel, medium carbon steel and high
+footprint carbon steel.
+• Stainless steel, high-speed steel and high-tensile steel.
+• Physical properties of metals: melting point, thermal and
+electrical conductivity.
+• Mechanical properties of metals: tensile strength,
+toughness, plasticity, malleability and hardness.
+• Heat treatment of ferrous metals: annealing, hardening,
+tempering and case hardening.
+Non-Ferrous Metals
+• Strengths and weaknesses.
+• Aluminium, duralumin, copper, brass, bronze, pewter
+and silver.
+• Heat treatment of non-ferrous metals: annealing and
+hardening
+• Physical properties of metals: melting point, thermal and
+electrical conductivity.
+• Mechanical properties of metals: tensile strength,
+toughness, plasticity, malleability and hardness.
+Ecological and social footprint:
+• The impact on our environment of mining for ores.
+• Greenhouse gases during the production of metals.
+• Changing society’s view on waste, encouraging recycling
+of metals.
+• Living in a greener world.
+• Life-cycle analysis of a material or product.
+2. The way in which • Aesthetic and functional properties of the following:
+the selection of aluminium, duralumin, copper, brass, bronze, pewter,
+materials or silver, cast iron, mild steel and medium carbon steel.
+components is • Responsibilities of designers and manufacturers who design
+influenced by a range using metals with respect to:
+of factors, such as • the environment;
+functional, aesthetic, • working conditions in third world countries, low labour
+environmental, costs and poverty;
+availability, cost, social, • exploitation of employees;
+cultural and ethical
+• recyclability and waste.
+• Biodiversity.
+• Estimating the true costs of a prototype or product.
+GCSE DESIGN AND TECHNOLOGY 24
+© WJEC CBAC Ltd.
+slatem
+suorref-non
+dna
+suorreF
+3. The impact of forces • The ability of a metal to withstand forces will depend upon
+and stresses on the type of metal and the natural ability of the metal to be
+materials and objects hardened or tempered by the action of heat.
+and the ways in which • The stiffness and strength of metals will depend upon the
+materials can be metal’s natural properties, stock form, cross sectional
+reinforced and area and the depth of the section.
+stiffened
+4. Stock forms, types • Metals are available in a number of common forms:
+and sizes in order to (round) rod, square rod, hexagonal rod, strip, sheet, round
+calculate and tube, square tube, angle and channel.
+determine the quantity • Sizes of metals are normally related to their cross section
+of materials or and are available in stock lengths.
+components required • Costs and how to calculate the cost of metals for different
+forms of products.
+5. Alternative • Manufacturing systems: one off, batch and high volume
+processes that can be production.
+used to manufacture • Manufacturing systems, the advantages and
+products to different disadvantages of producing single, one off products.
+scales of production • The advantages and disadvantages of producing products
+in limited quantity (batch production).
+• Jigs and devices to control repeat activities.
+• The advantages and disadvantages of high volume,
+continuous production.
+• Issues related to high volume production.
+• Commercial production line and its features.
+• The importance of CAM in modern high volume
+production.
+25
+© WJEC CBAC Ltd.
+slatem
+suorref-non
+dna
+suorreF
+6. Specialist Wastage/Addition
+techniques and • Cutting metals to the required shape or contour.
+processes that can be • Tools and equipment to mark out, hold, cut, shape, drill
+used to shape, and form metals.
+fabricate, construct • The pillar drill to drill holes to various diameters.
+and assemble a high • Jigs and formers to ensure accuracy as part of the
+quality prototype, process of drilling.
+including techniques • Pilot, clearance, tapping, countersunk and counterbored
+such as wastage, holes.
+addition, deforming
+and reforming, as
+Deforming/Reforming
+appropriate to the
+• Metal joining can be permanent or temporary, by welding,
+materials and/or
+soldering and the use of nuts, bolts, washers, screws,
+components being
+rivets, hinges, catches.
+used
+• Lathe to turn materials.
+• Milling machine to create a slot or face edge.
+• The main stages in the following joining processes:
+• Permanent: riveting, welding, brazing, silver soldering
+and use of epoxy resins.
+• Temporary: screws, nuts, bolts.
+• Lasers.
+• CAM machines.
+7. Appropriate surface • Metal surface treatments finishing processes: plastic
+treatments and finishes coating, enamelling, oil finishing black steel, paint and
+that can be applied for primer.
+functional and
+aesthetic purposes
+GCSE DESIGN AND TECHNOLOGY 26
+In-depth knowledge and understanding
+This section is for thermosetting and thermoforming plastics.
+Learners are required to develop an in-depth knowledge and understanding of:
+Content Amplification
+© WJEC CBAC Ltd.
+scitsalp
+gnimrofomreht
+dna
+gnittesomrehT
+1. The sources, • Natural and synthetic plastic.
+origins, physical and • Polymers and the polymerisation process.
+working properties of • Common thermoplastics, their strengths, weaknesses and
+the material categories working properties: acrylic, polythene, PVC,
+or the components and polypropylene, polycarbonate, styrofoam, expanded
+systems, and their polystyrene and nylon.
+ecological and social • Common thermosetting plastics, their strengths,
+footprint
+weaknesses and working properties: urea formaldehyde,
+melamine and epoxy resins.
+• Physical properties of plastics: thermal conductivity and
+electrical conductivity/insulation.
+• Mechanical properties of plastics: tensile strength,
+toughness, plasticity, malleability and hardness.
+Ecological and social footprint:
+• The impact on our environment of oil exploration and
+extraction.
+• Greenhouse gases during the extraction and production
+of polymer plastics.
+• Changing society’s view on waste, encourage recycling of
+all plastics.
+• Living in a greener world.
+• Life-cycle analysis of a material or product.
+2. The way in which • Aesthetic and functional properties and the advantages
+the selection of and disadvantages plastics in everyday products.
+materials or
+components is • Responsibilities of designers and manufacturers who design
+influenced by a range using plastics with respect to:
+of factors, such as • the environment;
+functional, aesthetic, • working conditions in third world countries, low labour
+environmental, costs and poverty;
+availability, cost, • exploitation of employees;
+social, cultural and
+• recyclability and waste.
+ethical
+• biodiversity.
+• Estimating the true costs of a prototype or product.
+• New polymers are being developed often for specific
+purposes: biodegradability and compostability.
+27
+© WJEC CBAC Ltd.
+scitsalp
+gnimrofomreht
+dna
+gnittesomrehT
+3. The impact of forces • The behaviour of thermoforming and thermosetting
+and stresses on plastics under forces or stress.
+materials and objects • The stiffness and a strength of thermoforming and
+and the ways in which thermosetting plastic polymers depends upon the type of
+materials can be plastic, the cross sectional area and the depth of the
+reinforced and section.
+stiffened • Thermoforming and thermosetting plastic polymers can
+be strengthened by laminating.
+• Different forms of fibres can affect the strength of
+thermosetting plastics and act as reinforcement.
+4. Stock forms, types • Polymers are available in expanded forms:
+and sizes in order to open cell – foams; closed cell - expanded plastics.
+calculate and • Plastic polymers are available in a wide range of forms:
+determine the quantity powders, granules, pellets, liquids, films, sheets and
+of materials or extruded shapes.
+components required • Calculate material costs for products.
+5. Alternative • Advantages and disadvantages of producing single, one off
+processes that can be products.
+used to manufacture • The advantages and disadvantages of producing products
+products to different in limited quantities (batch production).
+scales of production • The need to produce a number of identical products.
+• Jigs and devices to control repeat activities.
+• The advantages and disadvantages of high volume,
+continuous production.
+• The importance of CAM in modern high volume production.
+• A range of products suitable for high volume, continuous
+production.
+• The principles of producing plastic products and
+components using the following processes: blow
+moulding, vacuum forming, press moulding and
+compression moulding.
+GCSE DESIGN AND TECHNOLOGY 28
+© WJEC CBAC Ltd.
+scitsalp
+gnimrofomreht
+dna
+gnittesomrehT
+6. Specialist Wastage/Addition
+techniques and • Cutting thermosetting and thermoforming plastics to the
+processes that can be required shape or contour.
+used to shape, • Tools and equipment to mark out, hold, cut, shape, drill,
+fabricate, construct and form plastics
+and assemble a high • The pillar drill to drill holes to various diameters.
+quality prototype, • Jigs and formers to ensure accuracy as part of the
+including techniques process of drilling.
+such as wastage, • Pilot, clearance, tapping, countersunk and counterbored
+addition, deforming
+holes.
+and reforming, as
+appropriate to the
+Deforming/Reforming
+materials and/or
+• Plastics joining can be permanent or temporary, by
+components being
+plastic welding and the use of nuts, bolts, washers,
+used
+screws, rivets, hinges, catches.
+• Lathe to turn materials.
+• Milling machine to create a slot or face edge.
+• Lasers.
+• CAM machines.
+• Blow moulding.
+• Vacuum forming.
+• Press moulding.
+7. Appropriate surface • Self-finishing nature of many thermosetting and
+treatments and thermoforming plastics.
+finishes that can be • Textured finishes of plastics.
+applied for functional
+and aesthetic
+purposes
+29
+In-depth knowledge and understanding
+This section is for natural, synthetic, blended and mixed fibres, and woven, non-woven
+and knitted textiles.
+Learners are required to develop an in-depth knowledge and understanding of:
+Content Amplification
+© WJEC CBAC Ltd.
+selitxet
+dettink
+dna
+nevow-non
+,nevow
+dna
+,serbif
+dexim
+dna
+dednelb
+,citehtnys
+,larutaN
+1. The sources, • Construction methods, and how their advantages and
+origins, physical and disadvantages affect end use.
+working properties of • Weaving: plain, twill, satin, herringbone, pile.
+the material categories • Knitting: weft knit and a warp knit.
+or the components and • Bonding: sticking with adhesives; heating thermoplastic
+systems, and their
+fibres; stitching a web of fibres.
+ecological and social • Laminating.
+footprint • Felting.
+• Fibres are the raw material of textiles and they can be
+classified according to their source.
+• The nature of staple and continuous filaments; textured
+yarns; novelty yarn (chenille) and these determine fabric
+weight, flexibility, handle and end use.
+• The properties of the main natural and manufactured
+fibres/fabrics: strength, elasticity, absorbency, durability,
+insulation, flammability, water repellence, anti-static and
+resistance to acid, bleach, sunlight.
+• Blending and mixing fibres to improve the properties and
+uses of yarns and materials.
+• Blends: polyester and cotton, silk and viscose, hemp and
+cotton or silk.
+• Mixture: cotton and wool, lycra with wool cotton or nylon.
+• Bonding breathable waterproof membranes to outer fabrics
+for all-weather wear (Gore-Tex, Permatex).
+• Bonding foam to knitted or woven fabrics.
+• Bonding plastic to loosely woven cotton to simulate leather.
+• Quilting – polyester wadding between an outer and lining
+material.
+Ecological and social footprint:
+• The impact on our environment e.g. pollution from the
+processing of textiles, in parts of the world.
+• Changing society’s view on waste, encourage recycling.
+• Living in a greener world.
+• Life-cycle analysis of a material or product.
+GCSE DESIGN AND TECHNOLOGY 30
+© WJEC CBAC Ltd.
+selitxet
+dettink
+dna
+nevow-non
+,nevow
+dna
+,serbif
+dexim
+dna
+dednelb
+,citehtnys
+,larutaN
+2. The way in which • A variety of finishing processes and why they are
+the selection of important for aesthetic and functional reasons.
+materials or • Different methods of enhancing the appearance,
+components is prolonging and protecting life.
+influenced by a range • To enhance aesthetic quality:
+of factors, such as • Colouring, surface decoration, embossing, glazing,
+functional, aesthetic, moiré effect, stiffening, increasing lustre (calendering,
+environmental, mercerising), brushing, stain resistance (Scotchguard,
+availability, cost, Teflon).
+social, cultural and
+ethical • To enhance fabric life:
+• Flame retardant, moth proofing.
+• To improve functionality:
+• Shower proofing using PVA or PVC or wax; crease
+resistance using resin; waterproofing using silicones;
+shrink resistance using chlorine treatment; anti-static
+finish, coating with PVC, neoprene, silicone rubber,
+polyurethane; use of barrier membranes laminated to
+an outer or inner shell to make them breathable yet
+waterproof; windproof materials made by very close
+weave construction.
+• Responsibilities of designers and manufacturers who design
+using textiles with respect to:
+• the environment;
+• working conditions in third world countries, low labour
+costs and poverty;
+• exploitation of employees;
+• recyclability and waste;
+• biodiversity.
+3. The impact of forces • Textile materials and components behave differently when
+and stresses on subjected to force or stress e.g. a loaded rucksack, tents,
+materials and objects uses in geotextiles, active sportswear, workwear, in normal
+and the ways in which daily wear.
+materials can be • The strength, durability and elasticity of textile materials will
+reinforced and depend upon the fibre source and the construction method
+stiffened for the material or components.
+• Textile materials can be strengthened by laminating,
+bonding and quilting to improve functionality.
+• The strength of textile products will depend upon the
+combination of joining or fixing methods used.
+4. Stock forms, types • Textile materials come in standard widths 90cm, 115cm,
+and sizes in order to 150cm, 200cm, 240cm.
+calculate and • Estimate material quantities and costs based on best use
+determine the quantity of materials.
+of materials or • Calculate costs and quantities for components.
+components required
+31
+© WJEC CBAC Ltd.
+selitxet
+dettink
+dna
+nevow-non
+,nevow
+dna
+,serbif
+dexim
+dna
+dednelb
+,citehtnys
+,larutaN
+5. Alternative • Products can be manufactured in quantity.
+processes that can be • Different methods of manufacture: job production
+used to manufacture (custom-made or one–off); batch production; mass
+products to different production and when each is appropriately used.
+scales of production • The scale of production depends on the quantity of
+products required.
+• How manufacturing systems are organised: line
+production; progressive bundle system; cell
+production.
+6. Specialist • The correct materials, hand tools and equipment for a
+techniques and range of practical tasks such as template production;
+processes that can be stencil preparation; cutting out and assembly.
+used to shape, • Change accessories when appropriate for special
+fabricate, construct processes e.g. using a zipper foot for piping.
+and assemble a high • Industrial manufacturing processes, e.g. stitch, trim and
+quality prototype, neaten seams with the over locker.
+including techniques • CAD/CAM equipment for cutting templates accurately and
+such as wastage, continuously.
+addition, deforming • Pattern language and markers for lay plans.
+and reforming, as
+• Visual checks for pattern drop/match.
+appropriate to the
+• The importance of accuracy and working to a tolerance -
+materials and/or
+correct use of seam tolerances in joining/trimming.
+components being
+• Correct use of thread-colour, type, shade, stitch length.
+used
+• The appropriate choice of construction and decorative
+processes for fabric type and product end use.
+• The basic procedures for lay planning and use of pattern
+language.
+• Lengthwise / crosswise folds, cutting on the cross or bias,
+notches, grain lines, balance marks, tuck/pleat lines, dart
+markings, positions for pockets, buttons / holes, centre
+front / back lines, seam tolerance.
+• Different methods of transferring important marks onto
+material prior to product manufacture.
+• Tailor’s chalk.
+• Hot notch marking in industry.
+• Different types of cutting tools and equipment used
+industry and know why they are used;
+• Cutting tools:
+• straight knives, round or band knives, automated die
+cutters for products of constant shapes, computer
+controlled cutting machines and laser cutters.
+• Other equipment used for: lay planning and estimating
+material quantities, fabric spreading to include several
+plies.
+7. Appropriate surface • Dyeing: piece, dip, random, tie and dye, batik.
+treatments and • Printing: silk screen, roller, discharge, block, burn out;
+finishes that can be stencilling; marbling; air brushing.
+applied for functional • Painting: felt tip, dimensional, fabric paint, silk paints.
+and aesthetic • Transfers: image-maker, ink-jet transfer (CAM).
+purposes • Embroidery: hand embroidery, machine embroidery,
+CAM.
+• Appliqué; beadwork.
+GCSE DESIGN AND TECHNOLOGY 32
+2.2 Designing and making principles
+Designing and making principles
+Develop and apply core knowledge, understanding and skills
+This section is designed to develop learners’ knowledge, understanding and skills when
+designing and making prototypes. It describes the activities learners are required to undertake
+as part of the sustained design and make activity which forms the non-exam assessment
+(NEA) in this qualification.
+Additionally, whilst not being required within the written examination to undertake design and
+make activity, or evaluate their own prototypes from the NEA, learners' knowledge and
+understanding of these designing and making principles will be assessed in Component 1
+'Design and Technology in the 21st Century'.
+Content Amplification
+1. Understand that all design • Contexts are a starting point to inform possible
+and technological practice outcomes, situations to create design briefs.
+takes place within contexts
+which inform outcomes.
+2. Identify and understand • Identify the needs and wants of the end user.
+client and user needs • Suggest possible design problems from the contexts.
+through the collection of • Explore and investigate existing products, situations
+primary and secondary data. before deciding upon whether there is a real need for a
+product.
+• Explore and investigate existing products, situations to
+inform possible specification points for designing.
+• Primary research data: collecting data and using this to
+explore and aid further work.
+• Secondary research data: collecting existing data and
+using this to explore and aid further work.
+3. Demonstrate an ability to • Write design briefs for specific needs, wants or
+write a design brief and interests.
+specifications from their own • Write specifications that are derived from their own
+and others’ considerations of
+investigations, the needs and wants of clients.
+human needs, wants and
+interests.
+4. Investigate factors, such • Designing should not take place in isolation but there
+as environmental, social and are wider needs to be considered:
+economic challenges, in • ergonomics
+order to identify
+• anthropometrics
+opportunities and constraints
+• environmental
+that influence the processes
+of designing and making. • social
+• economic
+5. Explore and develop their • The importance of testing and evaluating ideas.
+ideas, testing, critically • Continuously reviewing and critically analysing work as
+analysing and evaluating
+it develops to improve the final design outcome.
+their work in order to inform
+• Refine and modify design ideas based upon learners'
+and refine their design
+own decisions and those of others.
+decisions thus achieving
+improved outcomes.
+© WJEC CBAC Ltd.
+33
+6. Investigate and analyse • Investigate and analyse the work of past and present
+the work of past and present designers and companies:
+professionals and Airbus
+o
+companies in the area of
+Apple
+o
+design and technology in
+James Dyson
+order to help inform their o
+Philippe Starck
+own ideas. o
+Matthew Williamson
+o
+• Where appropriate, review and link the work of past and
+present designers and companies to inform, refine and
+modify their design ideas.
+7. Use different design • Use of design strategies such as:
+strategies, such as • Collaboration – Discover, Define, Develop,
+collaboration, user-centred
+Deliver.
+design and systems thinking,
+• User-centred design - Contexts, Requirements,
+to generate initial ideas and
+Design solutions, Evaluate, Iteration.
+avoid design fixation.
+• Systems thinking.
+8. Develop, communicate, • Formal and informal 2D and 3D drawing.
+record and justify design • System and schematic diagrams.
+ideas, applying suitable
+• Annotated sketches.
+techniques, for example:
+• Exploded diagrams.
+formal and informal 2D and
+3D drawing; system and • Models.
+schematic diagrams; • Presentations.
+annotated sketches;
+• Written notes.
+exploded diagrams; models;
+• Flow diagrams
+presentations; written notes;
+working drawings; • Working drawings.
+schedules; audio and visual • Schedules.
+recordings; mathematical • Audio and visual recordings.
+modelling; computer-based
+• Mathematical modelling.
+tools.
+• Computer-based tools.
+9. Design and develop at Design and develop a prototype which :
+least one prototype that • Responds to needs and/or wants
+responds to needs and/or
+• Is fit for purpose,
+wants and is fit for purpose,
+• Demonstrates functionality,
+demonstrating functionality,
+aesthetics, marketability and
+consideration of innovation.
+10. Make informed and • Respond thoughtfully and make informed judgements
+reasoned decisions, respond when evaluating their own prototype.
+to feedback about their own • Act on the views of others.
+prototypes (and existing • Make suggestions for improvements of their own
+products and systems) to prototype and how these modifications could be made.
+identify the potential for • Respond to feedback from others or clients and suggest
+further development and
+improvements/modifications of their prototype.
+suggest how modifications
+could be made.
+© WJEC CBAC Ltd.
+GCSE DESIGN AND TECHNOLOGY 34
+Designing and making principles
+Develop and apply in-depth knowledge, understanding and skills
+Learners are required to develop and apply in-depth knowledge, understanding and skills in relation
+to at least one of the following:
+• electronic systems, programmable components & mechanical devices
+• papers & boards
+• natural & manufactured timber
+• ferrous & non-ferrous metals
+• thermoforming & thermosetting polymers
+• natural, synthetic, blended and mixed fibres; woven, non-woven and knitted textiles.
+As for the core knowledge, understanding and skills described above, this section describes
+activities learners are required to undertake as part of the sustained design and make activity which
+forms the non-exam assessment (NEA) in this qualification. Learners are required to cover all of the
+content in these five areas, to ensure they are able to apply a broad knowledge and understanding
+of design and technology principles within the examined component.
+Content Amplification
+1. Selecting and working with • Select and work with appropriate materials or components
+appropriate materials and that will realise their chosen prototype.
+components in order to
+produce a prototype.
+2. Using appropriate and • When making prototypes, measure and mark out
+accurate marking out methods accurately
+including: measuring and use • Consider how to minimise waste and make allowances for
+of reference points, lines and effective cutting methods.
+surfaces; use templates, jigs • Marking methods:
+and/or patterns; work within
+• Measuring and use of reference points.
+tolerances; understand
+• Lines and surfaces.
+efficient cutting and how to
+• Use templates, jigs and/or patterns.
+minimise waste.
+• Work within tolerances.
+3. Using specialist tools and • When making prototypes learners should:
+equipment, appropriate to the • select and use specialist techniques, hand tools
+materials or components used and machinery appropriate to the material being
+(including hand tools, shaped or worked;
+machinery, digital design and • adhere to relevant Health and Safety regulations
+manufacture), to create a will need to applied appropriate to the environment
+specific outcome. they are working in.
+4. Using specialist techniques • When making prototypes learners should use specialist
+and processes to shape, techniques to:
+fabricate, construct and • Shape
+assemble a high quality • Fabricate
+prototype, including • Construct
+techniques such as wastage, • Assemble
+addition, deforming and • Include techniques such as wastage, addition, deforming
+reforming, as appropriate to and reforming, as appropriate to the materials and/or
+the materials and/or components being used.
+components being used.
+5. Using appropriate surface • Be aware and use appropriate surface finishing for
+treatments and finishes for different materials
+functional and aesthetic • The importance of finishing techniques to protect and
+purposes. enhance the aesthetics qualities of the material/s.
+© WJEC CBAC Ltd.
+35

@@ -1,0 +1,26 @@
+1.1 P4.1 Magnets and magnetic fields
+1.1.1 P4.1a describe the attraction and repulsion between unlike and like poles for permanent magnets
+1.1.1.1 diagrams of magnetic field patterns around bar magnets to show attraction and repulsion
+1.1.2 P4.1b describe the difference between permanent and induced magnets
+1.1.3 P4.1c describe the characteristics of the magnetic field of a magnet, showing how strength and direction change from one point to another
+1.1.3.1 diagrams to show how the strength of the field varies around them
+1.1.3.2 ways of investigating this
+1.1.4 P4.1d explain how the behaviour of a magnetic (dipping) compass is related to evidence that the core of the Earth must be magnetic
+1.1.5 P4.1e describe how to show that a current can create a magnetic effect and describe the directions of the magnetic field around a conducting wire
+1.1.6 P4.1f recall that the strength of the field depends on the current and the distance from the conductor
+1.1.7 P4.1g explain how solenoid arrangements can enhance the magnetic effect
+1.1.7.1 investigation of the factors that can affect the magnetic effect e.g. number of turns, and length
+
+1.2 P4.2 Uses of magnetism
+1.2.1 P4.2a describe how a magnet and a current-carrying conductor exert a force on one another
+1.2.2 P4.2b show that Fleming’s left-hand rule represents the relative orientations of the force, the current and the magnetic field
+1.2.3 P4.2c apply the equation that links the force on a conductor to the magnetic flux density, the current and the length of conductor to calculate the forces involved
+1.2.4 P4.2d explain how the force exerted from a magnet and a current-carrying conductor is used to cause rotation in electric motors
+1.2.4.1 an understanding of how electric motors work but knowledge of the structure of a motor is not expected
+1.2.5 P4.2e recall that a change in the magnetic field around a conductor can give rise to an induced potential difference across its ends, which could drive a current, generating a magnetic field that would oppose the original change
+1.2.6 P4.2f explain how this effect is used in an alternator to generate a.c., and in a dynamo to generate d.c.
+1.2.7 P4.2g explain how the effect of an alternating current in one circuit, in inducing a current in another, is used in transformers
+1.2.8 P4.2h explain how the ratio of the potential differences across the two coils in a transformer depends on the ratio of the numbers of turns in each
+1.2.9 P4.2i apply the equations linking the potential differences and numbers of turns in the two coils of a transformer
+1.2.10 P4.2j explain the action of the microphone in converting the pressure variations in sound waves into variations in current in electrical circuits, and the reverse effect as used in loudspeakers and headphones
+1.2.10.1 an understanding of how dynamic microphones work using electromagnetic induction

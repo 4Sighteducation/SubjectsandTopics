@@ -1,0 +1,130 @@
+{
+  "timestamp": "20251123-183801",
+  "total_subjects": 1,
+  "success_count": 1,
+  "fail_count": 0,
+  "success_rate": 100.0,
+  "reports": [
+    {
+      "subject_name": "Computer Science",
+      "level": "GCSE",
+      "pdf_url": "https://www.eduqas.co.uk/media/tf3bvmxe/eduqas-gcse-computer-science-specification-10-02-2020.pdf",
+      "start_time": "2025-11-23T18:36:49.182410",
+      "success": true,
+      "topics_extracted": 336,
+      "levels": {
+        "0": 2,
+        "1": 16,
+        "2": 50,
+        "3": 96,
+        "4": 172
+      },
+      "issues": [],
+      "warnings": [
+        "Not all components extracted"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "content_found": true,
+        "has_components": true,
+        "has_tiers": false,
+        "has_options": false,
+        "has_appendices": true,
+        "components": [
+          {
+            "number": "1",
+            "name": "5"
+          },
+          {
+            "number": "2",
+            "name": "14"
+          },
+          {
+            "number": "2",
+            "name": "on-screen examination 18"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Computer Science"
+          },
+          {
+            "number": "2",
+            "name": "Computer Programming"
+          },
+          {
+            "number": "1",
+            "name": "and Component 2, the context in which this content is assessed differs. In"
+          },
+          {
+            "number": "2",
+            "name": "it is"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Computer Science"
+          },
+          {
+            "number": "2",
+            "name": "Computer Programming"
+          },
+          {
+            "number": "1",
+            "name": "1. Hardware"
+          },
+          {
+            "number": "2",
+            "name": "Structure of assessment"
+          },
+          {
+            "number": "1",
+            "name": "and Component 2 and for the qualification as a whole."
+          },
+          {
+            "number": "1",
+            "name": "30% 15% 5%"
+          },
+          {
+            "number": "2",
+            "name": "0% 25% 25%"
+          },
+          {
+            "number": "2",
+            "name": "Some tasks in Component 2 will require work to be completed using Python 3, which"
+          },
+          {
+            "number": "2",
+            "name": "must be submitted to WJEC electronically, using"
+          },
+          {
+            "number": "2",
+            "name": "on-screen examination 18"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Computer Science"
+          },
+          {
+            "number": "2",
+            "name": "Computer Programming"
+          },
+          {
+            "number": "1",
+            "name": "Understanding Computer Science"
+          },
+          {
+            "number": "2",
+            "name": "Computer Programming"
+          }
+        ],
+        "tiers": [],
+        "options": [],
+        "appendices": [
+          "Appendix B"
+        ],
+        "structure_type": "component-based"
+      },
+      "duration_seconds": 72.6575288772583,
+      "end_time": "2025-11-23T18:38:01.839939"
+    }
+  ]
+}

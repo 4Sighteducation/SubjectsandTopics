@@ -1,0 +1,27 @@
+Here is the complete hierarchy for Module 4: Interpreting the past, including all content from the "Learning outcomes" column:
+
+```
+4 Module 4: Interpreting the past
+4.1 Sedimentary environments in time
+4.1.1 Uniformitarianism and the rock cycle
+4.1.1.1 (a) the use of evidence in the field, photographs, diagrams and maps to recognise the rock cycle
+4.1.1.2 (b) how uniformitarianism and the rock cycle model developed over time, including ideas of catastrophism, mass extinctions, and changing conditions and rates of processes through geological time including the contributions of James Hutton and William Smith
+4.1.1.3 (c) what facies associations are, why facies are the basic unit of sedimentary geology and how uniformitarianism is applied to the study of facies by analogy with modern sedimentary sequences and processes.
+4.1.2 Surface processes and products
+4.1.2.1 (a) how the characteristics of the facies in a sedimentary environment are related to the methods of sediment transport
+4.1.2.1.1 (i) how the characteristics of the facies in a sedimentary environment are related to the methods of sediment transport
+4.1.2.1.2 (ii) the diagnostic sedimentary structures produced by the sediment transport processes
+4.1.2.1.3 (iii) the recognition, application and sketching of the diagnostic properties of sedimentary structures to interpret way-up and sedimentary environments, in the field and on photographs
+4.1.2.2 (b) the construction and interpretation of graphic logs of modern sediment sequences and ancient sedimentary rock
+4.1.2.3 (c) deposition in fluvial environments which produces a characteristic three-dimensional architecture due to lateral migration
+4.1.2.4 (d) deposition in hot desert environments which are controlled by gradual aeolian processes and episodic high energy events
+4.1.2.5 (e) deposition in shallow siliciclastic seas which produces characteristic offshore transitions from beach deposits, current reworked sand sheets to muds, below the wave base
+4.1.2.6 (f) deposition in shallow carbonate seas which produces characteristic limestones within, on and outside the reef (reef limestone, bioclastic limestone and oolitic limestones)
+4.1.2.7 (g) deposition in deep water carbonate seas above the carbonate compensation depth.
+4.2 Geochronology
+4.2.1 Relative dating and biostratigraphy
+4.2.1.1 (a) the geochronological principles used to place geological events in relative time sequences in outcrops, photographs, maps and cross-sections to interpret geological histories
+4.2.1.2 (b) the critical application of lithostratigraphic correlation (lateral variation, diachronous beds)
+4.2.1.3 (c) the application and limitations of relative dating
+4.2.1.4 (d) biostratigraphic correlation using first appearance of macro fossils, stratigraphic range, extinction and fossil assemblages.
+```

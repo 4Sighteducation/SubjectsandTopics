@@ -1,0 +1,5616 @@
+Developer API (2.0.0)
+Download OpenAPI specification:Download
+
+Overview (v2)
+New to RevenueCat?
+Welcome! If you're adding subscriptions or other in-app purchases to your app, the RevenueCat SDK will handle most of the heavy-lifting without the need to interact with this API directly. See our Quickstart for more information on getting started with RevenueCat.
+API v2 under development
+REST API v2 is currently under development and does not yet cover all use cases from API v1. For those missing use cases, please use v1 in the meantime.
+About RevenueCat’s REST API
+RevenueCat provides a REST API for developers to perform customer and transaction related actions from their own server.
+
+Most of this API is geared toward client usage via RevenueCat’s SDK, but there are various endpoints that can be used for refunding purchases, granting promotional entitlements, and other sensitive actions that can only be done via a Secret API key from your server.
+
+Should I use this REST API or the RevenueCat SDK?
+If you’re adding subscriptions or other in-app purchases to your app for the first time or if you don’t have a backend that stores your user’s receipts, you’re probably looking to implement the RevenueCat SDK.
+
+If you want to start migrating your existing users to RevenueCat and you have your user’s receipts stored on your own server, or you want to check subscription status of your users from your own server, the REST API is a great solution.
+
+Base URL
+The base URL for the RevenueCat REST API v2 is https://api.revenuecat.com/v2.
+
+Authentication
+Authentication for the RevenueCat REST API is achieved by setting the Authorization header with a valid API key. You'll find two types of API keys in your RevenueCat dashboard: public and secret.
+
+Certain endpoints require secret keys, which should be kept out of any publicly accessible areas such as GitHub, client-side code, and so forth. See our Authentication guide for more information.
+
+Authorization: Bearer YOUR_REVENUECAT_API_KEY
+Authorization type `Bearer` required in header
+he RevenueCat REST API v2 requires stating the authorization type `Bearer` in the `Authorization` header before the API key in accordance with [RFC 7235](https://datatracker.ietf.org/doc/html/rfc7235). This is different to the v1 API which allowed passing just the API key as the `Authorization` header.
+API v1 keys will not work with REST API v2
+In order to utilize the RevenueCat API v2, please create new v2 secret keys and define your permissions.
+API v2 Permissions
+You can create a new secret API key in your project settings page > API keys. Select + New.
+
+
+
+Give it a name, select V2 as the version, and set your permissions. Be sure to select Generate at the top right corner.
+
+
+
+Each endpoint in this documentation will contain a description informing you which permissions are required.
+
+Request Payload
+The body of the POST requests should be encoded in JSON and have the 'Content-Type' header set to 'application/json'.
+
+Content-Type: application/json
+{
+  "app_user_id": "user-1456",
+  "fetch_token": "MQABC...EFH1234="
+}
+Params
+Encode your URL params
+For URL params, such as the `app_user_id`, make sure you URL encode them before using them.
+Pagination
+Top-level API resources have support for bulk fetches via "list" API methods. For instance, you can list products, list entitlements, and list offerings. These list API methods share a common structure, taking at least these two parameters: limit and starting_after.
+
+When a response or a field contains multiple entities of the same type, it returns a list object of the following structure:
+
+{
+  "object": "list",
+  "items": [{}],
+  "next_page": "LIST_BASE_URL?starting_after=LAST_ID",
+  "url": "LIST_BASE_URL"
+}
+Where…
+
+url is the full path base URL of the list endpoint (i.e., if you make a request to this endpoint, you will get the first page), e.g. /v2/projects/{project_id}/products
+next_page is the URL for the next page, if there is one. If there is no next page, the next_page field will not be present. Example: /v2/projects/{project_id}/products?starting_after={last_id}
+items is an array of the entries of the list.
+The starting_after query parameter of list endpoints accepts the ID of the first list item that will not be part of the list (in other words, the ID of the last item of the previous page).
+
+At the moment we only support forward pagination.
+
+Parameters
+limit optional, default is 20
+
+A limit on the number of objects to be returned.
+
+starting_after optional
+
+A cursor for use in pagination. starting_after is an object ID that defines your place in the list. For instance, if you make a list request and receive 20 objects, ending with foo, your subsequent call can include starting_after=foo in order to fetch the next page of the list.
+
+Rate Limit
+API v2 uses rate limiting to prevent abuse. Rate limits are configured per domain, and all endpoints within the same domain share the same rate limit.
+
+Rate Limits by Domain
+Domain	Rate Limit (requests per minute)
+Customer Information	480
+Charts & Metrics	5
+Project Configuration	60
+Virtual Currencies - Create Transaction	480
+Each endpoint belongs to one of these domains. The rate limit applies per API key (for app-level keys) or per developer (for developer-level keys).
+
+Rate Limit Headers
+We will return the following headers on all successful requests:
+
+RevenueCat-Rate-Limit-Current-Usage: the number of executed requests for the current rate limiting period, including the current request. The rate limiting period is one minute.
+RevenueCat-Rate-Limit-Current-Limit: the limit in requests per minute for this endpoint
+If you reach the rate limit, as indicated by a 429 error code, we will also include the following header:
+
+Retry-After: the number of seconds to wait until you can retry this request.
+Below is an example of the response body that will be sent when the rate limit is reached. The value of the backoff_ms field corresponds to the `Retry-After`` header but specified in milliseconds.
+
+{
+  "type": "rate_limit_error",
+  "message": "Rate limit exceeded",
+  "retryable": true,
+  "doc_url": "https://errors.rev.cat/rate-limit-error",
+  "backoff_ms": 1000
+}
+Expandables
+Expandables allow you to retrieve related data along with the request without making additional requests. Fields in the REST API will allow you to request additional information as an expanded response by using the expand query parameter.
+
+For example, a product object will have an associated app_id field. This app_id field can be expanded in the same request with the expand query parameter and will include an app object in the response.
+
+Without expand query param
+{
+  "object": "product",
+  "id": "prod1a2b3c4d5e",
+  "store_identifier": "rc_1w_199",
+  "type": "subscription",
+  "subscription": {
+    "duration": "P1M",
+    "grace_period_duration": "P3D",
+    "trial_duration": "P1W"
+  },
+  "created_at": 1658399423658,
+  "app_id": "app1a2b3c4"
+}
+With expand query param:
+{
+  "object": "product",
+  "id": "prod1a2b3c4d5e",
+  "store_identifier": "rc_1w_199",
+  "type": "subscription",
+  "subscription": {
+    "duration": "P1M",
+    "grace_period_duration": "P3D",
+    "trial_duration": "P1W"
+  },
+  "created_at": 1658399423658,
+  "app_id": "app1a2b3c4",
+  "app": {
+    "id": "app1a2b3c4",
+    "name": "string",
+    "created_at": 1658399423658,
+    "type": "amazon",
+    "project_id": "proj1a2b3c4"
+  }
+}
+As you can see from above, the app_id field remains the same, but the response contains an additional app object.
+
+Fields that can be expanded into objects are indicated in the endpoint documentation under Query Params and will list accepted values. Also, the required permissions to be defined in the API key are listed there.
+
+Error Handling
+RevenueCat uses standard HTTP status codes to indicate the success or failure of an API request. Codes in the 2XX range indicate the request was successful. 4XX codes indicate an error caused by the client. 5XX codes indicate an error in RevenueCat servers.
+
+Successful modifications return the modified entity. Errors return the following fields:
+
+{
+  "type": "parameter_error",
+  "param": "customer_id",
+  "message": "id is too long",
+  "retryable": false,
+  "doc_url": "https://errors.rev.cat/parameter-error"
+}
+For more information on the type field and how to resolve these errors, please visit our Error Types documentation.
+
+Error Codes
+Code	Name	Description
+200	OK	Processed as expected
+201	Created	Entity was created
+202	Accepted	Request acknowledged, but cannot be processed in real time (for instance, async job)
+204	No content	The request was successful and there was no content that could be returned
+400	Bad Request	Client error
+401	Unauthorized	Not authenticated
+403	Forbidden	Authorization failed
+404	Not Found	No resource was found
+409	Conflict	Uniqueness constraint violation
+418	I'm a teapot	RevenueCat refuses to brew coffee
+422	Unprocessable entity	The request was valid and the syntax correct, but we were unable to process the contained instructions.
+423	Locked	The request conflicted with another ongoing request
+429	Too Many Requests	Being rate limited
+500	Internal Server Error	The RevenueCat server ran into an unexpected problem – please check the RevenueCat status page for any known outages and/or report the issue to RevenueCat support
+502	Bad Gateway	Invalid response from an upstream server
+503	Service Unavailable	There wasn’t a server to handle the request
+504	Gateway Timeout	We could not get the response in time from the upstream server
+Error Types
+authentication_error
+Authentication is not valid for the given API key. Double check your API key.
+
+authorization_error
+The API key does not belong the project you specified. Double check that your API key is associated with the IDs you are passing.
+
+invalid_request
+This error can be due to several reasons:
+
+Content-Type: application/json is missing in the request header for POST/PUT/PATCH requests
+Using the incorrect HTTP method on a path (i.e: GET …/entitlements/<entitlements_id>/actions/attach_products)
+parameter_error
+The parameter provided is invalid. Please refer to the message field for more information.
+
+IDs (e.g: entitlement_id, project_id, etc): 1 to 255 characters
+display_name(applies to Entitlements): 1 to 1000 characters
+lookup_key(applies to Entitlements): 1 to 200 characters
+rate_limit_error
+The request has hit the rate limit for this endpoint. Refer to the backoff_ms field to determine how many milliseconds to wait before making another request to the same endpoint.
+
+resource_missing
+The resource with the specific ID does not exist. Double check the IDs (e.g: product ID, entitlement ID, etc) you are passing into the endpoints.
+
+resource_already_exists
+The resource with the specific ID already exists. Use a different, unique value for ID and try again.
+
+resource_locked_error
+The resource is currently being modified by a concurrent request. Refer to the backoff_ms field to determine when to try again.
+
+server_error
+Request is not able to be processed due to an internal server error. Refer to the backoff_ms field to determine when to try again. Please report this to the RevenueCat team if you are encountering this issue.
+
+store_error
+There was a problem with the stores (e.g: Apple App Store, Google Play Store, etc). This typically occurs when the stores are unable to process the request. Refer to the backoff_ms field to determine when to try again.
+
+unprocessable_entity_error
+Request is not able to be processed. Please refer to the message field for more information.
+
+Representation of Subscriptions
+In comparison to our v1 REST API, we have made changes to improve the organization and accessibility of your customers’ subscriptions. The data model used in the RevenueCat REST API v2 has several advantages. Firstly, it better abstracts differences between different app stores, making it easier for you to access your data without needing to understand the specificities and idiosyncrasies of each individual store.
+
+Additionally, the REST API v2 subscription data model provides richer information regarding your subscription data and includes new fields such as:
+
+gives_access: Rather than having to create your own logic to determine if a customer should have access, we will provide you with that information directly.
+auto_renewal_status: Previously you would have to use unsubscribe_detected_at, billing_issues_detected_at, and other fields to determine the auto renewal status of the customer, now we include this information to take away the estimation work.
+status: Gives you a quick and easy way to gather the status of the customer’s subscription to determine what state they are currently in.
+store_subscription_identifier: Whereas the old data model was missing the store’s subscription identifier (aka the transaction ID directly from the stores), we have included this new field to help identify your customer’s subscription.
+total_revenue_in_usd: You can easily determine how much a customer has spent for this subscription in USD and utilize it for your own bookkeeping purposes. This object also contains information such as gross, commission, tax, and proceeds to help you break down the customer’s revenue.
+To view more details of fields we have included for the subscription object, check out the model reference.
+
+Eventually we will also expose this sort of information in webhooks and customer event details to incorporate the new data model throughout RevenueCat.
+
+What constitutes a new subscription
+Different stores supported by RevenueCat have different logic to define what is a new subscription vs. a change to an existing subscription. To make it easier to handle subscriptions across different stores, the data model for the RevenueCat REST API v2 is now following a consistent definition of what continues the same subscription vs. a new one:
+
+After a subscription has lapsed (e.g: after a billing retry or letting subscription expire after an unsubscribe), if a customer subscribes to the same product it will be considered a new subscription (this was previously treated differently on Apple App Store vs. Google Play Store)
+If the product of a paid subscription is changed, the subscription to the new product will be considered a new subscription. An exception is product changes during a trial period, the post-trial subscription period to a different product will not be considered a new subscription, but a regular trial conversion
+For family shared subscriptions:
+Family shared subscriptions will be considered as a new subscription (albeit with no revenue)
+If family sharing access is revoked and later re-enabled, this will be considered as a new subscription
+Diagrams for different cases
+Billing issue: unrecovered
+
+
+Billing issue: recovered
+
+
+Lapsed subscription
+
+
+Product changes: upgrade (no trial)
+
+
+Product changes: downgrade (no trial)
+
+
+Product changes (with trial)
+
+
+Subscription paused: Recovery
+
+
+Subscription paused: Billing issue, recovered
+
+
+Subscription paused: Billing issue, unrecovered
+
+
+Family shared subscriptions
+
+
+Family shared subscriptions: regranted
+
+
+Subscription Data Model
+object
+required
+string
+Value: "subscription"
+String representing the object's type. Objects of the same type share the same value.
+
+id
+required
+string [ 1 .. 255 ] characters
+The ID of the subscription (generated by RevenueCat)
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+The ID of the customer
+
+original_customer_id
+required
+string [ 1 .. 1500 ] characters
+The ID of the original customer. Relevant for subscriptions that were transferred from one customer to another
+
+product_id
+required
+string or null [ 1 .. 255 ] characters
+The RevenueCat ID of the product that the customer is subscribed to. Exists for all store types except for promotional.
+
+starts_at
+required
+integer <int64>
+The date when the subscription originally started in ms since epoch
+
+current_period_starts_at
+required
+integer <int64>
+The date when the subscription billing period started in ms since epoch
+
+current_period_ends_at
+required
+integer or null <int64>
+The date when the subscription billing period is expected to end in ms since epoch. Can be null if the subscription is paused until an indefinite date.
+
+ends_at
+required
+integer or null <int64>
+The date when the latest subscription billing period is expected to end in ms since epoch. It will only be different from current_period_ends_at if auto_renewal_status is has_already_renewed, in which case it indicates the end of the next billing period. Can be null if the subscription is paused until an indefinite date.
+
+gives_access
+required
+boolean
+Determines whether the customer should currently be provided access to the entitlements associated with the subscription
+
+pending_payment
+required
+boolean
+Determines whether there is a pending payment associated with the subscription
+
+auto_renewal_status
+required
+string
+Enum: "will_renew" "will_not_renew" "will_change_product" "will_pause" "requires_price_increase_consent" "has_already_renewed"
+The auto renewal status of a subscription.
+
+Possible values:
+• will_renew: the subscription is currently set to automatically renew
+• will_not_renew: the subscription is currently set to expire at the end of the period
+• will_change_product: the subscription is currently set to change product at the end of the period (which might start a new subscription)
+• will_pause: the subscription is currently set to pause at the end of the current period
+• requires_price_increase_consent: the subscription will expire at the end of the current period unless the customer consents to the price increase
+• has_already_renewed: the customer has already been charged for the upcoming renewal (so the renewal will take place even if the customer opts out of auto-renewal before the end of the period)
+
+status
+required
+string
+Enum: "trialing" "active" "expired" "in_grace_period" "in_billing_retry" "paused" "unknown" "incomplete"
+The status of a subscription. Please note that additional states might be added in the future. To determine whether or not a subscription currently provides access to any associated entitlements, use the gives_access field.
+
+Possible values:
+• trialing: the subscription is in a free trial period
+• active: the subscription is active, in a paid period
+• expired: the subscription is expired and no longer active
+• in_grace_period: the subscription is past its regular expiry date and experienced a billing issue, but is currently still in an access-granting grace period
+• in_billing_retry: the subscription has experienced a billing issue. Billing is being retried, access is suspended.-paused: the subscription is currently paused and should not provide access.
+• unknown: the subscription is in an unknown state. Refer to the gives_access field to determine whether or not to grant access.
+• incomplete: the subscription is in an incomplete state, maybe due to incorrect billing details or because it's scheduled to start in the future.
+
+total_revenue_in_usd
+required
+MonetaryAmount (object)
+Total revenue generated by a subscription in USD
+
+One of MonetaryAmount
+currency
+required
+string (Currency)
+Enum: "AED" "AFN" "ALL" "AMD" "ANG" "AOA" "ARS" "AUD" "AWG" "AZN" … 160 more
+ISO 4217 currency code
+
+gross
+required
+number
+Total revenue generated (excluding taxes and commission)
+
+commission	
+number
+Store commission or payment processor fees deducted from gross revenue (if any)
+
+tax
+required
+number
+Estimated taxes deducted from gross revenue
+
+proceeds
+required
+number
+Net revenue after store commission / fees and taxes
+
+presented_offering_id
+required
+string or null [ 1 .. 200 ] characters
+The ID of the offering the customer saw when purchasing the subscription
+
+entitlements
+required
+object (EntitlementList)
+object
+required
+string
+Value: "list"
+String representing the object's type. Objects of the same type share the same value. Always has the value list.
+
+items
+required
+Array of objects (Entitlement)
+Details about each object.
+
+next_page
+required
+string or null
+URL to access the next page of the customer's entitlements. If not present / null, there is no next page
+
+url
+required
+string <= 5000 characters
+The URL where this list can be accessed.
+
+environment
+required
+Environment (string)
+The store environment
+
+One of Environment
+string (Environment)
+Enum: "production" "sandbox"
+The store environment
+
+store
+required
+string
+Enum: "amazon" "app_store" "mac_app_store" "play_store" "promotional" "stripe" "rc_billing"
+Store the subscription belongs to
+
+store_subscription_identifier
+required
+string [ 1 .. 255 ] characters
+The subscription identifier as per the store (e.g, for Apple App Store, the transaction_id of the latest transaction of the subscription, or for Google Play Store, the Order ID of the last renewal of the subscription)
+
+ownership
+required
+Ownership (string)
+Ownership of the subscription
+
+One of Ownership
+string (Ownership)
+Enum: "purchased" "family_shared"
+Ownership of the subscription
+
+pending_changes	
+object or null
+Indicates pending product changes. Present if the auto_renewal_status is will_change_product.
+
+product	
+object (Product)
+object
+required
+string
+Value: "product"
+String representing the object's type. Objects of the same type share the same value. Always has the value list.
+
+id
+required
+string [ 1 .. 255 ] characters
+The id of the product
+
+store_identifier
+required
+string [ 1 .. 255 ] characters
+The store product identifier
+
+type
+required
+string (ProductType)
+Enum: "subscription" "one_time" "consumable" "non_consumable" "non_renewing_subscription"
+subscription	
+object or null (SubscriptionProduct)
+one_time	
+object or null (OneTimeProduct)
+created_at
+required
+integer <int64>
+The date when the product was created in ms since epoch
+
+app_id
+required
+string [ 1 .. 255 ] characters
+The id of the app
+
+app	
+object (App)
+display_name
+required
+string or null [ 1 .. 1500 ] characters
+The display name of the product
+
+country	
+string or null (Country)
+Enum: null "AF" "AL" "DZ" "AS" "AD" "AO" "AI" "AQ" "AG" … 240 more
+The country that the object is associated with, in ISO alpha 2 code
+
+management_url
+required
+string or null
+The URL to manage the subscription
+
+
+Copy
+Expand allCollapse all
+{
+"object": "subscription",
+"id": "sub1ab2c3d4e5",
+"customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"original_customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"product_id": "prod1a2b3c4d5e",
+"starts_at": 1658399423658,
+"current_period_starts_at": 1658399423658,
+"current_period_ends_at": 1658399423658,
+"ends_at": 1658399423658,
+"gives_access": true,
+"pending_payment": true,
+"auto_renewal_status": "will_renew",
+"status": "trialing",
+"total_revenue_in_usd": {
+"currency": "USD",
+"gross": 9.99,
+"commission": 2.99,
+"tax": 0.75,
+"proceeds": 6.25
+},
+"presented_offering_id": "ofrnge1a2b3c4d5",
+"entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/subscriptions/sub1a2b3c4d5e/entitlements?status=active&starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/subscriptions/sub1a2b3c4d5e/entitlements"
+},
+"environment": "production",
+"store": "amazon",
+"store_subscription_identifier": 12345678,
+"ownership": "purchased",
+"pending_changes": {
+"product": {}
+},
+"country": "US",
+"management_url": "https://apps.apple.com/account/subscriptions"
+}
+App
+Operations about apps.
+
+Get a list of the public API keys of an app
+
+get
+/projects/{project_id}/apps/{app_id}/public_api_keys
+This endpoint requires the following permission(s): project_configuration:apps:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+app_id
+required
+string <= 255 characters
+Example: app1ab2c3d4
+ID of the app
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/projec1a2b3c4d/apps/app1a2b3c4d/public_api_keys?starting_after=pub1a2b3c4d",
+"url": "/v2/projects/projec1a2b3c4d/apps/app1a2b3c4d/public_api_keys"
+}
+Get a list of apps
+
+get
+/projects/{project_id}/apps
+This endpoint requires the following permission(s): project_configuration:apps:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/projec1a2b3c4d/apps?starting_after=app1a2b3c4d",
+"url": "/v2/projects/projec1a2b3c4d/apps"
+}
+Create an App
+
+post
+/projects/{project_id}/apps
+This endpoint requires the following permission(s): project_configuration:apps:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+Request Body schema: application/json
+required
+name
+required
+string [ 1 .. 255 ] characters
+The name of the app
+
+type
+required
+string
+Enum: "amazon" "app_store" "mac_app_store" "play_store" "stripe" "rc_billing" "roku" "paddle"
+The platform of the app. Mac App Store is disabled by default. See Legacy Mac Apps for more details.
+
+amazon	
+object
+Amazon type details. Should only be used when type is amazon.
+
+package_name
+required
+string [ 1 .. 256 ] characters
+The package name of the app
+
+shared_secret	
+string
+Your Amazon Developer Identity Shared Key
+
+app_store	
+object
+App Store type details. Should only be used when type is app_store.
+
+bundle_id
+required
+string [ 1 .. 256 ] characters
+The bundle ID of the app
+
+shared_secret	
+string = 32 characters
+The shared secret of the app
+
+subscription_private_key	
+string [ 1 .. 4500 ] characters
+PKCS /#8 In App Key downloaded from App Store Connect in PEM format. Copy the contents of the file in this field. See instructions on how to get it in: https://www.revenuecat.com/docs/in-app-purchase-key-configuration
+
+subscription_key_id	
+string [ 1 .. 32 ] characters
+In App Key id. The ID of the downloaded in app key. You can get it from App Store Connect
+
+subscription_key_issuer	
+string [ 1 .. 36 ] characters
+The key Issuer id. See instructions on how to obtain this in: https://www.revenuecat.com/docs/in-app-purchase-key-configuration#3-providing-the-issuer-id-to-revenuecat
+
+app_store_connect_api_key	
+string [ 1 .. 4500 ] characters
+App Store Connect API Key downloaded from App Store Connect in PEM format. Copy the contents of the file in this field. This is optional and used for advanced features like product imports.
+
+app_store_connect_api_key_id	
+string [ 1 .. 36 ] characters
+App Store Connect API Key ID. The ID of the downloaded API key. You can get it from App Store Connect.
+
+app_store_connect_api_key_issuer	
+string [ 1 .. 36 ] characters
+App Store Connect API Key Issuer ID.
+
+app_store_connect_vendor_number	
+string [ 1 .. 20 ] characters
+Your vendor number from App Store Connect. Required for some features like financial reports.
+
+mac_app_store	
+object
+Mac App Store type details. Should only be used when type is mac_app_store.
+
+bundle_id
+required
+string [ 1 .. 256 ] characters
+The bundle ID of the app
+
+shared_secret	
+string = 32 characters
+The shared secret of the app
+
+play_store	
+object
+Play Store type details. Should only be used when type is play_store.
+
+package_name
+required
+string [ 1 .. 256 ] characters
+The package name of the app
+
+stripe	
+object
+Stripe type details. Should only be used when type is stripe.
+
+stripe_account_id	
+string or null [ 1 .. 256 ] characters
+It needs to be connected to your RevenueCat account. It can be omitted if you only have a single Stripe account connected to your RevenueCat account.
+
+rc_billing	
+object or null
+Revenue Cat Billing Store type details
+
+stripe_account_id	
+string or null [ 1 .. 256 ] characters
+It needs to be connected to your RevenueCat account. It can be omitted if you only have a single Stripe account connected to your RevenueCat account.
+
+app_name
+required
+string [ 1 .. 256 ] characters
+Shown in checkout, emails, and receipts sent to customers.
+
+support_email	
+string or null [ 1 .. 320 ] characters
+Used as the reply to address in all emails sent to customers, to allow them to receive support. If you leave this field blank, your RevenueCat account email address will be used.
+
+default_currency	
+string (RCBillingCurrency)
+Enum: "USD" "EUR" "JPY" "GBP" "AUD" "CAD" "BRL" "KRW" "CNY" "MXN" … 36 more
+ISO 4217 currency code
+
+roku	
+object or null
+Roku Channel Store details. Should only be used when type is roku.
+
+roku_api_key	
+string or null = 33 characters
+Roku Pay API key provided on the Roku Pay Web Services page.
+
+roku_channel_id	
+string or null = 6 characters
+Channel ID provided on the Roku Channel page.
+
+roku_channel_name	
+string or null [ 1 .. 30 ] characters
+Channel name that is displayed on the Roku Channel page.
+
+paddle	
+object or null
+Paddle Billing details. Should only be used when type is paddle.
+
+paddle_api_key	
+string or null [ 50 .. 70 ] characters
+Paddle Server-side API key provided on the Paddle dashboard.
+
+paddle_is_sandbox	
+boolean or null
+[Deprecated] Whether the app is tied to the sandbox environment. This field is deprecated and will be removed in the future. The environment is determined by the paddle_api_key format.
+
+Responses
+201 Success. The app was created
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+Example
+
+App Store
+App Store
+
+Copy
+Expand allCollapse all
+{
+"name": "My App Store App",
+"type": "app_store",
+"app_store": {
+"bundle_id": "com.apple.Pages",
+"shared_secret": "1234567890abcdef1234567890abcdef",
+"subscription_private_key": "-----BEGIN EC PRIVATE KEY-----\nMHQCAQEEIGAkwOF0qkGO19yJlIzQVcOg+HBfvLL4KDXDtL+MMHk2oAcGBSuBBAAK\noUQDQgAEhDP7RaX4c6qOHkE1nIWMr5C90ybtr87VRGFm4VsfWqG47NPN+/dHcfwJ\nJPZGFgMcgvBc37AxQPPQjyXYjhhQDg==\n-----END EC PRIVATE KEY-----",
+"subscription_key_id": "6345942CC3",
+"subscription_key_issuer": "5a049d62-1b9b-453c-b605-1988189d8129"
+}
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "app",
+"id": "app1a2b3c4",
+"name": "string",
+"created_at": 1658399423658,
+"type": "app_store",
+"project_id": "proj1a2b3c4",
+"amazon": {
+"package_name": "string"
+},
+"app_store": {
+"bundle_id": "string"
+},
+"mac_app_store": {
+"bundle_id": "string"
+},
+"play_store": {
+"package_name": "string"
+},
+"stripe": {
+"stripe_account_id": "string"
+},
+"rc_billing": {
+"stripe_account_id": "string",
+"seller_company_name": "string",
+"app_name": "string",
+"seller_company_support_email": "string",
+"support_email": "string",
+"default_currency": "USD"
+},
+"roku": {
+"roku_channel_id": "string",
+"roku_channel_name": "string"
+},
+"paddle": {
+"paddle_is_sandbox": true,
+"paddle_api_key": "stringstringstringstringstringstringstringstringst"
+}
+}
+Get an app
+
+get
+/projects/{project_id}/apps/{app_id}
+This endpoint requires the following permission(s): project_configuration:apps:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+app_id
+required
+string <= 255 characters
+Example: app1ab2c3d4
+ID of the app
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "app",
+"id": "app1a2b3c4",
+"name": "string",
+"created_at": 1658399423658,
+"type": "app_store",
+"project_id": "proj1a2b3c4",
+"amazon": {
+"package_name": "string"
+},
+"app_store": {
+"bundle_id": "string"
+},
+"mac_app_store": {
+"bundle_id": "string"
+},
+"play_store": {
+"package_name": "string"
+},
+"stripe": {
+"stripe_account_id": "string"
+},
+"rc_billing": {
+"stripe_account_id": "string",
+"seller_company_name": "string",
+"app_name": "string",
+"seller_company_support_email": "string",
+"support_email": "string",
+"default_currency": "USD"
+},
+"roku": {
+"roku_channel_id": "string",
+"roku_channel_name": "string"
+},
+"paddle": {
+"paddle_is_sandbox": true,
+"paddle_api_key": "stringstringstringstringstringstringstringstringst"
+}
+}
+Update an app
+
+post
+/projects/{project_id}/apps/{app_id}
+This endpoint requires the following permission(s): project_configuration:apps:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+app_id
+required
+string <= 255 characters
+Example: app1ab2c3d4
+ID of the app
+
+Request Body schema: application/json
+required
+name	
+string [ 1 .. 255 ] characters
+The name of the app
+
+amazon	
+object
+Amazon type details. Should only be used when type is amazon.
+
+package_name	
+string [ 1 .. 256 ] characters
+The package name of the app
+
+shared_secret	
+string or null
+Your Amazon Developer Identity Shared Key
+
+app_store	
+object
+App Store type details. Should only be used when type is app_store.
+
+bundle_id	
+string [ 1 .. 256 ] characters
+The bundle ID of the app
+
+shared_secret	
+string or null = 32 characters
+The shared secret of the app
+
+mac_app_store	
+object
+Legacy Mac App Store type details. Should only be used when type is mac_app_store.
+
+bundle_id	
+string [ 1 .. 256 ] characters
+The bundle ID of the app
+
+shared_secret	
+string or null = 32 characters
+The shared secret of the app
+
+play_store	
+object
+Play Store type details. Should only be used when type is play_store.
+
+package_name
+required
+string [ 1 .. 256 ] characters
+The package name of the app
+
+stripe	
+object
+Stripe type details. Should only be used when type is stripe.
+
+stripe_account_id	
+string [ 1 .. 256 ] characters
+It needs to be connected to your RevenueCat account. It can be omitted if you only have a single Stripe account connected to your RevenueCat account.
+
+rc_billing	
+object
+Web Billing type details. Should only be used when type is rc_billing.
+
+stripe_account_id	
+string or null [ 1 .. 256 ] characters
+It needs to be connected to your RevenueCat account. It can be omitted if you only have a single Stripe account connected to your RevenueCat account.
+
+app_name	
+string or null [ 1 .. 256 ] characters
+Shown in checkout, emails, and receipts sent to customers.
+
+support_email	
+string or null [ 1 .. 320 ] characters
+Used as the reply to address in all emails sent to customers, to allow them to receive support. If you leave this field blank, your RevenueCat account email address will be used.
+
+default_currency	
+string (RCBillingCurrency)
+Enum: "USD" "EUR" "JPY" "GBP" "AUD" "CAD" "BRL" "KRW" "CNY" "MXN" … 36 more
+ISO 4217 currency code
+
+roku	
+object
+Roku Channel Store type details. Should only be used when type is roku.
+
+roku_api_key	
+string or null = 33 characters
+Roku Pay API key provided on the Roku Pay Web Services page.
+
+roku_channel_id	
+string or null = 6 characters
+Channel ID provided on the Roku Channel page.
+
+roku_channel_name	
+string or null [ 1 .. 30 ] characters
+Channel name that is displayed on the Roku Channel page.
+
+paddle	
+object
+Paddle Billing type details. Should only be used when type is paddle.
+
+paddle_api_key	
+string or null = 50 characters
+Paddle Server-side API key provided on the Paddle dashboard.
+
+paddle_is_sandbox	
+boolean
+Whether the app is tied to the sandbox environment.
+
+Responses
+200 Success. The app was updated
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+Example
+
+Update App Store App properties
+Update App Store App properties
+
+Copy
+Expand allCollapse all
+{
+"name": "New App name",
+"app_store": {
+"bundle_id": "com.my.new-app",
+"shared_secret": "1234567890abcdef1234567890abcdef"
+}
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "app",
+"id": "app1a2b3c4",
+"name": "string",
+"created_at": 1658399423658,
+"type": "app_store",
+"project_id": "proj1a2b3c4",
+"amazon": {
+"package_name": "string"
+},
+"app_store": {
+"bundle_id": "string"
+},
+"mac_app_store": {
+"bundle_id": "string"
+},
+"play_store": {
+"package_name": "string"
+},
+"stripe": {
+"stripe_account_id": "string"
+},
+"rc_billing": {
+"stripe_account_id": "string",
+"seller_company_name": "string",
+"app_name": "string",
+"seller_company_support_email": "string",
+"support_email": "string",
+"default_currency": "USD"
+},
+"roku": {
+"roku_channel_id": "string",
+"roku_channel_name": "string"
+},
+"paddle": {
+"paddle_is_sandbox": true,
+"paddle_api_key": "stringstringstringstringstringstringstringstringst"
+}
+}
+Delete an app
+
+delete
+/projects/{project_id}/apps/{app_id}
+This endpoint requires the following permission(s): project_configuration:apps:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+app_id
+required
+string <= 255 characters
+Example: app1ab2c3d4
+ID of the app
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "app",
+"id": "string",
+"deleted_at": 1658399423658
+}
+Get the StoreKit configuration for an app
+
+get
+/projects/{project_id}/apps/{app_id}/store_kit_config
+This endpoint requires the following permission(s): project_configuration:apps:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+app_id
+required
+string <= 255 characters
+Example: app1ab2c3d4
+ID of the app
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "store_kit_config_file",
+"contents": { }
+}
+Charts & Metrics
+Operations about chart metrics.
+
+Get overview metrics for a project
+
+get
+/projects/{project_id}/metrics/overview
+This endpoint requires the following permission(s): charts_metrics:overview:read. This endpoint belongs to the Charts & Metrics domain, which has a default rate limit of 5 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+query Parameters
+currency	
+string
+Enum: "USD" "EUR" "GBP" "AUD" "CAD" "JPY" "BRL" "KRW" "CNY" "MXN" … 2 more
+Example: currency=EUR
+ISO 4217 currency code
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "overview_metrics",
+"metrics": [
+{}
+]
+}
+Customer
+Operations about customers.
+
+Get a list of customers
+
+get
+/projects/{project_id}/customers
+This endpoint requires the following permission(s): customer_information:customers:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+search	
+string [ 1 .. 255 ] characters
+Example: search=example@example.com
+Search term. Currently, only searching by email is supported (searching for exact matches in the $email attribute).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/projec1a2b3c4d/customers?starting_after=223xx1100",
+"url": "/v2/projects/projec1a2b3c4d/customers"
+}
+Create a customer
+
+post
+/projects/{project_id}/customers
+This endpoint requires the following permission(s): customer_information:customers:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+Request Body schema: application/json
+required
+id
+required
+string [ 1 .. 1500 ] characters ^[0-9a-zA-Z_-]*$
+The ID of the customer
+
+attributes	
+Array of objects <= 50 characters
+Array 
+name
+required
+CustomerAttributeReservedName (string) or CustomerAttributeCustomName (string) [ 1 .. 40 ] characters
+The name of the attribute
+
+value
+required
+string <= 500 characters
+The value of the attribute
+
+Responses
+201 Success. The customer was created
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"attributes": [
+{}
+]
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "customer",
+"id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"project_id": "proj1ab2c3d4",
+"first_seen_at": 1658399423658,
+"last_seen_at": 1658399423658,
+"last_seen_app_version": "1.0.0",
+"last_seen_country": "US",
+"last_seen_platform": "android",
+"last_seen_platform_version": "35",
+"active_entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements?starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements"
+},
+"experiment": {
+"object": "experiment_enrollment",
+"id": "string",
+"name": "string",
+"variant": "a"
+},
+"attributes": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes?starting_after=myCustomAttribute",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes"
+}
+}
+Get a customer
+
+get
+/projects/{project_id}/customers/{customer_id}
+This endpoint requires the following permission(s): customer_information:customers:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+expand	
+Array of strings[ items [ 1 .. 5000 ] characters ]
+Items Value: "attributes"
+Example: expand=attributes
+Specifies which fields in the response should be expanded. Accepted values are: attributes (requires customer_information:customers:read permission).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "customer",
+"id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"project_id": "proj1ab2c3d4",
+"first_seen_at": 1658399423658,
+"last_seen_at": 1658399423658,
+"last_seen_app_version": "1.0.0",
+"last_seen_country": "US",
+"last_seen_platform": "android",
+"last_seen_platform_version": "35",
+"active_entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements?starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements"
+},
+"experiment": {
+"object": "experiment_enrollment",
+"id": "string",
+"name": "string",
+"variant": "a"
+},
+"attributes": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes?starting_after=myCustomAttribute",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes"
+}
+}
+Delete a customer
+
+delete
+/projects/{project_id}/customers/{customer_id}
+This endpoint requires the following permission(s): customer_information:customers:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "customer",
+"id": "b5b7bfd2-66fb-4091-af50-7c3cdccfdf24",
+"deleted_at": 1658399423658
+}
+Transfer customer's subscriptions and one-time purchases to another customer
+
+post
+/projects/{project_id}/customers/{customer_id}/actions/transfer
+This endpoint requires the following permission(s): customer_information:customers:read_write, customer_information:subscriptions:read_write, customer_information:purchases:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+Request Body schema: application/json
+required
+target_customer_id
+required
+string
+The ID of the customer to whom the subscriptions and one-time purchases will be transferred.
+
+app_ids	
+Array of strings or null[ items [ 1 .. 255 ] characters ]
+Optional. The IDs of the apps to filter the transfer by. When specified, only purchases and subscriptions associated with these apps will be transferred.
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"target_customer_id": "string",
+"app_ids": [
+"appa2b3c4d5e"
+]
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"source_customer": {
+"object": "customer",
+"id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"project_id": "proj1ab2c3d4",
+"first_seen_at": 1658399423658,
+"last_seen_at": 1658399423658,
+"last_seen_app_version": "1.0.0",
+"last_seen_country": "US",
+"last_seen_platform": "android",
+"last_seen_platform_version": "35",
+"active_entitlements": {},
+"experiment": {},
+"attributes": {}
+},
+"target_customer": {
+"object": "customer",
+"id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"project_id": "proj1ab2c3d4",
+"first_seen_at": 1658399423658,
+"last_seen_at": 1658399423658,
+"last_seen_app_version": "1.0.0",
+"last_seen_country": "US",
+"last_seen_platform": "android",
+"last_seen_platform_version": "35",
+"active_entitlements": {},
+"experiment": {},
+"attributes": {}
+}
+}
+Grant an entitlement to a customer unless one already exists. As a side effect, a promotional subscription is created.
+
+post
+/projects/{project_id}/customers/{customer_id}/actions/grant_entitlement
+This endpoint requires the following permission(s): customer_information:customers:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+Request Body schema: application/json
+required
+entitlement_id
+required
+string [ 1 .. 255 ] characters
+The ID of the entitlement to grant to the customer.
+
+expires_at
+required
+integer <int64>
+The date after which the access to the entitlement expires in ms since epoch.
+
+Responses
+201 Entitlement granted successfully
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+{
+"entitlement_id": "entla1b2c3d4e5",
+"expires_at": 1658399423658
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "customer",
+"id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"project_id": "proj1ab2c3d4",
+"first_seen_at": 1658399423658,
+"last_seen_at": 1658399423658,
+"last_seen_app_version": "1.0.0",
+"last_seen_country": "US",
+"last_seen_platform": "android",
+"last_seen_platform_version": "35",
+"active_entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements?starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements"
+},
+"experiment": {
+"object": "experiment_enrollment",
+"id": "string",
+"name": "string",
+"variant": "a"
+},
+"attributes": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes?starting_after=myCustomAttribute",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes"
+}
+}
+Revoke a granted entitlement from a customer. As a side effect, the promotional subscription associated with the granted entitlement is expired.
+
+post
+/projects/{project_id}/customers/{customer_id}/actions/revoke_granted_entitlement
+This endpoint requires the following permission(s): customer_information:customers:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+Request Body schema: application/json
+required
+entitlement_id
+required
+string [ 1 .. 255 ] characters
+The ID of the granted entitlement to revoke from the customer.
+
+Responses
+200 Entitlement revoked successfully
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+{
+"entitlement_id": "entla1b2c3d4e5"
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "customer",
+"id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"project_id": "proj1ab2c3d4",
+"first_seen_at": 1658399423658,
+"last_seen_at": 1658399423658,
+"last_seen_app_version": "1.0.0",
+"last_seen_country": "US",
+"last_seen_platform": "android",
+"last_seen_platform_version": "35",
+"active_entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements?starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements"
+},
+"experiment": {
+"object": "experiment_enrollment",
+"id": "string",
+"name": "string",
+"variant": "a"
+},
+"attributes": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes?starting_after=myCustomAttribute",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes"
+}
+}
+Assign or clear an offering override for a customer
+
+post
+/projects/{project_id}/customers/{customer_id}/actions/assign_offering
+This endpoint requires the following permission(s): project_configuration:offerings:read, customer_information:customers:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+Request Body schema: application/json
+required
+offering_id
+required
+string or null [ 1 .. 255 ] characters
+The ID of the offering to assign to the customer. Set to null to clear any existing override.
+
+Responses
+200 Offering assigned successfully
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+{
+"offering_id": "offrng1b2c3d4e5"
+}
+Response samples
+400401403404409422423429500503
+Content type
+application/json
+Example
+
+parameter_error
+parameter_error
+
+Copy
+{
+"object": "error",
+"type": "parameter_error",
+"param": "customer_id",
+"message": "id is too long",
+"retryable": false,
+"doc_url": "https://errors.rev.cat/parameter-error"
+}
+Get a list of subscriptions associated with a customer
+
+get
+/projects/{project_id}/customers/{customer_id}/subscriptions
+This endpoint requires the following permission(s): customer_information:subscriptions:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+environment	
+string
+Enum: "sandbox" "production"
+Example: environment=production
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/subscriptions?starting_after=sub1a2b3c4d",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/subscriptions"
+}
+Get a list of purchases associated with a customer
+
+get
+/projects/{project_id}/customers/{customer_id}/purchases
+This endpoint requires the following permission(s): customer_information:purchases:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+environment	
+string
+Enum: "sandbox" "production"
+Example: environment=production
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/purchases?starting_after=purc1a2b3c4d5e",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/purchases"
+}
+Get a list of customer's active entitlements
+
+get
+/projects/{project_id}/customers/{customer_id}/active_entitlements
+This endpoint requires the following permission(s): customer_information:customers:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements?starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/active_entitlements"
+}
+Get a list of the customer's aliases
+
+get
+/projects/{project_id}/customers/{customer_id}/aliases
+This endpoint requires the following permission(s): customer_information:customers:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/aliases?starting_after=9fjeja8fjed",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/aliases"
+}
+Get a list of customer's virtual currencies balances
+
+get
+/projects/{project_id}/customers/{customer_id}/virtual_currencies
+This endpoint requires the following permission(s): customer_information:purchases:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+include_empty_balances	
+boolean
+Example: include_empty_balances=true
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/virtual_currencies?starting_after=9fjeja8fjed",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/virtual_currencies"
+}
+Create a virtual currencies transaction
+
+post
+/projects/{project_id}/customers/{customer_id}/virtual_currencies/transactions
+This endpoint requires the following permission(s): customer_information:purchases:read_write. This endpoint belongs to the Virtual Currencies - Create Transaction domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+include_empty_balances	
+boolean
+Example: include_empty_balances=true
+header Parameters
+Idempotency-Key	
+string
+Example: 1234-5678-9101-1121
+This is an optional idempotency key to ensure exactly once execution of the request.
+
+Request Body schema: application/json
+required
+adjustments
+required
+object
+The adjustments to the virtual currencies
+
+property name*
+additional property
+integer
+reference	
+string or null
+The reference of the transaction
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"adjustments": {
+"property1": 0,
+"property2": 0
+},
+"reference": "string"
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/virtual_currencies?starting_after=9fjeja8fjed",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/virtual_currencies"
+}
+Update a virtual currencies balance without creating a transaction
+
+post
+/projects/{project_id}/customers/{customer_id}/virtual_currencies/update_balance
+This endpoint requires the following permission(s): customer_information:purchases:read_write. This endpoint belongs to the Virtual Currencies - Create Transaction domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+include_empty_balances	
+boolean
+Example: include_empty_balances=true
+header Parameters
+Idempotency-Key	
+string
+Example: 1234-5678-9101-1121
+This is an optional idempotency key to ensure exactly once execution of the request.
+
+Request Body schema: application/json
+required
+adjustments
+required
+object
+The adjustments to the virtual currencies
+
+property name*
+additional property
+integer
+reference	
+string or null
+The reference of the transaction
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"adjustments": {
+"property1": 0,
+"property2": 0
+},
+"reference": "string"
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/virtual_currencies?starting_after=9fjeja8fjed",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/virtual_currencies"
+}
+Get a list of the customer's attributes
+
+get
+/projects/{project_id}/customers/{customer_id}/attributes
+This endpoint requires the following permission(s): customer_information:customers:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes?starting_after=myCustomAttribute",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes"
+}
+Set a customer's attributes
+
+post
+/projects/{project_id}/customers/{customer_id}/attributes
+This endpoint requires the following permission(s): customer_information:customers:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+Request Body schema: application/json
+required
+attributes
+required
+Array of objects [ 1 .. 50 ] items
+Array ([ 1 .. 50 ] items)
+name
+required
+CustomerAttributeReservedName (string) or CustomerAttributeCustomName (string) [ 1 .. 40 ] characters
+The name of the attribute
+
+value
+required
+string or null <= 500 characters
+The value of the attribute. Use null to delete the attribute.
+
+Responses
+200 Success. The customer attributes were set
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"attributes": [
+{},
+{},
+{}
+]
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes?starting_after=myCustomAttribute",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/attributes"
+}
+Entitlement
+Operations about entitlements.
+
+Get an entitlement
+
+get
+/projects/{project_id}/entitlements/{entitlement_id}
+This endpoint requires the following permission(s): project_configuration:entitlements:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+entitlement_id
+required
+string [ 1 .. 255 ] characters
+Example: entla1b2c3d4e5
+ID of the entitlement
+
+query Parameters
+expand	
+Array of strings[ items [ 1 .. 5000 ] characters ]
+Items Value: "product"
+Example: expand=product
+Specifies which fields in the response should be expanded. Accepted values are: product (requires project_configuration:products:read permission).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "entitlement",
+"project_id": "proj1ab2c3d4",
+"id": "entla1b2c3d4e5",
+"lookup_key": "premium",
+"display_name": "Premium",
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products?starting_after=prodeab21dac",
+"url": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products"
+}
+}
+Update an entitlement
+
+post
+/projects/{project_id}/entitlements/{entitlement_id}
+This endpoint requires the following permission(s): project_configuration:entitlements:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+entitlement_id
+required
+string [ 1 .. 255 ] characters
+Example: entla1b2c3d4e5
+ID of the entitlement
+
+Request Body schema: application/json
+required
+display_name
+required
+string [ 1 .. 1500 ] characters
+The display name of the entitlement
+
+Responses
+200 Success. The entitlement was updated
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+{
+"display_name": "Premium"
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "entitlement",
+"project_id": "proj1ab2c3d4",
+"id": "entla1b2c3d4e5",
+"lookup_key": "premium",
+"display_name": "Premium",
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products?starting_after=prodeab21dac",
+"url": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products"
+}
+}
+Delete an entitlement
+
+delete
+/projects/{project_id}/entitlements/{entitlement_id}
+This endpoint requires the following permission(s): project_configuration:entitlements:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+entitlement_id
+required
+string [ 1 .. 255 ] characters
+Example: entla1b2c3d4e5
+ID of the entitlement
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "app",
+"id": "string",
+"deleted_at": 1658399423658
+}
+Get a list of entitlements
+
+get
+/projects/{project_id}/entitlements
+This endpoint requires the following permission(s): project_configuration:entitlements:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+expand	
+Array of strings[ items [ 1 .. 5000 ] characters ]
+Items Value: "items.product"
+Example: expand=items.product
+Specifies which fields in the response should be expanded. Accepted values are: items.product (requires project_configuration:products:read permission).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/entitlements?starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/entitlements"
+}
+Create an entitlement
+
+post
+/projects/{project_id}/entitlements
+This endpoint requires the following permission(s): project_configuration:entitlements:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+Request Body schema: application/json
+required
+lookup_key
+required
+string [ 1 .. 200 ] characters
+The identifier of the entitlement
+
+display_name
+required
+string [ 1 .. 1500 ] characters
+The display name of the entitlement
+
+Responses
+201 Success. The entitlement was created
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+{
+"lookup_key": "premium",
+"display_name": "Premium access to all features"
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "entitlement",
+"project_id": "proj1ab2c3d4",
+"id": "entla1b2c3d4e5",
+"lookup_key": "premium",
+"display_name": "Premium",
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products?starting_after=prodeab21dac",
+"url": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products"
+}
+}
+Get a list of products attached to a given entitlement
+
+get
+/projects/{project_id}/entitlements/{entitlement_id}/products
+This endpoint requires the following permission(s): project_configuration:entitlements:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+entitlement_id
+required
+string [ 1 .. 255 ] characters
+Example: entla1b2c3d4e5
+ID of the entitlement
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/entitlements/entla1b2c3d4e5/products?starting_after=prod1a2b3c4d5",
+"url": "/v2/projects/proj1ab2c3d4/entitlements/entla1b2c3d4e5/products"
+}
+Attach a set of products to an entitlement
+
+post
+/projects/{project_id}/entitlements/{entitlement_id}/actions/attach_products
+This endpoint requires the following permission(s): project_configuration:entitlements:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+entitlement_id
+required
+string [ 1 .. 255 ] characters
+Example: entla1b2c3d4e5
+ID of the entitlement
+
+Request Body schema: application/json
+required
+product_ids
+required
+Array of strings [ 1 .. 50 ] characters [ items [ 1 .. 255 ] characters ]
+IDs of the products to be attached to the entitlement.
+
+Responses
+200 Success. The products were attached to the entitlement
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"product_ids": [
+"prod1a2b3c4d5e"
+]
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "entitlement",
+"project_id": "proj1ab2c3d4",
+"id": "entla1b2c3d4e5",
+"lookup_key": "premium",
+"display_name": "Premium",
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products?starting_after=prodeab21dac",
+"url": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products"
+}
+}
+Detach a set of product from an entitlement
+
+post
+/projects/{project_id}/entitlements/{entitlement_id}/actions/detach_products
+This endpoint requires the following permission(s): project_configuration:entitlements:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+entitlement_id
+required
+string [ 1 .. 255 ] characters
+Example: entla1b2c3d4e5
+ID of the entitlement
+
+Request Body schema: application/json
+required
+product_ids
+required
+Array of strings [ 1 .. 50 ] characters [ items [ 1 .. 255 ] characters ]
+IDs of the products to be detached from the entitlement.
+
+Responses
+200 Success. The products were detached from the entitlement
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"product_ids": [
+"prod1a2b3c4d5e"
+]
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "entitlement",
+"project_id": "proj1ab2c3d4",
+"id": "entla1b2c3d4e5",
+"lookup_key": "premium",
+"display_name": "Premium",
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products?starting_after=prodeab21dac",
+"url": "/v2/projects/proj1ab2c3d4/entitlements/entle1a2b3c4d5/products"
+}
+}
+Offering
+Operations about offerings.
+
+Get an offering
+
+get
+/projects/{project_id}/offerings/{offering_id}
+This endpoint requires the following permission(s): project_configuration:offerings:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+offering_id
+required
+string [ 1 .. 255 ] characters
+Example: ofrnge1a2b3c4d5
+ID of the offering
+
+query Parameters
+expand	
+Array of strings[ items [ 1 .. 5000 ] characters ]
+Items Enum: "package" "package.product"
+Example: expand=package
+Specifies which fields in the response should be expanded. Accepted values are: package (requires project_configuration:packages:read permission), package.product (requires project_configuration:products:read permission).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "offering",
+"id": "ofrnge1a2b3c4d5",
+"lookup_key": "default",
+"display_name": "The standard set of packages",
+"is_current": true,
+"created_at": 1658399423658,
+"project_id": "proj1ab2c3d4",
+"metadata": {
+"color": "blue",
+"call_to_action": "Subscribe Now!"
+},
+"packages": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages?starting_after=pkgeab21dac",
+"url": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages"
+}
+}
+Update an offering
+
+post
+/projects/{project_id}/offerings/{offering_id}
+This endpoint requires the following permission(s): project_configuration:offerings:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+offering_id
+required
+string [ 1 .. 255 ] characters
+Example: ofrnge1a2b3c4d5
+ID of the offering
+
+Request Body schema: application/json
+required
+display_name	
+string [ 1 .. 1500 ] characters
+The display name of the offering
+
+is_current	
+boolean
+Indicates if the offering is the current offering
+
+metadata	
+object or null (OfferingMetadata)
+Custom metadata of the offering
+
+property name*
+additional property
+any
+Responses
+200 Success. The offering was updated
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"display_name": "premium access to features",
+"is_current": true,
+"metadata": {
+"color": "blue",
+"call_to_action": "Subscribe Now!"
+}
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "offering",
+"id": "ofrnge1a2b3c4d5",
+"lookup_key": "default",
+"display_name": "The standard set of packages",
+"is_current": true,
+"created_at": 1658399423658,
+"project_id": "proj1ab2c3d4",
+"metadata": {
+"color": "blue",
+"call_to_action": "Subscribe Now!"
+},
+"packages": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages?starting_after=pkgeab21dac",
+"url": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages"
+}
+}
+Delete an offering and its attached packages
+
+delete
+/projects/{project_id}/offerings/{offering_id}
+This endpoint requires the following permission(s): project_configuration:offerings:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+offering_id
+required
+string [ 1 .. 255 ] characters
+Example: ofrnge1a2b3c4d5
+ID of the offering
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "app",
+"id": "string",
+"deleted_at": 1658399423658
+}
+Get a list of offerings
+
+get
+/projects/{project_id}/offerings
+This endpoint requires the following permission(s): project_configuration:offerings:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+expand	
+Array of strings[ items [ 1 .. 5000 ] characters ]
+Items Enum: "items.package" "items.package.product"
+Example: expand=items.package
+Specifies which fields in the response should be expanded. Accepted values are: items.package (requires project_configuration:packages:read permission), items.package.product (requires project_configuration:products:read permission).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings?starting_after=ofrngeab21da",
+"url": "/v2/projects/proj1ab2c3d4/offerings"
+}
+Create an offering
+
+post
+/projects/{project_id}/offerings
+This endpoint requires the following permission(s): project_configuration:offerings:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+Request Body schema: application/json
+required
+lookup_key
+required
+string [ 1 .. 200 ] characters
+The custom identifier of the offering
+
+display_name
+required
+string [ 1 .. 1500 ] characters
+The display_name of the offering
+
+metadata	
+object or null (OfferingMetadata)
+Custom metadata of the offering
+
+property name*
+additional property
+any
+Responses
+201 Success. The offering was created
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"lookup_key": "default",
+"display_name": "The standard set of packages",
+"metadata": {
+"color": "blue",
+"call_to_action": "Subscribe Now!"
+}
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "offering",
+"id": "ofrnge1a2b3c4d5",
+"lookup_key": "default",
+"display_name": "The standard set of packages",
+"is_current": true,
+"created_at": 1658399423658,
+"project_id": "proj1ab2c3d4",
+"metadata": {
+"color": "blue",
+"call_to_action": "Subscribe Now!"
+},
+"packages": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages?starting_after=pkgeab21dac",
+"url": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages"
+}
+}
+Package
+Operations about packages.
+
+Get a package
+
+get
+/projects/{project_id}/packages/{package_id}
+This endpoint requires the following permission(s): project_configuration:packages:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+package_id
+required
+string [ 1 .. 255 ] characters
+Example: pkge1a2b3c4d5
+ID of the package
+
+query Parameters
+expand	
+Array of strings[ items [ 1 .. 5000 ] characters ]
+Items Value: "product"
+Example: expand=product
+Specifies which fields in the response should be expanded. Accepted values are: product (requires project_configuration:products:read permission).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "package",
+"id": "pkge1a2b3c4d5",
+"lookup_key": "monthly",
+"display_name": "Monthly discounted with 3-day trial",
+"position": 1,
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products?starting_after=prodab21dac",
+"url": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products"
+}
+}
+Update a package
+
+post
+/projects/{project_id}/packages/{package_id}
+This endpoint requires the following permission(s): project_configuration:packages:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+package_id
+required
+string [ 1 .. 255 ] characters
+Example: pkge1a2b3c4d5
+ID of the package
+
+Request Body schema: application/json
+required
+display_name	
+string [ 1 .. 1500 ] characters
+The display name of the package
+
+position	
+integer >= 1
+The position of the package within the offering
+
+Responses
+200 Success. The package was updated
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+{
+"display_name": "monthly with one-week trial",
+"position": 2
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "package",
+"id": "pkge1a2b3c4d5",
+"lookup_key": "monthly",
+"display_name": "Monthly discounted with 3-day trial",
+"position": 1,
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products?starting_after=prodab21dac",
+"url": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products"
+}
+}
+Delete a package
+
+delete
+/projects/{project_id}/packages/{package_id}
+This endpoint requires the following permission(s): project_configuration:packages:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+package_id
+required
+string [ 1 .. 255 ] characters
+Example: pkge1a2b3c4d5
+ID of the package
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "app",
+"id": "string",
+"deleted_at": 1658399423658
+}
+Get a list of packages in an offering
+
+get
+/projects/{project_id}/offerings/{offering_id}/packages
+This endpoint requires the following permission(s): project_configuration:packages:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+offering_id
+required
+string [ 1 .. 255 ] characters
+Example: ofrnge1a2b3c4d5
+ID of the offering
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+expand	
+Array of strings[ items [ 1 .. 5000 ] characters ]
+Items Value: "items.product"
+Example: expand=items.product
+Specifies which fields in the response should be expanded. Accepted values are: items.product (requires project_configuration:products:read permission).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages?starting_after=pkgeab21dac",
+"url": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages"
+}
+Create a package
+
+post
+/projects/{project_id}/offerings/{offering_id}/packages
+This endpoint requires the following permission(s): project_configuration:packages:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+offering_id
+required
+string [ 1 .. 255 ] characters
+Example: ofrnge1a2b3c4d5
+ID of the offering
+
+Request Body schema: application/json
+required
+lookup_key
+required
+string [ 1 .. 200 ] characters
+The lookup_key of the package
+
+display_name
+required
+string [ 1 .. 1500 ] characters
+The display name of the package
+
+position	
+integer
+The position of the package in the offering
+
+Responses
+201 Success. The package was created
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+{
+"lookup_key": "monthly",
+"display_name": "monthly with one-week trial",
+"position": 1
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "package",
+"id": "pkge1a2b3c4d5",
+"lookup_key": "monthly",
+"display_name": "Monthly discounted with 3-day trial",
+"position": 1,
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products?starting_after=prodab21dac",
+"url": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products"
+}
+}
+Get a list of products attached to a given package of an offering
+
+get
+/projects/{project_id}/packages/{package_id}/products
+This endpoint requires the following permission(s): project_configuration:packages:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+package_id
+required
+string [ 1 .. 255 ] characters
+Example: pkge1a2b3c4d5
+ID of the package
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/packages/pkge1a2b3c4d5/products?starting_after=prod1a2b3c4d5",
+"url": "/v2/projects/proj1ab2c3d4/packages/pkge1a2b3c4d5/products"
+}
+Attach a set of products to a package
+
+post
+/projects/{project_id}/packages/{package_id}/actions/attach_products
+This endpoint requires the following permission(s): project_configuration:packages:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+package_id
+required
+string [ 1 .. 255 ] characters
+Example: pkge1a2b3c4d5
+ID of the package
+
+Request Body schema: application/json
+required
+products
+required
+Array of objects (PackageProductIDAssociation) [ 1 .. 50 ] characters
+Product association list
+
+Array 
+product_id
+required
+string [ 1 .. 255 ] characters
+eligibility_criteria
+required
+string (EligibilityCriteria)
+Enum: "all" "google_sdk_lt_6" "google_sdk_ge_6"
+Responses
+200 Success. The products were attached to the package.
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+Example
+
+Single product for package (applies to any store)
+Single product for package (applies to any store)
+
+Copy
+Expand allCollapse all
+{
+"products": [
+{}
+]
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "package",
+"id": "pkge1a2b3c4d5",
+"lookup_key": "monthly",
+"display_name": "Monthly discounted with 3-day trial",
+"position": 1,
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products?starting_after=prodab21dac",
+"url": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products"
+}
+}
+Detach a set of products from a package
+
+post
+/projects/{project_id}/packages/{package_id}/actions/detach_products
+This endpoint requires the following permission(s): project_configuration:packages:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+package_id
+required
+string [ 1 .. 255 ] characters
+Example: pkge1a2b3c4d5
+ID of the package
+
+Request Body schema: application/json
+required
+product_ids
+required
+Array of strings [ 1 .. 50 ] characters [ items [ 1 .. 255 ] characters ]
+IDs of the products to detach from the package
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"product_ids": [
+"prod1a2b3c4d5e"
+]
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "package",
+"id": "pkge1a2b3c4d5",
+"lookup_key": "monthly",
+"display_name": "Monthly discounted with 3-day trial",
+"position": 1,
+"created_at": 1658399423658,
+"products": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products?starting_after=prodab21dac",
+"url": "/v2/projects/proj1ab2c3d4/offerings/ofrnge1a2b3c4d5/packages/pkge1a2b3c4d5/products"
+}
+}
+Product
+Operations about products.
+
+Get a product
+
+get
+/projects/{project_id}/products/{product_id}
+This endpoint requires the following permission(s): project_configuration:products:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+product_id
+required
+string [ 1 .. 255 ] characters
+Example: prod1a2b3c4d5
+ID of the product
+
+query Parameters
+expand	
+Array of strings[ items [ 1 .. 5000 ] characters ]
+Items Value: "app"
+Example: expand=app
+Specifies which fields in the response should be expanded. Accepted values are: app (requires project_configuration:apps:read permission).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "product",
+"id": "prod1a2b3c4d5e",
+"store_identifier": "rc_1w_199",
+"type": "subscription",
+"subscription": {
+"duration": "P1M",
+"grace_period_duration": "P3D",
+"trial_duration": "P1W"
+},
+"one_time": {
+"is_consumable": true
+},
+"created_at": 1658399423658,
+"app_id": "app1a2b3c4",
+"app": {
+"object": "app",
+"id": "app1a2b3c4",
+"name": "string",
+"created_at": 1658399423658,
+"type": "app_store",
+"project_id": "proj1a2b3c4",
+"amazon": {},
+"app_store": {},
+"mac_app_store": {},
+"play_store": {},
+"stripe": {},
+"rc_billing": {},
+"roku": {},
+"paddle": {}
+},
+"display_name": "Premium Monthly 2023"
+}
+Delete a product
+
+delete
+/projects/{project_id}/products/{product_id}
+This endpoint requires the following permission(s): project_configuration:products:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+product_id
+required
+string [ 1 .. 255 ] characters
+Example: prod1a2b3c4d5
+ID of the product
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "app",
+"id": "string",
+"deleted_at": 1658399423658
+}
+Push a product to the store
+
+post
+/projects/{project_id}/products/{product_id}/create_in_store
+Push a product to the App Store.
+
+For subscription products: You must provide store information including duration and subscription group details.
+
+For in-app purchase products (consumable, non-consumable, non-renewing subscription): No request body is required. This endpoint requires the following permission(s): project_configuration:products:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+product_id
+required
+string [ 1 .. 255 ] characters
+Example: prod1a2b3c4d5
+ID of the product
+
+Request Body schema: application/json
+optional
+Store-specific information. Only required for subscription products. For in-app purchase products, send an empty body or omit the request body entirely.
+
+store_information	
+CreateAppStoreConnectSubscriptionInput (object) or CreateAppStoreConnectInAppPurchaseInput (object)
+Store-specific information for creating the product in the store
+
+One of CreateAppStoreConnectSubscriptionInputCreateAppStoreConnectInAppPurchaseInput
+duration
+required
+string
+Enum: "ONE_WEEK" "ONE_MONTH" "TWO_MONTHS" "THREE_MONTHS" "SIX_MONTHS" "ONE_YEAR"
+The subscription duration period
+
+subscription_group_name
+required
+string [ 1 .. 255 ] characters
+The name of the subscription group
+
+subscription_group_id	
+string or null [ 1 .. 255 ] characters
+The ID of the subscription group (optional)
+
+Responses
+201 Success. The product was pushed to the store
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+Example
+
+Creating a subscription product
+Creating a subscription product
+
+Copy
+Expand allCollapse all
+{
+"store_information": {
+"duration": "ONE_MONTH",
+"subscription_group_name": "Premium Subscriptions",
+"subscription_group_id": "sub_group_123"
+}
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"created_product": {
+"object": "store_product",
+"id": 1234567890,
+"name": "Premium Monthly Subscription",
+"product_identifier": "com.example.premium_monthly"
+}
+}
+Get a list of products
+
+get
+/projects/{project_id}/products
+This endpoint requires the following permission(s): project_configuration:products:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+query Parameters
+app_id	
+string
+Example: app_id=app1a2b3c4
+This is an optional query parameter to get a list of products of a given entitlement associated with a particular app
+
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+expand	
+Array of strings[ items [ 1 .. 5000 ] characters ]
+Items Value: "items.app"
+Example: expand=items.app
+Specifies which fields in the response should be expanded. Accepted values are: items.app (requires project_configuration:apps:read permission).
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/products?starting_after=prodab21dac",
+"url": "/v2/projects/proj1ab2c3d4/products"
+}
+Create a product
+
+post
+/projects/{project_id}/products
+Warning
+This endpoint does not allow to create Web Billing products.
+This endpoint requires the following permission(s): project_configuration:products:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+Request Body schema: application/json
+required
+store_identifier
+required
+string [ 1 .. 200 ] characters
+The store identifier of the product.
+
+For Apple App Store products this is the product ID of the subscription or in-app product.
+For Google's Play Store, it should follow the format 'productId:basePlanId' for subscription products and SKU for one-time purchase products.
+For Stripe, the product identifier that always starts with "prod_"
+For Amazon, if it's a subscription, the term SKU of the subscription. If it's a one-time purchase, the SKU of the product.
+For Roku, this is the product identifier of the subscription or one-time purchase product.
+app_id
+required
+string [ 1 .. 255 ] characters
+The ID of the app
+
+type
+required
+string (ProductType)
+Enum: "subscription" "one_time" "consumable" "non_consumable" "non_renewing_subscription"
+display_name	
+string or null [ 1 .. 1500 ] characters
+The display name of the product
+
+subscription	
+object or null (ProductSubscriptionInput)
+Subscription parameters for product creation. Only supported for simulated store products.
+
+duration
+required
+string (Duration)
+Enum: "P1W" "P1M" "P2M" "P3M" "P6M" "P1Y"
+The duration of the product subscription. This field is only supported for the test store and it is ignored for other stores.
+
+title	
+string or null [ 1 .. 1500 ] characters
+The user-facing title of the product. This field is required for Test Store products.
+
+Responses
+201 Success. The product was created
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+Example
+
+App Store
+App Store
+
+Copy
+{
+"store_identifier": "com.revenuecat.magicweather.monthly9.99",
+"app_id": "app1a2b3c4",
+"type": "subscription",
+"display_name": "Premium Monthly 2023"
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "product",
+"id": "prod1a2b3c4d5e",
+"store_identifier": "rc_1w_199",
+"type": "subscription",
+"subscription": {
+"duration": "P1M",
+"grace_period_duration": "P3D",
+"trial_duration": "P1W"
+},
+"one_time": {
+"is_consumable": true
+},
+"created_at": 1658399423658,
+"app_id": "app1a2b3c4",
+"app": {
+"object": "app",
+"id": "app1a2b3c4",
+"name": "string",
+"created_at": 1658399423658,
+"type": "app_store",
+"project_id": "proj1a2b3c4",
+"amazon": {},
+"app_store": {},
+"mac_app_store": {},
+"play_store": {},
+"stripe": {},
+"rc_billing": {},
+"roku": {},
+"paddle": {}
+},
+"display_name": "Premium Monthly 2023"
+}
+Purchase
+Operations about purchases.
+
+Get a purchase
+
+get
+/projects/{project_id}/purchases/{purchase_id}
+This endpoint requires the following permission(s): customer_information:purchases:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+purchase_id
+required
+string [ 1 .. 255 ] characters
+Example: purc1a2b3c4d5e
+ID of the purchase
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "purchase",
+"id": "purch1a2b3c4d5e",
+"customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"original_customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"product_id": "prod1a2b3c4d5e",
+"purchased_at": 1658399423658,
+"revenue_in_usd": {
+"currency": "USD",
+"gross": 9.99,
+"commission": 2.99,
+"tax": 0.75,
+"proceeds": 6.25
+},
+"quantity": 1,
+"status": "owned",
+"presented_offering_id": "ofrnge1a2b3c4d5",
+"entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/purchases/sub1a2b3c4d5e/entitlements?status=active&starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/purchases/sub1a2b3c4d5e/entitlements"
+},
+"environment": "production",
+"store": "amazon",
+"store_purchase_identifier": 12345678,
+"ownership": "purchased",
+"country": "US"
+}
+Get a list of entitlements associated with a purchase
+
+get
+/projects/{project_id}/purchases/{purchase_id}/entitlements
+Lists all Entitlements granted by a Purchase. This endpoint requires the following permission(s): customer_information:purchases:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+purchase_id
+required
+string [ 1 .. 255 ] characters
+Example: purc1a2b3c4d5e
+ID of the purchase
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/entitlements?starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/entitlements"
+}
+Refund a Web Billing purchase
+
+post
+/projects/{project_id}/purchases/{purchase_id}/actions/refund
+Refund a Web Billing purchase and revoke access to associated granted entitlements. This endpoint requires the following permission(s): customer_information:purchases:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+purchase_id
+required
+string [ 1 .. 255 ] characters
+Example: purc1a2b3c4d5e
+ID of the purchase
+
+Responses
+200 Success. The purchase has been successfully refunded.
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "purchase",
+"id": "purch1a2b3c4d5e",
+"customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"original_customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"product_id": "prod1a2b3c4d5e",
+"purchased_at": 1658399423658,
+"revenue_in_usd": {
+"currency": "USD",
+"gross": 9.99,
+"commission": 2.99,
+"tax": 0.75,
+"proceeds": 6.25
+},
+"quantity": 1,
+"status": "owned",
+"presented_offering_id": "ofrnge1a2b3c4d5",
+"entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/purchases/sub1a2b3c4d5e/entitlements?status=active&starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/purchases/sub1a2b3c4d5e/entitlements"
+},
+"environment": "production",
+"store": "amazon",
+"store_purchase_identifier": 12345678,
+"ownership": "purchased",
+"country": "US"
+}
+Search one-time purchases by store purchase identifier
+
+get
+/projects/{project_id}/purchases
+Search for a one-time purchases by any of its associated store_purchase_identifier values.
+
+For example, this may include the transactionId of any transaction in an Apple App Store purchase, or any order ID from a Google Play Store purchase. This endpoint requires the following permission(s): customer_information:purchases:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+query Parameters
+store_purchase_identifier
+required
+string [ 1 .. 255 ] characters
+Examples:
+store_purchase_identifier=9aJscueFTxLPZXXo-AlBTkI0OnFXR2qiH14C1aqWnOT=:3:11 - Amazon Appstore
+store_purchase_identifier=100001234567890 - Apple App Store
+store_purchase_identifier=txn_01jss4bz50g1z5yw121npeb3ag - Paddle
+store_purchase_identifier=GPA.1234-5678-9012-34567 - Google Play Store
+store_purchase_identifier=txRcb553a54d4738816a63f1a05cfcb1723e3 - RevenueCat Web Billing
+store_purchase_identifier=4ab8df12-3003-11f0-9646-8ac68bcdcaed - Roku
+store_purchase_identifier=si_Rww1psqupbKxmt - Stripe
+Store ID associated with the one-time purchase.
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/purchases?starting_after=purc1a2b3c4d5e",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/purchases"
+}
+Subscription
+Operations about subscriptions.
+
+Get a subscription
+
+get
+/projects/{project_id}/subscriptions/{subscription_id}
+This endpoint requires the following permission(s): customer_information:subscriptions:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+subscription_id
+required
+string [ 1 .. 255 ] characters
+Example: sub1a2b3c4d5e
+ID of the subscription
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "subscription",
+"id": "sub1ab2c3d4e5",
+"customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"original_customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"product_id": "prod1a2b3c4d5e",
+"starts_at": 1658399423658,
+"current_period_starts_at": 1658399423658,
+"current_period_ends_at": 1658399423658,
+"ends_at": 1658399423658,
+"gives_access": true,
+"pending_payment": true,
+"auto_renewal_status": "will_renew",
+"status": "trialing",
+"total_revenue_in_usd": {
+"currency": "USD",
+"gross": 9.99,
+"commission": 2.99,
+"tax": 0.75,
+"proceeds": 6.25
+},
+"presented_offering_id": "ofrnge1a2b3c4d5",
+"entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/subscriptions/sub1a2b3c4d5e/entitlements?status=active&starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/subscriptions/sub1a2b3c4d5e/entitlements"
+},
+"environment": "production",
+"store": "amazon",
+"store_subscription_identifier": 12345678,
+"ownership": "purchased",
+"pending_changes": {
+"product": {}
+},
+"country": "US",
+"management_url": "https://apps.apple.com/account/subscriptions"
+}
+Get a Play Store subscription's transactions
+
+get
+/projects/{project_id}/subscriptions/{subscription_id}/transactions
+This endpoint requires the following permission(s): customer_information:subscriptions:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+subscription_id
+required
+string [ 1 .. 255 ] characters
+Example: sub1a2b3c4d5e
+ID of the subscription
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj123/subscriptions/sub123/transactions?starting_after=GPA.0000-0000-0000-00000",
+"url": "/v2/projects/proj123/subscriptions/sub123/transactions"
+}
+Refund a Play Store subscription's transaction
+
+post
+/projects/{project_id}/subscriptions/{subscription_id}/transactions/{transaction_id}/actions/refund
+Refund a Play Store subscription's transaction. This endpoint does not cancel the subscription or revoke access to it. This endpoint requires the following permission(s): customer_information:subscriptions:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+subscription_id
+required
+string [ 1 .. 255 ] characters
+Example: sub1a2b3c4d5e
+ID of the subscription
+
+transaction_id
+required
+string [ 1 .. 255 ] characters
+Example: GPA.000-000-000-000
+Identifier of the transaction in the store
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "subscription_transaction",
+"id": "GPA.0000-0000-0000-00000",
+"purchased_at": 1658399423658
+}
+Get a list of entitlements associated with a subscription
+
+get
+/projects/{project_id}/subscriptions/{subscription_id}/entitlements
+Lists all Entitlements granted by a Subscription. This endpoint requires the following permission(s): customer_information:subscriptions:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+subscription_id
+required
+string [ 1 .. 255 ] characters
+Example: sub1a2b3c4d5e
+ID of the subscription
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/entitlements?starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/entitlements"
+}
+Cancel an active Web Billing subscription
+
+post
+/projects/{project_id}/subscriptions/{subscription_id}/actions/cancel
+Cancel an active Web Billing subscription. The customer will lose access to the associated entitlements at the end of the current period. This endpoint requires the following permission(s): customer_information:subscriptions:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+subscription_id
+required
+string [ 1 .. 255 ] characters
+Example: sub1a2b3c4d5e
+ID of the subscription
+
+Responses
+200 Success. The subscription has been successfully canceled.
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "subscription",
+"id": "sub1ab2c3d4e5",
+"customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"original_customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"product_id": "prod1a2b3c4d5e",
+"starts_at": 1658399423658,
+"current_period_starts_at": 1658399423658,
+"current_period_ends_at": 1658399423658,
+"ends_at": 1658399423658,
+"gives_access": true,
+"pending_payment": true,
+"auto_renewal_status": "will_renew",
+"status": "trialing",
+"total_revenue_in_usd": {
+"currency": "USD",
+"gross": 9.99,
+"commission": 2.99,
+"tax": 0.75,
+"proceeds": 6.25
+},
+"presented_offering_id": "ofrnge1a2b3c4d5",
+"entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/subscriptions/sub1a2b3c4d5e/entitlements?status=active&starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/subscriptions/sub1a2b3c4d5e/entitlements"
+},
+"environment": "production",
+"store": "amazon",
+"store_subscription_identifier": 12345678,
+"ownership": "purchased",
+"pending_changes": {
+"product": {}
+},
+"country": "US",
+"management_url": "https://apps.apple.com/account/subscriptions"
+}
+Refund an active Web Billing subscription
+
+post
+/projects/{project_id}/subscriptions/{subscription_id}/actions/refund
+Cancel a Web Billing subscription by refunding the most recent payment. The customer will immediately lose access to the associated entitlements. This endpoint requires the following permission(s): customer_information:subscriptions:read_write. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+subscription_id
+required
+string [ 1 .. 255 ] characters
+Example: sub1a2b3c4d5e
+ID of the subscription
+
+Responses
+200 Success. The subscription has been successfully refunded.
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "subscription",
+"id": "sub1ab2c3d4e5",
+"customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"original_customer_id": "19b8de26-77c1-49f1-aa18-019a391603e2",
+"product_id": "prod1a2b3c4d5e",
+"starts_at": 1658399423658,
+"current_period_starts_at": 1658399423658,
+"current_period_ends_at": 1658399423658,
+"ends_at": 1658399423658,
+"gives_access": true,
+"pending_payment": true,
+"auto_renewal_status": "will_renew",
+"status": "trialing",
+"total_revenue_in_usd": {
+"currency": "USD",
+"gross": 9.99,
+"commission": 2.99,
+"tax": 0.75,
+"proceeds": 6.25
+},
+"presented_offering_id": "ofrnge1a2b3c4d5",
+"entitlements": {
+"object": "list",
+"items": [],
+"next_page": "/v2/projects/proj1ab2c3d4/subscriptions/sub1a2b3c4d5e/entitlements?status=active&starting_after=entlab21dac",
+"url": "/v2/projects/proj1ab2c3d4/subscriptions/sub1a2b3c4d5e/entitlements"
+},
+"environment": "production",
+"store": "amazon",
+"store_subscription_identifier": 12345678,
+"ownership": "purchased",
+"pending_changes": {
+"product": {}
+},
+"country": "US",
+"management_url": "https://apps.apple.com/account/subscriptions"
+}
+Get an authenticated Web Billing customer portal URL
+
+get
+/projects/{project_id}/subscriptions/{subscription_id}/authenticated_management_url
+Get a secure, single-use URL that allows customers to access their Web Billing customer portal. This endpoint requires the following permission(s): customer_information:subscriptions:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+subscription_id
+required
+string [ 1 .. 255 ] characters
+Example: sub1a2b3c4d5e
+ID of the subscription
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "authenticated_management_url",
+"management_url": "https://billing.revenuecat.com/app1a2b3c4/sub1ab2c3d4e5?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+}
+Search subscriptions by store subscription identifier
+
+get
+/projects/{project_id}/subscriptions
+Search for a subscription by any of its associated store_subscription_identifier values, whether from a past or current subscription period.
+
+For example, this may include the transactionId of any transaction in an Apple App Store subscription, or any order ID from a Google Play Store subscription. This endpoint requires the following permission(s): customer_information:subscriptions:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+query Parameters
+store_subscription_identifier
+required
+string [ 1 .. 255 ] characters
+Examples:
+store_subscription_identifier=9aJscueFTxLPZXXo-AlBTkI0OnFXR2qiH14C1aqWnOT=:3:11..8 - Amazon Appstore
+store_subscription_identifier=100001234567890 - Apple App Store
+store_subscription_identifier=txn_01jss4bz50g1z5yw121npeb3ag - Paddle
+store_subscription_identifier=GPA.1234-5678-9012-34567..0 - Google Play Store
+store_subscription_identifier=txRcb553a54d4738816a63f1a05cfcb1723e3..1746748685 - RevenueCat Web Billing
+store_subscription_identifier=4ab8df12-3003-11f0-9646-8ac68bcdcaed - Roku
+store_subscription_identifier=si_Rww1psqupbKxmt - Stripe
+Store ID associated with the subscription for the current or next period.
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/subscriptions?starting_after=sub1a2b3c4d",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/subscriptions"
+}
+Invoice
+Operations about invoices.
+
+Get a list of the customer's invoices
+
+get
+/projects/{project_id}/customers/{customer_id}/invoices
+This endpoint requires the following permission(s): customer_information:invoices:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/invoices?starting_after=rcbin1a2b3c4d5e",
+"url": "/v2/projects/proj1ab2c3d4/customers/19b8de26-77c1-49f1-aa18-019a391603e2/invoices"
+}
+Get an invoice
+
+get
+/projects/{project_id}/customers/{customer_id}/invoices/{invoice_id}/file
+This endpoint requires the following permission(s): customer_information:invoices:read. This endpoint belongs to the Customer Information domain, which has a default rate limit of 480 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+customer_id
+required
+string [ 1 .. 1500 ] characters
+Example: 19b8de26-77c1-49f1-aa18-019a391603e2
+ID of the customer
+
+invoice_id
+required
+string [ 1 .. 1500 ] characters
+Example: rcbin1a2b3c4d5e
+ID of the invoice
+
+Responses
+302 File found. Needs to be downloaded from the location header
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+400401403404423429500503
+Content type
+application/json
+Example
+
+parameter_error
+parameter_error
+
+Copy
+{
+"object": "error",
+"type": "parameter_error",
+"param": "customer_id",
+"message": "id is too long",
+"retryable": false,
+"doc_url": "https://errors.rev.cat/parameter-error"
+}
+Paywall
+Operations about paywalls.
+
+Create a paywall
+
+post
+/projects/{project_id}/paywalls
+Create a paywall for an offering of the project. This endpoint requires the following permission(s): project_configuration:offerings:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+Request Body schema: application/json
+required
+offering_id
+required
+string [ 1 .. 200 ] characters
+The ID of the offering the paywall will be created for.
+
+Responses
+201 Success. The paywall was created
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+{
+"offering_id": "ofrng123456789a"
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "paywall",
+"id": "pw123456789abcdef",
+"name": "My Awesome Paywall",
+"offering_id": "ofrng123456789a",
+"created_at": 1658399423658,
+"published_at": 1658399423958
+}
+Integration
+Operations about integrations.
+
+List webhook integrations
+
+get
+/projects/{project_id}/integrations/webhooks
+This endpoint requires the following permission(s): project_configuration:integrations:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects/proj1ab2c3d4/integrations/webhooks?starting_after=whintgr1a2b3c4d",
+"url": "/v2/projects/proj1ab2c3d4/integrations/webhooks"
+}
+Create a webhook integration
+
+post
+/projects/{project_id}/integrations/webhooks
+This endpoint requires the following permission(s): project_configuration:integrations:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+Request Body schema: application/json
+required
+name
+required
+string [ 1 .. 1500 ] characters
+The display name of the webhook integration
+
+url
+required
+string <uri> <= 5000 characters
+The URL RevenueCat will send webhook notifications to
+
+authorization_header	
+string or null <= 5000 characters
+Optional authorization header that will be sent with webhook notifications
+
+environment	
+string or null
+Enum: "production" "sandbox" null
+The environment the webhook integration is configured for
+
+event_types	
+Array of strings or null (WebhookEventType)
+Enum: "initial_purchase" "renewal" "product_change" "cancellation" "billing_issue" "non_renewing_purchase" "uncancellation" "transfer" "subscription_paused" "expiration" … 5 more
+Event types that will trigger the webhook
+
+app_id	
+string or null [ 1 .. 255 ] characters
+The ID of the app the webhook integration is scoped to
+
+Responses
+201 Webhook integration created
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"name": "Customer updates webhook",
+"url": "https://hooks.example.com/revenuecat",
+"authorization_header": "Bearer 123456",
+"environment": "production",
+"event_types": [
+"initial_purchase"
+],
+"app_id": "app_1234567890abcdef"
+}
+Response samples
+201400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "webhook_integration",
+"id": "wh_1234567890abcdef",
+"project_id": "proj_1234567890abcdef",
+"name": "Customer updates webhook",
+"url": "https://hooks.example.com/revenuecat",
+"environment": "production",
+"event_types": [
+"initial_purchase"
+],
+"app_id": "app_1234567890abcdef",
+"created_at": 1658399423658
+}
+Get a webhook integration
+
+get
+/projects/{project_id}/integrations/webhooks/{webhook_integration_id}
+This endpoint requires the following permission(s): project_configuration:integrations:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+webhook_integration_id
+required
+string [ 1 .. 255 ] characters
+Example: wh_1234567890abcdef
+The ID of the webhook integration
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "webhook_integration",
+"id": "wh_1234567890abcdef",
+"project_id": "proj_1234567890abcdef",
+"name": "Customer updates webhook",
+"url": "https://hooks.example.com/revenuecat",
+"environment": "production",
+"event_types": [
+"initial_purchase"
+],
+"app_id": "app_1234567890abcdef",
+"created_at": 1658399423658
+}
+Update a webhook integration
+
+post
+/projects/{project_id}/integrations/webhooks/{webhook_integration_id}
+This endpoint requires the following permission(s): project_configuration:integrations:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+webhook_integration_id
+required
+string [ 1 .. 255 ] characters
+Example: wh_1234567890abcdef
+The ID of the webhook integration
+
+Request Body schema: application/json
+required
+name	
+string [ 1 .. 1500 ] characters
+The display name of the webhook integration
+
+url	
+string <uri> <= 5000 characters
+The URL RevenueCat will send webhook notifications to
+
+authorization_header	
+string or null <= 5000 characters
+Optional authorization header that will be sent with webhook notifications
+
+environment	
+string or null
+Enum: "production" "sandbox" null
+The environment the webhook integration is configured for
+
+event_types	
+Array of strings or null (WebhookEventType)
+Enum: "initial_purchase" "renewal" "product_change" "cancellation" "billing_issue" "non_renewing_purchase" "uncancellation" "transfer" "subscription_paused" "expiration" … 5 more
+Event types that will trigger the webhook
+
+app_id	
+string or null [ 1 .. 255 ] characters
+The ID of the app the webhook integration is scoped to
+
+Responses
+200 Webhook integration updated
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"name": "Customer updates webhook",
+"url": "https://hooks.example.com/revenuecat",
+"authorization_header": "Bearer 123456",
+"environment": "production",
+"event_types": [
+"initial_purchase"
+],
+"app_id": "app_1234567890abcdef"
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "webhook_integration",
+"id": "wh_1234567890abcdef",
+"project_id": "proj_1234567890abcdef",
+"name": "Customer updates webhook",
+"url": "https://hooks.example.com/revenuecat",
+"environment": "production",
+"event_types": [
+"initial_purchase"
+],
+"app_id": "app_1234567890abcdef",
+"created_at": 1658399423658
+}
+Delete a webhook integration
+
+delete
+/projects/{project_id}/integrations/webhooks/{webhook_integration_id}
+This endpoint requires the following permission(s): project_configuration:integrations:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+path Parameters
+project_id
+required
+string <= 255 characters
+Example: proj1ab2c3d4
+ID of the project
+
+webhook_integration_id
+required
+string [ 1 .. 255 ] characters
+Example: wh_1234567890abcdef
+The ID of the webhook integration
+
+Responses
+200 Webhook integration deleted
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "app",
+"id": "string",
+"deleted_at": 1658399423658
+}
+Project
+Operations about projects.
+
+Get a list of projects
+
+get
+/projects
+This endpoint requires the following permission(s): project_configuration:projects:read. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+query Parameters
+starting_after	
+string
+Example: starting_after=ent12354
+limit	
+integer
+Default: 20
+Example: limit=10
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Response samples
+200400401403404423429500503
+Content type
+application/json
+
+Copy
+Expand allCollapse all
+{
+"object": "list",
+"items": [
+{}
+],
+"next_page": "/v2/projects?starting_after=projab21dac",
+"url": "/v2/projects"
+}
+Creates a new project
+
+post
+/projects
+This endpoint requires the following permission(s): project_configuration:projects:read_write. This endpoint belongs to the Project Configuration domain, which has a default rate limit of 60 requests per minute.
+
+Authorizations:
+BearerAuth
+Request Body schema: application/json
+required
+name
+required
+string [ 1 .. 255 ] characters
+The name of the project
+
+Responses
+200 Success
+400 Bad request
+401 Unauthorized
+403 Access denied
+404 Not found
+409 Conflict
+422 Unprocessable entity
+423 Locked
+429 The request could not be completed because the rate limiting domain for this endpoint is currently at its limit for this project.
+500 Internal server error
+503 Internal server error
+Request samples
+Payload
+Content type
+application/json
+
+Copy
+{
+"name": "string"
+}
+Response samples
+200400401403404409422423429500503
+Content type
+application/json
+
+Copy
+{
+"object": "project",
+"id": "proj1ab2c3d4",
+"name": "MagicWeather",
+"created_at": 1658399423658,
+"icon_url": "https://www.appatar.io/abc123/small",
+"icon_url_large": "https://www.appatar.io/abc123/large"
+}

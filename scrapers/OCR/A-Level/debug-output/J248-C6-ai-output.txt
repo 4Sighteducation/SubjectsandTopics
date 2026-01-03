@@ -1,0 +1,77 @@
+1 C6.1 Improving processes and products
+1.1 C6.1a explain, using the position of carbon in the reactivity series, the principles of industrial processes used to extract metals, including extraction of a non-ferrous metal
+1.1.1 the principles of using carbon to extract iron and other metals from their ores
+1.2 C6.1b explain why and how electrolysis is used to extract some metals from their ores
+1.2.1 Electrolysis of aqueous sodium chloride solution
+1.2.2 Electrolysis of aqueous copper sulfate solution
+1.3 C6.1c evaluate alternative biological methods of metal extraction
+1.3.1 bacterial and phytoextraction
+1.4 C6.1d explain the trade-off between rate of production of a desired product and position of equilibrium in some industrially important processes
+1.4.1 the Haber process and Contact process
+1.5 C6.1e interpret graphs of reaction conditions versus rate
+1.6 C6.1f explain how the commercially used conditions for an industrial process are related to the availability and cost of raw materials and energy supplies, control of equilibrium position and rate
+1.7 C6.1g explain the importance of the Haber process in agricultural production
+1.8 C6.1h compare the industrial production of fertilisers with laboratory syntheses of the same products
+1.8.1 Preparation of potassium sulfate or ammonium sulfate using a titration method
+1.9 C6.1i recall the importance of nitrogen, phosphorus and potassium compounds in agricultural production
+1.10 C6.1j describe the industrial production of fertilisers as several integrated processes using a variety of raw materials
+1.10.1 ammonium nitrate
+1.10.2 ammonium sulfate
+1.11 C6.1k describe the basic principles in carrying out a life-cycle assessment of a material or product
+1.11.1 the use of resources and impact on the environment of all stages of a life-cycle assessment:
+1.11.1.1 making materials for a product from raw materials through to the process used to make the product
+1.11.1.2 the use of the product
+1.11.1.3 transport of the product
+1.11.1.4 the method used for its disposal at the end of its life
+1.12 C6.1l interpret data from a life-cycle assessment of a material or product
+1.13 C6.1m describe a process where a material or product is recycled for a different use, and explain why this is viable
+1.14 C6.1n evaluate factors that affect decisions on recycling
+1.15 C6.1o describe the composition of some important alloys in relation to their properties and uses
+1.15.1 steel, brass, bronze, solder, duralumin
+1.16 C6.1p describe the process of corrosion and the conditions which cause corrosion
+1.16.1 iron and other metals
+1.17 C6.1q explain how mitigation of corrosion is achieved by creating a physical barrier to oxygen and water and by sacrificial protection
+1.18 C6.1r compare quantitatively the physical properties of glass and clay ceramics, polymers, composites and metals
+1.19 C6.1s explain how the properties of materials are related to their uses and select appropriate materials given details of the usage required
+
+2 C6.2 Organic chemistry
+2.1 C6.2a recognise functional groups and identify homologous series, members of the same homologous series
+2.1.1 of alkanes, alkenes, alcohols and carboxylic acids
+2.2 C6.2b name and draw the structural formulae, using fully displayed formulae, of the first four members of the straight chain alkanes, alkenes, alcohols and carboxylic acids
+2.3 C6.2c predict the formulae and structures of products of reactions of the first four and other given members of the homologous series of alkanes, alkenes and alcohols
+2.3.1 combustion
+2.3.2 addition of bromine and hydrogen across a double bond
+2.3.3 oxidation of alcohols to carboxylic acids using potassium manganate(VII)
+2.4 C6.2d recall the basic principles of addition polymerisation by reference to the functional group in the monomer and the repeating units in the polymer
+2.5 C6.2e explain the basic principles of condensation polymerisation
+2.5.1 reference to the functional groups of the monomers, the minimum number of functional groups within a monomer, the number of repeating units in the polymer, and simultaneous formation of a small molecule, e.g. a polyester or polyamide, using block diagrams to represent polymers
+2.6 C6.2f describe practical techniques to make a polymer by condensation
+2.7 C6.2g deduce the structure of an addition polymer from a simple alkene monomer and vice versa
+2.7.1 the following representation of a polymer [repeat unit] n
+2.8 C6.2h recall that DNA is a polymer made from four different monomers called nucleotides and that other important naturally-occurring polymers are based on sugars and amino-acids
+2.9 C6.2i recall that it is the generality of reactions of functional groups that determine the reactions of organic compounds
+2.10 C6.2j describe the separation of crude oil by fractional distillation
+2.10.1 the names of the fractions
+2.11 C6.2k explain the separation of crude oil by fractional distillation
+2.11.1 molecular size and intermolecular forces
+2.12 C6.2l describe the fractions as largely a mixture of compounds of formula CnH2n+2 which are members of the alkane homologous series
+2.13 C6.2m recall that crude oil is a main source of hydrocarbons and is a feedstock for the petrochemical industry
+2.14 C6.2n explain how modern life is crucially dependent upon hydrocarbons and recognise that crude oil is a finite resource
+2.15 C6.2o describe the production of materials that are more useful by cracking
+2.15.1 conditions and reasons for cracking and some of the useful materials produced
+2.16 C6.2p recall that a chemical cell produces a potential difference until the reactants are used up
+2.17 C6.2q evaluate the advantages and disadvantages of hydrogen/oxygen and other fuel cells for given uses
+2.17.1 the chemistry of the hydrogen/oxygen fuel cell
+
+3 C6.3 Interpreting and interacting with earth systems
+3.1 C6.3a interpret evidence for how it is thought the atmosphere was originally formed
+3.1.1 knowledge of how the composition of the atmosphere has changed over time
+3.2 C6.3b describe how it is thought an oxygen-rich atmosphere developed over time
+3.3 C6.3c describe the greenhouse effect in terms of the interaction of radiation with matter within the atmosphere
+3.4 C6.3d evaluate the evidence for additional anthropogenic (human activity) causes of climate change and describe the uncertainties in the evidence base
+3.4.1 the correlation between change in atmospheric carbon dioxide concentration and the consumption of fossil fuels
+3.5 C6.3e describe the potential effects of increased levels of carbon dioxide and methane on the Earth’s climate and how these effects may be mitigated
+3.5.1 consideration of scale, risk and environmental implications
+3.6 C6.3f describe the major sources of carbon monoxide, sulfur dioxide, oxides of nitrogen and particulates in the atmosphere and explain the problems caused by increased amounts of these substances
+3.7 C6.3g describe the principal methods for increasing the availability of potable water in terms of the separation techniques used
+3.7.1 ease of treatment of waste, ground and salt water

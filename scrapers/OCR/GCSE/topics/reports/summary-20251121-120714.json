@@ -1,0 +1,86 @@
+{
+  "timestamp": "2025-11-21T12:07:14.110128",
+  "total_subjects": 1,
+  "success_count": 1,
+  "fail_count": 0,
+  "success_rate": 100.0,
+  "reports": [
+    {
+      "subject_code": "J277",
+      "subject_name": "Computer Science",
+      "url": "https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf",
+      "start_time": "2025-11-21T12:07:14.108233",
+      "success": true,
+      "topics_extracted": 256,
+      "levels": {
+        "0": 1,
+        "1": 2,
+        "2": 11,
+        "3": 26,
+        "4": 83,
+        "5": 130,
+        "6": 3
+      },
+      "issues": [
+        "Missing topics compared to Content Overview",
+        "Incorrect level assignment for some topics"
+      ],
+      "warnings": [
+        "Potential structure issues with parent-child relationships"
+      ],
+      "success_grade": 85,
+      "analysis": {
+        "tiers": {
+          "has_tiers": false,
+          "foundation_content": "",
+          "higher_content": "",
+          "differences": []
+        },
+        "options": {
+          "has_options": false,
+          "compulsory": [],
+          "optional": []
+        },
+        "texts": {
+          "has_texts": false,
+          "text_locations": [],
+          "extraction_strategy": "incorporated"
+        },
+        "structure_type": "component-based",
+        "content_overview": {
+          "main_sections": [
+            "1.1 Systems architecture",
+            "1.2 Memory and storage",
+            "1.3 Computer networks, connections and protocols",
+            "1.4 Network security",
+            "1.5 Systems software",
+            "1.6 Ethical, legal, cultural and environmental impacts of digital technology",
+            "2.1 Algorithms",
+            "2.2 Programming fundamentals",
+            "2.3 Producing robust programs",
+            "2.4 Boolean logic",
+            "2.5 Programming languages and Integrated Development Environments"
+          ],
+          "organization": "The content is organized into two main components, each with specific topics.",
+          "expected_depth": 3
+        },
+        "assessment": {
+          "written_papers": [
+            "J277/01: Computer systems",
+            "J277/02: Computational thinking, algorithms and programming"
+          ],
+          "content_mapping": {
+            "J277/01": "1.1 Systems architecture, 1.2 Memory and storage, 1.3 Computer networks, connections and protocols, 1.4 Network security, 1.5 Systems software, 1.6 Ethical, legal, cultural and environmental impacts of digital technology",
+            "J277/02": "2.1 Algorithms, 2.2 Programming fundamentals, 2.3 Producing robust programs, 2.4 Boolean logic, 2.5 Programming languages and Integrated Development Environments"
+          },
+          "cross_component": false
+        },
+        "known_pattern": "other",
+        "extraction_guidance": "Focus on extracting content from the two main components and their respective topics. Ensure to capture the structure and hierarchy of topics within each component.",
+        "content_found": true
+      },
+      "duration_seconds": 0,
+      "end_time": "2025-11-21T12:07:14.108242"
+    }
+  ]
+}

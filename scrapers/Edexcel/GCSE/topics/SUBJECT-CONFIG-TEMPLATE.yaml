@@ -1,0 +1,117 @@
+# Universal Edexcel GCSE Subject Configuration Template
+# Copy this file and fill in for each new subject
+
+subject:
+  code: "GCSE-GeoA"              # Standardized code (see SUBJECT-CODES.py)
+  name: "Geography A"            # Full subject name
+  qualification: "GCSE"          # Always GCSE for this folder
+  exam_board: "Edexcel"          # Always Edexcel
+  pdf_url: "https://qualifications.pearson.com/content/dam/pdf/GCSE/Geography-A/2016/specification-and-sample-assessments/gcse-2016-l12-geography-a-spec.pdf"
+
+# PDF Scraping Settings
+scraping:
+  page_range: "7-30"             # Pages containing content tables
+  table_flavor: "lattice"        # "lattice" or "stream" for Camelot
+
+# Level 0: Components (Papers)
+components:
+  - code: "Component1"
+    title: "Component 1: The Physical Environment (Paper 1 - 1GA0/01)"
+  
+  - code: "Component2"
+    title: "Component 2: The Human Environment (Paper 2 - 1GA0/02)"
+  
+  - code: "Component3"
+    title: "Component 3: Geographical Investigations (Paper 3 - 1GA0/03)"
+
+# Level 1: Topics
+topics:
+  # Component 1
+  - code: "Component1_Topic1"
+    title: "Topic 1: The changing landscapes of the UK"
+    parent: "Component1"
+  
+  - code: "Component1_Topic2"
+    title: "Topic 2: Weather hazards and climate change"
+    parent: "Component1"
+  
+  - code: "Component1_Topic3"
+    title: "Topic 3: Ecosystems, biodiversity and management"
+    parent: "Component1"
+  
+  # Component 2
+  - code: "Component2_Topic4"
+    title: "Topic 4: Changing cities"
+    parent: "Component2"
+  
+  - code: "Component2_Topic5"
+    title: "Topic 5: Global development"
+    parent: "Component2"
+  
+  - code: "Component2_Topic6"
+    title: "Topic 6: Resource management"
+    parent: "Component2"
+  
+  # Component 3
+  - code: "Component3_Topic7"
+    title: "Topic 7: Geographical investigations - fieldwork"
+    parent: "Component3"
+  
+  - code: "Component3_Topic8"
+    title: "Topic 8: Geographical investigations - UK challenges"
+    parent: "Component3"
+
+# Level 2: Optional Sub-topics (if any)
+optional_subtopics:
+  - code: "Component1_Topic1_1A"
+    title: "1A: Coastal landscapes and processes (optional - choose 2 from 3)"
+    parent: "Component1_Topic1"
+    # Detection patterns for Stage 2 scraper
+    detect_in_text:
+      - "Optional sub topic 1A"
+      - "Optional sub-topic 1A"
+      - "Coastal landscapes and processes"
+  
+  - code: "Component1_Topic1_1B"
+    title: "1B: River landscapes and processes (optional - choose 2 from 3)"
+    parent: "Component1_Topic1"
+    detect_in_text:
+      - "Optional sub topic 1B"
+      - "River landscapes and processes"
+  
+  - code: "Component1_Topic1_1C"
+    title: "1C: Glaciated upland landscapes and processes (optional - choose 2 from 3)"
+    parent: "Component1_Topic1"
+    detect_in_text:
+      - "Optional sub topic 1C"
+      - "Glaciated upland landscapes"
+  
+  - code: "Component2_Topic6_6A"
+    title: "6A: Energy resource management (optional - choose 1 from 2)"
+    parent: "Component2_Topic6"
+    detect_in_text:
+      - "Optional sub topic 6A"
+      - "Energy resource management"
+  
+  - code: "Component2_Topic6_6B"
+    title: "6B: Water resource management (optional - choose 1 from 2)"
+    parent: "Component2_Topic6"
+    detect_in_text:
+      - "Optional sub topic 6B"
+      - "Water resource management"
+
+# Exit patterns - when to clear optional subtopic tracking
+exit_optional_patterns:
+  - "Topic [2-9]:"
+
+# Component mapping for key ideas (which component does topic X belong to?)
+topic_to_component:
+  "1": "Component1"
+  "2": "Component1"
+  "3": "Component1"
+  "4": "Component2"
+  "5": "Component2"
+  "6": "Component2"
+  "7": "Component3"
+  "8": "Component3"
+

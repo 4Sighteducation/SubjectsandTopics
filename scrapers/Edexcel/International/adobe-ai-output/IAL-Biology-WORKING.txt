@@ -1,0 +1,194 @@
+1. Unit 1: Molecules, Diet, Transport and Health
+   1.1 Molecules, Transport and Health
+       1.1.1 Importance of water as a solvent in transport
+       1.1.2 Monosaccharides, disaccharides, and polysaccharides
+       1.1.3 CORE PRACTICAL 1: Use a semi-quantitative method with Benedict’s reagent
+       1.1.4 Synthesis and hydrolysis of carbohydrates
+       1.1.5 Synthesis of triglycerides and differences between saturated and unsaturated lipids
+       1.1.6 Heart and circulation in animals
+       1.1.7 Structure and function of blood vessels
+       1.1.8 Cardiac cycle and heart structure
+       1.1.9 Role of haemoglobin in oxygen and carbon dioxide transport
+       1.1.10 Atherosclerosis and cardiovascular disease
+       1.1.11 Blood clotting process
+       1.1.12 Risk factors for cardiovascular disease
+       1.1.13 Dietary antioxidants and cardiovascular disease
+       1.1.14 CORE PRACTICAL 2: Investigate the vitamin C content of food and drink
+       1.1.15 Analysis of quantitative data on health risks
+       1.1.16 Evaluation of study designs for health risk factors
+       1.1.17 Perception of risks vs. actual risks
+       1.1.18 Blood cholesterol levels and cardiovascular disease
+       1.1.19 Use of scientific knowledge to reduce coronary heart disease risk
+       1.1.20 Benefits and risks of cardiovascular disease treatments
+
+   1.2 Membranes, Proteins, DNA and Gene Expression
+       1.2.1 Properties of gas exchange surfaces
+       1.2.2 Structure and properties of cell membranes
+       1.2.3 CORE PRACTICAL 3: Investigate membrane properties
+       1.2.4 Osmosis and water potential
+       1.2.5 Passive and active transport mechanisms
+       1.2.6 Structure and formation of proteins
+       1.2.7 Mechanism of enzyme action
+       1.2.8 CORE PRACTICAL 4: Investigate enzyme-catalysed reactions
+       1.2.9 Structure of nucleotides and nucleic acids
+       1.2.10 DNA replication and Meselson and Stahl’s experiment
+       1.2.11 Nature of the genetic code
+       1.2.12 Gene structure and protein synthesis
+       1.2.13 Errors in DNA replication and mutations
+       1.2.14 Genetic terminology and inheritance patterns
+       1.2.15 Cystic fibrosis and gene mutations
+       1.2.16 Uses and implications of genetic screening
+       1.2.17 Ethical and social issues in genetic screening
+
+2. Unit 2: Cells, Development, Biodiversity and Conservation
+   2.1 Cell Structure, Reproduction and Development
+       2.1.1 Common features of cells
+       2.1.2 Organisation of cells into tissues, organs, and systems
+       2.1.3 Ultrastructure of eukaryotic cells
+       2.1.4 Role of rough endoplasmic reticulum and Golgi apparatus
+       2.1.5 Ultrastructure of prokaryotic cells
+       2.1.6 Recognition of organelles from electron microscope images
+       2.1.7 Magnification and resolution in microscopy
+       2.1.8 CORE PRACTICAL 5: Use a light microscope to observe animal cells
+       2.1.9 Locus and linkage of genes
+       2.1.10 Role of meiosis in genetic variation
+       2.1.11 Specialisation of mammalian gametes
+       2.1.12 Fertilisation processes in mammals and plants
+       2.1.13 Role of mitosis and the cell cycle
+       2.1.14 CORE PRACTICAL 6: Prepare and stain a root tip squash
+       2.1.15 Calculation of mitotic indices
+       2.1.16 Stem cells and their use in medical therapies
+       2.1.17 Differential gene expression and cell specialisation
+       2.1.18 Interaction of genotype and environment on phenotype
+       2.1.19 Polygenic inheritance and continuous variation
+
+   2.2 Plant Structure and Function, Biodiversity and Conservation
+       2.2.1 Structure and ultrastructure of plant cells
+       2.2.2 Structure and function of polysaccharides
+       2.2.3 Arrangement of cellulose microfibrils in plant cell walls
+       2.2.4 Structure and function of sclerenchyma fibres, xylem vessels, and phloem
+       2.2.5 CORE PRACTICAL 7: Use a light microscope to observe plant tissues
+       2.2.6 Uses of plant fibres and starch in sustainability
+       2.2.7 Importance of water and inorganic ions to plants
+       2.2.8 CORE PRACTICAL 8: Determine the tensile strength of plant fibres
+       2.2.9 Conditions for bacterial growth
+       2.2.10 Antimicrobial properties of plant-derived substances
+       2.2.11 CORE PRACTICAL 9: Investigate the antimicrobial properties of plants
+       2.2.12 Development of drug testing protocols
+       2.2.13 Classification and biodiversity
+       2.2.14 Measurement of biodiversity and genetic diversity
+       2.2.15 Concept of niche and organism adaptations
+       2.2.16 Hardy-Weinberg equation and allele frequency
+       2.2.17 Conservation methods in zoos and seed banks
+
+3. Unit 3: Practical Skills in Biology I
+   3.1 Development of experimental skills and techniques
+   3.2 Assessment of knowledge and understanding of experimental procedures
+   3.3 Planning and evaluating investigations
+   3.4 Implementation and measurements in experiments
+   3.5 Processing and analyzing experimental data
+
+4. Unit 4: Energy, Environment, Microbiology and Immunity
+   4.1 Energy Flow, Ecosystems and the Environment
+       4.1.1 Photosynthesis and energy capture
+       4.1.2 Photophosphorylation and ATP synthesis
+       4.1.3 Light-dependent and light-independent reactions
+       4.1.4 Structure of chloroplasts
+       4.1.5 Absorption and action spectra
+       4.1.6 Chromatography of chloroplast pigments
+       4.1.7 CORE PRACTICAL 10: Investigate the rate of photosynthesis
+       4.1.8 Gross primary productivity and net primary productivity
+       4.1.9 Efficiency of biomass and energy transfers
+       4.1.10 Population, community, habitat, and ecosystem concepts
+       4.1.11 Biotic and abiotic factors in habitats
+       4.1.12 Concept of niche and organism distribution
+       4.1.13 CORE PRACTICAL 11: Study the ecology of a habitat
+       4.1.14 Stages of succession
+       4.1.15 Evidence and causes of climate change
+       4.1.16 Anthropogenic climate change and greenhouse gases
+       4.1.17 Carbon cycle and methods to reduce atmospheric CO2
+       4.1.18 Extrapolation and limitations of climate change models
+       4.1.19 Effects of climate change on plants and animals
+       4.1.20 Effect of temperature on enzyme activity
+       4.1.21 CORE PRACTICAL 12: Investigate the effects of temperature on development
+       4.1.22 Evolution through mutation and natural selection
+       4.1.23 Isolation and speciation
+       4.1.24 Scientific conclusions on climate change actions
+       4.1.25 Reforestation and sustainable resource management
+
+   4.2 Microbiology, Immunity and Forensics
+       4.2.1 Principles and techniques of culturing microorganisms
+       4.2.2 Methods of measuring microbial growth
+       4.2.3 Bacterial growth curve phases
+       4.2.4 CORE PRACTICAL 13: Investigate microbial growth rate
+       4.2.5 Structure of bacteria and viruses
+       4.2.6 Infection mechanisms of Mycobacterium tuberculosis and HIV
+       4.2.7 Major routes of pathogen entry and body barriers
+       4.2.8 Non-specific immune responses
+       4.2.9 Roles of antigens and antibodies in immune response
+       4.2.10 Roles of B cells and T cells in immune response
+       4.2.11 Development of immunity
+       4.2.12 Evolutionary race between pathogens and hosts
+       4.2.13 Bacteriostatic and bactericidal antibiotics
+       4.2.14 CORE PRACTICAL 14: Investigate the effect of antibiotics on bacteria
+       4.2.15 Hospital-acquired infections and infection control
+       4.2.16 Role of microorganisms in decomposition and carbon recycling
+       4.2.17 Polymerase chain reaction (PCR) and DNA amplification
+       4.2.18 Gel electrophoresis and DNA fragment separation
+       4.2.19 DNA profiling for identification and genetic relationships
+       4.2.20 Determining time of death through forensic methods
+
+5. Unit 5: Respiration, Internal Environment, Coordination and Gene Technology
+   5.1 Respiration, Muscles and the Internal Environment
+       5.1.1 Aerobic respiration and energy release
+       5.1.2 Roles of glycolysis in respiration
+       5.1.3 Link reaction and Krebs cycle in glucose oxidation
+       5.1.4 ATP synthesis by oxidative phosphorylation
+       5.1.5 Fate of lactate after anaerobic respiration
+       5.1.6 Respiratory quotient (RQ)
+       5.1.7 CORE PRACTICAL 15: Investigate respiration in yeast
+       5.1.8 CORE PRACTICAL 16: Use a respirometer to determine respiration rate
+       5.1.9 Interaction of muscles, tendons, skeleton, and ligaments
+       5.1.10 Structure of mammalian skeletal muscle fibres
+       5.1.11 Sliding filament theory of muscle contraction
+       5.1.12 Myogenic nature of cardiac muscle and heartbeat coordination
+       5.1.13 Calculation of cardiac output
+       5.1.14 Role of adrenaline in the fight or flight response
+       5.1.15 CORE PRACTICAL 17: Investigate effects of exercise on respiratory parameters
+       5.1.16 Negative and positive feedback control
+       5.1.17 Homeostasis and thermoregulation
+       5.1.18 Structure of the mammalian kidney
+       5.1.19 Urea production and removal by ultrafiltration
+       5.1.20 Solute reabsorption in the proximal tubule and loop of Henle
+       5.1.21 Role of ADH in plasma concentration and blood volume control
+       5.1.22 Gene regulation by DNA transcription factors
+
+   5.2 Coordination, Response and Gene Technology
+       5.2.1 Structure and function of sensory, relay, and motor neurones
+       5.2.2 Nervous system response to stimuli
+       5.2.3 Structure and function of a spinal reflex arc
+       5.2.4 Nerve impulse conduction along an axon
+       5.2.5 Role of myelination in saltatory conduction
+       5.2.6 Structure and function of synapses
+       5.2.7 Effects of drugs on nerve impulse transmission
+       5.2.8 Detection of stimuli by the nervous system
+       5.2.9 Concept of habituation
+       5.2.10 Structure and function of the mammalian nervous system
+       5.2.11 Plant responses through phytochrome, auxin, and gibberellins
+       5.2.12 CORE PRACTICAL 18: Investigate amylase production in germinating grains
+       5.2.13 Coordination through nervous and hormonal control
+       5.2.14 Structure and function of the human brain
+       5.2.15 Use of imaging techniques in brain investigation
+       5.2.16 Imbalances in brain chemicals and health
+       5.2.17 Production of drugs using genetically modified organisms
+       5.2.18 Production and insertion of recombinant DNA
+       5.2.19 Use of microarrays to identify active genes
+       5.2.20 Concept of bioinformatics
+       5.2.21 Risks and benefits of genetically modified organisms
+
+6. Unit 6: Practical Skills in Biology II
+   6.1 Development of experimental skills and techniques
+   6.2 Assessment of knowledge and understanding of experimental procedures
+   6.3 Planning and evaluating investigations
+   6.4 Implementation and measurements in experiments
+   6.5 Analysis of experimental data

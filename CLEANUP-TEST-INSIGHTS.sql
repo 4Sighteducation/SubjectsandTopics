@@ -33,3 +33,10 @@ FROM examiner_report_insights
 UNION ALL
 SELECT 'Question bank', COUNT(*)
 FROM question_bank;
+
+
+
+
+
+
+

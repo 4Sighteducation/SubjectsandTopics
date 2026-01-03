@@ -1,0 +1,274 @@
+Topic P5: Waves in matter
+P5.1 Wave behaviour
+Summary Common misconceptions
+Waves are means of transferring energy and the two main types of wave are Although they will often have heard of the terms ultrasound and sonar, learners
+introduced in this section: mechanical and electromagnetic. This section find it challenging to explain how images and traces are formed and to apply
+considers both what these types of waves are and how they are used. The their understanding to calculations. Learners often misinterpret distance and
+main terms used to describe waves are defined and exemplified in this topic. displacement–time graphical presentations of waves.
+Underlying knowledge and understanding Tiering
+Learners should have prior knowledge of transverse and longitudinal waves Statements shown in bold type will only be tested in the Higher Tier papers.
+through sound and light. Learners should be aware of how waves behave and All other statements will be assessed in both Foundation and Higher Tier papers.
+how the speed of a wave may change as it passes through different media.
+They may already have knowledge of how sound is heard and the hearing
+ranges of different species.
+Reference Mathematical learning outcomes Mathematical skills
+PM5.1i recall and apply: wave speed (m/s) = frequency (Hz) × wavelength (m) M1a, M1b, M1c, M2a, M3a,
+M3b, M3c, M3d
+42
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P5.1a describe wave motion in terms of amplitude, WS1.1b, Observing sound waves on an
+wavelength, frequency and period WS1.3b, oscilloscope.
+WS1.3e
+P5.1b define wavelength and frequency
+P5.1c describe and apply the relationship between M1a, M1b, WS1.1b, Investigation of reflection in a
+wavelength, frequency and wave velocity M1c, M2a, WS1.3a, ripple tank (PAG P4)
+M3a, M3b, WS1.3b,
+M3c, M3d WS1.3c,
+WS1.3d,
+WS1.3e,
+WS1.3g,
+WS1.3h,
+WS1.3d,
+WS2a, WS2b
+P5.1d apply formulae relating velocity, frequency and M1c, M3c
+wavelength
+P5.1e describe differences between transverse and direction of travel and direction M5b WS1.1b, Use of a slinky to model waves.
+longitudinal waves of vibration WS1.3e
+P5.1f þ show how changes, in velocity, frequency and M1c, M3c
+wavelength, in transmission of sound waves
+from one medium to another, are inter-related
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+43
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P5.1g þ describe the effects of reflection, transmission, and examples such as ultrasound WS1.2a, Refraction of light through a
+absorption of waves at material interface and sonar WS1.2b, glass block. (PAG P8)
+WS1.2c,
+Investigation of reflection with a
+WS1.2e,
+plane mirror. (PAG P8)
+WS1.3a,
+WS1.3e, Demonstration of refraction of
+WS1.3f, white light through a prism.
+WS1.3h,
+WS2a, WS2b,
+WS2c
+P5.1h þ describe, with examples, processes which convert knowledge of a simple WS1.1b, Use of a signal generator and
+wave disturbances between sound waves and structure of the parts of the WS1.1f, loudspeaker.
+vibrations in solids ear is expected WS1.3b,
+Demonstration of sound waves
+WS1.3e
+using a Rubens’ tube or an
+oscilloscope.
+P5.1i þ explain why such processes only work over a why hearing (audition)
+limited frequency range, and the relevance of this changes due to ageing
+to human hearing
+P5.1j describe how ripples on water surfaces are used to WS1.1b, Investigation of refraction in a
+model transverse waves whilst sound waves in air WS1.3a, ripple tank. (PAG P8)
+are longitudinal waves, and how the speed of each WS1.3b,
+may be measured WS1.3c,
+WS1.3d,
+WS1.3e,
+WS1.3g,
+WS1.3h,
+WS1.3d,
+WS2a, WS2b
+P5.1k describe evidence for the cases of ripples on water
+surfaces and for sound waves in air that it is the
+wave that travels and not the water or the air
+44
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+P5.2 The electromagnetic spectrum
+Summary Common misconceptions
+Having looked at mechanical waves, waves in the electromagnetic spectrum are Learners can have misconceptions such as gamma rays, X-rays, ultraviolet light,
+now considered. This section includes the application of electromagnetic waves visible light, infrared light, microwaves and radio waves being independent
+with a specific focus on the behaviour of light. Alongside this, it explores the entities and not being able to view it as a spectrum. They struggle to link the
+application of other types of electromagnetic radiation for use in medical imaging. features that waves have in common, alongside the differences and how these
+relate to their different properties.
+Underlying knowledge and understanding
+Learners may be familiar with uses of some types of radiation but an Tiering
+understanding of all parts of the electromagnetic spectrum is not expected Statements shown in bold type will only be tested in the Higher Tier papers.
+and should be taught as new content. All other statements will be assessed in both Foundation and Higher Tier papers.
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P5.2a recall that electromagnetic waves are transverse
+and are transmitted through space where all have
+the same velocity
+P5.2b explain that electromagnetic waves transfer examples from a range of
+energy from source to absorber electromagnetic waves
+P5.2c apply the relationships between frequency and M1a, WS1.1b, Investigation of electromagnetic
+wavelength across the electromagnetic spectrum M1c, WS1.3b, waves on chocolate or processed
+M3c WS1.3e cheese in a microwave to
+measure wavelength. (PAG P4)
+P5.2d describe the main groupings of the radio, microwave, infrared, WS1.1c, Research and design a poster to
+electromagnetic spectrum and that these visible (red to violet), ultraviolet, WS1.1d, show the properties, uses and
+groupings range from long to short wavelengths X-rays and gamma rays WS1.1e, dangers of the different
+and from low to high frequencies WS1.1f, electromagnetic wave groups.
+WS1.1h,
+WS1.1i
+P5.2e describe that our eyes can only detect a limited
+range of the electromagnetic spectrum
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+45
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P5.2f recall that light is an electromagnetic wave
+P5.2g give examples of some practical uses of WS1.1b, Demonstration of how
+electromagnetic waves in the radio, microwave, WS1.1d, microwaves can be used to
+infrared, visible, ultraviolet, X-ray and gamma ray WS1.1e, light a bulb in a beaker of water
+regions WS1.1f, and of how this shows that
+WS1.1h, microwaves heat water in foods.
+WS1.1i,
+Use a microwave emitter and
+WS1.3e,
+absorber to demonstrate
+WS1.3f
+behaviour of waves. (PAG P8)
+Use of a phone camera to look
+at the infrared emitter on a
+remote control. (PAG P8)
+P5.2h describe how ultraviolet waves, X-rays and gamma WS1.1a, Show images of X-rays to
+rays can have hazardous effects, notably on WS1.1c, discuss how the images are
+human bodily tissues WS1.1d, formed; their advantages and
+WS1.1e, disadvantages.
+WS1.1f,
+Investigation of the balance of
+WS1.1h,
+risks for staff and patients during
+WS1.1i
+radiotherapy.
+P5.2i þ explain, in qualitative terms, how the differences the use of infrared, X-rays,
+in velocity, absorption and reflection between gamma rays and ultrasound as
+different types of waves in solids and liquids can an alternative in medical
+be used both for detection and for exploration of imaging
+structures which are hidden from direct
+observation, notably in our bodies
+P5.2j recall that radio waves can be produced by, or
+can themselves induce, oscillations in electrical
+circuits
+46
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+P5.3 Wave interactions
+Summary Common misconceptions
+Having studied the electromagnetic spectrum learners now go on to look at the A common misconception is that when light passes through a coloured filter, the
+interactions of waves with materials, this will include absorption, refraction and filter will add colour to the light. In addition, learners are often confused about
+reflection. Learners will also be expected to draw ray diagrams to illustrate the which colours are primary colours.
+refraction of rays through lenses.
+Tiering
+Underlying knowledge and understanding Statements shown in bold type will only be tested in the Higher Tier papers.
+Learners will already be familiar with the properties and behaviour of light. They All other statements will be assessed in both Foundation and Higher Tier papers.
+are expected to have an understanding of behaviour such as reflection, refraction,
+absorption and scattering. Learners should know that colours are produced by
+light at different frequencies.
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P5.3a recall that different substances
+may absorb, transmit, refract, or
+reflect electromagnetic waves in
+ways that vary with wavelength
+P5.3b explain how some effects are
+related to differences in the
+velocity of electromagnetic waves
+in different substances
+P5.3c þ use ray diagrams to illustrate how the behaviour of convex and M5a, M5b WS1.1b, Use of concave and convex lenses to
+reflection, refraction and the concave lenses determine how WS1.2c, investigate how they alter the path of
+similarities and differences they may be used, for example, to WS1.3a, light in different ways. (PAG P4)
+between convex and concave correct vision WS1.3e,
+Investigation using convex lenses to see
+lenses (qualitative only) WS2a, WS2b,
+how the image of a light bulb varies
+WS2c
+with the distance of the bulb from the
+lens. (PAG P4)
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+47
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P5.3d þ construct two-dimensional ray M5a, M5b
+diagra

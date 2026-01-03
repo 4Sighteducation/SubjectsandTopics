@@ -1,0 +1,30 @@
+1 Economics (J205)
+1.1 Component 01: Introduction to Economics
+1.1.1 Introduction to Economics
+1.1.1.1 Main economic groups and factors of production
+1.1.1.2 The basic economic problem
+1.1.2 The role of markets and money
+1.1.2.1 The role of markets
+1.1.2.2 Demand
+1.1.2.3 Supply
+1.1.2.4 Price
+1.1.2.5 Competition
+1.1.2.6 Production
+1.1.2.7 The labour market
+1.1.2.8 The role of money and financial markets
+
+1.2 Component 02: National and International Economics
+1.2.1 Economic objectives and the role of government
+1.2.1.1 Economic growth
+1.2.1.2 Low unemployment
+1.2.1.3 Fair distribution of income
+1.2.1.4 Price stability
+1.2.1.5 Fiscal policy
+1.2.1.6 Monetary policy
+1.2.1.7 Supply side policies
+1.2.1.8 Limitations of markets
+1.2.2 International trade and the global economy
+1.2.2.1 Importance of international trade
+1.2.2.2 Balance of payments
+1.2.2.3 Exchange rates
+1.2.2.4 Globalisation

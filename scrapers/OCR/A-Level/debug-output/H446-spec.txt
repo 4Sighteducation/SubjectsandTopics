@@ -1,0 +1,1908 @@
+Qualification
+Accredited
+Oxford Cambridge and RSA
+A LEVEL
+Specification
+COMPUTER
+SCIENCE
+H446
+For first assessment in 2017
+H418
+For first assessment 2022
+Version 2.7 (March 2024) ocr.org.uk/alevelcomputerscience
+Disclaimer Specifications are updated over time. Whilst every effort is made to check all
+documents, there may be contradictions between published resources and the
+specification, therefore please use the information on the latest specification at
+all times. Where changes are made to specifications these will be indicated within
+the document, there will be a new version number indicated, and a summary
+of the changes. If you do notice a discrepancy between the specification and a
+resource please contact us at: resources.feedback@ocr.org.uk
+We will inform centres about changes to specifications. We will also publish
+changes on our website. The latest version of our specifications will always be
+those on our website (ocr.org.uk) and these may differ from printed versions.
+Registered office:
+The Triangle Building
+© 2024 OCR. All rights reserved.
+Shaftesbury Road
+Cambridge
+Copyright
+CB2 8EA
+OCR retains the copyright on all its publications, including the specifications.
+However, registered centres for OCR are permitted to copy material from this
+OCR is an exempt charity.
+specification booklet for their own internal use.
+Oxford Cambridge and RSA is a Company Limited by Guarantee. Registered in
+England. Registered company number 3484466.
+Contents
+Introducing… A Level Computer Science (from September 2015) ii
+Teaching and learning resources iii
+Professional development iv
+1 Why choose an OCR A Level in Computer Science? 1
+1a. Why choose an OCR qualification? 1
+1b. Why choose an OCR A Level in Computer Science? 2
+1c. What are the key features of this specification? 3
+1d. How do I find out more information? 3
+2 The specification overview 4
+2a. Overview of A Level in Computer Science (H446) 4
+2b. Content of A Level in Computer Science (H446) 5
+2c. Content of Computer systems (Component 01) 6
+2c. Content of Algorithms and programming (Component 02) 11
+2c. Content of non exam assessment Programming project (Component 03 or 04) 13
+2d. Prior learning and progression 15
+3 Assessment of OCR A Level in Computer Science 16
+3a. Forms of assessment 16
+3b. Assessment objectives (AO) 17
+3c. Total qualification time 17
+3d. Qualification availability outside of England 17
+3e. Language 18
+3f. Assessment availability 18
+3g. Retaking the qualification 18
+3h. Assessment of extended responses 18
+3i. Non exam assessment 19
+3j. Synoptic assessment 26
+3k. Calculating qualification results 26
+4 Admin: what you need to know 27
+4a. Pre-assessment 27
+4b. Accessibility and special consideration 28
+4c. External assessment arrangements 28
+4d. Non exam assessment 29
+4e. Results and certificates 30
+4f. Post-results services 31
+4g. Malpractice 31
+5 Appendices 32
+5a. Overlap with other qualifications 32
+5b. Avoidance of bias 32
+5c. Mathematical skills 32
+5d. Languages and Boolean logic guide for use in external assessments 32
+5e. Acceptable programming languages for the Programming project (03) 44
+5f. Entity relationship diagrams 45
+Summary of updates 46
+Version 2.7 © OCR 2024
+A Level in Computer Science i
+Introducing…
+A Level Computer Science (from September 2015)
+Computer Science is a practical subject where students Contact the team
+can apply the academic principles learned in the
+classroom to real-world systems. It’s an intensely We have a dedicated team of people working on our A
+creative subject that combines invention and Level Computer Science qualifications.
+excitement, and can look at the natural world through
+If you need specialist advice, guidance or support, get
+a digital prism.
+in touch as follows:
+The aims of this qualification are to enable learners to
+• 01223 553998
+develop:
+• computerscience@ocr.org.uk
+• An understanding and ability to apply the
+fundamental principles and concepts of • @OCR_ict
+computer science, including: abstraction,
+decomposition, logic, algorithms and data
+representation
+• The ability to analyse problems in
+computational terms through practical
+experience of solving such problems,
+including writing programs to do so
+• The capacity to think creatively,
+innovatively, analytically, logically and
+critically
+• The capacity to see relationships between
+different aspects of computer science
+• Mathematical skills.
+Version 2.7 © OCR 2024
+ii A Level in Computer Science
+Teaching and learning resources
+We recognise that the introduction of a new Plenty of useful resources
+specification can bring challenges for implementation
+and teaching. Our aim is to help you at every stage and You’ll have four main types of subject-specific teaching
+we’re working hard to provide a practical package of and learning resources at your fingertips:
+support in close consultation with teachers and other
+• Delivery Guides
+experts, so we can help you to make the change.
+• Transition Guides
+Designed to support progression for all
+• Topic Exploration Packs
+Our resources are designed to provide you with a
+range of teaching activities and suggestions so you can • Lesson Elements.
+select the best approach for your particular students.
+Along with subject-specific resources, you’ll also have
+You are the experts on how your students learn and
+access to a selection of generic resources that focus
+our aim is to support you in the best way we can.
+on skills development and professional guidance for
+teachers.
+We want to…
+Skills Guides – we’ve produced a set of Skills Guides
+• Support you with a body of knowledge
+that are not specific to Computer Science, but each
+that grows throughout the lifetime of the
+covers a topic that could be relevant to a range
+specification
+of qualifications – for example, communication,
+• Provide you with a range of suggestions so legislation and research. Download the guides at
+you can select the best activity, approach ocr.org.uk/skillsguides.
+or context for your particular students
+Active Results – a free online results analysis service
+• Make it easier for you to explore and to help you review the performance of individual
+interact with our resource materials, in students or your whole school. It provides access to
+particular to develop your own schemes detailed results data, enabling more comprehensive
+of work analysis of results in order to give you a more accurate
+measurement of the achievements of your centre and
+• Create an ongoing conversation so we can
+individual students. For more details refer to
+develop materials that work for you.
+ocr.org.uk/activeresults.
+Version 2.7 © OCR 2024
+A Level in Computer Science iii
+Professional development
+Take advantage of our improved Professional These events are designed to help prepare you for first
+Development Programme, designed with you in mind. teaching and to support your delivery at every stage.
+Whether you want to come to events, look at our new
+digital training or search for training materials, you can Watch out for details at cpdhub.ocr.org.uk.
+find what you’re looking for all in one place at the CPD
+To receive the latest information about the training
+Hub.
+we’ll be offering, please register for A Level email
+An introduction to the new specifications
+updates at ocr.org.uk/updates.
+We’ll be running events to help you get to grips with
+our A Level Computer Science qualification.
+Version 2.7 © OCR 2024
+iv A Level in Computer Science
+1 Why choose an OCR A Level in Computer
+Science?
+1a. Why choose an OCR qualification?
+Choose OCR and you’ve got the reassurance that We provide a range of support services designed to
+you’re working with one of the UK’s leading exam help you at every stage, from preparation through to
+board. Our new A Level in Computer Science course the delivery of our specifications. This includes: 1
+has been developed in consultation with teachers,
+employers and Higher Education to provide students A wide range of high-quality creative resources
+with a qualification that’s relevant to them and meets including:
+their needs.
+o Delivery Guides
+We’re part of the Cambridge Assessment Group, o Transition Guides
+Europe’s largest assessment agency and a department o Topic Exploration Packs
+of the University of Cambridge. Cambridge Assessment o Lesson Elements
+plays a leading role in developing and delivering o …and much more.
+assessments throughout the world, operating in over
+• Access to Subject Advisors to support you
+150 countries.
+through the transition and throughout the
+lifetimes of the specifications.
+We work with a range of education providers, including
+schools, colleges, workplaces and other institutions • CPD/Training for teachers to introduce the
+in both the public and private sectors. Over 13,000 qualifications and prepare you for first teaching.
+centres choose our A levels, GCSEs and vocational
+qualifications including Cambridge Nationals and • Active Results – our free results analysis service
+Cambridge Technicals. to help you review the performance of individual
+students or whole schools.
+Our Specifications
+• ExamBuilder – our new free online past papers
+We believe in developing specifications that help you service that enables you to build your own test
+bring the subject to life and inspire your students to papers from past OCR exam questions can be
+achieve more. found at http://www.ocr.org.uk/exambuilder.
+We’ve created teacher-friendly specifications based on All A level qualifications offered by OCR are accredited
+extensive research and engagement with the teaching by Ofqual, the Regulator for qualifications offered in
+community. They’re designed to be straightforward England. The accreditation number for OCR A Level in
+and accessible so that you can tailor the delivery of Computer Science is QN: 601/4911/5.
+the course to suit your needs. We aim to encourage
+learners to become responsible for their own learning,
+confident in discussing ideas, innovative and engaged.
+Version 2.7 © OCR 2024
+A Level in Computer Science 1
+1b. Why choose an OCR A Level in Computer Science?
+“At its heart lies the notion of computational thinking: Computer Science is a practical subject where learners
+a mode of thought that goes well beyond software and can apply the academic principles learned in the
+1 hardware, and that provides a framework within which classroom to real world systems.
+to reason about systems and problems.”
+(CAS-Computer Science a Curriculum for Schools). It is an intensely creative subject that combines
+invention and excitement, and can look at the
+This specification has been developed by the team natural world through a digital prism. OCR’s A Level
+that created the first GCSE Computing qualification in Computer Science will value computational
+in the UK. The experience of the past three years of thinking, helping learners to develop the skills to solve
+assessment has clearly demonstrated that OCR has problems, design systems and understand the power
+the knowledge and skills to develop reliable and valid and limits of human and machine intelligence.
+qualifications in this area of study.
+Learners will develop an ability to analyse, critically
+OCR Computer Science will above all else be relevant evaluate and make decisions. The project approach is a
+to the modern and changing world of computing. It vital component of ‘post-school’ life and is of particular
+enables teachers to tailor the qualification to meet the relevance to Further Education, Higher Education
+needs of their learners in their centre and has an open and the workplace. Each learner is able to tailor
+source ethos allowing any programming language that their project to fit their individual needs, choices and
+meets the needs of the course to be used. aspirations. OCR offers a rigorous assessment structure
+that ensures the integrity of the project.
+Aims and learning outcomes
+The aims of this qualification are to enable learners to • the capacity for thinking creatively, innovatively,
+develop: analytically, logically and critically
+• an understanding of and ability to apply • the capacity to see relationships between
+the fundamental principles and concepts different aspects of computer science
+of computer science including; abstraction,
+• mathematical skills
+decomposition, logic, algorithms and data
+representation • the ability to articulate the individual (moral),
+social (ethical), legal and cultural opportunities
+• the ability to analyse problems in computational
+and risks of digital technology.
+terms through practical experience of solving
+such problems including writing programs to do
+so
+Version 2.7 © OCR 2024
+2 A Level in Computer Science
+1c. What are the key features of this specification?
+The OCR A Level in Computer Science will encourage Centres and learners have the opportunity to:
+learners to be inspired, motivated and challenged by
+following a broad, coherent, practical, satisfying and • produce a slimmed down programming project 1
+worthwhile course of study. It will provide insight which is more refined and more focussed on
+into, and experience of how computer science works, coding
+stimulating learners’ curiosity and encouraging them to
+• choose the project title and problem to be
+engage with computer science in their everyday lives
+solved
+and to make informed choices about further study or
+career choices. • choose any suitable programming language
+The key features of this specification encourage: • include agile methods.
+• emphasis on problem solving using computers
+• emphasis on computer programming and
+algorithms
+• emphasis on the mathematical skills used to
+express computational laws and processes,
+e.g. Boolean algebra/logic and comparison of
+the complexity of algorithms
+• less emphasis on ICT.
+1d. How do I find out more information?
+If you are already using OCR specifications you can Find out more?
+contact us at: www.ocr.org.uk
+Ask a Subject Advisor:
+If you are not already a registered OCR centre then
+you can find out more information on the benefits of Email: computerscience@ocr.org.uk
+becoming one at: www.ocr.org.uk
+Customer Contact Centre: 01223 553998
+If you are not yet an approved centre and would like to
+Teacher support: www.ocr.org.uk
+become one go to: www.ocr.org.uk
+News: www.ocr.org.uk
+Version 2.7 © OCR 2024
+A Level in Computer Science 3
+2 The specification overview
+2a. Overview of A Level in Computer Science (H446)
+Learners must take three components (01, 02 and 03 or 01, 02 and 04) to be awarded the OCR A Level in
+Computer Science.
+Content Overview Assessment Overview
+2
+• The characteristics of Computer
+contemporary processors, systems
+input, output and storage (01) 40%
+devices
+140 marks
+of total
+• Software and software
+2 hours and
+development
+30 minutes
+A level
+• Exchanging data
+written paper
+• Data types, data structures and
+(no calculators allowed)
+algorithms
+• Legal, moral, cultural and
+Algorithms and
+ethical issues
+programming
+(02*)
+40%
+• Elements of computational
+140 marks
+thinking
+of total
+2 hours and
+• Problem solving and
+30 minutes
+A level
+programming
+written paper
+• Algorithms to solve problems
+and standard algorithms (no calculators allowed)
+The learner will choose a computing Programming project
+problem to work through according 03* – Moderated upload
+to the guidance in the specification. or
+20%
+04* – Moderated postal
+• Analysis of the problem
+or
+of total
+• Design of the solution
+80 – Carry forward
+• Developing the solution (2018 onwards)* A level
+• Evaluation
+70 marks
+Non-exam assessment
+* Indicates synoptic assessment
+Version 2.7 © OCR 2024
+4 A Level in Computer Science
+2b. Content of A Level in Computer Science (H446)
+The content of this A Level in Computer Science is This specification has been designed to be
+divided into three components: co-teachable with the stand alone AS Level in
+Computer Science.
+• Computer systems component (01) contains
+the majority of the content of the specification Mathematical skills are embedded throughout
+and is assessed in a written paper recalling the content of the three components. They will be
+knowledge and understanding. assessed in the written papers and through the non
+2
+examined assessment where appropriate. The quality
+• Algorithms and programming component (02)
+of extended responses are assessed in the written
+relates principally to problem solving skills
+papers where indicated by an asterisk. It is marked
+needed by learners to apply the knowledge and
+using levels of response style mark schemes and in
+understanding encountered in Component 01.
+the Evaluation section of the Programming project
+• Programming project component (03 or 04) is component.
+a practical portfolio based assessment with a
+task that is chosen by the teacher or learner
+and is produced in an appropriate programming
+language of the learner’s or teacher’s choice.
+Appendix 5d of this specification gives a list of
+programming languages which OCR will accept.
+If the task demands another choice of language
+that does not appear in the list, the task outline,
+the details of the programming language and the
+reasons for the choice of this language should
+be submitted to OCR for consideration. Please
+contact computerscience@ocr.org.uk for further
+advice and guidance.
+Version 2.7 © OCR 2024
+A Level in Computer Science 5
+2c. Content of Computer systems (Component 01)
+This component will introduce learners to the internal devising their own programming approach in the
+workings of the Central Processing Unit (CPU), the Programming project component (03 or 04).
+exchange of data and will also look at software
+development, data types and legal and ethical Learners will be expected to apply the criteria below in
+issues. It is expected that learners will draw on this different contexts including current and future uses of
+underpinning content when studying computational the technologies.
+2 thinking, developing programming techniques and
+1.1 The characteristics of contemporary processors, input, output and storage devices
+Components of a computer and their uses
+1.1.1 Structure and function of the processor (a) The Arithmetic and Logic Unit; ALU, Control Unit
+and Registers (Program Counter; PC, Accumulator;
+ACC, Memory Address Register; MAR, Memory Data
+Register; MDR, Current Instruction Register; CIR).
+Buses: data, address and control: how this relates to
+assembly language programs.
+(b) The Fetch-Decode-Execute Cycle; including its
+effects on registers.
+(c) The factors affecting the performance of the CPU:
+clock speed, number of cores, cache.
+(d) The use of pipelining in a processor to improve
+efficiency.
+(e) Von Neumann, Harvard and contemporary
+processor architecture.
+1.1.2 Types of processor (a) The differences between and uses of CISC and RISC
+processors.
+(b) GPUs and their uses (including those not related to
+graphics).
+(c) Multicore and Parallel systems.
+1.1.3 Input, output and storage (a) How different input, output and storage devices can
+be applied to the solution of different problems.
+(b) The uses of magnetic, flash and optical storage
+devices.
+(c) RAM and ROM.
+(d) Virtual storage.
+Version 2.7 © OCR 2024
+6 A Level in Computer Science
+1.2 Software and software development
+Types of software and the different methodologies used to develop software
+1.2.1 Systems Software (a) The need for, function and purpose of operating
+systems.
+(b) Memory Management (paging, segmentation and
+virtual memory).
+(c) Interrupts, the role of interrupts and Interrupt
+Service Routines (ISR), role within the 2
+Fetch-Decode-Execute Cycle.
+(d) Scheduling: round robin, first come first served,
+multi-level feedback queues, shortest job first and
+shortest remaining time.
+(e) Distributed, embedded, multi-tasking, multi-user
+and Real Time operating systems.
+(f) BIOS.
+(g) Device drivers.
+(h) Virtual machines, any instance where software
+is used to take on the function of a machine,
+including executing intermediate code or running
+an operating system within another.
+1.2.2 Applications Generation (a) The nature of applications, justifying suitable
+applications for a specific purpose.
+(b) Utilities.
+(c) Open source vs closed source.
+(d) Translators:Interpreters, compilers and assemblers.
+(e) Stages of compilation (lexical analysis, syntax
+analysis, code generation and optimisation).
+(f) Linkers and loaders and use of libraries.
+1.2.3 Software Development (a) Understand the waterfall lifecycle, agile
+methodologies, extreme programming, the spiral
+model and rapid application development.
+(b) The relative merits and drawbacks of different
+methodologies and when they might be used.
+(c) Writing and following algorithms.
+1.2.4 Types of Programming Language (a) Need for and characteristics of a variety of
+programming paradigms.
+(b) Procedural languages.
+(c) Assembly language (including following and writing
+simple programs with the Little Man Computer
+instruction set). See appendix 5d.
+(d) Modes of addressing memory (immediate, direct,
+indirect and indexed).
+(e) Object-oriented languages (see appendix 5d
+for pseudocode style) with an understanding of
+classes, objects, methods, attributes, inheritance,
+encapsulation and polymorphism.
+Version 2.7 © OCR 2024
+A Level in Computer Science 7
+1.3 Exchanging data
+How data is exchanged between different systems
+1.3.1 Compression, Encryption and Hashing (a) Lossy vs Lossless compression.
+(b) Run length encoding and dictionary coding for
+lossless compression.
+(c) Symmetric and asymmetric encryption.
+(d) Different uses of hashing.
+2
+1.3.2 Databases (a) Relational database, flat file, primary key, foreign
+key, secondary key, entity relationship modelling,
+normalisation and indexing. See appendix 5f.
+(b) Methods of capturing, selecting, managing and
+exchanging data.
+(c) Normalisation to 3NF.
+(d) SQL – Interpret and modify. See appendix 5d.
+(e) Referential integrity.
+(f) Transaction processing, ACID (Atomicity,
+Consistency, Isolation, Durability), record locking
+and redundancy.
+1.3.3 Networks (a) Characteristics of networks and the importance of
+protocols and standards.
+(b) The internet structure:
+• The TCP/IP Stack.
+• DNS
+• Protocol layering.
+• LANs and WANs.
+• Packet and circuit switching.
+(c) Network security and threats, use of firewalls,
+proxies and encryption.
+(d) Network hardware.
+(e) Client-server and peer to peer.
+1.3.4 Web Technologies (a) HTML, CSS and JavaScript. See appendix 5d.
+(b) Search engine indexing.
+(c) PageRank algorithm.
+(d) Server and client side processing.
+Version 2.7 © OCR 2024
+8 A Level in Computer Science
+1.4 Data types, data structures and algorithms
+How data is represented and stored within different structures. Different algorithms that can be applied to
+these structures
+1.4.1 Data Types (a) Primitive data types, integer, real/floating point,
+character, string and Boolean.
+(b) Represent positive integers in binary.
+(c) Use of sign and magnitude and two’s complement
+to represent negative numbers in binary. 2
+(d) Addition and subtraction of binary integers.
+(e) Represent positive integers in hexadecimal.
+(f) Convert positive integers between binary
+hexadecimal and denary.
+(g) Representation and normalisation of floating point
+numbers in binary.
+(h) Floating point arithmetic, positive and negative
+numbers, addition and subtraction.
+(i) Bitwise manipulation and masks: shifts, combining
+with AND, OR, and XOR.
+(j) How character sets (ASCII and UNICODE) are used
+to represent text.
+1.4.2 Data Structures (a) Arrays (of up to 3 dimensions), records, lists, tuples.
+(b) The following structures to store data: linked-list,
+graph (directed and undirected), stack, queue, tree,
+binary search tree, hash table.
+(c) How to create, traverse, add data to and remove
+data from the data structures mentioned above.
+(NB this can be either using arrays and procedural
+programming or an object-oriented approach).
+1.4.3 Boolean Algebra (a) Define problems using Boolean logic. See
+appendix 5d.
+(b) Manipulate Boolean expressions, including the use
+of Karnaugh maps to simplify Boolean expressions.
+(c) Use the following rules to derive or simplify
+statements in Boolean algebra: De Morgan’s Laws,
+distribution, association, commutation, double
+negation.
+(d) Using logic gate diagrams and truth tables. See
+appendix 5d.
+(e) The logic associated with D type flip flops, half and
+full adders.
+Version 2.7 © OCR 2024
+A Level in Computer Science 9
+1.5 Legal, moral, cultural and ethical issues
+The individual moral, social, ethical and cultural opportunities and risks of digital technology. Legislation
+surrounding the use of computers and ethical issues that can or may in the future arise from the use of
+computers
+1.5.1 Computing related legislation (a) The Data Protection Act 1998.
+(b) The Computer Misuse Act 1990.
+(c) The Copyright Design and Patents Act 1988.
+2 (d) The Regulation of Investigatory Powers Act 2000.
+1.5.2 Moral and ethical Issues The individual moral, social, ethical and cultural
+opportunities and risks of digital technology:
+• Computers in the workforce.
+• Automated decision making.
+• Artificial intelligence.
+• Environmental effects.
+• Censorship and the Internet.
+• Monitor behaviour.
+• Analyse personal information.
+• Piracy and offensive communications.
+• Layout, colour paradigms and character sets.
+Version 2.7 © OCR 2024
+10 A Level in Computer Science
+2c. Content of Algorithms and programming (Component 02)
+This component will incorporate and build on the • understand the principles of solving problems by
+knowledge and understanding gained in the Computer computational methods
+systems component (01).
+• be able to use algorithms to describe problems
+In addition, learners should:
+• be able to analyse a problem by identifying its
+component parts.
+• understand what is meant by computational
+2
+thinking
+• understand the benefits of applying
+computational thinking to solving a wide variety
+of problems
+2.1 Elements of computational thinking
+Understand what is meant by computational thinking
+2.1.1 Thinking abstractly (a) The nature of abstraction.
+(b) The need for abstraction.
+(c) The differences between an abstraction and reality.
+(d) Devise an abstract model for a variety of situations.
+2.1.2 Thinking ahead (a) Identify the inputs and outputs for a given situation.
+(b) Determine the preconditions for devising a solution
+to a problem.
+(c) The nature, benefits and drawbacks of caching.
+(d) The need for reusable program components.
+2.1.3 Thinking procedurally (a) Identify the components of a problem.
+(b) Identify the components of a solution to a problem.
+(c) Determine the order of the steps needed to solve a
+problem.
+(d) Identify sub-procedures necessary to solve a
+problem.
+2.1.4 Thinking logically (a) Identify the points in a solution where a decision
+has to be taken.
+(b) Determine the logical conditions that affect the
+outcome of a decision.
+(c) Determine how decisions affect flow through a
+program.
+2.1.5 Thinking concurrently (a) Determine the parts of a problem that can be
+tackled at the same time.
+(b) Outline the benefits and trade offs that might result
+from concurrent processing in a particular situation.
+Version 2.7 © OCR 2024
+A Level in Computer Science 11
+2.2 Problem solving and programming
+How computers can be used to solve problems and programs can be written to solve them
+(Learners will benefit from being able to program in a procedure/imperative language and object oriented
+language.)
+2.2.1 Programming techniques (a) Programming constructs: sequence, iteration,
+branching.
+(b) Recursion, how it can be used and compares to an
+2 iterative approach.
+(c) Global and local variables.
+(d) Modularity, functions and procedures, parameter
+passing by value and by reference.
+(e) Use of an IDE to develop/debug a program.
+(f) Use of object oriented techniques.
+2.2.2 Computational methods (a) Features that make a problem solvable by
+computational methods.
+(b) Problem recognition.
+(c) Problem decomposition.
+(d) Use of divide and conquer.
+(e) Use of abstraction.
+(f) Learners should apply their knowledge of:
+• backtracking
+• data mining
+• heuristics
+• performance modelling
+• pipelining
+• visualisation to solve problems.
+2.3 Algorithms
+The use of algorithms to describe problems and standard algorithms
+2.3.1 Algorithms (a) Analysis and design of algorithms for a given
+situation.
+(b) The suitability of different algorithms for a given
+task and data set, in terms of execution time and
+space.
+(c) Measures and methods to determine the efficiency
+of different algorithms, Big O notation (constant,
+linear, polynomial, exponential and logarithmic
+complexity).
+(d) Comparison of the complexity of algorithms.
+(e) Algorithms for the main data structures, (stacks,
+queues, trees, linked lists, depth-first (post-order)
+and breadth-first traversal of trees).
+(f) Standard algorithms (bubble sort, insertion sort,
+merge sort, quick sort, Dijkstra’s shortest path
+algorithm, A* algorithm, binary search and linear
+search).
+Version 2.7 © OCR 2024
+12 A Level in Computer Science
+2c. Content of non exam assessment Programming project (Component 03
+or 04)
+Learners will be expected to analyse, design, develop, While the project assessment criteria are organised
+test, evaluate and document a program written in into specific categories, it is anticipated the final report
+a suitable programming language. The underlying will document the agile development process and
+approach to the project is to apply the principles of elements for each of the assessment categories will
+computational thinking to a practical coding problem. appear throughout the report.
+Learners are expected to apply appropriate principles 2
+from an agile development approach to the project
+development.
+3.1. Analysis of the problem (10 marks)
+3.1.1 Problem identification (a) Describe and justify the features that make the
+problem solvable by computational methods.
+(b) Explain why the problem is amenable to a
+computational approach.
+3.1.2 Stakeholders (a) Identify and describe those who will have an
+interest in the solution explaining how the solution
+is appropriate to their needs (this may be named
+individuals, groups or persona that describes the
+target end user).
+3.1.3 Research the problem (a) Research the problem and solutions to similar
+problems to identify and justify suitable approaches
+to a solution.
+(b) Describe the essential features of a computational
+solution explaining these choices.
+(c) Explain the limitations of the proposed solution.
+3.1.4 Specify the proposed solution (a) Specify and justify the solution requirements
+including hardware and software configuration (if
+appropriate).
+(b) Identify and justify measurable success criteria for
+the proposed solution.
+Version 2.7 © OCR 2024
+A Level in Computer Science 13
+3.2 Design of the solution (15 marks)
+3.2.1 Decompose the problem (a) Break down the problem into smaller parts suitable
+for computational solutions justifying any decisions
+made.
+3.2.2 Describe the solution (a) Explain and justify the structure of the solution.
+(b) Describe the parts of the solution using algorithms
+justifying how these algorithms form a complete
+2 solution to the problem.
+(c) Describe usability features to be included in the
+solution.
+(d) Identify key variables / data structures / classes
+justifying choices and any necessary validation.
+3.2.3 Describe the approach to testing (a) Identify the test data to be used during the iterative
+development and post development phases and
+justify the choice of this test data.
+3.3 Developing the solution (25 marks)
+3.3.1 Iterative development process (a) Provide annotated evidence of each stage of
+the iterative development process justifying any
+decision made.
+(b) Provide annotated evidence of prototype solutions
+justifying any decision made.
+3.3.2 Testing to inform development (a) Provide annotated evidence for testing at each
+stage justifying the reason for the test.
+(b) Provide annotated evidence of any remedial actions
+taken justifying the decision made.
+3.4 Evaluation (20 marks)
+3.4.1 Testing to inform evaluation (a) Provide annotated evidence of testing the solution
+of robustness at the end of the development
+process.
+(b) Provide annotated evidence of usability testing
+(user feedback).
+3.4.2 Success of the solution (a) Use the test evidence from the development and
+post development process to evaluate the solution
+against the success criteria from the analysis.
+3.4.3 Describe the final product (a) Provide annotated evidence of the usability
+features from the design, commenting on their
+effectiveness.
+3.4.4 Maintenance and development (a) Discuss the maintainability of the solution.
+(b) Discuss potential further development of the
+solution.
+Version 2.7 © OCR 2024
+14 A Level in Computer Science
+2d. Prior learning and progression
+There are no prior qualification requirements for this It will provide learners with a range of transferable
+specification. skills which will facilitate personal growth and foster
+cross curriculum links in areas such as maths, science
+Learners in England who are beginning an A level and design and technology. Computer Science is a very
+course are likely to have followed a Key Stage 4 creative subject and skills such as problem solving and
+programme of study. This course will enable learners analytical thinking will all be refined and explored as
+to progress to higher study or to progress directly to learners progress through the learning and assessment 2
+employment. programme.
+This qualification is suitable for learners intending There are a number of Computer Science specifications
+to pursue any career in which an understanding of at OCR. Find out more at www.ocr.org.uk
+technology is needed. The qualification is also suitable
+for any further study as part of a course of general
+education.
+Version 2.7 © OCR 2024
+A Level in Computer Science 15
+3 Assessment of OCR A Level in Computer
+Science
+3a. Forms of assessment
+The A Level in Computer Science is a linear programming and programming techniques and
+qualification with 100% terminal external assessment. problem solving. These questions may contain some
+shorter answer questions.
+This qualification consists of two examined
+components (01 and 02), externally assessed by OCR Section B will have a scenario set at the start of the
+and one internally assessed and moderated non exam section; this will contain information that will be
+assessment component (03 or 04). used for the questions that follow. The questions
+will be largely of a higher tariff with problem solving
+Both examinations are of 2 hours and 30 minutes algorithms and programming again forming the basis.
+duration, each with a 40% weighting. The non-exam
+assessment component weighted at 20%. Programming project (Component 03 or 04)
+3
+Computer systems (Component 01) The programming project will be submitted in the form
+of a report that will contain the solution to a problem,
+Learners answer all the questions. There will be a mix selected by the learner or centre, written in a suitable
+of questions including short answer, longer answer and programming language. Appendix 5e reproduced in
+some higher tariff questions that will test the quality this document gives a list of programming languages
+of extended responses. Marks for these responses are which OCR will accept. If the task demands another
+integrated into the marking criteria. choice of language that does not appear in the list, the
+task outline, the details of the programming language
+The whole of the Computer systems content will be
+and the reasons for the choice of this language should
+covered over the life of the specification.
+be submitted to OCR for consideration. Please contact
+computerscience@ocr.org.uk for further advice
+Questions may contain, for example, following
+and guidance. Within the report the learner must
+and correcting algorithms and programs, software
+demonstrate their ability to analyse, design, develop,
+development and legal and moral issues.
+test and document using the principles learnt in
+Algorithms and programming (Component 02) computational thinking.
+Learners answer all the questions in Section A and all The report will be marked internally by the centre
+questions in Section B. There will be a mix of questions using the Programming project content in section 2c,
+including short answer, longer answer and some higher in conjunction with the marking criteria in section 3e
+tariff questions that will test the quality of written of this specification. It should then be sent to OCR for
+responses via a level of response mark scheme. moderation.
+The whole of the Algorithms and programming content Learners who are retaking the qualification may carry
+will be covered over the life of the specification. forward their mark for the non exam assessment
+component (see Section 4a for the relevant entry code
+Section A will contain questions which may cover (H446 C)).
+writing algorithms and computational methods,
+Version 2.7 © OCR 2024
+16 A Level in Computer Science
+3b. Assessment objectives (AO)
+There are three assessment objectives in OCR’s A Level Learners are expected to demonstrate their ability to:
+in Computer Science. These are detailed in the table
+below.
+Assessment Objectives
+AO1 Demonstrate knowledge and understanding of the principles and concepts of computer
+science, including abstraction, logic, algorithms and data representation
+AO2 Apply knowledge and understanding of the principles and concepts of computer science
+including to analyse problems in computational terms 3
+AO3 Design, program and evaluate computer systems that solve problems, making reasoned
+judgements about these and presenting conclusions
+AO weightings in A Level in Computer Science
+The relationship between the assessment objectives and the components is shown in the following table:
+% of A Level Computer Science (H446)
+Component
+AO1 AO2 AO3 Total
+Computer systems (H446/01) 21* 9* 10* 40
+Algorithms and programming (H446/02) 15* 18* 7* 40
+Programming project (H446/03 or H446/04) 0* 3* 17* 20
+Total 35* 30* 35* 100
+* values rounded to the nearest whole %
+3c. Total qualification time
+Total qualification time (TQT) is the total amount of and assessment. The total qualification time for A
+time, in hours, expected to be spent by a learner Level Computer Science is 360 hours. The total guided
+to achieve a qualification. It includes both guided learning time is 360 hours.
+learning hours and hours spent in preparation, study,
+3d. Qualification availability outside of England
+This qualification is available in England. For Wales Northern Ireland Entitlement Framework Qualifications
+and Northern Ireland please check the Qualifications Accreditation Number (NIEFQAN) list to see current
+in Wales Portal (QIW) or the Northern Ireland availability.
+Department of Education Performance Measures /
+Version 2.7 © OCR 2024
+A Level in Computer Science 17
+3e. Language
+This qualification is available in English only. All
+assessment materials are available in English only and
+all candidate work must be in English.
+3f. Assessment availability
+There will be one examination series available each This specification will be certificated from the June
+year in May/June to all learners. 2017 examination series onwards.
+3 3g. Retaking the qualification
+Learners can retake the qualification as many times non-exam assessment (NEA) or carry forward (re-use)
+as they wish. Learners must retake all examined their most recent result (see Section 4d).
+components but they can choose to either retake the
+3h. Assessment of extended responses
+The assessment materials for this qualification provide reasoning and marks for extended responses are
+learners with the opportunity to demonstrate their integrated into the marking criteria.
+ability to construct and develop a sustained line of
+Version 2.7 © OCR 2024
+18 A Level in Computer Science
+3i. Non exam assessment
+Programming project (Component 03 or 04) Guidance • involve all elements of the skills of analysis,
+design, development and evaluation.
+This qualification has one non exam assessment
+which takes the form of the Programming project Evidence Generation
+(Component 03 or 04).
+It is important that learners establish thorough and
+The project is a substantial piece of work which robust working practices at an early stage. The projects
+assesses a variety of different skills including the should contain as standard the following:
+development and demonstration of computational
+thought processes. The following guidance should be Title ✓
+considered before learners embark on this particular
+Contents list ✓ 3
+assessment.
+Description of investigation ✓
+Acceptable programming languages
+Justification of investigation ✓
+Appendix 5e in this specification gives a list of
+programming languages which OCR will accept. If the Analysis, design and methods used ✓
+task demands another choice of language that does
+Evaluation ✓
+not appear in the list, the task outline, the details of
+the programming language and the reasons for the Bibliography ✓
+choice of this language should be submitted to OCR for
+consideration. Please contact Pages numbered ✓
+computerscience@ocr.org.uk for further advice and
+guidance.
+Appropriate annotated evidence should be used to
+support the report – e.g. screen dumps or photographs
+Context Choice
+taken of screen layouts, for example. It is important
+that each learner generates their own individual,
+Learners will need to choose in liaison with their
+authentic evidence to show that they have met
+teacher a well defined user driven problem. Whilst
+key assessment criteria. Any evidence submitted to
+OCR will not be quality assuring the contexts chosen
+demonstrate the development of solution must be
+by learners the following criteria should be considered.
+able to be assessed without the use of any specific
+The choice of project must enable learners to:
+hardware or software.
+• meet all assessment requirements as contained
+Whilst there is no word count for this particular
+in the specification
+assessment learners need to focus on the command
+• use an appropriate programming language words used within the assessment criteria. These
+which is non-trivial and has a substantial coded command words indicate the depth of coverage that is
+element (see appendix 5e) required at each stage of the process and should drive
+the evidencing approach taken by learners.
+• solve a problem sensibly within the constraints
+of resources available
+• facilitate the successful completion of a whole
+task from its definition to its acceptance and
+evaluation by that user
+Version 2.7 © OCR 2024
+A Level in Computer Science 19
+The teacher has an important role in supporting When deciding the mark within a band, the following
+learners through the evidence generation process. criteria should be applied:
+Whilst it is not appropriate for teachers to over direct
+learners in their generation of evidence it is acceptable • the extent to which the statements within the
+for them to reinforce concepts and assist with the band have been achieved.
+development of knowledge and understanding at
+For example:
+various stages of the process. Acceptable forms of
+intervention include: • an answer that convincingly meets nearly all of
+the requirements of a band descriptor should be
+• offering learners advice about how best to
+placed at or near the top of that band. Where
+approach each of the tasks
+the learner’s work convincingly meets the
+• exercising continuous supervision of work statement, the highest mark should be awarded
+in order to monitor progress and to prevent
+3 • an answer that meets many of the requirements
+plagiarism
+of the band descriptor should be placed in the
+• ensuring work is completed in accordance middle of the band. Where the learner’s work
+with the specification requirements and can adequately meets the statement, the most
+be assessed in accordance with the specified appropriate mark in the middle range should be
+marking criteria and procedures. awarded
+• if an answer is on the border-line between two
+Assessing Evidence
+bands but it is decided that it fits better the
+It is important that centre staff responsible for marking descriptors for the lower of these two bands,
+learner projects are familiar with the principles of best then it should be placed near the top of that
+fit assessment to ensure that a consistent marking band. Where the learner’s work just meets the
+approach is taken. statement, the lowest mark should be awarded.
+For each of the marking criteria assessors select the Assessors should use the full range of marks available
+band descriptor provided in the marking grid that most to them and award full marks in any band of work that
+closely describes the quality of the work being marked. fully meets the descriptor. This is work that is ‘the best
+one could expect from learners working at that level’.
+Marking should be positive, rewarding achievement
+rather than penalising failure or omissions. Learners or centres must declare that the work is the
+learner’s own (see section 4d).
+The award of marks must be directly related to the
+marking criteria.
+• Each band descriptor covers all of the
+relevant criteria for a particular section of the
+specification content related to analysis, design,
+development and evaluation.
+• The descriptors for each section should be read
+and applied as a whole.
+• An answer does not have to meet all of the
+requirements of a band descriptor before
+being placed in that band. It will be placed in
+a particular band when it meets more of the
+requirements of that band than it meets the
+requirements of other bands.
+Version 2.7 © OCR 2024
+20 A Level in Computer Science
+Authentication Ongoing Support
+It is important that centres put in place the necessary OCR will support teachers in the teaching and learning
+measures to both guard against and detect malpractice of this component by providing an extensive range
+when it is has occurred. As well as the use of the of support material including sample assessment
+authentication process it is important that learners materials and schemes of work to provide exemplar
+take responsibility for ensuring the work they produce ideas. These resources will be available online to
+is their own, is appropriately referenced and is a true support the launch of the qualification www.ocr.org.uk
+reflection of their ability (see Section 4d).
+Assessment criteria
+Learners are expected to demonstrate their ability to problem and are expected to apply principles from 3
+analyse, design, develop, test, evaluate and document an agile development approach to the project
+a program written in a suitable programming language. development.
+The problem must be solvable effectively in the chosen
+language so it is important there is a good match The project should be assessed holistically and, while
+between the requirements of the problem and the the assessment criterion are organised into discrete
+language that is chosen. sections, it is unlikely evidence can be similarly
+organised in the learner’s work. Evidence to support
+The nature of the problem chosen is significant in that the assessment may be found throughout the project
+learners should be able to demonstrate, through their report and should be noted, by reference to page
+solutions, an appropriate range of skills identified by number, or otherwise, on the assessment grid. The
+the specification; trivial problems, no matter how assessment criterion are defined in mark bands and
+well they are executed will not be able to provide this teachers should use a best-fit approach, selecting the
+evidence. most appropriate description and quality of match to
+that description, in order to place the work at the right
+Learners are expected to apply the computational level in the right mark band.
+thinking approach identified in Algorithms and
+programming (Component 02) to a practical coding
+Version 2.7 © OCR 2024
+A Level in Computer Science 21
+22
+A
+Level
+in
+Computer
+Science
+Version
+2.6
+©
+OCR
+2023
+3
+Programming project (Component 03 or 04) marking criteria – 70 marks
+AO 2.2 Analysis (maximum 10 marks)
+1–2 marks 3–5 marks 6–8 marks 9–10 marks
+The candidate will have:
+• Identified some features • Described the features that • Described the features that make the • Described and justified the features that make
+that make the problem make the problem solvable by problem solvable by computational the problem solvable by computational methods,
+solvable by computational computational methods. methods and why it is amenable to a explaining why it is amenable to a computational
+methods. • Identified suitable computational approach. approach.
+• Identified suitable stakeholders for the project • Identified suitable stakeholders for the • Identified suitable stakeholders for the project
+stakeholders for the and described how they will project and described them and how and described them explaining how they will
+project and described make use of the proposed they will make use of the proposed make use of the proposed solution and why it is
+them and some of their solution. solution and why it is appropriate to appropriate to their needs.
+requirements. • Researched the problem their needs. • Researched the problem in depth looking at
+• Identified some appropriate looking at existing solutions to • Researched the problem in depth existing solutions to similar problems, identifying
+features to incorporate into similar problems identifying looking at existing solutions to similar and justifying suitable approaches based on this
+their solution. some appropriate features problems identifying and describing research.
+• Identified some features to incorporate into their suitable approaches based on this • Identified the essential features of the proposed
+of the proposed solution. research. computational solution explaining these choices.
+computational solution. • Identified the essential • Identified and described the • Identified and explained with justification any
+• Identified some limitations features of the proposed essential features of the proposed limitations of the proposed solution.
+of the proposed solution. computational solution. computational solution. • Specified and justified the requirements for the
+• Identified some • Identified and described some • Identified and explained any limitations solution including (as appropriate) any hardware
+requirements for the limitations of the proposed of the proposed solution. and software requirements.
+solution. solution. • Specified the requirements for the • Identified and justified measurable success
+• Identified some success • Identified most requirements solution including (as appropriate) any criteria for the proposed solution.
+criteria for the proposed for the solution. hardware and software requirements.
+solution. • Identified some measurable • Identified measurable success criteria
+success criteria for the for the proposed solution.
+proposed solution.
+0 marks = no response or no response worthy of credit.
+A
+Level
+in
+Computer
+Science
+23
+Version
+2.6
+©
+OCR
+2023
+3
+AO 3.1 Design (maximum 15 marks)
+1–4 marks 5–8 marks 9–12 marks 13–15 marks
+The candidate will have:
+• Described elements • Broken the problem down • Broken the problem down • Broken the problem down systematically
+of the solution using systematically into a series systematically into a series of smaller into a series of smaller problems suitable for
+algorithms. of smaller problems suitable problems suitable for computational computational solutions, explaining and justifying
+• Described some usability for computational solutions solutions explaining the process. the process.
+features to be included describing the process. • Defined in detail the structure of the • Defined in detail the structure of the solution to
+in the solution. • Defined the structure of the solution to be developed. be developed.
+• Identified the key solution to be developed. • Described the solution fully using • Described the solution fully using appropriate
+variables / data • Described the solution fully appropriate and accurate algorithms and accurate algorithms justifying how these
+structures / classes using appropriate and accurate explaining how these algorithms form algorithms form a complete solution to the
+(as appropriate to the algorithms. a complete solution to the problem. problem.
+proposed solution). • Described the usability features to • Described, explaining choices made, • Described, justifying choices made, the usability
+• Identified some test be included in the solution. the usability features to be included in features to be included in the solution.
+data to be used during • Identified the key variables / the solution. • Identified and justified the key variables / data
+the iterative or post data structures / classes (as • Identified and justified the key structures / classes (as appropriate to the
+development phase of appropriate to the proposed variables / data structures / classes (as proposed solution) justifying and explaining any
+the process. solution) and any necessary appropriate to the proposed solution) necessary validation.
+• validation. explaining any necessary validation. • Identified and justified the test data to be used
+• Identified the test data to be used • Identified and justified the test during the iterative development of the solution.
+during the iterative development data to be used during the iterative • Identified and justified any further data to be
+of the solution. development of the solution. used in the post development phase.
+• Identified any further data to be • Identified and justified any further data
+used in the post development to be used in the post development
+phase. phase.
+0 marks = no response or no response worthy of credit.
+24
+A
+Level
+in
+Computer
+Science
+Version
+2.6
+©
+OCR
+2023
+3
+AO 3.2 Developing the coded solution (maximum 25 marks)
+Iterative development of a coded solution (maximum 15 marks)
+1–4 marks 5–8 marks 9–12 marks 13–15 marks
+The candidate will have:
+• Provided evidence • Provided evidence for most stages • Provided evidence of each stage of • Provided evidence of each stage of the iterative
+of some iterative of the iterative development the iterative development process for development process for a coded solution
+development for a coded process for a coded solution a coded solution relating this to the relating this to the break down of the problem
+solution. describing what they did at each break down of the problem from the from the analysis stage and explaining what they
+• Solution may be linear. stage. analysis stage and explaining what they did and justifying why.
+• Code may be inefficient. • Solution will have some structure. did at each stage. • Provided evidence of prototype versions of their
+• Code may not be • Code will be briefly annotated to • Provided evidence of some prototype solution for each stage of the process.
+annotated appropriately. explain key components. versions of their solution. • The solution will be well structured and modular
+• Variable names may be • Some variable and/or structure • The solution will be modular in nature. in nature.
+inappropriate. names will be largely appropriate. • Code will be annotated to explain all • Code will be annotated to aid future
+• There will be little or no • There will be evidence of some key components. maintenance of the system.
+evidence of validation. basic validation. • Most variables and structures will be • All variables and structures will be appropriately
+• There will be little • There will be evidence that the appropriately named. named.
+evidence of review development was reviewed at • There will be evidence of validation for • There will be evidence of validation for all key
+during the development. some stage during the process. most key elements of the solution. elements of the solution.
+• The development will show review at • The development will show review at all key
+most key stages in the process. stages in the process.
+Testing to inform development (maximum 10 marks)
+1–2 marks 3–5 marks 6–8 marks 9–10 marks
+The candidate will have:
+• Provided some evidence • Provided some evidence of testing • Provided evidence of testing at most • Provided evidence of testing at each stage of the
+of testing during the during the iterative development stages of the iterative development iterative development process.
+iterative development process. process. • Provided evidence of any failed tests and the
+process. • Provided evidence of some failed • Provided evidence of some failed tests remedial actions taken with full justification for
+tests and the remedial actions and the remedial actions taken with any actions taken.
+taken. some explanation of the actions taken.
+0 marks = no response or no response worthy of credit.
+A
+Level
+in
+Computer
+Science
+25
+Version
+2.6
+©
+OCR
+2023
+3
+AO 3.3 Evaluation (maximum 20 marks)
+Testing to inform evaluation (maximum 5 marks)
+1 mark 2 marks 3–4 marks 5 marks
+The candidate will have:
+• Provided evidence of • Provided evidence of final product • Provided annotated evidence of post • Provided annotated evidence of post
+some post development testing for function. development testing for function. development testing for function and robustness.
+testing. • Provided annotated evidence for • Provided annotated evidence for usability testing.
+usability testing.
+Evaluation of solution (maximum 15 marks)
+1–4 marks 5–8 marks 9–12 marks 13–15 marks
+The candidate will have:
+• Commented on the • Cross referenced some of the test • Used the test evidence to cross • Used the test evidence to cross reference with
+success or failure of evidence with the success criteria reference with the success criteria the success criteria to evaluate the solution
+the solution with some and commented on the success or to evaluate the solution identifying explain how the evidence shows that the criteria
+reference to test data. otherwise of the solution. whether the criteria have been met, has been fully, partially or not met in each case.
+• The information is basic • Provided evidence of usability partially met or unmet. • Provided comments on how any partially or
+and communicated in an features. • Provided comments on how any unmet criteria could be addressed in further
+unstructured way. The • Identified some limitations on the partially or not met criteria could be development.
+information is supported solution. addressed in further development. • Provided evidence of the usability features
+by limited evidence and • The information has some • Provided evidence of the usability justifying their success, partial success or failure
+the relationship to the relevance and is presented with features. as effective usability features.
+evidence may not be
+limited structure. The information • Considered maintenance issues and • Provided comments on how any issues with
+clear.
+is supported by limited evidence. limitations of the solution. partially or unmet usability features could be
+• There is a line of reasoning presented addressed in further development.
+with some structure. The information • Considered maintenance issues and limitations of
+presented is in the most part relevant the solution.
+and supported by some evidence. • Described how the program could be
+developed to deal with limitations and potential
+improvements / changes.
+• There is a well developed line of reasoning which
+is clear and logically structured. The information
+presented is relevant and substantiated.
+0 marks = no response or no response worthy of credit.
+3j. Synoptic assessment
+Synoptic assessment draws together the knowledge, The Algorithms and programming component (02)
+understanding and skills learnt in different aspects of builds on the knowledge and understanding gained in
+the A level computing course. computer systems (01). Algorithms and programming
+will contain synoptic assessment.
+The emphasis of synoptic assessment is to encourage
+the understanding of Computer Science as a discipline. The programming project component (03) or (04)
+draws on all the elements of the other components in
+It is envisaged that the Computer systems order to enable learners to develop synoptic thought
+component (01) would be taught first but there processes in their approach to the solving of a real life
+are elements of the Algorithms and programming scenario. As part of this process, learners will draw on
+component (02) that should also be considered as knowledge, understanding and skills that have been
+3
+computer systems are taught in order that learners embedded in components 01 and 02.
+are fully aware of the way problem solving through
+computational thinking is achieved.
+3k. Calculating qualification results
+A learner’s overall qualification grade for an A Level This mark will then be compared to the qualification
+in Computer Science will be calculated by adding level grade boundaries for the entry option taken
+together their marks from the three components taken by the learner and for the relevant exam series to
+to give their total weighted mark. determine the learner’s overall qualification grade.
+Version 2.7 © OCR 2024
+26 A Level in Computer Science
+4 Admin: what you need to know
+The information in this section is designed to give an More information about the processes and deadlines
+overview of the processes involved in administering involved at each stage of the assessment cycle can
+this qualification so that you can speak to your exams be found in the Administration area of the OCR
+officer. All of the following processes require you to website. OCR’s Admin overview is available on the OCR
+submit something to OCR by a specific deadline. website: http://www.ocr.org.uk/administration
+4a. Pre-assessment
+Estimated entries
+Estimated entries are your best projection of the Estimated entries should be submitted to OCR by the
+number of learners who will be entered for a specified deadline. They are free and do not commit
+qualification in a particular series. your centre in any way.
+Final entries
+4
+Final entries provide OCR with detailed data for Final entries must be submitted to OCR by the
+each learner, showing each assessment to be taken. published deadlines or late entry fees will apply.
+It is essential that you use the correct entry code,
+considering the relevant entry rules and ensuring All learners taking A Level in Computer Science must
+that you choose the entry option for the moderation be entered for one of the following entry options:
+method you intend to use.
+Entry option Components
+Entry
+Title Code Title Assessment type
+code
+01 Computer systems External Assessment
+H446 A Algorithms and
+Computer Science 02 External Assessment
+programming
+(Moderated upload)
+Programming project Non exam assessment
+03
+(Moderated upload) (Moderated upload)
+01 Computer systems External Assessment
+H446 B Algorithms and
+Computer Science 02 External Assessment
+programming
+(Moderated postal)
+Programming project Non exam assessment
+04
+(Moderated postal) (Moderated postal)
+01 Computer systems External Assessment
+H446 C* Computer Science Algorithms and
+02 External Assessment
+Non exam assessment programming
+(carried forward)
+Programming project Non exam assessment
+80
+(carried forward) (carried forward)
+*Entry option H446 C should only be selected for learners who are retaking the qualification and who want to
+carry forward their mark for the non exam assessment.
+Version 2.7 © OCR 2024
+A Level in Computer Science 27
+Collecting evidence of student performance to ensure resilience in the qualifications system
+Regulators have published guidance on collecting For more detailed information on collecting evidence
+evidence of student performance as part of long- of student performance please visit our website at:
+term contingency arrangements to improve the https://www.ocr.org.uk/administration/general-
+resilience of the qualifications system. You should qualifications/assessment/
+review and consider this guidance when delivering this
+qualification to students at your centre.
+4b. Accessibility and special consideration
+Reasonable adjustments and access arrangements Special consideration is a post-assessment adjustment
+allow learners with special educational needs, to marks or grades to reflect temporary injury, illness
+disabilities or temporary injuries to access the or other indisposition at the time the assessment was
+assessment and show what they know and can do, taken.
+without changing the demands of the assessment.
+4 Applications for these should be made before the Detailed information about eligibility for special
+examination series. Detailed information about consideration can be found in the JCQ A guide to the
+eligibility for access arrangements can be found
+special consideration process.
+in the JCQ Access Arrangements and Reasonable
+Adjustments.
+4c. External assessment arrangements
+Regulations governing examination arrangements Learners are not permitted to use a scientific or
+are contained in the JCQ Instructions for conducting graphical calculator for both components. Calculators
+examinations. are subject to the rules in the document Instructions
+for Conducting Examinations published annually by JCQ
+(www.jcq.org.uk).
+Head of Centre Annual Declaration
+The Head of Centre is required to provide a declaration Any failure by a centre to provide the Head of Centre
+to the JCQ as part of the annual NCN update, Annual Declaration will result in your centre status
+conducted in the autumn term, to confirm that the being suspended and could lead to the withdrawal of
+centre is meeting all of the requirements detailed in our approval for you to operate as a centre.
+the specification.
+Private Candidates
+Private candidates may enter for OCR assessments. Private candidates need to contact OCR approved
+centres to establish whether they are prepared to
+A private candidate is someone who pursues a course host them as a private candidate. The centre may
+of study independently but takes an examination charge for this facility and OCR recommends that the
+or assessment at an approved examination centre. arrangement is made early in the course.
+A private candidate may be a part-time student,
+someone taking a distance learning course, or Further guidance for private candidates may be found
+someone being tutored privately. They must be based on the OCR website: http://www.ocr.org.uk
+in the UK.
+Version 2.7 © OCR 2024
+28 A Level in Computer Science
+4d. Non exam assessment
+Regulations governing arrangements for internal
+assessments are contained in the JCQ Instructions for
+conducting non-examination assessment.
+Authentication of learners’ work
+Candidates and centres must declare that the work to either OCR or the JCQ centre inspection service. It
+submitted for assessment is the candidate’s own by must be kept until the deadline has passed for centres
+completing a centre authentication form (CCS160) to request a review of results. Once this deadline has
+for the course requirements. This information must passed and centres have not requested a review, this
+be retained at the centre and be available on request evidence can be destroyed.
+Internal standardisation
+4
+Centres must carry out internal standardisation to accurate and consistent across all learners entered for
+ensure that marks awarded by different teachers are the component from that centre.
+Moderation
+The purpose of moderation is to bring the marking Moderated postal – Where you post the sample of
+of internally-assessed components in all participating work to the moderator.
+centres to an agreed standard. This is achieved by
+checking a sample of each centre’s marking of learners’ The method that will be used to submit the
+work. moderation sample must be specified when making
+entries. The relevant entry codes are given in
+Following internal standardisation, centres submit Section 4a.
+marks to OCR and the moderator. If there are fewer
+than 10 learners, all the work should be submitted for All learners’ work must be submitted using the same
+moderation at the same time as marks are submitted. entry option. It is not possible for centres to offer both
+options within the same series.
+Once marks have been submitted to OCR and your
+moderator, centres will receive a moderation sample Centres will receive the outcome of moderation when
+request. Samples will include work from across the the provisional results are issued. This will include:
+range of attainment of the learners’ work.
+Moderation Adjustments Report – Listing any
+There are two ways to submit a sample: scaling that has been applied to internally-assessed
+components.
+Moderated upload – Where you upload electronic
+copies of the work included in the sample using our Moderator Report to Centres – A brief report by the
+Submit for Assessment service and your moderator moderator on the internal assessment of learners’
+accesses the work from there. work.
+Version 2.7 © OCR 2024
+A Level in Computer Science 29
+Carrying forward non-exam assessment (NEA)
+Learners who are retaking the qualification can The result for the NEA component may be carried
+choose to either retake the non-exam assessment – forward for the lifetime of the specification and there
+Programming project (03/04), or carry forward their is no restriction on the number of times the result may
+most recent result for that component. be carried forward. However, only the most recent
+non-absent result may be carried forward.
+To carry forward the NEA component result, you must
+use the correct carry forward entry option (see table in When the result is carried forward, the grade
+Section 4a). boundaries from the previous year of entry will be
+used to calculate a new weighted mark for the carried
+Learners must decide at the point of entry whether forward component, so the value of the original mark
+they are going to carry forward the NEA result or not. is preserved.
+4e. Results and certificates
+4 Grade Scale
+A level qualifications are graded on the scale: A*, Unclassified (U). Only subjects in which grades A* to E
+A, B, C, D, E, where A* is the highest. Learners who are attained will be recorded on certificates.
+fail to reach the minimum standard for E will be
+Results
+Results are released to centres and learners for The following supporting information will be available:
+information and allow any queries to be resolved
+before certificates are issued. • raw mark grade boundaries for each component
+• weighted mark grade boundaries for the
+Centres will have access to the following results
+qualification.
+information for each learner:
+Until certificates are issued, results are deemed to
+• the grade for the qualification
+be provisional and may be subject to amendment.
+• the raw mark for each component A learner’s final results will be recorded on an OCR
+certificate.
+• the total weighted mark for the qualification.
+The qualification title will be shown on the certificate
+as ‘OCR Level 3 Advanced GCE in Computer Science’.
+Version 2.7 © OCR 2024
+30 A Level in Computer Science
+4f. Post-results services
+A number of post-results services are available: • Missing and incomplete results – This service
+should be used if an individual subject result
+• Review of results – If you are not happy with for a learner is missing, or the learner has been
+the outcome of a learner’s results, centres omitted entirely from the results supplied.
+may request a review of their moderation
+and/or marking. • Access to scripts – Centres can request access to
+marked scripts.
+4g. Malpractice
+Any breach of the regulation for the conduct of Detailed information on malpractice can be found
+examinations and coursework may constitute in the JCQ publication Suspected Malpractice
+malpractice (which includes maladministration) and in Examinations and Assessments: Policies and
+must be reported to OCR as soon as it is detected. Procedures.
+4
+Version 2.7 © OCR 2024
+A Level in Computer Science 31
+5 Appendices
+5a. Overlap with other qualifications
+The knowledge, understanding and skills that are This overlap may occur only at level 5 in the hardware
+developed throughout this qualification are distinct and software elements of ICT Cambridge Technicals
+and have very little overlap with other qualifications. and GCE Applied ICT.
+5b. Avoidance of bias
+The A level qualification and subject criteria have characteristic as defined by the Equality Act 2010. All
+been reviewed in order to identify any feature which reasonable steps have been taken to minimise any
+could disadvantage candidates who share a protected such disadvantage.
+5c. Mathematical skills
+Computer Science uses mathematics to express its Topic:
+computational laws and processes.
+• Boolean algebra
+All AS level and A level Computer Science qualifications
+• comparison of complexity of algorithms
+must contain a minimum of 10% mathematical
+5 skills. Candidates may be asked to demonstrate their • number representation and bases
+knowledge, understanding and skills of computational
+processes and problem solving in both theoretical Whilst the concept for each topic is Level 2 (though it
+and practical ways. The following list of topics will be may not appear in GCSE mathematics specifications)
+counted as Level 2 (or higher) mathematics. candidates will, however be expected to apply the
+skills in a Level 3 context.
+5d. Languages and Boolean logic guide for use in external assessments
+The tables below show languages and logic that will be used in the external assessments and indicates the limits
+and scope of each.
+Centres are free to go beyond these parameters.
+Pseudocode
+The following guide shows the format pseudocode will appear in the examined components. It is provided to
+allow you to give learners familiarity before the exam. Learners are not expected to memorise the syntax of this
+pseudocode and when asked may provide answers in any style of pseudocode they choose providing its meaning
+could be reasonably inferred by a competent programmer.
+Version 2.7 © OCR 2024
+32 A Level in Computer Science
+Variables
+Variables are assigned using the = operator.
+x=3
+name=“Bob”
+A variable is declared the first time a value is assigned. It assumes the data type of the value it is given.
+Variables declared inside a function or procedure are local to that subroutine.
+Variables in the main program can be made global with the keyword .
+global
+global userid = 123
+Casting
+Variables can be typecast using the and functions.
+int str float
+returns
+str(3) “3”
+returns
+int (“3”) 3
+returns
+float (“3.14”) 3.14
+Outputting to Screen
+string
+print( )
+Example 5
+print(“hello”)
+Taking Input from User
+variable prompt to user
+=input( )
+Example
+name=input(“Please enter your name”)
+Iteration – Count Controlled
+for i=0 to 7
+print(“Hello”)
+next i
+Will print hello 8 times (0–7 inclusive).
+Iteration – Condition Controlled
+while answer!=”computer”
+answer=input(“What is the password?”)
+endwhile
+do
+answer=input(“What is the password?”)
+until answer==”computer”
+Version 2.7 © OCR 2024
+A Level in Computer Science 33
+Logical Operators
+AND OR NOT
+e.g.
+while x<=5 AND flag==false
+Comparison Operators
+Equal to
+==
+Not equal to
+!=
+Less than
+<
+Less than or equal to
+<=
+Greater than
+>
+Greater than or equal to
+>=
+Arithmetic Operators
+Addition e.g. gives 11
++ x=6+5
+Subtraction e.g. gives 1
+- x=6-5
+Multiplication e.g. gives 24
+* x=12*2
+Division e.g. gives 6
+/ x=12/2
+5
+Modulus e.g. gives 2
+MOD 12MOD5
+Quotient e.g. gives 3
+DIV 17DIV5
+Exponentiation e.g. gives 81
+^ 3^4
+Selection
+Selection will be carried out with if/else and switch/case
+if/else
+if entry==”a” then
+print(“You selected A”)
+elseif entry==”b” then
+print(“You selected B”)
+else
+print(“Unrecognised selection”)
+endif
+switch/case
+switch entry:
+case “A”:
+print(“You selected A”)
+case “B”:1
+print(“You selected B”)
+default:
+print(“Unrecognised selection”)
+endswitch
+Version 2.7 © OCR 2024
+34 A Level in Computer Science
+String Handling
+To get the length of a string:
+stringname.length
+To get a substring:
+stringname.subString(startingPosition, numberOfCharacters)
+NB The string will start with the 0th character.
+Example
+someText=”Computer Science”
+print(someText.length)
+print(someText.substring(3,3))
+Will display
+16
+put
+Subroutines
+5
+function triple(number)
+return number*3
+endfunction
+Called from main program
+y=triple(7)
+procedure greeting(name)
+print(“hello”+name)
+endprocedure
+Called from main program
+greeting(“Hamish”)
+Unless stated values passed to subroutines can be assumed to be passed by value.
+If this is relevant to the question byVal and byRef will be used. In the case below x is passed by value and y is
+passed by reference.
+procedure foobar(x:byVal, y:byRef)
+…
+…
+endprocedure
+Version 2.7 © OCR 2024
+A Level in Computer Science 35
+Arrays
+Arrays will be 0 based and declared with the keyword array.
+array names[5]
+names[0]=”Ahmad”
+names[1]=”Ben”
+names[2]=”Catherine”
+names[3]=”Dana”
+names[4]=”Elijah”
+print(names[3])
+Example of 2D array:
+Array board[8,8]
+board[0,0]=”rook”
+Reading to and Writing from Files
+To open a file to read from openRead is used and readLine to return a line of text from the file.
+The following program makes x the first line of sample.txt
+5
+myFile = openRead(“sample.txt”)
+x = myFile.readLine()
+myFile.close()
+is used to determine the end of the file. The following program will print out the contents of
+endOfFile()
+sample.txt
+myFile = openRead(“sample.txt”)
+while NOT myFile.endOfFile()
+print(myFile.readLine())
+endwhile
+myFile.close()
+To open a file to write to openWrite is used and writeLine to add a line of text to the file. In the program below
+hello world is made the contents of sample.txt (any previous contents are overwritten).
+myFile = openWrite(“sample.txt”)
+myFile.writeLine(“Hello World”)
+myFile.close()
+Comments
+Comments are denoted by //
+print(“Hello World”) //This is a comment
+Version 2.7 © OCR 2024
+36 A Level in Computer Science
+Object-Oriented
+Object oriented code will match the pseudocode listed above with the following extensions:
+Methods and Attributes:
+Methods and attributes can be assumed to be public unless otherwise stated. Where the access level is relevant to
+the question it will always be explicit in the code denoted by the keywords.
+public and private.
+private attempts = 3
+public procedure setAttempts(number)
+attempts=number
+endprocedure
+public function getAttempts()
+return attempts
+endfunction
+Methods will always be instance methods, learners aren’t expected to be aware of static methods. They will be
+called using object.method so
+5
+player.setAttempts(5)
+print(player.getAttempts())
+Constructors and Inheritance
+Inheritance is denoted by the keyword, superclass methods will be called with the keyword super.
+inherits
+i.e. p arameters in the case of the constructor this would be
+super.methodName( ) super.new()
+Constructors will be procedures with the name new.
+class Pet
+private name
+public procedure new(givenName)
+name=givenName
+endprocedure
+endclass
+class Dog inherits Pet
+private breed
+public procedure new(givenName, givenBreed)
+super.new(givenName)
+breed=givenBreed
+endprocedure
+endclass
+Version 2.7 © OCR 2024
+A Level in Computer Science 37
+Constructors and Inheritance
+Constructors will be procedures with the name new.
+class Pet
+private name
+public procedure new(givenName)
+name=givenName
+endprocedure
+endclass
+Inheritance is denoted by the keyword, superclass methods will be called with the keyword super.
+inherits
+i.e. (parameters) in the case of the constructor this would be
+super.methodName super.new()
+class Dog inherits Pet
+private breed
+public procedure new(givenName, givenBreed)
+super.new(givenName)
+breed=givenBreed
+5 endprocedure
+endclass
+To create an instance of an object the following format is used
+objectName className
+= new (parameters)
+e.g.
+myDog = new Dog(“Fido”, “Scottish Terrier”)
+HTML
+Learners are expected to have an awareness of the following tags. Any other tags used will be introduced in the
+question.
+<html>
+to link to a CSS file
+<link>
+<head>
+<title>
+<body>
+<h1> <h2> <h3>
+including the src, alt, height and width attributes.
+<img>
+including the href attribute.
+<a>
+<div>
+Version 2.7 © OCR 2024
+38 A Level in Computer Science
+<form>
+where the input is a textbox (i.e. has the attribute and another attribute to
+<input> type=”text” name
+identify it) or a submit button (i.e. has the attribute )
+type=”submit”
+<p>
+<li>
+<ol>
+<ul>
+<script>
+Any other elements used will be explained in the question.
+CSS
+Learners are expected to be able to use CSS directly inside elements using the style attribute
+<h1 style=”color:blue;”>
+and external style sheets. In the style sheets they should be able to use CSS to define the styling of elements: 5
+h1{
+color:blue;
+}
+classes
+.infoBox{
+background-color: green;
+}
+and Identifiers
+#menu{
+background-color: #A2441B;
+}
+They are expected to be familiar with the following properties.
+background-color
+border-color
+border-style
+border-width
+color with named and hex colours
+font-family
+font-size
+height
+width
+Any other properties used will be explained in the question.
+Version 2.7 © OCR 2024
+A Level in Computer Science 39
+JavaScript
+Learners are expected to be able to follow and write basic JavaScript code. It is hoped they will get practical
+experience of JavaScript in their study of the course. They will not be expected to commit exact details of syntax
+to memory. Questions in the exam will not penalise learners for minor inaccuracies in syntax. Learners will be
+expected to be familiar with the JavaScript equivalents of the structures listed in the pseudocode section (with
+the exception of input and output (see below). They will not be expected to use JavaScript for Object Oriented
+programming or file handling. Questions will not be asked in JavaScript where something is passed to a subroutine
+by value or reference is relevant.
+Input
+Input will be taken in by reading values from a form. NB learners will not be expected to memorise the method for
+doing this as focus will be on what they do with that input once it is received.
+Output
+By changing the contents of an HTML element
+chosenElement = document.getElementById(“example”);
+chosenElement.innerHTML = “Hello World”;
+By writing directly to the document
+5
+document.write(“Hello World”);
+By using an alert box
+alert(“Hello World”);
+Any other JavaScript used will be explained in the question.
+Little Man Computer Instruction Set
+In questions mnemonics will always be given according to the left hand column below. Different implementations
+of LMC have slight variations in mnemonics used and to take this into account the alternative mnemonics in the
+right hand column will be accepted in learners’ answers.
+Mnemonic Instruction Alternative mnemonics
+accepted
+Add
+ADD
+Subtract
+SUB
+Store
+STA STO
+Load
+LDA LOAD
+Branch always
+BRA BR
+Branch if zero
+BRZ BZ
+Branch if positive
+BRP BP
+Input
+INP IN, INPUT
+Output
+OUT
+End program
+HLT COB, END
+Data location
+DAT
+Version 2.7 © OCR 2024
+40 A Level in Computer Science
+Structured Query Language (SQL)
+Learners will be expected to be familiar with the structures below. Should any other aspects of SQL be used they
+will be introduced and explained in the question.
+(including nested SELECTs)
+SELECT
+FROM
+WHERE
+LIKE
+AND
+OR
+DELETE
+INSERT
+DROP
+(Which is equivalent to INNER JOIN, there is no expectation to know about outer, left and right joins)
+JOIN 5
+(Learners should be familiar in the use of ‘*’ and ‘%’ as a wildcard to facilitate searching and
+WILDCARDS
+matching where appropriate)
+Boolean Algebra
+When Boolean algebra is used in questions the notation described below will be used. Other forms of notation
+exist and below are also a list of accepted notation we will accept from learners.
+Conjunction
+Notation used:
+Ʌ e.g. A Ʌ B
+A B A ɅɅ B
+T T T
+T F F
+F T F
+F F F
+Alternatives accepted:
+AND e .g. A AND B
+e.g. A.B
+Version 2.7 © OCR 2024
+A Level in Computer Science 41
+Disjunction
+Notation used:
+˅ e.g. A ˅ B
+A B A ˅ B
+T T T
+T F T
+F T T
+F F F
+Alternatives accepted:
+OR e.g. A OR B
++ e.g. A+B
+5 Negation
+Notation used:
+¬ e.g. ¬A
+A ¬¬A
+T F
+F T
+Alternatives Accepted:
+bar e.g. A
+~ e.g. ~A
+NOT e.g. NOT A
+Version 2.7 © OCR 2024
+42 A Level in Computer Science
+Exclusive Disjunction
+Notation used:
+˅ e.g. A˅B
+A B A˅˅B
+T T F
+T F T
+F T T
+F F F
+Alternatives accepted:
+XOR e.g. A XOR B
+⊕ e.g. A ⊕B
+Equivalence / Iff 5
+Notation used:
+≡ e.g. (AɅB) ≡ ¬(¬A˅¬B)
+Alternatives accepted:
+↔
+Version 2.7 © OCR 2024
+A Level in Computer Science 43
+5e. Acceptable programming languages for the Programming project (03)
+The language chosen for the Programming project (03) should be appropriate to the task chosen. If the task
+demands another choice of language that does not appear in the list below, the task outline, the details of
+the programming language and the reasons for the choice of this language should be submitted to OCR for
+consideration computerscience@ocr.org.uk. All tasks completed in all languages need to have a suitable graphical
+interface.
+Programming languages which OCR will accept:
+• Python
+• C family of languages (for example C# C+ etc.)
+• Java
+• Visual Basic
+• PHP
+• Delphi
+5
+Version 2.7 © OCR 2024
+44 A Level in Computer Science
+5f. Entity relationship diagrams
+The following symbols are used for entities and their relationships.
+Entity
+One-To-One relationship
+5
+One-To-Many relationship
+Many-To-Many relationship
+Version 2.7 © OCR 2024
+A Level in Computer Science 45
+Summary of updates
+Date Version Section Title of section Change
+December 2017 2 Multiple – Changes to generic wording and
+OCR website links throughout
+the specification. No changes
+have been made to any
+assessment requirements.
+May 2018 2.1 Front cover Disclaimer Addition of Disclaimer
+August 2018 2.2 3d Retaking the qualification Update to wording for carry
+forward rules
+4d Non exam assessment
+October 2019 2.3 5d Languages and Boolean Error corrected in coding
+logic guide for use in example on page 36.
+external assessments
+June 2020 2.4 4d Non exam assessment Wording amended from
+4f Post-results services ‘Enquiries about results’
+to ‘Review of results’
+January 2021 2.5 Cover Update to specification covers to
+meet digital accessibility
+standards
+June 2023 2.6 2a. Overview of A Level in Update to the wording of
+Computer Science (H446) moderation submission options.
+4a. Pre-assessment
+4d. Non exam assessment
+3 Assessment of OCR A Level Insertion of new section 3c. Total
+in Computer Science qualification time.
+March 2024 2.7 3d, 3e Qualification availability, Inclusion of disclaimer regarding
+Language availability and language
+4a Pre-assessment Update to include resilience
+guidance
+Checklist Inclusion of Teach Cambridge
+Version 2.7 © OCR 2024
+46 A Level in Computer Science
+Version 2.7 © OCR 2024
+A Level in Computer Science 47
+Version 2.7 © OCR 2024
+48 A Level in Computer Science
+Version 2.7 © OCR 2024
+A Level in Computer Science 110223/12 49
+YOUR
+CHECKLIST
+Our aim is to provide you with all o Bookmark OCR website for all the latest information and news on A Level
+the information and support you Computer Science
+need to deliver our specifications.
+o Sign up for Teach Cambridge: our personalised and secure website that
+provides teachers with access to all planning, teaching and assessment
+support materials
+o Be among the first to hear about support materials and resources as they
+become available – register for A Level Computer Science
+o Find out about our professional development
+o View our range of skills guides for use across subjects
+and qualifications
+o Discover our new online past paper service
+o Learn more about Active Results
+o Visit our Online Support Centre
+Download high-quality, exciting
+and innovative A Level Computer
+Science resources from ocr.org.uk/
+alevelcomputerscience
+Resources and support for our A Level Computer Science
+qualification, developed through collaboration between
+our Computer Science Subject Advisors, teachers and other
+subject experts, are available from our website. You can also
+contact our Computer Science Subject Advisors who can give
+you specialist advice, guidance and support.
+Contact the team at:
+01223 553998
+computerscience@ocr.org.uk
+@OCR_ict
+To stay up to date with all the relevant news about our
+qualifications, register for email updates at ocr.org.uk/updates
+Visit our Online Support Centre at support.ocr.org.uk
+follow us on
+facebook.com/ linkedin.com/ @OCRexams youtube.com/
+ocrexams company/ocr ocrexams
+OCR is part of Cambridge University Press & Assessment, a department of the University of Cambridge.
+For staff training purposes and as part of our quality assurance programme your call may be recorded or monitored. ©OCR 2024 Oxford Cambridge and
+RSA Examinations is a Company Limited by Guarantee. Registered in England. Registered office The Triangle Building, Shaftesbury Road, Cambridge, CB2 8EA.
+Registered company number 3484466. OCR is an exempt charity.
+OCR operates academic and vocational qualifications regulated by Ofqual, Qualifications Wales and CCEA as listed in their qualifications registers including
+A Levels, GCSEs, Cambridge Technicals and Cambridge Nationals.
+Cambridge University Press & Assessment is committed to making our documents accessible in accordance with the WCAG 2.1 Standard. We’re always looking
+to improve the accessibility of our documents. If you find any problems or you think we’re not meeting accessibility requirements, please contact us.

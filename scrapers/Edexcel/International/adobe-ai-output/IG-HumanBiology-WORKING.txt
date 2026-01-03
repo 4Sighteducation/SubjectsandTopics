@@ -1,0 +1,341 @@
+1. Human Biology Paper 1
+   1.1 Cells and tissues
+       1.1.1 Recognise cell structures as seen with a light microscope and electron microscope (TEM images only), including nucleus, chromosomes, cell membrane, mitochondria, endoplasmic reticulum and ribosomes
+       1.1.2 Describe the functions of the cell structures: nucleus, chromosomes, cell membrane, mitochondria, endoplasmic reticulum, ribosomes
+       1.1.3 Describe the structure of a DNA molecule
+       1.1.4 Describe DNA replication
+       1.1.5 Understand that a gene is a length of DNA containing a sequence of bases that code for a specific protein
+       1.1.6 Know that RNA is a second type of nucleic acid
+       1.1.7 Understand that a DNA mutation involves a change in the sequence of bases
+       1.1.8 Describe protein synthesis
+       1.1.9 Outline principles of genetic engineering
+       1.1.10 Understand that mitosis occurs during growth, repair, cloning and asexual reproduction
+       1.1.11 Know the four main stages of mitosis
+       1.1.12 Know that there are different types of stem cells
+       1.1.13 Describe the advantages, disadvantages and ethics in the research and use of stem cells
+       1.1.14 Understand that cells are grouped into tissues and that tissues are organised into organs
+       1.1.15 Describe the structure of bone, muscle, blood, nervous tissue and epithelium
+       1.1.16 Describe the structure of cells specialised for reproduction
+   1.2 Biological molecules
+       1.2.1 Know the chemical elements present in carbohydrates, proteins and lipids
+       1.2.2 Understand the structure of carbohydrates, proteins and lipids
+       1.2.3 Describe the tests for glucose, starch, lipid and protein
+       1.2.4 Practical: Investigate the qualitative and quantitative content of vitamin C in food
+       1.2.5 Practical: Investigate the energy content of food
+       1.2.6 Explain the role of enzymes as biological catalysts
+       1.2.7 Explain the action of enzymes and how their activity is affected by temperature, pH, substrate concentration, inhibitors
+       1.2.8 Practical: Investigate the effect of temperature and pH on enzyme activity
+       1.2.9 Describe the advantages of using immobilised enzymes
+       1.2.10 Practical: Investigate the action of immobilised enzymes
+   1.3 Movement of substances into and out of cells
+       1.3.1 Know simple definitions of diffusion, osmosis and active transport
+       1.3.2 Understand that movement of substances into and out of cells can be by diffusion, osmosis and active transport
+       1.3.3 Understand the factors that affect the rate of movement of substances into and out of cells
+   1.4 Bones, muscles and joints
+       1.4.1 Describe the structure and function of the main parts of the skeleton
+       1.4.2 Explain the functions of joints using examples
+       1.4.3 Describe the structure of a synovial joint
+       1.4.4 Explain the relationship between voluntary muscles and bones to bring about movement
+       1.4.5 Understand the dietary factors controlling the healthy development of muscle and bone
+       1.4.6 Understand the causes and symptoms of osteoporosis
+   1.5 Coordination
+       1.5.1 Know the structure of neurones: sensory, motor and relay
+       1.5.2 Know the basic plan of the central nervous system
+       1.5.3 Know the main areas of the brain and their functions
+       1.5.4 Know the structure and functions of the spinal cord and the structure of a reflex arc
+       1.5.5 Understand that the body contains receptors that can detect stimuli
+       1.5.6 Describe the pathway taken by a nerve impulse to cause a response to a stimulus
+       1.5.7 Practical: Investigate the number and position of sensory receptors
+       1.5.8 Understand how nerve impulses are initiated and transmitted
+       1.5.9 Understand the action of hormones from various glands
+       1.5.10 Understand the differences between the nervous and hormonal systems
+       1.5.11 Explain the structure and function of the eye
+       1.5.12 Understand eye defects and their treatment
+       1.5.13 Explain the structure and function of the ear in balance and hearing
+       1.5.14 Understand how prolonged exposure to high noise levels affects hearing
+       1.5.15 Practical: Investigate the range of frequency audible to the human ear
+       1.5.16 Understand the meaning of the term 'drug' and distinguish between legal and illegal drugs
+       1.5.17 Describe the damaging effects of alcohol on the nervous system and liver
+       1.5.18 Describe the causes, symptoms and treatments of mental illness
+       1.5.19 Describe the causes, symptoms and treatments of Alzheimer's disease, vascular dementia and Parkinson's disease
+   1.6 Nutrition and energy
+       1.6.1 Explain the importance of a balanced diet
+       1.6.2 Understand variations in diet related to age, pregnancy, climate and occupation
+       1.6.3 Know the sources and functions of various nutrients
+       1.6.4 Describe the causes and symptoms of deficiency diseases
+       1.6.5 Know the structures of the human alimentary canal and describe the functions of its parts
+       1.6.6 Explain how food is moved through the gut by peristalsis
+       1.6.7 Understand the role of digestive enzymes
+       1.6.8 Know that bile is produced by the liver and stored in the gall bladder
+       1.6.9 Understand how the structure of the villus helps absorption
+       1.6.10 Know the types, structure and functions of teeth
+       1.6.11 Understand BMI and the role of obesity as a risk factor
+       1.6.12 Explain the importance of hygienic methods of food preparation, cooking, storage and preservation
+   1.7 Respiration
+       1.7.1 Know that the process of respiration releases energy in living organisms
+       1.7.2 Practical: Investigate the difference between inspired and expired air for carbon dioxide concentration
+       1.7.3 Know the word equation and the balanced chemical symbol equation for aerobic respiration
+       1.7.4 Know the word equation for anaerobic respiration
+       1.7.5 Explain the differences between aerobic and anaerobic respiration
+       1.7.6 Understand the role of ATP in energy transfer
+   1.8 Gas exchange
+       1.8.1 Know the structure of the thorax
+       1.8.2 Explain the role of the intercostal muscles and the diaphragm in ventilation
+       1.8.3 Explain how the lungs are adapted for gas exchange by diffusion
+       1.8.4 Understand the terms lung capacity, vital capacity, tidal volume and interpret spirometer traces
+       1.8.5 Practical: Investigate the effect of exercise on the rate of breathing and measure lung capacity
+       1.8.6 Describe the regulation of carbon dioxide content in the blood
+       1.8.7 Understand the term aerobic exercise
+       1.8.8 Understand the long-term benefits of exercise on the cardiovascular system
+       1.8.9 Understand the pulse rate as a measure of heart rate
+       1.8.10 Explain why the heart rate changes during exercise and the influence of adrenaline
+       1.8.11 Practical: Investigate the effect of exercise on the pulse rate
+       1.8.12 Understand how an oxygen debt arises and how it is repaid after exercise
+       1.8.13 Understand the damage to the respiratory and cardiovascular system caused by smoking
+   1.9 Internal transport
+       1.9.1 Know the composition of the blood
+       1.9.2 Understand the role of plasma in the transport of substances
+       1.9.3 Know the role of tissue fluid and explain how this arises
+       1.9.4 Explain how red blood cells are adapted for oxygen transport
+       1.9.5 Understand the role of ABO blood groups
+       1.9.6 Understand the role of white blood cells
+       1.9.7 Describe the importance of blood clotting
+       1.9.8 Compare the structures of arteries, veins and capillaries
+       1.9.9 Know the general plan of the circulatory system
+       1.9.10 Know the structure of the heart and how it functions
+       1.9.11 Describe the causes, prevention and treatment of heart disease
+       1.9.12 Understand the problems associated with heart transplants
+       1.9.13 Describe the use of statins and plant stanol esters
+       1.9.14 Understand the role of beta-blockers
+       1.9.15 Explain the terms systolic and diastolic blood pressure
+       1.9.16 Describe the causes, prevention and treatment of hypertension
+       1.9.17 Understand the role of ACE inhibitors
+       1.9.18 Describe how monoclonal antibodies are produced
+       1.9.19 Understand how monoclonal antibodies work to detect and treat diseases
+   1.10 Homeostatic mechanisms
+       1.10.1 Know the structure and functions of the skin
+       1.10.2 Know the definition of excretion
+       1.10.3 Know the structure and functions of the renal system
+       1.10.4 Explain why the composition of urine may vary
+       1.10.5 Describe the role of the hypothalamus and pituitary gland in osmoregulation
+       1.10.6 Explain the role of ADH in regulating the water content of the blood
+       1.10.7 Understand the roles of insulin and glucagon in maintaining blood glucose levels
+       1.10.8 Understand the concept of homeostasis and the role of negative feedback
+       1.10.9 Describe the advantages and disadvantages of kidney transplants and dialysis
+       1.10.10 Practical: Investigate diffusion using a partially-permeable membrane
+       1.10.11 Describe the functions of the liver
+   1.11 Reproduction and heredity
+       1.11.1 Know that the process of fertilisation involves the fusion of a male and female gamete
+       1.11.2 Describe how a zygote divides to form an embryo
+       1.11.3 Know the stages of meiosis
+       1.11.4 Know the structure and function of the male and female reproductive systems
+       1.11.5 Understand the roles of hormones in the menstrual cycle
+       1.11.6 Explain the role in pregnancy of various structures and hormones
+       1.11.7 Know the roles of oestrogen and testosterone in the development of secondary sexual characteristics
+       1.11.8 Describe the birth process and explain the advantages of breast feeding
+       1.11.9 Describe an outline of growth and development to maturity
+       1.11.10 Describe the methods of contraception
+       1.11.11 Describe the advantages and disadvantages of each contraceptive method
+       1.11.12 Describe the process of IVF
+       1.11.13 Know that genes exist in alternative forms called alleles
+       1.11.14 Know the meaning of genetic terms
+       1.11.15 Know that the sex of a person is controlled by one pair of chromosomes
+       1.11.16 Explain how the sex of offspring is determined
+       1.11.17 Understand that random fertilisation produces genetic variation
+       1.11.18 Understand the role of multiple alleles in the inheritance of ABO blood groups
+       1.11.19 Understand patterns of monohybrid inheritance
+       1.11.20 Understand how to interpret family pedigrees
+       1.11.21 Describe the causes and effects of inherited conditions
+       1.11.22 Describe how gene therapy can be used to treat cystic fibrosis
+       1.11.23 Understand that random fertilisation produces genetic variation
+       1.11.24 Understand that variation within a species can be genetic, environmental or a combination of both
+   1.12 Disease
+       1.12.1 Understand the general course of a disease
+       1.12.2 Know that diseases are caused by pathogenic microorganisms
+       1.12.3 Describe the structure and reproduction of viruses
+       1.12.4 Describe methods of transmission, treatment and prevention of the spread of Ebola and HIV
+       1.12.5 Describe the structure, nutrition and reproduction of bacteria
+       1.12.6 Investigate the effects of antibacterial agents and antibiotics on the growth of bacterial culture
+       1.12.7 Know the methods of transmission, treatment and prevention of the spread of cholera and gonorrhoea
+       1.12.8 Explain the importance of oral rehydration therapy
+       1.12.9 Know the methods of transmission, treatment and prevention of the spread of athlete’s foot
+       1.12.10 Explain the role of the mosquito and housefly in transmitting causative agents of disease
+       1.12.11 Describe the treatment and prevention of the spread of malaria and typhoid
+       1.12.12 Understand the antibody-antigen reaction
+       1.12.13 Explain how vaccines work to prevent the spread of disease
+       1.12.14 Understand the differences between natural and artificial immunity and active and passive immunity
+       1.12.15 Know the sources and role of antibiotics
+       1.12.16 Explain how resistant pathogens such as MRSA arise
+       1.12.17 Understand the role of non-pathogenic bacteria and fungi in the decomposition of organic matter
+       1.12.18 Know the processes of sewage treatment in modern sewage works and a pit latrine
+
+2. Human Biology Paper 2
+   2.1 Cells and tissues
+       2.1.1 Recognise cell structures as seen with a light microscope and electron microscope (TEM images only), including nucleus, chromosomes, cell membrane, mitochondria, endoplasmic reticulum and ribosomes
+       2.1.2 Describe the functions of the cell structures: nucleus, chromosomes, cell membrane, mitochondria, endoplasmic reticulum, ribosomes
+       2.1.3 Describe the structure of a DNA molecule
+       2.1.4 Describe DNA replication
+       2.1.5 Understand that a gene is a length of DNA containing a sequence of bases that code for a specific protein
+       2.1.6 Know that RNA is a second type of nucleic acid
+       2.1.7 Understand that a DNA mutation involves a change in the sequence of bases
+       2.1.8 Describe protein synthesis
+       2.1.9 Outline principles of genetic engineering
+       2.1.10 Understand that mitosis occurs during growth, repair, cloning and asexual reproduction
+       2.1.11 Know the four main stages of mitosis
+       2.1.12 Know that there are different types of stem cells
+       2.1.13 Describe the advantages, disadvantages and ethics in the research and use of stem cells
+       2.1.14 Understand that cells are grouped into tissues and that tissues are organised into organs
+       2.1.15 Describe the structure of bone, muscle, blood, nervous tissue and epithelium
+       2.1.16 Describe the structure of cells specialised for reproduction
+   2.2 Biological molecules
+       2.2.1 Know the chemical elements present in carbohydrates, proteins and lipids
+       2.2.2 Understand the structure of carbohydrates, proteins and lipids
+       2.2.3 Describe the tests for glucose, starch, lipid and protein
+       2.2.4 Practical: Investigate the qualitative and quantitative content of vitamin C in food
+       2.2.5 Practical: Investigate the energy content of food
+       2.2.6 Explain the role of enzymes as biological catalysts
+       2.2.7 Explain the action of enzymes and how their activity is affected by temperature, pH, substrate concentration, inhibitors
+       2.2.8 Practical: Investigate the effect of temperature and pH on enzyme activity
+       2.2.9 Describe the advantages of using immobilised enzymes
+       2.2.10 Practical: Investigate the action of immobilised enzymes
+   2.3 Movement of substances into and out of cells
+       2.3.1 Know simple definitions of diffusion, osmosis and active transport
+       2.3.2 Understand that movement of substances into and out of cells can be by diffusion, osmosis and active transport
+       2.3.3 Understand the factors that affect the rate of movement of substances into and out of cells
+   2.4 Bones, muscles and joints
+       2.4.1 Describe the structure and function of the main parts of the skeleton
+       2.4.2 Explain the functions of joints using examples
+       2.4.3 Describe the structure of a synovial joint
+       2.4.4 Explain the relationship between voluntary muscles and bones to bring about movement
+       2.4.5 Understand the dietary factors controlling the healthy development of muscle and bone
+       2.4.6 Understand the causes and symptoms of osteoporosis
+   2.5 Coordination
+       2.5.1 Know the structure of neurones: sensory, motor and relay
+       2.5.2 Know the basic plan of the central nervous system
+       2.5.3 Know the main areas of the brain and their functions
+       2.5.4 Know the structure and functions of the spinal cord and the structure of a reflex arc
+       2.5.5 Understand that the body contains receptors that can detect stimuli
+       2.5.6 Describe the pathway taken by a nerve impulse to cause a response to a stimulus
+       2.5.7 Practical: Investigate the number and position of sensory receptors
+       2.5.8 Understand how nerve impulses are initiated and transmitted
+       2.5.9 Understand the action of hormones from various glands
+       2.5.10 Understand the differences between the nervous and hormonal systems
+       2.5.11 Explain the structure and function of the eye
+       2.5.12 Understand eye defects and their treatment
+       2.5.13 Explain the structure and function of the ear in balance and hearing
+       2.5.14 Understand how prolonged exposure to high noise levels affects hearing
+       2.5.15 Practical: Investigate the range of frequency audible to the human ear
+       2.5.16 Understand the meaning of the term 'drug' and distinguish between legal and illegal drugs
+       2.5.17 Describe the damaging effects of alcohol on the nervous system and liver
+       2.5.18 Describe the causes, symptoms and treatments of mental illness
+       2.5.19 Describe the causes, symptoms and treatments of Alzheimer's disease, vascular dementia and Parkinson's disease
+   2.6 Nutrition and energy
+       2.6.1 Explain the importance of a balanced diet
+       2.6.2 Understand variations in diet related to age, pregnancy, climate and occupation
+       2.6.3 Know the sources and functions of various nutrients
+       2.6.4 Describe the causes and symptoms of deficiency diseases
+       2.6.5 Know the structures of the human alimentary canal and describe the functions of its parts
+       2.6.6 Explain how food is moved through the gut by peristalsis
+       2.6.7 Understand the role of digestive enzymes
+       2.6.8 Know that bile is produced by the liver and stored in the gall bladder
+       2.6.9 Understand how the structure of the villus helps absorption
+       2.6.10 Know the types, structure and functions of teeth
+       2.6.11 Understand BMI and the role of obesity as a risk factor
+       2.6.12 Explain the importance of hygienic methods of food preparation, cooking, storage and preservation
+   2.7 Respiration
+       2.7.1 Know that the process of respiration releases energy in living organisms
+       2.7.2 Practical: Investigate the difference between inspired and expired air for carbon dioxide concentration
+       2.7.3 Know the word equation and the balanced chemical symbol equation for aerobic respiration
+       2.7.4 Know the word equation for anaerobic respiration
+       2.7.5 Explain the differences between aerobic and anaerobic respiration
+       2.7.6 Understand the role of ATP in energy transfer
+   2.8 Gas exchange
+       2.8.1 Know the structure of the thorax
+       2.8.2 Explain the role of the intercostal muscles and the diaphragm in ventilation
+       2.8.3 Explain how the lungs are adapted for gas exchange by diffusion
+       2.8.4 Understand the terms lung capacity, vital capacity, tidal volume and interpret spirometer traces
+       2.8.5 Practical: Investigate the effect of exercise on the rate of breathing and measure lung capacity
+       2.8.6 Describe the regulation of carbon dioxide content in the blood
+       2.8.7 Understand the term aerobic exercise
+       2.8.8 Understand the long-term benefits of exercise on the cardiovascular system
+       2.8.9 Understand the pulse rate as a measure of heart rate
+       2.8.10 Explain why the heart rate changes during exercise and the influence of adrenaline
+       2.8.11 Practical: Investigate the effect of exercise on the pulse rate
+       2.8.12 Understand how an oxygen debt arises and how it is repaid after exercise
+       2.8.13 Understand the damage to the respiratory and cardiovascular system caused by smoking
+   2.9 Internal transport
+       2.9.1 Know the composition of the blood
+       2.9.2 Understand the role of plasma in the transport of substances
+       2.9.3 Know the role of tissue fluid and explain how this arises
+       2.9.4 Explain how red blood cells are adapted for oxygen transport
+       2.9.5 Understand the role of ABO blood groups
+       2.9.6 Understand the role of white blood cells
+       2.9.7 Describe the importance of blood clotting
+       2.9.8 Compare the structures of arteries, veins and capillaries
+       2.9.9 Know the general plan of the circulatory system
+       2.9.10 Know the structure of the heart and how it functions
+       2.9.11 Describe the causes, prevention and treatment of heart disease
+       2.9.12 Understand the problems associated with heart transplants
+       2.9.13 Describe the use of statins and plant stanol esters
+       2.9.14 Understand the role of beta-blockers
+       2.9.15 Explain the terms systolic and diastolic blood pressure
+       2.9.16 Describe the causes, prevention and treatment of hypertension
+       2.9.17 Understand the role of ACE inhibitors
+       2.9.18 Describe how monoclonal antibodies are produced
+       2.9.19 Understand how monoclonal antibodies work to detect and treat diseases
+   2.10 Homeostatic mechanisms
+       2.10.1 Know the structure and functions of the skin
+       2.10.2 Know the definition of excretion
+       2.10.3 Know the structure and functions of the renal system
+       2.10.4 Explain why the composition of urine may vary
+       2.10.5 Describe the role of the hypothalamus and pituitary gland in osmoregulation
+       2.10.6 Explain the role of ADH in regulating the water content of the blood
+       2.10.7 Understand the roles of insulin and glucagon in maintaining blood glucose levels
+       2.10.8 Understand the concept of homeostasis and the role of negative feedback
+       2.10.9 Describe the advantages and disadvantages of kidney transplants and dialysis
+       2.10.10 Practical: Investigate diffusion using a partially-permeable membrane
+       2.10.11 Describe the functions of the liver
+   2.11 Reproduction and heredity
+       2.11.1 Know that the process of fertilisation involves the fusion of a male and female gamete
+       2.11.2 Describe how a zygote divides to form an embryo
+       2.11.3 Know the stages of meiosis
+       2.11.4 Know the structure and function of the male and female reproductive systems
+       2.11.5 Understand the roles of hormones in the menstrual cycle
+       2.11.6 Explain the role in pregnancy of various structures and hormones
+       2.11.7 Know the roles of oestrogen and testosterone in the development of secondary sexual characteristics
+       2.11.8 Describe the birth process and explain the advantages of breast feeding
+       2.11.9 Describe an outline of growth and development to maturity
+       2.11.10 Describe the methods of contraception
+       2.11.11 Describe the advantages and disadvantages of each contraceptive method
+       2.11.12 Describe the process of IVF
+       2.11.13 Know that genes exist in alternative forms called alleles
+       2.11.14 Know the meaning of genetic terms
+       2.11.15 Know that the sex of a person is controlled by one pair of chromosomes
+       2.11.16 Explain how the sex of offspring is determined
+       2.11.17 Understand that random fertilisation produces genetic variation
+       2.11.18 Understand the role of multiple alleles in the inheritance of ABO blood groups
+       2.11.19 Understand patterns of monohybrid inheritance
+       2.11.20 Understand how to interpret family pedigrees
+       2.11.21 Describe the causes and effects of inherited conditions
+       2.11.22 Describe how gene therapy can be used to treat cystic fibrosis
+       2.11.23 Understand that random fertilisation produces genetic variation
+       2.11.24 Understand that variation within a species can be genetic, environmental or a combination of both
+   2.12 Disease
+       2.12.1 Understand the general course of a disease
+       2.12.2 Know that diseases are caused by pathogenic microorganisms
+       2.12.3 Describe the structure and reproduction of viruses
+       2.12.4 Describe methods of transmission, treatment and prevention of the spread of Ebola and HIV
+       2.12.5 Describe the structure, nutrition and reproduction of bacteria
+       2.12.6 Investigate the effects of antibacterial agents and antibiotics on the growth of bacterial culture
+       2.12.7 Know the methods of transmission, treatment and prevention of the spread of cholera and gonorrhoea
+       2.12.8 Explain the importance of oral rehydration therapy
+       2.12.9 Know the methods of transmission, treatment and prevention of the spread of athlete’s foot
+       2.12.10 Explain the role of the mosquito and housefly in transmitting causative agents of disease
+       2.12.11 Describe the treatment and prevention of the spread of malaria and typhoid
+       2.12.12 Understand the antibody-antigen reaction
+       2.12.13 Explain how vaccines work to prevent the spread of disease
+       2.12.14 Understand the differences between natural and artificial immunity and active and passive immunity
+       2.12.15 Know the sources and role of antibiotics
+       2.12.16 Explain how resistant pathogens such as MRSA arise
+       2.12.17 Understand the role of non-pathogenic bacteria and fungi in the decomposition of organic matter
+       2.12.18 Know the processes of sewage treatment in modern sewage works and a pit latrine

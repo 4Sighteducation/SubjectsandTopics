@@ -1,0 +1,91 @@
+1. Paper 1: Number and Algebra
+   1.1 Number
+       1.1.1 The ordinary processes of number manipulation
+       1.1.2 Prime numbers, factors, multiples
+       1.1.3 Indices, powers and roots
+       1.1.4 Simple manipulation of surds
+       1.1.5 Rationalising the denominator
+       1.1.6 Natural numbers, integers and rational and irrational numbers
+       1.1.7 Weights, measures and money
+       1.1.8 Fractions, decimals, ratio, proportion and percentage
+       1.1.9 Expressing numbers to a given degree of accuracy
+       1.1.10 Solve problems using upper and lower bounds
+       1.1.11 Numbers in standard form
+   1.2 Sets
+       1.2.1 The idea of a set
+       1.2.2 Set language and notation
+       1.2.3 Union and intersection of sets
+       1.2.4 Number of elements in a set
+       1.2.5 Complementary sets
+       1.2.6 Subsets
+       1.2.7 Universal set, null set
+       1.2.8 Venn diagrams and their use in simple logical problems
+       1.2.9 Use of symbols to represent sets
+   1.3 Algebra
+       1.3.1 The basic processes of algebra
+       1.3.2 The construction, interpretation and use of formulae and their manipulation
+       1.3.3 The factorisation of simple algebraic expressions
+       1.3.4 Use of the factor theorem
+       1.3.5 Algebraic division of a cubic by a linear factor
+       1.3.6 The manipulation of simple algebraic fractions
+       1.3.7 Solution of equations of 1st, 2nd and 3rd degree
+       1.3.8 Solution of linear simultaneous equations in two unknowns
+       1.3.9 Solve simultaneous equations in two unknowns, one equation being linear and the other being quadratic
+       1.3.10 Solution of linear inequalities, and the representations of solutions on the number line and two-dimensional space
+       1.3.11 Solve quadratic inequalities in one unknown and represent the solution set on a number line
+       1.3.12 The idea of a sequence
+
+2. Paper 2: Geometry and Trigonometry
+   2.1 Geometry
+       2.1.1 Geometrical properties of Euclidean space
+       2.1.2 Geometrical reasoning
+       2.1.3 Angle properties of parallel lines, triangles and polygons
+       2.1.4 Properties of the parallelogram, rectangle, square, rhombus, trapezium and kite
+       2.1.5 Symmetry about a point, line or plane
+       2.1.6 Use of Pythagoras’ theorem in 2D and 3D
+       2.1.7 Similarity: areas and volumes of similar figures
+       2.1.8 Prove the similarity of two triangles
+       2.1.9 Congruent shapes
+       2.1.10 Understand and use SSS, SAS, ASA and RHS conditions to prove the congruence of triangles
+       2.1.11 Chord, angle and tangent properties of circles
+       2.1.12 Properties of a cyclic quadrilateral
+       2.1.13 Loci in two dimensions
+       2.1.14 Constructions of bisector of an angle and of perpendicular bisector of a straight line
+   2.2 Mensuration
+       2.2.1 Length, area, and volume
+       2.2.2 Mensuration of two-dimensional shapes
+       2.2.3 Mensuration of three-dimensional shapes
+       2.2.4 Length of an arc, area of a sector of a circle
+   2.3 Vectors and Transformation Geometry
+       2.3.1 Scalar and vector quantities
+       2.3.2 Understand and use vector notation
+       2.3.3 Representation of a vector by a directed line segment
+       2.3.4 Parallel vectors, unit vectors and position vectors
+       2.3.5 Sum and difference of two vectors
+       2.3.6 Modulus (magnitude) of a vector
+       2.3.7 Multiplication of a vector by a scalar
+       2.3.8 Find the resultant of two or more vectors
+       2.3.9 Apply vector methods to simple geometrical problems
+       2.3.10 Transformations of the plane
+       2.3.11 Combination of transformations
+       2.3.12 Multiplication of a vector by a matrix
+   2.4 Trigonometry
+       2.4.1 Use of sine, cosine and tangent of angles
+       2.4.2 Solution of problems in two and three dimensions by calculation and by drawing
+       2.4.3 Angles of elevation and depression
+       2.4.4 Bearings
+
+3. Paper 3: Statistics and Probability
+   3.1 Statistics
+       3.1.1 Graphical representation of numerical data
+       3.1.2 Determination of the mean, median and mode for a discrete data set
+       3.1.3 Calculation of an estimate of the mean of a larger number of quantities given in grouped frequencies
+       3.1.4 Determination of a modal class and the class containing the median for grouped data
+   3.2 Probability
+       3.2.1 Understand the language and basic concepts of probability
+       3.2.2 Use of addition rule for two or more mutually exclusive events
+       3.2.3 Use of product rule for two or more independent events
+       3.2.4 Determination of the probability of two or more independent events
+       3.2.5 Using simple conditional probability for combined events
+       3.2.6 Finding very simple conditional probability
+       3.2.7 Understand and use the term ‘expected frequency’

@@ -1,0 +1,213 @@
+[
+  {
+    "name": "Accounting",
+    "code": "7127",
+    "slug": "accounting"
+  },
+  {
+    "name": "Art and Design (Art, craft and design)",
+    "code": "7201",
+    "slug": "art-and-design"
+  },
+  {
+    "name": "Art and Design (Fine art)",
+    "code": "7202",
+    "slug": "art-and-design"
+  },
+  {
+    "name": "Art and Design (Graphic communication)",
+    "code": "7203",
+    "slug": "art-and-design"
+  },
+  {
+    "name": "Art and Design (Photography)",
+    "code": "7206",
+    "slug": "art-and-design"
+  },
+  {
+    "name": "Art and Design (Textile design)",
+    "code": "7204",
+    "slug": "art-and-design"
+  },
+  {
+    "name": "Art and Design (Three-dimensional design)",
+    "code": "7205",
+    "slug": "art-and-design"
+  },
+  {
+    "name": "Bengali",
+    "code": "7632",
+    "slug": "bengali"
+  },
+  {
+    "name": "Biology",
+    "code": "7402",
+    "slug": "biology"
+  },
+  {
+    "name": "Business",
+    "code": "7132",
+    "slug": "business"
+  },
+  {
+    "name": "Chemistry",
+    "code": "7405",
+    "slug": "chemistry"
+  },
+  {
+    "name": "Computer Science",
+    "code": "7517",
+    "slug": "computer-science"
+  },
+  {
+    "name": "Dance",
+    "code": "7237",
+    "slug": "dance"
+  },
+  {
+    "name": "Design and Technology",
+    "code": "7552",
+    "slug": "design-and-technology"
+  },
+  {
+    "name": "Drama",
+    "code": "7262",
+    "slug": "drama"
+  },
+  {
+    "name": "Economics",
+    "code": "7136",
+    "slug": "economics"
+  },
+  {
+    "name": "English Language",
+    "code": "7701",
+    "slug": "english"
+  },
+  {
+    "name": "English Language and Literature",
+    "code": "7707",
+    "slug": "english"
+  },
+  {
+    "name": "English Literature A",
+    "code": "7711",
+    "slug": "english"
+  },
+  {
+    "name": "English Literature B",
+    "code": "7712",
+    "slug": "english"
+  },
+  {
+    "name": "Environmental Science",
+    "code": "7447",
+    "slug": "environmental-science"
+  },
+  {
+    "name": "French",
+    "code": "7652",
+    "slug": "french"
+  },
+  {
+    "name": "Further Mathematics",
+    "code": "7367",
+    "slug": "mathematics"
+  },
+  {
+    "name": "Geography",
+    "code": "7037",
+    "slug": "geography"
+  },
+  {
+    "name": "German",
+    "code": "7662",
+    "slug": "german"
+  },
+  {
+    "name": "Hebrew (Biblical)",
+    "code": "7677",
+    "slug": "hebrew"
+  },
+  {
+    "name": "Hebrew (Modern)",
+    "code": "7678",
+    "slug": "hebrew"
+  },
+  {
+    "name": "History",
+    "code": "7042",
+    "slug": "history"
+  },
+  {
+    "name": "Law",
+    "code": "7162",
+    "slug": "law"
+  },
+  {
+    "name": "Mathematics",
+    "code": "7357",
+    "slug": "mathematics"
+  },
+  {
+    "name": "Media Studies",
+    "code": "7572",
+    "slug": "media-studies"
+  },
+  {
+    "name": "Music",
+    "code": "7272",
+    "slug": "music"
+  },
+  {
+    "name": "Panjabi",
+    "code": "7688",
+    "slug": "panjabi"
+  },
+  {
+    "name": "Philosophy",
+    "code": "7172",
+    "slug": "philosophy"
+  },
+  {
+    "name": "Physical Education",
+    "code": "7582",
+    "slug": "physical-education"
+  },
+  {
+    "name": "Physics",
+    "code": "7408",
+    "slug": "physics"
+  },
+  {
+    "name": "Polish",
+    "code": "7692",
+    "slug": "polish"
+  },
+  {
+    "name": "Politics",
+    "code": "7152",
+    "slug": "politics"
+  },
+  {
+    "name": "Psychology",
+    "code": "7182",
+    "slug": "psychology"
+  },
+  {
+    "name": "Religious Studies",
+    "code": "7062",
+    "slug": "religious-studies"
+  },
+  {
+    "name": "Sociology",
+    "code": "7192",
+    "slug": "sociology"
+  },
+  {
+    "name": "Spanish",
+    "code": "7692",
+    "slug": "spanish"
+  }
+]
+

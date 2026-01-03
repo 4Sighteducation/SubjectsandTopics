@@ -1,0 +1,556 @@
+1 Core pure (Y420)
+1.1 Proof
+1.1.1 Proof (a)
+1.1.1.1 Induction
+1.1.1.1.1 Pp4 Be able to construct and present a proof using mathematical induction for given results for a formula for the nth term of a sequence, the sum of a series or the nth power of a matrix.
+1.1.2 Proof (b)
+1.1.2.1 Induction
+1.1.2.1.1 Pp5 Be able to construct and present a proof using mathematical induction.
+1.2 Complex numbers
+1.2.1 Complex numbers (a)
+1.2.1.1 Language of complex numbers
+1.2.1.1.1 Pj1 Understand the language of complex numbers.
+1.2.1.2 Complex numbers and polynomial equations
+1.2.1.2.1 j2 Be able to solve any quadratic equation with real coefficients.
+1.2.1.2.2 j3 Know that the complex roots of polynomial equations with real coefficients occur in conjugate pairs. Be able to solve cubic or quartic equations with real coefficients.
+1.2.1.3 Arithmetic of complex numbers
+1.2.1.3.1 j4 Be able to add, subtract, multiply and divide complex numbers given in the form x+yi, x and y real.
+1.2.1.3.2 j5 Understand that a complex number is zero if and only if both the real and imaginary parts are zero.
+1.2.1.4 Modulus-argument form
+1.2.1.4.1 j6 Be able to use radians in the context of complex numbers.
+1.2.1.4.2 j7 Be able to represent a complex number in modulus-argument form. Be able to convert between the forms z =x+yi and z =r (cosi+isini) where r is the modulus and i is the argument of the complex number.
+1.2.1.4.3 j8 Be able to multiply and divide complex numbers in modulus-argument form.
+1.2.1.5 The Argand diagram
+1.2.1.5.1 j9 Be able to represent and interpret complex numbers and their conjugates on an Argand diagram.
+1.2.1.5.2 j10 Be able to represent the sum, difference, product and quotient of two complex numbers on an Argand diagram.
+1.2.1.5.3 j11 Be able to represent and interpret sets of complex numbers as loci on an Argand diagram.
+1.2.2 Complex numbers (b)
+1.2.2.1 De Moivre’s theorem and simple applications
+1.2.2.1.1 Pj12 Understand and use de Moivre’s theorem.
+1.2.2.1.2 j13 Be able to apply de Moivre’s theorem to finding multiple angle formulae and to summing suitable series.
+1.2.2.2 The form z = re ii
+1.2.2.2.1 j14 Understand the definition eii=cosi+isini and hence the form z =r eii.
+1.2.2.3 The nth roots of a complex number
+1.2.2.3.1 j15 Know that every non-zero complex number has n distinct nth roots, and that on an Argand diagram these are the vertices of a regular n-gon.
+1.2.2.3.2 j16 Know that the distinct nth roots of r eii are: r n 1S S cos J K i+ 2 krN O +isin J K i+ 2 krN O W W L P T X for k=0,1... n-1.
+1.2.2.3.3 j17 Be able to explain why the sum of all the nth roots is zero.
+1.2.2.4 Applications of complex numbers in geometry
+1.2.2.4.1 j18 Understand the effect of multiplication by a complex number on an Argand diagram.
+1.2.2.4.2 j19 Be able to represent complex roots of unity on an Argand diagram.
+1.2.2.4.3 j20 Be able to apply complex numbers to geometrical problems.
+1.3 Matrices and transformations
+1.3.1 Matrices and transformations (a)
+1.3.1.1 Matrix addition and multiplication
+1.3.1.1.1 Pm1 Be able to add, subtract and multiply conformable matrices, and to multiply a matrix by a scalar.
+1.3.1.1.2 m2 Understand and use the zero and identity matrices, understand what is meant by equal matrices.
+1.3.1.1.3 m3 Know that matrix multiplication is associative but not commutative.
+1.3.1.2 Linear transformations and their associated matrices
+1.3.1.2.1 m4 Be able to find the matrix associated with a linear transformation and vice versa.
+1.3.1.2.2 m5 Understand successive transformations in two dimensions and the connection with matrix multiplication.
+1.3.1.3 Invariance
+1.3.1.3.1 m6 Know the meaning of, and be able to find, invariant points and invariant lines for a linear transformation.
+1.3.1.4 Determinant of a matrix
+1.3.1.4.1 m7 Be able to calculate the determinant of a 2 × 2 matrix and a 3 × 3 matrix.
+1.3.1.4.2 m8 Know that the magnitude of the determinant of a 2 × 2 matrix gives the area scale factor of the associated transformation, and understand the significance of a zero determinant.
+1.3.1.4.3 m9 Know that the magnitude of the determinant of a 3 × 3 matrix gives the volume scale factor of the associated transformation, and understand the significance of a zero determinant.
+1.3.1.4.4 m10 Know that det(MN) = det M × det N and the corresponding result for scale factors of transformations.
+1.3.1.5 Inverses of square matrices
+1.3.1.5.1 m11 Understand what is meant by an inverse matrix.
+1.3.1.5.2 m12 Be able to calculate the inverse of a non-singular 2 × 2 matrix or 3 × 3 matrix.
+1.3.1.5.3 m13 Be able to use the inverse of a non-singular 2 × 2 or 3 × 3 matrix. Relate the inverse matrix to the corresponding inverse transformation.
+1.3.1.5.4 m14 Understand and use the product rule for inverse matrices.
+1.3.2 Matrices and transformations (b)
+1.3.2.1 3 × 3 matrices
+1.3.2.1.1 m15 Be able to find the determinant and inverse of a 3 × 3 matrix without a calculator.
+1.4 Vectors and 3-D space
+1.4.1 Vectors and 3-D space (a)
+1.4.1.1 Scalar products and the equations of planes
+1.4.1.1.1 Pv1 Know how to calculate the scalar product of two vectors, and be able to use the two forms of the scalar product to find the angle between two vectors.
+1.4.1.1.2 v2 Be able to form and use the vector and cartesian equations of a plane. Convert between vector and cartesian forms for the equation of a plane.
+1.4.1.1.3 v3 Know that a vector which is perpendicular to a plane is perpendicular to any vector in the plane.
+1.4.1.2 Intersection of planes
+1.4.1.2.1 v4 Know the different ways in which three distinct planes can be arranged in 3-D space.
+1.4.1.2.2 v5 Be able to solve three linear simultaneous equations in three variables by use of the inverse of the corresponding matrix. Interpret the solution or failure of solution geometrically in terms of the arrangement of three planes.
+1.4.1.2.3 v6 Know that the angle between two planes can be found by considering the angle between their normals.
+1.4.2 Vectors and 3-D space (b)
+1.4.2.1 Vector product
+1.4.2.1.1 Pv7 Be able to use the vector product in component form to give a vector perpendicular to two given vectors.
+1.4.2.1.2 v8 Be able to use the alternative form for the vector product. Know the significance of a × b = 0.
+1.4.2.2 Lines
+1.4.2.2.1 v9 Be able to form and use the equation of a line in 2-D and 3-D.
+1.4.2.2.2 v10 Be able to calculate the angle between two lines.
+1.4.2.2.3 v11 Know the different ways in which two lines can intersect or not in 3-D space.
+1.4.2.2.4 v12 Be able to determine whether two lines in three dimensions are parallel, skew or intersect, and to find the point of intersection if there is one.
+1.4.2.2.5 v13 Be able to find the distance between two parallel lines and the shortest distance between two skew lines.
+1.4.2.3 Points, lines and planes
+1.4.2.3.1 Pv14 Be able to find the intersection of a line and a plane.
+1.4.2.3.2 v15 Be able to calculate the angle between a line and a plane.
+1.4.2.3.3 v16 Be able to find the distance from a point to a line in 2 or 3 dimensions.
+1.4.2.3.4 v17 Be able to find the distance from a point to a plane.
+1.5 Algebra
+1.5.1 Algebra (a)
+1.5.1.1 Relations between roots and coefficients of polynomial equations
+1.5.1.1.1 Pa1 Understand and use the relationships between the roots and coefficients of quadratic, cubic and quartic equations.
+1.5.1.1.2 a2 Be able to form a new equation whose roots are related to the roots of a given equation by a linear transformation.
+1.6 Series
+1.6.1 Series (a)
+1.6.1.1 Summation of series
+1.6.1.1.1 Ps1 Be able to use standard formulae for Σr , Σr2 and Σr3 and the method of differences to sum series.
+1.6.2 Series (b)
+1.6.2.1 Sequences and series
+1.6.2.1.1 Ps2 Be able to sum a simple series using partial fractions.
+1.6.2.2 Maclaurin series
+1.6.2.2.1 s3 Be able to find the Maclaurin series of a function, including the general term.
+1.6.2.2.2 s4 Know that a Maclaurin series may converge only for a restricted set of values of x.
+1.6.2.2.3 s5 Be able to recognise and use the Maclaurin series of standard functions: ex, ln(1+x), sin x, cos x and (1+x)n.
+1.7 Calculus
+1.7.1 Calculus (b)
+1.7.1.1 Improper integrals
+1.7.1.1.1 Pc1 Evaluate improper integrals where either the integrand is undefined at a value in the interval of integration or the interval of integration extends to infinity.
+1.7.1.2 Volumes of revolution
+1.7.1.2.1 c2 Be able to derive formulae for and calculate the volumes of the solids generated by rotating a plane region about the x-axis or the y-axis.
+1.7.1.3 Mean value
+1.7.1.3.1 c3 Understand and evaluate the mean value of a function.
+1.7.1.4 Partial fractions
+1.7.1.4.1 c4 Be able to use the method of partial fractions in integration, including where the denominator has a quadratic factor of form ax2+c and one linear term.
+1.7.1.5 The inverse functions of sine, cosine and tangent
+1.7.1.5.1 c5 Be able to differentiate inverse trigonometric functions.
+1.7.1.6 Use of trigonometric substitutions in integration
+1.7.1.6.1 c6 Recognise integrals of functions of the form (a2-x2)-2 and (a2+x2)-1 and be able to integrate related functions by using trigonometric substitutions.
+1.8 Polar coordinates
+1.8.1 Polar coordinates (b)
+1.8.1.1 Polar coordinates in two dimensions
+1.8.1.1.1 PP1 Understand and use polar coordinates (r,i) and be able to convert from polar to cartesian coordinates and vice-versa.
+1.8.1.1.2 P2 Be able to sketch curves with simple polar equations where r is given as a function of i.
+1.8.1.1.3 P3 Be able to find the area enclosed by a polar curve.
+1.9 Hyperbolic functions
+1.9.1 Hyperbolic functions (b)
+1.9.1.1 Hyperbolic functions
+1.9.1.1.1 Pa3 Understand the definitions of hyperbolic functions, know their domains and ranges and be able to sketch their graphs.
+1.9.1.1.2 a4 Understand and use the identity cosh2x-sinh2x=1.
+1.9.1.1.3 a5 Be able to differentiate and integrate hyperbolic functions.
+1.9.1.2 Inverse hyperbolic functions
+1.9.1.2.1 Pa6 Understand and be able to use the definitions of the inverse hyperbolic functions and know their domains and ranges.
+1.9.1.2.2 a7 Be able to derive and use the logarithmic forms of the inverse hyperbolic functions.
+1.9.1.2.3 a8 Recognise integrals of functions of the form (x2+a2)-2 and (x2-a2)-2 and be able to integrate related functions by using substitutions.
+1.10 Differential equations
+1.10.1 Differential equations (b)
+1.10.1.1 Modelling with differential equations
+1.10.1.1.1 Pp19 Understand how to introduce and define variables to describe a given situation in mathematical terms.
+1.10.1.1.2 p20 Be able to relate 1st and 2nd order derivatives to verbal descriptions and so formulate differential equations.
+1.10.1.1.3 p21 Know the language of kinematics, and the relationships between the various variables.
+1.10.1.1.4 p22 Use differential equations in modelling in kinematics and in other contexts.
+1.10.1.2 Solutions of differential equations
+1.10.1.2.1 Pc7 Know the difference between a general solution and a particular solution. Be able to find both general and particular solutions.
+1.10.1.3 Integrating factor method
+1.10.1.3.1 c8 Recognise differential equations where the integrating factor method is appropriate.
+1.10.1.3.2 c9 Be able to find an integrating factor and understand its significance in the solution of an equation.
+1.10.1.3.3 c10 Be able to solve an equation using an integrating factor and find both general and particular solutions.
+1.10.1.4 Second order differential equations
+1.10.1.4.1 c11 Be able to solve differential equations of the form aym +ayl+by=0, using the auxiliary equation.
+1.10.1.4.2 c12 Understand and use the relationship between different cases of the solution and the nature of the roots of the auxiliary equation.
+1.10.1.4.3 c13 Be able to solve differential equations of the form aym +ayl+by=f(x), by solving the homogeneous case and adding a particular integral to the complimentary function.
+1.10.1.4.4 c14 Be able to find particular integrals in simple cases.
+1.10.1.5 Simple harmonic motion
+1.10.1.5.1 Pc15 Be able to solve the equation for simple harmonic motion, xp =-~2x, and be able to relate the solution to the motion.
+1.10.1.6 Damped oscillations
+1.10.1.6.1 c16 Be able to model damped oscillations using 2nd order differential equations.
+1.10.1.6.2 c17 Be able to interpret the solutions of equations modelling damped oscillations in words and graphically.
+1.10.1.7 Simultaneous differential equations
+1.10.1.7.1 c18 Analyse and interpret model situations with one independent variable and two dependent variables which lead to coupled 1st order simultaneous linear differential equations and find the solution.
+2 Mechanics major (Y421)
+2.1 Dimensional analysis
+2.1.1 DIMENSIONAL ANALYSIS (a)
+2.1.1.1 Dimensional consistency
+2.1.1.1.1 Mq1 Be able to find the dimensions of a quantity in terms of M, L, T.
+2.1.1.1.2 q2 Understand that some quantities are dimensionless.
+2.1.1.1.3 q3 Be able to determine the units of a quantity by reference to its dimensions.
+2.1.1.1.4 q4 Be able to change the units in which a quantity is given.
+2.1.1.1.5 q5 Be able to use dimensional analysis to check the consistency of a relationship.
+2.1.1.2 Formulating and using models by means of dimensional arguments
+2.1.1.2.1 q6 Use dimensional analysis to determine unknown indices in a proposed formula.
+2.1.1.2.2 q7 Use a model based on dimensional analysis.
+2.2 Forces
+2.2.1 FORCES (a)
+2.2.1.1 The language of forces
+2.2.1.1.1 * Understand the language relating to forces.
+2.2.1.2 Friction
+2.2.1.2.1 Md1 † Understand that bodies in contact may be subject to a frictional force as well as a normal contact force (normal reaction), and be able to represent the situation in an appropriate force diagram.
+2.2.1.2.2 d2 † Understand that the total contact force between surfaces may be expressed in terms of a frictional force and a normal contact force (normal reaction).
+2.2.1.2.3 d3 † Understand that the frictional force may be modelled by F #nR and that friction acts in the direction to oppose sliding. Model friction using F=nR when sliding occurs.
+2.2.1.2.4 d4 Be able to derive and use the result that a body on a rough slope inclined at an angle a to the horizontal is on the point of slipping if n=tana.
+2.2.1.2.5 d5 † Be able to apply Newton’s laws to situations involving friction.
+2.2.1.3 Vector treatment of forces
+2.2.1.3.1 d6 † Be able to resolve a force into components and be able to select suitable directions for resolution.
+2.2.1.3.2 d7 † Be able to find the resultant of several concurrent forces by vector addition.
+2.2.1.4 Equilibrium of a particle
+2.2.1.4.1 Md8 † Know that a particle is in equilibrium under a set of concurrent forces if and only if their resultant is zero.
+2.2.1.4.2 d9 † Know that a closed figure may be drawn to represent the addition of the forces on an object in equilibrium.
+2.2.1.4.3 d10 † Be able to formulate and solve equations for equilibrium by resolving forces in suitable directions, or by drawing and using a polygon of forces.
+2.2.1.5 Equilibrium of a rigid body
+2.2.1.5.1 d11 Be able to draw a force diagram for a rigid body.
+2.2.1.5.2 d12 Understand that a system of forces can have a turning effect on a rigid body.
+2.2.1.5.3 d13 Know the meaning of the term couple.
+2.2.1.5.4 d14 Be able to calculate the moments about a fixed axis of forces acting on a body. Be able to calculate the moment of a couple.
+2.2.1.5.5 d15 Understand and be able to apply the conditions for equilibrium of a rigid body.
+2.2.1.5.6 d16 Be able to identify whether equilibrium will be broken by sliding or toppling.
+2.3 Work, energy and power
+2.3.1 WORK, ENERGY AND POWER (a)
+2.3.1.1 The language of work, energy and power
+2.3.1.1.1 Mw1 Understand the language relating to work, energy and power.
+2.3.1.2 Concepts of work and energy
+2.3.1.2.1 w2 Be able to calculate the work done by a force which moves along its line of action.
+2.3.1.2.2 w3 Be able to calculate the work done by a force which moves at an angle to its line of action.
+2.3.1.2.3 w4 Be able to calculate kinetic energy.
+2.3.1.2.4 w5 Be able to calculate gravitational potential energy.
+2.3.1.3 The work-energy principle
+2.3.1.3.1 w6 Understand when the principle of conservation of energy may be applied and be able to use it appropriately.
+2.3.1.3.2 w7 Understand and use the work-energy principle.
+2.3.1.4 Power
+2.3.1.4.1 w8 Understand and use the concept of the power of a force as the rate at which it does work.
+2.4 Momentum and impulse
+2.4.1 MOMENTUM and IMPULSE (a)
+2.4.1.1 Momentum and impulse treated as vectors
+2.4.1.1.1 Mi1 Be able to calculate the impulse of a force as a vector and in component form.
+2.4.1.1.2 i2 Understand and use the concept of linear momentum and appreciate that it is a vector quantity.
+2.4.1.1.3 i3 Understand and use the impulse-momentum equation.
+2.4.1.2 Conservation of linear momentum
+2.4.1.2.1 i4 Understand and use the principle that a system subject to no external force has constant total linear momentum and that this result may be applied in any direction.
+2.4.1.3 Direct impact
+2.4.1.3.1 i5 Understand the term direct impact and the assumptions made when modelling direct impact collisions.
+2.4.1.3.2 i6 Be able to apply the principle of conservation of linear momentum to direct impacts within a system of bodies.
+2.4.1.3.3 i7 Know the meanings of Newton’s Experimental Law and of coefficient of restitution when applied to a direct impact.
+2.4.1.3.4 i8 Understand the significance of e=0.
+2.4.1.3.5 i9 Be able to apply Newton’s Experimental Law in modelling direct impacts.
+2.4.1.3.6 i10 Be able to model situations involving direct impact using both conservation of linear momentum and Newton’s Experimental Law.
+2.4.1.3.7 i11 Understand the significance of e=1.
+2.4.1.3.8 i12 Understand that when e<1 kinetic energy is not conserved during impacts and be able to find the loss of kinetic energy.
+2.4.2 MOMENTUM AND IMPULSE (b)
+2.4.2.1 Oblique impact
+2.4.2.1.1 Mi13 Understand the term oblique impact and the assumptions made when modelling oblique impact collisions.
+2.4.2.1.2 i14 Know the meanings of Newton’s Experimental Law and of coefficient of restitution when applied to an oblique impact.
+2.4.2.1.3 i15 Be able to model situations involving oblique impact between an object and a smooth plane by considering the components of its motion parallel and perpendicular to the line of the impulse.
+2.4.2.1.4 i16 Be able to model situations involving oblique impact between two bodies by considering the components of their motion in directions parallel and perpendicular to the line of the impulse.
+2.4.2.1.5 i17 Be able to calculate the loss of kinetic energy in an oblique impact.
+2.5 Circular motion
+2.5.1 CIRCULAR MOTION (b)
+2.5.1.1 The language of circular motion
+2.5.1.1.1 Mr1 Understand the language associated with circular motion.
+2.5.1.2 Modelling circular motion
+2.5.1.2.1 r2 Identify the force(s) acting on a body in circular motion.
+2.5.1.2.2 r3 Be able to calculate acceleration towards the centre of circular motion.
+2.5.1.3 Circular motion with uniform speed
+2.5.1.3.1 r4 Be able to model situations involving circular motion with uniform speed in a horizontal plane.
+2.5.1.4 Circular motion with non-uniform speed
+2.5.1.4.1 r5 Be able to model situations involving circular motion with non-uniform speed.
+2.5.1.4.2 r6 Be able to calculate tangential acceleration.
+2.5.1.5 Motion in a vertical circle
+2.5.1.5.1 r7 Be able to model situations involving motion in a vertical circle.
+2.5.1.5.2 r8 Identify the conditions under which a particle departs from circular motion.
+2.6 Hooke’s Law
+2.6.1 HOOKE’S LAW (b)
+2.6.1.1 The language of elasticity
+2.6.1.1.1 Mh1 Understand the language associated with elasticity.
+2.6.1.2 Extension of an elastic string and compression of a spring
+2.6.1.2.1 h2 Understand that Hooke’s law models the extension/compression of a material as a linear function of tension/thrust.
+2.6.1.2.2 h3 Be able to calculate the stiffness or modulus of elasticity in a given situation.
+2.6.1.2.3 h4 Be able to calculate the tension in an elastic string or spring.
+2.6.1.2.4 h5 Be able to calculate the equilibrium position of a system involving elastic strings or springs.
+2.6.1.2.5 h6 Be able to calculate energy stored in a string or spring.
+2.6.1.2.6 h7 Be able to use energy principles to model a system involving elastic strings or springs including determining extreme positions.
+2.6.1.2.7 h8 Understand when Hooke’s law is not applicable.
+2.7 Centre of mass
+2.7.1 CENTRE OF MASS (a)
+2.7.1.1 Locating a centre of mass
+2.7.1.1.1 MG1 Be able to find the centre of mass of a system of particles of given position and mass.
+2.7.1.1.2 G2 Know how to locate centre of mass by appeal to symmetry.
+2.7.1.1.3 G3 Know the positions of the centres of mass of a uniform rod, a rectangular lamina and a triangular lamina.
+2.7.1.1.4 G4 Be able to find the centre of mass of a composite body by considering each constituent part as a particle at its centre of mass.
+2.7.1.2 Applications of the centre of mass
+2.7.1.2.1 G5 Be able to use the position of the centre of mass in situations involving the equilibrium of a rigid body.
+2.7.2 CENTRE OF MASS (b)
+2.7.2.1 Use of calculus to find centre of mass
+2.7.2.1.1 MG6 † Be able to calculate the volume generated by rotating a plane region about an axis.
+2.7.2.1.2 G7 Be able to use calculus methods to calculate the centre of mass of solid bodies formed by rotating a plane region about an axis.
+2.7.2.1.3 G8 Be able to find the centre of mass of a compound body, parts of which are solids of revolution.
+2.7.2.1.4 G9 Be able to use calculus methods to calculate the centre of mass of a plane lamina.
+2.7.2.1.5 G10 Be able to use the position of the centre of mass in situations involving the equilibrium of a rigid body.
+2.8 Vectors and variable forces
+2.8.1 VECTORS AND VARIABLE FORCES (b)
+2.8.1.1 The language of kinematics
+2.8.1.1.1 Mk1 † Understand the language of kinematics appropriate to motion in 2 and 3 dimensions.
+2.8.1.2 Velocity and position vector
+2.8.1.2.1 k2 † Be able to extend the scope of techniques from motion in 1 dimension to that in 2 and 3 dimensions by using vectors.
+2.8.1.3 Acceleration, velocity and position vector
+2.8.1.3.1 Mv1 Be able to find the acceleration, velocity and position vector of a particle subject to a constant or variable force in 1, 2 and 3 dimensions.
+2.8.1.3.2 v2 Be able to use the acceleration, velocity and position vector of a particle to model situations in 1, 2 and 3 dimensions.
+2.8.1.4 The equation of the path of a particle in 2D
+2.8.1.4.1 Mv3 Be able to eliminate a parameter from the expressions for the position vector of a particle, thereby forming a single equation.
+2.8.1.4.2 v4 Be able to interpret the equation resulting from the elimination of a parameter from the terms of a position vector.
+2.8.1.4.3 v5 Derive the cartesian equation of the path of a particle in 2 dimensions from an expression for its position vector.
+2.8.1.4.4 v6 Be able to find the range of a projectile up or down a uniform slope.
+2.8.1.4.5 v7 Be able to find the maximum range of a projectile up or down a uniform slope, and the associated angle of projection.
+2.8.1.5 Differential equations
+2.8.1.5.1 Mv8 Be able to formulate differential equations for motion under variable acceleration in 1 and 2 dimensions.
+2.8.1.5.2 v9 Be able to verify a general or particular solution of a differential equation for motion under variable acceleration.
+2.8.1.5.3 v10 Be able to use the boundary or initial conditions to produce a particular solution from a general solution.
+2.8.1.5.4 v11 Be able to recognise and formulate the simple harmonic motion equation expressed in non-standard forms and to transform it into the standard form by means of substitution.
+2.8.1.5.5 v12 Be able to solve the equation for simple harmonic motion, xp =-~2x, and be able to relate the solution to the context.
+3 Statistics major (Y422)
+3.1 Sampling
+3.1.1 SAMPLING (a)
+3.1.1.1 Sampling
+3.1.1.1.1 Sx1 Be able to explain the importance of sample size in experimental design.
+3.1.1.1.2 x2 Be able to explain why sampling may be necessary in order to obtain information about a population, and give desirable features of a sample.
+3.1.1.1.3 x3 Be able to explain the advantage of using a random sample when inferring properties of a population.
+3.2 Discrete random variables
+3.2.1 DISCRETE RANDOM VARIABLES (a)
+3.2.1.1 Probability distributions
+3.2.1.1.1 SR1 Be able to use probability functions, given algebraically or in tables. Be able to calculate the numerical probabilities for a distribution. Be able to draw and interpret graphs representing probability distributions.
+3.2.1.2 Expectation
+3.2.1.2.1 R2 Be able to calculate the expectation (mean), E(X), and understand its meaning.
+3.2.1.2.2 R3 Be able to calculate the variance, Var(X), and understand its meaning.
+3.2.1.2.3 R4 Be able to use the result E(a+bX) =a+b E(X) and understand its meaning.
+3.2.1.2.4 R5 Be able to use the result Var(a+bX) =b2Var(X) and understand its meaning.
+3.2.1.3 Expectation and variance
+3.2.1.3.1 SR6 Be able to find the expectation of any linear combination of independent random variables and the variance of any linear combination of independent random variables.
+3.2.1.4 The discrete uniform distribution
+3.2.1.4.1 R7 Recognise situations under which the discrete uniform distribution is likely to be an appropriate model.
+3.2.1.4.2 R8 Be able to calculate probabilities using a discrete uniform distribution.
+3.2.1.4.3 R9 Be able to calculate the mean and variance of any given discrete uniform distribution.
+3.2.1.5 The binomial distribution
+3.2.1.5.1 R10 Recognise situations under which the binomial distribution is likely to be an appropriate model, and be able to calculate probabilities to use the model.
+3.2.1.6 The Poisson distribution
+3.2.1.6.1 SR11 Recognise situations under which the Poisson distribution is likely to be an appropriate model.
+3.2.1.6.2 R12 Recognise situations in which both the Poisson distribution and the binomial distribution might be appropriate models.
+3.2.1.6.3 R13 Be able to calculate probabilities using a Poisson distribution.
+3.2.1.6.4 R14 Know and be able to use the mean and variance of a Poisson distribution.
+3.2.1.6.5 R15 Know that the sum of two or more independent Poisson distributions is also a Poisson distribution.
+3.2.1.7 The geometric distribution
+3.2.1.7.1 SR16 Recognise situations under which the geometric distribution is likely to be an appropriate model.
+3.2.1.7.2 R17 Be able to calculate the probabilities within a geometric distribution, including cumulative probabilities.
+3.2.1.7.3 R18 Be able to use the mean and variance of a geometric distribution.
+3.3 Bivariate data
+3.3.1 BIVARIATE DATA (a)
+3.3.1.1 Scatter diagrams
+3.3.1.1.1 Sb1 Understand what bivariate data are and know the conventions for choice of axis for variables in a scatter diagram.
+3.3.1.1.2 b2 Be able to use and interpret a scatter diagram.
+3.3.1.1.3 b3 Interpret a scatter diagram produced by software.
+3.3.1.2 Pearson’s product moment correlation coefficient (pmcc)
+3.3.1.2.1 b4 Be able to calculate the pmcc from raw data or summary statistics.
+3.3.1.2.2 b5 Know when it is appropriate to carry out a hypothesis test using Pearson’s product moment correlation coefficient.
+3.3.1.2.3 b6 Be able to carry out hypothesis tests using the pmcc and tables of critical values or the p-value from software.
+3.3.1.2.4 b7 Use the pmcc as an effect size.
+3.3.1.3 Spearman’s rank correlation coefficient
+3.3.1.3.1 Sb8 Be able to calculate Spearman’s rank correlation coefficient from raw data or summary statistics.
+3.3.1.3.2 b9 Be able to carry out hypothesis tests using Spearman’s rank correlation coefficient and tables of critical values or the output from software.
+3.3.1.4 Comparison of tests
+3.3.1.4.1 b10 Decide whether a test based on r or rs may be more appropriate, or whether neither is appropriate.
+3.3.1.5 Regression line for a random variable on a non-random variable
+3.3.1.5.1 Sb11 Be able to calculate the equation of the least squares regression line using raw data or summary statistics.
+3.3.1.5.2 b12 Be able to use the regression line as a model to estimate values and know when it is appropriate to do so.
+3.3.1.5.3 b13 Be able to calculate the equation of the two least squares regression lines, y on x and x on y, using raw data or summary statistics.
+3.3.1.5.4 b14 Check how well the model fits the data.
+3.3.1.5.5 b15 Know the relationship between the two regression lines and when to use one rather than the other.
+3.4 Chi-squared tests
+3.4.1 CHI-SQUARED TESTS (a)
+3.4.1.1 Contingency tables
+3.4.1.1.1 Sb16 Be able to interpret bivariate categorical data in a contingency table.
+3.4.1.2 |2 test for a contingency table
+3.4.1.2.1 SH1 Be able to apply the |2 test (chi-squared) to a contingency table.
+3.4.1.2.2 H2 Be able to interpret the results of a |2 test using tables of critical values or the output from software.
+3.4.1.3 |2 test for goodness of fit
+3.4.1.3.1 H3 Be able to carry out a |2 test for goodness of fit of a uniform, binomial or Poisson model.
+3.4.1.3.2 H4 Be able to interpret the results of a |2 test using tables of critical values or the output from software.
+3.5 Continuous random variables
+3.5.1 CONTINUOUS RANDOM VARIABLES (b)
+3.5.1.1 The probability density function (pdf) of a continuous random variable
+3.5.1.1.1 SR19 Be able to use a simple continuous random variable as a model.
+3.5.1.1.2 R20 Understand the meaning of a pdf and be able to use one to find probabilities.
+3.5.1.1.3 R21 Know and use the properties of a pdf.
+3.5.1.2 Expectation
+3.5.1.2.1 SR22 Be able to find the mean and variance from a given pdf.
+3.5.1.2.2 R23 Be able to find the mode and median from a given pdf.
+3.5.1.3 The cumulative distribution function (cdf)
+3.5.1.3.1 R24 Understand the meaning of a cdf and be able to obtain one from a given pdf.
+3.5.1.3.2 R25 Be able to obtain a pdf from a given cdf.
+3.5.1.3.3 R26 Use a cdf to calculate the median and other percentiles.
+3.5.1.4 Expectation algebra
+3.5.1.4.1 R27 Be able to find the mean of any linear combination of random variables and the variance of any linear combination of independent random variables.
+3.5.1.5 The Normal distribution
+3.5.1.5.1 SR28 †Be able to use the Normal distribution as a model, and to calculate and use probabilities from a Normal distribution.
+3.5.1.5.2 R29 Be able to use linear combinations of independent Normal random variables in solving problems.
+3.5.1.5.3 R30 Know that the Normal distribution is useful as a model in its own right, and as an approximating distribution in the context of the Central Limit Theorem (CLT).
+3.5.1.5.4 R31 Interpret a Normal probability plot to decide whether a Normal model might be appropriate. Interpret software output, including p-value, from the Kolmogorov-Smirnov test, to decide whether a Normal model might be appropriate.
+3.5.1.5.5 R32 Be able to use the Normal distribution, when appropriate, in the construction of confidence intervals.
+3.6 Inference
+3.6.1 INFERENCE (b)
+3.6.1.1 Distribution of sample mean and the Central Limit Theorem
+3.6.1.1.1 SI1 Be able to estimate population mean from sample data.
+3.6.1.1.2 I2 Be able to estimate population variance using the sample variance.
+3.6.1.1.3 I3 Understand that the sample mean is a random variable with a probability distribution.
+3.6.1.1.4 I4 Be able to calculate and interpret the standard error of the mean.
+3.6.1.1.5 I5 Know that if the underlying distribution is Normal then the sample mean is Normally distributed.
+3.6.1.1.6 I6 Understand how and when the Central Limit Theorem may be applied to the distribution of sample means. Use this result in probability calculations, using a continuity correction where appropriate.
+3.6.1.2 Confidence intervals using the Normal and t distributions
+3.6.1.2.1 SI7 Know the meaning of the term confidence interval for a parameter and associated language.
+3.6.1.2.2 I8 Understand the factors which affect the width of a confidence interval.
+3.6.1.2.3 I9 Be able to construct and interpret a confidence interval for a single population mean using the Normal or t distributions and know when it is appropriate to do so.
+3.6.1.2.4 I10 Know when samples from two populations should be considered as paired.
+3.6.1.2.5 I11 Be able to construct and interpret a confidence interval for the difference in mean of two paired populations using a paired sample and a Normal or t distribution; know when it is appropriate to do so.
+3.6.1.2.6 I12 Interpret confidence intervals given by software.
+3.6.1.2.7 I13 Use a confidence interval for a population parameter to make a decision about a hypothesised value of that parameter.
+3.6.1.3 Hypothesis testing for an average using Wilcoxon, Normal or t tests
+3.6.1.3.1 SH5 Be able to carry out a hypothesis test for a single population median using the Wilcoxon signed rank test and know when it is appropriate to do so.
+3.6.1.3.2 H6 Be able to carry out a hypothesis test for a single population mean using the Normal or t distributions and know when it is appropriate to do so.
+3.7 Simulation
+3.7.1 SIMULATION (b)
+3.7.1.1 Simulation of random variables
+3.7.1.1.1 SZ1 Know that spreadsheets can be used to simulate probability distributions, and be able to do so for discrete and continuous uniform distributions and Normal distributions.
+3.7.1.1.2 Z2 Know that simulations can be used to approximate probability distributions and to estimate probabilities, including in situations where the theory may be technically difficult. Be able to interpret output from spreadsheets investigating such situations.
+4 Mechanics minor (Y431)
+4.1 Dimensional analysis
+4.1.1 DIMENSIONAL ANALYSIS (a)
+4.1.1.1 Dimensional consistency
+4.1.1.1.1 Mq1 Be able to find the dimensions of a quantity in terms of M, L, T.
+4.1.1.1.2 q2 Understand that some quantities are dimensionless.
+4.1.1.1.3 q3 Be able to determine the units of a quantity by reference to its dimensions.
+4.1.1.1.4 q4 Be able to change the units in which a quantity is given.
+4.1.1.1.5 q5 Be able to use dimensional analysis to check the consistency of a relationship.
+4.1.1.2 Formulating and using models by means of dimensional arguments
+4.1.1.2.1 q6 Use dimensional analysis to determine unknown indices in a proposed formula.
+4.1.1.2.2 q7 Use a model based on dimensional analysis.
+4.2 Forces
+4.2.1 FORCES (a)
+4.2.1.1 The language of forces
+4.2.1.1.1 * Understand the language relating to forces.
+4.2.1.2 Friction
+4.2.1.2.1 Md1 † Understand that bodies in contact may be subject to a frictional force as well as a normal contact force (normal reaction), and be able to represent the situation in an appropriate force diagram.
+4.2.1.2.2 d2 † Understand that the total contact force between surfaces may be expressed in terms of a frictional force and a normal contact force (normal reaction).
+4.2.1.2.3 d3 † Understand that the frictional force may be modelled by F #nR and that friction acts in the direction to oppose sliding. Model friction using F=nR when sliding occurs.
+4.2.1.2.4 d4 Be able to derive and use the result that a body on a rough slope inclined at an angle a to the horizontal is on the point of slipping if n=tana.
+4.2.1.2.5 d5 † Be able to apply Newton’s laws to situations involving friction.
+4.2.1.3 Vector treatment of forces
+4.2.1.3.1 d6 † Be able to resolve a force into components and be able to select suitable directions for resolution.
+4.2.1.3.2 d7 † Be able to find the resultant of several concurrent forces by vector addition.
+4.2.1.4 Equilibrium of a particle
+4.2.1.4.1 Md8 † Know that a particle is in equilibrium under a set of concurrent forces if and only if their resultant is zero.
+4.2.1.4.2 d9 † Know that a closed figure may be drawn to represent the addition of the forces on an object in equilibrium.
+4.2.1.4.3 d10 † Be able to formulate and solve equations for equilibrium by resolving forces in suitable directions, or by drawing and using a polygon of forces.
+4.2.1.5 Equilibrium of a rigid body
+4.2.1.5.1 d11 Be able to draw a force diagram for a rigid body.
+4.2.1.5.2 d12 Understand that a system of forces can have a turning effect on a rigid body.
+4.2.1.5.3 d13 Know the meaning of the term couple.
+4.2.1.5.4 d14 Be able to calculate the moments about a fixed axis of forces acting on a body. Be able to calculate the moment of a couple.
+4.2.1.5.5 d15 Understand and be able to apply the conditions for equilibrium of a rigid body.
+4.2.1.5.6 d16 Be able to identify whether equilibrium will be broken by sliding or toppling.
+4.3 Work, energy and power
+4.3.1 WORK, ENERGY AND POWER (a)
+4.3.1.1 The language of work, energy and power
+4.3.1.1.1 Mw1 Understand the language relating to work, energy and power.
+4.3.1.2 Concepts of work and energy
+4.3.1.2.1 w2 Be able to calculate the work done by a force which moves along its line of action.
+4.3.1.2.2 w3 Be able to calculate the work done by a force which moves at an angle to its line of action.
+4.3.1.2.3 w4 Be able to calculate kinetic energy.
+4.3.1.2.4 w5 Be able to calculate gravitational potential energy.
+4.3.1.3 The work-energy principle
+4.3.1.3.1 w6 Understand when the principle of conservation of energy may be applied and be able to use it appropriately.
+4.3.1.3.2 w7 Understand and use the work-energy principle.
+4.3.1.4 Power
+4.3.1.4.1 w8 Understand and use the concept of the power of a force as the rate at which it does work.
+4.4 Momentum and impulse
+4.4.1 MOMENTUM and IMPULSE (a)
+4.4.1.1 Momentum and impulse treated as vectors
+4.4.1.1.1 Mi1 Be able to calculate the impulse of a force as a vector and in component form.
+4.4.1.1.2 i2 Understand and use the concept of linear momentum and appreciate that it is a vector quantity.
+4.4.1.1.3 i3 Understand and use the impulse-momentum equation.
+4.4.1.2 Conservation of linear momentum
+4.4.1.2.1 i4 Understand and use the principle that a system subject to no external force has constant total linear momentum and that this result may be applied in any direction.
+4.4.1.3 Direct impact
+4.4.1.3.1 i5 Understand the term direct impact and the assumptions made when modelling direct impact collisions.
+4.4.1.3.2 i6 Be able to apply the principle of conservation of linear momentum to direct impacts within a system of bodies.
+4.4.1.3.3 i7 Know the meanings of Newton’s Experimental Law and of coefficient of restitution when applied to a direct impact.
+4.4.1.3.4 i8 Understand the significance of e=0.
+4.4.1.3.5 i9 Be able to apply Newton’s Experimental Law in modelling direct impacts.
+4.4.1.3.6 i10 Be able to model situations involving direct impact using both conservation of linear momentum and Newton’s Experimental Law.
+4.4.1.3.7 i11 Understand the significance of e=1.
+4.4.1.3.8 i12 Understand that when e<1 kinetic energy is not conserved during impacts and be able to find the loss of kinetic energy.
+4.5 Centre of mass
+4.5.1 CENTRE OF MASS (a)
+4.5.1.1 Locating a centre of mass
+4.5.1.1.1 MG1 Be able to find the centre of mass of a system of particles of given position and mass.
+4.5.1.1.2 G2 Know how to locate centre of mass by appeal to symmetry.
+4.5.1.1.3 G3 Know the positions of the centres of mass of a uniform rod, a rectangular lamina and a triangular lamina.
+4.5.1.1.4 G4 Be able to find the centre of mass of a composite body by considering each constituent part as a particle at its centre of mass.
+4.5.1.2 Applications of the centre of mass
+4.5.1.2.1 G5 Be able to use the position of the centre of mass in situations involving the equilibrium of a rigid body.
+5 Statistics minor (Y432)
+5.1 Sampling
+5.1.1 SAMPLING (a)
+5.1.1.1 Sampling
+5.1.1.1.1 Sx1 Be able to explain the importance of sample size in experimental design.
+5.1.1.1.2 x2 Be able to explain why sampling may be necessary in order to obtain information about a population, and give desirable features of a sample.
+5.1.1.1.3 x3 Be able to explain the advantage of using a random sample when inferring properties of a population.
+5.2 Discrete random variables
+5.2.1 DISCRETE RANDOM VARIABLES (a)
+5.2.1.1 Probability distributions
+5.2.1.1.1 SR1 Be able to use probability functions, given algebraically or in tables. Be able to calculate the numerical probabilities for a distribution. Be able to draw and interpret graphs representing probability distributions.
+5.2.1.2 Expectation
+5.2.1.2.1 R2 Be able to calculate the expectation (mean), E(X), and understand its meaning.
+5.2.1.2.2 R3 Be able to calculate the variance, Var(X), and understand its meaning.
+5.2.1.2.3 R4 Be able to use the result E(a+bX) =a+b E(X) and understand its meaning.
+5.2.1.2.4 R5 Be able to use the result Var(a+bX) =b2Var(X) and understand its meaning.
+5.2.1.3 Expectation and variance
+5.2.1.3.1 SR6 Be able to find the expectation of any linear combination of independent random variables and the variance of any linear combination of independent random variables.
+5.2.1.4 The discrete uniform distribution
+5.2.1.4.1 R7 Recognise situations under which the discrete uniform distribution is likely to be an appropriate model.
+5.2.1.4.2 R8 Be able to calculate probabilities using a discrete uniform distribution.
+5.2.1.4.3 R9 Be able to calculate the mean and variance of any given discrete uniform distribution.
+5.2.1.5 The binomial distribution
+5.2.1.5.1 R10 Recognise situations under which the binomial distribution is likely to be an appropriate model, and be able to calculate probabilities to use the model.
+5.2.1.6 The Poisson distribution
+5.2.1.6.1 SR11 Recognise situations under which the Poisson distribution is likely to be an appropriate model.
+5.2.1.6.2 R12 Recognise situations in which both the Poisson distribution and the binomial distribution might be appropriate models.
+5.2.1.6.3 R13 Be able to calculate probabilities using a Poisson distribution.
+5.2.1.6.4 R14 Know and be able to use the mean and variance of a Poisson distribution.
+5.2.1.6.5 R15 Know that the sum of two or more independent Poisson distributions is also a Poisson distribution.
+5.2.1.7 The geometric distribution
+5.2.1.7.1 SR16 Recognise situations under which the geometric distribution is likely to be an appropriate model.
+5.2.1.7.2 R17 Be able to calculate the probabilities within a geometric distribution, including cumulative probabilities.
+5.2.1.7.3 R18 Be able to use the mean and variance of a geometric distribution.
+5.3 Bivariate data
+5.3.1 BIVARIATE DATA (a)
+5.3.1.1 Scatter diagrams
+5.3.1.1.1 Sb1 Understand what bivariate data are and know the conventions for choice of axis for variables in a scatter diagram.
+5.3.1.1.2 b2 Be able to use and interpret a scatter diagram.
+5.3.1.1.3 b3 Interpret a scatter diagram produced by software.
+5.3.1.2 Pearson’s product moment correlation coefficient (pmcc)
+5.3.1.2.1 b4 Be able to calculate the pmcc from raw data or summary statistics.
+5.3.1.2.2 b5 Know when it is appropriate to carry out a hypothesis test using Pearson’s product moment correlation coefficient.
+5.3.1.2.3 b6 Be able to carry out hypothesis tests using the pmcc and tables of critical values or the p-value from software.
+5.3.1.2.4 b7 Use the pmcc as an effect size.
+5.3.1.3 Spearman’s rank correlation coefficient
+5.3.1.3.1 Sb8 Be able to calculate Spearman’s rank correlation coefficient from raw data or summary statistics.
+5.3.1.3.2 b9 Be able to carry out hypothesis tests using Spearman’s rank correlation coefficient and tables of critical values or the output from software.
+5.3.1.4 Comparison of tests
+5.3.1.4.1 b10 Decide whether a test based on r or rs may be more appropriate, or whether neither is appropriate.
+5.3.1.5 Regression line for a random variable on a non-random variable
+5.3.1.5.1 Sb11 Be able to calculate the equation of the least squares regression line using raw data or summary statistics.
+5.3.1.5.2 b12 Be able to use the regression line as a model to estimate values and know when it is appropriate to do so.
+5.3.1.5.3 b13 Be able to calculate the equation of the two least squares regression lines, y on x and x on y, using raw data or summary statistics.
+5.3.1.5.4 b14 Check how well the model fits the data.
+5.3.1.5.5 b15 Know the relationship between the two regression lines and when to use one rather than the other.
+5.4 Chi-squared tests
+5.4.1 CHI-SQUARED TESTS (a)
+5.4.1.1 Contingency tables
+5.4.1.1.1 Sb16 Be able to interpret bivariate categorical data in a contingency table.
+5.4.1.2 |2 test for a contingency table
+5.4.1.2.1 SH1 Be able to apply the |2 test (chi-squared) to a contingency table.
+5.4.1.2.2 H2 Be able to interpret the results of a |2 test using tables of critical values or the output from software.
+5.4.1.3 |2 test for goodness of fit
+5.4.1.3.1 H3 Be able to carry out a |2 test for goodness of fit of a uniform, binomial or Poisson model.
+5.4.1.3.2 H4 Be able to interpret the results of a |2 test using tables of critical values or the output from software.
+6 Modelling with algorithms (Y433)
+7 Numerical methods (Y434)
+8 Extra pure (Y435)
+9 Further pure with technology (Y436)

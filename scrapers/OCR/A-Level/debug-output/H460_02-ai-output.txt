@@ -1,0 +1,30 @@
+Based on the provided text, here is the extracted hierarchy for the OCR Economics specification section for Component 2: Macroeconomics:
+
+1. Macroeconomics
+   1.1 Aggregate demand and aggregate supply
+      1.1.1 Students should be able to:
+         1.1.1.1 Understand the components of aggregate demand
+         1.1.1.2 Analyze the factors affecting aggregate supply
+         1.1.1.3 Evaluate the impact of changes in aggregate demand and supply on the economy
+   1.2 Economic policy objectives
+      1.2.1 Students should be able to:
+         1.2.1.1 Identify the main economic policy objectives
+         1.2.1.2 Discuss the trade-offs between different policy objectives
+         1.2.1.3 Evaluate the effectiveness of different policy measures
+   1.3 Implementing policy
+      1.3.1 Students should be able to:
+         1.3.1.1 Understand the role of fiscal policy in managing the economy
+         1.3.1.2 Analyze the use of monetary policy tools
+         1.3.1.3 Evaluate the impact of supply-side policies
+   1.4 The global context
+      1.4.1 Students should be able to:
+         1.4.1.1 Understand the importance of international trade
+         1.4.1.2 Analyze the impact of globalization on economies
+         1.4.1.3 Evaluate the role of international organizations in the global economy
+   1.5 The financial sector
+      1.5.1 Students should be able to:
+         1.5.1.1 Understand the functions of the financial sector
+         1.5.1.2 Analyze the impact of financial markets on the economy
+         1.5.1.3 Evaluate the role of central banks in the financial system
+
+This hierarchy follows the structure outlined in the instructions, focusing on the main topic areas and the specific learning outcomes for students.

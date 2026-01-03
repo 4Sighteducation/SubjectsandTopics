@@ -1,0 +1,77 @@
+{
+  "subject_code": "J247",
+  "subject_name": "Biology A",
+  "url": "https://www.ocr.org.uk/Images/234594-specification-accredited-gcse-gateway-science-suite-biology-a-j247.pdf",
+  "start_time": "2025-11-20T13:25:47.649443",
+  "success": true,
+  "topics_extracted": 70,
+  "levels": {
+    "0": 2,
+    "1": 4,
+    "2": 18,
+    "3": 46
+  },
+  "issues": [
+    "Options not extracted",
+    "Potential missing topics"
+  ],
+  "warnings": [
+    "Check for missing texts",
+    "Verify logical organization"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": true,
+      "foundation_content": "Content is split into six teaching topics B1-B6 and a practical activity skills topic B7. Paper 1 assesses content from Topics B1–B3 and B7. Paper 2 assesses content from Topics B4–B6 and B7, with assumed knowledge of Topics B1–B3.",
+      "higher_content": "Content is split into six teaching topics B1-B6 and a practical activity skills topic B7. Paper 3 assesses content from Topics B1–B3 and B7. Paper 4 assesses content from Topics B4–B6 and B7, with assumed knowledge of Topics B1–B3.",
+      "differences": [
+        "Statements shown in bold type will only be tested in the Higher Tier papers. All other statements will be assessed in both Foundation and Higher Tier papers."
+      ]
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "topic-based",
+    "content_overview": {
+      "main_sections": [
+        "Topic B1: Cell level systems",
+        "Topic B2: Scaling up",
+        "Topic B3: Organism level systems",
+        "Topic B4: Community level systems",
+        "Topic B5: Genes, inheritance and selection",
+        "Topic B6: Global challenges",
+        "Topic B7: Practical skills"
+      ],
+      "organization": "Content is divided into topics B1-B6 and a practical skills topic B7, with each topic further divided into sub-topics.",
+      "expected_depth": 3
+    },
+    "assessment": {
+      "written_papers": [
+        "Paper 1: Topics B1–B3 and B7",
+        "Paper 2: Topics B4–B6 and B7",
+        "Paper 3: Topics B1–B3 and B7",
+        "Paper 4: Topics B4–B6 and B7"
+      ],
+      "content_mapping": {
+        "Paper 1": "Topics B1–B3 and B7",
+        "Paper 2": "Topics B4–B6 and B7",
+        "Paper 3": "Topics B1–B3 and B7",
+        "Paper 4": "Topics B4–B6 and B7"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting topic-based content and assessment structure, ensuring to capture tier differences and cross-component content.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T13:25:47.649454"
+}

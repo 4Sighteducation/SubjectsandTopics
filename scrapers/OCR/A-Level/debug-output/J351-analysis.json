@@ -1,0 +1,36 @@
+```json
+{
+    "tiers": {
+        "has_tiers": false,
+        "foundation_content": "",
+        "higher_content": "",
+        "differences": []
+    },
+    "options": {
+        "has_options": false,
+        "compulsory": ["Communicating information and ideas (component 01)", "Exploring effects and impact (component 02)"],
+        "optional": []
+    },
+    "texts": {
+        "has_texts": false,
+        "text_locations": [],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+        "main_sections": ["Communicating information and ideas", "Exploring effects and impact", "Spoken language"],
+        "organization": "The content is organized into components with sections focusing on reading and writing skills.",
+        "expected_depth": 3
+    },
+    "assessment": {
+        "written_papers": ["Communicating information and ideas (component 01)", "Exploring effects and impact (component 02)"],
+        "content_mapping": {
+            "Communicating information and ideas (component 01)": "Reading and writing non-fiction texts",
+            "Exploring effects and impact (component 02)": "Reading literary prose texts and creative writing"
+        },
+        "cross_component": false
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting the structure of components and their sections, ensuring to capture the reading and writing focus of each component."
+}
+```

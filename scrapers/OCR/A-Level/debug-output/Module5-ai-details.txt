@@ -1,0 +1,125 @@
+1. Thermal Physics
+1.1 Temperature
+1.1.1 Thermal equilibrium
+1.1.2 Absolute temperature scale
+1.1.3 Temperature measurements in Celsius and Kelvin
+1.1.4 Temperature conversion formula
+
+1.2 States of Matter
+1.2.1 Atomic structure and motion in solids, liquids, and gases
+1.2.2 Kinetic model of matter
+1.2.3 Brownian motion
+1.2.4 Internal energy
+1.2.5 Absolute zero
+1.2.6 Temperature and internal energy relationship
+1.2.7 Internal energy during phase changes
+
+1.3 Thermal Properties of Materials
+1.3.1 Specific heat capacity
+1.3.2 Experimental methods to determine specific heat capacity
+1.3.3 Specific latent heat of fusion and vaporisation
+1.3.4 Experimental methods to determine specific latent heat
+
+1.4 Ideal Gases
+1.4.1 Amount of substance and Avogadro constant
+1.4.2 Kinetic theory of gases assumptions
+1.4.3 Pressure in kinetic theory
+1.4.4 Ideal gas equation of state
+1.4.5 Boyle's law and gas investigations
+1.4.6 Root mean square speed
+1.4.7 Boltzmann constant
+1.4.8 Internal energy of an ideal gas
+
+2. Circular Motion
+2.1 Kinematics of Circular Motion
+2.1.1 Radian measurement
+2.1.2 Period and frequency
+2.1.3 Angular velocity
+
+2.2 Centripetal Force
+2.2.1 Force causing circular motion
+2.2.2 Constant speed in a circle
+2.2.3 Centripetal acceleration
+2.2.4 Centripetal force calculations
+2.2.5 Experimental investigation of circular motion
+
+3. Oscillations
+3.1 Simple Harmonic Motion
+3.1.1 Motion parameters
+3.1.2 Angular frequency
+3.1.3 Simple harmonic motion equation
+3.1.4 Displacement and velocity solutions
+3.1.5 Velocity characteristics
+3.1.6 Isochronous oscillator
+3.1.7 Graphical analysis of motion
+
+3.2 Energy in Simple Harmonic Oscillator
+3.2.1 Energy interchange
+3.2.2 Energy-displacement graphs
+
+3.3 Damping
+3.3.1 Free and forced oscillations
+3.3.2 Damping effects
+3.3.3 Resonance
+3.3.4 Amplitude-frequency graphs
+3.3.5 Practical examples of oscillations
+
+4. Gravitational Fields
+4.1 Point and Spherical Masses
+4.1.1 Gravitational field origin
+4.1.2 Point mass modeling
+4.1.3 Gravitational field lines
+4.1.4 Gravitational field strength
+
+4.2 Newton's Law of Gravitation
+4.2.1 Force between point masses
+4.2.2 Gravitational field strength
+4.2.3 Uniform field near Earth's surface
+
+4.3 Planetary Motion
+4.3.1 Kepler's laws
+4.3.2 Centripetal force in planetary motion
+4.3.3 Orbital period equations
+4.3.4 Geostationary orbits
+
+4.4 Gravitational Potential and Energy
+4.4.1 Gravitational potential
+4.4.2 Potential at a point
+4.4.3 Force-distance graphs
+4.4.4 Gravitational potential energy
+4.4.5 Escape velocity
+
+5. Astrophysics and Cosmology
+5.1 Stars
+5.1.1 Astronomical terminology
+5.1.2 Star formation
+5.1.3 Low-mass star evolution
+5.1.4 White dwarf characteristics
+5.1.5 Massive star evolution
+5.1.6 Neutron stars and black holes
+5.1.7 Hertzsprung-Russell diagram
+
+5.2 Stellar Electromagnetic Radiation
+5.2.1 Electron energy levels
+5.2.2 Spectral line emission
+5.2.3 Spectral identification
+5.2.4 Spectrum types
+5.2.5 Diffraction grating
+5.2.6 Wien's displacement law
+5.2.7 Stefan's law
+5.2.8 Star radius estimation
+
+5.3 Cosmology
+5.3.1 Astronomical distance measurements
+5.3.2 Stellar parallax
+5.3.3 Cosmological principle
+5.3.4 Doppler effect
+5.3.5 Hubble's law
+5.3.6 Expanding universe model
+5.3.7 Hubble constant
+5.3.8 Big Bang theory
+5.3.9 Cosmic microwave background radiation
+5.3.10 Space-time expansion
+5.3.11 Universe age estimation
+5.3.12 Universe evolution
+5.3.13 Current cosmological composition

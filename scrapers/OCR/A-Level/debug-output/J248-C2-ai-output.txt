@@ -1,0 +1,64 @@
+1.1 C2.1 Purity and separating mixtures
+1.1.1 C2.1a explain what is meant by the purity of a substance, distinguishing between the scientific and everyday use of the term ‘pure’
+1.1.2 C2.1b use melting point data to distinguish pure from impure substances
+1.1.3 C2.1c calculate relative formula masses of species separately and in a balanced chemical equation
+1.1.3.1 the definition of relative atomic mass
+1.1.3.2 relative molecular mass
+1.1.3.3 relative formula mass
+1.1.4 C2.1d deduce the empirical formula of a compound from the relative numbers of atoms present or from a model or diagram and vice versa
+1.1.5 C2.1e explain that many useful materials are alloys
+1.1.5.1 formulations of mixtures
+1.1.6 C2.1f describe, explain and exemplify the processes of filtration, crystallisation, simple distillation, and fractional distillation
+1.1.6.1 knowledge of the techniques of filtration
+1.1.6.2 crystallisation
+1.1.6.3 simple distillation
+1.1.6.4 fractional distillation
+1.1.7 C2.1g describe the techniques of paper and thin layer chromatography
+1.1.7.1 using aqueous and non-aqueous solvents and locating agents
+1.1.8 C2.1h recall that chromatography involves a stationary and a mobile phase and that separation depends on the distribution between the phases
+1.1.8.1 identification of the mobile and stationary phases
+1.1.9 C2.1i interpret chromatograms, including the measuring Rf values
+1.1.9.1 recall and the use of the formula
+1.1.10 C2.1j suggest suitable purification techniques given information about the substances involved
+1.1.11 C2.1k suggest chromatographic methods for distinguishing pure from impure substances
+1.1.11.1 paper, thin layer (TLC) and gas chromatography
+
+1.2 C2.2 Bonding
+1.2.1 C2.2a describe metals and non-metals and explain the differences between them on the basis of their characteristic physical and chemical properties
+1.2.1.1 the physical properties
+1.2.1.2 formation of ions
+1.2.1.3 common reactions, e.g., with oxygen to form oxides
+1.2.2 C2.2b explain how the atomic structure of metals and non-metals relates to their position in the Periodic Table
+1.2.3 C2.2c explain how the position of an element in the Periodic Table is related to the arrangement of electrons in its atoms and hence to its atomic number
+1.2.3.1 group number and period number
+1.2.4 C2.2d describe and compare the nature and arrangement of chemical bonds in:
+1.2.4.1 ionic compounds
+1.2.4.2 simple molecules
+1.2.4.3 giant covalent structures
+1.2.4.4 polymers
+1.2.4.5 metals
+1.2.5 C2.2e explain chemical bonding in terms of electrostatic forces and the transfer or sharing of electrons
+1.2.6 C2.2f construct dot and cross diagrams for simple covalent and binary ionic substances
+1.2.7 C2.2g describe the limitations of particular representations and models
+1.2.7.1 dot and cross diagrams
+1.2.7.2 ball and stick models
+1.2.7.3 two- and three-dimensional representations
+1.2.8 C2.2h explain how the reactions of elements are related to the arrangement of electrons in their atoms and hence to their atomic number
+1.2.9 C2.2i explain in terms of atomic number how Mendeleev’s arrangement was refined into the modern Periodic Table
+
+1.3 C2.3 Properties of materials
+1.3.1 C2.3a recall that carbon can form four covalent bonds
+1.3.2 C2.3b explain that the vast array of natural and synthetic organic compounds occur due to the ability of carbon to form families of similar compounds, chains and rings
+1.3.3 C2.3c explain the properties of diamond, graphite, fullerenes and graphene in terms of their structures and bonding
+1.3.4 C2.3d use ideas about energy transfers and the relative strength of chemical bonds and intermolecular forces to explain the different temperatures at which changes of state occur
+1.3.5 C2.3e use data to predict states of substances under given conditions
+1.3.5.1 data such as temperature and how this may be linked to changes of state
+1.3.6 C2.3f explain how the bulk properties of materials are related to the different types of bonds they contain, their bond strengths in relation to intermolecular forces and the ways in which their bonds are arranged
+1.3.6.1 ionic compounds
+1.3.6.2 simple molecules
+1.3.6.3 giant covalent structures
+1.3.6.4 polymers and metals
+1.3.7 C2.3g compare ‘nano’ dimensions to typical dimensions of atoms and molecules
+1.3.8 C2.3h describe the surface area to volume relationship for different-sized particles and describe how this affects properties
+1.3.9 C2.3i describe how the properties of nanoparticulate materials are related to their uses
+1.3.10 C2.3j explain the possible risks associated with some nanoparticulate materials

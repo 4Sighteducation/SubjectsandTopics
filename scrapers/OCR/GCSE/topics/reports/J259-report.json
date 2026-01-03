@@ -1,0 +1,87 @@
+{
+  "subject_code": "J259",
+  "subject_name": "Physics B",
+  "url": "https://www.ocr.org.uk/Images/234601-specification-accredited-gcse-twenty-first-century-science-suite-physics-b-j259.pdf",
+  "start_time": "2025-11-20T14:01:44.713186",
+  "success": true,
+  "topics_extracted": 500,
+  "levels": {
+    "0": 18,
+    "1": 74,
+    "2": 378,
+    "3": 30
+  },
+  "issues": [
+    "Options not extracted",
+    "Potential missing topics due to high total count"
+  ],
+  "warnings": [
+    "Level 0 and 3 distribution seems low",
+    "Expected depth mismatch"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": true,
+      "foundation_content": "Content is split into eight teaching chapters for Foundation Tier, grades 1 to 5.",
+      "higher_content": "Content is split into eight teaching chapters for Higher Tier, grades 4 to 9.",
+      "differences": [
+        "Emboldened statements will only be assessed in Higher Tier papers."
+      ]
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [
+        "Chapter P1: Radiation and waves",
+        "Chapter P2: Sustainable energy",
+        "Chapter P3: Electric circuits",
+        "Chapter P4: Explaining motion",
+        "Chapter P5: Radioactive materials",
+        "Chapter P6: Matter – models and explanations",
+        "Chapter P7: Ideas about Science",
+        "Chapter P8: Practical Skills"
+      ],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "chapter-based",
+    "content_overview": {
+      "main_sections": [
+        "Chapter P1: Radiation and waves",
+        "Chapter P2: Sustainable energy",
+        "Chapter P3: Electric circuits",
+        "Chapter P4: Explaining motion",
+        "Chapter P5: Radioactive materials",
+        "Chapter P6: Matter – models and explanations",
+        "Chapter P7: Ideas about Science",
+        "Chapter P8: Practical Skills"
+      ],
+      "organization": "Content is divided into eight chapters, each covering different physics topics.",
+      "expected_depth": 3
+    },
+    "assessment": {
+      "written_papers": [
+        "J259/01",
+        "J259/02",
+        "J259/03",
+        "J259/04"
+      ],
+      "content_mapping": {
+        "J259/01": "Breadth in physics for Foundation Tier",
+        "J259/02": "Depth in physics for Foundation Tier",
+        "J259/03": "Breadth in physics for Higher Tier",
+        "J259/04": "Depth in physics for Higher Tier"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting chapter-based content and assessment structure, ensuring differentiation between Foundation and Higher Tiers.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T14:01:44.713197"
+}

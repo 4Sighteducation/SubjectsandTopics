@@ -1,0 +1,54 @@
+1.1 C3.1 Introducing chemical reactions
+1.1.1 C3.1a use chemical symbols to write the formulae of elements and simple covalent and ionic compounds
+1.1.2 C3.1b use the names and symbols of common elements and compounds and the principle of conservation of mass to write formulae and balanced chemical equations and half equations
+1.1.3 C3.1c use the names and symbols of common elements from a supplied Periodic Table to write formulae and balanced chemical equations where appropriate
+1.1.3.1 the first 20 elements
+1.1.3.2 Groups 1, 7, and 0
+1.1.3.3 other common elements included within the specification
+1.1.4 C3.1d use the formula of common ions to deduce the formula of a compound
+1.1.5 C3.1e construct balanced ionic equations
+1.1.6 C3.1f describe the physical states of products and reactants using state symbols (s, l, g and aq)
+1.1.7 C3.1g recall and use the definitions of the Avogadro constant (in standard form) and of the mole
+1.1.7.1 the calculation of the mass of one atom/molecule
+1.1.8 C3.1h explain how the mass of a given substance is related to the amount of that substance in moles and vice versa
+1.1.9 C3.1i recall and use the law of conservation of mass
+1.1.10 C3.1j explain any observed changes in mass in non-enclosed systems during a chemical reaction and explain them using the particle model
+1.1.11 C3.1k deduce the stoichiometry of an equation from the masses of reactants and products and explain the effect of a limiting quantity of a reactant
+1.1.12 C3.1l use a balanced equation to calculate masses of reactants or products
+
+1.2 C3.2 Energetics
+1.2.1 C3.2a distinguish between endothermic and exothermic reactions on the basis of the temperature change of the surroundings
+1.2.2 C3.2b draw and label a reaction profile for an exothermic and an endothermic reaction
+1.2.2.1 activation energy
+1.2.2.2 energy change
+1.2.2.3 reactants and products
+1.2.3 C3.2c explain activation energy as the energy needed for a reaction to occur
+1.2.4 C3.2d calculate energy changes in a chemical reaction by considering bond making and bond breaking energies
+
+1.3 C3.3 Types of chemical reactions
+1.3.1 C3.3a explain reduction and oxidation in terms of loss or gain of oxygen, identifying which species are oxidised and which are reduced
+1.3.1.1 the concept of oxidising agent and reducing agent
+1.3.2 C3.3b explain reduction and oxidation in terms of gain or loss of electrons, identifying which species are oxidised and which are reduced
+1.3.3 C3.3c recall that acids form hydrogen ions when they dissolve in water and solutions of alkalis contain hydroxide ions
+1.3.4 C3.3d describe neutralisation as acid reacting with alkali or a base to form a salt plus water
+1.3.5 C3.3e recognise that aqueous neutralisation reactions can be generalised to hydrogen ions reacting with hydroxide ions to form water
+1.3.6 C3.3f recall that carbonates and some metals react with acids and write balanced equations predicting products from given reactants
+1.3.7 C3.3g use and explain the terms dilute and concentrated (amount of substance) and weak and strong (degree of ionisation) in relation to acids
+1.3.7.1 ratio of amount of acid to volume of solution
+1.3.8 C3.3h recall that relative acidity and alkalinity are measured by pH
+1.3.9 C3.3i describe neutrality and relative acidity and alkalinity in terms of the effect of the concentration of hydrogen ions on the numerical value of pH (whole numbers only)
+1.3.9.1 pH of titration curves
+1.3.10 C3.3j use the idea that as hydrogen ion concentration increases by a factor of ten, the pH value of a solution decreases by one
+1.3.11 C3.3k describe techniques and apparatus used to measure pH and pH meters
+1.3.11.1 the use of universal indicator
+
+1.4 C3.4 Electrolysis
+1.4.1 C3.4a recall that metals (or hydrogen) are formed at the cathode and non-metals are formed at the anode in electrolysis using inert electrodes
+1.4.1.1 the terms cations and anions
+1.4.2 C3.4b predict the products of electrolysis of binary ionic compounds in the molten state
+1.4.2.1 compounds such as NaCl
+1.4.3 C3.4c describe competing reactions in the electrolysis of aqueous solutions of ionic compounds in terms of the different species present
+1.4.3.1 the electrolysis of aqueous NaCl and CuSO4 using inert electrodes
+1.4.4 C3.4d describe electrolysis in terms of the ions present and reactions at the electrodes
+1.4.4.1 the equations and half equations of the reactions at the electrodes
+1.4.5 C3.4e describe the technique of electrolysis using inert and non-inert electrodes

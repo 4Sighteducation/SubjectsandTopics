@@ -1,0 +1,206 @@
+1. Paper 1: Biology Paper 1
+   1.1 The nature and variety of living organisms
+       1.1.1 Characteristics of living organisms
+           1.1.1.1 Understand how living organisms share characteristics such as nutrition, respiration, excretion, response, movement, control of internal conditions, reproduction, growth, and development.
+       1.1.2 Variety of living organisms
+           1.1.2.1 Describe common features of eukaryotic organisms: plants, animals, fungi, and protoctists.
+           1.1.2.2 Describe common features of prokaryotic organisms such as bacteria.
+           1.1.2.3 Understand the term pathogen and know that pathogens may include fungi, bacteria, protoctists, or viruses.
+   1.2 Structure and functions in living organisms
+       1.2.1 Level of organisation
+           1.2.1.1 Describe the levels of organisation in organisms: organelles, cells, tissues, organs, and systems.
+       1.2.2 Cell structure
+           1.2.2.1 Describe cell structures, including the nucleus, cytoplasm, cell membrane, cell wall, mitochondria, chloroplasts, ribosomes, and vacuole.
+           1.2.2.2 Describe the functions of the nucleus, cytoplasm, cell membrane, cell wall, mitochondria, chloroplasts, ribosomes, and vacuole.
+           1.2.2.3 Know the similarities and differences in the structure of plant and animal cells.
+           1.2.2.4 Explain the importance of cell differentiation in the development of specialised cells.
+           1.2.2.5 Understand the advantages and disadvantages of using stem cells in medicine.
+       1.2.3 Biological molecules
+           1.2.3.1 Identify the chemical elements present in carbohydrates, proteins, and lipids (fats and oils).
+           1.2.3.2 Describe the structure of carbohydrates, proteins, and lipids as large molecules made up from smaller basic units.
+           1.2.3.3 Practical: Investigate food samples for the presence of glucose, starch, protein, and fat.
+           1.2.3.4 Understand the role of enzymes as biological catalysts in metabolic reactions.
+           1.2.3.5 Understand how temperature changes can affect enzyme function, including changes to the shape of the active site.
+           1.2.3.6 Practical: Investigate how enzyme activity can be affected by changes in temperature.
+           1.2.3.7 Understand how enzyme function can be affected by changes in pH altering the active site.
+           1.2.3.8 Practical: Investigate how enzyme activity can be affected by changes in pH.
+       1.2.4 Movement of substances into and out of cells
+           1.2.4.1 Understand the processes of diffusion, osmosis, and active transport by which substances move into and out of cells.
+           1.2.4.2 Understand how factors affect the rate of movement of substances into and out of cells.
+           1.2.4.3 Practical: Investigate diffusion and osmosis using living and non-living systems.
+       1.2.5 Nutrition
+           1.2.5.1 Understand the process of photosynthesis and its importance in the conversion of light energy to chemical energy.
+           1.2.5.2 Know the word equation and the balanced chemical symbol equation for photosynthesis.
+           1.2.5.3 Understand how varying carbon dioxide concentration, light intensity, and temperature affect the rate of photosynthesis.
+           1.2.5.4 Describe the structure of the leaf and explain how it is adapted for photosynthesis.
+           1.2.5.5 Understand that plants require mineral ions for growth.
+           1.2.5.6 Practical: Investigate photosynthesis, showing the evolution of oxygen from a water plant.
+           1.2.5.7 Understand that a balanced diet should include appropriate proportions of carbohydrate, protein, lipid, vitamins, minerals, water, and dietary fibre.
+           1.2.5.8 Identify the sources and describe the functions of various nutrients as components of the diet.
+           1.2.5.9 Understand how energy requirements vary with activity levels, age, and pregnancy.
+           1.2.5.10 Describe the structure and function of the human alimentary canal.
+           1.2.5.11 Understand how food is moved through the gut by peristalsis.
+           1.2.5.12 Understand the role of digestive enzymes.
+           1.2.5.13 Understand that bile is produced by the liver and stored in the gall bladder.
+           1.2.5.14 Understand the role of bile in neutralising stomach acid and emulsifying lipids.
+           1.2.5.15 Understand how the small intestine is adapted for absorption.
+           1.2.5.16 Practical: Investigate the energy content in a food sample.
+       1.2.6 Respiration
+           1.2.6.1 Understand how the process of respiration produces ATP in living organisms.
+           1.2.6.2 Know that ATP provides energy for cells.
+           1.2.6.3 Describe the differences between aerobic and anaerobic respiration.
+           1.2.6.4 Know the word equation and the balanced chemical symbol equation for aerobic respiration in living organisms.
+           1.2.6.5 Know the word equation for anaerobic respiration in plants and in animals.
+           1.2.6.6 Practical: Investigate the evolution of carbon dioxide and heat from respiring seeds or other suitable living organisms.
+       1.2.7 Gas exchange
+           1.2.7.1 Understand the role of diffusion in gas exchange.
+           1.2.7.2 Understand gas exchange in relation to respiration and photosynthesis.
+           1.2.7.3 Understand how the structure of the leaf is adapted for gas exchange.
+           1.2.7.4 Describe the role of stomata in gas exchange.
+           1.2.7.5 Understand how respiration continues during the day and night.
+           1.2.7.6 Practical: Investigate the effect of light on net gas exchange from a leaf.
+           1.2.7.7 Describe the structure of the thorax.
+           1.2.7.8 Understand the role of the intercostal muscles and the diaphragm in ventilation.
+           1.2.7.9 Explain how alveoli are adapted for gas exchange by diffusion.
+           1.2.7.10 Understand the biological consequences of smoking.
+           1.2.7.11 Practical: Investigate breathing in humans.
+       1.2.8 Transport
+           1.2.8.1 Understand why simple, unicellular organisms can rely on diffusion.
+           1.2.8.2 Understand the need for a transport system in multicellular organisms.
+           1.2.8.3 Describe the role of phloem and xylem in plants.
+           1.2.8.4 Understand how water is absorbed by root hair cells.
+           1.2.8.5 Understand that transpiration is the evaporation of water from the surface of a plant.
+           1.2.8.6 Understand how the rate of transpiration is affected by environmental factors.
+           1.2.8.7 Practical: Investigate the role of environmental factors in determining the rate of transpiration.
+           1.2.8.8 Describe the composition of the blood.
+           1.2.8.9 Understand the role of plasma in the transport of substances.
+           1.2.8.10 Understand how adaptations of red blood cells make them suitable for the transport of oxygen.
+           1.2.8.11 Understand how the immune system responds to disease.
+           1.2.8.12 Understand how vaccination results in the manufacture of memory cells.
+           1.2.8.13 Understand how platelets are involved in blood clotting.
+           1.2.8.14 Describe the structure of the heart and how it functions.
+           1.2.8.15 Explain how the heart rate changes during exercise and under the influence of adrenaline.
+           1.2.8.16 Understand how factors may increase the risk of developing coronary heart disease.
+           1.2.8.17 Understand how the structure of arteries, veins, and capillaries relate to their function.
+           1.2.8.18 Understand the general structure of the circulation system.
+       1.2.9 Excretion
+           1.2.9.1 Understand the origin of carbon dioxide and oxygen as waste products of metabolism.
+           1.2.9.2 Know the excretory products of the lungs, kidneys, and skin.
+           1.2.9.3 Understand how the kidney carries out its roles of excretion and osmoregulation.
+           1.2.9.4 Describe the structure of the urinary system.
+           1.2.9.5 Describe the structure of a nephron.
+           1.2.9.6 Describe ultrafiltration in the Bowman's capsule.
+           1.2.9.7 Understand how water is reabsorbed into the blood from the collecting duct.
+           1.2.9.8 Understand why selective reabsorption of glucose occurs at the proximal convoluted tubule.
+           1.2.9.9 Describe the role of ADH in regulating the water content of the blood.
+           1.2.9.10 Understand that urine contains water, urea, and ions.
+       1.2.10 Co-ordination and response
+           1.2.10.1 Understand how organisms are able to respond to changes in their environment.
+           1.2.10.2 Understand that homeostasis is the maintenance of a constant internal environment.
+           1.2.10.3 Understand that a co-ordinated response requires a stimulus, a receptor, and an effector.
+           1.2.10.4 Understand that plants respond to stimuli.
+           1.2.10.5 Describe the geotropic and phototropic responses of roots and stems.
+           1.2.10.6 Understand the role of auxin in the phototropic response of stems.
+           1.2.10.7 Describe how nervous and hormonal communication control responses.
+           1.2.10.8 Understand that the central nervous system consists of the brain and spinal cord.
+           1.2.10.9 Understand that stimulation of receptors in the sense organs sends electrical impulses.
+           1.2.10.10 Understand the role of neurotransmitters at synapses.
+           1.2.10.11 Describe the structure and functioning of a simple reflex arc.
+           1.2.10.12 Describe the structure and function of the eye as a receptor.
+           1.2.10.13 Understand the function of the eye in focusing on near and distant objects.
+           1.2.10.14 Describe the role of the skin in temperature regulation.
+           1.2.10.15 Understand the sources, roles, and effects of various hormones.
+
+2. Paper 2: Biology Paper 2
+   2.1 Reproduction and inheritance
+       2.1.1 Reproduction
+           2.1.1.1 Understand the differences between sexual and asexual reproduction.
+           2.1.1.2 Understand that fertilisation involves the fusion of a male and female gamete.
+           2.1.1.3 Describe the structures of an insect-pollinated and a wind-pollinated flower.
+           2.1.1.4 Understand that the growth of the pollen tube followed by fertilisation leads to seed and fruit formation.
+           2.1.1.5 Practical: Investigate the conditions needed for seed germination.
+           2.1.1.6 Understand how germinating seeds utilise food reserves.
+           2.1.1.7 Understand that plants can reproduce asexually by natural and artificial methods.
+           2.1.1.8 Understand how the structure of the male and female reproductive systems are adapted for their functions.
+           2.1.1.9 Understand the roles of oestrogen and progesterone in the menstrual cycle.
+           2.1.1.10 Understand the roles of FSH and LH in the menstrual cycle.
+           2.1.1.11 Describe the role of the placenta in the nutrition of the developing embryo.
+           2.1.1.12 Understand how the developing embryo is protected by amniotic fluid.
+           2.1.1.13 Understand the roles of oestrogen and testosterone in the development of secondary sexual characteristics.
+       2.1.2 Inheritance
+           2.1.2.1 Understand that the genome is the entire DNA of an organism.
+           2.1.2.2 Understand that the nucleus of a cell contains chromosomes on which genes are located.
+           2.1.2.3 Describe a DNA molecule as two strands coiled to form a double helix.
+           2.1.2.4 Understand that an RNA molecule is single stranded.
+           2.1.2.5 Describe the stages of protein synthesis.
+           2.1.2.6 Understand how genes exist in alternative forms called alleles.
+           2.1.2.7 Understand the meaning of the terms: dominant, recessive, homozygous, heterozygous, phenotype, and genotype.
+           2.1.2.8 Understand the meaning of the term codominance.
+           2.1.2.9 Understand that most phenotypic features are the result of polygenic inheritance.
+           2.1.2.10 Describe patterns of monohybrid inheritance using a genetic diagram.
+           2.1.2.11 Understand how to interpret family pedigrees.
+           2.1.2.12 Predict probabilities of outcomes from monohybrid crosses.
+           2.1.2.13 Understand how the sex of a person is controlled by one pair of chromosomes.
+           2.1.2.14 Describe the determination of the sex of offspring at fertilisation.
+           2.1.2.15 Understand how division of a diploid cell by mitosis produces two cells that contain identical sets of chromosomes.
+           2.1.2.16 Understand that mitosis occurs during growth, repair, cloning, and asexual reproduction.
+           2.1.2.17 Understand how division of a cell by meiosis produces four cells, each with half the number of chromosomes.
+           2.1.2.18 Understand how random fertilisation produces genetic variation of offspring.
+           2.1.2.19 Know that in human cells the diploid number of chromosomes is 46 and the haploid number is 23.
+           2.1.2.20 Understand that variation within a species can be genetic, environmental, or a combination of both.
+           2.1.2.21 Understand that mutation is a rare, random change in genetic material that can be inherited.
+           2.1.2.22 Understand how a change in DNA can affect the phenotype.
+           2.1.2.23 Understand how most genetic mutations have no effect on the phenotype.
+           2.1.2.24 Understand that the incidence of mutations can be increased by exposure to ionising radiation and some chemical mutagens.
+           2.1.2.25 Explain Darwin’s theory of evolution by natural selection.
+           2.1.2.26 Understand how resistance to antibiotics can increase in bacterial populations.
+
+   2.2 Ecology and the environment
+       2.2.1 The organism in the environment
+           2.2.1.1 Understand the terms population, community, habitat, and ecosystem.
+           2.2.1.2 Practical: Investigate the population size of an organism in two different areas using quadrats.
+           2.2.1.3 Understand the term biodiversity.
+           2.2.1.4 Practical: Investigate the distribution of organisms in their habitats and measure biodiversity using quadrats.
+           2.2.1.5 Understand how abiotic and biotic factors affect the population size and distribution of organisms.
+       2.2.2 Feeding relationships
+           2.2.2.1 Understand the names given to different trophic levels.
+           2.2.2.2 Understand the concepts of food chains, food webs, pyramids of number, pyramids of biomass, and pyramids of energy transfer.
+           2.2.2.3 Understand the transfer of substances and energy along a food chain.
+           2.2.2.4 Understand why only about 10% of energy is transferred from one trophic level to the next.
+       2.2.3 Cycles within ecosystems
+           2.2.3.1 Describe the stages in the carbon cycle.
+           2.2.3.2 Describe the stages in the nitrogen cycle.
+       2.2.4 Human influences on the environment
+           2.2.4.1 Understand the biological consequences of pollution of air by sulfur dioxide and carbon monoxide.
+           2.2.4.2 Understand that water vapour, carbon dioxide, nitrous oxide, methane, and CFCs are greenhouse gases.
+           2.2.4.3 Understand how human activities contribute to greenhouse gases.
+           2.2.4.4 Understand how an increase in greenhouse gases results in an enhanced greenhouse effect.
+           2.2.4.5 Understand the biological consequences of pollution of water by sewage.
+           2.2.4.6 Understand the biological consequences of eutrophication caused by leached minerals from fertiliser.
+           2.2.4.7 Understand the effects of deforestation.
+
+   2.3 Use of biological resources
+       2.3.1 Food production
+           2.3.1.1 Describe how glasshouses and polythene tunnels can be used to increase the yield of certain crops.
+           2.3.1.2 Understand the effects on crop yield of increased carbon dioxide and increased temperature in glasshouses.
+           2.3.1.3 Understand how the use of fertiliser can increase crop yield.
+           2.3.1.4 Understand the reasons for pest control and the advantages and disadvantages of using pesticides and biological control with crop plants.
+           2.3.1.5 Understand the role of yeast in the production of food including bread.
+           2.3.1.6 Practical: Investigate the role of anaerobic respiration by yeast in different conditions.
+           2.3.1.7 Understand the role of bacteria (Lactobacillus) in the production of yoghurt.
+           2.3.1.8 Understand the use of an industrial fermenter and explain the need to provide suitable conditions in the fermenter.
+           2.3.1.9 Understand the methods used to farm large numbers of fish to provide a source of protein.
+       2.3.2 Selective breeding
+           2.3.2.1 Understand how selective breeding can develop plants with desired characteristics.
+           2.3.2.2 Understand how selective breeding can develop animals with desired characteristics.
+       2.3.3 Genetic modification (genetic engineering)
+           2.3.3.1 Understand how restriction enzymes are used to cut DNA at specific sites and ligase enzymes are used to join pieces of DNA together.
+           2.3.3.2 Understand how plasmids and viruses can act as vectors.
+           2.3.3.3 Understand how large amounts of human insulin can be manufactured from genetically modified bacteria.
+           2.3.3.4 Understand how genetically modified plants can be used to improve food production.
+           2.3.3.5 Understand that the term transgenic means the transfer of genetic material from one species to a different species.
+       2.3.4 Cloning
+           2.3.4.1 Describe the process of micropropagation (tissue culture) in which explants are grown in vitro.
+           2.3.4.2 Understand how micropropagation can be used to produce commercial quantities of genetically identical plants with desirable characteristics.
+           2.3.4.3 Describe the stages in the production of cloned mammals.
+           2.3.4.4 Understand how cloned transgenic animals can be used to produce human proteins.

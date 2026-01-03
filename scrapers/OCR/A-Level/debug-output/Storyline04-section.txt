@@ -1,0 +1,113 @@
+The ozone story (OZ)
+(f) the effect of concentration and pressure on M3.2
+the rate of a reaction, explained in terms of the
+collision theory; • experiments on reaction kinetics
+use of the concept of activation enthalpy and the
+Boltzmann distribution to explain the qualitative
+effect of temperature changes and catalysts on
+2 rate of reaction; techniques and procedures
+for experiments in reaction kinetics including
+plotting graphs to follow the course of a reaction
+(g) the role of catalysts in providing alternative See also DF(h).
+routes of lower activation enthalpy
+(h) the term homogeneous catalysis and the For example, the catalytic action of chlorine radicals
+formation of intermediates on the breakdown of ozone.
+Inorganic chemistry and the periodic table
+(i) calculations, from given data, of values for M0.0, M0.1
+composition by volume of a component in a gas
+mixture measured in percentage concentration
+and in parts per million (ppm)
+Organic functional groups
+(j) the recognition of and formulae for examples of
+members of the following homologous series:
+(i) haloalkanes, including systematic
+nomenclature
+(ii) amines
+Organic reactions
+(k) the characteristic properties of haloalkanes,
+comparing fluoro-, chloro-, bromo- and iodo-
+compounds, considering the following aspects:
+(i) boiling points (depend on intermolecular
+bonds)
+(ii) nucleophilic substitution with water and
+hydroxide ions to form alcohols, and with
+ammonia to form amines
+Reaction mechanisms
+(l) the terms substitution and nucleophile
+(m) the use of the S 2 mechanism as a model to Knowledge of the S 1 mechanism or of the S 1 or
+N N N
+explain nucleophilic substitution reactions of S 2 nomenclature is not required.
+N
+haloalkanes using ‘curly arrows’ and partial
+charges
+Version 3.0 © OCR 2025
+26 OCR Level 3 Advanced GCE in Chemistry B (Salters)
+The ozone story (OZ)
+(n) the possible dependence of the relative • experiments to illustrate the relative reactivity
+reactivities of the haloalkanes on either bond of the haloalkanes
+enthalpy or bond polarity and how experimental
+evidence determines that the bond enthalpy is
+more important
+(o) homolytic and heterolytic bond fission
+2
+(p) the formation, nature and reactivity of radicals • experiments involving an alkane and bromine
+and:
+(i) explanation of the mechanism of a
+radical chain reaction involving initiation,
+propagation and termination
+(ii) the radical mechanism for the reaction of
+alkanes with halogens
+(iii) use of ‘half curly arrows’ in radical
+mechanisms
+(q) the chemical basis of the depletion of ozone in The formation of halogen atoms and the catalytic
+the stratosphere due to haloalkanes; role of these atoms (and other radicals) in ozone
+the ease of photodissociation of the haloalkanes destruction. Simple equations of the breakdown
+(fluoroalkanes to iodoalkanes) in terms of bond process are required, e.g.
+enthalpy
+CF Cl → CF Cl• + •Cl
+2 2 2
+•Cl + O → •ClO + O
+3 2
+•ClO + O → •Cl + O
+2
+Sustainability
+(r) the formation and destruction of ozone in the
+stratosphere and troposphere; the effects of
+ozone in the atmosphere, including:
+(i) ozone’s action as a sunscreen in the
+stratosphere by absorbing high-energy UV
+(and the effects of such UV, including on
+human skin)
+(ii) the polluting effects of ozone in the
+troposphere, causing problems including
+photochemical smog
+Energy and matter
+(s) the principal radiations of the Earth and the
+Sun in terms of the following regions of the
+electromagnetic spectrum: infrared, visible,
+ultraviolet
+(t) the effect of UV and visible radiation promoting
+electrons to higher energy levels, sometimes
+causing bond breaking
+(u) calculation of values for frequency, wavelength
+and energy of electromagnetic radiation from
+given data.
+Version 3.0 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry B (Salters) 27
+What’s in a medicine? (WM)
+A consideration of medicines from nature focuses on The chemical ideas in this module are:
+aspirin. The chemistry of the –OH group is introduced
+through reactions of salicin and salicylic acid, beginning • the chemistry of the –OH group, phenols and
+with alcohols and continuing with phenols. alcohols
+• carboxylic acids and esters
+The discussion of chemical tests for alcohols and
+phenols leads to the introduction of IR and mass
+• mass spectrometry and IR spectroscopy
+2
+spectrometry as more powerful methods for
+identifying substances. • organic synthesis, preparative techniques and
+thin layer chromatography
+The storyline concludes by examining the synthesis
+• green chemistry.
+of aspirin to illustrate organic preparative techniques,
+including a look at the principles of green chemistry.

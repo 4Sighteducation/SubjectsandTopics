@@ -1,0 +1,74 @@
+{
+  "subject_code": "J203",
+  "subject_name": "Psychology",
+  "url": "https://www.ocr.org.uk/Images/309306-specification-accredited-gcse-psychology-j203.pdf",
+  "start_time": "2025-11-20T14:34:40.258111",
+  "success": true,
+  "topics_extracted": 272,
+  "levels": {
+    "0": 1,
+    "1": 3,
+    "2": 9,
+    "3": 34,
+    "4": 98,
+    "5": 91,
+    "6": 27,
+    "7": 9
+  },
+  "issues": [
+    "Missing topics from Content Overview",
+    "Incorrect level assignment for some topics"
+  ],
+  "warnings": [
+    "Potential structure problems due to unexpected depth"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "tiers": {
+      "has_tiers": false,
+      "foundation_content": "",
+      "higher_content": "",
+      "differences": []
+    },
+    "options": {
+      "has_options": false,
+      "compulsory": [],
+      "optional": []
+    },
+    "texts": {
+      "has_texts": false,
+      "text_locations": [],
+      "extraction_strategy": "incorporated"
+    },
+    "structure_type": "component-based",
+    "content_overview": {
+      "main_sections": [
+        "Criminal Psychology",
+        "Development",
+        "Psychological Problems",
+        "Social Influence",
+        "Memory",
+        "Sleep and Dreaming",
+        "Research Methods"
+      ],
+      "organization": "Each component consists of three topics with research methods included in both.",
+      "expected_depth": 4
+    },
+    "assessment": {
+      "written_papers": [
+        "Studies and applications in psychology 1 (01)",
+        "Studies and applications in psychology 2 (02)"
+      ],
+      "content_mapping": {
+        "Studies and applications in psychology 1 (01)": "Criminal Psychology, Development, Psychological Problems, Research Methods",
+        "Studies and applications in psychology 2 (02)": "Social Influence, Memory, Sleep and Dreaming, Research Methods"
+      },
+      "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting content related to the main sections and their subtopics, ensuring to capture the research methods content that is embedded within each component.",
+    "content_found": true
+  },
+  "duration_seconds": 0,
+  "end_time": "2025-11-20T14:34:40.258453"
+}

@@ -1,0 +1,390 @@
+================================================================================
+EDEXCEL A-LEVEL LANGUAGES - UNIVERSAL SCRAPER
+================================================================================
+
+Languages to process: 12
+
+   9FR0: French
+   9GK0: Greek
+   9GN0: German
+   9GU0: Gujarati
+   9IN0: Italian
+   9JA0: Japanese
+   9PE0: Persian
+   9PT0: Portuguese
+   9RU0: Russian
+   9SP0: Spanish
+   9TU0: Turkish
+   9UR0: Urdu
+
+================================================================================
+
+[INFO] Processing all 12 languages...
+[INFO] This will take 10-15 minutes
+
+
+================================================================================
+
+================================================================================
+EDEXCEL FRENCH (9FR0) - TOPIC SCRAPER
+================================================================================
+
+Language: French
+Code: 9FR0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/20...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 64 pages
+[OK] Saved debug file: debug-9fr0-spec.txt
+
+[INFO] Extracting themes for French...
+[OK] Found 4 themes
+[OK] Theme 1: Theme 1: Les changements dans la société française (Theme 1 is set in the context of France only.)...
+[OK] Theme 2: Theme 2: La culture politique et artistique dans les pays (Theme 2 is set in the context of Francoph...
+[OK] Theme 3: Theme 3: L’immigration et la société multiculturelle française (Theme 3 is set in the context of Fra...
+[OK] Theme 4: Theme 4: L’Occupation et la Résistance (Theme 4 is set in the context of France only.)...
+
+[OK] Extracted 7 topics
+
+[INFO] Level breakdown:
+   Level 0: 3 topics
+   Level 1: 4 topics
+
+[INFO] Uploading to database...
+[OK] Subject ID: 72a85283-579d-445f-8b45-645d65df683b
+[OK] Cleared old topics
+[OK] Uploaded 7 topics
+[OK] Linked 4 relationships
+
+[OK] French COMPLETE!
+
+
+================================================================================
+
+================================================================================
+EDEXCEL GREEK (9GK0) - TOPIC SCRAPER
+================================================================================
+
+Language: Greek
+Code: 9GK0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Greek/201...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 58 pages
+[OK] Saved debug file: debug-9gk0-spec.txt
+
+[INFO] Extracting themes for Greek...
+[OK] Found 4 themes
+[OK] Theme 1: Πρώτο Θέμα: Αλλαγές στην ελληνική κοινωνία (Theme 1 is set in the context of Greece only.)...
+[OK] Theme 2: Δεύτερο Θέμα: Τέχνη και πνευματικός πολιτισμός στην Ελλάδα (Theme 2 is set in the context of Greece ...
+[OK] Theme 3: Τρίτο θέμα: Όψεις της Κύπρου (Theme 3 is set in the context of Cyprus only.)...
+[OK] Theme 4: Τέταρτο θέμα: Νέες εξελίξεις στο πολιτικό και οικονομικό πεδίο (Theme 4 is set in the context of Gre...
+
+[OK] Extracted 7 topics
+
+[INFO] Level breakdown:
+   Level 0: 3 topics
+   Level 1: 4 topics
+
+[INFO] Uploading to database...
+[OK] Subject ID: 147865c3-33fa-404a-b68d-251e64ecdcee
+[OK] Cleared old topics
+[OK] Uploaded 7 topics
+[OK] Linked 4 relationships
+
+[OK] Greek COMPLETE!
+
+
+================================================================================
+
+================================================================================
+EDEXCEL GERMAN (9GN0) - TOPIC SCRAPER
+================================================================================
+
+Language: German
+Code: 9GN0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/German/20...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 64 pages
+[OK] Saved debug file: debug-9gn0-spec.txt
+
+[INFO] Extracting themes for German...
+[OK] Found 4 themes
+[OK] Theme 1: Theme 1: Gesellschaftliche Entwicklung in Deutschland (Theme 1 is set in the context of Germany only...
+[OK] Theme 2: Theme 2: Politische und künstlerische Kultur im deutschen (Theme 2 is set in the context of German-s...
+[OK] Theme 3: Theme 3: Immigration und die deutsche multikulturelle Gesellschaft (Theme 3 is set in the context of...
+[OK] Theme 4: Theme 4: Die Wiedervereinigung Deutschlands (Theme 4 is set in the context of Germany only.)...
+
+[OK] Extracted 7 topics
+
+[INFO] Level breakdown:
+   Level 0: 3 topics
+   Level 1: 4 topics
+
+[INFO] Uploading to database...
+[OK] Subject ID: eb82e279-c8b7-4df6-8c92-f37c6856f983
+[OK] Cleared old topics
+[OK] Uploaded 7 topics
+[OK] Linked 4 relationships
+
+[OK] German COMPLETE!
+
+
+================================================================================
+
+================================================================================
+EDEXCEL GUJARATI (9GU0) - TOPIC SCRAPER
+================================================================================
+
+Language: Gujarati
+Code: 9GU0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Gujarati/...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 60 pages
+[OK] Saved debug file: debug-9gu0-spec.txt
+
+[INFO] Extracting themes for Gujarati...
+[WARN] No themes found with standard patterns
+
+[WARN] Only found 3 topics (just papers)
+[INFO] This language needs manual extraction
+[INFO] Check debug-9gu0-spec.txt for theme section
+
+[MANUAL] Gujarati needs manual extraction
+
+
+================================================================================
+
+================================================================================
+EDEXCEL ITALIAN (9IN0) - TOPIC SCRAPER
+================================================================================
+
+Language: Italian
+Code: 9IN0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Italian/2...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 62 pages
+[OK] Saved debug file: debug-9in0-spec.txt
+
+[INFO] Extracting themes for Italian...
+[WARN] No themes found with standard patterns
+
+[WARN] Only found 3 topics (just papers)
+[INFO] This language needs manual extraction
+[INFO] Check debug-9in0-spec.txt for theme section
+
+[MANUAL] Italian needs manual extraction
+
+
+================================================================================
+
+================================================================================
+EDEXCEL JAPANESE (9JA0) - TOPIC SCRAPER
+================================================================================
+
+Language: Japanese
+Code: 9JA0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Japanese/...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 58 pages
+[OK] Saved debug file: debug-9ja0-spec.txt
+
+[INFO] Extracting themes for Japanese...
+[WARN] No themes found with standard patterns
+
+[WARN] Only found 3 topics (just papers)
+[INFO] This language needs manual extraction
+[INFO] Check debug-9ja0-spec.txt for theme section
+
+[MANUAL] Japanese needs manual extraction
+
+
+================================================================================
+
+================================================================================
+EDEXCEL PERSIAN (9PE0) - TOPIC SCRAPER
+================================================================================
+
+Language: Persian
+Code: 9PE0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Persian/2...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 58 pages
+[OK] Saved debug file: debug-9pe0-spec.txt
+
+[INFO] Extracting themes for Persian...
+[WARN] No themes found with standard patterns
+
+[WARN] Only found 3 topics (just papers)
+[INFO] This language needs manual extraction
+[INFO] Check debug-9pe0-spec.txt for theme section
+
+[MANUAL] Persian needs manual extraction
+
+
+================================================================================
+
+================================================================================
+EDEXCEL PORTUGUESE (9PT0) - TOPIC SCRAPER
+================================================================================
+
+Language: Portuguese
+Code: 9PT0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Portugues...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 60 pages
+[OK] Saved debug file: debug-9pt0-spec.txt
+
+[INFO] Extracting themes for Portuguese...
+[WARN] No themes found with standard patterns
+
+[WARN] Only found 3 topics (just papers)
+[INFO] This language needs manual extraction
+[INFO] Check debug-9pt0-spec.txt for theme section
+
+[MANUAL] Portuguese needs manual extraction
+
+
+================================================================================
+
+================================================================================
+EDEXCEL RUSSIAN (9RU0) - TOPIC SCRAPER
+================================================================================
+
+Language: Russian
+Code: 9RU0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Russian/2...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 64 pages
+[OK] Saved debug file: debug-9ru0-spec.txt
+
+[INFO] Extracting themes for Russian...
+[WARN] No themes found with standard patterns
+
+[WARN] Only found 3 topics (just papers)
+[INFO] This language needs manual extraction
+[INFO] Check debug-9ru0-spec.txt for theme section
+
+[MANUAL] Russian needs manual extraction
+
+
+================================================================================
+
+================================================================================
+EDEXCEL SPANISH (9SP0) - TOPIC SCRAPER
+================================================================================
+
+Language: Spanish
+Code: 9SP0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Spanish/2...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 66 pages
+[OK] Saved debug file: debug-9sp0-spec.txt
+
+[INFO] Extracting themes for Spanish...
+[OK] Found 4 themes
+[OK] Theme 1: Theme 1: La evolución de la sociedad española (Theme 1 is set in the context of Spain only.)...
+[OK] Theme 2: Theme 2: La cultura política y artística en el mundo hispanohablante (Theme 2 is set in the context ...
+[OK] Theme 3: Theme 3: La inmigración y la sociedad multicultural española (Theme 3 is set in the context of Spain...
+[OK] Theme 4: Theme 4: La dictadura franquista y la transición a la democracia (Theme 4 is set in the context of S...
+
+[OK] Extracted 7 topics
+
+[INFO] Level breakdown:
+   Level 0: 3 topics
+   Level 1: 4 topics
+
+[INFO] Uploading to database...
+[OK] Subject ID: 546203a1-bcef-48b4-aec1-77ce7807d66b
+[OK] Cleared old topics
+[OK] Uploaded 7 topics
+[OK] Linked 4 relationships
+
+[OK] Spanish COMPLETE!
+
+
+================================================================================
+
+================================================================================
+EDEXCEL TURKISH (9TU0) - TOPIC SCRAPER
+================================================================================
+
+Language: Turkish
+Code: 9TU0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Turkish/2...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 58 pages
+[OK] Saved debug file: debug-9tu0-spec.txt
+
+[INFO] Extracting themes for Turkish...
+[WARN] No themes found with standard patterns
+
+[WARN] Only found 3 topics (just papers)
+[INFO] This language needs manual extraction
+[INFO] Check debug-9tu0-spec.txt for theme section
+
+[MANUAL] Turkish needs manual extraction
+
+
+================================================================================
+
+================================================================================
+EDEXCEL URDU (9UR0) - TOPIC SCRAPER
+================================================================================
+
+Language: Urdu
+Code: 9UR0
+PDF: https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018...
+
+[INFO] Downloading PDF...
+[OK] Downloaded 56 pages
+[OK] Saved debug file: debug-9ur0-spec.txt
+
+[INFO] Extracting themes for Urdu...
+[WARN] No themes found with standard patterns
+
+[WARN] Only found 3 topics (just papers)
+[INFO] This language needs manual extraction
+[INFO] Check debug-9ur0-spec.txt for theme section
+
+[MANUAL] Urdu needs manual extraction
+
+
+================================================================================
+SUMMARY
+================================================================================
+
+✅ Successfully scraped: 4
+   • 9FR0: French
+   • 9GK0: Greek
+   • 9GN0: German
+   • 9SP0: Spanish
+
+⚠️  Need manual extraction: 8
+   • 9GU0: Gujarati
+      → Check debug-9gu0-spec.txt
+   • 9IN0: Italian
+      → Check debug-9in0-spec.txt
+   • 9JA0: Japanese
+      → Check debug-9ja0-spec.txt
+   • 9PE0: Persian
+      → Check debug-9pe0-spec.txt
+   • 9PT0: Portuguese
+      → Check debug-9pt0-spec.txt
+   • 9RU0: Russian
+      → Check debug-9ru0-spec.txt
+   • 9TU0: Turkish
+      → Check debug-9tu0-spec.txt
+   • 9UR0: Urdu
+      → Check debug-9ur0-spec.txt
+
+================================================================================

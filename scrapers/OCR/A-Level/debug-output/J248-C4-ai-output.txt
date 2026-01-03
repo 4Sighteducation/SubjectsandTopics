@@ -1,0 +1,37 @@
+1.1 C4.1 Predicting chemical reactions
+1.1.1 C4.1a recall the simple properties of Groups 1, 7 and 0
+1.1.1.1 physical and chemical properties
+1.1.2 C4.1b explain how observed simple properties of Groups 1, 7 and 0 depend on the outer shell of electrons of the atoms and predict properties from given trends down the groups
+1.1.2.1 ease of electron gain or loss
+1.1.2.2 physical and chemical properties
+1.1.3 C4.1c recall the general properties of transition metals and their compounds and exemplify these by reference to a small number of transition metals
+1.1.3.1 melting point
+1.1.3.2 density
+1.1.3.3 reactivity
+1.1.3.4 formation of coloured ions with different charges
+1.1.3.5 uses as catalysts
+1.1.4 C4.1d predict possible reactions and probable reactivity of elements from their positions in the Periodic Table
+1.1.5 C4.1e explain how the reactivity of metals with water or dilute acids is related to the tendency of the metal to form its positive ion
+1.1.6 C4.1f deduce an order of reactivity of metals based on experimental results
+
+2.1 C4.2 Identifying the products of chemical reactions
+2.1.1 C4.2a describe tests to identify selected gases
+2.1.1.1 oxygen
+2.1.1.2 hydrogen
+2.1.1.3 carbon dioxide
+2.1.1.4 chlorine
+2.1.2 C4.2b describe tests to identify aqueous cations and aqueous anions
+2.1.2.1 calcium, copper, iron(II), iron(III) and zinc using sodium hydroxide
+2.1.2.2 tests and expected results for carbonate ions (using diluted acid)
+2.1.2.3 chloride, bromide and iodide ions (using acidified dilute silver nitrate)
+2.1.2.4 sulfate ions (using acidified dilute barium chloride or acidified barium nitrate)
+2.1.3 C4.2c describe how to perform a flame test
+2.1.4 C4.2d identify species from test results
+2.1.5 C4.2e interpret flame tests to identify metal ions
+2.1.5.1 the ions of lithium, sodium, potassium, calcium and copper
+2.1.6 C4.2f describe the advantages of instrumental methods of analysis
+2.1.6.1 sensitivity
+2.1.6.2 accuracy
+2.1.6.3 speed
+2.1.7 C4.2g interpret an instrumental result given the appropriate data in chart or tabular form, when accompanied by a reference set of data in the same form
+2.1.7.1 the features of a mass spectroscopy chart

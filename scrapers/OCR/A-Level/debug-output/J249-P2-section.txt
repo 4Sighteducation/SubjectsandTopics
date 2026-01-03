@@ -1,0 +1,291 @@
+Topic P2: Forces
+P2.1 Motion
+Summary also be able to represent this information in a distance-time graph and have an
+Having looked at the nature of matter which makes up objects, we move on to understanding of relative motion of objects.
+consider the effects of forces. The interaction between objects leads to actions
+which can be seen by the observer, these actions are caused by forces between Common misconceptions
+the objects in question. Some of the interactions involve contact between the Learners can find the concept of action at a distance challenging. They have a
+objects, others involve no contact. We will also consider the importance of the tendency to believe that a velocity must have a positive value and have difficulty
+direction in which forces act to allow understanding of the importance of vector in associating a reverse in direction with a change in sign. It is therefore important
+quantities when trying to predict the action. to make sure learners are knowledgeable about the vector–scalar distinction.
+Underlying knowledge and understanding Tiering
+From their work in Key Stage 3 Science, learners will have a basic knowledge of Statements shown in bold type will only be tested in the Higher Tier papers.
+the mathematical relationship between speed, distance and time. They should All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+PM2.1i recall and apply: distance travelled (m) = speed (m/s) × time (s) M1a, M2b, M3a, M3b, M3c, M3d, M4a,
+M4b, M4c, M4d, M4e
+PM2.1ii recall and apply: M1a, M3a, M3b, M3c, M3d
+changeinvelocity(m/s)
+acceleration (m/s2) =
+time(s)
+PM2.1iii apply: (final velocity (m/s))2 – (initial velocity (m/s))2 = 2 × acceleration (m/s2) × distance (m) M1a, M3a, M3b, M3c, M3d
+PM2.1iv recall and apply: kinetic energy (J) = 1 × mass (kg) × (speed (m/s))2 M1a, M3a, M3b, M3c, M3d
+2
+18
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P2.1a describe how to measure distance and time in
+a range of scenarios
+P2.1b describe how to measure distance and time from graphs M4a, M4b, WS1.2b, Calculations of the speeds of
+and use these to calculate speed M4c, M4d, WS1.2e, learners when they walk and run
+M4f WS1.3a, a measured distance.
+WS1.3b,
+Investigation of trolleys on ramps at
+WS1.3c,
+an angle and whether this affects
+WS1.3g,
+speed. (PAG P3)
+WS1.3h,
+WS1.3i,
+WS2a, WS2b,
+WS2c, WS2d
+P2.1c make calculations using ratios and conversion from non-SI to SI units M1c, M3c
+proportional reasoning to convert units
+and to compute rates
+P2.1d explain the vector–scalar distinction as it
+applies to displacement and distance, velocity
+and speed
+P2.1e relate changes and differences in motion to M4a, M4b, WS1.3a Learners to draw displacement-time
+appropriate distance-time, and velocity-time M4c, M4d and velocity-time graphs of their
+graphs; interpret lines and slopes journey to school. (PAG P3)
+P2.1f interpret enclosed area in velocity-time M4a, M4b,
+graphs M4c, M4d,
+M4f
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+19
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P2.1g calculate average speed for non-uniform M1a, M1c,
+motion M2b, M3c
+P2.1h apply formulae relating distance, time and M1a, M1c, WS1.2b, Investigation of acceleration.
+speed, for uniform motion, and for motion M2b, M3c WS1.2e, (PAG P3)
+with uniform acceleration WS1.3a,
+WS1.3b,
+WS1.3c,
+WS1.3g,
+WS1.3h,
+WS1.3i,
+WS2a, WS2b,
+WS2c, WS2d
+20
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+P2.2 Newton’s laws
+Summary Common misconceptions
+Newton’s laws of motion essentially define the means by which motion changes Learners commonly have misconceptions about objects needing a net force for
+and the relationship between these changes in motion with force and mass. them to continue to move steadily and can struggle to understand that stationary
+objects also have forces acting on them. Difficulties faced by learners when trying
+Underlying knowledge and understanding to differentiate between scalar and vector quantities is the idea of objects with
+Learners should have an understanding of contact and non-contact forces a changing direction not having a constant vector value, for example, objects
+influencing the motion of an object. They should be aware of the newton and moving in a circle. This issue also arises with the concept of momentum and
+that this is the unit of force. The three laws themselves will be new to the changes in momentum of colliding objects.
+learners. Learners are expected to be able to use force arrows and have an
+understanding of balanced and unbalanced forces. Tiering
+Statements shown in bold type will only be tested in the Higher Tier papers.
+All other statements will be assessed in both Foundation and Higher Tier papers.
+Reference Mathematical learning outcomes Mathematical skills
+PM2.2i recall and apply: force (N) = mass (kg) × acceleration (m/s2) M1a, M2a, M3a, M3b, M3c, M3d
+PM2.2ii recall and apply: momentum (kg m/s) = mass (kg) × velocity (m/s) M1a, M2a, M3a, M3b, M3c, M3d
+PM2.2iii recall and apply: work done (J) = force (N) × distance (m) (along the line of action of the force) M1a, M2a, M3a, M3b, M3c, M3d
+PM2.2iv recall and apply: M1a, M2a, M3a, M3b, M3c, M3d
+workdone(J)
+power (W) =
+time(s)
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+21
+Version
+4.2
+©
+OCR
+2024
+2
+Topic content Opportunities to cover:
+Practical suggestions
+Working
+Learning outcomes To include Maths
+scientifically
+P2.2a recall examples of ways in which objects interact electrostatics, gravity,
+magnetism and by
+contact (including
+normal contact force
+and friction)
+P2.2b describe how such examples involve interactions
+between pairs of objects which produce a force on
+each object
+P2.2c represent forces as vectors drawing free body force M5b WS1.2a, Measurement of the velocity
+diagrams to demonstrate WS1.2b, of ball bearings in glycerol at
+understanding of forces WS1.2c, different temperatures or of
+acting as vectors WS1.2e, differing sizes. (PAG P3)
+WS1.3a,
+WS1.3c,
+WS1.3e,
+WS1.3h,
+WS2a, WS2b,
+WS2d
+P2.2d apply Newton’s first law to explain the motion of an looking at forces on one WS1.3e, Demonstration of the
+object moving with uniform velocity and also an object body and resultant forces WS2a behaviour of colliding gliders
+where the speed and/or direction change and their effects on a linear air track. (PAG P3)
+(qualitative only)
+Use of balloon gliders to
+consider the effect of a force
+on a body.
+P2.2e use vector diagrams to illustrate resolution of forces, a scale drawings limited to M4a, M5a,
+net force (resultant force), and equilibrium situations parallel and perpendicular M5b
+vectors only
+22
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P2.2f describe examples of the forces acting on an isolated examples of objects that WS1.2a, Learners to design and build a
+solid object or system reach terminal velocity WS1.2b, parachute for a mass, and
+for example skydivers WS1.2c, measure its terminal velocity
+and applying similar WS1.2e, as it is dropped. (PAG P3)
+ideas to vehicles WS1.3a,
+WS1.3c,
+WS1.3e,
+WS1.3h,
+WS2a, WS2b,
+WS2d
+P2.2g describe, using free body diagrams, examples where
+two or more forces lead to a resultant force on an object
+P2.2h describe, using free body diagrams, examples of the
+special case where forces balance to produce a resultant
+force of zero (qualitative only)
+P2.2i apply Newton’s second law in calculations relating forces, M1a, M2a, WS1.2a, Use of light gates, weights
+masses and accelerations M3b, M3c, WS1.2b, and trolleys to investigate
+M3d WS1.2c, the link between force and
+WS1.2e, acceleration. (PAG P2)
+WS1.3a,
+WS1.3c,
+WS1.3e,
+WS1.3h,
+WS2a, WS2b,
+WS2c, WS2d
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+23
+Version
+4.2
+©
+OCR
+2024
+2
+Working
+Learning outcomes To include Maths Practical suggestions
+scientifically
+P2.2j explain that inertia is a measure of how difficult it is to
+change the velocity of an object and that the inertial
+mass is defined as the ratio of force over acceleration
+P2.2k define momentum and describe examples of an idea of the law of WS1.2a, Use of light gates, weights
+momentum in collisions conservation of WS1.2b, and trolleys to measure
+momentum in collisions WS1.2c, momentum of colliding
+WS1.2e, trollies. (PAG P3)
+WS1.3a,
+Use of a water rocket to
+WS1.3c,
+demonstrate that the
+WS1.3e,
+explosion propels the water
+WS1.3h,
+down with the same
+WS2a, WS2b,
+momentum as the rocket
+WS2c, WS2d
+shoots up.
+P2.2l þ apply formulae relating force, mass, velocity and M3b, M3c,
+acceleration to explain how the changes involved are M3d
+inter-related
+P2.2m use the relationship between work done, force, and M1a, M2a, WS1.4a, Measurement of work done
+distance moved along the line of action of the force and M3a, M3b, WS2a, WS2b by learners lifting weights or
+describe the energy transfer involved M3c, M3d walking up stairs. (PAG P5)
+P2.2n calculate relevant values of stored energy and energy M1c, M3c WS1.4e,
+transfers; convert between newton-metres and joules WS1.4f
+P2.2o explain, with reference to examples, the definition of
+power as the rate at which energy is transferred
+P2.2p recall and apply Newton’s third law application to situations
+of equilibrium and
+non-equilibrium
+P2.2q explain why an object moving in a circle with a constant WS1.3e Demonstration of spinning a
+speed has a changing velocity (qualitative only) rubber bung on a string.
+24
+GCSE
+(9–1)
+in
+Physics
+A
+(Gateway
+Science)
+Version
+4.2
+©
+OCR
+2024
+2
+P2.3 Forces in action
+Summary force due to gravity and that gravitational field strength differs on other planets
+Forces acting on an object can result in a change of shape or motion. Having and stars.
+looked at the nature of matter, we can now introduce the idea of fields an

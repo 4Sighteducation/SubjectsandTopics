@@ -15,3 +15,8 @@ WHERE topic_code IS NOT NULL;
 -- But we can add index to help with queries
 CREATE INDEX IF NOT EXISTS idx_constraints_type_spec
 ON selection_constraints(spec_metadata_id, constraint_type);
+
+
+
+
+

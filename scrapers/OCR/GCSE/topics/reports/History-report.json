@@ -1,0 +1,308 @@
+{
+  "subject_name": "History",
+  "level": "GCSE",
+  "pdf_url": "https://www.eduqas.co.uk/media/qhsb4fdj/eduqas-gcse-history-spec-from-2016-e-160725.pdf",
+  "start_time": "2025-11-23T19:04:48.947512",
+  "success": true,
+  "topics_extracted": 386,
+  "levels": {
+    "0": 2,
+    "1": 4,
+    "2": 16,
+    "3": 112,
+    "4": 228,
+    "5": 24
+  },
+  "issues": [],
+  "warnings": [
+    "Not all components extracted"
+  ],
+  "success_grade": 85,
+  "analysis": {
+    "content_found": true,
+    "has_components": true,
+    "has_tiers": false,
+    "has_options": true,
+    "has_appendices": true,
+    "components": [
+      {
+        "number": "1",
+        "name": "11"
+      },
+      {
+        "number": "2",
+        "name": "19"
+      },
+      {
+        "number": "1",
+        "name": "Studies in Depth"
+      },
+      {
+        "number": "2",
+        "name": "Studies in Breadth"
+      },
+      {
+        "number": "1",
+        "name": "Studies in Depth"
+      },
+      {
+        "number": "2",
+        "name": "Studies in Breadth"
+      },
+      {
+        "number": "1",
+        "name": "Studies in Depth"
+      },
+      {
+        "number": "2",
+        "name": "Studies in Breadth"
+      },
+      {
+        "number": "1",
+        "name": "and a British-based Thematic Study in Component 2."
+      },
+      {
+        "number": "1",
+        "name": "Studies in Depth"
+      },
+      {
+        "number": "1",
+        "name": "BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "NON-BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "NON-BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "NON-BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "NON-BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "2",
+        "name": "Studies in Breadth"
+      },
+      {
+        "number": "2",
+        "name": "PERIOD STUDY"
+      },
+      {
+        "number": "2",
+        "name": "PERIOD STUDY"
+      },
+      {
+        "number": "2",
+        "name": "PERIOD STUDY"
+      },
+      {
+        "number": "2",
+        "name": "PERIOD STUDY"
+      },
+      {
+        "number": "2",
+        "name": "THEMATIC STUDY"
+      },
+      {
+        "number": "2",
+        "name": "THEMATIC STUDY"
+      },
+      {
+        "number": "2",
+        "name": "THEMATIC STUDY"
+      },
+      {
+        "number": "2",
+        "name": "THEMATIC STUDY"
+      },
+      {
+        "number": "1",
+        "name": "15% 8% 12% 15% 50%"
+      },
+      {
+        "number": "2",
+        "name": "20% 27% 3% - 50%"
+      },
+      {
+        "number": "1",
+        "name": "(from British Studies in Depth and Non-British"
+      },
+      {
+        "number": "2",
+        "name": "(from Period Studies and Thematic"
+      },
+      {
+        "number": "1",
+        "name": "STUDIES IN DEPTH"
+      },
+      {
+        "number": "2",
+        "name": "STUDIES IN BREADTH"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Component 2"
+      },
+      {
+        "number": "1",
+        "name": "Studies in Depth"
+      },
+      {
+        "number": "2",
+        "name": "Studies in Breadth"
+      },
+      {
+        "number": "1",
+        "name": "Studies in Depth"
+      },
+      {
+        "number": "2",
+        "name": "Studies in Breadth"
+      },
+      {
+        "number": "1",
+        "name": "Studies in Depth"
+      },
+      {
+        "number": "2",
+        "name": "Studies in Breadth"
+      },
+      {
+        "number": "1",
+        "name": "BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "NON-BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "NON-BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "NON-BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "1",
+        "name": "NON-BRITISH STUDY IN DEPTH"
+      },
+      {
+        "number": "2",
+        "name": "PERIOD STUDY"
+      },
+      {
+        "number": "2",
+        "name": "PERIOD STUDY"
+      },
+      {
+        "number": "2",
+        "name": "PERIOD STUDY"
+      },
+      {
+        "number": "2",
+        "name": "PERIOD STUDY"
+      },
+      {
+        "number": "2",
+        "name": "THEMATIC STUDY"
+      },
+      {
+        "number": "2",
+        "name": "THEMATIC STUDY"
+      },
+      {
+        "number": "2",
+        "name": "THEMATIC STUDY"
+      },
+      {
+        "number": "2",
+        "name": "THEMATIC STUDY"
+      },
+      {
+        "number": "1",
+        "name": "STUDIES IN DEPTH"
+      },
+      {
+        "number": "2",
+        "name": "STUDIES IN BREADTH"
+      }
+    ],
+    "tiers": [],
+    "options": [
+      "1D and 2D; 1G and 2B; and 1H and 2A. See Appendix A for a list of all"
+    ],
+    "appendices": [
+      "Appendix L"
+    ],
+    "structure_type": "component-based"
+  },
+  "duration_seconds": 99.1150004863739,
+  "end_time": "2025-11-23T19:06:28.062512"
+}

@@ -1,0 +1,608 @@
+1 Foundation Tier
+1.1 B1: Cell level systems
+1.1.1 B1.1 Cell structures
+1.1.1.1 Describe how light microscopes and staining can be used to view cells
+1.1.1.2 Explain how the main sub-cellular structures of eukaryotic cells (plants and animals) and prokaryotic cells are related to their functions
+1.1.1.3 Explain how electron microscopy has increased our understanding of sub-cellular structures
+1.1.2 B1.2 What happens in cells (and what do cells need)?
+1.1.2.1 Describe DNA as a polymer
+1.1.2.2 Describe DNA as being made up of two strands forming a double helix
+1.1.2.3 Describe experiments that can be used to investigate enzymatic reactions
+1.1.2.4 Explain the mechanism of enzyme action
+1.1.3 B1.3 Respiration
+1.1.3.1 Describe cellular respiration as a universal chemical process, continuously occurring in all living cells that supply ATP
+1.1.3.2 Describe cellular respiration as an exothermic reaction
+1.1.3.3 Compare the processes of aerobic and anaerobic respiration
+1.1.4 B1.4 Photosynthesis
+1.1.4.1 Describe photosynthetic organisms as the main producers of food and therefore biomass for life on Earth
+1.1.4.2 Describe the process of photosynthesis
+1.1.4.3 Describe photosynthesis as an endothermic reaction
+1.1.4.4 Describe experiments to investigate photosynthesis
+1.1.4.5 Explain the effect of temperature, light intensity and carbon dioxide concentration on the rate of photosynthesis
+1.1.4.6 Explain the interaction of temperature, light intensity and carbon dioxide concentration in limiting the rate of photosynthesis
+1.2 B2: Scaling up
+1.2.1 B2.1 Supplying the cell
+1.2.1.1 Explain how substances are transported into and out of cells through diffusion, osmosis and active transport
+1.2.1.2 Describe the process of mitosis in the growth, including the cell cycle
+1.2.1.3 Explain the importance of cell differentiation
+1.2.1.4 Recall that stem cells are present in embryonic and adult animals, and meristems in plants
+1.2.1.5 Describe the functions of stem cells in embryonic and adult animals, and meristems in plants
+1.2.1.6 Describe the difference between embryonic and adult stem cells in animals
+1.2.2 B2.2 The challenges of size
+1.2.2.1 Explain the need for exchange surfaces and a transport system in multicellular organisms in terms of surface area:volume ratio
+1.2.2.2 Describe some of the substances transported into and out of a range of organisms in terms of the requirements of those organisms
+1.2.2.3 Describe the human circulatory system
+1.2.2.4 Explain how the structure of the heart and the blood vessels are adapted to their functions
+1.2.2.5 Explain how red blood cells and plasma are adapted to their transport functions in the blood
+1.2.2.6 Explain how water and mineral ions are taken up by plants, relating the structure of the root hair cells to their function
+1.2.2.7 Describe the processes of transpiration and translocation
+1.2.2.8 Explain how the structure of the xylem and phloem are adapted to their functions in the plant
+1.2.2.9 Explain the effect of a variety of environmental factors on the rate of water uptake by a plant
+1.2.2.10 Describe how a simple potometer can be used to investigate factors that affect the rate of water uptake
+1.3 B3: Organism level systems
+1.3.1 B3.1 Coordination and control – the nervous system
+1.3.1.1 Describe the structure of the nervous system
+1.3.1.2 Explain how the components of the nervous system can produce a coordinated response
+1.3.1.3 Explain how the structure of a reflex arc is related to its function
+1.3.2 B3.2 Coordination and control – the endocrine system
+1.3.2.1 Describe the principles of hormonal coordination and control by the human endocrine system
+1.3.2.2 Explain the roles of thyroxine and adrenaline in the body
+1.3.2.3 Describe the role of hormones in human reproduction including the control of the menstrual cycle
+1.3.2.4 Explain the interactions of FSH, LH, oestrogen and progesterone in the control of the menstrual cycle
+1.3.2.5 Explain the use of hormones in contraception and evaluate hormonal and non-hormonal methods of contraception
+1.3.2.6 Explain the use of hormones in modern reproductive technologies to treat infertility
+1.3.3 B3.3 Maintaining internal environments
+1.3.3.1 Explain the importance of maintaining a constant internal environment in response to internal and external change
+1.3.3.2 Explain how insulin controls blood sugar levels in the body
+1.3.3.3 Explain how glucagon interacts with insulin to control blood sugar levels in the body
+1.3.3.4 Compare type 1 and type 2 diabetes and explain how they can be treated
+1.4 B4: Community level systems
+1.4.1 B4.1 Ecosystems
+1.4.1.1 Recall that many different materials cycle through the abiotic and biotic components of an ecosystem
+1.4.1.2 Explain the role of microorganisms in the cycling of materials through an ecosystem
+1.4.1.3 Explain the importance of the carbon cycle and the water cycle to living organisms
+1.4.1.4 Describe different levels of organisation in an ecosystem from individual organisms to the whole ecosystem
+1.4.1.5 Explain how abiotic and biotic factors can affect communities
+1.4.1.6 Describe the importance of interdependence and competition in a community
+1.5 B5: Genes, inheritance and selection
+1.5.1 B5.1 Inheritance
+1.5.1.1 Explain the following terms: gamete, chromosome, gene, allele/variant, dominant, recessive, homozygous, heterozygous, genotype and phenotype
+1.5.1.2 Describe the genome as the entire genetic material of an organism
+1.5.1.3 Describe that the genome, and its interaction with the environment, influence the development of the phenotype of an organism
+1.5.1.4 Recall that all variants arise from mutations, and that most have no effect on the phenotype, some influence phenotype and a very few determine phenotype
+1.5.1.5 Explain the terms haploid and diploid
+1.5.1.6 Explain the role of meiotic cell division in halving the chromosome number to form gametes
+1.5.1.7 Explain single gene inheritance in the context of homozygous and heterozygous crosses
+1.5.1.8 Predict the results of single gene crosses
+1.5.1.9 Describe sex determination in humans using a genetic cross
+1.5.1.10 Recall that most phenotypic features are the result of multiple genes rather than single gene inheritance
+1.5.2 B5.2 Natural selection and evolution
+1.5.2.1 State that there is usually extensive genetic variation within a population of a species
+1.5.2.2 Describe the impact of developments in biology on classification systems
+1.5.2.3 Explain how evolution occurs through the natural selection of variants that have given rise to phenotypes best suited to their environment
+1.5.2.4 Describe evolution as a change in the inherited characteristics of a population over time, through a process of natural selection, which may result in the formation of new species
+1.5.2.5 Describe the evidence for evolution
+1.6 B6: Global challenges
+1.6.1 B6.1 Monitoring and maintaining the environment
+1.6.1.1 Explain how to carry out a field investigation into the distribution and abundance of organisms in a habitat and how to determine their numbers in a given area
+1.6.1.2 Describe both positive and negative human interactions within ecosystems and explain their impact on biodiversity
+1.6.1.3 Explain some of the benefits and challenges of maintaining local and global biodiversity
+1.6.2 B6.2 Feeding the human race
+1.6.2.1 Explain the impact of the selective breeding of food plants and domesticated animals
+1.6.2.2 Describe genetic engineering as a process which involves modifying the genome of an organism to introduce desirable characteristics
+1.6.2.3 Describe the main steps in the process of genetic engineering
+1.6.2.4 Explain some of the possible benefits and risks of using gene technology in modern agriculture
+1.6.3 B6.3 Monitoring and maintaining health
+1.6.3.1 Describe the relationship between health and disease
+1.6.3.2 Describe different types of diseases
+1.6.3.3 Describe the interactions between different types of disease
+1.6.3.4 Explain how communicable diseases (caused by viruses, bacteria, protists and fungi) are spread in animals and plants
+1.6.3.5 Explain how the spread of communicable diseases may be reduced or prevented in animals and plants
+1.6.3.6 Describe a minimum of one common human infection, one plant disease and sexually transmitted infections in humans including HIV/AIDS
+1.6.3.7 Explain how white blood cells and platelets are adapted to their defence functions in the blood
+1.6.3.8 Describe the non-specific defence systems of the human body against pathogens
+1.6.3.9 Explain the role of the immune system of the human body in defence against disease
+1.6.3.10 Explain the use of vaccines and medicines in the prevention and treatment of disease
+1.6.3.11 Describe the processes of discovery and development of potential new medicines
+1.6.3.12 Recall that many non-communicable human diseases are caused by the interaction of a number of factors
+1.6.3.13 Evaluate some different treatments for cardiovascular disease
+1.6.3.14 Analyse the effect of lifestyle factors on the incidence of non-communicable diseases at local, national and global levels
+1.6.3.15 Describe cancer as the result of changes in cells that lead to uncontrolled growth and division
+1.6.3.16 Discuss potential benefits and risks associated with the use of stem cells in medicine
+1.6.3.17 Explain some of the possible benefits and risks of using gene technology in medicine
+1.6.3.18 Discuss the potential importance for medicine of our increasing understanding of the human genome
+1.7 C1: Particles
+1.7.1 C1.1 The particle model
+1.7.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+1.7.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+1.7.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+1.7.2 C1.2 Atomic structure
+1.7.2.1 Describe how and why the atomic model has changed over time
+1.7.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+1.7.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+1.7.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+1.7.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+1.8 C2: Elements, compounds and mixtures
+1.8.1 C2.1 Purity and separating mixtures
+1.8.1.1 Explain what is meant by the purity of a substance, distinguishing between the scientific and everyday use of the term ‘pure’
+1.8.1.2 Use melting point data to distinguish pure from impure substances
+1.8.1.3 Calculate relative formula masses of species separately and in a balanced chemical equation
+1.8.1.4 Deduce the empirical formula of a compound from the relative numbers of atoms present or from a model or diagram and vice versa
+1.8.1.5 Explain that many useful materials are formulations of mixtures
+1.8.1.6 Describe, explain and exemplify the processes of filtration, crystallisation, simple distillation, and fractional distillation
+1.8.1.7 Describe the techniques of paper and thin layer chromatography
+1.8.1.8 Recall that chromatography involves a stationary and a mobile phase and that separation depends on the distribution between the phases
+1.8.1.9 Interpret chromatograms, including the measuring Rf values
+1.8.1.10 Suggest suitable purification techniques given information about the substances involved
+1.8.1.11 Suggest chromatographic methods for distinguishing pure from impure substances
+1.8.2 C2.2 Bonding
+1.8.2.1 Describe metals and non-metals and explain the differences between them on the basis of their characteristic physical and chemical properties
+1.8.2.2 Explain how the atomic structure of metals and non-metals relates to their position in the Periodic Table
+1.8.2.3 Explain how the position of an element in the Periodic Table is related to the arrangement of electrons in its atoms and hence to its atomic number
+1.8.2.4 Describe and compare the nature and arrangement of chemical bonds in ionic compounds, simple molecules, giant covalent structures, polymers and metals
+1.8.2.5 Explain chemical bonding in terms of electrostatic forces and the transfer or sharing of electrons
+1.8.2.6 Construct dot and cross diagrams for simple covalent and binary ionic substances
+1.8.2.7 Describe the limitations of particular representations and models
+1.8.2.8 Explain how the reactions of elements are related to the arrangement of electrons in their atoms and hence to their atomic number
+1.8.2.9 Explain in terms of atomic number how Mendeleev’s arrangement was refined into the modern Periodic Table
+1.8.3 C2.3 Properties of materials
+1.8.3.1 Recall that carbon can form four covalent bonds
+1.8.3.2 Explain that the vast array of natural and synthetic organic compounds occur due to the ability of carbon to form families of similar compounds, chains and rings
+1.8.3.3 Explain the properties of diamond, graphite, fullerenes and graphene in terms of their structures and bonding
+1.8.3.4 Use ideas about energy transfers and the relative strength of chemical bonds and intermolecular forces to explain the different temperatures at which changes of state occur
+1.8.3.5 Use data to predict states of substances under given conditions and how this may be linked to changes of state
+1.8.3.6 Explain how the bulk properties of materials (ionic compounds; simple molecules; giant covalent structures; polymers and metals) are related to the different types of bonds they contain, their bond strengths in relation to intermolecular forces and the ways in which their bonds are arranged
+1.9 C3: Chemical reactions
+1.9.1 C3.1 Introducing chemical reactions
+1.9.1.1 Use chemical symbols to write the formulae of elements and simple covalent and ionic compounds
+1.9.1.2 Use the names and symbols of common elements and compounds and the principle of conservation of mass to write formulae and balanced chemical equations and half equations
+1.9.1.3 Use the names and symbols of common elements from a supplied Periodic Table to write formulae and balanced chemical equations where appropriate
+1.9.1.4 Use the formula of common ions to deduce the formula of a compound
+1.9.1.5 Construct balanced ionic equations
+1.9.1.6 Describe the physical states of products and reactants using state symbols (s, l, g and aq)
+1.9.1.7 Describe tests to identify selected gases
+1.9.1.8 Recall and use the definitions of the Avogadro constant (in standard form) and of the mole
+1.9.1.9 Explain how the mass of a given substance is related to the amount of that substance in moles and vice versa
+1.9.1.10 Explain how the mass of a solute and the volume of the solution is related to the concentration of the solution
+1.9.1.11 Recall and use the law of conservation of mass
+1.9.1.12 Explain any observed changes in mass in non-enclosed systems during a chemical reaction and explain them using the particle model
+1.9.1.13 Deduce the stoichiometry of an equation from the masses of reactants and products and explain the effect of a limiting quantity of a reactant
+1.9.1.14 Use a balanced equation to calculate masses of reactants or products
+1.9.2 C3.2 Energetics
+1.9.2.1 Distinguish between endothermic and exothermic reactions on the basis of the temperature change of the surroundings
+1.9.2.2 Draw and label a reaction profile for an exothermic and an endothermic reaction
+1.9.2.3 Explain activation energy as the energy needed for a reaction to occur
+1.9.2.4 Calculate energy changes in a chemical reaction by considering bond making and bond breaking energies
+1.9.3 C3.3 Types of chemical reactions
+1.9.3.1 Explain reduction and oxidation in terms of loss or gain of oxygen, identifying which species are oxidised and which are reduced
+1.9.3.2 Explain reduction and oxidation in terms of gain or loss of electrons, identifying which species are oxidised and which are reduced
+1.9.3.3 Recall that acids form hydrogen ions when they dissolve in water and solutions of alkalis contain hydroxide ions
+1.9.3.4 Describe neutralisation as acid reacting with alkali or a base to form a salt plus water
+1.9.3.5 Recognise that aqueous neutralisation reactions can be generalised to hydrogen ions reacting with hydroxide ions to form water
+1.9.3.6 Recall that carbonates and some metals react with acids and write balanced equations predicting products from given reactants
+1.9.3.7 Use and explain the terms dilute and concentrated (amount of substance) and weak and strong (degree of ionisation) in relation to acids
+1.9.3.8 Recall that relative acidity and alkalinity are measured by pH
+1.9.3.9 Describe neutrality and relative acidity and alkalinity in terms of the effect of the concentration of hydrogen ions on the numerical value of pH (whole numbers only)
+1.9.3.10 Use the idea that as hydrogen ion concentration increases by a factor of ten, the pH value of a solution decreases by one
+1.9.3.11 Describe techniques and apparatus used to measure pH
+1.9.4 C3.4 Electrolysis
+1.9.4.1 Recall that metals (or hydrogen) are formed at the cathode and non-metals are formed at the anode in electrolysis using inert electrodes
+1.9.4.2 Predict the products of electrolysis of ionic compounds in the molten state
+1.9.4.3 Describe competing reactions in the electrolysis of aqueous solutions of ionic compounds in terms of the different species present
+1.9.4.4 Describe electrolysis in terms of the ions present and reactions at the electrodes
+1.9.4.5 Describe the technique of electrolysis using inert and non-inert electrodes
+1.10 C4: Predicting and identifying chemical products
+1.10.1 C4.1 Predicting chemical reactions
+1.10.1.1 Recall the simple properties of Groups 1, 7 and 0
+1.10.1.2 Explain how observed simple properties of Groups 1, 7 and 0 depend on the outer shell of electrons of the atoms and predict properties from given trends down the groups
+1.10.1.3 Predict possible reactions and probable reactivity of elements from their positions in the Periodic Table
+1.10.1.4 Explain how the reactivity of metals with water or dilute acids is related to the tendency of the metal to form its positive ion
+1.10.1.5 Deduce an order of reactivity of metals based on experimental results
+1.11 C5: Monitoring and controlling chemical reactions
+1.11.1 C5.1 Controlling reactions
+1.11.1.1 Suggest practical methods for determining the rate of a given reaction
+1.11.1.2 Interpret rate of reaction graphs
+1.11.1.3 Describe the effect of changes in temperature, concentration, pressure, and surface area on rate of reaction
+1.11.1.4 Explain the effects on rates of reaction of changes in temperature, concentration and pressure in terms of frequency and energy of collision between particles
+1.11.1.5 Explain the effects on rates of reaction of changes in the size of the pieces of a reacting solid in terms of surface area to volume ratio
+1.11.1.6 Describe the characteristics of catalysts and their effect on rates of reaction
+1.11.1.7 Identify catalysts in reactions
+1.11.1.8 Explain catalytic action in terms of activation energy
+1.11.1.9 Recall that enzymes act as catalysts in biological systems
+1.11.2 C5.2 Equilibria
+1.11.2.1 Recall that some reactions may be reversed by altering the reaction conditions
+1.11.2.2 Recall that dynamic equilibrium occurs in a closed system when the rates of forward and reverse reactions are equal
+1.11.2.3 Predict the effect of changing reaction conditions on equilibrium position and suggest appropriate conditions to produce as much of a particular product as possible
+1.12 C6: Global challenges
+1.12.1 C6.1 Improving processes and products
+1.12.1.1 Explain, using the position of carbon in the reactivity series, the principles of industrial processes used to extract metals, including extraction of a non-ferrous metal
+1.12.1.2 Explain why and how electrolysis is used to extract some metals from their ores
+1.12.1.3 Evaluate alternative biological methods of metal extraction
+1.12.1.4 Describe the basic principles in carrying out a life-cycle assessment of a material or product
+1.12.1.5 Interpret data from a life-cycle assessment of a material or product
+1.12.1.6 Describe a process where a material or product is recycled for a different use, and explain why this is viable
+1.12.1.7 Evaluate factors that affect decisions on recycling
+1.12.1.8 Describe the separation of crude oil by fractional distillation
+1.12.1.9 Explain the separation of crude oil by fractional distillation
+1.12.1.10 Describe the fractions as largely a mixture of compounds of formula CnH2n+2 which are members of the alkane homologous series
+1.12.1.11 Recall that crude oil is a main source of hydrocarbons and is a feedstock for the petrochemical industry
+1.12.1.12 Explain how modern life is crucially dependent upon hydrocarbons and recognise that crude oil is a finite resource
+1.12.1.13 Describe the production of materials that are more useful by cracking
+1.12.2 C6.2 Interpreting and interacting with earth systems
+1.12.2.1 Interpret evidence for how it is thought the atmosphere was originally formed
+1.12.2.2 Describe how it is thought an oxygen-rich atmosphere developed over time
+1.12.2.3 Describe the greenhouse effect in terms of the interaction of radiation with matter within the atmosphere
+1.12.2.4 Evaluate the evidence for additional anthropogenic (human activity) causes of climate change and describe the uncertainties in the evidence base
+1.12.2.5 Describe the potential effects of increased levels of carbon dioxide and methane on the Earth’s climate and how these effects may be mitigated
+1.12.2.6 Describe the major sources of carbon monoxide, sulfur dioxide, oxides of nitrogen and particulates in the atmosphere and explain the problems caused by increased amounts of these substances
+1.12.2.7 Describe the principal methods for increasing the availability of potable water in terms of the separation techniques used
+1.13 P1: Matter
+1.13.1 P1.1 The particle model
+1.13.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+1.13.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+1.13.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+1.13.2 P1.2 Atomic structure
+1.13.2.1 Describe how and why the atomic model has changed over time
+1.13.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+1.13.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+1.13.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+1.13.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+1.14 P2: Forces
+1.14.1 P2.1 Motion
+1.14.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+1.14.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+1.14.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+1.14.2 P2.2 Newton’s laws
+1.14.2.1 Describe how and why the atomic model has changed over time
+1.14.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+1.14.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+1.14.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+1.14.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+1.15 P3: Electricity and magnetism
+1.15.1 P3.1 Static and Charge
+1.15.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+1.15.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+1.15.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+1.15.2 P3.2 Simple circuits
+1.15.2.1 Describe how and why the atomic model has changed over time
+1.15.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+1.15.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+1.15.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+1.15.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+1.16 P4: Waves and radioactivity
+1.16.1 P4.1 Wave behaviour
+1.16.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+1.16.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+1.16.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+1.16.2 P4.2 The electromagnetic spectrum
+1.16.2.1 Describe how and why the atomic model has changed over time
+1.16.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+1.16.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+1.16.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+1.16.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+1.17 P5: Energy
+1.17.1 P5.1 Work done
+1.17.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+1.17.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+1.17.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+1.17.2 P5.2 Power and efficiency
+1.17.2.1 Describe how and why the atomic model has changed over time
+1.17.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+1.17.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+1.17.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+1.17.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+1.18 P6: Global challenges
+1.18.1 P6.1 Physics on the move
+1.18.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+1.18.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+1.18.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+1.18.2 P6.2 Powering Earth
+1.18.2.1 Describe how and why the atomic model has changed over time
+1.18.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+1.18.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+1.18.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+1.18.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+2 Higher Tier
+2.1 B1: Cell level systems
+2.1.1 B1.1 Cell structures
+2.1.1.1 Describe how light microscopes and staining can be used to view cells
+2.1.1.2 Explain how the main sub-cellular structures of eukaryotic cells (plants and animals) and prokaryotic cells are related to their functions
+2.1.1.3 Explain how electron microscopy has increased our understanding of sub-cellular structures
+2.1.2 B1.2 What happens in cells (and what do cells need)?
+2.1.2.1 Describe DNA as a polymer
+2.1.2.2 Describe DNA as being made up of two strands forming a double helix
+2.1.2.3 Describe experiments that can be used to investigate enzymatic reactions
+2.1.2.4 Explain the mechanism of enzyme action
+2.1.3 B1.3 Respiration
+2.1.3.1 Describe cellular respiration as a universal chemical process, continuously occurring in all living cells that supply ATP
+2.1.3.2 Describe cellular respiration as an exothermic reaction
+2.1.3.3 Compare the processes of aerobic and anaerobic respiration
+2.1.4 B1.4 Photosynthesis
+2.1.4.1 Describe photosynthetic organisms as the main producers of food and therefore biomass for life on Earth
+2.1.4.2 Describe the process of photosynthesis
+2.1.4.3 Describe photosynthesis as an endothermic reaction
+2.1.4.4 Describe experiments to investigate photosynthesis
+2.1.4.5 Explain the effect of temperature, light intensity and carbon dioxide concentration on the rate of photosynthesis
+2.1.4.6 Explain the interaction of temperature, light intensity and carbon dioxide concentration in limiting the rate of photosynthesis
+2.2 B2: Scaling up
+2.2.1 B2.1 Supplying the cell
+2.2.1.1 Explain how substances are transported into and out of cells through diffusion, osmosis and active transport
+2.2.1.2 Describe the process of mitosis in the growth, including the cell cycle
+2.2.1.3 Explain the importance of cell differentiation
+2.2.1.4 Recall that stem cells are present in embryonic and adult animals, and meristems in plants
+2.2.1.5 Describe the functions of stem cells in embryonic and adult animals, and meristems in plants
+2.2.1.6 Describe the difference between embryonic and adult stem cells in animals
+2.2.2 B2.2 The challenges of size
+2.2.2.1 Explain the need for exchange surfaces and a transport system in multicellular organisms in terms of surface area:volume ratio
+2.2.2.2 Describe some of the substances transported into and out of a range of organisms in terms of the requirements of those organisms
+2.2.2.3 Describe the human circulatory system
+2.2.2.4 Explain how the structure of the heart and the blood vessels are adapted to their functions
+2.2.2.5 Explain how red blood cells and plasma are adapted to their transport functions in the blood
+2.2.2.6 Explain how water and mineral ions are taken up by plants, relating the structure of the root hair cells to their function
+2.2.2.7 Describe the processes of transpiration and translocation
+2.2.2.8 Explain how the structure of the xylem and phloem are adapted to their functions in the plant
+2.2.2.9 Explain the effect of a variety of environmental factors on the rate of water uptake by a plant
+2.2.2.10 Describe how a simple potometer can be used to investigate factors that affect the rate of water uptake
+2.3 B3: Organism level systems
+2.3.1 B3.1 Coordination and control – the nervous system
+2.3.1.1 Describe the structure of the nervous system
+2.3.1.2 Explain how the components of the nervous system can produce a coordinated response
+2.3.1.3 Explain how the structure of a reflex arc is related to its function
+2.3.2 B3.2 Coordination and control – the endocrine system
+2.3.2.1 Describe the principles of hormonal coordination and control by the human endocrine system
+2.3.2.2 Explain the roles of thyroxine and adrenaline in the body
+2.3.2.3 Describe the role of hormones in human reproduction including the control of the menstrual cycle
+2.3.2.4 Explain the interactions of FSH, LH, oestrogen and progesterone in the control of the menstrual cycle
+2.3.2.5 Explain the use of hormones in contraception and evaluate hormonal and non-hormonal methods of contraception
+2.3.2.6 Explain the use of hormones in modern reproductive technologies to treat infertility
+2.3.3 B3.3 Maintaining internal environments
+2.3.3.1 Explain the importance of maintaining a constant internal environment in response to internal and external change
+2.3.3.2 Explain how insulin controls blood sugar levels in the body
+2.3.3.3 Explain how glucagon interacts with insulin to control blood sugar levels in the body
+2.3.3.4 Compare type 1 and type 2 diabetes and explain how they can be treated
+2.4 B4: Community level systems
+2.4.1 B4.1 Ecosystems
+2.4.1.1 Recall that many different materials cycle through the abiotic and biotic components of an ecosystem
+2.4.1.2 Explain the role of microorganisms in the cycling of materials through an ecosystem
+2.4.1.3 Explain the importance of the carbon cycle and the water cycle to living organisms
+2.4.1.4 Describe different levels of organisation in an ecosystem from individual organisms to the whole ecosystem
+2.4.1.5 Explain how abiotic and biotic factors can affect communities
+2.4.1.6 Describe the importance of interdependence and competition in a community
+2.5 B5: Genes, inheritance and selection
+2.5.1 B5.1 Inheritance
+2.5.1.1 Explain the following terms: gamete, chromosome, gene, allele/variant, dominant, recessive, homozygous, heterozygous, genotype and phenotype
+2.5.1.2 Describe the genome as the entire genetic material of an organism
+2.5.1.3 Describe that the genome, and its interaction with the environment, influence the development of the phenotype of an organism
+2.5.1.4 Recall that all variants arise from mutations, and that most have no effect on the phenotype, some influence phenotype and a very few determine phenotype
+2.5.1.5 Explain the terms haploid and diploid
+2.5.1.6 Explain the role of meiotic cell division in halving the chromosome number to form gametes
+2.5.1.7 Explain single gene inheritance in the context of homozygous and heterozygous crosses
+2.5.1.8 Predict the results of single gene crosses
+2.5.1.9 Describe sex determination in humans using a genetic cross
+2.5.1.10 Recall that most phenotypic features are the result of multiple genes rather than single gene inheritance
+2.5.2 B5.2 Natural selection and evolution
+2.5.2.1 State that there is usually extensive genetic variation within a population of a species
+2.5.2.2 Describe the impact of developments in biology on classification systems
+2.5.2.3 Explain how evolution occurs through the natural selection of variants that have given rise to phenotypes best suited to their environment
+2.5.2.4 Describe evolution as a change in the inherited characteristics of a population over time, through a process of natural selection, which may result in the formation of new species
+2.5.2.5 Describe the evidence for evolution
+2.6 B6: Global challenges
+2.6.1 B6.1 Monitoring and maintaining the environment
+2.6.1.1 Explain how to carry out a field investigation into the distribution and abundance of organisms in a habitat and how to determine their numbers in a given area
+2.6.1.2 Describe both positive and negative human interactions within ecosystems and explain their impact on biodiversity
+2.6.1.3 Explain some of the benefits and challenges of maintaining local and global biodiversity
+2.6.2 B6.2 Feeding the human race
+2.6.2.1 Explain the impact of the selective breeding of food plants and domesticated animals
+2.6.2.2 Describe genetic engineering as a process which involves modifying the genome of an organism to introduce desirable characteristics
+2.6.2.3 Describe the main steps in the process of genetic engineering
+2.6.2.4 Explain some of the possible benefits and risks of using gene technology in modern agriculture
+2.6.3 B6.3 Monitoring and maintaining health
+2.6.3.1 Describe the relationship between health and disease
+2.6.3.2 Describe different types of diseases
+2.6.3.3 Describe the interactions between different types of disease
+2.6.3.4 Explain how communicable diseases (caused by viruses, bacteria, protists and fungi) are spread in animals and plants
+2.6.3.5 Explain how the spread of communicable diseases may be reduced or prevented in animals and plants
+2.6.3.6 Describe a minimum of one common human infection, one plant disease and sexually transmitted infections in humans including HIV/AIDS
+2.6.3.7 Explain how white blood cells and platelets are adapted to their defence functions in the blood
+2.6.3.8 Describe the non-specific defence systems of the human body against pathogens
+2.6.3.9 Explain the role of the immune system of the human body in defence against disease
+2.6.3.10 Explain the use of vaccines and medicines in the prevention and treatment of disease
+2.6.3.11 Describe the processes of discovery and development of potential new medicines
+2.6.3.12 Recall that many non-communicable human diseases are caused by the interaction of a number of factors
+2.6.3.13 Evaluate some different treatments for cardiovascular disease
+2.6.3.14 Analyse the effect of lifestyle factors on the incidence of non-communicable diseases at local, national and global levels
+2.6.3.15 Describe cancer as the result of changes in cells that lead to uncontrolled growth and division
+2.6.3.16 Discuss potential benefits and risks associated with the use of stem cells in medicine
+2.6.3.17 Explain some of the possible benefits and risks of using gene technology in medicine
+2.6.3.18 Discuss the potential importance for medicine of our increasing understanding of the human genome
+2.7 C1: Particles
+2.7.1 C1.1 The particle model
+2.7.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+2.7.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+2.7.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+2.7.2 C1.2 Atomic structure
+2.7.2.1 Describe how and why the atomic model has changed over time
+2.7.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+2.7.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+2.7.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+2.7.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+2.8 C2: Elements, compounds and mixtures
+2.8.1 C2.1 Purity and separating mixtures
+2.8.1.1 Explain what is meant by the purity of a substance, distinguishing between the scientific and everyday use of the term ‘pure’
+2.8.1.2 Use melting point data to distinguish pure from impure substances
+2.8.1.3 Calculate relative formula masses of species separately and in a balanced chemical equation
+2.8.1.4 Deduce the empirical formula of a compound from the relative numbers of atoms present or from a model or diagram and vice versa
+2.8.1.5 Explain that many useful materials are formulations of mixtures
+2.8.1.6 Describe, explain and exemplify the processes of filtration, crystallisation, simple distillation, and fractional distillation
+2.8.1.7 Describe the techniques of paper and thin layer chromatography
+2.8.1.8 Recall that chromatography involves a stationary and a mobile phase and that separation depends on the distribution between the phases
+2.8.1.9 Interpret chromatograms, including the measuring Rf values
+2.8.1.10 Suggest suitable purification techniques given information about the substances involved
+2.8.1.11 Suggest chromatographic methods for distinguishing pure from impure substances
+2.8.2 C2.2 Bonding
+2.8.2.1 Describe metals and non-metals and explain the differences between them on the basis of their characteristic physical and chemical properties
+2.8.2.2 Explain how the atomic structure of metals and non-metals relates to their position in the Periodic Table
+2.8.2.3 Explain how the position of an element in the Periodic Table is related to the arrangement of electrons in its atoms and hence to its atomic number
+2.8.2.4 Describe and compare the nature and arrangement of chemical bonds in ionic compounds, simple molecules, giant covalent structures, polymers and metals
+2.8.2.5 Explain chemical bonding in terms of electrostatic forces and the transfer or sharing of electrons
+2.8.2.6 Construct dot and cross diagrams for simple covalent and binary ionic substances
+2.8.2.7 Describe the limitations of particular representations and models
+2.8.2.8 Explain how the reactions of elements are related to the arrangement of electrons in their atoms and hence to their atomic number
+2.8.2.9 Explain in terms of atomic number how Mendeleev’s arrangement was refined into the modern Periodic Table
+2.8.3 C2.3 Properties of materials
+2.8.3.1 Recall that carbon can form four covalent bonds
+2.8.3.2 Explain that the vast array of natural and synthetic organic compounds occur due to the ability of carbon to form families of similar compounds, chains and rings
+2.8.3.3 Explain the properties of diamond, graphite, fullerenes and graphene in terms of their structures and bonding
+2.8.3.4 Use ideas about energy transfers and the relative strength of chemical bonds and intermolecular forces to explain the different temperatures at which changes of state occur
+2.8.3.5 Use data to predict states of substances under given conditions and how this may be linked to changes of state
+2.8.3.6 Explain how the bulk properties of materials (ionic compounds; simple molecules; giant covalent structures; polymers and metals) are related to the different types of bonds they contain, their bond strengths in relation to intermolecular forces and the ways in which their bonds are arranged
+2.9 C3: Chemical reactions
+2.9.1 C3.1 Introducing chemical reactions
+2.9.1.1 Use chemical symbols to write the formulae of elements and simple covalent and ionic compounds
+2.9.1.2 Use the names and symbols of common elements and compounds and the principle of conservation of mass to write formulae and balanced chemical equations and half equations
+2.9.1.3 Use the names and symbols of common elements from a supplied Periodic Table to write formulae and balanced chemical equations where appropriate
+2.9.1.4 Use the formula of common ions to deduce the formula of a compound
+2.9.1.5 Construct balanced ionic equations
+2.9.1.6 Describe the physical states of products and reactants using state symbols (s, l, g and aq)
+2.9.1.7 Describe tests to identify selected gases
+2.9.1.8 Recall and use the definitions of the Avogadro constant (in standard form) and of the mole
+2.9.1.9 Explain how the mass of a given substance is related to the amount of that substance in moles and vice versa
+2.9.1.10 Explain how the mass of a solute and the volume of the solution is related to the concentration of the solution
+2.9.1.11 Recall and use the law of conservation of mass
+2.9.1.12 Explain any observed changes in mass in non-enclosed systems during a chemical reaction and explain them using the particle model
+2.9.1.13 Deduce the stoichiometry of an equation from the masses of reactants and products and explain the effect of a limiting quantity of a reactant
+2.9.1.14 Use a balanced equation to calculate masses of reactants or products
+2.9.2 C3.2 Energetics
+2.9.2.1 Distinguish between endothermic and exothermic reactions on the basis of the temperature change of the surroundings
+2.9.2.2 Draw and label a reaction profile for an exothermic and an endothermic reaction
+2.9.2.3 Explain activation energy as the energy needed for a reaction to occur
+2.9.2.4 Calculate energy changes in a chemical reaction by considering bond making and bond breaking energies
+2.9.3 C3.3 Types of chemical reactions
+2.9.3.1 Explain reduction and oxidation in terms of loss or gain of oxygen, identifying which species are oxidised and which are reduced
+2.9.3.2 Explain reduction and oxidation in terms of gain or loss of electrons, identifying which species are oxidised and which are reduced
+2.9.3.3 Recall that acids form hydrogen ions when they dissolve in water and solutions of alkalis contain hydroxide ions
+2.9.3.4 Describe neutralisation as acid reacting with alkali or a base to form a salt plus water
+2.9.3.5 Recognise that aqueous neutralisation reactions can be generalised to hydrogen ions reacting with hydroxide ions to form water
+2.9.3.6 Recall that carbonates and some metals react with acids and write balanced equations predicting products from given reactants
+2.9.3.7 Use and explain the terms dilute and concentrated (amount of substance) and weak and strong (degree of ionisation) in relation to acids
+2.9.3.8 Recall that relative acidity and alkalinity are measured by pH
+2.9.3.9 Describe neutrality and relative acidity and alkalinity in terms of the effect of the concentration of hydrogen ions on the numerical value of pH (whole numbers only)
+2.9.3.10 Use the idea that as hydrogen ion concentration increases by a factor of ten, the pH value of a solution decreases by one
+2.9.3.11 Describe techniques and apparatus used to measure pH
+2.9.4 C3.4 Electrolysis
+2.9.4.1 Recall that metals (or hydrogen) are formed at the cathode and non-metals are formed at the anode in electrolysis using inert electrodes
+2.9.4.2 Predict the products of electrolysis of ionic compounds in the molten state
+2.9.4.3 Describe competing reactions in the electrolysis of aqueous solutions of ionic compounds in terms of the different species present
+2.9.4.4 Describe electrolysis in terms of the ions present and reactions at the electrodes
+2.9.4.5 Describe the technique of electrolysis using inert and non-inert electrodes
+2.10 C4: Predicting and identifying chemical products
+2.10.1 C4.1 Predicting chemical reactions
+2.10.1.1 Recall the simple properties of Groups 1, 7 and 0
+2.10.1.2 Explain how observed simple properties of Groups 1, 7 and 0 depend on the outer shell of electrons of the atoms and predict properties from given trends down the groups
+2.10.1.3 Predict possible reactions and probable reactivity of elements from their positions in the Periodic Table
+2.10.1.4 Explain how the reactivity of metals with water or dilute acids is related to the tendency of the metal to form its positive ion
+2.10.1.5 Deduce an order of reactivity of metals based on experimental results
+2.11 C5: Monitoring and controlling chemical reactions
+2.11.1 C5.1 Controlling reactions
+2.11.1.1 Suggest practical methods for determining the rate of a given reaction
+2.11.1.2 Interpret rate of reaction graphs
+2.11.1.3 Describe the effect of changes in temperature, concentration, pressure, and surface area on rate of reaction
+2.11.1.4 Explain the effects on rates of reaction of changes in temperature, concentration and pressure in terms of frequency and energy of collision between particles
+2.11.1.5 Explain the effects on rates of reaction of changes in the size of the pieces of a reacting solid in terms of surface area to volume ratio
+2.11.1.6 Describe the characteristics of catalysts and their effect on rates of reaction
+2.11.1.7 Identify catalysts in reactions
+2.11.1.8 Explain catalytic action in terms of activation energy
+2.11.1.9 Recall that enzymes act as catalysts in biological systems
+2.11.2 C5.2 Equilibria
+2.11.2.1 Recall that some reactions may be reversed by altering the reaction conditions
+2.11.2.2 Recall that dynamic equilibrium occurs in a closed system when the rates of forward and reverse reactions are equal
+2.11.2.3 Predict the effect of changing reaction conditions on equilibrium position and suggest appropriate conditions to produce as much of a particular product as possible
+2.12 C6: Global challenges
+2.12.1 C6.1 Improving processes and products
+2.12.1.1 Explain, using the position of carbon in the reactivity series, the principles of industrial processes used to extract metals, including extraction of a non-ferrous metal
+2.12.1.2 Explain why and how electrolysis is used to extract some metals from their ores
+2.12.1.3 Evaluate alternative biological methods of metal extraction
+2.12.1.4 Describe the basic principles in carrying out a life-cycle assessment of a material or product
+2.12.1.5 Interpret data from a life-cycle assessment of a material or product
+2.12.1.6 Describe a process where a material or product is recycled for a different use, and explain why this is viable
+2.12.1.7 Evaluate factors that affect decisions on recycling
+2.12.1.8 Describe the separation of crude oil by fractional distillation
+2.12.1.9 Explain the separation of crude oil by fractional distillation
+2.12.1.10 Describe the fractions as largely a mixture of compounds of formula CnH2n+2 which are members of the alkane homologous series
+2.12.1.11 Recall that crude oil is a main source of hydrocarbons and is a feedstock for the petrochemical industry
+2.12.1.12 Explain how modern life is crucially dependent upon hydrocarbons and recognise that crude oil is a finite resource
+2.12.1.13 Describe the production of materials that are more useful by cracking
+2.12.2 C6.2 Interpreting and interacting with earth systems
+2.12.2.1 Interpret evidence for how it is thought the atmosphere was originally formed
+2.12.2.2 Describe how it is thought an oxygen-rich atmosphere developed over time
+2.12.2.3 Describe the greenhouse effect in terms of the interaction of radiation with matter within the atmosphere
+2.12.2.4 Evaluate the evidence for additional anthropogenic (human activity) causes of climate change and describe the uncertainties in the evidence base
+2.12.2.5 Describe the potential effects of increased levels of carbon dioxide and methane on the Earth’s climate and how these effects may be mitigated
+2.12.2.6 Describe the major sources of carbon monoxide, sulfur dioxide, oxides of nitrogen and particulates in the atmosphere and explain the problems caused by increased amounts of these substances
+2.12.2.7 Describe the principal methods for increasing the availability of potable water in terms of the separation techniques used
+2.13 P1: Matter
+2.13.1 P1.1 The particle model
+2.13.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+2.13.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+2.13.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+2.13.2 P1.2 Atomic structure
+2.13.2.1 Describe how and why the atomic model has changed over time
+2.13.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+2.13.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+2.13.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+2.13.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+2.14 P2: Forces
+2.14.1 P2.1 Motion
+2.14.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+2.14.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+2.14.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+2.14.2 P2.2 Newton’s laws
+2.14.2.1 Describe how and why the atomic model has changed over time
+2.14.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+2.14.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+2.14.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+2.14.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+2.15 P3: Electricity and magnetism
+2.15.1 P3.1 Static and Charge
+2.15.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+2.15.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+2.15.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+2.15.2 P3.2 Simple circuits
+2.15.2.1 Describe how and why the atomic model has changed over time
+2.15.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+2.15.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+2.15.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+2.15.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+2.16 P4: Waves and radioactivity
+2.16.1 P4.1 Wave behaviour
+2.16.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+2.16.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+2.16.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+2.16.2 P4.2 The electromagnetic spectrum
+2.16.2.1 Describe how and why the atomic model has changed over time
+2.16.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+2.16.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+2.16.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+2.16.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+2.17 P5: Energy
+2.17.1 P5.1 Work done
+2.17.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+2.17.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+2.17.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+2.17.2 P5.2 Power and efficiency
+2.17.2.1 Describe how and why the atomic model has changed over time
+2.17.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+2.17.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+2.17.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+2.17.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes
+2.18 P6: Global challenges
+2.18.1 P6.1 Physics on the move
+2.18.1.1 Describe the main features of the particle model in terms of states of matter and change of state
+2.18.1.2 Explain in terms of the particle model the distinction between physical changes and chemical changes
+2.18.1.3 Explain the limitations of the particle model in relation to changes of state when particles are represented by inelastic spheres
+2.18.2 P6.2 Powering Earth
+2.18.2.1 Describe how and why the atomic model has changed over time
+2.18.2.2 Describe the atom as a positively charged nucleus surrounded by negatively charged electrons, with the nuclear radius much smaller than that of the atom and with most of the mass in the nucleus
+2.18.2.3 Recall the typical size (order of magnitude) of atoms and small molecules
+2.18.2.4 Recall relative charges and approximate relative masses of protons, neutrons and electrons
+2.18.2.5 Calculate numbers of protons, neutrons and electrons in atoms and ions, given atomic number and mass number of isotopes

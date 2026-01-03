@@ -1,0 +1,54 @@
+```json
+{
+    "tiers": {
+        "has_tiers": true,
+        "foundation_content": "Content is split into six teaching topics C1-C6 and a practical activity skills topic C7. Paper 1 assesses content from Topics C1–C3 and C7. Paper 2 assesses content from Topics C4–C6 and C7, with assumed knowledge of Topics C1–C3.",
+        "higher_content": "Content is split into six teaching topics C1-C6 and a practical activity skills topic C7. Paper 3 assesses content from Topics C1–C3 and C7. Paper 4 assesses content from Topics C4–C6 and C7, with assumed knowledge of Topics C1–C3.",
+        "differences": [
+            "Foundation Tier covers grades 5 to 1, while Higher Tier covers grades 9 to 4.",
+            "Higher Tier includes additional content indicated in bold type."
+        ]
+    },
+    "options": {
+        "has_options": false,
+        "compulsory": [],
+        "optional": []
+    },
+    "texts": {
+        "has_texts": false,
+        "text_locations": [],
+        "extraction_strategy": "incorporated"
+    },
+    "structure_type": "topic-based",
+    "content_overview": {
+        "main_sections": [
+            "Topic C1: Particles",
+            "Topic C2: Elements, compounds and mixtures",
+            "Topic C3: Chemical reactions",
+            "Topic C4: Predicting and identifying reactions and products",
+            "Topic C5: Monitoring and controlling chemical reactions",
+            "Topic C6: Global challenges",
+            "Topic C7: Practical activity skills"
+        ],
+        "organization": "Content is organized into topics with sub-topics, each with summaries, common misconceptions, and tiering information.",
+        "expected_depth": 4
+    },
+    "assessment": {
+        "written_papers": [
+            "Paper 1: Topics C1–C3 and C7",
+            "Paper 2: Topics C4–C6 and C7",
+            "Paper 3: Topics C1–C3 and C7",
+            "Paper 4: Topics C4–C6 and C7"
+        ],
+        "content_mapping": {
+            "Paper 1": "Topics C1–C3 and C7",
+            "Paper 2": "Topics C4–C6 and C7",
+            "Paper 3": "Topics C1–C3 and C7",
+            "Paper 4": "Topics C4–C6 and C7"
+        },
+        "cross_component": true
+    },
+    "known_pattern": "other",
+    "extraction_guidance": "Focus on extracting topic-based content with sub-topics, summaries, and tiering information. Ensure to capture the differences between Foundation and Higher tiers."
+}
+```

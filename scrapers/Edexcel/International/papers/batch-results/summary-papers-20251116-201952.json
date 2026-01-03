@@ -1,0 +1,48 @@
+{
+  "batch_name": "International GCSE Exam Papers Batch",
+  "start_time": "2025-11-16T20:19:52.244649",
+  "end_time": "2025-11-16T20:25:03.210455",
+  "elapsed_seconds": 310.96578669548035,
+  "elapsed_formatted": "5.2 minutes",
+  "summary": {
+    "total": 4,
+    "success": 4,
+    "failed": 0,
+    "total_paper_sets": 41
+  },
+  "results": [
+    {
+      "subject": "IG-Accounting",
+      "status": "success",
+      "paper_sets": 19,
+      "time_seconds": 67.56979203224182
+    },
+    {
+      "subject": "IG-Arabic",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 62.449883222579956
+    },
+    {
+      "subject": "IG-Biology",
+      "status": "success",
+      "paper_sets": 22,
+      "time_seconds": 67.55531454086304
+    },
+    {
+      "subject": "IG-Business",
+      "status": "success",
+      "paper_sets": 0,
+      "time_seconds": 61.4552161693573
+    }
+  ],
+  "checkpoint": {
+    "completed": [
+      "IG-Accounting",
+      "IG-Arabic",
+      "IG-Biology",
+      "IG-Business"
+    ],
+    "failed": []
+  }
+}

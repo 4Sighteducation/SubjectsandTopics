@@ -1,0 +1,186 @@
+{
+  "batch_name": "International A Level Overnight Batch",
+  "start_time": "2025-11-16T09:32:14.051688",
+  "end_time": "2025-11-16T19:06:18.970400",
+  "elapsed_seconds": 34444.91820526123,
+  "elapsed_formatted": "9.6 hours",
+  "summary": {
+    "total": 21,
+    "success": 10,
+    "failed": 11,
+    "total_topics": 1810
+  },
+  "results": [
+    {
+      "code": "IAL-Accounting",
+      "name": "Accounting",
+      "status": "success",
+      "topics": 163,
+      "time_seconds": 80.73551440238953
+    },
+    {
+      "code": "IAL-Arabic",
+      "name": "Arabic",
+      "status": "success",
+      "topics": 114,
+      "time_seconds": 41.32998991012573
+    },
+    {
+      "code": "IAL-Biology",
+      "name": "Biology",
+      "status": "success",
+      "topics": 185,
+      "time_seconds": 90.04634213447571
+    },
+    {
+      "code": "IAL-Business",
+      "name": "Business",
+      "status": "success",
+      "topics": 357,
+      "time_seconds": 136.07732796669006
+    },
+    {
+      "code": "IAL-Chemistry",
+      "name": "Chemistry",
+      "status": "success",
+      "topics": 108,
+      "time_seconds": 56.11930871009827
+    },
+    {
+      "code": "IAL-Economics",
+      "name": "Economics",
+      "status": "timeout",
+      "time_seconds": 360
+    },
+    {
+      "code": "IAL-EnglishLanguage",
+      "name": "English Language",
+      "status": "timeout",
+      "time_seconds": 360
+    },
+    {
+      "code": "IAL-EnglishLiterature",
+      "name": "English Literature",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 25.07621741294861
+    },
+    {
+      "code": "IAL-French",
+      "name": "French",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 15.01986289024353
+    },
+    {
+      "code": "IAL-Geography",
+      "name": "Geography",
+      "status": "success",
+      "topics": 218,
+      "time_seconds": 197.1022708415985
+    },
+    {
+      "code": "IAL-German",
+      "name": "German",
+      "status": "success",
+      "topics": 150,
+      "time_seconds": 62.30784606933594
+    },
+    {
+      "code": "IAL-Greek",
+      "name": "Greek",
+      "status": "success",
+      "topics": 130,
+      "time_seconds": 85.66693615913391
+    },
+    {
+      "code": "IAL-History",
+      "name": "History",
+      "status": "success",
+      "topics": 88,
+      "time_seconds": 75.8392276763916
+    },
+    {
+      "code": "IAL-IT",
+      "name": "Information Technology",
+      "status": "success",
+      "topics": 297,
+      "time_seconds": 141.24437379837036
+    },
+    {
+      "code": "IAL-Law",
+      "name": "Law",
+      "status": "timeout",
+      "time_seconds": 360
+    },
+    {
+      "code": "IAL-Mathematics",
+      "name": "Mathematics",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 124.06830477714539
+    },
+    {
+      "code": "IAL-FurtherMaths",
+      "name": "Further Mathematics",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 17.96225333213806
+    },
+    {
+      "code": "IAL-PureMaths",
+      "name": "Pure Mathematics",
+      "status": "timeout",
+      "time_seconds": 360
+    },
+    {
+      "code": "IAL-Physics",
+      "name": "Physics",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 24.573708534240723
+    },
+    {
+      "code": "IAL-Psychology",
+      "name": "Psychology",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 17.183584451675415
+    },
+    {
+      "code": "IAL-Spanish",
+      "name": "Spanish",
+      "status": "failed",
+      "error": "Unknown error",
+      "time_seconds": 14.792268991470337
+    }
+  ],
+  "checkpoint": {
+    "completed": [
+      "IAL-Accounting",
+      "IAL-Arabic",
+      "IAL-Biology",
+      "IAL-Business",
+      "IAL-Chemistry",
+      "IAL-Geography",
+      "IAL-German",
+      "IAL-Greek",
+      "IAL-History",
+      "IAL-IT"
+    ],
+    "failed": [
+      "IAL-Economics",
+      "IAL-EnglishLanguage",
+      "IAL-EnglishLiterature",
+      "IAL-French",
+      "IAL-Law",
+      "IAL-Mathematics",
+      "IAL-FurtherMaths",
+      "IAL-PureMaths",
+      "IAL-Physics",
+      "IAL-Psychology",
+      "IAL-Spanish"
+    ],
+    "skipped": []
+  }
+}

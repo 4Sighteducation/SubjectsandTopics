@@ -1,0 +1,83 @@
+The chemical industry (CI)
+(d) the Arrhenius equation and the determination M0.4, M2.5, M3.1, M3.2, M3.3, M3.4
+of E and A for a reaction, given data on the rate The Arrhenius equation is given on the Data Sheet.
+a
+constants at different temperatures
+(e) the term rate-determining step; relation between
+rate-determining step and the orders and
+possible mechanism for a reaction
+2
+Equilibrium
+(f) the effect of changes of temperature and M0.3
+pressure (if any) on the magnitude of the
+equilibrium constant;
+the fact that addition of catalysts has no effect on
+the position of equilibrium or the magnitude of
+the equilibrium constant
+(g) the determination of the most economical Data for the industrial process will be given.
+operating conditions for an industrial process
+using principles of equilibrium and rates of
+reaction
+(h) calculations, including units, involving K and M0.0, M2.3
+c
+initial and equilibrium concentrations for
+homogeneous equilibria; • experiments to measure K c
+techniques and procedures for experiments to
+determine equilibrium constants
+Inorganic chemistry and the periodic table
+(i) the chemical reactions occurring during industrial Learners should be able to use given information, no
+processes recall is required.
+(j) the following aspects of nitrogen chemistry: Test for nitrate(V): warm with Devarda’s alloy and
+NaOH.
+(i) bonding in nitrogen gas, ammonia and the Test for ammonium: warm with NaOH.
+ammonium ion In both cases, ammonia is evolved.
+(ii) the appearance and names of the oxides of
+• test-tube or reduced scale reactions of
+nitrogen, N O, NO, NO
+2 2 nitrogen compounds to support CI(j)
+(iii) interconversion of the nitrate(V) ion,
+nitrate(III) ion, ammonium ion, oxides of
+nitrogen
+(iv) tests for nitrate(V) and ammonium ions
+Version 3.0 © OCR 2025
+32 OCR Level 3 Advanced GCE in Chemistry B (Salters)
+The chemical industry (CI)
+Sustainability
+(k) given examples of industrial processes: Learners will be expected to analyse and use given
+information.
+(i) costs of raw materials, energy costs, costs
+associated with plant, co-products and by-
+products
+2
+(ii) the benefits and risks associated with the
+process in terms of benefits to society of the
+product(s) and hazards involved.
+Version 3.0 © OCR 2025
+OCR Level 3 Advanced GCE in Chemistry B (Salters) 33
+Polymers and life (PL)
+The storyline begins with the uses of condensation Finally, aspirin – discussed in WM – is revisited as
+polymers such as nylons and polyesters, introducing the context for a more detailed discussion of mass
+the chemistry of carboxylic acids, phenols, esters, spectrometry, as well as introduction of proton and
+amines and amides, as well as naming of other organic carbon-13 NMR and the use of combined techniques in
+groups. Surgical stitches that ‘disappear’ in the body structural analysis.
+then form the context for discussing hydrolysis of
+polymers. The chemical ideas in this module are:
+2
+The storyline then turns to the chemistry of proteins. • condensation polymers
+Amino acid chemistry, optical isomerism and the
+• organic functional groups
+structure of proteins are introduced in relation to the
+structure of insulin. The storyline then moves to testing • amines and amides
+for glucose in urine as a basis for introducing enzyme
+• acid–base equilibria
+catalysis. Various examples of medicines that work as
+enzyme inhibitors are then used to discuss molecular
+• amino acid and protein chemistry
+recognition.
+• optical isomerism
+The storyline continues with the development
+• enzyme catalysis and molecular recognition
+of models of the DNA and RNA structures and a
+description of the Human Genome project.
+• the structure and function of DNA and RNA
+• structural analysis.

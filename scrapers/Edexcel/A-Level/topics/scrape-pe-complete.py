@@ -112,6 +112,10 @@ def parse_pe_topics(text):
     # Bullet code generation must be stable across re-scrapes so diffs are meaningful.
     # We assign bullet codes per subtopic (not globally), in the order encountered.
     bullet_index_by_subtopic = {}
+    # PDF extraction can occasionally duplicate the same bullet line (e.g. table rows rendered twice).
+    # Production enforces uniqueness on (exam_board_subject_id, topic_level, topic_name),
+    # so we dedupe bullet titles within each subtopic to avoid duplicates like b6 vs b8.
+    seen_bullet_titles_by_subtopic = {}
     
     # Level 0: Components (from Contents or headers)
     components = [
@@ -277,7 +281,14 @@ def parse_pe_topics(text):
                 if not any(skip in title.lower() for skip in ['components are those', 'aspects of performance']):
                     if len(title) > 500:
                         title = title[:497] + '...'
-                    
+
+                    # Dedupe by normalized title within this subtopic
+                    norm_title = title.strip().lower()
+                    seen = seen_bullet_titles_by_subtopic.setdefault(current_subtopic, set())
+                    if norm_title in seen:
+                        continue
+                    seen.add(norm_title)
+
                     bullet_index_by_subtopic[current_subtopic] = bullet_index_by_subtopic.get(current_subtopic, 0) + 1
                     bullet_code = f'{current_subtopic}_b{bullet_index_by_subtopic[current_subtopic]}'
                     topics.append({

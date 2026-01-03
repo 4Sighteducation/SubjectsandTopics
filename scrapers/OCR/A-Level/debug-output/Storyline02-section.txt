@@ -1,0 +1,48 @@
+Developing fuels (DF)
+Energetics
+(d) the terms: exothermic, endothermic, standard Enthalpy change of neutralisation is per mole of
+conditions, (standard) enthalpy change of water formed.
+reaction (∆H), (standard) enthalpy change of
+r
+combustion (∆ H), (standard) enthalpy change of
+c
+formation (∆H), (standard) enthalpy change of
+f 2
+neutralisation (∆ H)
+neut
+(e) the term average bond enthalpy and the relation M2.4
+of bond enthalpy to the length and strength of a Understanding of the meaning of ‘average’ in this
+bond; context is required.
+bond-breaking as an endothermic process and
+bond-making as exothermic;
+the relation of these processes to the overall
+enthalpy change for a reaction
+(f) techniques and procedures for measuring the M0.0, M1.1, M2.3, M3.1, M3.2
+energy transferred when reactions occur in Using the formula: q = mc∆T
+solution (or solids reacting with solutions) or
+when flammable liquids burn; the calculation of PAG3
+enthalpy changes from experimental results • experiments to measure the energy
+transferred when reactions occur in solution
+or when flammable liquids burn
+(g) the determination of enthalpy changes of M0.0, M2.4
+reaction from enthalpy cycles and enthalpy level Including via enthalpy changes of formation,
+diagrams based on Hess’ law combustion and bond enthalpies.
+A statement of Hess’ law is not required.
+• experiments leading to Hess cycles
+Kinetics
+(h) the terms catalyst, catalysis, catalyst poison, See also OZ(g).
+heterogeneous
+(i) a simple model to explain the function of a
+heterogeneous catalyst
+(j) the term cracking; the use of catalysts in cracking Specific examples of catalysts are not required
+processes; techniques and procedures for
+cracking a hydrocarbon vapour over a heated • cracking a hydrocarbon vapour over a heated
+catalyst and testing the product
+catalyst
+Inorganic chemistry and the periodic table
+(k) the origin of atmospheric pollutants from
+a variety of sources: particulates, unburnt
+hydrocarbons, CO, CO , NO , SO ;
+2 x x
+the environmental implications and methods of
+reducing these pollutants
