@@ -1,17 +1,5 @@
-providers = ["python", "node"]
-
 [phases.setup]
 # Ensure Python + pip exist (Railway previously detected only Node, so pip was missing).
 # Keep Node available too because this repo has a package.json.
-nixPkgs = ["pkgs.python311", "pkgs.nodejs_18", "pkgs.nodePackages.npm"]
-
-[phases.install]
-cmds = [
-  "npm i",
-  "python -m pip install --upgrade pip",
-  "python -m pip install --no-cache-dir --upgrade --force-reinstall -r scrapers/requirements.txt",
-]
-
-[start]
-cmd = "cd scrapers && python api-server.py"
+nixPkgs = ["python311", "python311Packages.pip", "nodejs_18", "nodePackages.npm"]
 
