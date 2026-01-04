@@ -1,6 +1,15 @@
+[providers]
+# Force python-only detection so Nixpacks doesn't try `npm i` just because package.json exists.
+python = true
+
 [phases.setup]
 # Ensure Python + pip exist (Railway previously detected only Node, so pip was missing).
 # IMPORTANT: This Railway service runs the Python scraper API (scrapers/api-server.py).
 # We intentionally do NOT install Node here; pulling multiple Node versions can cause nix collisions.
 nixPkgs = ["python311", "python311Packages.pip"]
+
+[phases.install]
+# This repo contains a package.json, but this Railway service does not need Node.
+# Override the default `npm i` install phase with a no-op.
+cmds = ["echo 'Skipping npm install (python-only service)'"]
 
