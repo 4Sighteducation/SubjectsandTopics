@@ -33,9 +33,16 @@ import os
 import re
 import sys
 import time
+from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
 from supabase import create_client
+from dotenv import load_dotenv
+
+# Load local .env (keeps CLI usage simple)
+_env_path = Path(__file__).resolve().parents[1] / ".env"
+if _env_path.exists():
+    load_dotenv(_env_path)
 
 
 def die(msg: str) -> None:
@@ -232,6 +239,64 @@ def main() -> None:
         die("No staging topics found for that staging subject id.")
     print(f"  - staging topics: {len(stg_topics)}")
 
+    # Staging can contain accidental duplicates (especially from AI outputs), commonly at bullet level.
+    # Production enforces uniqueness on (exam_board_subject_id, parent_topic_id, topic_level, topic_name),
+    # so we must de-duplicate BEFORE promoting.
+    def _norm_topic_name(x: Any) -> str:
+        s = str(x or "")
+        s = s.replace("\ufffd", "•").replace("●", "•")
+        s = " ".join(s.split()).strip()
+        return s
+
+    # Merge duplicates by rewiring children to a canonical node, then dropping duplicates.
+    stg_by_id: Dict[str, Dict[str, Any]] = {str(t["id"]): t for t in stg_topics if t.get("id")}
+    children_by_parent: Dict[str, List[str]] = {}
+    for t in stg_topics:
+        pid = t.get("parent_topic_id")
+        if pid:
+            children_by_parent.setdefault(str(pid), []).append(str(t.get("id")))
+
+    canonical_by_key: Dict[tuple, str] = {}
+    dup_ids: List[str] = []
+    # Deterministic canonical pick: lowest topic_code, then lowest UUID string.
+    for t in sorted(
+        (t for t in stg_topics if t.get("id")),
+        key=lambda x: (str(x.get("topic_code") or ""), str(x.get("id") or "")),
+    ):
+        tid = str(t["id"])
+        key = (
+            str(t.get("parent_topic_id") or ""),
+            int(t.get("topic_level") or 0),
+            _norm_topic_name(t.get("topic_name")),
+        )
+        if key not in canonical_by_key:
+            canonical_by_key[key] = tid
+        else:
+            dup_ids.append(tid)
+
+    if dup_ids:
+        # Rewire children of dup nodes -> canonical node
+        for dup_id in dup_ids:
+            dup = stg_by_id.get(dup_id)
+            if not dup:
+                continue
+            key = (
+                str(dup.get("parent_topic_id") or ""),
+                int(dup.get("topic_level") or 0),
+                _norm_topic_name(dup.get("topic_name")),
+            )
+            canon_id = canonical_by_key.get(key)
+            if not canon_id or canon_id == dup_id:
+                continue
+            for child_id in children_by_parent.get(dup_id, []):
+                child = stg_by_id.get(child_id)
+                if child:
+                    child["parent_topic_id"] = canon_id
+        # Drop duplicate nodes from the list
+        before = len(stg_topics)
+        stg_topics = [t for t in stg_topics if str(t.get("id")) not in set(dup_ids)]
+        print(f"  - staging duplicates removed: {before - len(stg_topics)} (rewired children where needed)")
+
     # Compute deterministic sort_order for production inserts/updates.
     # This avoids relying on a staging sort_order column and keeps ordering stable across runs.
     stg_topics_sorted = sorted(
@@ -253,164 +318,54 @@ def main() -> None:
     # - Insert only new topic_codes
     # - Optionally delete removed topic_codes (default: DO NOT delete; it can break existing flashcards)
 
-    # Fetch existing production topics for this subject (id + topic_code)
+    # Fetch existing production topics for this subject (id + topic_code).
+    # We intentionally treat topic_code as the stable identity key for a node.
+    # Matching by (level,name) can incorrectly collapse legitimately distinct nodes that share names.
     prod_rows = (
         sb.table("curriculum_topics")
-        .select("id,topic_code,topic_name,topic_level")
+        .select("id,topic_code")
         .eq("exam_board_subject_id", prod_subject_id)
         .execute()
         .data
         or []
     )
-    prod_id_by_code = {r.get("topic_code"): r.get("id") for r in prod_rows if r.get("topic_code") and r.get("id")}
-    # Production may have older/unstable topic_code values (especially bullets).
-    # Since there is a unique constraint on (exam_board_subject_id, topic_name, topic_level) in production,
-    # we can safely match-and-reuse IDs by (topic_level, normalized topic_name) too.
-    def _norm_name(x: Any) -> str:
-        """
-        Normalize topic names for matching purposes.
-        - Collapses whitespace
-        - Normalizes common bullet prefixes and replacement chars so staging/prod can match
-        """
-        s = str(x or "")
-        # Normalize the Unicode replacement character (often shows up when a bullet '•' is mis-decoded)
-        s = s.replace("\ufffd", "•")
-        # Normalize bullet variants
-        s = s.replace("●", "•")
-        s = " ".join(s.split()).strip()
-        # Strip leading bullet/marker tokens
-        s = re.sub(r"^(?:•|o|-)\s+", "", s, flags=re.IGNORECASE)
-        return s.strip()
-
-    prod_id_by_level_name = {
-        (int(r.get("topic_level") or 0), _norm_name(r.get("topic_name"))): r.get("id")
-        for r in prod_rows
-        if r.get("id") and r.get("topic_name") is not None
+    prod_id_by_code = {
+        r.get("topic_code"): r.get("id") for r in prod_rows if r.get("topic_code") and r.get("id")
     }
 
-    # Build a staging id -> production id mapping based on topic_code, with fallback to (level, name).
-    stg_id_to_prod_id: Dict[str, str] = {}
+    # Upsert topics (pass 1): set parent_topic_id NULL until we patch relations.
+    # Strategy:
+    # - If production already has this topic_code, update that existing row (preserve id).
+    # - Otherwise insert a new row using the staging UUID as the id (deterministic + helps parent mapping).
+    upserts: List[Dict[str, Any]] = []
     for t in stg_topics:
         code = t.get("topic_code")
         stg_id = t.get("id")
         if not code or not stg_id:
             continue
         existing_id = prod_id_by_code.get(code)
-        if existing_id:
-            stg_id_to_prod_id[stg_id] = existing_id
-            continue
-        # Fallback match by (topic_level, topic_name) so we can update older topic_code values in place.
-        lvl = int(t.get("topic_level") or 0)
-        nm = _norm_name(t.get("topic_name"))
-        if nm:
-            by_name_id = prod_id_by_level_name.get((lvl, nm))
-            if by_name_id:
-                stg_id_to_prod_id[stg_id] = by_name_id
-
-    # Upsert topics (pass 1): set parent_topic_id NULL until we patch relations
-    upserts: List[Dict[str, Any]] = []
-    for t in stg_topics:
-        code = t.get("topic_code")
-        if not code:
-            continue
-        prod_id = stg_id_to_prod_id.get(t.get("id"))  # reuse existing if available
         row = {
-            # If we have an existing production row for this code, update it; else insert new without specifying id.
-            **({"id": prod_id} if prod_id else {}),
+            "id": existing_id or stg_id,
             "exam_board_subject_id": prod_subject_id,
             "topic_code": code,
             "topic_name": t.get("topic_name"),
             "topic_level": t.get("topic_level"),
             "parent_topic_id": None,
-            "sort_order": stg_sort_order_by_id.get(str(t.get("id")), 0),
+            "sort_order": stg_sort_order_by_id.get(str(stg_id), 0),
         }
         upserts.append(row)
 
-    # Final safety: if production enforces uniqueness on (exam_board_subject_id, topic_name, topic_level),
-    # ensure we don't attempt to insert duplicates when topic_code has changed.
-    # Convert insert candidates into updates if a matching prod row exists.
-    for row in upserts:
-        if row.get("id"):
+    # De-duplicate any accidental repeated ids (defensive)
+    uniq_by_id: Dict[str, Dict[str, Any]] = {}
+    for r in upserts:
+        rid = str(r.get("id"))
+        if not rid:
             continue
-        lvl = int(row.get("topic_level") or 0)
-        nm = _norm_name(row.get("topic_name"))
-        existing_id = prod_id_by_level_name.get((lvl, nm)) if nm else None
-        if existing_id:
-            row["id"] = existing_id
+        uniq_by_id[rid] = r
+    upserts = list(uniq_by_id.values())
 
-    # Upsert strategy:
-    # - Some production schemas do NOT have a unique constraint on (exam_board_subject_id, topic_code),
-    #   so PostgREST cannot do ON CONFLICT on that pair.
-    # - We therefore:
-    #   1) Upsert existing rows by primary key (id)
-    #   2) Insert new rows (no id specified)
-    existing_rows = [r for r in upserts if r.get("id")]
-    new_rows = [r for r in upserts if not r.get("id")]
-
-    for i in range(0, len(existing_rows), 1000):
-        sb.table("curriculum_topics").upsert(existing_rows[i : i + 1000], on_conflict="id").execute()
-
-    # Insert new rows carefully:
-    # Production enforces uniqueness on (exam_board_subject_id, topic_name, topic_level).
-    # Even after normalization-based matching, there can be encoding differences (e.g., bullet chars) that
-    # prevent ID reuse. Before inserting, try an exact match on (topic_level, topic_name) and convert into
-    # an update to avoid unique constraint violations.
-    truly_new: List[Dict[str, Any]] = []
-    converted_updates: List[Dict[str, Any]] = []
-    def _candidate_names(name: Any) -> List[str]:
-        raw = str(name or "")
-        cands = {raw}
-        # Swap common bullet/replacement variants
-        cands.add(raw.replace("•", "\ufffd"))
-        cands.add(raw.replace("\ufffd", "•"))
-        cands.add(raw.replace("●", "•"))
-        cands.add(raw.replace("●", "\ufffd"))
-        # Also try without a leading bullet marker (some legacy rows may have been stored without it)
-        cands.add(re.sub(r"^(?:•|\ufffd|●|o|-)\s+", "", raw, flags=re.IGNORECASE))
-        # Normalize whitespace versions (defensive)
-        cands = {" ".join(s.split()).strip() for s in cands if s is not None}
-        return [s for s in cands if s]
-
-    # Avoid inserting duplicates within this batch as well (by the production unique key)
-    seen_new_keys = set()
-    filtered_new_rows: List[Dict[str, Any]] = []
-    for r in new_rows:
-        k = (int(r.get("topic_level") or 0), " ".join(str(r.get("topic_name") or "").split()).strip())
-        if k in seen_new_keys:
-            continue
-        seen_new_keys.add(k)
-        filtered_new_rows.append(r)
-
-    for r in filtered_new_rows:
-        try:
-            lvl = int(r.get("topic_level") or 0)
-            name_cands = _candidate_names(r.get("topic_name"))
-            maybe = (
-                sb.table("curriculum_topics")
-                .select("id")
-                .eq("exam_board_subject_id", prod_subject_id)
-                .eq("topic_level", lvl)
-                .in_("topic_name", name_cands)
-                .maybe_single()
-                .execute()
-                .data
-            )
-            if maybe and maybe.get("id"):
-                r2 = dict(r)
-                r2["id"] = maybe["id"]
-                converted_updates.append(r2)
-            else:
-                truly_new.append(r)
-        except Exception:
-            # If we can't verify, be conservative and queue as new (may still fail; we'll surface error).
-            truly_new.append(r)
-
-    if converted_updates:
-        for i in range(0, len(converted_updates), 1000):
-            sb.table("curriculum_topics").upsert(converted_updates[i : i + 1000], on_conflict="id").execute()
-
-    for i in range(0, len(truly_new), 1000):
-        sb.table("curriculum_topics").insert(truly_new[i : i + 1000]).execute()
+    for i in range(0, len(upserts), 1000):
+        sb.table("curriculum_topics").upsert(upserts[i : i + 1000], on_conflict="id").execute()
 
     # Refresh production lookup (need IDs for newly-inserted codes)
     prod_rows2 = (
@@ -424,6 +379,11 @@ def main() -> None:
     prod_id_by_code2 = {r.get("topic_code"): r.get("id") for r in prod_rows2 if r.get("topic_code") and r.get("id")}
 
     # Patch parent_topic_id using mapped IDs.
+    stg_code_by_id = {
+        str(x.get("id")): x.get("topic_code")
+        for x in stg_topics
+        if x.get("id") and x.get("topic_code")
+    }
     parent_updates = 0
     for t in stg_topics:
         code = t.get("topic_code")
@@ -432,15 +392,7 @@ def main() -> None:
         parent_stg_id = t.get("parent_topic_id")
         if not parent_stg_id:
             continue
-        # Resolve parent code via staging id -> staging topic
-        # Build a quick staging id->code map once (lazy init)
-        # Note: small N; O(N^2) is fine but we keep it O(N).
-        parent_code = None
-        # We'll build this map the first time we need it
-        # (safe because Python will keep it in locals for the function)
-        if "stg_code_by_id" not in locals():
-            stg_code_by_id = {x.get("id"): x.get("topic_code") for x in stg_topics}
-        parent_code = stg_code_by_id.get(parent_stg_id)
+        parent_code = stg_code_by_id.get(str(parent_stg_id))
         if not parent_code:
             continue
         child_prod_id = prod_id_by_code2.get(code)

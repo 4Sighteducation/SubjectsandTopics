@@ -125,7 +125,8 @@ class GeographyScraper:
                 .limit(batch_size)
                 .execute()
             )
-            ids = [row['id'] for row in (res.data or []) if 'id' in row]
+            # Supabase can return UUID objects; cast to str for JSON safety
+            ids = [str(row['id']) for row in (res.data or []) if 'id' in row and row['id']]
             if not ids:
                 break
 
@@ -162,16 +163,9 @@ class GeographyScraper:
         if not self.pdf_text:
             return False
         
-        # Clear old topics ONCE
-        print("\n[INFO] Clearing old Geography topics...")
-        try:
-            subject_result = supabase.table('staging_aqa_subjects').select('id').eq('subject_code', 'H481').eq('qualification_type', 'A-Level').eq('exam_board', 'OCR').execute()
-            if subject_result.data:
-                subject_id = subject_result.data[0]['id']
-                deleted = self._clear_old_topics_batched(subject_id)
-                print(f"[OK] Cleared {deleted} old topics for H481")
-        except Exception as e:
-            print(f"[WARN] Could not clear old topics: {e}")
+        # NOTE: We intentionally do NOT attempt to delete-all topics up-front.
+        # Large deletes can hit statement timeouts; instead we upsert per-component
+        # and then delete only structural question nodes as part of upload.
         
         # Process each component
         success_count = 0
@@ -343,6 +337,7 @@ SECTION TEXT:
                 
                 topics = self._parse_hierarchy(ai_output, component['code'])
                 topics = self._collapse_question_nodes(topics)
+                topics = self._dedupe_duplicate_nodes(topics)
                 return topics
                 
             except Exception as e:
@@ -470,6 +465,79 @@ SECTION TEXT:
                 continue
             collapsed.append(by_code[t["code"]])
         return collapsed
+
+    def _dedupe_duplicate_nodes(self, topics: List[Dict]) -> List[Dict]:
+        """
+        De-duplicate accidental repeats from AI output.
+
+        Some specs repeat bullet text; the AI can also duplicate bullets. Production enforces
+        uniqueness among siblings in many cases, so we ensure (parent, level, title) is unique.
+
+        Strategy:
+        - Keep a canonical node (stable: lowest code) for each (parent, level, normalized title)
+        - Re-parent any children of duplicates onto the canonical node
+        - Drop duplicate nodes
+        """
+        if not topics:
+            return topics
+
+        def norm_title(s: str) -> str:
+            s = (s or "").replace("\ufffd", "•").replace("●", "•")
+            s = " ".join(s.split()).strip().lower()
+            return s
+
+        by_code: Dict[str, Dict] = {t["code"]: dict(t) for t in topics}
+        children: Dict[str, List[str]] = {}
+        for t in topics:
+            p = t.get("parent")
+            if p:
+                children.setdefault(p, []).append(t["code"])
+
+        canonical_by_key: Dict[tuple, str] = {}
+        dup_codes: set[str] = set()
+
+        # Deterministic canonical pick: lowest code wins
+        for t in sorted(topics, key=lambda x: str(x.get("code") or "")):
+            code = t.get("code")
+            if not code:
+                continue
+            key = (
+                str(t.get("parent") or ""),
+                int(t.get("level") or 0),
+                norm_title(str(t.get("title") or "")),
+            )
+            if key not in canonical_by_key:
+                canonical_by_key[key] = code
+            else:
+                dup_codes.add(code)
+
+        if not dup_codes:
+            return list(by_code.values())
+
+        # Re-parent children of duplicates to canonical nodes
+        for dup in list(dup_codes):
+            node = by_code.get(dup)
+            if not node:
+                continue
+            key = (
+                str(node.get("parent") or ""),
+                int(node.get("level") or 0),
+                norm_title(str(node.get("title") or "")),
+            )
+            canon = canonical_by_key.get(key)
+            if not canon or canon == dup:
+                continue
+            for child_code in children.get(dup, []):
+                child = by_code.get(child_code)
+                if child:
+                    child["parent"] = canon
+
+        deduped: List[Dict] = []
+        for t in topics:
+            if t["code"] in dup_codes:
+                continue
+            deduped.append(by_code[t["code"]])
+        return deduped
     
     def _upload_component(self, component: Dict, topics: List[Dict]) -> bool:
         """Upload one component to Supabase."""
@@ -487,7 +555,7 @@ SECTION TEXT:
             subject_id = subject_result.data[0]['id']
             print(f"[OK] Subject ID: {subject_id}")
             
-            # Insert topics (don't delete - already cleared at start)
+            # Upsert topics (robust against partial previous runs)
             to_insert = [{
                 'subject_id': subject_id,
                 'topic_code': t['code'],
@@ -496,23 +564,51 @@ SECTION TEXT:
                 'exam_board': 'OCR'
             } for t in topics]
             
-            inserted = supabase.table('staging_aqa_topics').insert(to_insert).execute()
-            print(f"[OK] Uploaded {len(inserted.data)} topics")
+            upserted = supabase.table('staging_aqa_topics').upsert(
+                to_insert,
+                on_conflict='subject_id,topic_code'
+            ).execute()
+            print(f"[OK] Upserted {len(upserted.data or [])} topics")
             
             # Link hierarchy
-            code_to_id = {t['topic_code']: t['id'] for t in inserted.data}
+            # Fetch all rows for this component prefix so we can map codes → ids reliably
+            rows = (
+                supabase.table('staging_aqa_topics')
+                .select('id,topic_code')
+                .eq('subject_id', subject_id)
+                .like('topic_code', f"{component['code']}%")
+                .execute()
+            )
+            code_to_id = {t['topic_code']: t['id'] for t in (rows.data or [])}
             linked = 0
             for topic in topics:
-                if topic['parent']:
-                    parent_id = code_to_id.get(topic['parent'])
-                    child_id = code_to_id.get(topic['code'])
-                    if parent_id and child_id:
-                        supabase.table('staging_aqa_topics').update({
-                            'parent_topic_id': parent_id
-                        }).eq('id', child_id).execute()
-                        linked += 1
+                child_id = code_to_id.get(topic['code'])
+                if not child_id:
+                    continue
+                parent_id = code_to_id.get(topic['parent']) if topic['parent'] else None
+                supabase.table('staging_aqa_topics').update({
+                    'parent_topic_id': parent_id
+                }).eq('id', child_id).execute()
+                linked += 1
             
             print(f"[OK] Linked {linked} relationships")
+
+            # Remove structural "question" nodes (the ones ending with '?') from previous runs
+            try:
+                deleted = (
+                    supabase.table('staging_aqa_topics')
+                    .delete()
+                    .eq('subject_id', subject_id)
+                    .like('topic_code', f"{component['code']}%")
+                    .like('topic_name', '%?%')
+                    .execute()
+                )
+                deleted_count = len(deleted.data or [])
+                if deleted_count:
+                    print(f"[OK] Deleted {deleted_count} structural question nodes")
+            except Exception as e:
+                print(f"[WARN] Could not delete question nodes: {e}")
+
             return True
             
         except Exception as e:
