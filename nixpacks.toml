@@ -1,5 +1,6 @@
 [phases.setup]
 # Ensure Python + pip exist (Railway previously detected only Node, so pip was missing).
-# Keep Node available too because this repo has a package.json.
-nixPkgs = ["python311", "python311Packages.pip", "nodejs_18", "nodePackages.npm"]
+# IMPORTANT: This Railway service runs the Python scraper API (scrapers/api-server.py).
+# We intentionally do NOT install Node here; pulling multiple Node versions can cause nix collisions.
+nixPkgs = ["python311", "python311Packages.pip"]
 
