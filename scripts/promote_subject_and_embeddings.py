@@ -460,6 +460,25 @@ def main() -> None:
     total = len(ctx_rows)
     created = 0
 
+    def upsert_topic_ai_metadata_chunk(rows_chunk: List[Dict[str, Any]], chunk_size: int = 25) -> None:
+        """
+        Supabase/PostgREST can intermittently fail on large payloads (especially embeddings).
+        Upsert in small chunks with retries to handle transient network/TLS issues.
+        """
+        for j in range(0, len(rows_chunk), chunk_size):
+            batch = rows_chunk[j : j + chunk_size]
+            last_err: Exception | None = None
+            for attempt in range(5):
+                try:
+                    sb.table("topic_ai_metadata").upsert(batch, on_conflict="topic_id").execute()
+                    last_err = None
+                    break
+                except Exception as e:
+                    last_err = e
+                    time.sleep(min(8.0, 0.8 * (2**attempt)))
+            if last_err:
+                raise last_err
+
     # Pre-clear existing metadata for topics in this subject (defensive)
     # If IDs changed, this ensures no stale rows remain. If IDs are stable, delete is a no-op because topics were deleted.
     topic_ids = [r["topic_id"] for r in ctx_rows]
@@ -501,7 +520,11 @@ def main() -> None:
                 }
             )
 
-        sb.table("topic_ai_metadata").upsert(upserts, on_conflict="topic_id").execute()
+        # Upsert embeddings in smaller batches to avoid large payload/network issues
+        upsert_topic_ai_metadata_chunk(
+            upserts,
+            chunk_size=min(25, max(5, batch_size // 4)),
+        )
         created += len(upserts)
         print(f"  - upserted embeddings: {created}/{total}")
         time.sleep(0.2)
