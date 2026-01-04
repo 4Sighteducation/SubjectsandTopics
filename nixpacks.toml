@@ -1,6 +1,4 @@
-[providers]
-# Force python-only detection so Nixpacks doesn't try `npm i` just because package.json exists.
-python = true
+providers = ["python"]
 
 [phases.setup]
 # Ensure Python + pip exist (Railway previously detected only Node, so pip was missing).
