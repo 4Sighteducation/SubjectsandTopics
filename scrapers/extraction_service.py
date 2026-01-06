@@ -41,6 +41,8 @@ def normalize_question_number(s: str) -> str:
     s = str(s).strip()
     s = re.sub(r'^(question)\s*', '', s, flags=re.IGNORECASE)
     s = re.sub(r'\s+', '', s)
+    # OCR examiner reports sometimes annotate questions like "1*" — strip the marker.
+    s = s.replace('*', '')
     # Remove leading zeros in numeric groups (e.g. 01.1 -> 1.1)
     s = re.sub(r'^0+(\d)', r'\1', s)
     s = re.sub(r'(?<=\D)0+(\d)', r'\1', s)
@@ -495,6 +497,16 @@ Return as: {"mark_schemes": [...]}'''
         else:
             q_norm = normalize_question_number(q_num)
             matched_id = question_map_norm.get(q_norm)
+
+        if not matched_id:
+            # Best-effort: if mark scheme references only the main question number ("1")
+            # but extracted questions are split into subparts ("1(a)", "1(b)"), attach
+            # to the first matching subpart.
+            if q_norm and q_norm.isdigit():
+                for k, qid in question_map_norm.items():
+                    if k.startswith(q_norm):
+                        matched_id = qid
+                        break
 
         if matched_id:
             # Build clean insert object matching schema

@@ -161,6 +161,15 @@ def extract_paper_endpoint():
         finally:
             if ramp:
                 ramp.set()
+
+        # Guard: if we extracted zero questions, do NOT mark the job "completed".
+        # This is the common cause of the app showing 100% but then "Loading questions..." forever.
+        if not questions or len(questions) == 0:
+            raise RuntimeError(
+                "Extraction produced 0 questions. This PDF may be incompatible or the extractor failed. "
+                "Please retry, or try another paper."
+            )
+
         result['extractions']['questions'] = {
             'count': len(questions),
             'status': 'success'
@@ -169,6 +178,7 @@ def extract_paper_endpoint():
             'status': 'extracting',
             'progress_percentage': 70,
             'current_step': f'Questions extracted ({len(questions)})',
+            'questions_extracted': len(questions),
         })
         
         # Extract mark scheme if available
@@ -193,6 +203,7 @@ def extract_paper_endpoint():
                 'status': 'extracting',
                 'progress_percentage': 90,
                 'current_step': f'Mark scheme processed ({len(mark_schemes)})',
+                'mark_schemes_extracted': len(mark_schemes),
             })
 
         # Extract examiner report insights if available
