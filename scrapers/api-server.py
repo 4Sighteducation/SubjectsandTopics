@@ -11,6 +11,7 @@ import traceback
 from datetime import datetime, timezone
 import threading
 import time
+import re
 
 # Import extraction service
 sys.path.append(os.path.dirname(__file__))
@@ -18,6 +19,32 @@ from extraction_service import extract_questions, extract_mark_scheme, extract_e
 
 app = Flask(__name__)
 CORS(app)  # Allow requests from React Native app
+
+def _sanitize_for_postgres_text(value):
+    """
+    Postgres TEXT cannot contain null bytes. Also strip other control characters
+    that can leak in from binary snippets (while preserving newlines/tabs).
+    """
+    if value is None:
+        return None
+    if isinstance(value, str):
+        s = value
+    else:
+        s = str(value)
+    s = s.replace('\x00', '')
+    s = re.sub(r'[\x01-\x08\x0B\x0C\x0E-\x1F\x7F]', '', s)
+    return s
+
+def _sanitize_patch(obj):
+    if obj is None:
+        return None
+    if isinstance(obj, str):
+        return _sanitize_for_postgres_text(obj)
+    if isinstance(obj, list):
+        return [_sanitize_patch(x) for x in obj]
+    if isinstance(obj, dict):
+        return {k: _sanitize_patch(v) for k, v in obj.items()}
+    return obj
 
 @app.route('/', methods=['GET'])
 def home():
@@ -75,7 +102,7 @@ def extract_paper_endpoint():
             """
             if not extraction_status_id:
                 return
-            sb.table('paper_extraction_status').update(patch).eq('id', extraction_status_id).execute()
+            sb.table('paper_extraction_status').update(_sanitize_patch(patch)).eq('id', extraction_status_id).execute()
 
         def start_progress_ramp(start: int, end: int, step_label: str, interval_seconds: float = 2.0):
             """
@@ -212,13 +239,13 @@ def extract_paper_endpoint():
             if extraction_status_id:
                 from supabase import create_client
                 sb = create_client(os.getenv('SUPABASE_URL'), os.getenv('SUPABASE_SERVICE_KEY'))
-                sb.table('paper_extraction_status').update({
+                sb.table('paper_extraction_status').update(_sanitize_patch({
                     'status': 'failed',
                     'progress_percentage': 0,
                     'current_step': 'Failed',
-                    'error_message': str(e),
+                    'error_message': _sanitize_for_postgres_text(str(e)),
                     'completed_at': datetime.now(timezone.utc).isoformat(),
-                }).eq('id', extraction_status_id).execute()
+                })).eq('id', extraction_status_id).execute()
         except Exception as _inner:
             print(f"[WARN] Failed to update extraction status row: {_inner}")
 

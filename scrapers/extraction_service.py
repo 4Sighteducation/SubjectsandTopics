@@ -10,6 +10,7 @@ import re
 import requests
 import base64
 import io
+import binascii
 from urllib.parse import urlparse
 from pathlib import Path
 from openai import OpenAI
@@ -175,6 +176,19 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
     base = f"{parsed.scheme}://{parsed.netloc}"
     host = (parsed.netloc or "").lower()
 
+    def _supports_brotli() -> bool:
+        try:
+            import brotli  # type: ignore
+            return True
+        except Exception:
+            return False
+
+    def _brotli_decompress(data: bytes) -> bytes:
+        import brotli  # type: ignore
+        return brotli.decompress(data)
+
+    brotli_ok = _supports_brotli()
+
     # Browser-like headers (keep minimal, but enough for most WAFs)
     headers = {
         "User-Agent": (
@@ -186,21 +200,55 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
         "Accept-Language": "en-GB,en;q=0.9",
         "Referer": base + "/",
         "Connection": "keep-alive",
-        # Some WAFs behave better when the client advertises modern encoding support.
-        "Accept-Encoding": "gzip, deflate, br",
+        # Some CDNs will send brotli-compressed PDFs when `br` is requested. If the runtime
+        # doesn't support brotli decoding, the bytes won't start with %PDF and validation fails.
+        # Only advertise `br` when we can actually decode it.
+        "Accept-Encoding": "gzip, deflate" + (", br" if brotli_ok else ""),
     }
 
     sess = requests.Session()
     sess.headers.update(headers)
 
-    def _validate_pdf_bytes(content: bytes, status_code: int) -> bytes:
-        if content[:4] != b"%PDF":
-            # For CCEA, avoid leaking technical details into the app UI.
-            if "ccea.org.uk" in host:
-                raise RuntimeError(CCEA_EXTRACTION_UNAVAILABLE_MESSAGE)
-            snippet = content[:200].decode("utf-8", errors="ignore")
-            raise RuntimeError(f"Downloaded content is not a PDF (got {status_code}). Snippet: {snippet}")
-        return content
+    def _sanitize_debug_text(s: str) -> str:
+        # Postgres TEXT cannot contain null bytes; keep debug messages safe as well.
+        s = s.replace('\x00', '')
+        s = re.sub(r'[\x01-\x08\x0B\x0C\x0E-\x1F\x7F]', '', s)
+        return s
+
+    def _non_pdf_error_message(status_code: int, content: bytes, *, content_type: str | None, content_encoding: str | None) -> str:
+        first16_hex = binascii.hexlify(content[:16]).decode("ascii", errors="ignore")
+        snippet = _sanitize_debug_text(content[:200].decode("utf-8", errors="ignore"))
+        return (
+            f"Downloaded content is not a PDF (got {status_code}). "
+            f"content-type={content_type or 'unknown'} content-encoding={content_encoding or 'none'} "
+            f"first16_hex={first16_hex} snippet={snippet}"
+        )
+
+    def _validate_pdf_response(resp: requests.Response) -> bytes:
+        content = resp.content or b""
+        if content[:4] == b"%PDF":
+            return content
+
+        content_type = resp.headers.get("Content-Type")
+        content_encoding = (resp.headers.get("Content-Encoding") or "").strip().lower() or None
+
+        # Pearson (and some other CDNs) can serve brotli-compressed PDF bytes. If so, decode then validate.
+        if content_encoding == "br":
+            if brotli_ok:
+                try:
+                    decoded = _brotli_decompress(content)
+                    if decoded[:4] == b"%PDF":
+                        return decoded
+                except Exception:
+                    # fall through to error message below
+                    pass
+            raise RuntimeError(_non_pdf_error_message(resp.status_code, content, content_type=content_type, content_encoding=content_encoding))
+
+        # For CCEA, avoid leaking technical details into the app UI.
+        if "ccea.org.uk" in host:
+            raise RuntimeError(CCEA_EXTRACTION_UNAVAILABLE_MESSAGE)
+
+        raise RuntimeError(_non_pdf_error_message(resp.status_code, content, content_type=content_type, content_encoding=content_encoding))
 
     def _download_with_cloudscraper() -> bytes:
         """
@@ -248,7 +296,7 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
                 + (f" [server={server} cf-ray={cf_ray}]" if (server or cf_ray) else "")
             )
         resp2.raise_for_status()
-        return _validate_pdf_bytes(resp2.content, resp2.status_code)
+        return _validate_pdf_response(resp2)
 
     for attempt in range(1, retries + 1):
         try:
@@ -265,7 +313,16 @@ def _download_pdf_bytes(url: str, *, timeout: int = 60, retries: int = 4) -> byt
                         raise RuntimeError(CCEA_EXTRACTION_UNAVAILABLE_MESSAGE) from e
                 raise RuntimeError(f"403 Forbidden (source site blocked download): {url}")
             resp.raise_for_status()
-            return _validate_pdf_bytes(resp.content, resp.status_code)
+            # If we somehow receive brotli-encoded bytes but cannot decode them, retry once without br.
+            if (resp.headers.get("Content-Encoding") or "").strip().lower() == "br" and not brotli_ok:
+                resp = sess.get(
+                    url,
+                    timeout=timeout,
+                    allow_redirects=True,
+                    headers={"Accept-Encoding": "gzip, deflate"},
+                )
+                resp.raise_for_status()
+            return _validate_pdf_response(resp)
         except Exception as e:
             last_err = e
             # exponential backoff (caps at 20s)
