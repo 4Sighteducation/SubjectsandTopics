@@ -11,3 +11,11 @@ nixPkgs = ["python311", "python311Packages.pip"]
 # Override the default `npm i` install phase with a no-op.
 cmds = ["echo 'Skipping npm install (python-only service)'"]
 
+[phases.build]
+# PEP 668: nixpkgs Python is externally-managed; installing via bare `pip install` fails.
+# Install Python deps into a virtualenv that we control, then run the API server using that venv.
+cmds = [
+  "python -m venv /opt/venv",
+  ". /opt/venv/bin/activate && pip install --no-cache-dir -r scrapers/requirements.txt"
+]
+
